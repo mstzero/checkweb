@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Market Signal Hub</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark">MS</div>
+          <div>
+            <h1>Market Signal Hub</h1>
+            <p>Real-time market movement explainer</p>
+          </div>
+        </div>
+        <div class="top-actions">
+          <label class="language-picker">
+            <span id="languageLabel">Dil</span>
+            <select id="languageSelect">
+              <option value="tr">Türkçe</option>
+              <option value="en">English</option>
+            </select>
+          </label>
+          <div class="session-status">
+            <span class="pulse"></span>
+            <span id="liveScanLabel">Live scan</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="ticker-strip" id="tickerStrip"></section>
+      <section class="chart-dock" id="chartDock"></section>
+
+      <main class="dashboard">
+        <aside class="filters panel">
+          <div class="panel-heading">
+            <h2>Filters</h2>
+            <button class="ghost-button" id="resetFilters">Reset</button>
+          </div>
+
+          <label class="filter-block">
+            Asset class
+            <select id="assetClassFilter">
+              <option value="all">All</option>
+              <option value="crypto">Crypto</option>
+              <option value="commodities">Commodities</option>
+              <option value="macro">Macro / FX</option>
+              <option value="equities">Equities</option>
+              <option value="indices">Global Indices</option>
+              <option value="bonds">Bonds / Rates</option>
+              <option value="etf">ETFs</option>
+              <option value="turkey">Turkey</option>
+            </select>
+          </label>
+
+          <label class="filter-block">
+            Time window
+            <select id="windowFilter">
+              <option value="all">All</option>
+              <option value="5">5 min</option>
+              <option value="15">15 min</option>
+              <option value="30">30 min</option>
+              <option value="60">60 min</option>
+            </select>
+          </label>
+
+          <label class="filter-block">
+            Confidence
+            <select id="confidenceFilter">
+              <option value="all">All</option>
+              <option value="high">High</option>
+              <option value="medium-high">Medium-High</option>
+              <option value="medium">Medium</option>
+            </select>
+          </label>
+
+          <label class="filter-toggle">
+            <input type="checkbox" id="watchlistOnly" />
+            Watchlist only
+          </label>
+
+          <div class="rule-box">
+            <span class="label">Detection rule</span>
+            <p>Flags moves above asset threshold or 2x normal volatility, then ranks likely drivers by time, asset relevance, source weight and sentiment match.</p>
+          </div>
+
+          <div class="currency-pairs">
+            <div class="panel-heading">
+              <h2 id="currencyPairsTitle">Currency Pairs</h2>
+              <span class="tiny-badge">FX</span>
+            </div>
+            <div id="currencyPairsList"></div>
+          </div>
+        </aside>
+
+        <section class="main-column">
+          <section class="favorites-panel">
+            <div class="section-header">
+              <div>
+                <h2 id="favoritesTitle">Global Favorites</h2>
+                <p id="favoritesSubtitle">Most watched markets across the world</p>
+              </div>
+            </div>
+            <div class="favorites-grid" id="favoritesGrid"></div>
+          </section>
+
+          <div class="section-header">
+            <div>
+              <h2 id="movingNowTitle">Moving Now</h2>
+              <p id="resultCount">Unusual moves detected across tracked markets</p>
+            </div>
+            <div class="segmented">
+              <button class="segment active" data-sort="impact">Impact</button>
+              <button class="segment" data-sort="latest">Latest</button>
+              <button class="segment" data-sort="change">Move</button>
+            </div>
+          </div>
+
+          <div class="movement-grid" id="movementGrid"></div>
+        </section>
+
+        <aside class="right-column">
+          <section class="panel detail-panel" id="detailPanel"></section>
+          <section class="panel">
+            <div class="panel-heading">
+              <h2 id="calendarTitle">Economic Calendar</h2>
+              <div class="calendar-tabs">
+                <button class="calendar-tab active" data-calendar-range="today">Today</button>
+                <button class="calendar-tab" data-calendar-range="tomorrow">Tomorrow</button>
+                <button class="calendar-tab" data-calendar-range="week">Week</button>
+              </div>
+            </div>
+            <div class="event-calendar" id="eventCalendar"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-heading">
+              <h2 id="newsFeedTitle">High Impact Feed</h2>
+              <span class="tiny-badge" id="newsFeedBadge">AI ranked</span>
+            </div>
+            <div class="news-list" id="newsList"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-heading">
+              <h2 id="watchlistTitle">Watchlist</h2>
+              <span class="tiny-badge" id="watchlistBadge">12 assets</span>
+            </div>
+            <div class="watchlist" id="watchlist"></div>
+          </section>
+        </aside>
+      </main>
+    </div>
+    <div class="news-popover" id="newsPopover" aria-live="polite"></div>
+
+    <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
