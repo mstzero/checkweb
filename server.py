@@ -3,7 +3,9 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import parse_qs, urlencode, urlparse
 from urllib.request import Request, urlopen
 import json
+import math
 import ssl
+import time
 
 
 SYMBOL_MAP = {
@@ -104,7 +106,16 @@ class MarketSignalHandler(SimpleHTTPRequestHandler):
                 }
             )
         except (HTTPError, URLError, TimeoutError, KeyError, TypeError, ValueError) as exc:
-            self.send_json({"error": str(exc), "provider": "mock"}, status=502)
+            self.send_json(
+                {
+                    "provider": "Mock fallback",
+                    "provider_symbol": yahoo_symbol,
+                    "symbol": symbol,
+                    "timeframe": timeframe,
+                    "warning": str(exc),
+                    "bars": self.mock_bars(symbol, timeframe),
+                }
+            )
 
     def to_bars(self, payload):
         result = payload["chart"]["result"][0]
@@ -134,6 +145,43 @@ class MarketSignalHandler(SimpleHTTPRequestHandler):
             )
 
         return bars[-220:]
+
+    def mock_bars(self, symbol, timeframe):
+        minutes_by_timeframe = {"1m": 1, "5m": 5, "15m": 15, "1h": 60, "1D": 1440}
+        minutes = minutes_by_timeframe.get(timeframe, 15)
+        seed = sum(ord(char) for char in symbol) or 100
+        base = 50 + (seed % 500)
+        if symbol in {"BTC", "ETH"}:
+            base *= 180
+        elif symbol in {"GOLD", "DAX", "NIKKEI", "BIST100"}:
+            base *= 25
+        elif symbol in {"EURUSD", "GBPUSD"}:
+            base = 1 + (seed % 15) / 100
+        elif symbol in {"USDTRY"}:
+            base = 40 + (seed % 20) / 10
+
+        now = int(time.time())
+        bars = []
+        close = float(base)
+        for index in range(140):
+            wave = math.sin((index + seed) / 9) * 0.004
+            drift = math.cos((index + seed) / 23) * 0.0015
+            open_price = close
+            close = max(0.0001, close * (1 + wave + drift))
+            spread = max(abs(close - open_price), close * 0.0025)
+            high = max(open_price, close) + spread * 0.7
+            low = min(open_price, close) - spread * 0.7
+            bars.append(
+                {
+                    "time": now - (140 - index) * minutes * 60,
+                    "open": round(open_price, 6),
+                    "high": round(high, 6),
+                    "low": round(low, 6),
+                    "close": round(close, 6),
+                    "volume": int(1000 + abs(close - open_price) * 10000 + ((index * seed) % 5000)),
+                }
+            )
+        return bars
 
     def send_json(self, payload, status=200):
         body = json.dumps(payload).encode("utf-8")
