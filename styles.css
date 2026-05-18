@@ -100,20 +100,29 @@ h1 {
 }
 
 .nav-fund-btn {
-  padding: 8px 14px;
-  border: 1px solid #f59e0b;
-  background: rgba(245, 158, 11, 0.1);
-  color: var(--amber);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 38px;
+  padding: 9px 16px;
+  border: 1px solid rgba(244, 201, 93, 0.95);
+  background: linear-gradient(180deg, rgba(244, 201, 93, 0.2), rgba(244, 201, 93, 0.08));
+  color: #ffe08a;
   border-radius: 8px;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 800;
   text-decoration: none;
-  transition: all 0.2s;
+  box-shadow: 0 0 0 1px rgba(244, 201, 93, 0.08), 0 10px 24px rgba(0, 0, 0, 0.18);
+  transition: background 0.2s, border-color 0.2s, color 0.2s, transform 0.2s, box-shadow 0.2s;
   white-space: nowrap;
 }
+
 .nav-fund-btn:hover {
-  background: rgba(245, 158, 11, 0.2);
-  color: #fbbf24;
+  background: linear-gradient(180deg, rgba(244, 201, 93, 0.28), rgba(244, 201, 93, 0.14));
+  border-color: #ffe08a;
+  color: #fff3bf;
+  transform: translateY(-1px);
+  box-shadow: 0 0 0 1px rgba(244, 201, 93, 0.16), 0 14px 28px rgba(0, 0, 0, 0.22);
 }
 
 .language-picker {
@@ -150,7 +159,7 @@ h1 {
 .ticker-track {
   display: flex;
   min-width: max-content;
-  animation: tickerSlide 34s linear infinite;
+  animation: tickerSlide 78s linear infinite;
 }
 
 .ticker-strip:hover .ticker-track {

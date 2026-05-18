@@ -48,16 +48,18 @@ body { font-family:'Inter',sans-serif; background:var(--bg-primary); color:var(-
 .sort-btn.active { background:var(--accent-blue); color:white; border-color:var(--accent-blue); }
 
 /* Table */
-.table-wrap { overflow-x:auto; border-radius:12px; border:1px solid var(--border); }
-table { width:100%; border-collapse:collapse; font-size:13px; }
-th { text-align:left; padding:10px 14px; border-bottom:1px solid var(--border); color:var(--text-muted); font-weight:600; font-size:11px; text-transform:uppercase; background:var(--bg-card); cursor:pointer; white-space:nowrap; }
+.table-wrap { overflow-x:auto; border-radius:12px; border:1px solid var(--border); box-shadow:0 16px 36px rgba(0,0,0,0.22); }
+table { width:100%; min-width:1880px; border-collapse:collapse; font-size:13px; }
+th { text-align:left; padding:10px 12px; border-bottom:1px solid var(--border); color:var(--text-muted); font-weight:700; font-size:10px; text-transform:uppercase; background:var(--bg-card); cursor:pointer; white-space:nowrap; position:sticky; top:0; z-index:2; }
 th:hover { color:var(--text-primary); }
-td { padding:10px 14px; border-bottom:1px solid rgba(31,41,55,0.5); white-space:nowrap; }
+td { padding:10px 12px; border-bottom:1px solid rgba(31,41,55,0.5); white-space:nowrap; }
 tr:hover td { background:rgba(255,255,255,0.02); cursor:pointer; }
 tr.selected td { background:rgba(59,130,246,0.08); }
 .badge-fire { background:rgba(245,158,11,0.15); color:var(--accent-yellow); padding:2px 8px; border-radius:4px; font-size:11px; }
 .badge-sinyal { background:rgba(16,185,129,0.12); color:var(--accent-green); padding:2px 8px; border-radius:4px; font-size:11px; }
 .badge-normal { color:var(--text-muted); font-size:11px; }
+.num { text-align:right; font-variant-numeric:tabular-nums; }
+.fund-name-cell { max-width:260px; overflow:hidden; text-overflow:ellipsis; }
 
 /* Detail Panel */
 .detail-panel { display:none; background:var(--bg-card); border-radius:16px; border:1px solid var(--border); padding:28px; margin:24px 0; }
@@ -109,8 +111,10 @@ tr.selected td { background:rgba(59,130,246,0.08); }
     <input type="text" class="search-input" id="searchInput" placeholder="🔍 Fon kodu veya adı ara...">
     <button class="sort-btn active" data-sort="nihai_puan">🏆 Nihai Puan</button>
     <button class="sort-btn" data-sort="getiri_1y">📈 1 Yıllık</button>
+    <button class="sort-btn" data-sort="getiri_6a">6 Ay</button>
     <button class="sort-btn" data-sort="sharpe">⭐ Sharpe</button>
-    <button class="sort-btn" data-sort="weekly_flow_pct">💸 Para Girişi</button>
+    <button class="sort-btn" data-sort="weekly_flow_tl">💸 Haftalık Para</button>
+    <button class="sort-btn" data-sort="daily_flow_tl">Günlük Para</button>
     <span class="result-count" id="resultCount"></span>
   </div>
 
@@ -119,8 +123,10 @@ tr.selected td { background:rgba(59,130,246,0.08); }
     <table>
       <thead><tr>
         <th>Sinyal</th><th>Kod</th><th>Fon Adı</th><th>Kategori</th><th>Fiyat</th>
-        <th>1A %</th><th>1Y %</th><th>Net 1Y %</th><th>Sharpe</th>
-        <th>Max DD</th><th>Stres</th><th>Haftalık Akış</th><th>Nihai Puan</th>
+        <th>Yatırımcı</th><th>Portföy</th><th>Günlük Akış</th><th>Haftalık Akış</th>
+        <th>Aylık Akış</th><th>Haftalık Büyüme</th><th>1A %</th><th>3A %</th>
+        <th>6A %</th><th>1Y %</th><th>Net 1Y %</th><th>Stopaj</th>
+        <th>Sharpe</th><th>Max DD</th><th>Stres</th><th>Nihai Puan</th>
       </tr></thead>
       <tbody id="fundsBody"></tbody>
     </table>
@@ -164,8 +170,26 @@ async function loadFunds() {
     renderTable();
   } catch(e) {
     console.error('Funds load failed:', e);
-    document.getElementById('fundsBody').innerHTML = '<tr><td colspan="13" style="text-align:center;padding:48px;color:var(--text-muted)">Veri yüklenemedi. Dosya henüz oluşturulmamış olabilir.</td></tr>';
+    document.getElementById('fundsBody').innerHTML = '<tr><td colspan="21" style="text-align:center;padding:48px;color:var(--text-muted)">Veri yüklenemedi. Dosya henüz oluşturulmamış olabilir.</td></tr>';
   }
+}
+
+function formatTL(v) {
+  if (v == null) return '—';
+  const sign = v < 0 ? '-' : '';
+  const abs = Math.abs(v);
+  if (abs >= 1e9) return sign + (abs / 1e9).toFixed(2) + ' Mr ₺';
+  if (abs >= 1e6) return sign + (abs / 1e6).toFixed(1) + 'M ₺';
+  if (abs >= 1e3) return sign + (abs / 1e3).toFixed(0) + 'K ₺';
+  return sign + abs.toFixed(0) + ' ₺';
+}
+
+function pct(v, digits = 2) {
+  return v != null ? v.toFixed(digits) + '%' : '—';
+}
+
+function tone(v) {
+  return (v || 0) >= 0 ? 'positive' : 'negative';
 }
 
 function populateFilters() {
@@ -225,17 +249,25 @@ function renderTable() {
     return `<tr class="${selectedFund === f.code ? 'selected' : ''}" onclick="selectFund('${f.code}')">
       <td>${sigBadge}</td>
       <td><strong>${f.code}</strong></td>
-      <td style="max-width:200px;overflow:hidden;text-overflow:ellipsis">${(f.name||'').slice(0,60)}</td>
+      <td class="fund-name-cell">${(f.name||'').slice(0,72)}</td>
       <td>${f.category||'—'}</td>
-      <td>${f.price!=null?f.price.toFixed(4):'—'}</td>
-      <td class="${(f.getiri_1a||0)>=0?'positive':'negative'}">${f.getiri_1a!=null?f.getiri_1a.toFixed(2)+'%':'—'}</td>
-      <td class="${(f.getiri_1y||0)>=0?'positive':'negative'}">${f.getiri_1y!=null?f.getiri_1y.toFixed(2)+'%':'—'}</td>
-      <td class="${(f.net_getiri_1y||0)>=0?'positive':'negative'}">${f.net_getiri_1y!=null?f.net_getiri_1y.toFixed(2)+'%':'—'}</td>
-      <td>${f.sharpe!=null?f.sharpe.toFixed(2):'—'}</td>
-      <td class="negative">${f.max_drawdown!=null?f.max_drawdown.toFixed(1)+'%':'—'}</td>
-      <td>${f.stres_skoru!=null?f.stres_skoru.toFixed(1):'—'}</td>
-      <td class="${(f.weekly_flow_pct||0)>=0?'positive':'negative'}">${f.weekly_flow_pct!=null?f.weekly_flow_pct.toFixed(2)+'%':'—'}</td>
-      <td><strong>${f.nihai_puan!=null?f.nihai_puan.toFixed(1):'—'}</strong></td>
+      <td class="num">${f.price!=null?f.price.toFixed(4):'—'}</td>
+      <td class="num">${f.number_of_investors!=null?f.number_of_investors.toLocaleString('tr'):'—'}</td>
+      <td class="num">${formatTL(f.market_cap)}</td>
+      <td class="num ${tone(f.daily_flow_tl)}">${formatTL(f.daily_flow_tl)}</td>
+      <td class="num ${tone(f.weekly_flow_tl)}">${formatTL(f.weekly_flow_tl)}</td>
+      <td class="num ${tone(f.monthly_flow_tl)}">${formatTL(f.monthly_flow_tl)}</td>
+      <td class="num ${tone(f.weekly_flow_pct)}">${pct(f.weekly_flow_pct)}</td>
+      <td class="num ${tone(f.getiri_1a)}">${pct(f.getiri_1a)}</td>
+      <td class="num ${tone(f.getiri_3a)}">${pct(f.getiri_3a)}</td>
+      <td class="num ${tone(f.getiri_6a)}">${pct(f.getiri_6a)}</td>
+      <td class="num ${tone(f.getiri_1y)}">${pct(f.getiri_1y)}</td>
+      <td class="num ${tone(f.net_getiri_1y)}">${pct(f.net_getiri_1y)}</td>
+      <td class="num">${pct(f.stopaj_orani, 1)}</td>
+      <td class="num">${f.sharpe!=null?f.sharpe.toFixed(2):'—'}</td>
+      <td class="num negative">${pct(f.max_drawdown, 1)}</td>
+      <td class="num">${f.stres_skoru!=null?f.stres_skoru.toFixed(1):'—'}</td>
+      <td class="num"><strong>${f.nihai_puan!=null?f.nihai_puan.toFixed(1):'—'}</strong></td>
     </tr>`;
   }).join('');
 }
@@ -259,8 +291,14 @@ function showDetail(code) {
   const stats = [
     ['Fiyat', f.price!=null?f.price.toFixed(4)+' ₺':'—'],
     ['1 Aylık', f.getiri_1a!=null?f.getiri_1a.toFixed(2)+'%':'—', f.getiri_1a>=0],
+    ['3 Aylık', f.getiri_3a!=null?f.getiri_3a.toFixed(2)+'%':'—', f.getiri_3a>=0],
+    ['6 Aylık', f.getiri_6a!=null?f.getiri_6a.toFixed(2)+'%':'—', f.getiri_6a>=0],
     ['1 Yıllık', f.getiri_1y!=null?f.getiri_1y.toFixed(2)+'%':'—', f.getiri_1y>=0],
+    ['Net 1A', f.net_getiri_1a!=null?f.net_getiri_1a.toFixed(2)+'%':'—', (f.net_getiri_1a||0)>=0],
+    ['Net 3A', f.net_getiri_3a!=null?f.net_getiri_3a.toFixed(2)+'%':'—', (f.net_getiri_3a||0)>=0],
+    ['Net 6A', f.net_getiri_6a!=null?f.net_getiri_6a.toFixed(2)+'%':'—', (f.net_getiri_6a||0)>=0],
     ['Net 1Y', f.net_getiri_1y!=null?f.net_getiri_1y.toFixed(2)+'%':'—', (f.net_getiri_1y||0)>=0],
+    ['Stopaj', f.stopaj_orani!=null?f.stopaj_orani.toFixed(1)+'%':'—'],
     ['Portföy', f.market_cap!=null?(f.market_cap/1e6).toFixed(0)+'M ₺':'—'],
     ['Yatırımcı', f.number_of_investors!=null?f.number_of_investors.toLocaleString('tr'):'—'],
     ['Sharpe', f.sharpe!=null?f.sharpe.toFixed(2):'—'],
@@ -275,7 +313,6 @@ function showDetail(code) {
   ).join('');
 
   // Flows
-  const formatTL = (v) => v!=null ? (Math.abs(v)>=1e9?(v/1e9).toFixed(1)+' Milyar ₺':(Math.abs(v)>=1e6?(v/1e6).toFixed(1)+'M ₺':(v/1e3).toFixed(0)+'K ₺')) : '—';
   document.getElementById('dFlows').innerHTML = [
     ['Günlük Para Girişi', formatTL(f.daily_flow_tl), (f.daily_flow_tl||0)>=0],
     ['Haftalık Para Girişi', formatTL(f.weekly_flow_tl), (f.weekly_flow_tl||0)>=0],
