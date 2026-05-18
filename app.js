@@ -1692,8 +1692,29 @@ async function fetchExchangeRates() {
   }
 }
 
+async function fetchCommodityPrices() {
+  try {
+    var resp = await fetch("https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json");
+    if (!resp.ok) throw new Error("CurrencyAPI " + resp.status);
+    var data = await resp.json();
+    var rates = data.usd;
+    if (rates) {
+      // Gold: XAU (troy ounce per USD) -> invert for USD/oz
+      if (rates.xau) {
+        livePriceCache["GOLD"] = { price: 1 / rates.xau, change: 0 };
+      }
+      // Silver: XAG -> invert for USD/oz
+      if (rates.xag) {
+        livePriceCache["SILVER"] = { price: 1 / rates.xag, change: 0 };
+      }
+    }
+  } catch(e) {
+    console.warn("Commodity fetch failed:", e.message);
+  }
+}
+
 async function fetchLivePricesAPI() {
-  await Promise.all([fetchCoinGeckoPrices(), fetchExchangeRates()]);
+  await Promise.all([fetchCoinGeckoPrices(), fetchExchangeRates(), fetchCommodityPrices()]);
 }
 
 function updateLivePrices() {
