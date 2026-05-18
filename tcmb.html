@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TCMB Verileri — Market Signal Hub</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#0a0e17; --panel:#111827; --card:#1a2233; --line:#1f2937;
+  --text:#e5e7eb; --muted:#9ca3af; --soft:#6b7280;
+  --green:#10b981; --red:#ef4444; --blue:#3b82f6; --amber:#f59e0b;
+}
+* { box-sizing:border-box; }
+body { margin:0; font-family:Inter,system-ui,sans-serif; background:var(--bg); color:var(--text); min-height:100vh; }
+.container { max-width:1320px; margin:0 auto; padding:0 20px 36px; }
+.header { padding:16px 0; border-bottom:1px solid var(--line); display:flex; align-items:center; justify-content:space-between; gap:16px; }
+.logo { font-size:24px; font-weight:800; color:var(--text); text-decoration:none; }
+.logo span { color:var(--blue); }
+.header-nav { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+.nav-btn { padding:8px 16px; border-radius:8px; border:1px solid var(--line); background:var(--card); color:var(--muted); font-size:13px; font-weight:700; text-decoration:none; }
+.nav-btn.active { background:var(--blue); color:white; border-color:var(--blue); }
+.header-meta { font-size:12px; color:var(--muted); text-align:right; }
+.hero { padding:26px 0 20px; display:flex; justify-content:space-between; gap:16px; align-items:end; }
+.hero h1 { margin:0 0 6px; font-size:28px; }
+.hero p { margin:0; color:var(--muted); font-size:14px; }
+.source-pill { border:1px solid var(--line); background:var(--panel); border-radius:999px; padding:8px 12px; color:var(--muted); font-size:12px; white-space:nowrap; }
+.metric-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; }
+@media(max-width:980px){ .metric-grid{grid-template-columns:repeat(2,1fr);} .hero{align-items:start; flex-direction:column;} }
+.metric-card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:18px; min-height:154px; }
+.metric-top { display:flex; justify-content:space-between; gap:10px; align-items:start; margin-bottom:12px; }
+.metric-group { color:var(--soft); font-size:11px; font-weight:800; text-transform:uppercase; }
+.metric-code { color:var(--soft); font-size:11px; font-variant-numeric:tabular-nums; }
+.metric-label { font-weight:800; font-size:15px; line-height:1.35; margin-bottom:10px; }
+.metric-value { font-size:30px; font-weight:800; font-variant-numeric:tabular-nums; }
+.metric-unit { font-size:14px; color:var(--muted); margin-left:4px; }
+.metric-date { color:var(--muted); font-size:12px; margin-top:8px; }
+.metric-change { margin-top:10px; font-size:12px; font-weight:700; }
+.positive { color:var(--green); } .negative { color:var(--red); }
+.pending { color:var(--amber); }
+.chart-section { margin-top:18px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:18px; }
+.chart-section h2 { margin:0 0 14px; font-size:18px; }
+.spark-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:14px; }
+@media(max-width:840px){ .spark-grid{grid-template-columns:1fr;} }
+.spark-card { background:rgba(255,255,255,0.025); border:1px solid var(--line); border-radius:8px; padding:14px; }
+.spark-title { display:flex; justify-content:space-between; gap:10px; color:var(--muted); font-size:12px; margin-bottom:10px; }
+.spark { width:100%; height:116px; display:block; }
+.note { margin-top:18px; color:var(--muted); font-size:12px; line-height:1.55; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <a href="index.html" class="logo">Market<span>Signal</span>Hub</a>
+    <div class="header-nav">
+      <a href="index.html" class="nav-btn">Piyasalar</a>
+      <a href="funds.html" class="nav-btn">Fon Analisti</a>
+      <span class="nav-btn active">TCMB</span>
+    </div>
+    <div class="header-meta" id="lastUpdated">—</div>
+  </div>
+
+  <section class="hero">
+    <div>
+      <h1>TCMB Verileri</h1>
+      <p>Kur, faiz ve enflasyon tarafında yatırım kararı için temel resmi göstergeler.</p>
+    </div>
+    <div class="source-pill" id="sourcePill">Kaynak: TCMB EVDS</div>
+  </section>
+
+  <section class="metric-grid" id="metricGrid"></section>
+
+  <section class="chart-section">
+    <h2>Son Gözlemler</h2>
+    <div class="spark-grid" id="sparkGrid"></div>
+    <p class="note">API anahtarı GitHub Actions secret olarak tanımlandıktan sonra bu sayfa günlük otomatik güncellenir. Veriler TCMB EVDS kaynaklıdır.</p>
+  </section>
+</div>
+
+<script>
+const fmt = (value, decimals = 2) => value == null ? "—" : Number(value).toLocaleString("tr-TR", {
+  minimumFractionDigits: decimals,
+  maximumFractionDigits: decimals
+});
+
+function tone(value) {
+  if (value == null || value === 0) return "";
+  return value > 0 ? "positive" : "negative";
+}
+
+function sparkline(points) {
+  if (!points || points.length < 2) return '<svg class="spark" viewBox="0 0 360 116"><text x="180" y="62" text-anchor="middle" fill="#6b7280" font-size="13">Veri bekleniyor</text></svg>';
+  const values = points.map(p => Number(p.value)).filter(Number.isFinite);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const span = max - min || 1;
+  const coords = points.map((p, i) => {
+    const x = (i / (points.length - 1)) * 340 + 10;
+    const y = 104 - ((Number(p.value) - min) / span) * 92;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+  return `<svg class="spark" viewBox="0 0 360 116">
+    <polyline points="${coords}" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`;
+}
+
+async function loadTCMB() {
+  try {
+    const resp = await fetch("data/tcmb_data.json?t=" + Date.now());
+    const data = await resp.json();
+    document.getElementById("lastUpdated").textContent = data.last_updated ? "Güncelleme: " + data.last_updated : "Güncelleme bekleniyor";
+    document.getElementById("sourcePill").textContent = "Kaynak: " + (data.source || "TCMB EVDS");
+
+    const indicators = data.indicators || [];
+    document.getElementById("metricGrid").innerHTML = indicators.map(item => {
+      const ok = item.status === "ok";
+      const value = ok ? fmt(item.latest_value, item.decimals ?? 2) : "—";
+      const change = ok && item.change != null ? `${item.change > 0 ? "+" : ""}${fmt(item.change, item.decimals ?? 2)} (${item.change_pct > 0 ? "+" : ""}${fmt(item.change_pct, 2)}%)` : (item.status === "pending" ? "Veri bekleniyor" : "Veri alınamadı");
+      return `<article class="metric-card">
+        <div class="metric-top"><span class="metric-group">${item.group || "Gösterge"}</span><span class="metric-code">${item.code}</span></div>
+        <div class="metric-label">${item.label}</div>
+        <div class="metric-value ${ok ? "" : "pending"}">${value}<span class="metric-unit">${item.unit || ""}</span></div>
+        <div class="metric-date">${ok ? item.latest_date : (item.error || "EVDS secret bekleniyor")}</div>
+        <div class="metric-change ${tone(item.change)}">${change}</div>
+      </article>`;
+    }).join("");
+
+    document.getElementById("sparkGrid").innerHTML = indicators.map(item => `
+      <article class="spark-card">
+        <div class="spark-title"><strong>${item.label}</strong><span>${item.code}</span></div>
+        ${sparkline(item.points)}
+      </article>
+    `).join("");
+  } catch (err) {
+    document.getElementById("metricGrid").innerHTML = `<article class="metric-card"><div class="metric-label">TCMB verisi yüklenemedi</div><div class="metric-date">${err.message}</div></article>`;
+  }
+}
+
+loadTCMB();
+</script>
+</body>
+</html>

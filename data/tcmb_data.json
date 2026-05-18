@@ -1,0 +1,42 @@
+{
+  "last_updated": null,
+  "source": "TCMB EVDS",
+  "indicators": [
+    {
+      "code": "TP.DK.USD.A.YTL",
+      "label": "USD/TRY",
+      "group": "Kur",
+      "unit": "TRY",
+      "decimals": 4,
+      "status": "pending",
+      "points": []
+    },
+    {
+      "code": "TP.DK.EUR.A.YTL",
+      "label": "EUR/TRY",
+      "group": "Kur",
+      "unit": "TRY",
+      "decimals": 4,
+      "status": "pending",
+      "points": []
+    },
+    {
+      "code": "TP.APIFON4",
+      "label": "TCMB Ağırlıklı Ortalama Fonlama",
+      "group": "Faiz",
+      "unit": "%",
+      "decimals": 2,
+      "status": "pending",
+      "points": []
+    },
+    {
+      "code": "TP.FG.J0",
+      "label": "TÜFE Endeksi",
+      "group": "Enflasyon",
+      "unit": "Endeks",
+      "decimals": 2,
+      "status": "pending",
+      "points": []
+    }
+  ]
+}
