@@ -26,7 +26,7 @@ body { font-family:'Inter',sans-serif; background:var(--bg-primary); color:var(-
 .header-meta { font-size:12px; color:var(--text-muted); }
 
 /* Top Funds Row */
-.top-funds { display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin:24px 0; }
+.top-funds { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin:24px 0 14px; }
 @media(max-width:900px){ .top-funds{grid-template-columns:repeat(2,1fr);} }
 .top-fund-card { background:var(--bg-card); border-radius:12px; padding:20px; border:1px solid var(--border); cursor:pointer; transition:all 0.2s; }
 .top-fund-card:hover { transform:translateY(-3px); box-shadow:0 8px 24px rgba(0,0,0,0.4); }
@@ -37,6 +37,15 @@ body { font-family:'Inter',sans-serif; background:var(--bg-primary); color:var(-
 .top-stat { font-size:11px; }
 .top-stat-label { color:var(--text-muted); }
 .top-stat-value { font-weight:600; }
+.category-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin:0 0 20px; }
+@media(max-width:900px){ .category-grid{grid-template-columns:repeat(2,1fr);} }
+.category-card { text-align:left; background:rgba(26,34,51,0.78); border:1px solid var(--border); border-radius:10px; padding:14px; color:var(--text-primary); cursor:pointer; transition:all 0.18s; font-family:inherit; }
+.category-card:hover { border-color:rgba(59,130,246,0.75); background:rgba(59,130,246,0.1); transform:translateY(-2px); }
+.category-card.active { border-color:var(--accent-blue); box-shadow:0 0 0 1px rgba(59,130,246,0.25); }
+.category-title { font-size:13px; font-weight:800; margin-bottom:10px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.category-stats { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+.category-stat { font-size:11px; color:var(--text-muted); }
+.category-stat strong { display:block; color:var(--text-primary); font-size:13px; margin-top:2px; font-variant-numeric:tabular-nums; }
 .positive { color:var(--accent-green); } .negative { color:var(--accent-red); }
 
 /* Filters */
@@ -68,6 +77,9 @@ tr.selected td { background:rgba(59,130,246,0.08); }
 .detail-code { font-size:26px; font-weight:800; }
 .detail-name { font-size:14px; color:var(--text-secondary); margin-top:4px; }
 .detail-category { display:inline-block; padding:4px 12px; border-radius:20px; font-size:12px; font-weight:600; margin-top:8px; background:rgba(59,130,246,0.15); color:var(--accent-blue); }
+.source-links { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+.source-link { display:inline-flex; align-items:center; min-height:30px; padding:6px 10px; border-radius:8px; border:1px solid var(--border); color:var(--text-secondary); text-decoration:none; font-size:12px; font-weight:700; }
+.source-link:hover { border-color:var(--accent-blue); color:var(--text-primary); background:rgba(59,130,246,0.1); }
 .detail-close { background:none; border:1px solid var(--border); color:var(--text-secondary); width:32px; height:32px; border-radius:8px; cursor:pointer; font-size:16px; }
 .detail-stats { display:grid; grid-template-columns:repeat(6,1fr); gap:12px; margin-bottom:24px; }
 @media(max-width:900px){ .detail-stats{grid-template-columns:repeat(3,1fr);} }
@@ -101,8 +113,9 @@ tr.selected td { background:rgba(59,130,246,0.08); }
     <div class="header-meta" id="lastUpdated">—</div>
   </div>
 
-  <!-- Top 4 Funds -->
+  <!-- Top Funds -->
   <div class="top-funds" id="topFunds"></div>
+  <div class="category-grid" id="categoryCards"></div>
 
   <!-- Filters -->
   <div class="filters-bar">
@@ -139,6 +152,7 @@ tr.selected td { background:rgba(59,130,246,0.08); }
         <div class="detail-code" id="dCode">—</div>
         <div class="detail-name" id="dName">—</div>
         <div class="detail-category" id="dCategory">—</div>
+        <div class="source-links" id="dLinks"></div>
       </div>
       <button class="detail-close" onclick="closeDetail()">✕</button>
     </div>
@@ -167,6 +181,7 @@ async function loadFunds() {
     document.getElementById('lastUpdated').textContent = 'Güncelleme: ' + (data.last_updated || '—') + ' · ' + data.total_funds + ' fon';
     populateFilters();
     renderTopFunds(data.top_funds || []);
+    renderCategoryCards();
     renderTable();
   } catch(e) {
     console.error('Funds load failed:', e);
@@ -192,6 +207,19 @@ function tone(v) {
   return (v || 0) >= 0 ? 'positive' : 'negative';
 }
 
+function slugifyTR(text) {
+  return (text || '')
+    .toLowerCase()
+    .replaceAll('ğ', 'g').replaceAll('ü', 'u').replaceAll('ş', 's')
+    .replaceAll('ı', 'i').replaceAll('ö', 'o').replaceAll('ç', 'c')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function kapFundUrl(fund) {
+  return 'https://www.kap.org.tr/tr/fon-bildirimleri/' + slugifyTR((fund.code || '') + '-' + (fund.name || ''));
+}
+
 function populateFilters() {
   const sel = document.getElementById('filterCategory');
   CATEGORIES.forEach(cat => {
@@ -203,20 +231,70 @@ function populateFilters() {
 
 function renderTopFunds(top) {
   const grid = document.getElementById('topFunds');
-  const show = top.slice(0, 4);
+  const show = top.slice(0, 3);
   grid.innerHTML = show.map((f, i) => `
     <div class="top-fund-card" onclick="selectFund('${f.code}')">
       <div class="top-fund-rank">🏆 #${i+1} En İyi Fon</div>
       <div class="top-fund-code">${f.code}</div>
       <div class="top-fund-name">${(f.name || '').slice(0, 50)}</div>
       <div class="top-fund-stats">
-        <div class="top-stat"><div class="top-stat-label">1 Yıl</div><div class="top-stat-value ${f.getiri_1y>=0?'positive':'negative'}">${f.getiri_1y!=null?f.getiri_1y.toFixed(2)+'%':'—'}</div></div>
-        <div class="top-stat"><div class="top-stat-label">Sharpe</div><div class="top-stat-value">${f.sharpe!=null?f.sharpe.toFixed(2):'—'}</div></div>
+        <div class="top-stat"><div class="top-stat-label">Son 1 Ay</div><div class="top-stat-value ${tone(f.getiri_1a)}">${pct(f.getiri_1a)}</div></div>
+        <div class="top-stat"><div class="top-stat-label">Yatırımcı</div><div class="top-stat-value">${f.number_of_investors!=null?f.number_of_investors.toLocaleString('tr'):'—'}</div></div>
+        <div class="top-stat"><div class="top-stat-label">Büyüklük</div><div class="top-stat-value">${formatTL(f.market_cap)}</div></div>
         <div class="top-stat"><div class="top-stat-label">Nihai Puan</div><div class="top-stat-value positive">${f.nihai_puan!=null?f.nihai_puan.toFixed(1):'—'}</div></div>
-        <div class="top-stat"><div class="top-stat-label">Max DD</div><div class="top-stat-value negative">${f.max_drawdown!=null?f.max_drawdown.toFixed(1)+'%':'—'}</div></div>
       </div>
     </div>
   `).join('');
+}
+
+function renderCategoryCards() {
+  const grid = document.getElementById('categoryCards');
+  const byCategory = new Map();
+  FUNDS.forEach(f => {
+    const category = f.category || 'Diğer/Sınıflandırılamayan';
+    const item = byCategory.get(category) || { category, count: 0, investors: 0, marketCap: 0, scoreTotal: 0, scoreCount: 0 };
+    item.count += 1;
+    item.investors += Number(f.number_of_investors || 0);
+    item.marketCap += Number(f.market_cap || 0);
+    if (f.nihai_puan != null) {
+      item.scoreTotal += Number(f.nihai_puan || 0);
+      item.scoreCount += 1;
+    }
+    byCategory.set(category, item);
+  });
+
+  const all = [...byCategory.values()].sort((a, b) => b.investors - a.investors);
+  const para = all.find(item => item.category === 'Para Piyasası');
+  const popular = all.filter(item => item.category !== 'Para Piyasası').slice(0, para ? 7 : 8);
+  const cards = para ? [para, ...popular] : popular;
+
+  grid.innerHTML = cards.map(item => `
+    <button class="category-card" data-category="${item.category}">
+      <div class="category-title">${item.category}</div>
+      <div class="category-stats">
+        <div class="category-stat">Fon<strong>${item.count.toLocaleString('tr')}</strong></div>
+        <div class="category-stat">Yatırımcı<strong>${item.investors.toLocaleString('tr')}</strong></div>
+        <div class="category-stat">Büyüklük<strong>${formatTL(item.marketCap)}</strong></div>
+        <div class="category-stat">Ort. Puan<strong>${item.scoreCount ? (item.scoreTotal / item.scoreCount).toFixed(1) : '—'}</strong></div>
+      </div>
+    </button>
+  `).join('');
+
+  document.querySelectorAll('.category-card').forEach(card => {
+    card.addEventListener('click', () => {
+      document.getElementById('filterCategory').value = card.dataset.category || '';
+      renderTable();
+      renderCategoryActiveState();
+    });
+  });
+  renderCategoryActiveState();
+}
+
+function renderCategoryActiveState() {
+  const selectedCategory = document.getElementById('filterCategory').value;
+  document.querySelectorAll('.category-card').forEach(card => {
+    card.classList.toggle('active', card.dataset.category === selectedCategory);
+  });
 }
 
 function getFilteredFunds() {
@@ -286,6 +364,11 @@ function showDetail(code) {
   document.getElementById('dCode').textContent = f.code;
   document.getElementById('dName').textContent = f.name || '';
   document.getElementById('dCategory').textContent = (f.category||'') + ' · ' + (f.is_fx||'');
+  document.getElementById('dLinks').innerHTML = `
+    <a class="source-link" href="https://www.tefas.gov.tr/FonAnaliz.aspx?FonKod=${encodeURIComponent(f.code)}" target="_blank" rel="noopener">TEFAS</a>
+    <a class="source-link" href="${kapFundUrl(f)}" target="_blank" rel="noopener">KAP Fon Sayfası</a>
+    <a class="source-link" href="https://www.kap.org.tr/tr/YatirimFonlari/YF" target="_blank" rel="noopener">KAP Fon Listesi</a>
+  `;
 
   // Stats
   const stats = [
@@ -362,6 +445,7 @@ function closeDetail() {
 
 // Events
 document.getElementById('filterCategory').addEventListener('change', renderTable);
+document.getElementById('filterCategory').addEventListener('change', renderCategoryActiveState);
 document.getElementById('filterFX').addEventListener('change', renderTable);
 document.getElementById('searchInput').addEventListener('input', renderTable);
 document.querySelectorAll('.sort-btn').forEach(btn => {
