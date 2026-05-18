@@ -1645,18 +1645,98 @@ function renderCurrencyPairs() {
   `).join("");
 }
 
+// ===== LIVE PRICE API INTEGRATION =====
+const COINGECKO_IDS = {
+  "BTC": "bitcoin",
+  "ETH": "ethereum",
+  "SOL": "solana",
+  "BNB": "binancecoin",
+  "XRP": "ripple"
+};
+const CRYPTO_SYMBOLS = Object.keys(COINGECKO_IDS);
+
+let lastLiveFetch = 0;
+let livePriceCache = {};
+
+async function fetchCoinGeckoPrices() {
+  const ids = Object.values(COINGECKO_IDS).join(",");
+  try {
+    const resp = await fetch("https://api.coingecko.com/api/v3/simple/price?ids=" + ids + "&vs_currencies=usd&include_24hr_change=true");
+    if (!resp.ok) throw new Error("CoinGecko " + resp.status);
+    const data = await resp.json();
+    CRYPTO_SYMBOLS.forEach(function(sym) {
+      const cg = data[COINGECKO_IDS[sym]];
+      if (cg && cg.usd) {
+        livePriceCache[sym] = { price: cg.usd, change: cg.usd_24h_change || 0 };
+      }
+    });
+  } catch(e) {
+    console.warn("CoinGecko fetch failed:", e.message);
+  }
+}
+
+async function fetchExchangeRates() {
+  try {
+    const resp = await fetch("https://open.er-api.com/v6/latest/USD");
+    if (!resp.ok) throw new Error("ExchangeRate " + resp.status);
+    const data = await resp.json();
+    if (data.rates) {
+      var usdTry = data.rates.TRY || 45;
+      livePriceCache["USDTRY"] = { price: usdTry, change: ((usdTry - 45.5) / 45.5) * 100 };
+      livePriceCache["EURUSD"] = { price: 1 / data.rates.EUR || 1.08, change: 0 };
+      livePriceCache["GBPUSD"] = { price: 1 / data.rates.GBP || 1.27, change: 0 };
+      livePriceCache["USDJPY"] = { price: data.rates.JPY || 158, change: 0 };
+    }
+  } catch(e) {
+    console.warn("ExchangeRate fetch failed:", e.message);
+  }
+}
+
+async function fetchLivePricesAPI() {
+  await Promise.all([fetchCoinGeckoPrices(), fetchExchangeRates()]);
+}
+
 function updateLivePrices() {
-  tickers.forEach((ticker) => {
-    const drift = (Math.random() - 0.48) * ticker.volatility;
-    ticker.price = Math.max(0.0001, ticker.price * (1 + drift));
-    ticker.change = ((ticker.price - ticker.base) / ticker.base) * 100;
-    ticker.history = [...ticker.history.slice(1), ticker.price];
+  var now = Date.now();
+  // Fetch real prices every 30 seconds
+  if (now - lastLiveFetch > 30000) {
+    lastLiveFetch = now;
+    fetchLivePricesAPI().then(function() {
+      applyLivePrices();
+    });
+  }
+  // Also apply cached prices and simulate non-crypto assets
+  applyLivePrices();
+}
+
+function applyLivePrices() {
+  tickers.forEach(function(ticker) {
+    var live = livePriceCache[ticker.symbol];
+    if (live) {
+      // Use real API price
+      ticker.price = live.price;
+      ticker.change = live.change;
+      ticker.base = live.price;
+    } else {
+      // Non-crypto assets: small random drift (placeholder until more APIs added)
+      var drift = (Math.random() - 0.49) * ticker.volatility;
+      ticker.price = Math.max(0.0001, ticker.price * (1 + drift));
+      ticker.change = ((ticker.price - ticker.base) / ticker.base) * 100;
+    }
+    ticker.history = ticker.history.slice(1).concat([ticker.price]);
   });
 
-  currencyPairs.forEach((pair) => {
-    const drift = (Math.random() - 0.5) * 0.0009;
-    pair.price = Math.max(0.0001, pair.price * (1 + drift));
-    pair.change += (Math.random() - 0.5) * 0.03;
+  // Currency pairs: use live cache for those we have
+  currencyPairs.forEach(function(pair) {
+    var live = livePriceCache[pair.symbol];
+    if (live) {
+      pair.price = live.price;
+      pair.change = live.change;
+    } else {
+      var drift = (Math.random() - 0.5) * 0.0009;
+      pair.price = Math.max(0.0001, pair.price * (1 + drift));
+      pair.change += (Math.random() - 0.5) * 0.03;
+    }
   });
 
   updateTickerDom();
