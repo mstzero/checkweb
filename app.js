@@ -1668,23 +1668,6 @@ function convertCurrency(amount, from, to) {
   return amount * fromUsd / toUsd;
 }
 
-function parseCurrencyPair(input) {
-  const clean = (input || "").toUpperCase().replace(/\s+/g, "");
-  if (!clean) return null;
-  if (clean.includes("/")) {
-    const parts = clean.split("/");
-    if (parts.length === 2 && converterCurrencies.includes(parts[0]) && converterCurrencies.includes(parts[1])) {
-      return { from: parts[0], to: parts[1] };
-    }
-  }
-  for (const from of converterCurrencies) {
-    for (const to of converterCurrencies) {
-      if (from !== to && clean === from + to) return { from, to };
-    }
-  }
-  return null;
-}
-
 function renderCurrencyConverter() {
   const fromSelect = document.getElementById("converterFrom");
   const toSelect = document.getElementById("converterTo");
@@ -1704,17 +1687,6 @@ function renderCurrencyConverter() {
   resultEl.textContent = converted == null
     ? "Kur hesaplanamadı"
     : `${amount.toLocaleString("tr-TR", { maximumFractionDigits: 2 })} ${fromSelect.value} = ${converted.toLocaleString("tr-TR", { maximumFractionDigits: 4 })} ${toSelect.value}`;
-}
-
-function applyConverterPairInput() {
-  const parsed = parseCurrencyPair(document.getElementById("converterPair").value);
-  if (!parsed) {
-    renderCurrencyConverter();
-    return;
-  }
-  document.getElementById("converterFrom").value = parsed.from;
-  document.getElementById("converterTo").value = parsed.to;
-  renderCurrencyConverter();
 }
 
 // ===== LIVE PRICE API + YAHOO FINANCE PRICES.JSON INTEGRATION =====
@@ -1904,7 +1876,6 @@ function bindControls() {
     document.getElementById(id).addEventListener("input", renderCurrencyConverter);
     document.getElementById(id).addEventListener("change", renderCurrencyConverter);
   });
-  document.getElementById("converterPair").addEventListener("input", applyConverterPairInput);
 
   document.getElementById("converterSwap").addEventListener("click", () => {
     const fromSelect = document.getElementById("converterFrom");
