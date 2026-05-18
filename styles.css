@@ -207,17 +207,31 @@ h1 {
 }
 
 .index-strip {
-  display: grid;
-  grid-template-columns: repeat(8, minmax(128px, 1fr));
+  display: flex;
+  gap: 0;
+  overflow: hidden;
   border-bottom: 1px solid var(--line);
   background: #0b1412;
+  white-space: nowrap;
+}
+
+.index-track {
+  display: flex;
+  min-width: max-content;
+  animation: tickerSlide 90s linear infinite;
+}
+
+.index-strip:hover .index-track {
+  animation-play-state: paused;
 }
 
 .index-tile {
   display: grid;
   gap: 3px;
+  min-width: 164px;
   padding: 9px 12px;
   border-right: 1px solid var(--line);
+  border-left: 1px solid rgba(255, 255, 255, 0.02);
   background: transparent;
   color: var(--text);
   text-align: left;
@@ -1229,7 +1243,7 @@ select {
   }
 
   .index-strip {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    display: flex;
   }
 
   .dashboard {

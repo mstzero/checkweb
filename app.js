@@ -965,13 +965,14 @@ function renderTickers() {
 function renderIndexStrip() {
   const el = document.getElementById("indexStrip");
   const indices = worldIndexSymbols.map((symbol) => tickers.find((ticker) => ticker.symbol === symbol)).filter(Boolean);
-  el.innerHTML = indices.map((ticker) => `
+  const duplicated = [...indices, ...indices];
+  el.innerHTML = `<div class="index-track">${duplicated.map((ticker) => `
     <button class="index-tile" data-symbol="${ticker.symbol}" title="${t("clickTicker")}">
       <strong>${ticker.symbol}</strong>
       <span class="index-close">${formatPrice(ticker)}</span>
       <small>${ticker.name} · <span class="${toneClass(ticker.change)}">${formatChange(ticker.change)}</span></small>
     </button>
-  `).join("");
+  `).join("")}</div>`;
 
   document.querySelectorAll(".index-tile").forEach((button) => {
     button.addEventListener("click", () => {
