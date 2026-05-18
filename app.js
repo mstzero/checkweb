@@ -1686,7 +1686,7 @@ function renderCurrencyConverter() {
   const converted = convertCurrency(amount, fromSelect.value, toSelect.value);
   resultEl.textContent = converted == null
     ? "Kur hesaplanamadı"
-    : `${amount.toLocaleString("tr-TR", { maximumFractionDigits: 2 })} ${fromSelect.value} = ${converted.toLocaleString("tr-TR", { maximumFractionDigits: 4 })} ${toSelect.value}`;
+    : `${amount.toLocaleString("tr-TR", { maximumFractionDigits: 0 })} ${fromSelect.value} = ${converted.toLocaleString("tr-TR", { maximumFractionDigits: 0 })} ${toSelect.value}`;
 }
 
 // ===== LIVE PRICE API + YAHOO FINANCE PRICES.JSON INTEGRATION =====
