@@ -61,6 +61,10 @@ body { font-family:'Inter',sans-serif; background:var(--bg-primary); color:var(-
 table { width:100%; min-width:1880px; border-collapse:collapse; font-size:13px; }
 th { text-align:left; padding:10px 12px; border-bottom:1px solid var(--border); color:var(--text-muted); font-weight:700; font-size:10px; text-transform:uppercase; background:var(--bg-card); cursor:pointer; white-space:nowrap; position:sticky; top:0; z-index:2; }
 th:hover { color:var(--text-primary); }
+th.sortable { user-select:none; }
+th.sortable::after { content:"↕"; margin-left:6px; color:var(--text-muted); font-size:10px; }
+th.sortable.sort-asc::after { content:"↑"; color:var(--accent-blue); }
+th.sortable.sort-desc::after { content:"↓"; color:var(--accent-blue); }
 td { padding:10px 12px; border-bottom:1px solid rgba(31,41,55,0.5); white-space:nowrap; }
 tr:hover td { background:rgba(255,255,255,0.02); cursor:pointer; }
 tr.selected td { background:rgba(59,130,246,0.08); }
@@ -135,11 +139,27 @@ tr.selected td { background:rgba(59,130,246,0.08); }
   <div class="table-wrap">
     <table>
       <thead><tr>
-        <th>Sinyal</th><th>Kod</th><th>Fon Adı</th><th>Kategori</th><th>Fiyat</th>
-        <th>Yatırımcı</th><th>Portföy</th><th>Günlük Akış</th><th>Haftalık Akış</th>
-        <th>Aylık Akış</th><th>Haftalık Büyüme</th><th>1A %</th><th>3A %</th>
-        <th>6A %</th><th>1Y %</th><th>Net 1Y %</th><th>Stopaj</th>
-        <th>Sharpe</th><th>Max DD</th><th>Stres</th><th>Nihai Puan</th>
+        <th class="sortable" data-sort-key="firsat_sinyali" data-sort-type="text">Sinyal</th>
+        <th class="sortable" data-sort-key="code" data-sort-type="text">Kod</th>
+        <th class="sortable" data-sort-key="name" data-sort-type="text">Fon Adı</th>
+        <th class="sortable" data-sort-key="category" data-sort-type="text">Kategori</th>
+        <th class="sortable" data-sort-key="price">Fiyat</th>
+        <th class="sortable" data-sort-key="number_of_investors">Yatırımcı</th>
+        <th class="sortable" data-sort-key="market_cap">Portföy</th>
+        <th class="sortable" data-sort-key="daily_flow_tl">Günlük Akış</th>
+        <th class="sortable" data-sort-key="weekly_flow_tl">Haftalık Akış</th>
+        <th class="sortable" data-sort-key="monthly_flow_tl">Aylık Akış</th>
+        <th class="sortable" data-sort-key="weekly_flow_pct">Haftalık Büyüme</th>
+        <th class="sortable" data-sort-key="getiri_1a">1A %</th>
+        <th class="sortable" data-sort-key="getiri_3a">3A %</th>
+        <th class="sortable" data-sort-key="getiri_6a">6A %</th>
+        <th class="sortable" data-sort-key="getiri_1y">1Y %</th>
+        <th class="sortable" data-sort-key="net_getiri_1y">Net 1Y %</th>
+        <th class="sortable" data-sort-key="stopaj_orani">Stopaj</th>
+        <th class="sortable" data-sort-key="sharpe">Sharpe</th>
+        <th class="sortable" data-sort-key="max_drawdown">Max DD</th>
+        <th class="sortable" data-sort-key="stres_skoru">Stres</th>
+        <th class="sortable" data-sort-key="nihai_puan">Nihai Puan</th>
       </tr></thead>
       <tbody id="fundsBody"></tbody>
     </table>
@@ -170,6 +190,7 @@ let FUNDS = [];
 let CATEGORIES = [];
 let selectedFund = null;
 let currentSort = 'nihai_puan';
+let currentSortDir = 'desc';
 let mcChart = null;
 
 async function loadFunds() {
@@ -307,17 +328,38 @@ function getFilteredFunds() {
     if (search && !f.code.toLowerCase().includes(search) && !(f.name||'').toLowerCase().includes(search)) return false;
     return true;
   });
-  list.sort((a, b) => {
-    const va = (a[currentSort] != null ? a[currentSort] : -99999);
-    const vb = (b[currentSort] != null ? b[currentSort] : -99999);
-    return vb - va;
-  });
+  list.sort((a, b) => compareFunds(a, b, currentSort, currentSortDir));
   return list;
+}
+
+function compareFunds(a, b, key, dir) {
+  const th = document.querySelector(`th[data-sort-key="${key}"]`);
+  const sortType = th?.dataset.sortType || 'number';
+  const modifier = dir === 'asc' ? 1 : -1;
+  if (sortType === 'text') {
+    const va = String(a[key] || '').toLocaleLowerCase('tr');
+    const vb = String(b[key] || '').toLocaleLowerCase('tr');
+    return va.localeCompare(vb, 'tr') * modifier;
+  }
+  const va = Number(a[key] ?? Number.NEGATIVE_INFINITY);
+  const vb = Number(b[key] ?? Number.NEGATIVE_INFINITY);
+  return (va - vb) * modifier;
+}
+
+function updateSortIndicators() {
+  document.querySelectorAll('th.sortable').forEach(th => {
+    th.classList.toggle('sort-asc', th.dataset.sortKey === currentSort && currentSortDir === 'asc');
+    th.classList.toggle('sort-desc', th.dataset.sortKey === currentSort && currentSortDir === 'desc');
+  });
+  document.querySelectorAll('.sort-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.sort === currentSort);
+  });
 }
 
 function renderTable() {
   const list = getFilteredFunds();
   document.getElementById('resultCount').textContent = list.length + ' fon';
+  updateSortIndicators();
   const tbody = document.getElementById('fundsBody');
   tbody.innerHTML = list.map(f => {
     const sig = f.firsat_sinyali;
@@ -450,9 +492,18 @@ document.getElementById('filterFX').addEventListener('change', renderTable);
 document.getElementById('searchInput').addEventListener('input', renderTable);
 document.querySelectorAll('.sort-btn').forEach(btn => {
   btn.addEventListener('click', function() {
-    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
-    this.classList.add('active');
-    currentSort = this.dataset.sort;
+    const nextSort = this.dataset.sort;
+    currentSortDir = currentSort === nextSort && currentSortDir === 'desc' ? 'asc' : 'desc';
+    currentSort = nextSort;
+    renderTable();
+  });
+});
+
+document.querySelectorAll('th.sortable').forEach(th => {
+  th.addEventListener('click', function() {
+    const nextSort = this.dataset.sortKey;
+    currentSortDir = currentSort === nextSort && currentSortDir === 'desc' ? 'asc' : 'desc';
+    currentSort = nextSort;
     renderTable();
   });
 });

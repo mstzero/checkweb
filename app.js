@@ -260,6 +260,8 @@ const currencyPairs = [
   { symbol: "GBPTRY", price: 52.11, decimals: 2, change: 0.19 }
 ];
 
+const converterCurrencies = ["TRY", "USD", "EUR", "GBP", "JPY"];
+
 const favoriteSymbols = [
   "BTC", "ETH", "GOLD", "OIL", "DXY", "US10Y",
   "ES", "NQ", "SPY", "QQQ", "NVDA", "TSLA",
@@ -1645,6 +1647,76 @@ function renderCurrencyPairs() {
   `).join("");
 }
 
+function getPairPrice(symbol) {
+  return currencyPairs.find((pair) => pair.symbol === symbol)?.price
+    || tickers.find((ticker) => ticker.symbol === symbol)?.price;
+}
+
+function getUsdRate(currency) {
+  if (currency === "USD") return 1;
+  if (currency === "TRY") return getPairPrice("USDTRY");
+  if (currency === "EUR") return 1 / getPairPrice("EURUSD");
+  if (currency === "GBP") return 1 / getPairPrice("GBPUSD");
+  if (currency === "JPY") return 1 / getPairPrice("USDJPY");
+  return null;
+}
+
+function convertCurrency(amount, from, to) {
+  const fromUsd = getUsdRate(from);
+  const toUsd = getUsdRate(to);
+  if (!fromUsd || !toUsd) return null;
+  return amount * fromUsd / toUsd;
+}
+
+function parseCurrencyPair(input) {
+  const clean = (input || "").toUpperCase().replace(/\s+/g, "");
+  if (!clean) return null;
+  if (clean.includes("/")) {
+    const parts = clean.split("/");
+    if (parts.length === 2 && converterCurrencies.includes(parts[0]) && converterCurrencies.includes(parts[1])) {
+      return { from: parts[0], to: parts[1] };
+    }
+  }
+  for (const from of converterCurrencies) {
+    for (const to of converterCurrencies) {
+      if (from !== to && clean === from + to) return { from, to };
+    }
+  }
+  return null;
+}
+
+function renderCurrencyConverter() {
+  const fromSelect = document.getElementById("converterFrom");
+  const toSelect = document.getElementById("converterTo");
+  const resultEl = document.getElementById("converterResult");
+  if (!fromSelect || !toSelect || !resultEl) return;
+
+  if (!fromSelect.options.length) {
+    const options = converterCurrencies.map((currency) => `<option value="${currency}">${currency}</option>`).join("");
+    fromSelect.innerHTML = options;
+    toSelect.innerHTML = options;
+    fromSelect.value = "TRY";
+    toSelect.value = "EUR";
+  }
+
+  const amount = Number(document.getElementById("converterAmount").value || 0);
+  const converted = convertCurrency(amount, fromSelect.value, toSelect.value);
+  resultEl.textContent = converted == null
+    ? "Kur hesaplanamadı"
+    : `${amount.toLocaleString("tr-TR", { maximumFractionDigits: 2 })} ${fromSelect.value} = ${converted.toLocaleString("tr-TR", { maximumFractionDigits: 4 })} ${toSelect.value}`;
+}
+
+function applyConverterPairInput() {
+  const parsed = parseCurrencyPair(document.getElementById("converterPair").value);
+  if (!parsed) {
+    renderCurrencyConverter();
+    return;
+  }
+  document.getElementById("converterFrom").value = parsed.from;
+  document.getElementById("converterTo").value = parsed.to;
+  renderCurrencyConverter();
+}
+
 // ===== LIVE PRICE API + YAHOO FINANCE PRICES.JSON INTEGRATION =====
 const COINGECKO_IDS = {
   "BTC": "bitcoin",
@@ -1694,6 +1766,7 @@ async function loadPricesJSON() {
       });
       pricesLoaded = true;
       applyLivePrices();
+      renderCurrencyConverter();
       console.log("Prices loaded from JSON: " + data.ok + "/" + data.total + " symbols (" + updated + ")");
     }
   } catch(e) {
@@ -1799,6 +1872,7 @@ function applyLivePrices() {
   updateFavoritesDom();
   renderWatchlist();
   renderCurrencyPairs();
+  renderCurrencyConverter();
   if (document.getElementById("chartDock").classList.contains("open")) {
     updateInteractiveChartData();
   }
@@ -1822,7 +1896,23 @@ function bindControls() {
     renderFavorites();
     renderWatchlist();
     renderCurrencyPairs();
+    renderCurrencyConverter();
     renderEventCalendar();
+  });
+
+  ["converterAmount", "converterFrom", "converterTo"].forEach((id) => {
+    document.getElementById(id).addEventListener("input", renderCurrencyConverter);
+    document.getElementById(id).addEventListener("change", renderCurrencyConverter);
+  });
+  document.getElementById("converterPair").addEventListener("input", applyConverterPairInput);
+
+  document.getElementById("converterSwap").addEventListener("click", () => {
+    const fromSelect = document.getElementById("converterFrom");
+    const toSelect = document.getElementById("converterTo");
+    const nextFrom = toSelect.value;
+    toSelect.value = fromSelect.value;
+    fromSelect.value = nextFrom;
+    renderCurrencyConverter();
   });
 
   document.getElementById("resetFilters").addEventListener("click", () => {
@@ -1868,6 +1958,7 @@ renderFavorites();
 renderNews();
 renderWatchlist();
 renderCurrencyPairs();
+renderCurrencyConverter();
 renderEventCalendar();
 bindControls();
 renderMovements();

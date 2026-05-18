@@ -94,6 +94,17 @@
               <span class="tiny-badge">FX</span>
             </div>
             <div id="currencyPairsList"></div>
+            <div class="converter" id="currencyConverter">
+              <div class="converter-title">Converter</div>
+              <div class="converter-grid">
+                <input id="converterAmount" type="number" min="0" step="0.01" value="1000" />
+                <select id="converterFrom"></select>
+                <button id="converterSwap" type="button" title="Swap">⇄</button>
+                <select id="converterTo"></select>
+              </div>
+              <input class="converter-pair-input" id="converterPair" type="text" placeholder="TL/EUR veya EURTL" />
+              <div class="converter-result" id="converterResult">—</div>
+            </div>
           </div>
         </aside>
 

@@ -607,6 +607,66 @@ select {
   font-size: 12px;
 }
 
+.converter {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.converter-title {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.converter-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 74px 34px 74px;
+  gap: 8px;
+  align-items: center;
+}
+
+.converter-grid input,
+.converter-grid select,
+.converter-pair-input {
+  width: 100%;
+  min-height: 34px;
+  border: 1px solid var(--line);
+  background: #0d1513;
+  color: var(--text);
+  border-radius: 8px;
+  padding: 7px 8px;
+  font-size: 12px;
+}
+
+.converter-pair-input {
+  margin-top: 8px;
+}
+
+.converter-grid button {
+  display: grid;
+  place-items: center;
+  min-height: 34px;
+  border: 1px solid var(--line);
+  background: #101a16;
+  color: var(--green);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.converter-result {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  background: rgba(46, 216, 137, 0.08);
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
 .main-column {
   min-width: 0;
 }
