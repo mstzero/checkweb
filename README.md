@@ -4,6 +4,14 @@ Bu klasör, Market Signal Hub için ilk çalışan statik web prototipini içeri
 
 ## Çalıştırma
 
+GitHub Pages statik demo:
+
+```text
+https://mstzero.github.io/checkweb/
+```
+
+GitHub Pages `server.py` çalıştırmaz. Bu yüzden yayınlanan statik sürüm grafiklerde demo/fallback veri kullanır.
+
 Yahoo Finance proxy destekli sürüm:
 
 ```bash
@@ -24,6 +32,7 @@ http://127.0.0.1:4174/
 - Sol tarafta satıcı baskısı, sağ tarafta alıcı baskısı, ortada likidite/fiyat dalgası
 - Alıcı gücü, satıcı gücü, net bias ve kısa akış yorumu
 - Yahoo Finance chart endpoint proxy denemesi, başarısız olursa mock fallback
+- GitHub Pages uyumlu statik fallback modu
 - Periyodik mock fiyat güncellemesi
 - Türkçe / İngilizce arayüz seçimi
 - Sol altta currency pariteleri

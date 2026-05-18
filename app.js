@@ -1056,6 +1056,12 @@ function generateBars(ticker, timeframe = selectedTimeframe) {
 }
 
 async function loadChartBars(ticker, timeframe = selectedTimeframe) {
+  const isStaticPages = window.location.hostname.endsWith("github.io") || !["localhost", "127.0.0.1"].includes(window.location.hostname);
+  if (isStaticPages) {
+    activeChartProvider = "Static demo";
+    return generateBars(ticker, timeframe);
+  }
+
   try {
     const response = await fetch(`/api/yahoo-chart?symbol=${encodeURIComponent(ticker.symbol)}&timeframe=${encodeURIComponent(timeframe)}`);
     if (!response.ok) throw new Error(`Yahoo proxy ${response.status}`);
