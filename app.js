@@ -268,6 +268,9 @@ const favoriteSymbols = [
   "DAX", "NIKKEI", "SHCOMP", "USDTRY", "BIST100", "EURUSD"
 ];
 
+const topTickerClasses = new Set(["crypto", "commodities", "equities"]);
+const worldIndexSymbols = ["ES", "NQ", "DAX", "FTSE", "CAC", "NIKKEI", "SHCOMP", "HSI", "BIST100"];
+
 const watchlistSymbols = ["BTC", "ETH", "GOLD", "OIL", "DXY", "US10Y", "SPY", "QQQ", "NVDA", "TSLA", "USDTRY", "BIST100"];
 
 const economicEvents = [
@@ -941,7 +944,8 @@ function setConfidenceOptions() {
 
 function renderTickers() {
   const el = document.getElementById("tickerStrip");
-  const duplicated = [...tickers, ...tickers];
+  const topTickers = tickers.filter((ticker) => topTickerClasses.has(ticker.class));
+  const duplicated = [...topTickers, ...topTickers];
   el.innerHTML = `<div class="ticker-track">${duplicated.map((ticker) => `
     <button class="ticker" data-symbol="${ticker.symbol}" title="${t("clickTicker")}">
       <div class="symbol"><span>${ticker.symbol}</span><span class="ticker-change ${toneClass(ticker.change)}">${formatChange(ticker.change)}</span></div>
@@ -951,6 +955,25 @@ function renderTickers() {
   `).join("")}</div>`;
 
   document.querySelectorAll(".ticker").forEach((button) => {
+    button.addEventListener("click", () => {
+      selectedTicker = tickers.find((ticker) => ticker.symbol === button.dataset.symbol) || tickers[0];
+      renderChartDock();
+    });
+  });
+}
+
+function renderIndexStrip() {
+  const el = document.getElementById("indexStrip");
+  const indices = worldIndexSymbols.map((symbol) => tickers.find((ticker) => ticker.symbol === symbol)).filter(Boolean);
+  el.innerHTML = indices.map((ticker) => `
+    <button class="index-tile" data-symbol="${ticker.symbol}" title="${t("clickTicker")}">
+      <strong>${ticker.symbol}</strong>
+      <span class="index-close">${formatPrice(ticker)}</span>
+      <small>${ticker.name} · <span class="${toneClass(ticker.change)}">${formatChange(ticker.change)}</span></small>
+    </button>
+  `).join("");
+
+  document.querySelectorAll(".index-tile").forEach((button) => {
     button.addEventListener("click", () => {
       selectedTicker = tickers.find((ticker) => ticker.symbol === button.dataset.symbol) || tickers[0];
       renderChartDock();
@@ -1002,6 +1025,14 @@ function updateTickerDom() {
     changeEl.textContent = formatChange(ticker.change);
     changeEl.className = `ticker-change ${toneClass(ticker.change)}`;
     priceEl.textContent = formatPrice(ticker);
+  });
+
+  document.querySelectorAll(".index-tile").forEach((button) => {
+    const ticker = tickers.find((item) => item.symbol === button.dataset.symbol);
+    if (!ticker) return;
+    button.querySelector(".index-close").textContent = formatPrice(ticker);
+    button.querySelector("small span").textContent = formatChange(ticker.change);
+    button.querySelector("small span").className = toneClass(ticker.change);
   });
 }
 
@@ -1860,6 +1891,7 @@ function bindControls() {
     document.documentElement.lang = currentLanguage;
     updateStaticText();
     renderTickers();
+    renderIndexStrip();
     if (document.getElementById("chartDock").classList.contains("open")) {
       renderChartDock();
     }
@@ -1925,6 +1957,7 @@ function bindControls() {
 
 updateStaticText();
 renderTickers();
+renderIndexStrip();
 renderFavorites();
 renderNews();
 renderWatchlist();

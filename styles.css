@@ -206,6 +206,42 @@ h1 {
   font-size: 11px;
 }
 
+.index-strip {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(128px, 1fr));
+  border-bottom: 1px solid var(--line);
+  background: #0b1412;
+}
+
+.index-tile {
+  display: grid;
+  gap: 3px;
+  padding: 9px 12px;
+  border-right: 1px solid var(--line);
+  background: transparent;
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+
+.index-tile strong {
+  font-size: 12px;
+}
+
+.index-tile .index-close {
+  font-size: 14px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.index-tile small {
+  color: var(--muted);
+  font-size: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .chart-dock {
   display: none;
   border-bottom: 1px solid var(--line);
@@ -1190,6 +1226,10 @@ select {
 
   .ticker-strip {
     display: flex;
+  }
+
+  .index-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .dashboard {
