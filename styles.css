@@ -99,6 +99,23 @@ h1 {
   font-size: 13px;
 }
 
+.nav-fund-btn {
+  padding: 8px 14px;
+  border: 1px solid #f59e0b;
+  background: rgba(245, 158, 11, 0.1);
+  color: var(--amber);
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.nav-fund-btn:hover {
+  background: rgba(245, 158, 11, 0.2);
+  color: #fbbf24;
+}
+
 .language-picker {
   display: flex;
   align-items: center;
