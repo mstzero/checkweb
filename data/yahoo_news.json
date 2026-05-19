@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-05-19 22:13 UTC",
+  "last_updated": "2026-05-19 23:39 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1a78da30-53e1-396a-afe5-e4b0f2111416",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Stocks Fall As Yields Jump; Micron, Sandisk, Astera Rise With Nvidia Earnings Due",
+      "summary": "The stock market fell Tuesday as yields hit new highs, but some AI leaders like Micron and Sandisk rebounded. Nvidia earnings loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-yields-micron-sandisk-astera-labs-nvidia-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ltQyS95h3kce9FtLpGxQ.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/56580ff225f79eb575682a8fa1e1c5fc",
+      "published_at": "2026-05-19T23:34:47Z"
+    },
+    {
+      "id": "7aed35e6-554e-3434-878c-9aa08e88ad1b",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Goldman Sachs set to be named lead left underwriter for SpaceX IPO, source says",
+      "summary": "May 19 () - Goldman Sachs is expected to secure the much-coveted lead left position in Elon Musk's rocket and satellite maker SpaceX's ‌initial public offering, a source familiar with the matter told  ‌on Tuesday. The position refers to the bank that holds the most senior and prominent role ​among all the underwriters of an IPO deal.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-set-named-lead-232035423.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6XRDyyhFYMXy7OxpAzwkdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6699cdbd22bb48cc52b345974c0d2aa9",
+      "published_at": "2026-05-19T23:20:35Z"
+    },
+    {
+      "id": "95bcacaa-6e00-3871-b141-b7e48a0fa9d8",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Stock Market Today, May 19: UiPath Slips as Korea Automation Cloud Launch Tests Regional Enterprise Demand",
+      "summary": "The Korea rollout gives UiPath local cloud infrastructure for enterprises with data-residency needs, making customer adoption and Microsoft-led deployments the next markers for regional cloud revenue.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/19/stock-market-today-may-19-uipath-slips-as-korea-automation-cloud-launch-tests-regional-enterprise-demand/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2G5H3GKtURSM2jMubuSAAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
+      "published_at": "2026-05-19T23:17:40Z"
+    },
+    {
+      "id": "a06f70dc-bb94-3feb-9a80-b98efcf9a928",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia gets unexpected China opening as chip fight intensifies",
+      "summary": "The artificial intelligence revolution has made Nvidia (NVDA) one of the most valuable firms in the world. But for its chief executive, Jensen Huang, the next phase of growth may hinge on something outside the company’s control: whether Washington and Beijing can agree on the rules of the AI chip ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/nvidia-gets-unexpected-china-opening-as-chip-fight-intensifies",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UUW1NcewKjrBPvxd7NgegA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b8f72f35fbfa15cda0a13883b14414d0",
+      "published_at": "2026-05-19T23:08:00Z"
+    },
+    {
+      "id": "aeb97d9c-3ee3-33ab-9dba-71f8e8a43320",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Market Chatter: Chevron, Motiva Cut Motor Oil Feedstock Deliveries as Iran War Disrupts Market",
+      "summary": "Chevron (CVX) and Saudi Aramco-owned Motiva Enterprises have reduced some customer deliveries of Gro",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/market-chatter-chevron-motiva-cut-225454287.html",
+      "thumbnail": "",
+      "published_at": "2026-05-19T22:54:54Z"
+    },
+    {
+      "id": "ecdbddf7-1b15-4adb-9ff7-f621edb2e73f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver in countdown to Nvidia earnings",
+      "summary": "Stocks wavered as Wall Street awaited Nvidia earnings, hoping strong results could offer some relief from ongoing inflation concerns.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-in-countdown-to-nvidia-earnings-222757391.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zIwZw1Gh3uegb3qFEGoPXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/58db1300-e898-11ef-a8bf-1f03f044a9aa",
+      "published_at": "2026-05-19T22:27:57Z"
+    },
+    {
+      "id": "abb91c8a-db35-3f6d-9294-668519d626e7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Upstart Just Applied for a National Bank Charter After a Tough Quarter. Could That Change the AI Lending Story?",
+      "summary": "Upstart is making progress on its recovery, and a bank charter is a new development.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/19/upstart-just-applied-for-a-national-bank-charter-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QVvdBH7tizMouou1Yt_zbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/25b323f08bb2dfdc110733b195224905",
+      "published_at": "2026-05-19T22:20:00Z"
+    },
     {
       "id": "c3e7ddda-341a-396d-b673-bf30ca92084a",
       "asset": "AAPL",
@@ -22,19 +99,8 @@
       "summary": "Responding to Middle East crises and rising oil prices, the United Nations on Tuesday lowered its forecast for global economic growth and raised the prospects for inflation this year.  U.N. economists said global GDP growth is now forecast at 2.5% for 2026, down from 2.7% in January, and they said it could fall to only 2.1% “in a more adverse scenario.”",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/economy/articles/un-lowers-forecast-global-economic-220549829.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W6CNxvpjScCeE2H5GbmrnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/f1c748297f71d009d2c41d66a1e265ea",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RT7eyiTbW5dou1inbtMxRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/7c1eab1ee68913d41d1fb13afb497722",
       "published_at": "2026-05-19T22:05:49Z"
-    },
-    {
-      "id": "1a78da30-53e1-396a-afe5-e4b0f2111416",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Stocks Fall As Yields Jump; Micron, Sandisk, Astera Rise With Nvidia Earnings Due",
-      "summary": "The stock market fell Tuesday as yields hit new highs, but some AI leaders like Micron and Sandisk rebounded. Nvidia earnings loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-yields-micron-sandisk-astera-labs-nvidia-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ltQyS95h3kce9FtLpGxQ.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/56580ff225f79eb575682a8fa1e1c5fc",
-      "published_at": "2026-05-19T22:04:07Z"
     },
     {
       "id": "cba9dea7-8c90-3fc8-b041-21ec162d7f2f",
@@ -46,6 +112,17 @@
       "url": "https://www.bankless.com/read/v1-cryptopunks-trade-original-again",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wtgFgJqerlYcs4CDxwZzVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/b23023f9e35fb414c5ab81c540b7fd8c",
       "published_at": "2026-05-19T22:02:51Z"
+    },
+    {
+      "id": "2c513fe0-9898-3e17-8cf6-8736fa7585a0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Mortgage Rates Surge Above 6% As Iran War Ripples Through Housing Markets Worldwide",
+      "summary": "Mortgage costs are rising sharply across the U.S. and Europe as the economic fallout from the Middle East conflict spreads into global housing markets, increasing pressure on homebuyers and borrowers despite central banks holding interest rates steady. According to a...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/economy/policy/articles/mortgage-rates-surge-above-6-220110813.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1wzkBEFs7u8SCGYSctCoWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/cd1ccd401008c0bbaf60aba2752de98f",
+      "published_at": "2026-05-19T22:01:10Z"
     },
     {
       "id": "0ffd691c-013b-38dc-9dac-3bea6a26dfab",
@@ -103,6 +180,17 @@
       "published_at": "2026-05-19T21:40:24Z"
     },
     {
+      "id": "55a996c4-acc3-34bf-80a9-43b7cbdbbc4d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cracks Are Starting to Appear in the Chip Stock Rally",
+      "summary": "Investors have piled into semiconductor stocks as AI enthusiasm drives markets higher, but rising bond yields and crowded positioning are beginning to raise concerns.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/crowded-semiconductor-trade-nvidia-intel-chip-stocks-392770bc?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PUiBsAzN7ESAEvqfo552wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/88d1e6f68a2b85c8ba3a23a654b4e64b",
+      "published_at": "2026-05-19T21:37:00Z"
+    },
+    {
       "id": "20ea99ac-1869-3d4c-86b0-e48f955b712b",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -114,9 +202,20 @@
       "published_at": "2026-05-19T21:33:00Z"
     },
     {
+      "id": "977983ae-b222-30ec-9711-b8e09fb8ae90",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
+      "summary": "YouTuber Zack Nelson, aka JerryRigEverything, has urged Tesla Inc. CEO Elon Musk to clarify reports of Supervised Tesla Robotaxis reporting crashes in Austin. Supervised Robotaxi Crashes In a post on X on Sunday, Nelson quoted a post by TechCrunch, which...",
+      "source": "Benzinga",
+      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/two-tesla-robotaxi-crashes-austin-213127197.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z88b49zlGO3VMp8oVmPY2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/1501c7a4b5f3a39c7c07c9ab49492db3",
+      "published_at": "2026-05-19T21:31:27Z"
+    },
+    {
       "id": "7850892c-db6c-3a80-a87b-e18c182fb593",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Stock Market Today, May 19: Soaring Treasury Yields Pressure Markets",
       "summary": "Today, May 19, 2026, long-term Treasury yields rose again, rattling U.S. stocks ahead of a pivotal Nvidia earnings test.",
       "source": "Motley Fool",
@@ -126,8 +225,8 @@
     },
     {
       "id": "34fb2f20-5a27-3cec-91fa-60c7d8090bdb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Why Would Anyone Buy SCHB Instead of MAGS?",
       "summary": "The \"Magnificent Seven\" are looking less magnificent in 2026. This low-cost index fund could be a better buy.",
       "source": "Motley Fool",
@@ -136,26 +235,37 @@
       "published_at": "2026-05-19T21:20:00Z"
     },
     {
-      "id": "b4a5515a-8f9a-3a22-9e1e-24ddb015495c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies",
-      "summary": "Recent presidents have stayed away from trading stocks in companies whose fortunes they could lift or scuttle with the stroke of a pen, but Donald Trump smashed that precedent in the first quarter of this year with more than 3,600 buy and sell orders, many of them involving companies whose profits have been directly impacted by his decisions as head of the government.  Among the Trump trades in a recent report filed with a federal ethics agency was as much as $6 million in Nvidia, whose advanced chips Trump approved for sale to China last year.  “If he were defense secretary, he would be committing a crime,” said Richard Painter, the chief White House ethics adviser in the George W. Bush administration and a big critic of congressional trading, too.",
-      "source": "Associated Press",
-      "url": "https://www.yahoo.com/news/articles/trump-discloses-thousands-stock-trades-211954797.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ay63aVhWBoM0EpxgF8IsMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/250a5e30a44ceeba22d919e30f36a220",
-      "published_at": "2026-05-19T21:19:54Z"
+      "id": "10902971-3f75-3bd8-9f63-10fd0b343f64",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Basic Materials Roundup: Market Talk",
+      "summary": "BUSINESS  The latest Market Talks covering Basic Materials. Published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET. 1433 ET – Ongoing negotiations over a prospective deal to end the war in Iran continue to run into the same problems.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-db0e789c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cyzYlbeD0ztX5xNFXkzdPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f1f7030bd4657bcdeae083d9d8e0bf57",
+      "published_at": "2026-05-19T21:11:00Z"
     },
     {
-      "id": "f8a9a84f-b674-37be-b33a-e63bab6c8565",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI Is Supplying Blowout Earnings Again",
-      "summary": "Cisco and Lumentum delivered better-than-expected earnings results this quarter, and their valuations reflect Wall Street’s optimism.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/19/ai-is-supplying-blowout-earnings-again/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxaFcpdKEuAwazQIFFIvwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7256964d8463c38a38cd02e7cfa12ae7",
-      "published_at": "2026-05-19T21:13:36Z"
+      "id": "2b3e0166-d509-3041-b237-2feb33a3273a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on bitcoin, Standard Chartered and more in the latest Market Talks covering Financial Services.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-179b0658?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VAcO2oQJ.AmS35C2Pmjq9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6e6da8ffa6b96b41c4190957164dcb81",
+      "published_at": "2026-05-19T21:06:00Z"
+    },
+    {
+      "id": "a082415e-3909-36ec-801e-257366db0adf",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "summary": "Find insight on oil futures, inflation, Dominion Energy and more in the latest Market Talks covering Energy and Utilities.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-15785cba?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fQ6H8yU0cRmDtDwmC4P4ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/289eeab6ef625ccefb4fd8921574023a",
+      "published_at": "2026-05-19T21:06:00Z"
     },
     {
       "id": "cf8e515e-e2bf-307b-a45b-161671258ba8",
@@ -169,26 +279,15 @@
       "published_at": "2026-05-19T21:05:38Z"
     },
     {
-      "id": "52285a33-cb30-37c0-8fb8-7413e5031b3b",
+      "id": "0cbe4df6-c301-3d30-9d97-07ec92f9dbb4",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Nasdaq, S&P 500 Fall For Third Day as Yields Jump",
-      "summary": "The Nasdaq Composite and the S&P 500 fell for a third consecutive session on Tuesday and Treasury yi",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-third-205840116.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KemtEB6CG4krkJpa4AjedQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
-      "published_at": "2026-05-19T20:58:40Z"
-    },
-    {
-      "id": "1d099bf1-3248-31d2-9333-c24084a7326b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil dips, stocks mixed after Trump holds off on Iran attack",
-      "summary": "Oil prices eased and stocks wavered on Tuesday, with investors tracking a potential deal between the United States and Iran and rising bond yields sounding the alarm on interest rate expectations.Investors are also nervously eyeing rising yields for government bonds in major economies, including the United States and Japan, indicating that investors are selling amid fears inflation will hinder economic growth.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/asian-markets-cautious-oil-dips-030210771.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/99ppe8mAmicztDinhpAEiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/9f58f36f422d6b45959ac798ee9cbb5f",
-      "published_at": "2026-05-19T20:51:10Z"
+      "title": "Spiking Yields — Heard on the Street Recap",
+      "summary": "U.S. stocks retreated as investors debate tech valuations and worry that a prolonged Iran conflict will keep oil prices rising, pushing up inflation.  The global bond selloff is intensifying, putting pressure on government finances and market valuations.  Yields on 10-year U.S. Treasury notes rose for a third straight day, hitting their highest closing level since January 2025.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-19-2026/card/spiking-yields-heard-on-the-street-recap-uxqIJBy1f9Xvgn3IBh1E?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-19T21:00:03Z"
     },
     {
       "id": "3138afc5-d9d9-36a8-a23f-1d60c33cd058",
@@ -202,114 +301,15 @@
       "published_at": "2026-05-19T20:43:05Z"
     },
     {
-      "id": "d44d373d-91a0-378b-90e5-d1c4cd3a95b2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Wall St ends lower as inflation worries push up yields",
-      "summary": "By Sinéad Carew and Ragini Mathur May 19 (Reuters) - Wall Street's main indexes closed lower on Tuesday with the Nasdaq leading declines, after the benchmark 10-year Treasury yield climbed to its",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-eyes-lower-open-130156440.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pdB8Ldg9fgeTbRWw_b52cQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2751e78e6c518cc7c551c0554aabc86e",
-      "published_at": "2026-05-19T20:31:48Z"
-    },
-    {
-      "id": "2e47f5d9-5c15-3c2a-9495-4b08599a0d1d",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "What Nvidia Earnings Mean for VOO and QQQ",
-      "summary": "<p>The world's most valuable company reports Wednesday. Here's what's at stake for VOO, QQQ, and the AI trade.</p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/features/what-nvidia-earnings-mean-voo-and-qqq?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cylYFFFlTjwDyuMZ5gZnTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/dd11098fceb65d0250fa3c1b5e4a3486",
-      "published_at": "2026-05-19T20:26:41Z"
-    },
-    {
-      "id": "ffb4d139-3c04-31df-82ba-8a177af4ff2e",
+      "id": "e20667a4-a8b6-3ab4-a508-777c06b49cf9",
       "asset": "GOLD",
       "asset_name": "Gold",
-      "title": "TSX Closer: Index Down a Second-Straight Session, This Time More Likely On a Local Issue",
-      "summary": "The Toronto Stock Exchange fell again Tuesday, following Friday's tumble ahead of the holiday weeken",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-down-second-201805102.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T20:18:05Z"
-    },
-    {
-      "id": "24023557-00d2-3938-b455-65873dc8eba5",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Anthropic Hires Former OpenAI Researcher Karpathy as AI Talent War Heats Up",
-      "summary": "Elon Musk once called Karpathy one of the top researchers in a specific area of artificial intelligence.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/anthropic-hires-openai-tesla-karpathy-a2931739?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2wSbIn6mcrVZndvBfTYmJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c56f584269281a20bc00aac31882e47b",
-      "published_at": "2026-05-19T20:17:00Z"
-    },
-    {
-      "id": "f041db81-5bb3-38ef-92d5-7963d1212547",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
-      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-said-sam-altman-201100746.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LAdIv3EcwIXW_.Dsaqg3rA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/a7f5424a2c970a86590a16885403bcb9",
-      "published_at": "2026-05-19T20:11:00Z"
-    },
-    {
-      "id": "758feef0-cd3e-36ea-b512-c8bf9be8016e",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Beyond NVIDIA: The Next Phase of the AI Investment Boom",
-      "summary": "We discuss AI infrastructure, quantum computing, and modern warfare ETFs.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/beyond-nvidia-next-phase-ai-200900801.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T20:09:00Z"
-    },
-    {
-      "id": "75fddd57-8455-4d0b-989b-90b1ca4c339d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Treasury yields climb as bond market weighs inflation concerns",
-      "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley and Senior Markets Reporter Ines Ferré gauge the recent climb in the bond market (^TYX, ^TNX, ^FVX) as Treasury yields react to the latest inflation worries and speculation as to whether the Federal Reserve will be able to cut interest rates under new chairman Kevin Warsh.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/treasury-yields-climb-as-bond-market-weighs-inflation-concerns-200826775.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dk2fQZMg_WO6Y8IOl04q9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/b80c4aa0-8453-11ef-b7ff-e5cc2869294b",
-      "published_at": "2026-05-19T20:08:26Z"
-    },
-    {
-      "id": "a9f96fbb-96ac-3ef3-912e-df3410c2da77",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Top Cryptocurrencies Fall; Bitcoin Holds Above $76,000 Level",
-      "summary": "Major digital assets were weaker Tuesday, with Bitcoin (BTC-USD) lower but holding above the $76,000",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-fall-bitcoin-holds-200645362.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T20:06:45Z"
-    },
-    {
-      "id": "eb8116f1-b131-314e-87dc-2dd2244c39ff",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Nissan To Follow Tesla By Possibly Exporting EVs From China To Canada, Report",
-      "summary": "Nissan is considering using the same strategy as Tesla now that Canada has drastically lowered tariffs on Chinese-made electric vehicles. Meanwhile, Chinese EV makers are already angling to break into the Canadian market.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/tesla-nissan-canada-ev-tariffs-mark-carney-donald-trump-byd-geely/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4MfrJhHUe_T9kWu73ZoETw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9e91c9073199db2f983ccc41a76fec90",
-      "published_at": "2026-05-19T20:04:43Z"
-    },
-    {
-      "id": "da8c3abe-a6eb-34c2-bfb7-1e8239487d1d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "summary": "Financial stocks were lower in late Tuesday afternoon trading, with the NYSE Financial Index decreas",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195812566.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T19:58:12Z"
+      "title": "Agnico Eagle Approves $2.4 Billion Investment in Gold Project",
+      "summary": "The Toronto miner’s investment in the Hope Bay project revives a mine in Canada’s Arctic that China had hoped to run.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/americas/agnico-eagle-approves-2-4-billion-investment-in-gold-project-207bdeea?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KAuT6M4jryBYtFOws3iBow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/3ea6f3f9fd1f57f2456d130702c9d0bf",
+      "published_at": "2026-05-19T20:40:00Z"
     }
   ]
 }
