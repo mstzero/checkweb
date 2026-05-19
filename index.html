@@ -105,19 +105,21 @@
                 <button type="button" data-from="TRY" data-to="USD">TL → $</button>
                 <button type="button" data-from="TRY" data-to="EUR">TL → €</button>
               </div>
-              <div class="converter-grid">
-                <label>
+              <div class="converter-card">
+                <label class="converter-row">
                   <span>Tutar</span>
-                <input id="converterAmount" type="number" min="0" step="0.01" value="1000" />
+                  <div>
+                    <input id="converterAmount" type="number" min="0" step="1" value="1000" />
+                    <select id="converterFrom"></select>
+                  </div>
                 </label>
-                <label>
-                  <span>Çevir</span>
-                <select id="converterFrom"></select>
-                </label>
-                <button id="converterSwap" type="button" title="Swap">⇄</button>
-                <label>
-                  <span>Hedef</span>
-                <select id="converterTo"></select>
+                <button class="converter-swap" id="converterSwap" type="button" title="Swap">⇅</button>
+                <label class="converter-row">
+                  <span>Karşılığı</span>
+                  <div>
+                    <input id="converterOutput" type="number" min="0" step="1" value="0" />
+                    <select id="converterTo"></select>
+                  </div>
                 </label>
               </div>
               <div class="converter-result" id="converterResult">—</div>

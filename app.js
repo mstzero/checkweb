@@ -1833,6 +1833,11 @@ function formatCurrencyAmount(value, currency) {
   });
 }
 
+function formatConverterInput(value) {
+  if (!Number.isFinite(value)) return "";
+  return String(Math.round(value));
+}
+
 function setConverterPair(symbol) {
   const fromSelect = document.getElementById("converterFrom");
   const toSelect = document.getElementById("converterTo");
@@ -1841,12 +1846,15 @@ function setConverterPair(symbol) {
   const to = symbol.slice(3);
   if ([...fromSelect.options].some((option) => option.value === from)) fromSelect.value = from;
   if ([...toSelect.options].some((option) => option.value === to)) toSelect.value = to;
+  activeConverterSide = "from";
   renderCurrencyConverter();
 }
 
 function renderCurrencyConverter() {
   const fromSelect = document.getElementById("converterFrom");
   const toSelect = document.getElementById("converterTo");
+  const amountInput = document.getElementById("converterAmount");
+  const outputInput = document.getElementById("converterOutput");
   const resultEl = document.getElementById("converterResult");
   const rateEl = document.getElementById("converterRate");
   if (!fromSelect || !toSelect || !resultEl) return;
@@ -1859,13 +1867,21 @@ function renderCurrencyConverter() {
     toSelect.value = "EUR";
   }
 
-  const amount = Number(document.getElementById("converterAmount").value || 0);
+  let amount = Number(amountInput.value || 0);
+  if (activeConverterSide === "to" && outputInput) {
+    amount = convertCurrency(Number(outputInput.value || 0), toSelect.value, fromSelect.value);
+  }
   const converted = convertCurrency(amount, fromSelect.value, toSelect.value);
   const unitRate = convertCurrency(1, fromSelect.value, toSelect.value);
   if (converted == null || unitRate == null) {
     resultEl.textContent = "Kur hesaplanamadı";
     if (rateEl) rateEl.textContent = "Canlı kur bekleniyor";
     return;
+  }
+  if (activeConverterSide === "to") {
+    amountInput.value = formatConverterInput(amount);
+  } else if (outputInput) {
+    outputInput.value = formatConverterInput(converted);
   }
   resultEl.textContent = `${formatCurrencyAmount(amount, fromSelect.value)} ${fromSelect.value} = ${formatCurrencyAmount(converted, toSelect.value)} ${toSelect.value}`;
   if (rateEl) {
@@ -1890,6 +1906,7 @@ const CRYPTO_SYMBOLS = Object.keys(BINANCE_SYMBOLS);
 let lastLiveFetch = 0;
 let livePriceCache = {};
 let pricesLoaded = false;
+let activeConverterSide = "from";
 
 // Load Yahoo Finance prices from data/prices.json (updated daily via GitHub Actions)
 async function loadPricesJSON() {
@@ -2072,9 +2089,17 @@ function bindControls() {
     renderYahooNewsStrip();
   });
 
-  ["converterAmount", "converterFrom", "converterTo"].forEach((id) => {
-    document.getElementById(id).addEventListener("input", renderCurrencyConverter);
-    document.getElementById(id).addEventListener("change", renderCurrencyConverter);
+  ["converterAmount", "converterOutput", "converterFrom", "converterTo"].forEach((id) => {
+    document.getElementById(id).addEventListener("input", () => {
+      if (id === "converterAmount") activeConverterSide = "from";
+      if (id === "converterOutput") activeConverterSide = "to";
+      renderCurrencyConverter();
+    });
+    document.getElementById(id).addEventListener("change", () => {
+      if (id === "converterAmount") activeConverterSide = "from";
+      if (id === "converterOutput") activeConverterSide = "to";
+      renderCurrencyConverter();
+    });
   });
 
   document.getElementById("converterSwap").addEventListener("click", () => {
@@ -2083,6 +2108,7 @@ function bindControls() {
     const nextFrom = toSelect.value;
     toSelect.value = fromSelect.value;
     fromSelect.value = nextFrom;
+    activeConverterSide = "from";
     renderCurrencyConverter();
   });
 
@@ -2090,6 +2116,7 @@ function bindControls() {
     button.addEventListener("click", () => {
       document.getElementById("converterFrom").value = button.dataset.from;
       document.getElementById("converterTo").value = button.dataset.to;
+      activeConverterSide = "from";
       renderCurrencyConverter();
     });
   });

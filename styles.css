@@ -761,44 +761,71 @@ select {
   color: var(--green);
 }
 
-.converter-grid {
+.converter-card {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 76px 34px 76px;
   gap: 8px;
-  align-items: end;
 }
 
-.converter-grid label {
+.converter-row {
   display: grid;
-  gap: 5px;
-  min-width: 0;
+  gap: 6px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  background: #0b1311;
+  border-radius: 10px;
+}
+
+.converter-row > span {
   color: var(--muted);
   font-size: 10px;
   font-weight: 800;
   text-transform: uppercase;
 }
 
-.converter-grid input,
-.converter-grid select {
-  width: 100%;
-  min-height: 34px;
-  border: 1px solid var(--line);
-  background: #0d1513;
-  color: var(--text);
-  border-radius: 8px;
-  padding: 7px 8px;
-  font-size: 12px;
+.converter-row > div {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 78px;
+  gap: 8px;
+  align-items: center;
 }
 
-.converter-grid button {
+.converter-row input,
+.converter-row select {
+  width: 100%;
+  min-height: 38px;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  border-radius: 0;
+  padding: 0;
+}
+
+.converter-row input {
+  font-size: 22px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.converter-row select {
+  border-left: 1px solid var(--line);
+  padding-left: 8px;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.converter-swap {
   display: grid;
   place-items: center;
+  width: 34px;
   min-height: 34px;
+  margin: -3px auto;
   border: 1px solid var(--line);
   background: #101a16;
   color: var(--green);
-  border-radius: 8px;
+  border-radius: 999px;
   cursor: pointer;
+  position: relative;
+  z-index: 1;
 }
 
 .converter-result {
