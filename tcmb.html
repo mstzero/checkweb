@@ -31,20 +31,23 @@ body { margin:0; font-family:Inter,system-ui,sans-serif; background:var(--bg); c
 .evds-panel h2 { margin:0 0 14px; font-size:18px; }
 .featured-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:12px; }
 @media(max-width:720px){ .featured-grid{grid-template-columns:1fr;} }
-.featured-card { background:rgba(255,255,255,0.025); border:1px solid var(--line); border-radius:8px; padding:14px; }
+.featured-card { display:block; background:rgba(255,255,255,0.025); border:1px solid var(--line); border-radius:8px; padding:14px; color:var(--text); text-decoration:none; transition:border-color .2s, transform .2s; }
+.featured-card:hover { border-color:rgba(59,130,246,.65); transform:translateY(-1px); }
 .featured-label { color:var(--muted); font-size:11px; font-weight:800; text-transform:uppercase; margin-bottom:8px; }
 .featured-title { font-size:14px; font-weight:800; line-height:1.35; min-height:38px; }
 .featured-value { margin-top:10px; font-size:24px; font-weight:800; font-variant-numeric:tabular-nums; }
 .featured-meta { margin-top:6px; color:var(--muted); font-size:12px; }
 .follow-list { display:grid; gap:8px; }
-.follow-item { display:flex; justify-content:space-between; gap:12px; align-items:center; padding:10px 0; border-top:1px solid var(--line); }
+.follow-item { display:flex; justify-content:space-between; gap:12px; align-items:center; padding:10px 0; border-top:1px solid var(--line); color:var(--text); text-decoration:none; }
+.follow-item:hover .follow-name { color:var(--blue); }
 .follow-item:first-child { border-top:0; }
 .follow-name { font-size:13px; font-weight:700; line-height:1.35; }
 .follow-code { color:var(--soft); font-size:11px; font-variant-numeric:tabular-nums; }
 .follow-value { text-align:right; font-size:13px; font-weight:800; white-space:nowrap; font-variant-numeric:tabular-nums; }
 .metric-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; }
 @media(max-width:980px){ .metric-grid{grid-template-columns:repeat(2,1fr);} .hero{align-items:start; flex-direction:column;} }
-.metric-card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:18px; min-height:154px; }
+.metric-card { display:block; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:18px; min-height:154px; color:var(--text); text-decoration:none; }
+.metric-card:hover { border-color:rgba(59,130,246,.55); }
 .metric-top { display:flex; justify-content:space-between; gap:10px; align-items:start; margin-bottom:12px; }
 .metric-group { color:var(--soft); font-size:11px; font-weight:800; text-transform:uppercase; }
 .metric-code { color:var(--soft); font-size:11px; font-variant-numeric:tabular-nums; }
@@ -101,7 +104,7 @@ body { margin:0; font-family:Inter,system-ui,sans-serif; background:var(--bg); c
   <section class="chart-section">
     <h2>Son Gözlemler</h2>
     <div class="spark-grid" id="sparkGrid"></div>
-    <p class="note">API anahtarı GitHub Actions secret olarak tanımlandıktan sonra bu sayfa günlük otomatik güncellenir. Veriler TCMB EVDS kaynaklıdır.</p>
+    <p class="note">Bu bölüm TCMB EVDS3 ana sayfa verilerinden otomatik güncellenir. API anahtarı tanımlanırsa desteklenen seriler için kısa tarihçe de eklenir.</p>
   </section>
 </div>
 
@@ -111,8 +114,13 @@ const fmt = (value, decimals = 2) => value == null ? "—" : Number(value).toLoc
   maximumFractionDigits: decimals
 });
 
-const featuredCodes = ["TP.DK.USD.A.YTL", "TP.DK.EUR.A.YTL", "TP.APIFON4", "TP.FG.J0"];
-const followedCodes = ["TP.DK.USD.A.YTL", "TP.DK.EUR.A.YTL", "TP.FG.J0", "TP.APIFON4"];
+const esc = value => String(value ?? "").replace(/[&<>"']/g, char => ({
+  "&": "&amp;",
+  "<": "&lt;",
+  ">": "&gt;",
+  '"': "&quot;",
+  "'": "&#39;"
+}[char]));
 
 function tone(value) {
   if (value == null || value === 0) return "";
@@ -135,34 +143,36 @@ function sparkline(points) {
   </svg>`;
 }
 
-function renderFeatured(indicators) {
-  const byCode = new Map(indicators.map(item => [item.code, item]));
-  document.getElementById("featuredGrid").innerHTML = featuredCodes.map((code, index) => {
-    const item = byCode.get(code);
-    if (!item) return "";
+function renderFeatured(dashboards, fallbackCards) {
+  const cards = dashboards?.length ? dashboards : fallbackCards;
+  document.getElementById("featuredGrid").innerHTML = (cards || []).slice(0, 6).map((item, index) => {
+    if (item.title) {
+      return `<a class="featured-card" href="${esc(item.url)}" target="_blank" rel="noopener">
+        <div class="featured-label">#${index + 1} Öne Çıkan</div>
+        <div class="featured-title">${esc(item.title)}</div>
+        <div class="featured-meta">${esc(item.chart_title || item.description || "TCMB gösterge paneli")}</div>
+      </a>`;
+    }
     const ok = item.status === "ok";
-    return `<article class="featured-card">
+    return `<a class="featured-card" href="${esc(item.evds_url || "https://evds3.tcmb.gov.tr")}" target="_blank" rel="noopener">
       <div class="featured-label">#${index + 1} Öne Çıkan</div>
-      <div class="featured-title">${item.label}</div>
-      <div class="featured-value ${ok ? "" : "pending"}">${ok ? fmt(item.latest_value, item.decimals ?? 2) : "—"} <span class="metric-unit">${item.unit || ""}</span></div>
-      <div class="featured-meta">${ok ? item.latest_date : "Veri bekleniyor"} · ${item.group || "Gösterge"}</div>
-    </article>`;
+      <div class="featured-title">${esc(item.label)}</div>
+      <div class="featured-value ${ok ? "" : "pending"}">${ok ? fmt(item.latest_value, item.decimals ?? 2) : "—"} <span class="metric-unit">${esc(item.unit || "")}</span></div>
+      <div class="featured-meta">${ok ? esc(item.latest_date) : "Veri bekleniyor"} · ${esc(item.group || "Gösterge")}</div>
+    </a>`;
   }).join("");
 }
 
 function renderFollowed(indicators) {
-  const byCode = new Map(indicators.map(item => [item.code, item]));
-  document.getElementById("followList").innerHTML = followedCodes.map((code) => {
-    const item = byCode.get(code);
-    if (!item) return "";
+  document.getElementById("followList").innerHTML = indicators.slice(0, 8).map((item) => {
     const ok = item.status === "ok";
-    return `<div class="follow-item">
+    return `<a class="follow-item" href="${esc(item.evds_url || "https://evds3.tcmb.gov.tr")}" target="_blank" rel="noopener">
       <div>
-        <div class="follow-name">${item.label}</div>
-        <div class="follow-code">${item.code}</div>
+        <div class="follow-name">${esc(item.label)}</div>
+        <div class="follow-code">${esc(item.code)}</div>
       </div>
-      <div class="follow-value ${ok ? "" : "pending"}">${ok ? fmt(item.latest_value, item.decimals ?? 2) : "—"} ${item.unit || ""}</div>
-    </div>`;
+      <div class="follow-value ${ok ? "" : "pending"}">${ok ? fmt(item.latest_value, item.decimals ?? 2) : "—"} ${esc(item.unit || "")}</div>
+    </a>`;
   }).join("");
 }
 
@@ -174,24 +184,24 @@ async function loadTCMB() {
     document.getElementById("sourcePill").textContent = "Kaynak: " + (data.source || "TCMB EVDS");
 
     const indicators = data.indicators || [];
-    renderFeatured(indicators);
+    renderFeatured(data.home_dashboards || [], data.featured_cards || indicators);
     renderFollowed(indicators);
     document.getElementById("metricGrid").innerHTML = indicators.map(item => {
       const ok = item.status === "ok";
       const value = ok ? fmt(item.latest_value, item.decimals ?? 2) : "—";
       const change = ok && item.change != null ? `${item.change > 0 ? "+" : ""}${fmt(item.change, item.decimals ?? 2)} (${item.change_pct > 0 ? "+" : ""}${fmt(item.change_pct, 2)}%)` : (item.status === "pending" ? "Veri bekleniyor" : "Veri alınamadı");
-      return `<article class="metric-card">
-        <div class="metric-top"><span class="metric-group">${item.group || "Gösterge"}</span><span class="metric-code">${item.code}</span></div>
-        <div class="metric-label">${item.label}</div>
-        <div class="metric-value ${ok ? "" : "pending"}">${value}<span class="metric-unit">${item.unit || ""}</span></div>
-        <div class="metric-date">${ok ? item.latest_date : (item.error || "EVDS secret bekleniyor")}</div>
+      return `<a class="metric-card" href="${esc(item.evds_url || "https://evds3.tcmb.gov.tr")}" target="_blank" rel="noopener">
+        <div class="metric-top"><span class="metric-group">${esc(item.group || "Gösterge")}</span><span class="metric-code">${esc(item.code)}</span></div>
+        <div class="metric-label">${esc(item.label)}</div>
+        <div class="metric-value ${ok ? "" : "pending"}">${value}<span class="metric-unit">${esc(item.unit || "")}</span></div>
+        <div class="metric-date">${ok ? esc(item.latest_date) : (esc(item.error) || "Veri bekleniyor")}</div>
         <div class="metric-change ${tone(item.change)}">${change}</div>
-      </article>`;
+      </a>`;
     }).join("");
 
     document.getElementById("sparkGrid").innerHTML = indicators.map(item => `
       <article class="spark-card">
-        <div class="spark-title"><strong>${item.label}</strong><span>${item.code}</span></div>
+        <div class="spark-title"><strong>${esc(item.label)}</strong><span>${esc(item.code)}</span></div>
         ${sparkline(item.points)}
       </article>
     `).join("");
