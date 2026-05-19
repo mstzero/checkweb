@@ -256,6 +256,70 @@ h1 {
   white-space: nowrap;
 }
 
+.yahoo-news-strip {
+  display: flex;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+  background: #101512;
+  white-space: nowrap;
+}
+
+.yahoo-news-track {
+  display: flex;
+  min-width: max-content;
+  animation: tickerSlide 120s linear infinite;
+}
+
+.yahoo-news-strip:hover .yahoo-news-track {
+  animation-play-state: paused;
+}
+
+.yahoo-news-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 360px;
+  max-width: 520px;
+  padding: 9px 16px;
+  border: 0;
+  border-right: 1px solid var(--line);
+  background: transparent;
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+
+.yahoo-news-source {
+  flex: 0 0 auto;
+  padding: 3px 7px;
+  border: 1px solid rgba(125, 211, 252, 0.28);
+  border-radius: 999px;
+  color: var(--cyan);
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.yahoo-news-title {
+  overflow: hidden;
+  color: #dbe7e2;
+  font-size: 12px;
+  font-weight: 700;
+  text-overflow: ellipsis;
+}
+
+.yahoo-news-meta {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.yahoo-news-empty {
+  padding: 10px 16px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
 .chart-dock {
   display: none;
   border-bottom: 1px solid var(--line);
@@ -1032,7 +1096,7 @@ select {
   position: fixed;
   z-index: 30;
   display: none;
-  width: min(430px, calc(100vw - 28px));
+  width: min(520px, calc(100vw - 28px));
   max-height: min(620px, calc(100vh - 28px));
   overflow: auto;
   border: 1px solid #47675c;
@@ -1085,6 +1149,15 @@ select {
   cursor: pointer;
 }
 
+.popover-image {
+  width: 100%;
+  max-height: 190px;
+  margin: 12px 0 4px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 .popover-section {
   margin-top: 13px;
   padding-top: 12px;
@@ -1121,6 +1194,25 @@ select {
   border-radius: 999px;
   color: var(--text);
   font-size: 12px;
+}
+
+.popover-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8px;
+  padding: 9px 12px;
+  border: 1px solid rgba(125, 211, 252, 0.32);
+  border-radius: 8px;
+  background: rgba(125, 211, 252, 0.08);
+  color: var(--cyan);
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.popover-link:hover {
+  border-color: rgba(125, 211, 252, 0.6);
 }
 
 .meta-line {
@@ -1244,6 +1336,11 @@ select {
 
   .index-strip {
     display: flex;
+  }
+
+  .yahoo-news-item {
+    min-width: 300px;
+    max-width: 360px;
   }
 
   .dashboard {

@@ -50,6 +50,9 @@ const i18n = {
     close: "Kapat",
     readDetails: "Detayı oku",
     newsDetail: "Haber detayı",
+    yahooNews: "Yahoo Finance haberleri",
+    fullStory: "Tam haberi Yahoo Finance'ta aç",
+    published: "Yayın",
     summary: "Özet",
     whyMatters: "Neden önemli?",
     marketImpact: "Piyasa etkisi",
@@ -133,6 +136,9 @@ const i18n = {
     close: "Close",
     readDetails: "Read details",
     newsDetail: "News detail",
+    yahooNews: "Yahoo Finance news",
+    fullStory: "Open full story on Yahoo Finance",
+    published: "Published",
     summary: "Summary",
     whyMatters: "Why it matters",
     marketImpact: "Market impact",
@@ -881,9 +887,17 @@ let activeCandleSeries = null;
 let activeVolumeSeries = null;
 let activeResizeObserver = null;
 let activeChartProvider = "Mock";
+let yahooNews = [];
 
 const t = (key) => i18n[currentLanguage][key] || key;
 const localText = (value) => typeof value === "string" ? value : value[currentLanguage];
+const escapeHTML = (value) => String(value ?? "").replace(/[&<>"']/g, (char) => ({
+  "&": "&amp;",
+  "<": "&lt;",
+  ">": "&gt;",
+  '"': "&quot;",
+  "'": "&#39;"
+}[char]));
 const formatChange = (value) => `${value > 0 ? "+" : ""}${value.toFixed(2)}%`;
 const toneClass = (value) => (value >= 0 ? "positive" : "negative");
 const formatPrice = (item) => `${item.price.toLocaleString("en-US", {
@@ -1528,6 +1542,112 @@ function buildMovementAnalysis(movement) {
   };
 }
 
+function formatNewsTime(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return date.toLocaleString(currentLanguage === "tr" ? "tr-TR" : "en-US", {
+    day: "2-digit",
+    month: "short",
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
+async function loadYahooNews() {
+  try {
+    const response = await fetch("data/yahoo_news.json?t=" + Date.now());
+    if (!response.ok) throw new Error("yahoo_news.json " + response.status);
+    const data = await response.json();
+    yahooNews = Array.isArray(data.news) ? data.news : [];
+    renderYahooNewsStrip();
+  } catch (error) {
+    console.warn("Yahoo news load failed:", error.message);
+    renderYahooNewsStrip();
+  }
+}
+
+function renderYahooNewsStrip() {
+  const strip = document.getElementById("yahooNewsStrip");
+  if (!strip) return;
+  if (!yahooNews.length) {
+    const loading = currentLanguage === "tr" ? "yükleniyor..." : "loading...";
+    strip.innerHTML = `<div class="yahoo-news-empty">${t("yahooNews")} ${loading}</div>`;
+    return;
+  }
+
+  const duplicated = [...yahooNews, ...yahooNews];
+  strip.innerHTML = `<div class="yahoo-news-track">${duplicated.map((item) => `
+    <button class="yahoo-news-item" data-yahoo-news-id="${escapeHTML(item.id)}" title="${t("readDetails")}">
+      <span class="yahoo-news-source">${escapeHTML(item.asset || "Yahoo")}</span>
+      <span class="yahoo-news-title">${escapeHTML(item.title)}</span>
+      <span class="yahoo-news-meta">${escapeHTML(item.source || "Yahoo Finance")}</span>
+    </button>
+  `).join("")}</div>`;
+
+  document.querySelectorAll(".yahoo-news-item").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      const item = yahooNews.find((entry) => entry.id === button.dataset.yahooNewsId);
+      if (item) renderYahooNewsPopover(item, button);
+    });
+  });
+}
+
+function renderYahooNewsPopover(item, anchor) {
+  const popover = document.getElementById("newsPopover");
+  const rect = anchor.getBoundingClientRect();
+  const width = Math.min(520, window.innerWidth - 28);
+  const left = Math.max(14, Math.min(window.innerWidth - width - 14, rect.left));
+  const preferredTop = rect.bottom + 10;
+  const maxTop = window.innerHeight - Math.min(560, window.innerHeight - 28) - 14;
+  const top = Math.max(14, Math.min(maxTop, preferredTop));
+  const summary = item.summary || (currentLanguage === "tr" ? "Yahoo Finance bu haber için kısa özet paylaşmadı." : "Yahoo Finance did not provide a short summary for this story.");
+  const url = item.url || "https://finance.yahoo.com/";
+
+  popover.innerHTML = `
+    <div class="popover-title">
+      <div>
+        <span class="label">${t("yahooNews")}</span>
+        <h3>${escapeHTML(item.title)}</h3>
+        <div class="meta-line">
+          <span>${escapeHTML(item.source || "Yahoo Finance")}</span>
+          <span>${escapeHTML(item.asset_name || item.asset || "Market")}</span>
+          <span>${t("published")}: ${escapeHTML(formatNewsTime(item.published_at))}</span>
+        </div>
+      </div>
+      <button class="popover-close" id="closeNewsPopover" title="${t("close")}">X</button>
+    </div>
+    ${item.thumbnail ? `<img class="popover-image" src="${escapeHTML(item.thumbnail)}" alt="">` : ""}
+    <div class="popover-section">
+      <h4>${t("summary")}</h4>
+      <p>${escapeHTML(summary)}</p>
+    </div>
+    <div class="popover-section">
+      <h4>${t("relatedAssets")}</h4>
+      <div class="asset-pills"><span class="asset-pill">${escapeHTML(item.asset || "Yahoo")}</span></div>
+    </div>
+    <a class="popover-link" href="${escapeHTML(url)}" target="_blank" rel="noopener">${t("fullStory")}</a>
+  `;
+
+  popover.style.left = `${left}px`;
+  popover.style.top = `${top}px`;
+  popover.classList.add("open");
+
+  let arrow = document.getElementById("newsPopoverArrow");
+  if (!arrow) {
+    arrow = document.createElement("div");
+    arrow.id = "newsPopoverArrow";
+    arrow.className = "popover-arrow";
+    document.body.appendChild(arrow);
+  }
+  arrow.style.left = `${Math.max(20, rect.left + 30)}px`;
+  arrow.style.top = `${Math.max(20, rect.bottom + 4)}px`;
+  arrow.classList.add("open");
+
+  document.getElementById("closeNewsPopover").addEventListener("click", closeNewsPopover);
+}
+
 function renderNews() {
   const list = document.getElementById("newsList");
   list.innerHTML = news.map((item) => `
@@ -1911,6 +2031,7 @@ function bindControls() {
     renderCurrencyPairs();
     renderCurrencyConverter();
     renderEventCalendar();
+    renderYahooNewsStrip();
   });
 
   ["converterAmount", "converterFrom", "converterTo"].forEach((id) => {
@@ -1956,7 +2077,7 @@ function bindControls() {
   document.addEventListener("click", (event) => {
     const popover = document.getElementById("newsPopover");
     if (!popover.classList.contains("open")) return;
-    if (popover.contains(event.target) || event.target.closest(".news-item")) return;
+    if (popover.contains(event.target) || event.target.closest(".news-item") || event.target.closest(".yahoo-news-item")) return;
     closeNewsPopover();
   });
 
@@ -1967,6 +2088,7 @@ function bindControls() {
 updateStaticText();
 renderTickers();
 renderIndexStrip();
+renderYahooNewsStrip();
 renderFavorites();
 renderNews();
 renderWatchlist();
@@ -1976,4 +2098,5 @@ renderEventCalendar();
 bindControls();
 renderMovements();
 loadPricesJSON();
+loadYahooNews();
 setInterval(updateLivePrices, 2400);
