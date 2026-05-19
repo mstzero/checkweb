@@ -259,11 +259,12 @@ const tickers = [
 }));
 
 const currencyPairs = [
+  { symbol: "USDTRY", price: 40.91, decimals: 2, change: 0.18 },
+  { symbol: "EURTRY", price: 44.45, decimals: 2, change: 0.24 },
+  { symbol: "GBPTRY", price: 52.11, decimals: 2, change: 0.19 },
   { symbol: "EURUSD", price: 1.0864, decimals: 4, change: 0.12 },
   { symbol: "GBPUSD", price: 1.2742, decimals: 4, change: -0.08 },
-  { symbol: "USDJPY", price: 153.18, decimals: 2, change: 0.21 },
-  { symbol: "EURTRY", price: 44.45, decimals: 2, change: 0.24 },
-  { symbol: "GBPTRY", price: 52.11, decimals: 2, change: 0.19 }
+  { symbol: "USDJPY", price: 153.18, decimals: 2, change: 0.21 }
 ];
 
 const converterCurrencies = ["TRY", "USD", "EUR", "GBP", "JPY"];
@@ -1791,12 +1792,18 @@ function renderCurrencyPairs() {
   list.innerHTML = currencyPairs.map((item) => `
     <button class="pair-row" data-symbol="${item.symbol}">
       <div>
-        <strong>${item.symbol}</strong>
+        <strong>${item.symbol.slice(0, 3)} / ${item.symbol.slice(3)}</strong>
         <span>${formatPairPrice(item)}</span>
       </div>
       <span class="${toneClass(item.change)}">${formatChange(item.change)}</span>
     </button>
   `).join("");
+
+  document.querySelectorAll(".pair-row").forEach((button) => {
+    button.addEventListener("click", () => {
+      setConverterPair(button.dataset.symbol);
+    });
+  });
 }
 
 function getPairPrice(symbol) {
@@ -1806,9 +1813,9 @@ function getPairPrice(symbol) {
 
 function getUsdRate(currency) {
   if (currency === "USD") return 1;
-  if (currency === "TRY") return getPairPrice("USDTRY");
-  if (currency === "EUR") return 1 / getPairPrice("EURUSD");
-  if (currency === "GBP") return 1 / getPairPrice("GBPUSD");
+  if (currency === "TRY") return 1 / getPairPrice("USDTRY");
+  if (currency === "EUR") return getPairPrice("EURUSD");
+  if (currency === "GBP") return getPairPrice("GBPUSD");
   if (currency === "JPY") return 1 / getPairPrice("USDJPY");
   return null;
 }
@@ -1820,10 +1827,28 @@ function convertCurrency(amount, from, to) {
   return amount * fromUsd / toUsd;
 }
 
+function formatCurrencyAmount(value, currency) {
+  return Number(value).toLocaleString("tr-TR", {
+    maximumFractionDigits: 0
+  });
+}
+
+function setConverterPair(symbol) {
+  const fromSelect = document.getElementById("converterFrom");
+  const toSelect = document.getElementById("converterTo");
+  if (!fromSelect || !toSelect || !symbol || symbol.length < 6) return;
+  const from = symbol.slice(0, 3);
+  const to = symbol.slice(3);
+  if ([...fromSelect.options].some((option) => option.value === from)) fromSelect.value = from;
+  if ([...toSelect.options].some((option) => option.value === to)) toSelect.value = to;
+  renderCurrencyConverter();
+}
+
 function renderCurrencyConverter() {
   const fromSelect = document.getElementById("converterFrom");
   const toSelect = document.getElementById("converterTo");
   const resultEl = document.getElementById("converterResult");
+  const rateEl = document.getElementById("converterRate");
   if (!fromSelect || !toSelect || !resultEl) return;
 
   if (!fromSelect.options.length) {
@@ -1836,9 +1861,19 @@ function renderCurrencyConverter() {
 
   const amount = Number(document.getElementById("converterAmount").value || 0);
   const converted = convertCurrency(amount, fromSelect.value, toSelect.value);
-  resultEl.textContent = converted == null
-    ? "Kur hesaplanamadı"
-    : `${amount.toLocaleString("tr-TR", { maximumFractionDigits: 0 })} ${fromSelect.value} = ${converted.toLocaleString("tr-TR", { maximumFractionDigits: 0 })} ${toSelect.value}`;
+  const unitRate = convertCurrency(1, fromSelect.value, toSelect.value);
+  if (converted == null || unitRate == null) {
+    resultEl.textContent = "Kur hesaplanamadı";
+    if (rateEl) rateEl.textContent = "Canlı kur bekleniyor";
+    return;
+  }
+  resultEl.textContent = `${formatCurrencyAmount(amount, fromSelect.value)} ${fromSelect.value} = ${formatCurrencyAmount(converted, toSelect.value)} ${toSelect.value}`;
+  if (rateEl) {
+    rateEl.textContent = `1 ${fromSelect.value} = ${unitRate.toLocaleString("tr-TR", {
+      minimumFractionDigits: 4,
+      maximumFractionDigits: 4
+    })} ${toSelect.value}`;
+  }
 }
 
 // ===== LIVE PRICE API + YAHOO FINANCE PRICES.JSON INTEGRATION =====
@@ -1938,6 +1973,9 @@ async function fetchExchangeRates() {
       // EURTRY derived
       if (data.rates.TRY && data.rates.EUR) {
         livePriceCache["EURTRY"] = { price: data.rates.TRY / data.rates.EUR, change: 0 };
+      }
+      if (data.rates.TRY && data.rates.GBP) {
+        livePriceCache["GBPTRY"] = { price: data.rates.TRY / data.rates.GBP, change: 0 };
       }
     }
   } catch(e) {
@@ -2046,6 +2084,14 @@ function bindControls() {
     toSelect.value = fromSelect.value;
     fromSelect.value = nextFrom;
     renderCurrencyConverter();
+  });
+
+  document.querySelectorAll(".converter-quick button").forEach((button) => {
+    button.addEventListener("click", () => {
+      document.getElementById("converterFrom").value = button.dataset.from;
+      document.getElementById("converterTo").value = button.dataset.to;
+      renderCurrencyConverter();
+    });
   });
 
   document.getElementById("resetFilters").addEventListener("click", () => {

@@ -98,14 +98,30 @@
             </div>
             <div id="currencyPairsList"></div>
             <div class="converter" id="currencyConverter">
-              <div class="converter-title">Converter</div>
+              <div class="converter-title">Currency Converter</div>
+              <div class="converter-quick" id="converterQuick">
+                <button type="button" data-from="USD" data-to="TRY">$ → TL</button>
+                <button type="button" data-from="EUR" data-to="TRY">€ → TL</button>
+                <button type="button" data-from="TRY" data-to="USD">TL → $</button>
+                <button type="button" data-from="TRY" data-to="EUR">TL → €</button>
+              </div>
               <div class="converter-grid">
+                <label>
+                  <span>Tutar</span>
                 <input id="converterAmount" type="number" min="0" step="0.01" value="1000" />
+                </label>
+                <label>
+                  <span>Çevir</span>
                 <select id="converterFrom"></select>
+                </label>
                 <button id="converterSwap" type="button" title="Swap">⇄</button>
+                <label>
+                  <span>Hedef</span>
                 <select id="converterTo"></select>
+                </label>
               </div>
               <div class="converter-result" id="converterResult">—</div>
+              <div class="converter-rate" id="converterRate">—</div>
             </div>
           </div>
         </aside>

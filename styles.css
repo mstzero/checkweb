@@ -696,20 +696,23 @@ select {
   justify-content: space-between;
   gap: 8px;
   width: 100%;
-  padding: 9px 0;
-  border-top: 1px solid var(--line);
-  border-right: 0;
-  border-left: 0;
-  border-bottom: 0;
-  background: transparent;
+  margin-top: 7px;
+  padding: 9px 10px;
+  border: 1px solid var(--line);
+  background: #0b1311;
   color: var(--text);
   cursor: pointer;
   font-size: 13px;
   text-align: left;
+  border-radius: 8px;
 }
 
 .pair-row:first-child {
-  border-top: 0;
+  margin-top: 0;
+}
+
+.pair-row:hover {
+  border-color: rgba(46, 216, 137, 0.35);
 }
 
 .pair-row strong {
@@ -735,11 +738,44 @@ select {
   margin-bottom: 10px;
 }
 
+.converter-quick {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
+  margin-bottom: 10px;
+}
+
+.converter-quick button {
+  min-height: 30px;
+  border: 1px solid var(--line);
+  background: #0b1311;
+  color: var(--text);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.converter-quick button:hover {
+  border-color: rgba(46, 216, 137, 0.35);
+  color: var(--green);
+}
+
 .converter-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 74px 34px 74px;
+  grid-template-columns: minmax(0, 1fr) 76px 34px 76px;
   gap: 8px;
-  align-items: center;
+  align-items: end;
+}
+
+.converter-grid label {
+  display: grid;
+  gap: 5px;
+  min-width: 0;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
 }
 
 .converter-grid input,
@@ -771,8 +807,16 @@ select {
   border-radius: 8px;
   background: rgba(46, 216, 137, 0.08);
   color: var(--text);
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.35;
+}
+
+.converter-rate {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 11px;
   font-variant-numeric: tabular-nums;
 }
 
