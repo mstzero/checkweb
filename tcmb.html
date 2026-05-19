@@ -44,6 +44,17 @@ body { margin:0; font-family:Inter,system-ui,sans-serif; background:var(--bg); c
 .follow-name { font-size:13px; font-weight:700; line-height:1.35; }
 .follow-code { color:var(--soft); font-size:11px; font-variant-numeric:tabular-nums; }
 .follow-value { text-align:right; font-size:13px; font-weight:800; white-space:nowrap; font-variant-numeric:tabular-nums; }
+.watch-panel { margin-bottom:18px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:18px; }
+.watch-panel h2 { margin:0 0 14px; font-size:18px; }
+.central-bank-grid { display:grid; grid-template-columns:repeat(5,1fr); gap:12px; }
+@media(max-width:1120px){ .central-bank-grid{grid-template-columns:repeat(2,1fr);} }
+@media(max-width:640px){ .central-bank-grid{grid-template-columns:1fr;} }
+.central-bank-card { display:block; min-height:148px; border:1px solid var(--line); border-radius:8px; padding:13px; background:rgba(255,255,255,0.025); color:var(--text); text-decoration:none; }
+.central-bank-card:hover { border-color:rgba(59,130,246,.6); }
+.central-bank-card .rank { color:var(--blue); font-size:11px; font-weight:800; }
+.central-bank-card .name { margin-top:7px; font-size:13px; font-weight:800; line-height:1.35; }
+.central-bank-card .value { margin-top:9px; font-size:20px; font-weight:800; font-variant-numeric:tabular-nums; }
+.central-bank-card .reason { margin-top:7px; color:var(--muted); font-size:11px; line-height:1.4; }
 .metric-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; }
 @media(max-width:980px){ .metric-grid{grid-template-columns:repeat(2,1fr);} .hero{align-items:start; flex-direction:column;} }
 .metric-card { display:block; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:18px; min-height:154px; color:var(--text); text-decoration:none; }
@@ -97,6 +108,11 @@ body { margin:0; font-family:Inter,system-ui,sans-serif; background:var(--bg); c
       <h2>En Çok Takip Edilenler</h2>
       <div class="follow-list" id="followList"></div>
     </div>
+  </section>
+
+  <section class="watch-panel">
+    <h2>Merkez Bankasında En Çok Bakılanlar</h2>
+    <div class="central-bank-grid" id="centralBankGrid"></div>
   </section>
 
   <section class="metric-grid" id="metricGrid"></section>
@@ -176,6 +192,19 @@ function renderFollowed(indicators) {
   }).join("");
 }
 
+function renderCentralBankWatchlist(items) {
+  const list = items?.length ? items : [];
+  document.getElementById("centralBankGrid").innerHTML = list.slice(0, 10).map((item, index) => {
+    const ok = item.status === "ok";
+    return `<a class="central-bank-card" href="${esc(item.evds_url || "https://evds3.tcmb.gov.tr/anasayfa")}" target="_blank" rel="noopener">
+      <div class="rank">#${index + 1} · ${esc(item.group || "Gösterge")}</div>
+      <div class="name">${esc(item.label)}</div>
+      <div class="value ${ok ? "" : "pending"}">${ok ? fmt(item.latest_value, item.decimals ?? 2) : "—"} <span class="metric-unit">${esc(item.unit || "")}</span></div>
+      <div class="reason">${esc(item.reason || "TCMB ana göstergeleri içinde yüksek takip edilir.")}</div>
+    </a>`;
+  }).join("");
+}
+
 async function loadTCMB() {
   try {
     const resp = await fetch("data/tcmb_data.json?t=" + Date.now());
@@ -186,6 +215,7 @@ async function loadTCMB() {
     const indicators = data.indicators || [];
     renderFeatured(data.home_dashboards || [], data.featured_cards || indicators);
     renderFollowed(indicators);
+    renderCentralBankWatchlist(data.central_bank_watchlist || indicators);
     document.getElementById("metricGrid").innerHTML = indicators.map(item => {
       const ok = item.status === "ok";
       const value = ok ? fmt(item.latest_value, item.decimals ?? 2) : "—";

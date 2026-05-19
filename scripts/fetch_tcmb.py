@@ -31,6 +31,19 @@ HISTORY_SERIES = {
     "TP.HARICCARIACIK.K1": {"frequency": "5", "decimals": 0},
 }
 
+CENTRAL_BANK_WATCHLIST = {
+    "TP.DK.USD.A.EF.YTL": "Kur geçişkenliği, rezerv ihtiyacı ve piyasa stresi için ilk kontrol.",
+    "TP.DK.EUR.A.EF.YTL": "Dış ticaret ve sepet kur baskısını okumak için takip edilir.",
+    "TP.AB.TOPLAM": "Brüt rezerv gücü ve döviz likiditesi için ana gösterge.",
+    "TP.TRY.MT02": "Mevduat faizleri TL tasarruf davranışını ve fonlama maliyetini gösterir.",
+    "TP.KTF18": "Ticari kredi maliyeti reel sektör finansman koşullarını yansıtır.",
+    "TP.HARICCARIACIK.K1": "Cari denge dış finansman ihtiyacını ve kur hassasiyetini belirler.",
+    "TP.KFE.TR": "Konut fiyatları iç talep, servet etkisi ve kredi döngüsü için izlenir.",
+    "TP.KAVRAMSAL.ARIM3.INDX": "Para arzı likidite koşulları ve parasal genişleme için izlenir.",
+    "TP.MKNETHAR.M20": "Yabancı portföy akımı piyasa risk iştahını gösterir.",
+    "TP.PKAUO.S01.E.U": "Enflasyon beklentileri para politikası patikası için kritik önemdedir.",
+}
+
 GROUP_HINTS = (
     ("DK.", "Kur"),
     ("AB.", "Rezerv"),
@@ -119,14 +132,28 @@ def normalize_dashboard(item: dict) -> dict:
     charts = item.get("chartsList") or []
     first_chart = charts[0] if charts else {}
     link = item.get("portletLink") or ""
+    url = f"{EVDS3_BASE}{link}" if link.startswith("/") else EVDS3_BASE
+    if link.startswith("/dashboards/portlet/") and not url.endswith("/tr"):
+        url = f"{url}/tr"
     return {
         "title": item.get("dashboardName") or "TCMB gösterge paneli",
         "description": item.get("dashboardDescription") or first_chart.get("chartDescription") or "",
         "chart_title": first_chart.get("chartName") or "",
         "comment": (first_chart.get("chartComment") or "").split("\n\n")[0],
         "order": item.get("ekranSiraNo", 999),
-        "url": f"{EVDS3_BASE}{link}" if link.startswith("/") else EVDS3_BASE,
+        "url": url,
     }
+
+
+def build_central_bank_watchlist(indicators: list[dict]) -> list[dict]:
+    by_code = {item["code"]: item for item in indicators}
+    selected = []
+    for code, reason in CENTRAL_BANK_WATCHLIST.items():
+        item = by_code.get(code)
+        if not item:
+            continue
+        selected.append({**item, "reason": reason})
+    return selected
 
 
 def fetch_history(api_key: str, indicator: dict, start_date: str, end_date: str) -> dict:
@@ -198,6 +225,8 @@ def main():
         indicators = enriched
         featured_cards = indicators[:6]
 
+    central_bank_watchlist = build_central_bank_watchlist(indicators)
+
     output = {
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "source": "TCMB EVDS3",
@@ -207,6 +236,7 @@ def main():
         },
         "featured_cards": featured_cards,
         "home_dashboards": home_dashboards,
+        "central_bank_watchlist": central_bank_watchlist,
         "indicators": indicators,
     }
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
