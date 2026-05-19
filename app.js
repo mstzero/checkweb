@@ -1722,14 +1722,15 @@ function renderCurrencyConverter() {
 }
 
 // ===== LIVE PRICE API + YAHOO FINANCE PRICES.JSON INTEGRATION =====
-const COINGECKO_IDS = {
-  "BTC": "bitcoin",
-  "ETH": "ethereum",
-  "SOL": "solana",
-  "BNB": "binancecoin",
-  "XRP": "ripple"
+const BINANCE_SYMBOLS = {
+  "BTC": "BTCUSDT",
+  "ETH": "ETHUSDT",
+  "SOL": "SOLUSDT",
+  "BNB": "BNBUSDT",
+  "XRP": "XRPUSDT"
 };
-const CRYPTO_SYMBOLS = Object.keys(COINGECKO_IDS);
+const BINANCE_BY_PAIR = Object.fromEntries(Object.entries(BINANCE_SYMBOLS).map(([symbol, pair]) => [pair, symbol]));
+const CRYPTO_SYMBOLS = Object.keys(BINANCE_SYMBOLS);
 
 let lastLiveFetch = 0;
 let livePriceCache = {};
@@ -1778,21 +1779,28 @@ async function loadPricesJSON() {
   }
 }
 
-// CoinGecko for live crypto prices (most up-to-date, ~30s delay)
-async function fetchCoinGeckoPrices() {
-  var ids = Object.values(COINGECKO_IDS).join(",");
+// Binance public market data for live crypto prices. No API key is needed.
+async function fetchBinancePrices() {
+  var pairs = Object.values(BINANCE_SYMBOLS);
+  var endpoint = "https://data-api.binance.vision/api/v3/ticker/24hr?symbols=" + encodeURIComponent(JSON.stringify(pairs));
   try {
-    var resp = await fetch("https://api.coingecko.com/api/v3/simple/price?ids=" + ids + "&vs_currencies=usd&include_24hr_change=true");
-    if (!resp.ok) throw new Error("CoinGecko " + resp.status);
+    var resp = await fetch(endpoint);
+    if (!resp.ok) throw new Error("Binance " + resp.status);
     var data = await resp.json();
-    CRYPTO_SYMBOLS.forEach(function(sym) {
-      var cg = data[COINGECKO_IDS[sym]];
-      if (cg && cg.usd) {
-        livePriceCache[sym] = { price: cg.usd, change: cg.usd_24h_change || 0 };
+    data.forEach(function(item) {
+      var symbol = BINANCE_BY_PAIR[item.symbol];
+      var price = Number(item.lastPrice);
+      var change = Number(item.priceChangePercent);
+      if (symbol && Number.isFinite(price)) {
+        livePriceCache[symbol] = {
+          price: price,
+          change: Number.isFinite(change) ? change : 0,
+          source: "Binance"
+        };
       }
     });
   } catch(e) {
-    console.warn("CoinGecko fetch failed:", e.message);
+    console.warn("Binance fetch failed:", e.message);
   }
 }
 
@@ -1818,12 +1826,12 @@ async function fetchExchangeRates() {
 }
 
 async function fetchLivePricesAPI() {
-  await Promise.all([fetchCoinGeckoPrices(), fetchExchangeRates()]);
+  await Promise.all([fetchBinancePrices(), fetchExchangeRates()]);
 }
 
 function updateLivePrices() {
   var now = Date.now();
-  // Fetch live prices every 30 seconds (crypto only, rest from JSON)
+  // Fetch live prices every 30 seconds (crypto from Binance, forex from exchange rates)
   if (now - lastLiveFetch > 30000) {
     lastLiveFetch = now;
     fetchLivePricesAPI().then(function() {
@@ -1838,7 +1846,7 @@ function applyLivePrices() {
   tickers.forEach(function(ticker) {
     var live = livePriceCache[ticker.symbol];
     if (live) {
-      // Use live API price (CoinGecko for crypto, ExchangeRate for forex)
+      // Use live API price (Binance for crypto, ExchangeRate for forex)
       ticker.price = live.price;
       ticker.change = live.change;
       ticker.base = live.price;
