@@ -878,6 +878,107 @@ select {
   text-align: left;
 }
 
+.watchlist-lens-panel {
+  margin-bottom: 18px;
+  border: 1px solid var(--line);
+  background: #0d1513;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.lens-currency {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.lens-currency select {
+  width: auto;
+  min-height: 32px;
+  padding-right: 28px;
+}
+
+.lens-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.lens-card {
+  min-height: 104px;
+  border: 1px solid var(--line);
+  background: #101816;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.lens-card .label {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.lens-card strong {
+  display: block;
+  margin-top: 9px;
+  font-size: 22px;
+  font-variant-numeric: tabular-nums;
+}
+
+.lens-card small {
+  display: block;
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.lens-news {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.lens-news-item {
+  min-height: 74px;
+  border: 1px solid var(--line);
+  background: #0b1311;
+  color: var(--text);
+  border-radius: 8px;
+  padding: 9px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.lens-news-item:hover {
+  border-color: rgba(125, 211, 252, 0.35);
+}
+
+.lens-news-item strong {
+  display: block;
+  overflow: hidden;
+  color: #dbe7e2;
+  font-size: 12px;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.lens-news-item span {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
 .calendar-tabs {
   display: flex;
   gap: 4px;
@@ -1428,6 +1529,11 @@ select {
 
   .favorites-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lens-grid,
+  .lens-news {
+    grid-template-columns: 1fr;
   }
 
   .chart-panel {

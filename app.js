@@ -26,6 +26,14 @@ const i18n = {
     currencyPairs: "Currency Pariteleri",
     globalFavorites: "Global Favoriler",
     globalFavoritesSubtitle: "Dünya piyasalarında en çok izlenen varlıklar. Karta tıkla, grafiği aç.",
+    watchlistLens: "Watchlist Bakışı",
+    watchlistLensSubtitle: "Seçili varlıkların eşit ağırlıklı nabzı, benchmark kıyasları ve ilgili haberler.",
+    portfolioCurrency: "Para birimi",
+    watchlistAvg: "Watchlist ort.",
+    bestAsset: "En güçlü",
+    weakestAsset: "En zayıf",
+    benchmarks: "Benchmark",
+    relatedNews: "İlgili haberler",
     economicCalendar: "Önemli Olaylar",
     today: "Bugün",
     tomorrow: "Yarın",
@@ -112,6 +120,14 @@ const i18n = {
     currencyPairs: "Currency Pairs",
     globalFavorites: "Global Favorites",
     globalFavoritesSubtitle: "Most watched global markets. Click a card to open the chart.",
+    watchlistLens: "Watchlist Lens",
+    watchlistLensSubtitle: "Equal-weight pulse, benchmark comparison and related headlines for selected assets.",
+    portfolioCurrency: "Currency",
+    watchlistAvg: "Watchlist avg.",
+    bestAsset: "Strongest",
+    weakestAsset: "Weakest",
+    benchmarks: "Benchmarks",
+    relatedNews: "Related news",
     economicCalendar: "Important Events",
     today: "Today",
     tomorrow: "Tomorrow",
@@ -924,6 +940,9 @@ function updateStaticText() {
   document.querySelector(".rule-box p").textContent = t("detectionText");
   document.getElementById("favoritesTitle").textContent = t("globalFavorites");
   document.getElementById("favoritesSubtitle").textContent = t("globalFavoritesSubtitle");
+  document.getElementById("watchlistLensTitle").textContent = t("watchlistLens");
+  document.getElementById("watchlistLensSubtitle").textContent = t("watchlistLensSubtitle");
+  document.getElementById("portfolioCurrencyLabel").textContent = t("portfolioCurrency");
   document.getElementById("movingNowTitle").textContent = t("movingNow");
   document.querySelector('[data-sort="impact"]').textContent = t("impact");
   document.querySelector('[data-sort="latest"]').textContent = t("latest");
@@ -1029,6 +1048,76 @@ function updateFavoritesDom() {
     button.querySelector(".favorite-top span").textContent = formatChange(item.change);
     button.querySelector(".favorite-top span").className = toneClass(item.change);
     button.querySelector(".favorite-price").textContent = formatPrice(item);
+  });
+}
+
+function convertUsdPrice(price, targetCurrency) {
+  if (targetCurrency === "USD") return price;
+  return convertCurrency(price, "USD", targetCurrency) ?? price;
+}
+
+function formatPortfolioValue(value, currency) {
+  return `${Number(value).toLocaleString(currentLanguage === "tr" ? "tr-TR" : "en-US", {
+    maximumFractionDigits: currency === "USD" || currency === "EUR" ? 2 : 0
+  })} ${currency}`;
+}
+
+function renderWatchlistLens() {
+  const lens = document.getElementById("watchlistLens");
+  const newsList = document.getElementById("watchlistNews");
+  if (!lens || !newsList) return;
+
+  const currency = document.getElementById("portfolioCurrency")?.value || "TRY";
+  const items = watchlistSymbols.map((symbol) => tickers.find((ticker) => ticker.symbol === symbol)).filter(Boolean);
+  const avgChange = items.reduce((sum, item) => sum + item.change, 0) / Math.max(1, items.length);
+  const best = [...items].sort((a, b) => b.change - a.change)[0];
+  const weakest = [...items].sort((a, b) => a.change - b.change)[0];
+  const benchmarks = ["SPY", "BIST100", "GOLD", "USDTRY"]
+    .map((symbol) => tickers.find((ticker) => ticker.symbol === symbol))
+    .filter(Boolean);
+  const benchmarkText = benchmarks.map((item) => `${item.symbol} ${formatChange(item.change)}`).join(" · ");
+
+  lens.innerHTML = `
+    <article class="lens-card">
+      <span class="label">${t("watchlistAvg")}</span>
+      <strong class="${toneClass(avgChange)}">${formatChange(avgChange)}</strong>
+      <small>${items.length} varlık eşit ağırlıklı</small>
+    </article>
+    <article class="lens-card">
+      <span class="label">${t("bestAsset")}</span>
+      <strong class="${toneClass(best.change)}">${best.symbol} ${formatChange(best.change)}</strong>
+      <small>${formatPortfolioValue(convertUsdPrice(best.price, currency), currency)}</small>
+    </article>
+    <article class="lens-card">
+      <span class="label">${t("weakestAsset")}</span>
+      <strong class="${toneClass(weakest.change)}">${weakest.symbol} ${formatChange(weakest.change)}</strong>
+      <small>${formatPortfolioValue(convertUsdPrice(weakest.price, currency), currency)}</small>
+    </article>
+    <article class="lens-card">
+      <span class="label">${t("benchmarks")}</span>
+      <strong>${benchmarks[0]?.symbol || "SPY"} ${benchmarks[0] ? formatChange(benchmarks[0].change) : ""}</strong>
+      <small>${benchmarkText}</small>
+    </article>
+  `;
+
+  const watchNews = yahooNews
+    .filter((item) => watchlistSymbols.includes(item.asset))
+    .slice(0, 3);
+  newsList.innerHTML = watchNews.length
+    ? watchNews.map((item) => `
+      <button class="lens-news-item" data-yahoo-news-id="${escapeHTML(item.id)}">
+        <strong>${escapeHTML(item.title)}</strong>
+        <span>${escapeHTML(item.asset)} · ${escapeHTML(item.source || "Yahoo Finance")}</span>
+      </button>
+    `).join("")
+    : `<div class="lens-news-item"><strong>${t("relatedNews")}</strong><span>Yahoo Finance haberleri yükleniyor</span></div>`;
+
+  document.querySelectorAll(".lens-news-item[data-yahoo-news-id]").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      const item = yahooNews.find((entry) => entry.id === button.dataset.yahooNewsId);
+      if (item) renderYahooNewsPopover(item, button);
+    });
   });
 }
 
@@ -1562,9 +1651,11 @@ async function loadYahooNews() {
     const data = await response.json();
     yahooNews = Array.isArray(data.news) ? data.news : [];
     renderYahooNewsStrip();
+    renderWatchlistLens();
   } catch (error) {
     console.warn("Yahoo news load failed:", error.message);
     renderYahooNewsStrip();
+    renderWatchlistLens();
   }
 }
 
@@ -2057,6 +2148,7 @@ function applyLivePrices() {
 
   updateTickerDom();
   updateFavoritesDom();
+  renderWatchlistLens();
   renderWatchlist();
   renderCurrencyPairs();
   renderCurrencyConverter();
@@ -2082,6 +2174,7 @@ function bindControls() {
     renderMovements();
     renderNews();
     renderFavorites();
+    renderWatchlistLens();
     renderWatchlist();
     renderCurrencyPairs();
     renderCurrencyConverter();
@@ -2101,6 +2194,8 @@ function bindControls() {
       renderCurrencyConverter();
     });
   });
+
+  document.getElementById("portfolioCurrency").addEventListener("change", renderWatchlistLens);
 
   document.getElementById("converterSwap").addEventListener("click", () => {
     const fromSelect = document.getElementById("converterFrom");
@@ -2164,6 +2259,7 @@ renderIndexStrip();
 renderYahooNewsStrip();
 renderFavorites();
 renderNews();
+renderWatchlistLens();
 renderWatchlist();
 renderCurrencyPairs();
 renderCurrencyConverter();
