@@ -1,40 +1,205 @@
 {
-  "last_updated": "2026-05-19 20:50 UTC",
+  "last_updated": "2026-05-19 22:13 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "f3cd9841-667f-35a0-ae1d-37fc8643883a",
+      "id": "c3e7ddda-341a-396d-b673-bf30ca92084a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Warren Buffett’s Berkshire opens a $2.6B stake in world's largest airline",
+      "summary": "Warren Buffett spent decades avoiding airline stocks. He called them a capital trap, a business where no matter how well you ran it, fuel prices and fare wars could wipe out profits in a quarter. Then Covid hit, and Berkshire Hathawaydumped its airline holdings in 2020, locking in significant ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/warren-buffetts-berkshire-opens-a-2-6b-stake-in-worlds-largest-airline",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9.RAYuJPYnwwOkCGPxvGrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/03551f86b66e5070e86b4dd4984fca4f",
+      "published_at": "2026-05-19T22:07:00Z"
+    },
+    {
+      "id": "bd1b3356-47a6-3663-b6d3-976c3f9208d3",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "UN lowers forecast for global economic growth in 2026 over Mideast energy crisis",
+      "summary": "Responding to Middle East crises and rising oil prices, the United Nations on Tuesday lowered its forecast for global economic growth and raised the prospects for inflation this year.  U.N. economists said global GDP growth is now forecast at 2.5% for 2026, down from 2.7% in January, and they said it could fall to only 2.1% “in a more adverse scenario.”",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/economy/articles/un-lowers-forecast-global-economic-220549829.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W6CNxvpjScCeE2H5GbmrnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/f1c748297f71d009d2c41d66a1e265ea",
+      "published_at": "2026-05-19T22:05:49Z"
+    },
+    {
+      "id": "1a78da30-53e1-396a-afe5-e4b0f2111416",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dell Stock Nabs Price-Target Hikes On AI Strategy",
-      "summary": "Dell stock received two price-target hikes after the company detailed its strategy to capitalize on the AI megatrend.",
+      "title": "Dow Jones Futures: Stocks Fall As Yields Jump; Micron, Sandisk, Astera Rise With Nvidia Earnings Due",
+      "summary": "The stock market fell Tuesday as yields hit new highs, but some AI leaders like Micron and Sandisk rebounded. Nvidia earnings loom.",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/dell-stock-nabs-price-target-hikes-on-ai-strategy/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HZS8IfU.Uh0uqg9vgpzcnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/dd430826fc636486e11275bf7229e085",
-      "published_at": "2026-05-19T20:40:11Z"
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-yields-micron-sandisk-astera-labs-nvidia-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ltQyS95h3kce9FtLpGxQ.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/56580ff225f79eb575682a8fa1e1c5fc",
+      "published_at": "2026-05-19T22:04:07Z"
     },
     {
-      "id": "79c6439d-dbb2-3937-98d3-7fdc45356a38",
+      "id": "cba9dea7-8c90-3fc8-b041-21ec162d7f2f",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "V1 CryptoPunks Just Got Their Marketplace Back",
+      "summary": "V1s can now trade through the original 2017 contract without wrappers.",
+      "source": "Bankless",
+      "url": "https://www.bankless.com/read/v1-cryptopunks-trade-original-again",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wtgFgJqerlYcs4CDxwZzVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/b23023f9e35fb414c5ab81c540b7fd8c",
+      "published_at": "2026-05-19T22:02:51Z"
+    },
+    {
+      "id": "0ffd691c-013b-38dc-9dac-3bea6a26dfab",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
+      "summary": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JYNA1_2cz5MfhjTkFuKUdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/2877d9e6fa440ee4ad92128255606d14",
+      "published_at": "2026-05-19T22:01:04Z"
+    },
+    {
+      "id": "2afe8c31-0355-43c2-bbf1-1c1530c35e60",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "How borrowers and educational systems fell for the same cheap money trap",
+      "summary": "Scott Melker connects the dots between the uptick in cryptocurrency activity, increases in total debt balances, delinquencies, and record-high educational system debts. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/borrowers-educational-systems-fell-same-220000075.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7EbjWfKOgw7Ta12pybArmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/4355a080-f850-40e8-8456-d40ffc02be02",
+      "published_at": "2026-05-19T22:00:00Z"
+    },
+    {
+      "id": "b93fc476-9196-3b7e-9317-5aebc83ae573",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "1 S&P 500 Stock to Research Further and 2 Facing Challenges",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-research-215655901.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vIRzKhIYMqrbyeJpAGZm5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/e6049c394db1640fd7ba4d70be84b8a0",
+      "published_at": "2026-05-19T21:56:55Z"
+    },
+    {
+      "id": "c84545b3-e28f-38f6-8e5e-2bbe09b0c89b",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "I've Changed My Mind on Intel Stock. Here's What the AI Supercycle Bears Are Missing.",
-      "summary": "The semiconductor giant is poised for years of business growth ahead.",
+      "title": "Why Poet Technologies Stock Plummeted Today",
+      "summary": "After a huge rally earlier this month, Poet has been getting hit with big pullbacks.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/19/ive-changed-my-mind-on-intel-stock-heres-what-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LAt96fc42cSSaXDs0ovnOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/68abb5971c388e90bbeaccbdafe5085b",
-      "published_at": "2026-05-19T20:35:00Z"
+      "url": "https://www.fool.com/investing/2026/05/19/why-poet-technologies-stock-plummeted-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OdnJRha3SKR8R9Ee8bUKww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/46a241f0c7da5a9a7a9602dd9497bff4",
+      "published_at": "2026-05-19T21:53:54Z"
     },
     {
-      "id": "631363df-f6a4-377f-9ce3-f27f32b68f6a",
+      "id": "0749d9a6-4353-3a2e-85d0-e3045793ce08",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "If You Invested $1,000 in Bitcoin on Inauguration Day 2025, Here’s What You’d Have Now",
+      "summary": "On January 20, 2025, Donald Trump was officially inaugurated as the 47th President of the United States. Bitcoin (CRYPTO: BTC) briefly rallied to $109,000 within a few hours before retracing to $102,000 as the initial inauguration hype faded. A $1,000 investment in Bitcoin that day would have bought roughly 0.0098 BTC. With BTC now trading ... If You Invested $1,000 in Bitcoin on Inauguration Day 2025, Here’s What You’d Have Now",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/19/if-you-invested-1000-in-bitcoin-on-inauguration-day-2025-heres-what-youd-have-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I_Q_QXOSf4uF5TgiPeOmNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f073d5da27c2a7ba47fec6245740601b",
+      "published_at": "2026-05-19T21:40:24Z"
+    },
+    {
+      "id": "20ea99ac-1869-3d4c-86b0-e48f955b712b",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia says “Physical AI is here”. Is Your Blue Collar Job in Danger?",
-      "summary": "During Nvidia’s (NASDAQ:NVDA) Q4 FY2026 earnings call in late February this year, the company’s VP of Investor Relations said “Physical AI is here,” something that the company’s financials are also corroborating. That segment has already posted over $6 billion in annual revenue and is rising fast. So what is this physical AI in the first place? ... Nvidia says “Physical AI is here”. Is Your Blue Collar Job in Danger?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/19/nvidia-says-physical-ai-is-here-is-your-blue-collar-job-in-danger/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3osaC4M.y01FVKiSH7OIOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/af2f19b5af93bcdd1fa0b5961479e4f8",
-      "published_at": "2026-05-19T20:32:06Z"
+      "title": "Honda Is Pivoting. Should Investors Buy Now?",
+      "summary": "Honda's EV strategy failed, so the car company is refocusing on its core strengths.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/19/honda-is-pivoting-should-investors-buy-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YcWRXxdhUMMgbpxdT7t0hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/95c5a4b18ba69b5498bfb56feb97cdec",
+      "published_at": "2026-05-19T21:33:00Z"
+    },
+    {
+      "id": "7850892c-db6c-3a80-a87b-e18c182fb593",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock Market Today, May 19: Soaring Treasury Yields Pressure Markets",
+      "summary": "Today, May 19, 2026, long-term Treasury yields rose again, rattling U.S. stocks ahead of a pivotal Nvidia earnings test.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/19/stock-market-today-may-19-soaring-treasury-yields-pressure-markets/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n.h3LdpEarbC8pLJTJP8sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1",
+      "published_at": "2026-05-19T21:31:09Z"
+    },
+    {
+      "id": "34fb2f20-5a27-3cec-91fa-60c7d8090bdb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Would Anyone Buy SCHB Instead of MAGS?",
+      "summary": "The \"Magnificent Seven\" are looking less magnificent in 2026. This low-cost index fund could be a better buy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/19/why-would-anyone-buy-schb-instead-of-mags/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H4Uthth1Eif2O2jLbuR1pA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/653ef7cfc4be2437c4eadebfdc0a4a9a",
+      "published_at": "2026-05-19T21:20:00Z"
+    },
+    {
+      "id": "b4a5515a-8f9a-3a22-9e1e-24ddb015495c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies",
+      "summary": "Recent presidents have stayed away from trading stocks in companies whose fortunes they could lift or scuttle with the stroke of a pen, but Donald Trump smashed that precedent in the first quarter of this year with more than 3,600 buy and sell orders, many of them involving companies whose profits have been directly impacted by his decisions as head of the government.  Among the Trump trades in a recent report filed with a federal ethics agency was as much as $6 million in Nvidia, whose advanced chips Trump approved for sale to China last year.  “If he were defense secretary, he would be committing a crime,” said Richard Painter, the chief White House ethics adviser in the George W. Bush administration and a big critic of congressional trading, too.",
+      "source": "Associated Press",
+      "url": "https://www.yahoo.com/news/articles/trump-discloses-thousands-stock-trades-211954797.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ay63aVhWBoM0EpxgF8IsMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/250a5e30a44ceeba22d919e30f36a220",
+      "published_at": "2026-05-19T21:19:54Z"
+    },
+    {
+      "id": "f8a9a84f-b674-37be-b33a-e63bab6c8565",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI Is Supplying Blowout Earnings Again",
+      "summary": "Cisco and Lumentum delivered better-than-expected earnings results this quarter, and their valuations reflect Wall Street’s optimism.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/19/ai-is-supplying-blowout-earnings-again/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxaFcpdKEuAwazQIFFIvwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7256964d8463c38a38cd02e7cfa12ae7",
+      "published_at": "2026-05-19T21:13:36Z"
+    },
+    {
+      "id": "cf8e515e-e2bf-307b-a45b-161671258ba8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Mining stock tanks on Q1 loss as Nasdaq delisting threat looms",
+      "summary": "The Bitcoin (BTC) mining industry has been under severe pressure in 2026, with companies either pivoting to AI or shutting down entirely. Canaan (Nasdaq: CAN) is the latest to feel the pain as it reported its earnings for the first quarter of 2026 during market hours of May ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-mining-stock-drops-after-reporting-massive-q1-loss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7GWn57ZRtAXR8HBrISD1sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d7ac442afbe4c88305000463cdd8483f",
+      "published_at": "2026-05-19T21:05:38Z"
+    },
+    {
+      "id": "52285a33-cb30-37c0-8fb8-7413e5031b3b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Nasdaq, S&P 500 Fall For Third Day as Yields Jump",
+      "summary": "The Nasdaq Composite and the S&P 500 fell for a third consecutive session on Tuesday and Treasury yi",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-third-205840116.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KemtEB6CG4krkJpa4AjedQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
+      "published_at": "2026-05-19T20:58:40Z"
+    },
+    {
+      "id": "1d099bf1-3248-31d2-9333-c24084a7326b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil dips, stocks mixed after Trump holds off on Iran attack",
+      "summary": "Oil prices eased and stocks wavered on Tuesday, with investors tracking a potential deal between the United States and Iran and rising bond yields sounding the alarm on interest rate expectations.Investors are also nervously eyeing rising yields for government bonds in major economies, including the United States and Japan, indicating that investors are selling amid fears inflation will hinder economic growth.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/asian-markets-cautious-oil-dips-030210771.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/99ppe8mAmicztDinhpAEiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/9f58f36f422d6b45959ac798ee9cbb5f",
+      "published_at": "2026-05-19T20:51:10Z"
+    },
+    {
+      "id": "3138afc5-d9d9-36a8-a23f-1d60c33cd058",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Gemini Space (GEMI) Q1 2026 Earnings Call Transcript",
+      "summary": "This quarter, we grew revenue 42% and transaction revenue held steady year-over-year, even as trading volume declined more than 50% due to softness in the broader crypto market.  The price of Bitcoin is down roughly 30% since our IPO, and we are tied to that cycle.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/05/19/gemini-gemi-q1-2026-earnings-call-transcript/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/do0awEUxeGR4.CSga_WDIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8",
+      "published_at": "2026-05-19T20:43:05Z"
     },
     {
       "id": "d44d373d-91a0-378b-90e5-d1c4cd3a95b2",
@@ -59,50 +224,6 @@
       "published_at": "2026-05-19T20:26:41Z"
     },
     {
-      "id": "ed3ecbcb-4476-36d7-b34b-9be9e6420d10",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How Vertiv (VRT) Is Expanding Its Role in AI Data Center Power and Cooling",
-      "summary": "Vertiv Holdings Co (NYSE:VRT) is one of the best stocks to buy for next-gen data centers. On May 6, Hut 8 said its 1 GW Beacon Point AI data center campus in Texas would move ahead with a 15-year lease covering 352 MW of IT capacity, with Vertiv named as one of the Tier 1 […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-expanding-role-ai-202523078.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Il5d.K7Bbyp.qBwG7_rm5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/517e73da80fb9f24c74b9c3c9fc8c904",
-      "published_at": "2026-05-19T20:25:23Z"
-    },
-    {
-      "id": "e39dec74-5fec-3c06-b4c6-27abdcb8891b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How Broadcom (AVGO) Is Bringing VMware Into Production AI Infrastructure",
-      "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of the best stocks to buy for next-gen data centers. On May 5, the company announced VMware Cloud Foundation 9.1, describing it as a secure and cost-effective infrastructure platform for production AI workloads. Broadcom said the platform supports inference and agentic AI applications through an AI- and Kubernetes-native private cloud […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-bringing-vmware-production-202441278.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/77vUe.AZ495kVMX_2SVhtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8a0625664bc27d63e64f060c8f46dcea",
-      "published_at": "2026-05-19T20:24:41Z"
-    },
-    {
-      "id": "3be2efe2-138e-35a6-9db2-8b151ba66e59",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How Nvidia (NVDA) Is Building CPUs for the Agentic AI Data Center",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the best stocks to buy for next-gen data centers. On May 18, the company said its first Vera CPU systems had been delivered to Anthropic, OpenAI, SpaceXAI, and Oracle Cloud Infrastructure. NVIDIA described Vera as its first custom CPU, purpose-built for agentic AI workloads, including tool-calling, orchestration, reinforcement learning, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-building-cpus-agentic-202433926.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kXTvBm52PsTLwprftSDdqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/db28cb45a3bc4c1e8fbd43617dde2226",
-      "published_at": "2026-05-19T20:24:33Z"
-    },
-    {
-      "id": "28baedec-8a8a-3223-9d79-edb840b42cb5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "How major US stock indexes fared Tuesday 5/19/2026",
-      "summary": "",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202118635.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T20:21:18Z"
-    },
-    {
       "id": "ffb4d139-3c04-31df-82ba-8a177af4ff2e",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -125,28 +246,6 @@
       "published_at": "2026-05-19T20:17:00Z"
     },
     {
-      "id": "862ce782-ec60-35ce-9a1b-4264d958f371",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Markets Lower After Treasury Yield Hike, Chances of Policy Rate Increase, President Trump's Threat to Hit Iran Again",
-      "summary": "US equity indexes end lower on Tuesday after the 30-year treasury yield hit a near two-decade high,",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-lower-treasury-201430574.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T20:14:30Z"
-    },
-    {
-      "id": "e5af0dd7-20ac-370f-b360-9b3c72695cf4",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Prices Drop as Trump Waffles on Timeline for an Iran Deal",
-      "summary": "Oil prices fell slightly Tuesday on fuzzy messaging from the President on when he might restart military action against Iran if no deal is struck.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/oil-prices-today-trump-iran-russia-6f3f8bac?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mZ7Fn12Wd3WRF_HHf3tG1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/cea7681d9afed310e37a793664921cd3",
-      "published_at": "2026-05-19T20:14:00Z"
-    },
-    {
       "id": "f041db81-5bb3-38ef-92d5-7963d1212547",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -156,6 +255,17 @@
       "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-said-sam-altman-201100746.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LAdIv3EcwIXW_.Dsaqg3rA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/a7f5424a2c970a86590a16885403bcb9",
       "published_at": "2026-05-19T20:11:00Z"
+    },
+    {
+      "id": "758feef0-cd3e-36ea-b512-c8bf9be8016e",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Beyond NVIDIA: The Next Phase of the AI Investment Boom",
+      "summary": "We discuss AI infrastructure, quantum computing, and modern warfare ETFs.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/beyond-nvidia-next-phase-ai-200900801.html",
+      "thumbnail": "",
+      "published_at": "2026-05-19T20:09:00Z"
     },
     {
       "id": "75fddd57-8455-4d0b-989b-90b1ca4c339d",
@@ -191,17 +301,6 @@
       "published_at": "2026-05-19T20:04:43Z"
     },
     {
-      "id": "4a4c354d-1ef3-3d8d-9601-208cf51aa0e8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sector Update: Energy Stocks Rise Late Afternoon",
-      "summary": "Energy stocks were higher late Tuesday afternoon, with the NYSE Energy Sector Index rising 0.8% and",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-rise-afternoon-200035070.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T20:00:35Z"
-    },
-    {
       "id": "da8c3abe-a6eb-34c2-bfb7-1e8239487d1d",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -211,105 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195812566.html",
       "thumbnail": "",
       "published_at": "2026-05-19T19:58:12Z"
-    },
-    {
-      "id": "c2054ef8-14c1-3c4e-957a-d75adfec1f81",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "RBC Capital Reaffirms a “Sector Perform” Rating on UiPath, Inc. (PATH)",
-      "summary": "UiPath, Inc. (NYSE:PATH) is one of the 8 Best Affordable AI Stocks to Buy Right Now. On May 15, RBC Capital lowered its price target on UiPath, Inc. (NYSE:PATH) to $12 from $14. It reaffirmed a “Sector Perform” rating on the shares. The firm noted a cautious stance ahead of Q1 results, stating the company […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reaffirms-sector-perform-195556471.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pCTxEn5lA8i30nysgQDq_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/665212742ae9f168e4d921f258b54059",
-      "published_at": "2026-05-19T19:55:56Z"
-    },
-    {
-      "id": "9bcd8e79-54fa-3ea9-91fd-fab9aa75f430",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "summary": "Tech stocks were mixed late Tuesday afternoon with the State Street Technology Select Sector SPDR ET",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-mixed-afternoon-195318606.html",
-      "thumbnail": "",
-      "published_at": "2026-05-19T19:53:18Z"
-    },
-    {
-      "id": "3aec192a-80c0-3894-823e-f05705f3ae82",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "OceanaGold (OGC) Reports High-Grade Haile Gold Drill Results",
-      "summary": "OceanaGold Corporation (NYSE:OGC) is one of the 8 Best Debt Free Gold Stocks to Buy. On May 12, 2026, OceanaGold Corporation (NYSE:OGC) announced additional high-grade drilling results from its ongoing exploration and resource conversion program at the Haile Gold Mine in the United States. President and CEO Gerard Bond said the latest drilling results continue […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oceanagold-ogc-reports-high-grade-195309484.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/63zS12iLBuTQWILERqP1Rg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0df8f375ad94646d812bb45340f3f03e",
-      "published_at": "2026-05-19T19:53:09Z"
-    },
-    {
-      "id": "e7318a4a-9b3a-31d6-87b3-a1f617136716",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Zcash Foundation Reports $36.69M Treasury as ZEC Trades Near Recent Highs",
-      "summary": "Zcash Foundation ended the first quarter with $36.69 million in liquid assets, giving the privacy-focused network a...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/zcash-foundation-reports-3669m-treasury-as-zec-trades-near-recent-highs-5544",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1SIyBfYUR.S7TEV0fvCFNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/53dcb63f43e68f730c7910ebd57ef67d",
-      "published_at": "2026-05-19T19:50:00Z"
-    },
-    {
-      "id": "396e4549-bf6a-3055-b22a-1085edc753cd",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "New Survey Finds 10% Of U.S. Adults Use Or Own Crypto",
-      "summary": "A new survey from the U.S. Federal Reserve has found that 10% of American adults used or owned cryptocurrencies suc...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/new-survey-finds-10-of-us-adults-use-or-own-crypto-5543",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pLtE5k6Qj2gzCoZG6tKBFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/bd57b92632408b8bfb29aecad42bd286",
-      "published_at": "2026-05-19T19:48:00Z"
-    },
-    {
-      "id": "9421be58-e376-34e5-82e5-e76ef314ea5e",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "5-star analyst drops eye-popping Intel stock price target",
-      "summary": "Intel (INTC) stock has lost about 19.17% since hitting its highest-ever closing price of $129.44 on May 11. It is currently trading at $104.62, according to Yahoo Finance at the time of writing, Tuesday morning, May 19. Intel repurchased Apollo’s (APO) equity interest in the joint venture related ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/5-star-analyst-drops-eye-popping-intel-stock-price-target",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/noZGRpfPKXf0htudrjDA2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/40fc0110549d01dc83caa85047031490",
-      "published_at": "2026-05-19T19:47:00Z"
-    },
-    {
-      "id": "42200f92-464e-4844-b46e-ab09ef29f52c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Analyze Apple stock on Yahoo Finance's new AI platform AlphaSpace",
-      "summary": "Josh Lipton, host of Market Domination, explores Yahoo Finance's latest offering and new way to level up your investing strategy, AlphaSpace.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/analyze-apple-stock-on-yahoo-finances-new-ai-platform-alphaspace-194037185.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b9K01SknGDZgWtBpbH0Cxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1233091855_2955.jpg",
-      "published_at": "2026-05-19T19:40:37Z"
-    },
-    {
-      "id": "32990baf-2582-3790-bd8f-0f30144ac9f3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Miners Emerge as Unlikely Power Brokers in AI Infrastructure Race, Says Bernstein",
-      "summary": "Bernstein remains bullish on Bitcoin mining firms like IREN, Riot, and CleanSpark, who are all riding the wave of AI compute demand.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/368381/bitcoin-miners-unlikely-power-brokers-ai-infrastructure-race-bernstein",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9weV2TJqa4aBjRwEDx.6Dw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/6dfc35bb546d4a03f3ef4ae88a5d0f73",
-      "published_at": "2026-05-19T19:35:23Z"
-    },
-    {
-      "id": "d4f6a6ad-54c1-3e6c-8a69-446f8d5b4f7e",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Amazon, Microsoft, Google power AI behind 49,000 finance layoffs",
-      "summary": "Roughly $1.5 trillion has flowed into artificial intelligence deployment since the launch of ChatGPT in late 2022, according to Advisor Perspectives, a sum that matches the projected fiscal year 2027 U.S. defense budget. Amazon, Microsoft, and Google are projecting approximately $725 billion in ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/employment/amazon-microsoft-google-power-ai-behind-49000-finance-layoffs",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q1pjmggifQIGKjyh6XiNCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/30f4fb02be7d1518e3be31865155b99a",
-      "published_at": "2026-05-19T19:13:00Z"
     }
   ]
 }
