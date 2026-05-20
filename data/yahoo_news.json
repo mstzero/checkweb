@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-05-20 22:26 UTC",
+  "last_updated": "2026-05-20 23:48 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3df2c9e6-27b7-3558-9047-52b022ddb5d6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia-backed AI startup wants to solve AI’s ‘hard problem’",
+      "summary": "Jensen Huang is betting on a new AI lab that thinks the current chatbot frenzy is just the beginning. Nvidia (NVDA) has already emerged as one of the greatest winners of the artificial intelligence boom. Its chips now make up the backbone of most of the infrastructure powering modern AI, helping ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-wants-to-solve-ais-hard-problem",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qk_98CfneTHt0UsrPtcLkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/67345d9aafbeb6739e76cbfae64de1ed",
+      "published_at": "2026-05-20T23:37:00Z"
+    },
     {
       "id": "ceac2592-664b-3412-92e2-ff5aa640c81d",
       "asset": "NVDA",
@@ -12,51 +23,139 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RCjbYxZXI5uyQ86VO6Ef4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2297524b1203ca5b2dab39f65a7206bf",
-      "published_at": "2026-05-20T22:15:36Z"
+      "published_at": "2026-05-20T23:31:55Z"
     },
     {
-      "id": "abba6529-9feb-42b0-8bd3-df14da4aa14a",
+      "id": "730a278d-c662-36c5-80da-642dfe5bd718",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "SpaceX Bitcoin Stack Reaches $1.45B as Public Listing Nears",
+      "summary": "SpaceX’s IPO filing has turned its bitcoin (CRYPTO: $BTC) holdings into a public-market disclosure, revealing...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/spacex-bitcoin-stack-reaches-145b-as-public-listing-nears-5564",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FFPlSUIQiI6_QVFe2TA7Mw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/12f8db277542b21bdd7a628be571d558",
+      "published_at": "2026-05-20T23:26:00Z"
+    },
+    {
+      "id": "828a3516-7606-44b7-b900-0593bb2b8ed4",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia says it will see $20 billion in CPU sales this year",
-      "summary": "Nvidia says it is getting into the $200 billion CPU market.",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Wall Street shrugs off Nvidia earnings",
+      "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/nvidia-says-it-will-see-20-billion-in-cpu-sales-this-year-221129958.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mdcNhKhnTRdtI5XzD51X6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-05/0695bb90-3c03-11f0-9f5f-924c9fbcb763",
-      "published_at": "2026-05-20T22:11:29Z"
+      "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-wall-street-shrugs-off-nvidia-earnings-232311657.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EGugVaEz6EGZ9Ily5i4WUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-05/4352eb80-5484-11f1-afbb-4cc8e966d135",
+      "published_at": "2026-05-20T23:23:11Z"
     },
     {
-      "id": "48c76c94-f74b-3f24-8991-108bec2147be",
+      "id": "8b7d0f6d-cd69-3988-9890-cc1294e5a793",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Why Bloom Energy Stock Bounced 8% Higher Today",
-      "summary": "It secured a power supply deal with a prominent AI cloud company.",
+      "title": "Why Relay Therapeutics Stock Popped on Wednesday",
+      "summary": "In a way, this was a delayed reaction to excellent news from the lab.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/20/why-bloom-energy-stock-bounced-8-higher-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zeq4wkpoLgJundBIAvgH9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/121269b6d4d9a430ae15e5502c5064e0",
-      "published_at": "2026-05-20T22:11:21Z"
+      "url": "https://www.fool.com/investing/2026/05/20/why-relay-therapeutics-stock-popped-on-wednesday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d.IYSpzhJkwNBF9IdO2.XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/26f242144eeea15d2d0744d3c4123a79",
+      "published_at": "2026-05-20T23:21:49Z"
     },
     {
-      "id": "b99ed70b-3698-379d-b7df-caf4d3bb0a4d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Beats Q1 Estimates. Stock Slips.",
-      "summary": "AI kingpin Nvidia beat expectations for its fiscal first quarter and with its outlook. Nvidia stock slipped in extended trading.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q1-2027-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ox2Um4SRqIw.YnT5pwSEaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9e49eeec4e1d906e892574096ad4afcb",
-      "published_at": "2026-05-20T22:07:21Z"
+      "id": "a69a17f4-4261-3186-8f3c-44bc42b325c6",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Owns Nearly 19 Million Shares of SpaceX: What TSLA Investors Need to Know Before the IPO",
+      "summary": "I’ve been digging through the SpaceX S-1 filing for hours, and one number deserves its own spotlight in every TSLA model: Tesla’s beneficial ownership of SpaceX Class A common stock. I’m not going to waste your time with a huge article about this. I thought you needed to know right way, so here are the ... Tesla Owns Nearly 19 Million Shares of SpaceX: What TSLA Investors Need to Know Before the IPO",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/20/tesla-owns-nearly-19-million-shares-of-spacex-what-tsla-investors-need-to-know-before-the-ipo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LZY2ECt3Bqfdl0yjJn1jiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fc2acbebb8d9b27812b66838d21710b4",
+      "published_at": "2026-05-20T23:15:40Z"
     },
     {
-      "id": "4c6b0b0c-a963-3993-b3cd-4a59b6df9be4",
+      "id": "392e68f1-ada0-32a9-9b4c-6b5b0953f434",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s AI Overhaul and CEO Transition Could Be A Game Changer For Apple (AAPL)",
+      "summary": "In recent weeks, Apple has reported record quarterly results, previewed extensive Apple Intelligence and Siri upgrades, and reshaped its hardware organization as it prepares for a CEO handover to John Ternus later this year. These developments highlight how Apple is trying to pair a growing, high-margin services and AI ecosystem with leadership change and tighter silicon–device integration to reinforce its competitive position. We’ll now examine how Apple’s accelerated Apple Intelligence...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ai-overhaul-ceo-transition-231510014.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bU5AIomYRBg3WBNqAswADg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+      "published_at": "2026-05-20T23:15:10Z"
+    },
+    {
+      "id": "809993dd-4ec6-3f7b-9322-ae8cf3e22bc5",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-      "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-posts-another-record-quarter-220351977.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_6ItuFSyocpdqPF4J2A5lA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/a3fb3583c0bb295e3097f19b030f8db7",
-      "published_at": "2026-05-20T22:03:51Z"
+      "title": "NVIDIA Q1 Earnings Call Highlights",
+      "summary": "NVIDIA (NASDAQ:NVDA) reported record first-quarter fiscal 2027 results, with revenue, operating income and free cash flow all surpassing prior company highs, as executives said demand for AI infrastructure continued to accelerate across hyperscale cloud providers, AI cloud companies, sovereign custo",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/nvidia-q1-earnings-call-highlights-2026-05-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/baDi.lymDyXlle9VpXWxGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/ffe52edad9a5e7b3d1e9b401d3d13a68",
+      "published_at": "2026-05-20T23:05:09Z"
+    },
+    {
+      "id": "8b316b05-ae54-37b3-9704-f201a2b391ba",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Analyst Predicts a 2027 Merger Between Tesla and SpaceX",
+      "summary": "Wedbush analyst Dan Ives and team put out a research note shortly after the SpaceX prospectus dropped with a prediction: Ives believes that SpaceX and Tesla will merge in 2027. He notes how Tesla already owns a stake in SpaceX and that the joint Terafab facility between SpaceX and Tesla further ties both operations.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/analyst-predicts-a-2027-merger-between-tesla-and-spacex-1PBdLpFjSHr5bsxlP3PF?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-20T22:47:46Z"
+    },
+    {
+      "id": "0e110996-e828-324b-867f-cd3c67645e26",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "SpaceX Bought $131 Million Worth of Tesla’s Cybertrucks in 2025",
+      "summary": "SpaceX laid out all of its connected transactions with Tesla, including that it bought $131 million of Cybertrucks from Tesla in 2025 at the “manufacturer’s suggested retail price.”  The SpaceX prospectus provided the first glimpse of the dollar figures for payments to Musk’s other companies.  In total, Tesla is mentioned 87 times in the SpaceX prospectus, including this outlook: “We plan to explore other areas of strategic collaboration with Tesla in the future.”",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/spacex-bought-131-million-worth-of-tesla-s-cybertrucks-in-2025-KPAyR3LbnapCCkmD94dO?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CSK_8ceLXi3KbcrJ2Zwv1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/b856eb14e50fc9c2d858ca1e719c9941",
+      "published_at": "2026-05-20T22:27:57Z"
+    },
+    {
+      "id": "dce631c1-fd0b-3262-9ee9-d17121e47487",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Among SpaceX’s Risk Factors: Musk Himself",
+      "summary": "In its lengthy risk factors section, SpaceX’s IPO filing notes that Elon Musk is critical to the company and that high dependency could put investors at risk.  The filing says it doesn’t maintain key-person life insurance on Musk.  Also, while Musk devotes significant time to SpaceX, he doesn’t devote his full time and attention, given his roles at Tesla, Neuralink and The Boring Company.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/among-spacex-s-risk-factors-musk-himself-J10sMfjmC048j8j0Sh4Y?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3b_P22t4WE3RLxd7s4sg1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/1aed7874c31dd70b2a6600ae4ba4c73a",
+      "published_at": "2026-05-20T22:19:13Z"
+    },
+    {
+      "id": "b62a026c-fddb-3296-86ea-c93fb6afc859",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Has Sold Around $890 Million of EVs and Batteries to SpaceX",
+      "summary": "(Bloomberg) -- Tesla Inc. has generated around $890 million in revenue from SpaceX and xAI since 2023, a substantial sum underscoring the extent of commingling across Elon Musk’s business empire.Most Read from BloombergSpot the Difference: Putin Gets Trump Treatment From Xi in ChinaIran Threatens to Retaliate Beyond Middle East If US AttacksHasbro Cancels Dungeons & Dragons Game From ‘Star Wars’ VeteranUS Lawmakers Plan New $130 Fee for Electric Vehicle OwnersUS Treasuries Rebound on Optimism fo",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-sold-around-890-million-221848564.html",
+      "thumbnail": "",
+      "published_at": "2026-05-20T22:18:48Z"
+    },
+    {
+      "id": "c53feb69-124f-3bdc-925d-dea5a71d80a0",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Musk’s Companies Like to Share the Wealth— and Corporate Jets",
+      "summary": "Elon Musk’s companies are helping each other out—including with their corporate jets. SpaceX “obtained goods and services” of $144 million from Tesla last year, according to the filing, while Musk’s xAI paid Tesla about $731 million since the beginning of 2024.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/musk-s-companies-like-to-share-the-wealth-and-corporate-jets-ukikeIcoCJ0hvegfBDTQ?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-20T22:17:38Z"
+    },
+    {
+      "id": "b32a4697-c624-3019-93d5-b53a2c975dac",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "SpaceX Sees a Fantastically Large Market for Itself",
+      "summary": "Companies often inflate such numbers, referred to as their “total addressable market,” to show investors that they have a lot more room to grow.  “We believe we have identified the largest actionable TAM in human history,” SpaceX’s filing crowed.  Now, throw in the $10 trillion revenue opportunity SpaceX and Tesla chief Elon Musk put forth for Tesla’s humanoid robot in January.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/spacex-sees-a-fantastically-large-market-for-itself-mp5sfTaCykfwt4xfJ8fG?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-20T22:13:32Z"
     },
     {
       "id": "5255174f-85c6-38f3-b615-71937b83acf4",
@@ -81,15 +180,26 @@
       "published_at": "2026-05-20T21:54:37Z"
     },
     {
-      "id": "ef93a08d-d830-3700-8b35-d2c27c37fc47",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Instant View: SpaceX files long awaited IPO, creating a fresh AI play",
-      "summary": "Elon Musk's rocket and satellite maker SpaceX filed on Wednesday for its widely awaited initial public offering, which stands to raise the most ever ‌in an initial offering.  \"It's a little scary to come ​in and say, 'Yeah, let's go invest in ‌a $2 trillion company,\" hoping that they'll reach the stars.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/instant-view-spacex-files-long-214752165.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.gnNj5HN5aYHiNaGdaebcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/c5c71ab024571c010dd1ae67105a5e57",
-      "published_at": "2026-05-20T21:47:52Z"
+      "id": "b32e2ccf-89ca-3992-8e9e-158278023f15",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Nvidia Can Outgrow Hyperscaler CapEx: Jensen Huang",
+      "summary": "CEO Jensen Huang says that Nvidia's growth prospects go beyond the massive spending from hyperscalers.  Hyperscalers are the massive cloud providers, like Microsoft and Alphabet, that are spending hundreds of billions of dollars on AI.  The concern on Wall Street is that eventually these companies will eventually stop spending as much on Nvidia chips.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-can-outgrow-hyperscaler-capex-jensen-huang-tjjxkszK7NnUEcflh1T2?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+      "published_at": "2026-05-20T21:44:57Z"
+    },
+    {
+      "id": "4431c434-2d58-4af7-aae0-f7ab88dabd45",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Q1 earnings results: Top takeaways",
+      "summary": "Nvidia (NVDA) released its first quarter results on Wednesday, outpacing adjusted earnings ($1.87 per share vs. Bloomberg estimates of $1.77) and revenue forecasts ($81.62 billion vs. estimates of $79.18 billion).Yahoo Finance Tech Editor Dan Howley shares his biggest takeaways from the print with Yahoo Finance's Brooke DiPalma.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/nvidia-q1-earnings-results-top-takeaways-213230096.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AOcQ6z8tZMfzMH_rLGTiqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/01cb18d5-ec77-4a5f-8577-4e155659e463_5085bfd3aad413b58f39252aed14969a09273680bd7f849ba93d72225422cc7c.jpg",
+      "published_at": "2026-05-20T21:32:30Z"
     },
     {
       "id": "d19e3612-d08f-3fe3-9db7-f6de824f2b93",
@@ -125,17 +235,6 @@
       "published_at": "2026-05-20T21:30:21Z"
     },
     {
-      "id": "eb039d4e-9fa4-342b-9379-a98b788f7eec",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX IPO Filing Finally Comes. Mars, Musk, and More Big Things to Watch.",
-      "summary": "The S-1 IPO registration statement for Elon Musk’s rocket company SpaceX arrived late Wednesday afternoon.  Investors can download it here.  The IPO is expected to raise a record amount of money, valuing Elon Musk’s company at roughly $2 trillion—enough to turn the world’s richest person into a trillionaire.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-ipo-filing-stock-musk-74d9b0ca?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FsJ9sAjpRfxARyWzIJIU7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5b54b97ae566342fe1fbb54160631653",
-      "published_at": "2026-05-20T21:16:00Z"
-    },
-    {
       "id": "7feeae4b-a018-3e60-9043-c4ab32b6a1c2",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -167,17 +266,6 @@
       "url": "https://www.cryptoprowl.com/releases/crypto-custody-firm-copper-puts-itself-up-for-sale-5559",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A.oJs40ewl2HrfRVOZVQ8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/dccbfef2a1426a0500803b5d58bc2b40",
       "published_at": "2026-05-20T21:02:00Z"
-    },
-    {
-      "id": "79482df4-015a-4124-bb7b-27c611b3bebd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Q1 earnings: AI infrastructure outlook 'remains intact'",
-      "summary": "Nvidia (NVDA) exceeded Wall Street's estimates for the AI chipmaker's first quarter, reporting adjusted earnings of $1.87 per share and $81.62 billion in revenue. The company also outpaced forecasts on its second quarter outlook. A panel consisting of CFRA Research senior vice president Angelo Zino, Spear Invest founder and CIO Ivana Delevska, and TECHnalysis Research president Bob O'Donnell comes on Asking for a Trend to discuss Nvidia's earnings results and guidance.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nvidia-q1-earnings-ai-infrastructure-outlook-remains-intact-210025902.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mdcNhKhnTRdtI5XzD51X6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-05/0695bb90-3c03-11f0-9f5f-924c9fbcb763",
-      "published_at": "2026-05-20T21:00:25Z"
     },
     {
       "id": "49156ed6-9576-3ee6-87c1-8c804b8e7bac",
@@ -222,94 +310,6 @@
       "url": "https://www.thestreet.com/crypto/markets/battered-stock-attempts-reverse-split-to-avoid-nasdaq-delisting",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1LWDZanLcNglml5.sWmJ1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7232bc602fb19d6a85714f78f60b2392",
       "published_at": "2026-05-20T20:40:36Z"
-    },
-    {
-      "id": "35d209df-636f-37f1-9030-50bdefaf25aa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks to keep rallying if oil prices continue to moderate, says CIO",
-      "summary": "<body><p>STORY: \"We think the market is fairly constructive. We do believe that part of why the market has rallied so aggressively off the March lows is they're pricing in the likelihood of the Iran crisis abating in the near term in the Straits of Hormuz opening back up,\" says Isherwood, who adds he is not concerned about high valuations of stocks because corporate earnings expectations continue to climb.&nbsp;</p></body>",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/stocks-keep-rallying-oil-prices-204033028.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wc7u.ipAdrkQ2.BOuPb9OQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/eff6a452-c698-418d-a233-62dacb4b7721/main/1280x720/55s983ms/match/image.jpg",
-      "published_at": "2026-05-20T20:40:33Z"
-    },
-    {
-      "id": "5df91650-8983-47e4-99bd-425864e1f4d7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia exceeds Q1 estimates alongside strong revenue outlook",
-      "summary": "Nvidia (NVDA) released its first quarter results in Wednesday's after-hours session, outpacing adjusted earnings ($1.87 per share vs. Bloomberg estimates of $1.77) and revenue forecasts ($81.62 billion vs. estimates of $79.18 billion). Yahoo Finance Tech Editor Dan Howley analyzes the earnings print from the AI chip juggernaut, diving into Nvidia's second quarter guidance and its AI data center revenues.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nvidia-exceeds-q1-estimates-alongside-strong-revenue-outlook-203720089.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7gwPn.ifOWNvbp41zeWk0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/2334b79d-e984-4f29-b7e7-800ac703cfb3",
-      "published_at": "2026-05-20T20:37:20Z"
-    },
-    {
-      "id": "d0e65353-74ed-3995-ad56-fde0e7d857b2",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia's Data Center Revenue Soars. It's Not Just From the 'Hyperscalers.'",
-      "summary": "Nvidia's first-quarter data center sales soared by 92% from last year to $75 billion, a new record.  Nvidia also changed how it breaks up data center sales in its reporting.  It's now showing how much of it comes from outside of the so-called \"hyperscalers\" of Amazon.com, Microsoft, Alphabet, and Meta Platforms.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-s-data-center-revenue-soars-it-s-not-just-from-the-hyperscalers--zmb2eRJUZAPxchkniyXm?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qg6VxcroW_zemReyAR38FQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/456c0853be5b3516651f2fca718c5ee5",
-      "published_at": "2026-05-20T20:36:00Z"
-    },
-    {
-      "id": "256ab78a-f942-3028-89b0-ddd7a3cafb79",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft’s carbon-removal plans aren’t dead after all",
-      "summary": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/microsoft-carbon-removal-plans-aren-203024641.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jkno69_rWzT_p.71BMSnvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/3563cbc3277a5e6ceef07855bc100410",
-      "published_at": "2026-05-20T20:30:24Z"
-    },
-    {
-      "id": "20ef7306-4981-3042-8b60-05e2e554e574",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Fiduciary Family Office Dumps Its Entire $10.2 Million Stake in JIVE",
-      "summary": "JPMorgan International Value ETF provides global equity diversification with a value tilt and competitive yield across developed and emerging markets.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/filings/2026/05/20/fiduciary-family-office-dumps-its-entire-usd10-2-million-stake-in-jive/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2LkaEQEoeVvyg2dVnXl7CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c27a7e2773e2dd4be080db2e8154f7c0",
-      "published_at": "2026-05-20T20:28:18Z"
-    },
-    {
-      "id": "ee0d6da2-d3fe-3a26-b89c-b0118be705ff",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Fundstrat’s Sean Farrell: Bitcoin Looks Increasingly Attractive Despite Macro Chaos",
-      "summary": "Fundstrat's Sean Farrell makes the case for a bullish end to the year",
-      "source": "Coinage Coop",
-      "url": "https://www.coinage.media/2026/fundstrats-sean-farrell-bitcoin-looks-increasingly-attractive-despite-macro-chaos",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ecM8yQXc8xwujH_E3CWxsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinage_coop_399/93ce68788753724f6199e3ef4da673bb",
-      "published_at": "2026-05-20T20:27:00Z"
-    },
-    {
-      "id": "f7ffbf66-1728-3420-aca9-9d76cedd80a1",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "TSX Closer: The Index Closes Higher For the First Time In Three Sessions",
-      "summary": "The Toronto Stock Exchange on Wednesday recovered much of the 500-plus points lost over the prior tw",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-higher-201836565.html",
-      "thumbnail": "",
-      "published_at": "2026-05-20T20:18:36Z"
-    },
-    {
-      "id": "149ca11c-ab11-3891-b07a-0770bab9d1af",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "ULTY’s Weekly Distributions Look Generous Until You See What Happened to the Share Price",
-      "summary": "YieldMax Ultra Option Income Strategy ETF (NYSEARCA:ULTY) distributes weekly amounts in the $0.37 to $0.52 range through 2026, an annualized run rate the fund’s marketing has pinned at 77%, 104%, even 117%. Those distributions land in your account on schedule. Whether they have made ULTY holders richer is a separate question, and the answer across ... ULTY’s Weekly Distributions Look Generous Until You See What Happened to the Share Price",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/20/ultys-weekly-distributions-look-generous-until-you-see-what-happened-to-the-share-price/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/93Y6q5kVf_4e67VMI4suZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8fb9d1e4ec4ce7461c03f0c9d1116b6d",
-      "published_at": "2026-05-20T20:16:01Z"
     }
   ]
 }
