@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-05-23 10:51 UTC",
+  "last_updated": "2026-05-23 11:58 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1901eb87-3fa1-39ef-a89e-078ab9fd476c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "2 S&P 500 Stocks to Research Further and 1 We Question",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-114055763.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_OH7BsaJvzZzMyuZZdyvNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/32591b77a8ad02eacdfd8a45d8896448",
+      "published_at": "2026-05-23T11:40:55Z"
+    },
+    {
+      "id": "3613cfa7-7c78-363c-9063-468534c30367",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The AI Stock Built for Investors Who Don't Want to Trade -- Just Compound",
+      "summary": "Google is turning Gemini into a profit engine.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/23/ai-stock-built-investors-who-dont-want-trade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iHs977lahoXKzZojmxOvfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6618f2ab4e9089a0a58c717d9f4025d9",
+      "published_at": "2026-05-23T11:35:00Z"
+    },
+    {
+      "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",
+      "summary": "The stock market rebounded for solid weekly gains, with leaders showing bullish action. Tesla is near a buy point along with ASML and several other AI stocks. Here's what to do.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FtB1pqfT3DvRySQuy4jtZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
+      "published_at": "2026-05-23T11:25:48Z"
+    },
+    {
+      "id": "175eec38-0a8f-3863-9c4a-11167ec46284",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Chainlink Could Be the Most Important Cryptocurrency You've Never Heard Of",
+      "summary": "Chainlink is a pick-and-shovel blockchain play that could soar as adoption grows.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/23/why-chainlink-could-be-the-most-important-cryptocu/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V8DUswyMK3fLf2CT5y0oKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eacd3a4d176d68188c342b40ce9c5f73",
+      "published_at": "2026-05-23T11:25:00Z"
+    },
+    {
+      "id": "71f920ec-af45-3468-b8ad-ab09ad774b2d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Arthur Hayes Warns Of 'Hunger Games Of Debt' As Bitcoin Eyes ‘Policy Panic’ Rally",
+      "summary": "Hayes said altcoins are structurally broken and singled out Hyperliquid as the rare exception that gives back 97% of its revenue to token holders.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-warns-hunger-games-debt-bitcoin-eyes-policy-panic-rally/cZgPLnyReYf",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hsqlF_UdGBJMtPM5EUNjoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c34d7abda539def2a466c40f5e27e886",
+      "published_at": "2026-05-23T11:24:04Z"
+    },
+    {
+      "id": "6cd6eb2c-0605-365a-82d3-9a0225fe6cb5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jensen Huang Just Made a Surprise Announcement. Here's What It Means for Nvidia Investors.",
+      "summary": "The tech giant is entering a new phase in AI dominance.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/23/jensen-huang-surprise-announcement-nvidia/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qjcs.FqGW1bGVp9rTQLQaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ee260e821757c8858dca047c6a3f6097",
+      "published_at": "2026-05-23T11:15:00Z"
+    },
+    {
+      "id": "646eb36f-3d16-3c5e-b931-5a9e111ff8f4",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Metals One is a identifier, financier and developer - ICYMI",
+      "summary": "Metals One PLC (AIM:MET1, FRA:HT7, OTCQB:MTOPF) this week outlined progress across its gold and uranium project portfolio as chief executive Daniel Maling discussed the company’s near-term operational plans and financing strategy in an interview with Proactive. Maling said Metals One...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1092772/metals-one-is-a-identifier-financier-and-developer-icymi-1092772.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RmznJSdGTFT8HqgNjstuSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/9b0e04817ea1847b97c47eee2ad350b3",
+      "published_at": "2026-05-23T11:01:00Z"
+    },
+    {
+      "id": "ac141c7c-8c2f-3abc-9354-877e2e29f5bb",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US oil producers increase output to capture price surge from Iran war",
+      "summary": "US oil producers are increasing output to capitalise on the energy crisis prompted by Donald Trump’s war in Iran and expectations that crude...",
+      "source": "Financial Times",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/us-oil-producers-increase-output-110007056.html",
+      "thumbnail": "",
+      "published_at": "2026-05-23T11:00:07Z"
+    },
     {
       "id": "37631f40-0cb5-3c63-a033-e2f48316d2af",
       "asset": "SPY",
@@ -59,6 +147,17 @@
       "published_at": "2026-05-23T10:05:00Z"
     },
     {
+      "id": "60c068f9-ca68-372f-9626-4eab8d28b6d8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang Says Vera Rubin Will Be 'More Successful' Than Blackwell As Nvidia's Share In Inference Growing 'Very, Very Quickly'",
+      "summary": "On Wednesday, Nvidia Corp CEO Jensen Huang said the chipmaker is rapidly expanding its dominance in AI inference and expects every major frontier AI company to adopt its Vera Rubin platform as demand for advanced AI computing accelerates. Nvidia Says...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-100133567.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5hyQbhgG_GCzd7Fh0R3RHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/fdbba84ca36e194e0b9d03eabf433b9d",
+      "published_at": "2026-05-23T10:01:33Z"
+    },
+    {
       "id": "cea9fa7b-784b-3ce0-8bbd-6c7fc355ff84",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -68,17 +167,6 @@
       "url": "https://247wallst.com/investing/2026/05/23/sphd-pays-monthly-income-without-fail-since-2012-heres-what-could-break-the-streak/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cImNApBUYmgytEeNllnx5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
       "published_at": "2026-05-23T09:30:43Z"
-    },
-    {
-      "id": "67366541-f4e8-39fb-aad8-2de1c1a0def7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Best Warren Buffett Stocks to Buy With $3,000 Right Now",
-      "summary": "He's no longer in charge of Berkshire Hathaway's portfolio, but his picks are still in place for a reason.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/23/the-best-warren-buffett-stocks-to-buy-with-3000-ri/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cszTxPnCeTfDTQvB1b7D9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8ca4e64e172f9a8ad86b4324ae7696da",
-      "published_at": "2026-05-23T09:05:00Z"
     },
     {
       "id": "43aa0c81-7b7d-381f-912d-cab909a30057",
@@ -101,17 +189,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/strives-bitcoin-backed-strategys-saylor-calls-interesting-story-in-bitcoin-right-now/cZgPOmFReY9",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JLgSUXrq5KC9U4mQsW0POQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/620ba942afdf3b9cb0dd0810f41c32b4",
       "published_at": "2026-05-23T08:52:30Z"
-    },
-    {
-      "id": "99fe4d58-0bff-30ce-a22f-fe7853a3e7d4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Memory Chip Supercycle 2026: Why Micron and Sandisk Are the Hottest Bets Now",
-      "summary": "The memory industry's soaring revenue should ensure that the red-hot rally of these stocks continues.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/23/memory-chip-supercycle-2026-why-micron-and-sandisk/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TAZumR5QA31NSi8m4IkhdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b6b7df7681be087e8d8d472658beed04",
-      "published_at": "2026-05-23T08:43:00Z"
     },
     {
       "id": "4c9ec9ef-a3bd-3680-bdb2-f41f9ec975a3",
@@ -145,28 +222,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-core-scientific-corz-082242460.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mYT0uhCOhuoEGs8Uxx5KBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c5ce77831e9cad461ecfd756a4def5b7",
       "published_at": "2026-05-23T08:22:42Z"
-    },
-    {
-      "id": "e734ad4f-4680-38f4-b903-0ee0754694b5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Most Important Marijuana Stock You're Not Watching",
-      "summary": "It's an unuaual company, in that it doesn't sell a single ounce of weed.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/23/the-most-important-marijuana-stock-youre-not-watch/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d_kuDQYzcNFDSFY0SSEjjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3026d25bd5b7572f10a8f9009e7645d",
-      "published_at": "2026-05-23T08:20:00Z"
-    },
-    {
-      "id": "1645cac9-03ec-34d6-9511-31da4588323b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Smartest Growth Stocks to Buy With $1,000 Right Now",
-      "summary": "If you are building a long-term consumer growth portfolio with just $1,000, these three stocks offer a compelling mix of scale, expansion, and upside potential.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/23/the-smartest-growth-stocks-to-buy-with-1000-right/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CNikQdNg7i92kXCV5WsU_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4663c1665de2dfda1b5b76699f3a3c1f",
-      "published_at": "2026-05-23T08:15:00Z"
     },
     {
       "id": "9b7ee481-6ada-3899-b732-b82ce9f888a8",
@@ -246,28 +301,6 @@
       "published_at": "2026-05-23T05:58:13Z"
     },
     {
-      "id": "805e2b14-c5c7-3ccb-aea2-2022972219c3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "SM Energy, Transocean, and Valaris Shares Are Falling, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after crude oil edged lower on reports that the U.S. and Iran were nearing a draft peace resolution.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-transocean-valaris-shares-055655555.html",
-      "thumbnail": "",
-      "published_at": "2026-05-23T05:56:55Z"
-    },
-    {
-      "id": "df36060b-d08d-3a42-8e46-8162ca07b95d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Riley Exploration Permian (REPX) Stock Is Trading Lower Today",
-      "summary": "Shares of oil and gas producer Riley Exploration Permian (NYSE:REPX) fell 3.6% in the afternoon session after crude oil edged lower on reports that the U.S. and Iran were nearing a draft peace resolution.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-riley-exploration-permian-repx-054855092.html",
-      "thumbnail": "",
-      "published_at": "2026-05-23T05:48:55Z"
-    },
-    {
       "id": "0beea411-ec9d-345a-a6f2-1052bc5001c5",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-one-best-044856265.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WBXoanWZIsHh0Bi6m_Hbkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/73e36a03ac358ebdb3d1bb86e318e4d0",
       "published_at": "2026-05-23T04:48:56Z"
-    },
-    {
-      "id": "98071bf2-2dba-31f0-97c3-0f343f0a4340",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Canaccord Maintains Buy Rating on Hudbay Minerals (HBM)",
-      "summary": "Hudbay Minerals Inc. (NYSE:HBM) is one of the 10 Best Performing Canadian Stocks So Far in 2026. On May 4, 2026, Canaccord lowered the firm’s price target on Hudbay Minerals Inc. (NYSE:HBM) to C$40 from C$41 previously and maintained a Buy rating on the shares after the company released its Q1 financial and operating results. […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/canaccord-maintains-buy-rating-hudbay-023146534.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8RcwFwAUR5srW2tCzVVKxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e65d9dddacd5c90c8d0e7ebd184a11e2",
-      "published_at": "2026-05-23T02:31:46Z"
-    },
-    {
-      "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",
-      "summary": "The stock market rebounded for solid weekly gains, with leaders showing bullish action. Tesla is near a buy point along with ASML and several other AI stocks. Here's what to do.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FtB1pqfT3DvRySQuy4jtZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
-      "published_at": "2026-05-23T02:01:10Z"
-    },
-    {
-      "id": "749dcd85-f776-3331-806c-82b38fea1e02",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Citi sees AI price effects as key issue for Warsh",
-      "summary": "Investing.com -- Strong U.S. macroeconomic performance continues to outpace other developed economies, powered by real GDP growth tracking at a 2% to 3% pace in recent quarters, according to institutional research released by Citi this week.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/citi-sees-ai-price-effects-012920564.html",
-      "thumbnail": "",
-      "published_at": "2026-05-23T01:29:20Z"
     }
   ]
 }
