@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-05-24 22:30 UTC",
+  "last_updated": "2026-05-24 23:57 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
+      "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9jPu3siFOZSTJeHV49_s2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
+      "published_at": "2026-05-24T23:43:06Z"
+    },
+    {
+      "id": "51958fbb-31f7-318f-b152-d5230d0e2b22",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks rise, oil and dollar slide on Middle East peace hopes",
+      "summary": "By Ankur Banerjee SINGAPORE, May 25 (Reuters) - U.S. stock futures rose on Monday while the dollar and oil prices slipped as the prospect of a deal to end the Iran war buoyed risk appetite although a",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YWN_61Ey2lFpXk_7F.Xt4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3e4add58bfe264101f5283f836419a1e",
+      "published_at": "2026-05-24T23:37:02Z"
+    },
+    {
+      "id": "1d8f228b-31d1-3639-8e99-0ff1c3f30426",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Alamos Gold Leadership Moves Support Growth Plan And Valuation Debate",
+      "summary": "Alamos Gold (TSX:AGI) announced a series of senior management promotions tied to its long term production objectives. James Clark was appointed Vice President, Canadian Operations, while Marcelo Martinez became Vice President, Mexico Operations. Scott Parsons and Adrian Paulse were promoted to Senior Vice President roles, supporting the company’s goal of reaching one million ounces of annual gold production by 2030. Alamos Gold operates as a gold producer with assets in Canada and Mexico,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alamos-gold-leadership-moves-support-230616271.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
+      "published_at": "2026-05-24T23:06:16Z"
+    },
+    {
+      "id": "13915618-75f0-3a39-a391-96ea7ecef60c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For",
+      "summary": "One of these players is a tech giant, while the other is a small pure-play quantum company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/24/2-quantum-computing-stocks-that-are-further-along/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KEWXwpFMuUoCGRmb50vYaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3b3ab628d8554696dc3a8134a31b84fd",
+      "published_at": "2026-05-24T22:30:00Z"
+    },
     {
       "id": "db81e645-731b-3345-9f5f-c52dff11c460",
       "asset": "NVDA",
@@ -15,17 +59,6 @@
       "published_at": "2026-05-24T22:21:54Z"
     },
     {
-      "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
-      "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9jPu3siFOZSTJeHV49_s2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
-      "published_at": "2026-05-24T22:19:45Z"
-    },
-    {
       "id": "5a53c41d-b08a-4641-959f-d45fdb5a31f2",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -35,6 +68,17 @@
       "url": "https://finance.yahoo.com/markets/commodities/article/oil-prices-fall-after-trump-says-iran-deal-to-be-announced-shortly-221404651.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9maGl64f0_Rau5I_MMsTxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/26758f83-c2f9-4fc0-bfc9-3b579eda26d2",
       "published_at": "2026-05-24T22:14:04Z"
+    },
+    {
+      "id": "06ffd790-9ce3-3800-99f3-6d3b2b81050d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Tumbles, Stock Futures Rise Amid Hopes for Iran Deal",
+      "summary": "Stock futures were rising late Sunday, and oil futures fell after the Trump administration hinted officials are inching closer to a deal with Iran to end the three-month conflict and reopen the Strait of Hormuz.  Just after 6 p.m. Eastern time, Dow Jones Industrial Average futures were up 0.5% or 235 points.  WTI futures and Brent crude futures were both down about 4%, to $92 a barrel and $96 a barrel, respectively.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/oil-futures-trading-price-7cf08557?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X.7aYxhUXQ0OmDf5F2RlhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/77148a00b6a019092193ce44f6f06e92",
+      "published_at": "2026-05-24T22:13:00Z"
     },
     {
       "id": "6bdc669c-42ca-3523-a696-e7d65369c953",
@@ -180,17 +224,6 @@
       "published_at": "2026-05-24T20:37:07Z"
     },
     {
-      "id": "686cfaf2-53bc-34df-a9aa-2bd44bbde7df",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Walmart Stock Fell After Its Earnings Beat. Is the Post-Earnings Dip a Buying Opportunity?",
-      "summary": "Strong sales and a booming digital advertising business weren't enough to keep the retail giant's stock from sliding.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/walmart-stock-fell-after-its-earnings-beat-is-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G_k8FmhnHASIjG3s5GdXKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9bd435a1cf136f1d521098265c5527e0",
-      "published_at": "2026-05-24T20:23:00Z"
-    },
-    {
       "id": "416d9a00-1037-3309-92ca-504acdba1a5e",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -268,28 +301,6 @@
       "published_at": "2026-05-24T19:34:38Z"
     },
     {
-      "id": "40f7be29-ef81-37ad-83ad-61604120e124",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "EQT Holdings And 2 Other Undiscovered Gems with Strong Potential",
-      "summary": "As the Australian market anticipates a positive end to the week, buoyed by a dip in oil prices and gold's resurgence above US$4,500 an ounce, investors are keenly observing small-cap stocks for potential opportunities. In this climate of cautious optimism and shifting economic indicators, identifying promising stocks like EQT Holdings requires a focus on strong fundamentals and resilience amidst market fluctuations.",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-holdings-2-other-undiscovered-193304455.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_sYfo3oaqp9UOTD_JpXBBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/3eb1acfa01a97be66f224c62f2ff60fd",
-      "published_at": "2026-05-24T19:33:04Z"
-    },
-    {
-      "id": "90f51b6e-f8da-3f3c-9a22-88663db32062",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Global Oil Demand Is Shrinking and Prices Are Still Above $90. These Are the Energy Stocks Built to Survive That Paradox.",
-      "summary": "Slowing demand hasn't broken big oil's cash flow machine.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/global-oil-demand-is-shrinking-and-prices-are/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IDv4XZEjrmHwZOQ0bh66gg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/89fd884f0f67657d345672d7126e6761",
-      "published_at": "2026-05-24T19:18:00Z"
-    },
-    {
       "id": "94ae7cf9-67c4-3bc8-8818-56f4f308909a",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/2026/05/24/the-stock-market-maestros-author-has-a-brutally-simple-rule-for-long-term-investors/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zht27Javqu9lbdc62Wwe2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0a8baf777a34f47191eba2ed0e95b65d",
       "published_at": "2026-05-24T18:56:41Z"
-    },
-    {
-      "id": "27d9a151-3ffa-369d-a610-ee9ba87df4b0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-      "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FshEHtktXXaU4mimL.Xe.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/fd8a9d6a80ab0cb36bea4e78fac6a1b2",
-      "published_at": "2026-05-24T18:53:09Z"
     }
   ]
 }
