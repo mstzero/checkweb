@@ -1,18 +1,128 @@
 {
-  "last_updated": "2026-05-24 21:28 UTC",
+  "last_updated": "2026-05-24 22:30 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "db81e645-731b-3345-9f5f-c52dff11c460",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
+      "summary": "Jim Cramer’s blunt line to a young first-time homebuyer on the May 22 episode of Mad Money: “Expect corrections and don’t rely on hope as an investing strategy.” The caller, a younger investor, had just used a significant portion of his investment assets as a down payment on his first home and asked how to ... ‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/05/24/expect-corrections-and-dont-rely-on-hope-cramers-reality-check-for-a-first-time-homebuyer/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqrAHIW07BHaI3X8.gXKiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
+      "published_at": "2026-05-24T22:21:54Z"
+    },
+    {
       "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
       "asset": "TSLA",
       "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Trump Says No 'Rush' For Iran Deal, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points",
+      "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
       "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9jPu3siFOZSTJeHV49_s2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
-      "published_at": "2026-05-24T21:17:25Z"
+      "published_at": "2026-05-24T22:19:45Z"
+    },
+    {
+      "id": "5a53c41d-b08a-4641-959f-d45fdb5a31f2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices fall after Trump says Iran deal to be announced shortly",
+      "summary": "Oil prices dropped at the start of futures trading on Sunday after President Trump said the US and Iran were close to announcing a deal that would reopen the Strait of Hormuz.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/article/oil-prices-fall-after-trump-says-iran-deal-to-be-announced-shortly-221404651.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9maGl64f0_Rau5I_MMsTxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/26758f83-c2f9-4fc0-bfc9-3b579eda26d2",
+      "published_at": "2026-05-24T22:14:04Z"
+    },
+    {
+      "id": "6bdc669c-42ca-3523-a696-e7d65369c953",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Matador Resources (MTDR) Is Down 6.1% After US$1.14 Billion Delaware Deal Amid Softer Crude Prices – Has The Bull Case Changed?",
+      "summary": "Earlier this week, Matador Resources Company disclosed the acquisition of 5,154 net undeveloped Delaware Basin acres for about US$1.14 billion, expanding its drilling inventory and midstream integration while sector-wide oil and gas equities moved in tandem with easing Middle East tensions and softer crude prices. Amid improving analyst earnings estimates and a strong third‑party quality score, the combination of fresh Delaware Basin acreage and outsized sensitivity to crude price swings...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/matador-resources-mtdr-down-6-221258320.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CrhGr1TPlfgUUNII8gtApw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/da713992716ec87035eff27f58858a3e",
+      "published_at": "2026-05-24T22:12:58Z"
+    },
+    {
+      "id": "b4c59613-69c0-3af1-832e-ce15e97b35ab",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Assessing Devon Energy (DVN) Valuation After Strong Recent Shareholder Returns",
+      "summary": "Event context and recent share performance Devon Energy (DVN) has drawn attention after recent trading left the stock near US$47.22, with the price up about 8% over the past 3 months but down slightly over the past month. See our latest analysis for Devon Energy. At around US$47.22, Devon Energy’s share price has a year to date share price return of 24.69%, while the 1 year total shareholder return of 55.47% points to momentum that has built over a longer period. If you are looking beyond...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-devon-energy-dvn-valuation-221250751.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0TmvAbrR8UwmJ968fBRtIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
+      "published_at": "2026-05-24T22:12:50Z"
+    },
+    {
+      "id": "37f21977-98ca-31cf-8323-37a63f23e870",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom",
+      "summary": "All three stocks have solid potential upside, but one looks like the best buy right now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/24/the-best-stocks-to-buy-right-now-nvidia-vs-amd-vs/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lsgfa4OQtMxlK06UiAKzbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5f03e61b2d6ae4e7371d0358703692b9",
+      "published_at": "2026-05-24T21:50:00Z"
+    },
+    {
+      "id": "fad65a23-5b31-38ee-aba6-a7c75924891c",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Will Ethereum Ever Move Past $4,000 Again?",
+      "summary": "Ethereum (CRYPTO: ETH) is trading around $2,091 today, down 57% from its all-time high of $4,946, set in August 2025. To move past $4,000 again, Ethereum needs to nearly double from its current price. Ethereum nearly doubling from here is a stretch, but the case for it is stronger than the price suggests. So, we ... Will Ethereum Ever Move Past $4,000 Again?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l92Bm.yPDW7aZc6eMBp0Sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/60691ae01debd15a0f500b66e8e4be1a",
+      "published_at": "2026-05-24T21:43:44Z"
+    },
+    {
+      "id": "247af032-8987-30b8-a974-76e7343d4029",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Billionaire Dumped Cloud Stocks for These New AI Stocks. Should Investors Follow Suit?",
+      "summary": "Philippe Laffont was busy buying Taiwan Semiconductor Manufacturing Company and ASML Holding stock in the first three months of the year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/24/this-billionaire-dumped-his-cloud-stocks-for-these/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4M3_FXIrZ5qybC_bRD216A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/49a2a4627fc23de2881a2800a39c85f3",
+      "published_at": "2026-05-24T21:38:00Z"
+    },
+    {
+      "id": "014c13a6-195d-3023-99bf-8dc9c1a80052",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "A Bitcoin Treasury Company Has a Doctor on Staff, But Why?",
+      "summary": "Nakamoto CEO David Bailey defends paying a Chief Medical Officer at NAKA, his Bitcoin treasury company down over 99%.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/nakamoto-chief-medical-officer-naka/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/spAYjL9e_gul.QEMOj2wNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6d5468b96915407883af7291b0a945ac",
+      "published_at": "2026-05-24T21:28:51Z"
+    },
+    {
+      "id": "27469095-5a07-3277-855b-709e77849d2c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Barclays Raises Energy Transfer (ET) Price Target, Says Stock Remains Undervalued",
+      "summary": "With a 5-year dividend growth rate of 11.85%, Energy Transfer LP (NYSE:ET) is included among the 10 Best Dividend Growth Stocks to Buy and Hold for 3 Years. On May 14, Barclays raised its price recommendation on Energy Transfer LP (NYSE:ET) to $23 from $22. It reiterated an Overweight rating on the stock. The firm […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/barclays-raises-energy-transfer-et-212725474.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RPe7VwBOZEKrbDuLKw_v_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a97f111c62451e82df1b503f29d424ac",
+      "published_at": "2026-05-24T21:27:25Z"
+    },
+    {
+      "id": "2d9b22c1-3c29-3124-8641-2971e98f5bb6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Google Just Shared Bad News for Nvidia, and Even Worse News For CoreWeave and Nebius",
+      "summary": "Alphabet's latest side project could be a huge boost to this rapidly growing business.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/24/google-just-shared-bad-news-for-nvidia-and-even-wo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aSmaWzbXByzvC9Ua5SbzDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/50d3a75971543c1fc6c783db279d35e5",
+      "published_at": "2026-05-24T21:20:00Z"
     },
     {
       "id": "cb3d99fc-a6d7-3c32-a222-6043df337076",
@@ -180,28 +290,6 @@
       "published_at": "2026-05-24T19:18:00Z"
     },
     {
-      "id": "ab74c187-4390-333b-8201-4bd496779dba",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Pipeline Rupture Tests Plains All American Story Of Growth And Governance",
-      "summary": "A pipeline rupture has been reported in East Los Angeles, disrupting Plains All American Pipeline operations and crude flows into California. Cleanup and repair work is underway as the company works toward a restart of affected infrastructure. The incident comes shortly after a highly engaged annual meeting where unitholders approved key proposals but showed only modest support for executive pay. For Plains All American Pipeline (NasdaqGS:PAA), this incident comes at a time when the stock...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pipeline-rupture-tests-plains-american-190737912.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XccCQTpKKhQzQZtpgcxJ8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/22763255fd07b4ca1afee2bfc46e643f",
-      "published_at": "2026-05-24T19:07:37Z"
-    },
-    {
-      "id": "3cc0443a-0f27-3972-8d25-348617c6ac6b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Missed the First AI Wave? These 3 Stocks Are Still Genius Picks.",
-      "summary": "We're still in the early laps of the AI race.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/missed-the-first-ai-wave-these-3-stocks-are-still/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o_iX_jTGSH2K47gepKPj7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/54b1ea92a9c0fc30e2970abeafb6dad5",
-      "published_at": "2026-05-24T19:01:00Z"
-    },
-    {
       "id": "94ae7cf9-67c4-3bc8-8818-56f4f308909a",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -222,94 +310,6 @@
       "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FshEHtktXXaU4mimL.Xe.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/fd8a9d6a80ab0cb36bea4e78fac6a1b2",
       "published_at": "2026-05-24T18:53:09Z"
-    },
-    {
-      "id": "d8dd2ad4-3c5b-3cfe-bcce-51eb6e726673",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is It Too Late to Buy Nvidia Stock? Here's What the Numbers Say.",
-      "summary": "A strong quarter didn't lead to a rising stock price.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/too-late-buy-nvidia-stock-what-nubers-say/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0neSs2iH5WuDNTv16XG2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c17f03c9fe773a09cdc9c231f04d4e44",
-      "published_at": "2026-05-24T18:45:00Z"
-    },
-    {
-      "id": "b1c5d870-8360-321e-8bc0-bc51ee40bd96",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Vitalik Buterin Signals Ethereum Foundation Power Cut, ETH Sales Reduced in Major Shift",
-      "summary": "Vitalik Buterin signals reduced influence at the Ethereum Foundation as ETH sales slow and the CROPS framework becomes core.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/vitalik-buterin-ethereum-foundation-power-cut/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VILotHzVNLgI7PBoMwcn2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/67072eb1931d7127b5277edce7833dc4",
-      "published_at": "2026-05-24T18:32:38Z"
-    },
-    {
-      "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
-      "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RiRvbnQzb5gEYovgVxx2aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
-      "published_at": "2026-05-24T18:30:52Z"
-    },
-    {
-      "id": "7ebdfd0b-2ea1-3d45-9b58-76a70fd2ba62",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Debt Spirals vs. AI Factories: The Great Macro Divide of 2026",
-      "summary": "On a recent All-In Podcast episode featuring guest Gavin Baker, the roundtable looked at the exact same economic data and came away with completely different investment outlooks. David Friedberg is highly focused on building a global bond crisis and a sovereign debt spiral. Gavin Baker is far more bullish, arguing that America’s energy independence and ... Debt Spirals vs. AI Factories: The Great Macro Divide of 2026",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/24/friedberg-vs-baker-one-sees-a-debt-spiral-the-other-sees-america-winning/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/97IiX.6dQjbqZrm9cZyZIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
-      "published_at": "2026-05-24T18:14:38Z"
-    },
-    {
-      "id": "635bf91d-775e-36da-9288-399797620934",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trump Says He Is in No Rush for an Iran Deal That Is Far From Finished",
-      "summary": "A senior administration official said the agreement in principle would see the U.S. lift its blockade in exchange for Iran reopening the Strait of Hormuz.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/world/middle-east/middle-east-grapples-with-the-downsides-of-a-trump-deal-with-iran-fe5dc9cb?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AOZd5NBsXOulp2L3IT6vYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/97df5f972a357072f02b80fcbf92b390",
-      "published_at": "2026-05-24T18:04:00Z"
-    },
-    {
-      "id": "2030913a-d8d0-35e3-8844-2dd7f66aa2bc",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Investors drop bold Fed rate-cut signal to Warsh",
-      "summary": "Is Kevin Warsh going to be a markets-friendly Fed Chair? In one word, yes. But not in the short term, investors agree. They hope that the “regime change” Warsh promised during his nomination process will keep the U.S. economy as resilient as Warsh’s 18 new colleagues at the central bank say it is. ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/fed/investors-drop-bold-fed-rate-cut-signal-to-new-fed-chair-kevin-warsh",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2GalGkQqu2tuZj.UG05ryw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b31a84429dbe84945cb8593a97128e63",
-      "published_at": "2026-05-24T18:03:00Z"
-    },
-    {
-      "id": "4fae57ab-4ff4-3d95-af6d-0f3f08552ebc",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
-      "summary": "Elon Musk-led commercial spaceflight giant SpaceX‘s IPO could become a problem for Tesla Inc. investors and shareholders as the market readies itself for the June IPO date. Muskonomy The upcoming IPO could take investors’ appetite away from Tesla and onto...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-beware-spacex-ipo-180153130.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KgkkGEz2vdJgidtlcdnARQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b395ecece16cdcba0529aa06d55c67bf",
-      "published_at": "2026-05-24T18:01:53Z"
-    },
-    {
-      "id": "253cc50f-2f44-341f-8de8-209e63f112b6",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime",
-      "summary": "New CEO Greg Abel is following in Buffett's footsteps and keeping these positions.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/warren-buffetts-favorite-holdings-3-stocks-worth/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B.RVl2jeEUUwgKWKi8GsjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3ad10e3cca5219c34658dd31a0e628b1",
-      "published_at": "2026-05-24T17:50:00Z"
     }
   ]
 }
