@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-05-25 22:05 UTC",
+  "last_updated": "2026-05-25 23:38 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "630db8c1-51b1-36bc-bd30-b2617f3b9dd1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Small Cap Watch: Junior explorers advance lithium, gold and copper projects",
+      "summary": "The S&P/ASX Small Ordinaries Index (ASX: XSO) closed at 3,447.20, up 36.20 points or 1.06% for the session, extending its five-day gain to 48.10 points or 1.42%. Against a firmer backdrop for small-cap resource stocks, several ASX-listed explorers have updated the market on drilling,...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1092836/small-cap-watch-junior-explorers-advance-lithium-gold-and-copper-projects-1092836.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xSQWzOzVXJAqDGjcWwEuVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/b57abae84b2fe8c24693878cbf7ce403",
+      "published_at": "2026-05-25T23:29:00Z"
+    },
+    {
+      "id": "01f34dd7-c932-3c0d-8793-6a6f38b2924d",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Why Microsoft's Split With OpenAI May Be Great for the Stock in the Long Run",
+      "summary": "Microsoft's customers often rely on more than just one model.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/why-microsofts-split-with-openai-may-be-great-for/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JQxUJj516tUG_97Fto1Mww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c00d67bc14459c6e0195292a8c33b75d",
+      "published_at": "2026-05-25T23:20:00Z"
+    },
+    {
+      "id": "26032543-85a0-310a-9068-4051aa612351",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The 'Next Nvidia' Trade? Why Investors Are Suddenly Watching Advanced Micro Devices, Arm Holdings, and Marvell Technology",
+      "summary": "Nvidia's smaller peers are expected to deliver stronger earnings growth amid fast-growing demand for inference-focused AI chips.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/the-next-nvidia-trade-why-investors-are-suddenly-w/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.VW3RLlm9zlBw2bnn.VwCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2c3627141bd0cdb9a1da78f00b6711e0",
+      "published_at": "2026-05-25T23:08:00Z"
+    },
+    {
+      "id": "fd5588ad-0c14-30fe-aa09-05d69a50c417",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Wedbush analyst has bold IMAX stock message for investors",
+      "summary": "IMAX Corporation (IMAX) shareholders had the kind of Friday that rewrites a year. Shares of the premium cinema technology company jumped about 15% on May 22, closing at $39.12, after The Wall Street Journal reported the company is exploring a sale and has approached entertainment companies as ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/wedbush-analyst-has-bold-imax-stock-message-for-investors",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ppv5R4WeMP5V0VQO112NpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4e3a79826b37ba705a3559d31f56afee",
+      "published_at": "2026-05-25T23:00:00Z"
+    },
+    {
+      "id": "65018599-af0d-3697-aa32-a479f3b56cd9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is the Palantir Valuation Debate Over? Why Some Analysts See 86% Upside in the Agentic AI Era.",
+      "summary": "Palantir's stock has enjoyed a wild 2,000% run over these past few years, but the party may not be over.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/is-the-palantir-valuation-debate-over-why-some-ana/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D9RhkQKBSVRtpiW_uARVAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f20e26c542cf75d097dd9b063baa45c0",
+      "published_at": "2026-05-25T22:50:00Z"
+    },
+    {
+      "id": "47d56fef-5370-3ead-91a5-4acd8835aeb8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "XRP ETFs Attract $42 Million As Bitcoin ETFs Bleed $1.4B: What Is Going On?",
+      "summary": "XRP ETFs attracted $42 million in net inflows over the past week, even as Bitcoin ETFs shed more than $1.4 billion, suggesting selective rotation into alternative crypto exposure. XRP Pulled $8.88M Latest Session, Bitcoin Lost $100.9M XRP-linked funds pulled in...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-42-million-223109239.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jvqz.FSJJsLcOQOvmTbt8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/36e12a457ab39176d775cd8674f7115d",
+      "published_at": "2026-05-25T22:31:09Z"
+    },
+    {
+      "id": "db5b0dae-ecca-3f2a-b09e-c7b818408c09",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The 3-Stock Custom Silicon Basket That Could Outperform Nvidia by 2030",
+      "summary": "The shift toward custom processors in AI hardware is opening the door for these stocks to challenge Nvidia's dominance.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/the-3-stock-custom-silicon-basket-that-could-outpe/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rC72biooPXr4LPiW8kH3gQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8de5247baacb6dfa9303e58e34836e4c",
+      "published_at": "2026-05-25T22:20:00Z"
+    },
+    {
+      "id": "b08a4659-8df5-370e-ba66-cabe0df3f81b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US crude futures fall over 6% on report of possible Strait of Hormuz reopening",
+      "summary": "May 26 (Reuters) - U.S. crude futures fell more than 6% in early Asian trade on Tuesday after Nikkei reported that the U.S. and Iran are discussing a plan to reopen the Strait of Hormuz about 30 days",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/us-crude-futures-fall-over-221241210.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LaeH9yixmNfloRj99C45Zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f8483d1cac9593db7fb6b46c4a459c5b",
+      "published_at": "2026-05-25T22:12:41Z"
+    },
+    {
+      "id": "43685dba-9a47-341c-b6a3-7f5d8d4f7b27",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Mexico’s Pemex Still Struggles Despite the Oil Price Surge",
+      "summary": "Moody’s warned that Pemex remains heavily reliant on government backing, and further deterioration in Mexico’s sovereign rating, liquidity, or production performance could still trigger future downgrades.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/mexico-pemex-still-struggles-despite-220000883.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VLEHO6Zbz7aEya0fN_Ex5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/7214ef39de1922d4c94ffd3532146d30",
+      "published_at": "2026-05-25T22:00:00Z"
+    },
     {
       "id": "ea8ab627-da0b-3d2c-9fe7-cb99988801fe",
       "asset": "OIL",
@@ -13,6 +112,17 @@
       "url": "https://www.wsj.com/finance/oil-prices-drop-on-prospect-of-iran-deal-but-investors-arent-celebrating-yet-6d5a483a?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RVgF5tXgzX38ywAxJa8dCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/50e7a457779b163f96d71a68184f12a9",
       "published_at": "2026-05-25T21:36:00Z"
+    },
+    {
+      "id": "23840f49-a85e-3a5b-8142-d1edb56fc6b2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A New Chipmaker Just Topped Micron's 2026 Return, Thanks To Nvidia",
+      "summary": "Nvidia Corp.‘s record quarter handed the market a clear winner this week. It wasn’t Nvidia. Shares of Arm Holdings plc climbed 38% in three sessions, leapfrogging Micron Technology Inc. to claim second place in the year-to-date performance ranking of the...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-just-topped-microns-2026-213014408.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tDcO9a6xngqrCK8_T.uafw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c96ca3edeaa5d74187290ff49d791237",
+      "published_at": "2026-05-25T21:30:14Z"
     },
     {
       "id": "768056ae-1b41-3099-a803-4ea0edb9aec6",
@@ -200,116 +310,6 @@
       "url": "https://www.fool.com/investing/2026/05/25/inflation-soared-fastest-since-2023-stock-market/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fjsN1Z8_4PHeSPY3n0lPIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0c7ce57e90975cc55a562bcaa486deea",
       "published_at": "2026-05-25T20:05:00Z"
-    },
-    {
-      "id": "78f01e05-71e6-3090-a7ba-c4be4de336e9",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Satoshi-era Bitcoin whale moves $203 million",
-      "summary": "A long-dormant Bitcoin (BTC) whale from the Satoshi era transferred 2,650 Bitcoin worth about $203 million to FalconX and Cumberland over-the-counter (OTC) trading desks in one of the largest old-wallet movements recorded this year. The transfers were carried out Sunday, May 24, in three separate ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/satoshi-era-bitcoin-whale-moves-203-million",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uKSGYSDZkocW4OT18GYSIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2210fafb76f9f699601624da2dc4c720",
-      "published_at": "2026-05-25T20:03:36Z"
-    },
-    {
-      "id": "70107ea5-13d1-3a6d-a070-25ed3f2c24e9",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "'On Wall Street, We Are Front Stabbers. In Washington, They're Backstabbers,' Says Anthony Scaramucci. 'Look What They Did To Elon Musk'",
-      "summary": "Investor Anthony Scaramucci said Wall Street may be ruthless, but Washington politics is even worse, arguing that finance professionals attack people openly while political insiders work behind the scenes to take people down. “On Wall Street, we are front stabbers....",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/economy/articles/wall-street-front-stabbers-washington-200106341.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1j6Vi7ECNYiPIfiu_l3oOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/712fd65ef0a7b5ed885e65787c83a1f8",
-      "published_at": "2026-05-25T20:01:06Z"
-    },
-    {
-      "id": "13b88b14-3c69-331f-9aa8-19dfc71478b7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did Nvidia Raise Its Dividend by 2,400%?",
-      "summary": "Nvidia announced that it is raising its dividend from $0.01 to $0.25 in June.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/25/why-did-nvidia-raise-its-dividend-by-2400/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tR7dfqrUupQWHKAZ6jDxkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e0896251b47815b21a94edf0972cee51",
-      "published_at": "2026-05-25T19:51:00Z"
-    },
-    {
-      "id": "a87e927a-5546-3b35-8890-dc3c15cb49a1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Trump's 25% cut on Nvidia chips sold to China backfired — Beijing won't approve a single H200 purchase, costs Huang $30B",
-      "summary": "Donald Trump says Beijing has refused to approve purchases of Nvidia's H200 AI chips \"they want to develop their own.\"",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-25-cut-nvidia-chips-194500691.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n4gaoy9rGRwrkp0o73Fgqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/9c23a6d6faf11f24e472567a6c949742",
-      "published_at": "2026-05-25T19:45:00Z"
-    },
-    {
-      "id": "46fde33b-3158-3c0f-ab98-e65a129e8766",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft CEO sends shocking message to employees",
-      "summary": "Microsoft CEO Satya Nadella revealed earlier this year that the company now writes up to 30% of its code using generative AI. The company has invested $13 billion in OpenAI. It built GitHub Copilot. It has made AI central to every product in its portfolio. On May 14, Microsoft (MSFT) sent thousands ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/microsoft-ceo-sends-shocking-message-to-employees",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qSww1wv91oFQVp5pFQRRHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/28c2c1ad928d26d96bea144735bc1edb",
-      "published_at": "2026-05-25T19:37:00Z"
-    },
-    {
-      "id": "738980d7-552c-303e-86cd-8e145412d7aa",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Ethereum vs Solana: Which Will Hit a New ATH First?",
-      "summary": "Both Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) are far from their all-time highs, and investors want to know which one rallies back first. Ethereum peaked at $4,953 in 2025, while Solana reached $294. Today, ETH trades around $2,115 and SOL near $86—down about 58% and 71% from their respective highs. So, which of the ... Ethereum vs Solana: Which Will Hit a New ATH First?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/25/ethereum-vs-solana-which-will-hit-a-new-ath-first/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/onBE2kOSq8Eij37.J9YzOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1711babe6b50de11263be409d38ab6a7",
-      "published_at": "2026-05-25T19:33:56Z"
-    },
-    {
-      "id": "2acb931c-28bf-38d5-b029-fa2333f360a8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Michael Saylor Says Bitcoin Would Be Trading At $40,000 To $50,000 Without MSTR",
-      "summary": "Strategy Inc. Executive Chairman Michael Saylor estimates Bitcoin would be trading between $40,000 and $50,000, without his company’s $62 billion buying campaign over the past five years. Strategy Spent $62 Billion Supporting The Bitcoin Network Saylor acknowledged that Bitcoin would...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-bitcoin-trading-193111848.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YkCkn0dZPWRGzKaQ9WnOZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ad94bf539fe18ede55ea0ebd5c854ea3",
-      "published_at": "2026-05-25T19:31:11Z"
-    },
-    {
-      "id": "e9779e2c-85d2-34b4-8398-28ef9f4fe192",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil tumbles nearly 7% as US and Iran seen moving closer to deal",
-      "summary": "By Amanda Stephenson CALGARY, May 25 (Reuters) - Oil prices fell nearly 7% on Monday as optimism grew that the United States and Iran were moving closer to a peace deal that would reopen the Strait of",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-falls-more-4-us-220953817.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tMIFBuVrME83XX9amqjZaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/79c505f8cb95714528642f2fa5336baa",
-      "published_at": "2026-05-25T19:16:14Z"
-    },
-    {
-      "id": "4ad2014b-ae53-3f44-9dda-392114fb7d0a",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns",
-      "summary": "(Bloomberg) -- Gold advanced after officials signaled the US was nearing a deal with Iran to reopen the Strait of Hormuz and restore oil flows, easing inflation fears.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He’ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, SanctionsBullion",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/news/gold-jumps-as-prospects-of-iran-deal-temper-inflation-concerns-023152905.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_mCbURjEXMpEh.O5xAoeWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/229ac67dd024b5444230a9e94919deac",
-      "published_at": "2026-05-25T19:15:33Z"
-    },
-    {
-      "id": "b3dd7a23-4e78-36e8-93bc-df7381774f49",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil trading surges on Memorial Day",
-      "summary": "Memorial Day is a federal holiday dedicated to mourning and honouring the military personnel who have died while serving in the United States Armed Forces. Observed on the last Monday of May, it is also considered the unofficial start of summer. Because it is a recognized federal holiday, the ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/oil-trading-surges-on-memorial-day",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PcHSxgaHG_jSqJikbCMp2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c5a33743ab47ac702e5e8117cb7c12cd",
-      "published_at": "2026-05-25T19:06:01Z"
     }
   ]
 }
