@@ -1,18 +1,139 @@
 {
-  "last_updated": "2026-05-25 04:08 UTC",
+  "last_updated": "2026-05-25 08:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "3ad34a6f-fa15-3a64-b2c9-3e8ae02e7217",
+      "id": "cc65b17f-d4f4-3e68-aff5-221cb0ea4a1e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "European shares climb to over two-month highs on Iran-US peace optimism",
+      "summary": "By Johann M Cherian May 25 (Reuters) - European shares hit their highest in more than two months on Monday, buoyed by signs Iran and the U.S. were negotiating an end to their conflict, easing concerns",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-climb-over-two-073945203.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K8PvI4ooUeE2e19KgD6HzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/266cc34af6e0cd47e2f8fa4fd39e7842",
+      "published_at": "2026-05-25T08:41:14Z"
+    },
+    {
+      "id": "8bd2ec5b-3dc3-34d2-a13e-5d3bc3a959a1",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
+      "summary": "The iShares Core Growth Allocation ETF (NYSEARCA:AOR) is the kind of fund a financial advisor recommends when they want to give a client one ticker and never think about it again. AOR holds roughly 60% equities and 40% bonds through a stack of underlying iShares funds, charges 0.15%, and manages around $3 billion in assets. ... AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/25/aors-60-40-allocation-has-lagged-a-simple-sp-500-by-60-points-over-a-decade-and-built-in-rebalancing-did-not-help/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R6f9yWXfY54EBqSQejuvVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/752f8ad7f096776286f17e0d69d39861",
+      "published_at": "2026-05-25T08:21:40Z"
+    },
+    {
+      "id": "4ad2014b-ae53-3f44-9dda-392114fb7d0a",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns",
+      "summary": "(Bloomberg) -- Gold advanced as signs the US and Iran are closing in on a deal that would reopen the Strait of Hormuz tempered inflation concerns.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He’ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, SanctionsBullion rose as much as 1.6%",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/news/gold-jumps-as-prospects-of-iran-deal-temper-inflation-concerns-023152905.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_mCbURjEXMpEh.O5xAoeWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/229ac67dd024b5444230a9e94919deac",
+      "published_at": "2026-05-25T08:09:44Z"
+    },
+    {
+      "id": "8103571f-c79f-3c60-9f1e-f434591de10c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "3 Stocks I Plan to Hold for the Next 20 Years",
-      "summary": "These are great businesses that can compound wealth in your portfolio for many years, rewarding patience in the long term.",
+      "title": "NVIDIA Extends AI Story With Quantum Center And Alice And Bob Bet",
+      "summary": "NVIDIA (NasdaqGS:NVDA) has launched a quantum research center as part of its push into quantum computing. The company is partnering with and investing in quantum startups, including French firm Alice & Bob, which focuses on error resistant qubits. These steps come while other companies such as Microsoft and IonQ are also focusing on quantum computing progress. NVIDIA is widely known for AI chips and data center hardware, which sit at the core of many current AI and accelerated computing...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-extends-ai-story-quantum-080753084.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aO.m6F7TtQB8yU2PeCFGfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e",
+      "published_at": "2026-05-25T08:07:53Z"
+    },
+    {
+      "id": "d6765f23-ac60-311e-86e9-50fb42efdc34",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "New Fed Chair Kevin Warsh's First Test Arrives June 17 -- and the Stock Market May Not Like the Answer",
+      "summary": "Investors should circle June 17 on their calendars.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/3-stocks-i-plan-to-hold-for-the-next-20-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QWYgxM5JxvXSCwEG0sqqjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5791a771c21317c4a6b870279c1b850",
-      "published_at": "2026-05-25T03:50:00Z"
+      "url": "https://www.fool.com/investing/2026/05/25/new-fed-chair-kevin-warshs-first-test-arrives-june/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yuygaLbz6KF5CJf6_0kFIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33b526cb4a761beba5bb56b7c8200423",
+      "published_at": "2026-05-25T08:05:00Z"
+    },
+    {
+      "id": "b1ce09f6-1c9f-3c54-9f23-0a0a3f3e1478",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil falls, stocks climb on hopes of US-Iran Hormuz deal",
+      "summary": "Oil prices fell and Asian stocks climbed on Monday over hopes a deal between the United States and Iran to open the Strait of Hormuz could be brokered.Several sticking points have tempered hopes of a resolution to end the conflict and reopen the Strait of Hormuz, a critical energy corridor.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-falls-stocks-climb-hopes-074820979.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vrtHiUPwGKdnxXwi81MALQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/d4e02e3dd7d2b404c8fc39c15d6b8a98",
+      "published_at": "2026-05-25T07:48:20Z"
+    },
+    {
+      "id": "84c20530-5910-3817-8758-9c73000a55fe",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Walmart vs. Costco: Which Is the Better \"Recession-Proof\" Stock to Buy Now?",
+      "summary": "These seemingly boring dividend stocks have crushed the S&P 500 and Nasdaq over the last five years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/walmart-vs-costco-buy-recession-proof-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.gVF6ai3CYOIT7ddCA4RxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4f6c92f6617c112c6d279de94d7ebb5d",
+      "published_at": "2026-05-25T07:35:00Z"
+    },
+    {
+      "id": "e9779e2c-85d2-34b4-8398-28ef9f4fe192",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil slips $5 as US, Iran seen moving closer to peace deal",
+      "summary": "SINGAPORE, May 25 (Reuters) - Oil prices fell more than $5 to two-week lows on Monday, as optimism grew that the United States and Iran were moving closer to a peace deal, even though they remain at",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-falls-more-4-us-220953817.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k9vYlqc7ix5Y.Zk9a9docg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/56afbbd352ac4628c35714be847b9d94",
+      "published_at": "2026-05-25T07:22:52Z"
+    },
+    {
+      "id": "0f2795db-8292-3b7c-9628-7a083e870a61",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dollar Falls on Prospects of U.S.-Iran Deal",
+      "summary": "The dollar fell to a one-week low against a basket of currencies as oil prices dropped on prospects of a deal between the U.S. and Iran.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/currencies/risk-assets-firmer-on-u-s-iran-de-escalation-hopes-oil-key-swing-factor-52fde778?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-25T07:07:00Z"
+    },
+    {
+      "id": "bfd0c985-9fcf-3592-bcaf-58122a28586d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin’s Quietest Accumulation in 18 Months Is Happening Right Now",
+      "summary": "Bitcoin price builds a proactive setup as whale positioning hits a yearly high while retail demand drops to its most bearish level of 2026.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-price-proactive-setup-whales-yearly-high/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2vObjO5.ixssl6y4SMGqfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/022e74664a97cb7512f66e768acc4e0d",
+      "published_at": "2026-05-25T07:06:47Z"
+    },
+    {
+      "id": "2ac34174-2d1a-32c3-a348-5a9afb7aa522",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Rises on U.S.-Iran Optimism, Weaker Dollar",
+      "summary": "Gold prices rose on a weaker dollar and optimism that a potential breakthrough in U.S.-Iran peace negotiations could improve the inflation outlook.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-on-hopes-for-u-s-iran-deal-1ffacfe6?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-25T06:58:00Z"
+    },
+    {
+      "id": "4d6e417e-508c-3d6f-958c-34e9c4960c91",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Futures Fall Below $100 on Optimism Over U.S.-Iran Talks",
+      "summary": "Oil prices dropped back below $100 a barrel on optimism that the U.S. and Iran were moving closer to a peace deal.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-price-unlikely-to-return-to-pre-conflict-levels-this-year-d0a939da?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-25T06:41:00Z"
     },
     {
       "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
@@ -23,18 +144,150 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9jPu3siFOZSTJeHV49_s2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
-      "published_at": "2026-05-25T03:09:09Z"
+      "published_at": "2026-05-25T06:35:36Z"
     },
     {
-      "id": "a1b574d1-3306-3299-b2b3-5879db8d2603",
+      "id": "90376ef6-f37d-30c4-8bfa-ba8f55dbdde1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Tech Stock Is Trading Below Where It Was a Year Ago -- but Its Business Has Never Been Stronger",
+      "summary": "Despite a surge in revenue and a massive opportunity ahead of it, Microsoft's stock has slipped over the last year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/this-tech-stock-is-trading-below-where-it-was-a-ye/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OS0mGF6dJmeR89HSc23xKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8c7a405a1318f88cabf500781a21575d",
+      "published_at": "2026-05-25T06:27:00Z"
+    },
+    {
+      "id": "af06e0ac-8b0b-3b3d-8438-c911a1619c2c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Michael Saylor’s Strategy Buys Bonds Over Bitcoin, Here’s Why It’s Bullish",
+      "summary": "Strategy (formerly MicroStrategy) pauses its Bitcoin purchase this week and decides to buy bonds, Michael Saylor confirms. This has sparked discussions among crypto and stock investors about whether it’s good or bad, as the company announced potential Bitcoin sales to purchase bonds. While MSTR stock tumbled more than 5% last week, Strategy still holds 843,738",
+      "source": "CoinGape",
+      "url": "https://coingape.com/michael-saylors-strategy-buys-bonds-over-bitcoin-heres-why-its-bullish/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jIubmgyEyUPh.TO0MMKAvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/9ac4599356d5e2268247d2d855fd0863",
+      "published_at": "2026-05-25T06:12:20Z"
+    },
+    {
+      "id": "7a2939ba-141b-3b09-a13b-4449788db02b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Analysis-Ferrari's Luce leads bold leap into uncertain electric era",
+      "summary": "By Giulio Piovaccari ROME, May 25 (Reuters) - As its sports car rivals tap the brakes on a shift to EVs, Ferrari will take a leap into an uncertain era on Monday with the launch of its first fully-",
+      "source": "Reuters",
+      "url": "https://uk.finance.yahoo.com/news/analysis-ferraris-luce-leads-bold-060900962.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bCL0S1zaoi5OG2xbOW0yOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dd7b61f05aa8bee853be93c34f40ca1f",
+      "published_at": "2026-05-25T06:09:00Z"
+    },
+    {
+      "id": "f1e1d457-2966-3ed1-953f-b613d5c48ff7",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "IAC Conference Highlights People Inc. Pivot, AI Licensing Upside and MGM Bet",
+      "summary": "IAC (NASDAQ:IAC) is continuing its transformation from a holding company into People Incorporated, with executives describing the shift as a continuation of a strategy outlined earlier this year that includes asset sales, cost reductions and a sharper focus on People Inc. and MGM Resorts Internation",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/iac-conference-highlights-people-inc-pivot-ai-licensing-upside-and-mgm-bet-2026-05-25/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mdyiqaaYWE2_CElt7mXRtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/668f748c3dd591ebf8ebe4c976a4ff0c",
+      "published_at": "2026-05-25T06:02:10Z"
+    },
+    {
+      "id": "51958fbb-31f7-318f-b152-d5230d0e2b22",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Oil falls, Asian stocks climb on hopes of US-Iran Hormuz deal",
-      "summary": "Oil prices fell and Asian stocks climbed on Monday over hopes a deal between the United States and Iran to open the Strait of Hormuz could be brokered.But sticking points in their negotiations have tempered hopes of a swift resolution to restore the transit of oil and gas through the Strait of Hormuz.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-falls-asian-stocks-climb-030625076.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oXHqSq8xOwRSxPVpW6aNLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/aa5883d04a2ba5eec5519e9408bb8df7",
-      "published_at": "2026-05-25T03:06:25Z"
+      "title": "Tokyo stocks hit record, oil and dollar ease on Middle East peace hopes",
+      "summary": "By Ankur Banerjee and Ruth Chai SINGAPORE, May 25 (Reuters) - Stocks surged on Monday while the U.S. dollar and oil prices slid as the prospect of a deal to end the Iran war buoyed risk appetite,",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hzhRYHyeelZBUNOUqPRJAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3c7a41d3c0b75551d83f637fdc3356cd",
+      "published_at": "2026-05-25T05:38:17Z"
+    },
+    {
+      "id": "c1168bd3-7e39-38e0-a880-d9283bad2a1c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is Litecoin a Better Buy Than Bitcoin Right Now?",
+      "summary": "This coin has survived for a long time, but can it ever thrive?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/is-litecoin-a-better-buy-than-bitcoin-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ORVXgfPqwNqsNuXr_zMu6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/43dfb1e6739f390ea39c48b4e04ccbac",
+      "published_at": "2026-05-25T05:35:00Z"
+    },
+    {
+      "id": "2bdf9e90-1c76-3da7-9fb2-1e06de0ac404",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "In Sudan’s war economy, gold keeps flowing as miners risk mercury and collapse",
+      "summary": "The men carried metal detectors as they scanned a mountainous area in northern Sudan in search of gold.  The mine is one of thousands of small-scale and artisanal mines scattered across Sudan, part of a sector that is at the center of the devastating war that has at times pushed parts of the country into famine.  Gold has become a major source of funding for Sudan’s treasury after the country lost over two-thirds of its oil revenues with the secession of South Sudan in 2011.",
+      "source": "Associated Press",
+      "url": "https://www.yahoo.com/news/world/articles/sudan-war-economy-gold-keeps-052108163.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rabUImRkosp3dp8AP4Vmsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/460cebe4be9ba3e8f608586c1b550944",
+      "published_at": "2026-05-25T05:21:08Z"
+    },
+    {
+      "id": "4da453f7-247d-3dee-aae5-d01475227ef1",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Billionaire Bill Gates' Foundation Sold Its Microsoft Stake and Has 43% of Its $33 Billion Portfolio Invested in 2 Other Stocks",
+      "summary": "Microsoft has always been a standout stock for the foundation's portfolio.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/billionaire-bill-gates-foundation-sold-its-microso/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dm7b8RCdpoK9K9HwXFcBTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5937d2606a15bdf63fd39ddc99f68d51",
+      "published_at": "2026-05-25T05:20:00Z"
+    },
+    {
+      "id": "6c38f622-36c3-3242-8390-6ec0428d4d29",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This $8 Stock Could Be Your Ticket to Millionaire Status",
+      "summary": "This former AI favorite has fallen from grace, but Wall Street could once again sing its praises.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/25/this-8-stock-could-be-your-ticket-to-millionaire-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Fs86IP_a0uHLOhlaiCAJ1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c8b665bd4ac8cc517b3f519843128805",
+      "published_at": "2026-05-25T04:50:00Z"
+    },
+    {
+      "id": "a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Is The Crypto Market Up Today?",
+      "summary": "Crypto market adds $3.42 billion as Trump's patient Iran strategy resets risk premium and Bitcoin holds $77,000 above Hormuz Letter caveat.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PdaYFo4xxFakuNLtfisI0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/517daee03e3209a1add82c78dae25c5a",
+      "published_at": "2026-05-25T04:19:54Z"
+    },
+    {
+      "id": "3f6f9c83-848f-38d0-a877-52c7bd10eec4",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple vs. Microsoft: What Their Revenue Trends Reveal for Investors",
+      "summary": "One tech giant delivers record-setting sales surges, while the other posts unwavering growth. Recent earnings reveal how each strategy plays out over time.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/05/24/apple-vs-microsoft-what-their-revenue-trends-reveal-for-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CO_Y8U8cH3.9pEWo6QymEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2858e6b262b05ec256202d923ce7b9d3",
+      "published_at": "2026-05-25T04:10:32Z"
+    },
+    {
+      "id": "d1564275-0ce6-395c-99f3-a7558fc87b0c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Memorial Day.",
+      "summary": "As millions of Americans hit the road for Memorial Day weekend, investors are welcoming the chance to slow down.  The holiday follows a chaotic week driven by quarterly earnings from artificial-intelligence giant  Nvidia  and a flurry of excitement around quantum computing stocks.  Is the Stock Market Open or Closed on Memorial Day?",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-market-open-closed-today-memorial-day-hours-banks-post-office-ups-fedex-0faab8af?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D9Uc.aHuT7_HPvzbWB9M2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4f1b1bbd81bb97bf32ead9a35310fb33",
+      "published_at": "2026-05-25T04:01:00Z"
+    },
+    {
+      "id": "3ad34a6f-fa15-3a64-b2c9-3e8ae02e7217",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Stocks I Plan to Hold for the Next 20 Years",
+      "summary": "These are great businesses that can compound wealth in your portfolio for many years, rewarding patience in the long term.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/24/3-stocks-i-plan-to-hold-for-the-next-20-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QWYgxM5JxvXSCwEG0sqqjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5791a771c21317c4a6b870279c1b850",
+      "published_at": "2026-05-25T03:50:00Z"
     },
     {
       "id": "9b6a0fc9-b875-37ca-9ed7-f32a5116462c",
@@ -48,94 +301,6 @@
       "published_at": "2026-05-25T02:50:00Z"
     },
     {
-      "id": "51958fbb-31f7-318f-b152-d5230d0e2b22",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks rise sharply, oil and dollar slip on Middle East peace hopes",
-      "summary": "By Ankur Banerjee and Ruth Chai SINGAPORE, May 25 (Reuters) - Stocks surged on Monday while the U.S. dollar and oil prices slid as the prospect of a deal to end the Iran war buoyed risk appetite",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-oil-dollar-slide-233702158.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/if8uXTvB.7HPeyIQzLICZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6505bf90058d134693ec5dc1bfb4b916",
-      "published_at": "2026-05-25T02:37:12Z"
-    },
-    {
-      "id": "176840f0-ff7e-31b3-bc2c-edbaff18d2dd",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Asian shares mostly gain and oil prices fall after Trump says peace talks on Iran war are proceeding",
-      "summary": "Asian shares mostly rose Monday and oil prices plunged after U.S. President Donald Trump said talks on ending the war with Iran are progressing.  Japan's benchmark Nikkei 225 surged 3.1% in morning trading to 65,321.56.  Trump said negotiations with Iran were “proceeding in an orderly and constructive manner.”",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-gain-oil-023535458.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tJ_SKvp0lCT17t3KRIDSOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/65dc6fcfd8f9337cfca0a3e2d5bdaf50",
-      "published_at": "2026-05-25T02:35:35Z"
-    },
-    {
-      "id": "c4f74de3-3330-32d4-8639-46b20e0f43f9",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Brent Crude Slides 4% as President Trump Signals Patient Iran Strategy",
-      "summary": "Oil tumbles 4% after Trump's Truth Social post signals orderly Iran talks. Bitcoin holds $77,000 as Asian stocks rally.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/trump-iran-oil-price-crypto-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IVeF3N_HcdJgH6Z_mnFLdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/53b5d1305fd5c49585a55e873ee42c56",
-      "published_at": "2026-05-25T02:32:29Z"
-    },
-    {
-      "id": "222e4653-2200-3686-ad39-a05f604bb78a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian shares to open higher on US-Iran peace deal optimism",
-      "summary": "May 25 (Reuters) - Indian shares are set to open higher on Monday, as crude oil prices fall below $100 per barrel for the first time in more than two weeks on prospects of a deal to end the Iran war.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-shares-open-higher-us-022534156.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Mu3TMkkvMP8FnYYdxUPWCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7a374960289a433e5ef6d5e0bd698f6b",
-      "published_at": "2026-05-25T02:25:34Z"
-    },
-    {
-      "id": "ed275303-0ec4-318a-b276-da9b2caabe2c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why IMAX Stock Jumped This Week",
-      "summary": "The premium movie experience provider has put itself up for sale.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/why-imax-stock-jumped-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/faIa8N6fwCJQgK3K2r_c1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5b43280d5dab65fb3570b68ecba5d1ca",
-      "published_at": "2026-05-25T02:21:35Z"
-    },
-    {
-      "id": "15fcf53f-f5fd-3283-bb68-28f4743da93a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 AI Stocks I Wouldn't Hesitate to Buy Now",
-      "summary": "There are several great AI stocks worth buying right now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/3-ai-stocks-i-wouldnt-hesitate-to-buy-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T58d3NqGHKzl4MmCSmgNeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3b8b9d18242861f2cb80b7f7948b9a3",
-      "published_at": "2026-05-25T02:20:00Z"
-    },
-    {
-      "id": "0f2795db-8292-3b7c-9628-7a083e870a61",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Australian Dollar Rises Vs. U.S. Dollar on Mideast Peace Deal Hopes",
-      "summary": "The Australian dollar rose against its U.S. counterpart in the Asian session on hopes of a Middle East peace deal.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/currencies/risk-assets-firmer-on-u-s-iran-de-escalation-hopes-oil-key-swing-factor-52fde778?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-05-25T02:06:00Z"
-    },
-    {
-      "id": "8db9c75c-9a24-38d2-bd30-c54e8529e7aa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nasdaq Rebound: 3 Stocks to Buy Before They Hit New All-Time Highs",
-      "summary": "These three stocks are well off their highs but could stage big rallies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/nasdaq-rebound-3-stocks-to-buy-before-they-hit-new/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IaJHILN1u7BYQU0cB2lHPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/35995aeeb60705d3bcba6fe540f4de70",
-      "published_at": "2026-05-25T02:05:00Z"
-    },
-    {
       "id": "54b4bfd7-d01a-3c6c-8eb0-14668bd9e565",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -145,171 +310,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015632937.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1kC.6KL.lA1jw6dFto5KCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f887ae11f0e96720eba695d1ee0c2fa",
       "published_at": "2026-05-25T01:56:32Z"
-    },
-    {
-      "id": "996ba85a-2a29-3e03-90c0-634b483b694f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold rises on weaker dollar as investor weigh US-Iran peace deal prospects",
-      "summary": "May 25 (Reuters) - Gold prices rose more than 1% on Monday, supported by a weaker dollar and lower oil prices, as investors weighed prospects of a breakthrough in U.S.-Iran peace negotiations.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/gold-rises-weaker-dollar-investor-011857914.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kMWi6LcZTX5ri4lp7Yv00A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e32b62225ce45ebac83e664fc5fb484c",
-      "published_at": "2026-05-25T01:18:57Z"
-    },
-    {
-      "id": "ea7b9f1b-963c-351f-994b-7bebf576b388",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "JGBs Rise Amid Falling Crude Oil Prices",
-      "summary": "JGBs rose in price terms in the early Tokyo session amid falling crude oil prices that could ease inflationary pressures in Japan.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/jgbs-rise-amid-falling-crude-oil-prices-c4af0851?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-05-25T00:14:00Z"
-    },
-    {
-      "id": "3179ebc5-07d7-37cf-b367-15dff8096ac0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?",
-      "summary": "Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E0ldg2mztvQ90_EiG_LxTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6722a5b31b24aed5c4ae3eec4709d9eb",
-      "published_at": "2026-05-25T00:09:00Z"
-    },
-    {
-      "id": "25099d03-209f-3b69-ae85-3ade232a3d40",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "His piano lessons strike a chord with kids. It's music to parents' ears.",
-      "summary": "This 32-year-old piano teacher's method won over kids. Now a tech maverick, a Shark Tank tycoon and a Hollywood composer are helping him go national.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/money/2026/05/24/exclusive-new-piano-school-payam-music-wins-over-kids/88204957007/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KB8iwXDtoYKyqXROsijxtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/usa_today_money_325/0dd04f52a4cc7f8c5f1b77cef8c46675",
-      "published_at": "2026-05-24T23:55:42Z"
-    },
-    {
-      "id": "2ac34174-2d1a-32c3-a348-5a9afb7aa522",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold, Silver Rise on Hopes for U.S.-Iran Deal",
-      "summary": "PRECIOUS METALS 2345 GMT — Gold and silver rise in early trade on hopes for a U.S.-Iran deal to end the conflict. The positive sentiment is likely to bolster prices of precious metals which are increasingly being perceived as investment assets.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-on-hopes-for-u-s-iran-deal-1ffacfe6?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-05-24T23:47:00Z"
-    },
-    {
-      "id": "e3adf70e-7fe6-3cda-a2f7-816e759330bd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jim Cramer Says 'No Breaking' Nvidia Stock's Pattern, Gene Munster Says Post-Earnings Trading Is 'Noise' And Not Connected To Fundamentals",
-      "summary": "On Thursday, Jim Cramer and Gene Munster said Nvidia Corporation's long-term AI growth remains strong even after the stock dipped following its earnings report. Nvidia Stock Slips After Strong Earnings Beat Nvidia shares closed down 1.77% at $219.51 on Thursday,...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-no-breaking-233127758.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MBSnzzPbzDxUHWW1ZGlltA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/063610f18f3c783301f82d67ae7cd995",
-      "published_at": "2026-05-24T23:31:27Z"
-    },
-    {
-      "id": "1d8f228b-31d1-3639-8e99-0ff1c3f30426",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Alamos Gold Leadership Moves Support Growth Plan And Valuation Debate",
-      "summary": "Alamos Gold (TSX:AGI) announced a series of senior management promotions tied to its long term production objectives. James Clark was appointed Vice President, Canadian Operations, while Marcelo Martinez became Vice President, Mexico Operations. Scott Parsons and Adrian Paulse were promoted to Senior Vice President roles, supporting the company’s goal of reaching one million ounces of annual gold production by 2030. Alamos Gold operates as a gold producer with assets in Canada and Mexico,...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alamos-gold-leadership-moves-support-230616271.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
-      "published_at": "2026-05-24T23:06:16Z"
-    },
-    {
-      "id": "13915618-75f0-3a39-a391-96ea7ecef60c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For",
-      "summary": "One of these players is a tech giant, while the other is a small pure-play quantum company.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/2-quantum-computing-stocks-that-are-further-along/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KEWXwpFMuUoCGRmb50vYaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3b3ab628d8554696dc3a8134a31b84fd",
-      "published_at": "2026-05-24T22:30:00Z"
-    },
-    {
-      "id": "db81e645-731b-3345-9f5f-c52dff11c460",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
-      "summary": "Jim Cramer’s blunt line to a young first-time homebuyer on the May 22 episode of Mad Money: “Expect corrections and don’t rely on hope as an investing strategy.” The caller, a younger investor, had just used a significant portion of his investment assets as a down payment on his first home and asked how to ... ‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/05/24/expect-corrections-and-dont-rely-on-hope-cramers-reality-check-for-a-first-time-homebuyer/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqrAHIW07BHaI3X8.gXKiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-      "published_at": "2026-05-24T22:21:54Z"
-    },
-    {
-      "id": "5a53c41d-b08a-4641-959f-d45fdb5a31f2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil prices fall after Trump says Iran deal to be announced shortly",
-      "summary": "Oil prices dropped at the start of futures trading on Sunday after President Trump said the US and Iran were close to announcing a deal that would reopen the Strait of Hormuz.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/commodities/article/oil-prices-fall-after-trump-says-iran-deal-to-be-announced-shortly-221404651.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9maGl64f0_Rau5I_MMsTxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/26758f83-c2f9-4fc0-bfc9-3b579eda26d2",
-      "published_at": "2026-05-24T22:14:04Z"
-    },
-    {
-      "id": "b4c59613-69c0-3af1-832e-ce15e97b35ab",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Assessing Devon Energy (DVN) Valuation After Strong Recent Shareholder Returns",
-      "summary": "Event context and recent share performance Devon Energy (DVN) has drawn attention after recent trading left the stock near US$47.22, with the price up about 8% over the past 3 months but down slightly over the past month. See our latest analysis for Devon Energy. At around US$47.22, Devon Energy’s share price has a year to date share price return of 24.69%, while the 1 year total shareholder return of 55.47% points to momentum that has built over a longer period. If you are looking beyond...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-devon-energy-dvn-valuation-221250751.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0TmvAbrR8UwmJ968fBRtIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
-      "published_at": "2026-05-24T22:12:50Z"
-    },
-    {
-      "id": "fad65a23-5b31-38ee-aba6-a7c75924891c",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Will Ethereum Ever Move Past $4,000 Again?",
-      "summary": "Ethereum (CRYPTO: ETH) is trading around $2,091 today, down 57% from its all-time high of $4,946, set in August 2025. To move past $4,000 again, Ethereum needs to nearly double from its current price. Ethereum nearly doubling from here is a stretch, but the case for it is stronger than the price suggests. So, we ... Will Ethereum Ever Move Past $4,000 Again?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l92Bm.yPDW7aZc6eMBp0Sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/60691ae01debd15a0f500b66e8e4be1a",
-      "published_at": "2026-05-24T21:43:44Z"
-    },
-    {
-      "id": "41c7f982-9b8f-3f30-bf41-b555c8dc5413",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Qualcomm Stock Is the Sleeping Giant of the AI Revolution. It’s Starting to Wake Up.",
-      "summary": "Long weighed down by smartphone market stagnation and the impending loss of Apple as a client, Qualcomm is staging a powerful comeback as it transitions to an aggressive offensive in AI data center inference and physical AI.",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/2110205/qualcomm-stock-is-the-sleeping-giant-of-the-ai-revolution-its-starting-to-wake-up",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2LWDRFuQtxVpvjj5NP.NHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/fbdf6226373634d96c2ef15831fe7e65",
-      "published_at": "2026-05-24T21:41:47Z"
-    },
-    {
-      "id": "247af032-8987-30b8-a974-76e7343d4029",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "This Billionaire Dumped Cloud Stocks for These New AI Stocks. Should Investors Follow Suit?",
-      "summary": "Philippe Laffont was busy buying Taiwan Semiconductor Manufacturing Company and ASML Holding stock in the first three months of the year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/24/this-billionaire-dumped-his-cloud-stocks-for-these/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4M3_FXIrZ5qybC_bRD216A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/49a2a4627fc23de2881a2800a39c85f3",
-      "published_at": "2026-05-24T21:38:00Z"
-    },
-    {
-      "id": "014c13a6-195d-3023-99bf-8dc9c1a80052",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "A Bitcoin Treasury Company Has a Doctor on Staff, But Why?",
-      "summary": "Nakamoto CEO David Bailey defends paying a Chief Medical Officer at NAKA, his Bitcoin treasury company down over 99%.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/nakamoto-chief-medical-officer-naka/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/spAYjL9e_gul.QEMOj2wNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6d5468b96915407883af7291b0a945ac",
-      "published_at": "2026-05-24T21:28:51Z"
     }
   ]
 }
