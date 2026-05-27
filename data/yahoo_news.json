@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-05-26 23:06 UTC",
+  "last_updated": "2026-05-27 01:33 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "b3d9e0f6-e3c6-3f5a-bc62-e600e88c723b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures Rise After S&P 500, Nasdaq Hit Highs; 5 AI Stocks In Buy Areas",
+      "summary": "The S&P 500, Nasdaq and Russell 2000 hit new highs as Micron surged to top a $1 trillion market cap. Caterpillar, Viavi flashed buy signals.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-micron-1-trillion/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TrGGkBu9xrTeGsfZyv_VFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2b18bc6a2254941f70591a54e89a49b0",
+      "published_at": "2026-05-27T01:18:00Z"
+    },
+    {
+      "id": "8ec0acd6-5ce3-3cb5-9405-1b7ec7f9b2e8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Assessing American Airlines Group’s Valuation After UBS Upgrade And Fuel Cost Tailwinds",
+      "summary": "American Airlines Group (AAL) stock moved sharply higher after UBS raised its outlook on the carrier, citing easing geopolitical tensions, expectations for strong summer travel demand, and support from lower crude oil prices across airline stocks. See our latest analysis for American Airlines Group. The UBS upgrade and rally in airline stocks come after a mixed period for American Airlines, with the share price up 23.09% over 7 days and 22.69% over 30 days, but down 4.10% year to date, while...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-american-airlines-group-valuation-001608771.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/szHwMMcGj9jXEp8SyFPbYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/cdab26cef65d270b239872ce437e6c07",
+      "published_at": "2026-05-27T00:16:08Z"
+    },
+    {
+      "id": "4ece7080-b2a6-3f28-b91e-cba2154186b3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "IREN’s US$1.6b Blackwell Bet Tests Power Advantage In AI Buildout",
+      "summary": "IREN (NasdaqGS:IREN) agreed to purchase $1.6 billion of Nvidia Blackwell systems from Dell to power its AI data centers in Texas. The company plans to use this hardware to serve previously announced AI cloud contracts at its existing Texas campus. Management has highlighted power grid constraints as a key risk for new AI data centers, with many projects facing multi year delays. IREN points to its pre secured power infrastructure as a key factor in being able to deploy new AI compute...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-us-1-6b-blackwell-001557571.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-05-27T00:15:57Z"
+    },
+    {
+      "id": "8c6c252c-d918-3693-88c2-01f5abe9e36f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why TeraWulf Stock Raced More Than 10% Higher Today",
+      "summary": "It announced a significant acquisition.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/26/why-terawulf-stock-raced-more-than-10-higher-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eT5HKT2VNdtQFC8jkujJDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ccc9d08b03f4af20752b01d2f631ddc0",
+      "published_at": "2026-05-27T00:04:50Z"
+    },
+    {
+      "id": "481f0e0b-1860-3bcd-a7eb-4030059dab7e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang delivers sharp message to major customer",
+      "summary": "Nvidia (NVDA) Chief Executive Officer Jensen Huang has publicly called on Super Micro Computer (SMCI) to strengthen its compliance efforts after Taiwanese authorities detained three people accused of making fraudulent declarations tied to AI servers containing Nvidia chips. According to a Bloomberg ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/nvidia-ceo-jensen-huang-delivers-sharp-message-to-major-customer-super-micro",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/47o88fr64HqH6gijiwSDtg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/cdf83bd1c558a2f228e34287d201c32e",
+      "published_at": "2026-05-27T00:03:00Z"
+    },
+    {
+      "id": "18eee7ca-2e5c-3786-a9c3-798d6f1a8ec1",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple, Google push for judicial oversight in Canada online safety bill",
+      "summary": "By Stephen Nellis SAN FRANCISCO, May 26 (Reuters) - Apple and Alphabet's Google on Tuesday pushed to amend an online safety bill working its way through Canada's parliament to add judicial oversight",
+      "source": "Reuters",
+      "url": "https://ca.news.yahoo.com/apple-google-push-judicial-oversight-235434534.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hm6n32iK.KFnwb5PNHrVbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8ed3dc8e240282af66d102f1b6df8b40",
+      "published_at": "2026-05-26T23:59:47Z"
+    },
+    {
+      "id": "85eda60a-fb31-3527-bf8b-3e0e6e5ee07d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "IREN Stock Gains: Buys NVDA's Blackwell Systems From Dell For $1.6B To Boost AI Cloud Capacity",
+      "summary": "The Blackwell systems will be installed at its Texas data center.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/iren-stock-gains-buys-nvda-s-blackwell-systems-from-dell-for-1-6-b-to-boost-ai-cloud-capacity/cZgOkGlReqz",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2u4.Mk3VHWjDvlN4ZFBi6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/cae3958062f23c4a293f008db46dda57",
+      "published_at": "2026-05-26T23:51:34Z"
+    },
+    {
+      "id": "b793c194-8c13-35ce-8be7-0eee4ec33a8e",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Novo regains full control of Egina Gold Project after Northern Star withdrawal",
+      "summary": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO, FRA:1NOR) has regained full control of exploration at the Egina Gold Project in Western Australia’s Pilbara region after Northern Star Resources Ltd (ASX:NST) withdrew from its earn-in agreement. Northern Star, which inherited the agreement...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1092914/novo-regains-full-control-of-egina-gold-project-after-northern-star-withdrawal-1092914.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Dg000tEr0m2h7MMJkFvAew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/c46b1aaf673104b14135461772c31b0a",
+      "published_at": "2026-05-26T23:34:00Z"
+    },
+    {
+      "id": "7c9cb1d4-1076-3965-b89c-bf3649d7f610",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why GE Vernova Stock Triumphed on Tuesday",
+      "summary": "It's doing very well with a product line crucial to its success.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/26/why-ge-vernova-stock-triumphed-on-tuesday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yBT1sP.8qxF6gfNbJnoOPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/262a053efb757f6759a6cb92896fcd5d",
+      "published_at": "2026-05-26T23:31:37Z"
+    },
+    {
+      "id": "8f9a2312-588f-34d4-8dd7-1a9db4b6e3d4",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Hits Back At Tesla Brand Damage Critics, Reaffirms Model Y's Sales Dominance",
+      "summary": "Tesla Inc. CEO Elon Musk on Monday hit back against concerns that his political activism has negatively affected the Tesla brand. Product >> Brand Quoting a post by user James Stephenson on X, who hailed the Tesla Model Y’s position...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-hits-back-tesla-233110193.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8Xs2cuCn9LWpBui6PcKAuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6c7af688d8a5f26b12ff1f7b24319650",
+      "published_at": "2026-05-26T23:31:10Z"
+    },
+    {
+      "id": "99397f82-5204-3675-b302-87bea50b562b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Goldman Sachs gives harsh warning on market concentration",
+      "summary": "Goldman Sachs is sounding the alarm on what it sees as a dangerous concentration in the artificial intelligence-driven stock market rally. In a May 15 report, Goldman Sachs strategist Ben Snider said the S&P 500 has climbed 10% this year, but the gains have become heavily concentrated in ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/goldman-sachs-gives-harsh-warning-on-market-concentration",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lfvWSYNchLNsy4nfOyK6yA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/853ddc134ac85da8999de18e49ce4d29",
+      "published_at": "2026-05-26T23:07:00Z"
+    },
+    {
+      "id": "86314550-bd4b-3d01-b100-9c51146268da",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "RXO, Saia, and Werner Stocks Trade Up, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of operating costs on fuel.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-saia-werner-stocks-trade-230328014.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p2BJcjyNyZZGLzEWO1ofWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/581d5cd628c4bf095ef490a29cf69fef",
+      "published_at": "2026-05-26T23:03:28Z"
+    },
     {
       "id": "2416d4c6-da51-3bd4-b30a-a83f19281e45",
       "asset": "OIL",
@@ -37,17 +169,6 @@
       "published_at": "2026-05-26T22:53:00Z"
     },
     {
-      "id": "b3d9e0f6-e3c6-3f5a-bc62-e600e88c723b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Hit Highs, Micron Tops $1 Trillion; 5 AI Stocks In Buy Areas",
-      "summary": "The S&P 500, Nasdaq and Russell 2000 hit new highs as Micron surged to top a $1 trillion market cap. Caterpillar, Viavi flashed buy signals.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-micron-1-trillion/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TrGGkBu9xrTeGsfZyv_VFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2b18bc6a2254941f70591a54e89a49b0",
-      "published_at": "2026-05-26T22:48:49Z"
-    },
-    {
       "id": "d5a947b9-6036-3222-a9eb-ae0c5eb816eb",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -57,17 +178,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/universal-logistics-arcbest-xpo-shares-224728535.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WRO1bCnxo9sBEOOP4tHG8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/cb16e5f6890c7d9b520b0973d8834323",
       "published_at": "2026-05-26T22:47:28Z"
-    },
-    {
-      "id": "33585df9-6e7d-3540-b336-d816ef8d9165",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Pangaea, Covenant Logistics, and Landstar Shares Skyrocket, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of operating costs on fuel.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pangaea-covenant-logistics-landstar-shares-223928946.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d0kCGnadW8NLeD3f9EOHVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f6ff65b5bedc64751bae04a793e2e34b",
-      "published_at": "2026-05-26T22:39:28Z"
     },
     {
       "id": "575672c0-6155-3863-92c9-1a26f7fa9c9a",
@@ -81,15 +191,26 @@
       "published_at": "2026-05-26T22:36:01Z"
     },
     {
-      "id": "2903dc38-2d43-3d5c-b833-15d21c461e16",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Knight-Swift Transportation and Schneider Shares Skyrocket, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of operating costs on fuel.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-schneider-shares-223128582.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_ReqXKdsTefZeISGp8Yz3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/ac9b314aa54927c76e9352d32792fcb5",
-      "published_at": "2026-05-26T22:31:28Z"
+      "id": "2b74329c-72d7-3199-b344-4cf850239d67",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Tom Lee Says Mag-7 Bear Market Is Over, But Trouble Is Brewing For Rest Of Wall Street: 'Day Of Reckoning'",
+      "summary": "Fundstrat's Head of Research, Tom Lee, is warning investors that while Big Tech — including Apple, Microsoft, Nvidia and other Mag-7 companies — is out of the woods, a targeted “rolling bear market” is heading for other areas of Wall...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-says-mag-7-223115963.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B_dwTr1aFHFCxhS5Ol1._w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/1a5c5c74c917b3648b7762f5e314eb57",
+      "published_at": "2026-05-26T22:31:15Z"
+    },
+    {
+      "id": "cbe0e11e-3a0b-3e30-b858-200f10311b04",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Stocks to Watch: Zscaler, Ferrari, Dell, DuPont",
+      "summary": "↘️ Zscaler (ZS): The cybersecurity company shared a cautious outlook for its full fiscal year, as rising memory costs and changes to its sales leadership team spurred uncertainty. Shares slid 20% in postmarket trading.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026/card/stocks-to-watch-ferrari-dell-marvell-technology-bQtUQvQJ7pXwYCLkbdAJ?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tBJrp98xmJCeRaQyRC2JVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/696d293f2c712571e1320adbf2177ed6",
+      "published_at": "2026-05-26T22:25:34Z"
     },
     {
       "id": "e3f24b6a-aac4-3d74-84a2-ba1fee58e233",
@@ -101,17 +222,6 @@
       "url": "https://www.fool.com/investing/2026/05/26/60-thoughts-as-i-turn-60/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EoNnPQMOjcHoQYracVu4eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1b19e0f15c264184e369df6a4c752c08",
       "published_at": "2026-05-26T22:22:39Z"
-    },
-    {
-      "id": "360fb034-ffdd-3188-aaa4-ef886a970159",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Qualcomm (QCOM) Stock Is Up Today",
-      "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 3.5% in the afternoon session after Micron's UBS-led surge ignited a semiconductor rally.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-today-220728104.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sAEHV.dYCiO5Y1cr4jPkkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/1d5516b4db23b041bf7158e3e7472adf",
-      "published_at": "2026-05-26T22:07:28Z"
     },
     {
       "id": "332c9d8a-94d5-30e2-8a8b-c984da39fdfa",
@@ -136,28 +246,6 @@
       "published_at": "2026-05-26T22:00:16Z"
     },
     {
-      "id": "e7f9bf4b-5ddb-3236-b03b-923e2a18fa5c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Potato Tycoon Knew About Micron Before You Did",
-      "summary": "Long before Micron Technology was one of the hottest commodities in the artificial-intelligence trade, it received $1 million from a potato tycoon named J.R. Simplot.  Simplot, who died in 2008, invested in Boise, Idaho-based Micron in the early 1980s while it was still a nascent company in the computer-chip business.  Micron on Tuesday crossed $1 trillion in market capitalization, the 12th U.S. company to reach that valuation and the first to be based in Idaho.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026/card/this-potato-tycoon-knew-about-micron-before-you-did-utwUHMX0s26AhAy0i0VU?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UuTq72i6tPCwU4MrbJc3CA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6474f3be1a8dec930fdaf662d7939c00",
-      "published_at": "2026-05-26T22:00:02Z"
-    },
-    {
-      "id": "2cf12797-3cc7-3c29-be1c-6c067db2823d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Allegro MicroSystems and Penguin Solutions Stocks Trade Up, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after Micron's UBS-led surge ignited a semiconductor rally.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-penguin-solutions-stocks-215928481.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PLQgk8oB47pPU4lWmPnEWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/5294846eb2417174997d5bd1ece2c9c6",
-      "published_at": "2026-05-26T21:59:28Z"
-    },
-    {
       "id": "a14d54eb-be49-3b2f-b976-6b41d415c18d",
       "asset": "ETH",
       "asset_name": "Ethereum",
@@ -167,28 +255,6 @@
       "url": "https://www.cryptoprowl.com/releases/pumpfun-expands-app-trading-across-ethereum-base-and-bnb-chain-5671",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I_zfezsuAcTTCeM.x5N8ZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/2e81e5062af35ab6abb1f2f0239040ae",
       "published_at": "2026-05-26T21:59:00Z"
-    },
-    {
-      "id": "415eecd8-006a-3f63-bfa8-3e3df38cce82",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's Who Shouldn't Invest in SpaceX",
-      "summary": "SpaceX is a highly recognizable name, but that doesn't mean everyone should buy shares.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/26/heres-who-shouldnt-invest-in-spacex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jC7482Y68edXTtnBEiQd8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3e6ede933ee685d839b4582cd7fbf66",
-      "published_at": "2026-05-26T21:57:00Z"
-    },
-    {
-      "id": "3677f766-bab6-3571-9961-e28c54c8afd5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI Buildout Fuels Record Results for These Companies",
-      "summary": "Both Cisco Systems (CSCO) and NVIDIA (NVDA) delivered robust earnings releases this cycle, posting record results thanks to favorable trends stemming from the AI buildout.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-buildout-fuels-record-results-215400931.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yq.5iO36CI.hg5QeEDOo5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193",
-      "published_at": "2026-05-26T21:54:00Z"
     },
     {
       "id": "ed820b86-b19e-30ce-a92b-c0cae968ddb4",
@@ -205,7 +271,7 @@
       "id": "83abcad4-ebee-3224-8b4f-784a59b79963",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
-      "title": "S&P 500 And Nasdaq Close At Record Highs, Dow Climbs Amid Hopes Of Diplomatic Resolution Between US And Iran — MU, QCOM, LUNR, LLY, CODX In Focus",
+      "title": "S&P 500, Nasdaq Close At Record Highs Amid Hopes Of Diplomatic Resolution Between US And Iran — MU, QCOM, LUNR, LLY, CODX In Focus",
       "summary": "Investors remained hopeful about U.S.-Iran talks, offsetting recent military exchanges.",
       "source": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-close-at-record-highs-dow-climbs-amid-hopes-of-diplomatic-resolution-between-us-and-iran-mu-qcom-lunr-lly-codx-in-focus/cZgOiKbReqx",
@@ -244,72 +310,6 @@
       "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LEmRIJTJ8RCs8pY7ked5SA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/b5ce5eab0e832f6ec40c05dfb05d1990",
       "published_at": "2026-05-26T21:19:34Z"
-    },
-    {
-      "id": "d5ab052c-58c1-3bdc-a692-3d925f4d669f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia CEO has blunt message on AI layoffs in 2026",
-      "summary": "Amazon cited AI efficiency when it eliminated 16,000 corporate roles. Microsoft cited AI when it cut more than 15,000 positions. Across Big Tech, the explanation for layoffs has become almost predictable: we are doing more with less, and AI is why. Jensen Huang has a problem with that story. And he ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/employment/nvidias-ceo-has-a-blunt-message-on-ai-and-layoffs-in-2026-jensen-huang-layoffs-employments-jobs",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/...6xyRPIVi7aB8xLwLsjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8ff8c911733b35e64ecb577ef10a00ce",
-      "published_at": "2026-05-26T21:17:00Z"
-    },
-    {
-      "id": "98972a09-6590-479d-bad3-2b18aef234b3",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Why investors should consider commodities right now",
-      "summary": "Mackenzie Investments Chief Investment Officer, Equities Lesley Marks, joins Market Domination Overtime to explain why investors should be paying closer attention to commodities amid market volatility and uncertainty. Marks discusses why energy and materials are emerging as attractive opportunities right now, the macro trends driving the sectors higher, and the one area of the market she believes investors should avoid.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/why-investors-should-consider-commodities-right-now-210043863.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N9ssPdS6ghwuayobAPSVZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/e2c09d90-80fd-11ef-aa4d-11440e175ca3",
-      "published_at": "2026-05-26T21:00:43Z"
-    },
-    {
-      "id": "acb28b32-eb08-3aeb-a308-22144343625a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Google-backed stock jumps after new AI deal",
-      "summary": "Shares of TeraWulf (Nasdaq: WULF) surged during market hours on May 26 after the Bitcoin miner-turned-AI infrastructure company announced the acquisition of a hyperscale high-performance computing site. TeraWulf is a United States-based digital infrastructure company founded in 2021 by energy ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/google-backed-stock-jumps-after-new-ai-deal",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pnfS3dXmmrq.bUCxh.V_fQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/fca2bb01bfd40840b0738aa5704f661e",
-      "published_at": "2026-05-26T21:00:00Z"
-    },
-    {
-      "id": "d94043bb-8ae8-3ae8-9e68-8abec42a5fc3",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
-      "summary": "Crypto treasury firms Sharplink and Forward Industries will both be included in the Russell 2000 and 3000 indexes at the end of June.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6G49XwxGo7.Td.7G0SbpXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/d604d2a2ce91619cfdd74a1fffa2ee1a",
-      "published_at": "2026-05-26T20:40:44Z"
-    },
-    {
-      "id": "d27bc783-bf65-3bee-a732-944f88d5051b",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Novo Resources Takes Back Egina Exploration Following Northern Star Withdrawal",
-      "summary": "Novo Resources (NVO.TO) after trade Tuesday said exploration activities on the Egina Gold project wi",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/novo-resources-takes-back-egina-203509082.html",
-      "thumbnail": "",
-      "published_at": "2026-05-26T20:35:09Z"
-    },
-    {
-      "id": "5fff7d75-631a-39a6-8397-af02bbcfb42c",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "S&P 500, Nasdaq nab record closing highs, WTI crude falls on hopes for Iran peace deal",
-      "summary": "By Stephen Culp NEW YORK, May 26 (Reuters) - The S&P 500 and the Nasdaq advanced on Tuesday, parting ways with their European counterparts, and falling West Texas Intermediate crude prices diverged",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-rises-stocks-mixed-us-011531729.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V2f7P9KZM3YUW6PwnvXriw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4cf24f15df9b644fad502e63909e573d",
-      "published_at": "2026-05-26T20:34:03Z"
     }
   ]
 }
