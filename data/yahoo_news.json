@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-05-29 22:49 UTC",
+  "last_updated": "2026-05-30 00:07 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "aff089c9-b067-3909-b24c-ab576df2d063",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Stock Market Today, May 29: Microsoft Rises as $37 Billion AI Run Rate Highlights Cloud Growth",
+      "summary": "The $37 billion AI run rate gives Microsoft a clearer monetization benchmark, while in-house models could help manage the cost of serving AI demand across Azure and Microsoft 365.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/29/stock-market-today-may-29-microsoft-rises-as-usd37-billion-ai-run-rate-highlights-cloud-growth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HS.p98roqhMAhk1B_TlxGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460",
+      "published_at": "2026-05-29T23:48:43Z"
+    },
+    {
+      "id": "aff584dc-a741-3607-ad7b-a1fc9815c56b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "COIN, HOOD Stocks Jump After US Regulator Greenlights Crypto Perpetual Futures",
+      "summary": "U.S. crypto firms are now permitted to offer perpetual futures.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/coin-hood-stocks-jump-after-us-regulator-greenlights-crypto-perpetual-futures/cZgj57rReuG",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oHWtzlJM81RLCXCSD4yz_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8d6c70d6d70be0ae1a353c3418027ba3",
+      "published_at": "2026-05-29T23:43:35Z"
+    },
+    {
+      "id": "a53e861b-6e49-3834-9d1f-fa1db68ce28a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "1 Stock Slated to Cash In on the SpaceX IPO",
+      "summary": "Alphabet is a major SpaceX shareholder.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/29/1-stock-slated-to-cash-in-on-the-spacex-ipo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VWcFvVAXK_.9CsIua84uog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4c070be305d17c7035c3afa7bb813fbb",
+      "published_at": "2026-05-29T23:43:00Z"
+    },
+    {
+      "id": "0be125eb-7ae8-3e30-9ec8-e8bf7813100e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "\"Not your keys, not your crypto\" isn't the whole story, says a wallet recovery expert",
+      "summary": "\"Not your keys, not your crypto\" is one of the oldest and most repeated lines in crypto. Bruno Krauss, co-founder and CTO of ReWallet, has a more nuanced take, from inside the business of cleaning up after the maxim goes wrong. Krauss is a crypto native who started ReWallet, a ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/innovation/not-your-keys-not-your-crypto-isnt-the-whole-story-says-a-wallet-recovery-expert",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UIcqL5zXFxxx2pCScMz0Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d545dcce9dc6043f4aa8cb3e06a38707",
+      "published_at": "2026-05-29T23:31:22Z"
+    },
+    {
+      "id": "d949ea2d-a472-3cd5-aa26-62df26e7a937",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "While Crypto Sinks, HYPE Is Soaring. Now It Has Two ETFs",
+      "summary": "<p>Bitcoin and ether sit well off their highs, but Hyperliquid's token just hit a record.</p>",
+      "source": "etf.com",
+      "url": "http://www.etf.com/sections/features/while-crypto-sinks-hype-soaring-now-it-has-two-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xrGHbvO49wmfS2YqLWAEkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/7696a9a640ccd7876ae67165b7e4bcd2",
+      "published_at": "2026-05-29T23:12:45Z"
+    },
+    {
+      "id": "696b3a00-7c71-337c-879c-96f38e3ca3c6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Viasat Stock Sank Today",
+      "summary": "Viasat's latest business update is causing some investors to reassess the stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/29/why-viasat-stock-sank-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AkSa1FzyBFxfounZBVjiVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/364ffd8cfc28d50bde3b8a6930e5eb24",
+      "published_at": "2026-05-29T23:10:22Z"
+    },
+    {
+      "id": "f5a32c5f-3548-3659-81f4-93968d4fbad5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event",
+      "summary": "Nvidia  on Friday posted a cryptic social media post that seemed to give credence to rumors that the company will make a chip for Windows PCs and announce it at the chipmaker’s GTC Taipei convention next week.  The post read “A new era of PC,” and then listed two numbers which appear to be the coordinates of the Taipei Music Center.  Huang’s presentation is slated to begin on Monday at 11 a.m. Taipei time, which is Sunday at 11 p.m. U.S. Eastern Time.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-chips-microsoft-pcs-gtc-3b516c98?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zprzSODYGPcWH_vtNoR7PA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/90c377bdb448f4db5e7972bf917930fd",
+      "published_at": "2026-05-29T23:07:00Z"
+    },
     {
       "id": "d1099971-41c7-3482-ad8b-acf718945a05",
       "asset": "NVDA",
@@ -13,6 +90,39 @@
       "url": "https://www.fool.com/investing/2026/05/29/why-okta-stock-surged-to-a-new-52-week-high-today/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TpJJKU8vHLDpXePhCEc.tQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/83f799c9bbabf6f54959a94e95d5eaef",
       "published_at": "2026-05-29T22:45:56Z"
+    },
+    {
+      "id": "b8662c3b-7e37-33b3-8c17-570e8dc9d392",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Will Solana (SOL) Make You a Millionaire?",
+      "summary": "Solana (CRYPTO: SOL) is a top-10 cryptocurrency with a market cap of about $47.5 billion. Investors keep returning to the token because it runs on one of the strongest blockchain networks from a technical perspective. The coin trades around $82 today, well off its all-time high of $294, but interest has not faded. Institutional players ... Will Solana (SOL) Make You a Millionaire?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/29/will-solana-sol-make-you-a-millionaire/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_LYxt4.lDjtqE7XDbR5XQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f0dee312d1d3f2de0a1d4461c3c12f10",
+      "published_at": "2026-05-29T22:39:18Z"
+    },
+    {
+      "id": "7bd51e80-8adb-3326-8723-5aeb777edc8d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Higher-for-Longer Interest Rates Are Turning Berkshire Hathaway's Cash Hoard Into an Earnings Engine.",
+      "summary": "Berkshire Hathaway has nearly $400 billion in cash, but that's no longer just dead money.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/29/higher-for-longer-interest-rates-are-turning-berks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N5S4F_xGvTr9zaUWFykx9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cdef5189f217247548d785af97b2759f",
+      "published_at": "2026-05-29T22:35:00Z"
+    },
+    {
+      "id": "47f93626-27d0-3c42-8b19-6a0519d310b2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Oilfield-Services Stock Is Just Getting Started",
+      "summary": "It took conflict in the Middle East for the market to start paying attention to the energy sector again.  The Houston-based company, formerly known as Schlumberger, has an $87 billion market capitalization and is the world’s largest oilfield-services provider, with operations in 120 countries.  The rise in  oil prices  from about $55 a barrel in early January to a recent price above $90, certainly helps SLB’s case.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/oilfields-services-stock-slb-buy-9b7a3d3f?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tXsi14g1P5g5H2M47iof8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/bad24e6b0c7620a17f0bfddf6bb8b170",
+      "published_at": "2026-05-29T22:31:00Z"
     },
     {
       "id": "1ae208db-ab4c-3494-a83a-125868c78c3b",
@@ -37,15 +147,15 @@
       "published_at": "2026-05-29T22:11:18Z"
     },
     {
-      "id": "256ba31e-f719-3899-a1b6-bb59922b520d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why POET Technologies Stock Keeps Falling",
-      "summary": "POET Technologies stock continued its slide on Friday, falling another 7.3%.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/29/why-poet-technologies-stock-keeps-falling/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QlPp7scElOE8M0aMKZWgNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3843a3a63627cc73650f658ea13f749f",
-      "published_at": "2026-05-29T21:56:03Z"
+      "id": "d6477b04-2444-390a-9ffc-24ba1dc64dfc",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "As Nvidia, Oracle And Amazon Pour Billions Into AI, Wall Street Is Quietly Hedging For Trouble",
+      "summary": "Wall Street traders are increasingly hedging exposure to Big Tech credit as hedging activity tied to AI-era borrowing surges, pushing outstanding credit default swap (CDS) volume to record levels. In a Wednesday post on X, The Kobeissi Letter stated that...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/options/articles/nvidia-oracle-amazon-pour-billions-220125805.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hMsyj94zRRAkeHVKGZKghw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/3245a9309e1c75ab2436cedb64f514d8",
+      "published_at": "2026-05-29T22:01:25Z"
     },
     {
       "id": "d5dd18ee-965c-3342-9f75-74692b912a5b",
@@ -70,15 +180,26 @@
       "published_at": "2026-05-29T21:51:59Z"
     },
     {
-      "id": "bd7fd79d-17e6-3b61-8873-62cee0ba378c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Amazon is Cutting Even More Jobs, Following the Mass Layoffs in January. Can It Maintain Its Cloud Dominance as Employees Exit?",
-      "summary": "The cloud leader is pruning its most profitable business.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/29/amazon-is-cutting-even-more-jobs-following-the-mas/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l.DsxUx8kD3KOOri18HZWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/daaf8a570a621ff7284e7e3dfffa6f00",
-      "published_at": "2026-05-29T21:50:00Z"
+      "id": "a3359f1c-abd2-33d1-ac52-decd6b375724",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Why Newmont Corporation (NEM) Outpaced the Stock Market Today",
+      "summary": "The latest trading day saw Newmont Corporation (NEM) settling at $109.81, representing a +1.46% change from its previous close.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-newmont-corporation-nem-outpaced-215002807.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k6uDefeIp9u1zRe.lKA2TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f",
+      "published_at": "2026-05-29T21:50:02Z"
+    },
+    {
+      "id": "50d1d301-4521-35ac-97f8-fe673e6bca83",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla (TSLA) Stock Declines While Market Improves: Some Information for Investors",
+      "summary": "Tesla (TSLA) reached $435.79 at the closing of the latest trading day, reflecting a -1.43% change compared to its last close.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-declines-while-214503482.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U_mLgBLkmbjzIonwV1EBtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
+      "published_at": "2026-05-29T21:45:03Z"
     },
     {
       "id": "9126e726-2330-3593-b667-ce50ade6af57",
@@ -92,6 +213,17 @@
       "published_at": "2026-05-29T21:43:12Z"
     },
     {
+      "id": "cd7e55a9-080a-3a41-9e0b-50365495f85a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Declines Lift Stocks to Fresh Records",
+      "summary": "A sharp drop in oil prices propelled stocks to fresh records, buoyed by investor optimism over a possible peace deal between the U.S. and Iran.  Brent crude futures, the international benchmark, experienced their biggest monthly slump since March 2020 after falling 11% in the past week.  West Texas Intermediate crude, the U.S. oil benchmark, fell 17% during May.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/oil-declines-lift-stocks-to-fresh-records-243d065e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y8psueeNwsMQKcjBe9M9Iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2b8947f51fd02ac2244315e2bd68d032",
+      "published_at": "2026-05-29T21:32:00Z"
+    },
+    {
       "id": "00910c16-14ed-3ef5-a881-52bf12c7b59b",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -103,20 +235,9 @@
       "published_at": "2026-05-29T21:30:00Z"
     },
     {
-      "id": "f5a32c5f-3548-3659-81f4-93968d4fbad5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Dropped a Cryptic Clue About Its Next Big Move Ahead of GTC Event",
-      "summary": "Nvidia  on Friday posted a cryptic social media post that seemed to give credence to rumors that the company will make a chip for Windows PCs and announce it at the chipmaker’s GTC Taipei convention next week.  The post read “A new era of PC,” and then listed two numbers which appear to be the coordinates of the Taipei Music Center.  Huang’s presentation is slated to begin on Monday at 11 a.m. Taipei time, which is Sunday at 11 p.m. U.S. Eastern Time.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-chips-microsoft-pcs-gtc-3b516c98?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zprzSODYGPcWH_vtNoR7PA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/90c377bdb448f4db5e7972bf917930fd",
-      "published_at": "2026-05-29T21:24:00Z"
-    },
-    {
       "id": "6f1bd174-9b72-372d-9581-ae21aee77bb9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "These 2 Tech Titans Just Declared Dividend Raises. Should You Buy One or Both?",
       "summary": "One of the pair is boosting its payout 25-fold.",
       "source": "Motley Fool",
@@ -169,28 +290,6 @@
       "published_at": "2026-05-29T21:00:00Z"
     },
     {
-      "id": "cd7e55a9-080a-3a41-9e0b-50365495f85a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Declines Lift Stocks to Fresh Records",
-      "summary": "A sharp drop in oil prices propelled stocks to fresh records, buoyed by investor optimism over a possible peace deal between the U.S. and Iran.  Brent crude futures, the international benchmark, experienced their biggest monthly slump since March 2020 after falling 11% in the past week.  West Texas Intermediate crude, the U.S. oil benchmark, fell 17% during May.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/oil-declines-lift-stocks-to-fresh-records-243d065e?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y8psueeNwsMQKcjBe9M9Iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2b8947f51fd02ac2244315e2bd68d032",
-      "published_at": "2026-05-29T20:53:00Z"
-    },
-    {
-      "id": "c7b35594-27d4-38e8-b6f5-0f62fd0dc9c7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Tech ETFs for Nearly Every Corner of the Digital Economy: From Semiconductors to Robotics",
-      "summary": "Unless humanity enters another Stone Age, technology will continue to advance. Here's how you can profit from that knowledge.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/29/2-tech-etfs-for-nearly-every-corner-of-the-digital/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zG20rr8fYh5y02twqhTWgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e4e0e9a8ac499a60441d56e4caeec733",
-      "published_at": "2026-05-29T20:52:00Z"
-    },
-    {
       "id": "1d63edd0-3dc6-31f4-9208-6680ac622e1b",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -202,114 +301,15 @@
       "published_at": "2026-05-29T20:51:30Z"
     },
     {
-      "id": "150fcad4-734e-391d-b58e-f461df9061eb",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "How Safe Is a Tesla Robo-Taxi?",
-      "summary": "Tesla  stock failed to notch seven consecutive gains on Friday, as investors look for progress on its artificial intelligence applications, including robo-taxis and robots.  There is reason for some optimism on the AI front, according to a recent report from Morgan Stanley.  Tesla uses AI to train its robo-taxis to drive.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tesla-stock-robo-taxi-safety-150c22c4?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FNQAb1LIZ1MxUeRAU0oi8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/24fb2e57112eb169e63c07fb51ba92aa",
-      "published_at": "2026-05-29T20:50:00Z"
-    },
-    {
-      "id": "ef9a1540-8c0f-3197-8de6-1c6d0b969f15",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "The Memory Shortage Is Just Beginning. The Consumer Pain Is Already Here.",
-      "summary": "Memory prices for PCs, smartphones, and gaming consoles are spiking. Consumers will bear the brunt of the inflation.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/memory-chip-shortage-inflation-dell-micron-stock-928d0542?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bGzyBr4aBnknDvlvaqKaCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/aeb5987f7aa86bc4ed743ba9c481c329",
-      "published_at": "2026-05-29T20:46:00Z"
-    },
-    {
-      "id": "8d439380-772d-3818-837d-96fb8e41bbd6",
+      "id": "06636c1f-9a09-36d4-a561-43701060d8b1",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension",
-      "summary": "By Stephen Culp NEW YORK, May 29 (Reuters) - U.S. stocks followed world shares higher and crude prices retreated on Friday as investors neared the end of a holiday-shortened week with renewed hopes of",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-eyes-weekly-drop-hormuz-020658431.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P8t11CjhpI8XQDo00IH6eQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/62931e080db0fbefa8af3f2a77dbda7c",
-      "published_at": "2026-05-29T20:42:17Z"
-    },
-    {
-      "id": "fd63b97c-c320-3202-b483-76d551ec4785",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead 5 Trillion-Dollar Stocks Near Buy Points",
-      "summary": "The stock market hit fresh highs on Iran deal hopes. Nvidia, Tesla lead five trillion-dollar titans near buy points.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0HvwHzwVjJCLrsV56FYzmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/389ceab456685d89e17184a36c78e0d2",
-      "published_at": "2026-05-29T20:41:07Z"
-    },
-    {
-      "id": "8624afdb-e914-395b-b927-2d85855fea48",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "3 Aerospace Stocks Ready to Ride the Aftermarket Rebound",
-      "summary": "FEATURE  Aerospace stocks have been weak amid geopolitical tensions and higher oil prices. Some have started to rebound. Others, curiously, have lagged.  That’s an opportunity for investors. Citi has three stocks to check out.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/loar-rtx-vse-aerospace-stocks-defense-0cf9fa5c?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/46T6aIV_zoa.7OmOxgiXEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7b55fff42930da2ff3c093158b4be4ef",
-      "published_at": "2026-05-29T20:40:00Z"
-    },
-    {
-      "id": "8e8fb821-2dc0-3a33-ae99-29e8661390c6",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Wall Street hits new closing highs on tech strength, Middle East deal hopes",
-      "summary": "By Saeed Azhar, Twesha Dikshit and Utkarsh Shetti NEW YORK, May 29 (Reuters) - Wall Street's main indexes hit record closing highs on Friday and posted weekly and monthly gains as Dell results drove",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-steady-investors-091056175.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8XR_xbKFi75mscyRHhvOtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a36ce18992938e0d8c28cc34942808b6",
-      "published_at": "2026-05-29T20:38:47Z"
-    },
-    {
-      "id": "a307a709-4274-3652-88ca-ed8a78b7530e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil falls, stocks mixed on US-Iran truce prospects",
-      "summary": "Stock markets were mixed while oil prices fell again on Friday on investor optimism that the United States and Iran would reach a deal to extend their ceasefire -- despite Washington and Tehran offering conflicting views on the state of negotiations.Oil markets have been up and down this week as investors assess the chances of a breakthrough deal that could potentially resume shipping through the crucial Strait of Hormuz.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-oil-falls-030939720.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IhYp2aYSl7kC82E_jrx9uQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/b9f0bac036d81ebdad4a426f52b38021",
-      "published_at": "2026-05-29T20:38:12Z"
-    },
-    {
-      "id": "4d4fb8e3-2a73-39ba-9f4f-da84a63951c0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: Dow Closes Above 51,000; Nasdaq, S&P 500 Make History (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index hit a high Friday amid U.S.-Iran deal hopes. Nvidia and Tesla see losses while Dell is a big winner.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-dell-stock-dell-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7XYxODRVZJBUEW0GNc88tA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/61fe390fad87bddd862927d41084d952",
-      "published_at": "2026-05-29T20:31:55Z"
-    },
-    {
-      "id": "78067f6b-f95a-3c6c-98a4-fcdf58ef4b30",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Indexes Break Records This Week as Mega-Cap Tech Soars, Trump Close to Announcing Decision on Iran",
-      "summary": "US equity indexes jumped this week as technology topped sector charts amid expectations that the imm",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-break-records-203047572.html",
-      "thumbnail": "",
-      "published_at": "2026-05-29T20:30:47Z"
-    },
-    {
-      "id": "427b9792-dc2c-399c-a93f-2d1a677373a6",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "TSX Closer: The Index Rises For a Second Straight Day, Back To Within 100 Points of Its Record Close",
-      "summary": "The Toronto Stock Exchange was up for a second-straight session Friday, even with commodity prices a",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/articles/tsx-closer-index-rises-second-203028106.html",
-      "thumbnail": "",
-      "published_at": "2026-05-29T20:30:28Z"
+      "title": "Oil Suffers Biggest Monthly Drop Since March 2020",
+      "summary": "Oil prices just had their biggest monthly drop in more than six years. Front-month crude-oil futures have fallen roughly 19% this month, including a 1.8% fall today. That puts them on pace for their biggest monthly drop since the onset of the Covid-19 pandemic, when the realization that oil demand was about to collapse sent prices plunging.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-29-2026/card/oil-heads-for-biggest-drop-since-march-2020-MPVRKziZVFNCkHTUWQn5?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-05-29T20:51:09Z"
     }
   ]
 }
