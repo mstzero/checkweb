@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-05-30 21:59 UTC",
+  "last_updated": "2026-05-30 23:05 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5cceaf28-d14b-3c69-ac88-d48d8e934a17",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Skip XRP and Buy This Top Cryptocurrency Instead",
+      "summary": "If history is any guide, investors should be buying Ethereum, not XRP, right now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Id4LOgT1ROeVUyvzhTSFvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f4bfbbb56d48c6eb4ad7976ea54728fa",
+      "published_at": "2026-05-30T22:39:00Z"
+    },
+    {
+      "id": "5f1edcd2-f1f3-3e5f-8df5-e1402136a3fc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jensen Huang Used 1 Word to Describe AI Demand. It Could Be the Most Important of 2026.",
+      "summary": "Nvidia's CEO is clearly bullish, describing an environment that should keep rewarding the chipmaker.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/30/jensen-huang-used-1-word-to-describe-ai-demand-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G_zC23GN4dgQgmVxQIzx8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7c2715d3fa54e6c9d977cdb95373f21e",
+      "published_at": "2026-05-30T22:26:00Z"
+    },
+    {
+      "id": "adad4d03-f7a3-3fd8-8459-5ecd62d8fff0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Can You Live Without Social Security for 1 Month? Here's How That Could Pay Off Big Time.",
+      "summary": "A short wait could lead to permanently larger checks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/05/30/can-live-without-social-security-1-month-pay-off/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EgkDnAJwQa40gMz1ZGgWNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cebefbb72f0ac8a746667daa8e4b6420",
+      "published_at": "2026-05-30T22:20:00Z"
+    },
+    {
+      "id": "58c8c875-920b-3b03-98ad-4fe9e876f865",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Time to Diversify Internationally?",
+      "summary": "It’s a deep dive into the Hidden Gems Investing mailbag with questions about international diversification, stocks that have lost momentum, and the changing cybersecurity landscape.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/30/time-to-diversify-internationally/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0hRO3DrnEPflJjdqJAItaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eeabc230b03f7cb4985f48e105b18072",
+      "published_at": "2026-05-30T22:04:43Z"
+    },
     {
       "id": "7e4b823a-891f-3e1e-8efe-f937a1e7f9aa",
       "asset": "NVDA",
@@ -59,17 +103,6 @@
       "published_at": "2026-05-30T21:33:08Z"
     },
     {
-      "id": "87dc10fd-4df8-3452-bb41-cc48326d1539",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why This Fund Dumped $35 Million of UiPath Even as Revenue Grew 17%",
-      "summary": "UiPath delivers automation software and AI-driven solutions to streamline enterprise workflows across major global industries.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/filings/2026/05/30/why-this-fund-dumped-usd35-million-of-uipath-even-as-revenue-grew-17/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ga_3Ge0N1tGJ8WnQm.Sx6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b90ccf524949da75b6dd88cce261a471",
-      "published_at": "2026-05-30T21:30:00Z"
-    },
-    {
       "id": "82f99bc5-0e28-369b-943b-0e0986c5fd89",
       "asset": "QQQ",
       "asset_name": "Nasdaq 100 ETF",
@@ -82,8 +115,8 @@
     },
     {
       "id": "4bcb5453-6a59-3fc9-b35b-ef3f0818624d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "FBI flags ‘anti-tech extremism’ as AI opposition grows",
       "summary": "Every technology that mints a new fortune tends to make an enemy somewhere else. The railroads did it. The factory floor did it. Artificial intelligence (AI) is doing it now, and the backlash is showing up in places Wall Street doesn't usually watch. For two years, the only AI story most investors ...",
       "source": "TheStreet",
@@ -101,17 +134,6 @@
       "url": "https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-warns-oil-supply-210807071.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oQP0e__bbOY0_GismpPwWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/d0e83f1986544c84469d81df07bf81f3",
       "published_at": "2026-05-30T21:08:07Z"
-    },
-    {
-      "id": "413eea66-2509-3fc5-ab28-85cfb9f97f64",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nio's Battery Swap Network Just Delivered 16% of All EV Energy in China in 5 Days. Is the Market Sleeping on This?",
-      "summary": "Battery swap is a popular option with Chinese EV owners.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/30/nios-battery-swap-network-ev-energy-china/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kxznI.WsCpg59rBFOB4tog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3db290f1246c9a1024849aeac41ba174",
-      "published_at": "2026-05-30T21:05:00Z"
     },
     {
       "id": "c4464ec1-588f-3f30-a7c0-e1d7337a2cee",
@@ -173,7 +195,7 @@
       "asset": "MSFT",
       "asset_name": "Microsoft",
       "title": "Paramount Is Pulling Every Lever to Sell LBO Debt",
-      "summary": "(Bloomberg) -- Paramount Skydance Corp. stretched, then stretched, then stretched again in its audacious $110 billion takeover bid for Warner Bros. Discovery Inc.Most Read from BloombergAmericans Injured in Iranian Missile Strike on Kuwaiti Air BaseStrait of Hormuz Ship Transits Are Rising Thanks to US HelpCVS Returns Zepbound to Drug Plans After Lilly Slashes PriceUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedAmericans Hurt in Kuwait as Trump Sends Mixed Signals on WarNow the co",
+      "summary": "(Bloomberg) -- Paramount Skydance Corp. stretched, then stretched, then stretched again in its audacious $110 billion takeover bid for Warner Bros. Discovery Inc.Most Read from BloombergAmericans Injured in Iranian Missile Strike on Kuwaiti Air BaseStrait of Hormuz Ship Transits Are Rising Thanks to US HelpUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedAmericans Hurt in Kuwait as Trump Sends Mixed Signals on WarCVS Returns Zepbound to Drug Plans After Lilly Slashes PriceNow the co",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-pulling-every-lever-sell-190000973.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TQOiZftWkMatBSP_OUWVHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/356e09b278b4018141c1a8cb3602f9ea",
@@ -288,28 +310,6 @@
       "url": "https://www.bankless.com/read/the-impending-gold-rush-for-the-us-perp-market",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0uJBKNRRdIyLq1OlIAPsZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/bc238c4a9512143937b548cd3771265c",
       "published_at": "2026-05-30T17:27:40Z"
-    },
-    {
-      "id": "07825051-4b9d-3f5c-bca4-4ff5c05e19ae",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple’s next AI test may not be Siri",
-      "summary": "Apple (AAPL) doesn’t have to win the artificial intelligence model competition to win the next phase of AI. That's the bet underlying Bank of America's latest Apple call. Wamsi Mohan, an analyst at BofA, increased his price target on Apple to $380 from $330 and reiterated a Buy rating on May 26. ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/apples-next-ai-test-may-not-be-siri",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p7iYaRiKWZtwsJw.RMZTPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/f3584235f5b85a1f47dbf3d94f116840",
-      "published_at": "2026-05-30T17:17:00Z"
-    },
-    {
-      "id": "c9b27f7a-55d5-3023-b7bd-6b916c332ee2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitwise Leader Thinks Hyperliquid is Bigger Than the Crypto Market",
-      "summary": "Bitwise CIO Matt Hougan says Hyperliquid targets a $600 trillion global asset market and BHYP leads crypto ETF demand.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/hyperliquid-generational-token-bitwise-cio-hougan/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PleK.Y_xh7FdUX0Mmi41pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c742f56c771813ba7bafcb41343badb3",
-      "published_at": "2026-05-30T17:16:21Z"
     }
   ]
 }
