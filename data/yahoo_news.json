@@ -1,18 +1,139 @@
 {
-  "last_updated": "2026-05-31 16:04 UTC",
+  "last_updated": "2026-05-31 17:37 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "a213c8ff-2d9e-3a3b-839e-d88192e9dafc",
+      "id": "18b71cbe-2193-3be8-bcec-2ef237c4ba0b",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "DRAM Memory Boom: Why Micron Stock Could Still Double",
-      "summary": "Micron's share price doubled in 48 days.",
+      "title": "Nio Just Launched a Budget EV to Take On Tesla and BYD. Is Nio Stock Finally Worth Buying?",
+      "summary": "Lower prices and better margins are changing the Nio story.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/dram-memory-boom-why-micron-stock-could-double/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vq5_5.ls6zTgyCRtpB2w8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6171a6bdfe79af58c9854692535913b7",
-      "published_at": "2026-05-31T15:50:00Z"
+      "url": "https://www.fool.com/investing/2026/05/31/nio-just-launched-a-budget-ev-to-take-on-tesla-and/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WaBMKyUmc28R38AqnPdTBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d587bcdcef38358a869d3d976c35a738",
+      "published_at": "2026-05-31T17:20:00Z"
+    },
+    {
+      "id": "077dc144-3550-3796-ae38-3ffa3f611ecb",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Amazon joins Microsoft in sending shocking message to employees",
+      "summary": "For the past two years, the message from Big Tech to its employees was simple: use more AI. The companies that used it most would win. The numbers would follow. The numbers have not followed. And now the message is changing. Amazon (AMZN) shut down an internal AI leaderboard called KiroRank on May ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/amazon-joins-microsoft-in-sending-shocking-message-to-employees",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KWwuskDtVKPgrrG3WMg8Pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7032815320c4648f06d009c02093bcf4",
+      "published_at": "2026-05-31T17:17:00Z"
+    },
+    {
+      "id": "c7bfac20-19f7-3de1-914a-6901550a28fd",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "I’m 53 With $1.5 Million and Want to Retire in Carmel With a Sports Car. Here’s the Real Math.",
+      "summary": "The fantasy is easy to picture. A bluff in Carmel or Encinitas, a garage with a silver 911, ocean air, no more Monday calls. The math is where it usually falls apart. Below is what the scenario actually costs a 53-year-old, how to fund it, and the one interaction most early retirees miss. Section A: ... I’m 53 With $1.5 Million and Want to Retire in Carmel With a Sports Car. Here’s the Real Math.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/05/31/im-53-with-1-5-million-and-want-to-retire-in-carmel-with-a-sports-car-heres-the-real-math/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MNy0V0bIxEW2v6KJmj3r_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf2c10c0423a5a520f64728bdf535e1c",
+      "published_at": "2026-05-31T17:15:43Z"
+    },
+    {
+      "id": "f5761d6c-1fce-3160-8822-4f99088ba5ef",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
+      "summary": "A $10,000 position in Invesco Semiconductors ETF (NASDAQ:PSI) on the last trading day of 2025 was worth ~$20,496 by the close on May 26, 2026, and that is the kind of arithmetic that ruins dinner parties. Your brother-in-law at Goldman is up 10.07% in the S&P 500. Your friend who only buys the Nasdaq 100 ... The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/31/the-semiconductor-play-nobody-owns-just-lapped-wall-streets-biggest-names/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SwTjwmCTPNXQYeYswbiE3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c344b24dae8de8187aea74ebe7974718",
+      "published_at": "2026-05-31T17:10:33Z"
+    },
+    {
+      "id": "10eabd97-6812-3a16-98c1-0708a31ec554",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA Infineon Power Partnership Puts Data Center Story In New Focus",
+      "summary": "Nvidia and Infineon are partnering to introduce an 800V DC power architecture into Nvidia's MGX AI Factory ecosystem. The collaboration targets next generation AI data centers, aiming to improve energy efficiency and system density by simplifying power conversion. This extension of the MGX ecosystem focuses on power delivery, not just compute hardware, and is positioned for large scale AI workloads. Nvidia, listed on NasdaqGS:NVDA, is widely associated with AI compute. This move shows the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-infineon-power-partnership-puts-170311130.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aO.m6F7TtQB8yU2PeCFGfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e",
+      "published_at": "2026-05-31T17:03:11Z"
+    },
+    {
+      "id": "2d5edc14-245f-30fe-be5f-492cabb239ac",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The Real Reason XRP Keeps Bouncing Back -- and What Comes Next",
+      "summary": "Hopes for bigger overseas banking partnerships are keeping the token above $1.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/the-real-reason-xrp-keeps-bouncing-back-and-what-c/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2A1zORFXs.01HL2CfTlWJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a5f784dd07da8646c9896ddb16d2f099",
+      "published_at": "2026-05-31T16:58:56Z"
+    },
+    {
+      "id": "97d385e2-ef78-3177-8241-0fce12c4d05f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Missed Out on Nvidia? Here's 1 AI Stock You Can Buy Right Now.",
+      "summary": "This major beneficiary of artificial intelligence is flying under investors' radar today.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/missed-out-on-nvidia-heres-1-ai-stock-you-can-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CFP67qP7A6p00QeqN0gxnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4a1799ee50c29fe0347e48749e4355b4",
+      "published_at": "2026-05-31T16:50:00Z"
+    },
+    {
+      "id": "dae108d9-80a3-3dd3-b602-e1eb08ceb610",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Secretary Bessent has firm take on Fort Knox gold debate",
+      "summary": "Most of the money in your life is a matter of faith. The balance on your banking app, the bills in your wallet, the number on your 401(k) statement — none of it is backed by anything you can hold in your hand. You trust that it means what it says, and so does everyone you hand it to. That trust is ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/secretary-bessent-has-firm-take-on-fort-knox-gold-debate",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U9XOEl959rOxOD1hIXcJTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/08505d06ac5714a0b34f84e4e685c353",
+      "published_at": "2026-05-31T16:47:00Z"
+    },
+    {
+      "id": "f688e1bc-de6e-3202-9bb2-99117963e44c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "June Labeled ‘Crunch Point’ as Energy Reserves Burn Through and Rate Hikes Loom",
+      "summary": "The host of Reuters Morning Bid opened the week with a framing that might make investors pause. The current macro environment looks calmer on the surface than the underlying conditions actually warrant, and June is when that gap may close. Two pressures are converging at the same time: energy reserves are depleting due to the ... June Labeled ‘Crunch Point’ as Energy Reserves Burn Through and Rate Hikes Loom",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/05/31/june-labeled-crunch-point-as-energy-reserves-burn-through-and-rate-hikes-loom/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/65DsymO_WBa9CIm8E77piA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eef7aa9a397b7df1cea0f9b7d9d1963d",
+      "published_at": "2026-05-31T16:35:58Z"
+    },
+    {
+      "id": "8317a095-09a4-3ba7-a10b-8735e59ade3a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "May rewired global energy markets",
+      "summary": "(By Oil & Gas 360) – May was supposed to be about stabilization. Instead, it became another month dominated by geopolitical disruption, […]",
+      "source": "Oil and Gas 360",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/may-rewired-global-energy-markets-163050787.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bs6tQCi4mxMwJ839DypDXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oil_and_gas_360_817/b4da19fcd202a22cbc298179b4b3955d",
+      "published_at": "2026-05-31T16:30:50Z"
+    },
+    {
+      "id": "60a5a89c-d5dd-3b0e-a4ca-ceb3601e8463",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "7 Billionaires Just Sold Shares of This AI Giant That's Climbed 105,000% Since Its IPO. And 1 Bought the Stock. Which Should You Follow?",
+      "summary": "These expert investors may offer us investing inspiration.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/7-billionaires-just-sold-shares-of-this-ai-giant-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S2nBzCFav4.o_jgvKtphFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c361c8123da8ce691b878e826cb9925",
+      "published_at": "2026-05-31T16:30:00Z"
+    },
+    {
+      "id": "46a286ee-4465-36b9-b826-20ee36428a96",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Buckle Up, S&P 500 and Nasdaq Index Fund Investors. SpaceX Could Soon Become 1 of Your Largest Positions.",
+      "summary": "Millions of Americans will soon be passively buying SpaceX through their index fund holdings.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/sp-500-nasdaq-index-fund-investors-spacex-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/015_T0TZl1LYyDGRyIdmhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e809202745e3f6637e01775bcf650f21",
+      "published_at": "2026-05-31T16:20:00Z"
     },
     {
       "id": "cbbcaf57-cdb2-3ee1-883c-da26518fa786",
@@ -35,72 +156,6 @@
       "url": "https://www.fool.com/investing/2026/05/31/1-top-cryptocurrency-to-buy-before-it-soars-1600-a/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H.XlBEk_ytG0H5eLIV07eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9770c491d1bf5bb221a69562b23606d8",
       "published_at": "2026-05-31T15:44:00Z"
-    },
-    {
-      "id": "91919d50-deea-3534-abda-b4e8ca65465e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Pfizer Stock a \"Value Trap\" or a Generational Opportunity?",
-      "summary": "Pfizer is an over-100-year-old drug company going through a rough patch, which has happened before.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/is-pfizer-stock-a-value-trap-or-a-generational-opp/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mKL19OjLwXVMYqpi3nb_aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cbb93903e2e2180a29be11d2996ddfc1",
-      "published_at": "2026-05-31T15:35:00Z"
-    },
-    {
-      "id": "3df5416f-57c0-36ba-a8fa-0723d7a24605",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Reasons to Buy Cameco Stock Like There's No Tomorrow",
-      "summary": "The stock's taking a breather after a recent rally, but the company's bright future is likely to manifest sooner rather than later.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/3-reasons-to-buy-stock-like-theres-no-tomorrow/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yyZ48EjtM1tAJDu1gYqJvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a00037dbf0952f2267c8871606f354db",
-      "published_at": "2026-05-31T15:25:00Z"
-    },
-    {
-      "id": "28bf8b09-00d5-339b-a58d-faf710037cef",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Monster Dividend Stocks to Buy in June (1 Yields an Eye-Popping 11.2%!)",
-      "summary": "These ultra-high-yielding dividend stocks have done a solid job delivering sustainable income streams.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/3-monster-dividend-stocks-to-buy-in-june-1-yields/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/txlVu1uOc200M12R_smdbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e96dfb712a33076d6cd402f787da010e",
-      "published_at": "2026-05-31T15:21:00Z"
-    },
-    {
-      "id": "daa1e104-c3a0-3bb2-a19d-c11c98e3ba18",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Interested in Humanoid Robot Stocks? You Might Consider Buying This Humanoid Robotics ETF",
-      "summary": "This humanoid robotics ETF (KOID) has been performing wonderfully, though it's only been in existence for about a year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/humanoid-robots-etf-stocks-best-to-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o8FS4ASP.ymOJbC5s3Pkkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb5a9d816015799c3a4091c497f6c49a",
-      "published_at": "2026-05-31T15:20:00Z"
-    },
-    {
-      "id": "9d62d086-d6bc-3ad6-ab7d-84e38c6f7463",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Greg Abel Just Sold Both Visa and Mastercard Stock but Kept This Top Buffett Favorite",
-      "summary": "Buffett said he'd never sell it, and Abel is keeping it on.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/greg-abel-just-sold-both-visa-and-mastercard-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.uiYzKN0YvE_6.hfpx.0jQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/00fd4e58a9f083225b4bd8e79412aed6",
-      "published_at": "2026-05-31T15:12:00Z"
-    },
-    {
-      "id": "fee78eb4-7020-3f85-a40c-e9318a568cce",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Things Long-Term Investors Should Do As June Arrives",
-      "summary": "The start of a new month provides the perfect opportunity to take a fresh look at your portfolio.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/31/3-things-long-term-investors-should-do-as-june/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5vn1PKRWYl8E_BG2umcOQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1f969875fbd2f222adb46d891c2f48cc",
-      "published_at": "2026-05-31T15:07:00Z"
     },
     {
       "id": "6de154b3-390b-3508-82b7-f6bbfa9472dd",
@@ -173,7 +228,7 @@
       "asset": "TSLA",
       "asset_name": "Tesla",
       "title": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic",
-      "summary": "(Bloomberg) -- Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that’s due to burst.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedAmericans Injured in Iranian Missile Strike on Kuwaiti Air BaseStrait of Hormuz Ship Transits Are Rising Thanks to US HelpAmericans Hurt in Kuwait as Trump Sends Mixed Signals on WarCVS Returns",
+      "summary": "(Bloomberg) -- Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that’s due to burst.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedStrait of Hormuz Ship Transits Are Rising Thanks to US HelpAmericans Injured in Iranian Missile Strike on Kuwaiti Air BaseAmericans Hurt in Kuwait as Trump Sends Mixed Signals on WarCVS Returns",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-debate-gets-real-130007767.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/isdvdQOUgMR5Y8Heb6U5DA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/bcc8f9d88d4c83e89b43741c0af12f68",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-rival-figure-lands-deal-120255420.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/37FKJhv3bgD.zi.gvRmGiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/caa46674d6eadc80bd19c122ac059f62",
       "published_at": "2026-05-31T12:02:55Z"
-    },
-    {
-      "id": "fd63b97c-c320-3202-b483-76d551ec4785",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures Loom As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
-      "summary": "The stock market hit fresh highs on Iran deal hopes. Nvidia, Tesla lead five trillion-dollar titans near buy points.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0HvwHzwVjJCLrsV56FYzmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/389ceab456685d89e17184a36c78e0d2",
-      "published_at": "2026-05-31T12:02:50Z"
-    },
-    {
-      "id": "a353ed85-7bd4-32e4-a699-9cab6bcfee43",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Borr Drilling Limited (BORR) Long-Term Outlook Intact Despite Q1 Disappointment",
-      "summary": "Borr Drilling Limited (NYSE:BORR) is one of the best oil stocks to buy now amid the US-Iran Conflict. On May 20, Borr Drilling Limited (NYSE:BORR) acknowledged that it is feeling the impact of the Middle East conflict, which has created near-term uncertainty. However, key tenders in the region continue to progress, though with modest delays. […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/borr-drilling-limited-borr-long-120028968.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xL3ivvEKUKf4rv5.2wyrlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9cbd042c9ab02ce408791dcad10ff4de",
-      "published_at": "2026-05-31T12:00:28Z"
-    },
-    {
-      "id": "f0fe50aa-ccb6-3702-b28d-e20862ca01ea",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Diamondback Energy Inc. (FANG) One of the Best Oil Stocks to Buy Amid US-Iran War that Citi is Bullish On",
-      "summary": "Diamondback Energy Inc. (NASDAQ:FANG) is one of the best oil stocks to buy now amid the US-Iran Conflict. On May 20, analysts at Citi reiterated their Buy rating on Diamondback Energy Inc. (NASDAQ:FANG) and raised their price target to $245 from $225. The upgrade comes after Diamondback Energy rallied by more than 30% year to […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/diamondback-energy-inc-fang-one-115958968.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6aZLFcRk79wYU3PFKTvfrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/26847055aa417c28df6f7c8c33c1d707",
-      "published_at": "2026-05-31T11:59:58Z"
-    },
-    {
-      "id": "18141fba-f6d5-4136-8d06-b23b1e3ca6b6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "IPOs are no longer Wall Street's starting line — they're the exit ramp: Chart of the Day",
-      "summary": "Wall Street used to get the growth story early. Now it often only gets the receipt.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HARdnBurLTjO6QUW6Qmc7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/d08a4204-d77e-4df8-aa08-bfb34811a447",
-      "published_at": "2026-05-31T11:44:34Z"
-    },
-    {
-      "id": "f7ff48ad-18c1-350d-9016-50c3243dc527",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Fake Bridge Messages Let Hacker Drain $815,000 From Alephium",
-      "summary": "Alephium's $815K bridge exploit used forged messages to trick guardians into signing fraudulent transfers. The bridge is now offline.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/alephium-bridge-exploit-forged-messages/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oXCd0cNSOIxiCLe7d4DUtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0",
-      "published_at": "2026-05-31T11:42:24Z"
     }
   ]
 }
