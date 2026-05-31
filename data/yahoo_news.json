@@ -1,51 +1,128 @@
 {
-  "last_updated": "2026-05-31 01:34 UTC",
+  "last_updated": "2026-05-31 06:15 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "d59c68ae-b273-3176-9390-6b6b00ca9cd1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Can Arm Holdings Triple Your Money by the End of the Year?",
+      "summary": "The semiconductor stock is gaining market share in this rapidly growing segment of AI compute.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/can-arm-holdings-triple-your-money-by-the-end-of-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zBX_T1frc8Tt.NONilCw7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c69ef5ac897836c2fe176e9f3932e93",
+      "published_at": "2026-05-31T05:50:00Z"
+    },
+    {
+      "id": "31fd4c4d-55c9-3fba-aaac-da568104767e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Americans Have Never Been This Pessimistic. The Stock Market Doesn't Agree, and History Says the Market Wins.",
+      "summary": "Consumer sentiment is hitting all-time lows while the S&P 500 is hitting all-time highs. That's unprecedented, but past lows in sentiment provide some guidance as to what could happen next.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/americans-pessimistic-history-says-stocks-win/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4UuYnswIWKOeNaMHnu1oDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e3e112989f219558e4cbe95b46837d0a",
+      "published_at": "2026-05-31T05:20:00Z"
+    },
+    {
+      "id": "9f57537a-a240-3bde-bef6-911b929d5faf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock Right Now, This Would Be It.",
+      "summary": "Nvidia's upside isn't reflected in the stock price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/if-i-could-only-buy-1-artificial-intelligence-ai-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PsX5b6MEN2MgN.JfTaByOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52d6c9f115250d6b7f9dc638d10a0709",
+      "published_at": "2026-05-31T04:50:00Z"
+    },
+    {
+      "id": "bf6c0046-6132-3860-acf6-b2c43dc5568a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Chevron's Earnings Dropped Year Over Year, but Production Surged. Here's What Investors Need to Know.",
+      "summary": "Chevron didn't have a great quarter on the earnings front, but that masked the business's fundamental strength.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/31/chevrons-earnings-dropped-year-over-year-but-produ/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RKHsuXzo6y9TuU8JYt12pQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d4e82c2c1de3c9cabf18f68f753cad7",
+      "published_at": "2026-05-31T04:35:00Z"
+    },
+    {
       "id": "fd63b97c-c320-3202-b483-76d551ec4785",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Trump Reportedly Stiffens Iran Deal Terms; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+      "title": "Dow Jones Futures: Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
       "summary": "The stock market hit fresh highs on Iran deal hopes. Nvidia, Tesla lead five trillion-dollar titans near buy points.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0HvwHzwVjJCLrsV56FYzmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/389ceab456685d89e17184a36c78e0d2",
-      "published_at": "2026-05-31T01:05:46Z"
+      "published_at": "2026-05-31T04:08:13Z"
     },
     {
-      "id": "0c23057e-cb30-3c61-880b-797f91d8ff65",
+      "id": "fab1f163-b16a-30cf-af20-fbdffd80594e",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia’s latest product is a game-changer",
-      "summary": "Nvidia (NVDA) stock is up about 15.44% year to date, at the time of writing, Friday afternoon, May 29. Meanwhile, the SPDR S&P 500 index (SPY) is up about 11.06% in the same period. While the stock has outpaced the S&P 500, its growth is lagging that of other semiconductor companies that ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/nvidias-latest-product-is-a-game-changer",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_1IyCaRFwsgv8Kjj6CsEEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/16047102177d1bc96551b306915f194b",
-      "published_at": "2026-05-31T01:03:00Z"
-    },
-    {
-      "id": "fa6745e4-3d09-354f-93c7-c29a7ea056b2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Thing Investors Should Know About Meta's New Subscription Strategy",
-      "summary": "Meta is rolling out subscription tiers to its AI chatbot.",
+      "title": "Why Did South Korea Just Order $4.2 Billion in Military Helicopters From Boeing and Lockheed?",
+      "summary": "Lockheed Martin will earn more than Boeing on its South Korean arms deal.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/30/1-thing-investors-should-know-about-metas-new-subs/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5BV9wx1h06Uts84dAS3igw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3148e1edfdc475a67079f89572f7a935",
-      "published_at": "2026-05-31T01:01:00Z"
+      "url": "https://www.fool.com/investing/2026/05/30/korea-orders-42-billion-in-military-helicopters/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RELn14VJM9dBPGU1c6GWCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d237cb569b7566485e7234ed0604e9e2",
+      "published_at": "2026-05-31T04:05:00Z"
     },
     {
-      "id": "4bda7b6a-5573-3b6e-a664-be71853065fc",
+      "id": "2dc21209-c744-306d-b7c2-59c099c5c87a",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "SpaceX Wants Even More Profits Ahead of Its IPO",
-      "summary": "SpaceX wants to make more money from Starlink, and has found two new ways to do so.",
+      "title": "This AI Chip Giant Quietly Became Worth More Than Tesla, and Many Investors Still Overlook It",
+      "summary": "The chipmaker quietly powering the AI boom has passed Tesla in market value, yet still flies under the radar.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/30/spacex-wants-even-more-profits-ahead-of-its-ipo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g87qq81RV5NqtYpz8En7cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1dcd7358c70f4814e6186066d52ef177",
-      "published_at": "2026-05-31T00:38:00Z"
+      "url": "https://www.fool.com/investing/2026/05/30/this-ai-chip-giant-quietly-became-worth-more-than/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wflOXcF3j1Vf85Dk.2V0yQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8afeaf6b3c3117c211c6d21a08dea719",
+      "published_at": "2026-05-31T03:41:00Z"
+    },
+    {
+      "id": "40130b77-32f3-3e3c-8565-d02c40fb4529",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Why 2026 Is a Year of Foundational Growth for Tesla",
+      "summary": "Tesla's trailing earnings in 2026 are likely to make the stock look overvalued on a superficial basis, but long-term bulls won't care.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/30/why-2026-is-a-year-of-foundational-growth-for-tesl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hYJtuFmyxsA46lfYUdkZ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ffdcba34b5ae6316ced011c9921c4a83",
+      "published_at": "2026-05-31T03:20:00Z"
+    },
+    {
+      "id": "c3d5e05f-f642-3856-8f35-91931dbc6f85",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The High-Stakes Hunt for the Next Amazon in the AI Haystack",
+      "summary": "With artificial intelligence winners and losers changing places so quickly, it isn’t just about where to invest, but also when.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/the-high-stakes-hunt-for-the-next-amazon-in-the-ai-haystack-0eb6536f?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JAOxCR85ne7xCUG3GOXzXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f8bdf71181721f4dccdbc75509567ced",
+      "published_at": "2026-05-31T03:00:00Z"
+    },
+    {
+      "id": "57d297b0-476f-30ea-8229-6bb1aaace19e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Is the World's Largest Company. Is It the Most Important?",
+      "summary": "Nvidia's success is key to the stock market's success.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/30/nvidia-is-the-worlds-largest-company-is-it-the-mos/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lF3FnRCinMtIjS8aBYiGWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2a74f3d0bc162053f9718efa3564e822",
+      "published_at": "2026-05-31T02:50:00Z"
+    },
+    {
+      "id": "b641c959-203e-36c0-a7ae-34c167f44d90",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Newmont’s 2025 ESG Reports Inform Safety And Valuation Considerations",
+      "summary": "Newmont (NYSE:NEM) released its 2025 Sustainability Report, outlining its environmental, social, and governance initiatives across its global mining portfolio. The company also published its 2025 Taxes & Royalties Contribution Report, detailing economic contributions and community investments to host countries and regions. Newmont highlighted progress under its \"Always Safe\" program, reporting a recent safety incident alongside the achievement of zero fatalities in 2025. As one of the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-2025-esg-reports-inform-020316869.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uVUzctpLIyLVjJuJThnpLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/789e6a5f6b6eb441f92758d9b79a8d1d",
+      "published_at": "2026-05-31T02:03:16Z"
     },
     {
       "id": "898ec1df-28e6-3fb1-8bfd-ad1a7d7caea1",
@@ -59,59 +136,15 @@
       "published_at": "2026-05-31T00:32:23Z"
     },
     {
-      "id": "e3ea9826-e334-3fc0-8cb7-0cde74fc5ada",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is This Under-the-Radar AI Stock a Buy Before Its Next Earnings Report?",
-      "summary": "The market's had time to fully digest the news it didn't see coming early last month.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/30/is-this-under-the-radar-ai-stock-a-buy-before-its/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/un4d4Euv8J0K634VjC.Uug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/aa10bad5e09e0c06a6ab0b91277868af",
-      "published_at": "2026-05-31T00:20:00Z"
-    },
-    {
-      "id": "3634cd59-aafd-326e-a548-f23402dda88a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Can Starlink Make American Airlines a Winner?",
-      "summary": "The airline is modernizing its internet service to entice higher-paying customers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/30/can-starlink-make-american-airlines-a-winner/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7CV0nA01us7SeEgWQXk_eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/369ff1de73be60b111cbdfece75c050e",
-      "published_at": "2026-05-30T23:57:00Z"
-    },
-    {
       "id": "1365c557-f9e6-3b03-b8c3-7edca43465be",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Every Big Tech Company Is Solving AI the Same Way. This Stock Is Solving It Differently.",
       "summary": "GlobalFoundries is quietly building the optical backbone hyperscalers may desperately need next.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/05/30/every-big-tech-company-is-solving-ai-the-same-way/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6mKF.M6Of3LprdkrRBNarA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/56d8192071ee8a3ca3930f183c5ccca9",
       "published_at": "2026-05-30T23:20:00Z"
-    },
-    {
-      "id": "5201e6a1-2cca-3d3f-bc31-65049297e93e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "XLU Investors: Watch PJM’s March 2027 Data Center Framework Decision",
-      "summary": "The Utilities Select Sector SPDR Fund (NYSEARCA:XLU) has quietly become one of the more interesting trades in the market because it sits at the intersection of two crosscurrents. Hyperscaler power demand has turned a defensive sector into a growth story, but at the same time the 10-year Treasury yield sits in the 98th percentile of ... XLU Investors: Watch PJM’s March 2027 Data Center Framework Decision",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/30/xlu-investors-watch-pjms-march-2027-data-center-framework-decision/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7iSsnGtPGXP0qIVGbB5bHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eb5bd0f9d7b47619080039bb45611188",
-      "published_at": "2026-05-30T23:18:28Z"
-    },
-    {
-      "id": "2bbec0b2-9410-3757-bbb1-2e207efe1d24",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Will XRP (Ripple) Make You a Millionaire?",
-      "summary": "What if the token built for cross-border payments is quietly building millionaires on the side? It has happened before. Investors who got in when XRP (CRYPTO: XRP) was trading below $0.50 watched it rocket to $3.65 in July 2025, turning modest positions into life-changing money. So, can XRP do it again, and what would it ... Will XRP (Ripple) Make You a Millionaire?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/05/30/will-xrp-ripple-make-you-a-millionaire/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LW6nrL3n1ejNmh3zYcXv2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b9d40586cb95224435d98de581916684",
-      "published_at": "2026-05-30T23:12:58Z"
     },
     {
       "id": "e51ecb0f-b031-3c27-af66-9b2b11269589",
@@ -134,6 +167,17 @@
       "url": "https://finance.yahoo.com/sectors/energy/articles/china-oil-buying-pause-won-230000498.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b5V5h1XFXnYW2_CkIsmXZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/cd33ebff0e8f6281ffcd924fc66b79b7",
       "published_at": "2026-05-30T23:00:00Z"
+    },
+    {
+      "id": "d19967c6-d2fd-3ffb-b549-923dfa469493",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil bosses warn prices will soar in a matter of weeks as inventories near unprecedented lows — ‘I mean really, really low levels’",
+      "summary": "\"You can debate whether that’s going to hit those really low levels in two weeks or three weeks. Once you get to that point, then you’ll see price shoot up.”",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-bosses-warn-prices-soar-225429957.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CyQ.pBOa7uNP2RsEduQu5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/79c20a5a72680c637829be09f8b80da3",
+      "published_at": "2026-05-30T22:54:29Z"
     },
     {
       "id": "5cceaf28-d14b-3c69-ac88-d48d8e934a17",
@@ -266,50 +310,6 @@
       "url": "https://www.barchart.com/story/news/2218821/why-cathie-wood-is-pounding-the-table-for-750-000-bitcoin-a-new-generation-loves-crypto-to-hedge-against-inflation",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_fjER5f_FRjCYQlFcKxNQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/6db337c027c2e13e5ac868a822f46c6c",
       "published_at": "2026-05-30T19:00:02Z"
-    },
-    {
-      "id": "6a2bf6e5-a259-30a7-8d3b-10faa7ce1a11",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Paramount Is Pulling Every Lever to Sell LBO Debt",
-      "summary": "(Bloomberg) -- Paramount Skydance Corp. stretched, then stretched, then stretched again in its audacious $110 billion takeover bid for Warner Bros. Discovery Inc.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedAmericans Injured in Iranian Missile Strike on Kuwaiti Air BaseStrait of Hormuz Ship Transits Are Rising Thanks to US HelpAmericans Hurt in Kuwait as Trump Sends Mixed Signals on WarCVS Returns Zepbound to Drug Plans After Lilly Slashes PriceNow the co",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-pulling-every-lever-sell-190000973.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TQOiZftWkMatBSP_OUWVHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/356e09b278b4018141c1a8cb3602f9ea",
-      "published_at": "2026-05-30T19:00:00Z"
-    },
-    {
-      "id": "de3e8dee-787f-3f0d-83ae-894f8ec08973",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "SpaceX Holds $1.5 Billion in Bitcoin. Does That Make the Coin a Buy?",
-      "summary": "The rocket company has held the coin for a handful of years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/30/spacex-holds-15-billion-in-bitcoin-does-that-make/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hNDwYoSojvKkenAzAVfv4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0f3e4ff500ae27a201579761e2f978bf",
-      "published_at": "2026-05-30T18:54:00Z"
-    },
-    {
-      "id": "88dbb8ce-5306-3a16-ad9f-07f20ab44e33",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Chevron CEO drops stark warning on oil prices",
-      "summary": "I have been watching oil market commentary for a while. CEOs tend to be measured. They speak in ranges. They qualify. They hedge. It has been 92 days since the U.S. and Israeli military campaign against Iran began on February 28, 2026. That is what made Chevron CEO Mike Wirth's remarks at the ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/chevron-ceo-drops-a-stark-warning-on-rising-oil-price-pressure-in-june-and-july",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9ffubZJg_Mb6z.HBNeXVDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/66000e506080180544c3c8a5e21b7a15",
-      "published_at": "2026-05-30T18:33:00Z"
-    },
-    {
-      "id": "2902eb03-5b0c-3644-b3bb-6b4a170344ae",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "HYPE Token Hits Record as CFTC Perpetuals Approval Lifts Hyperliquid",
-      "summary": "HYPE (CRYPTO: $HYPE) pushed to a fresh record near $67 as Hyperliquid drew another round of attention from traders,...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/hype-token-hits-record-as-cftc-perpetuals-approval-lifts-hyperliquid-5721",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q8jGZ9ASzlkP2Uf7x3DHZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/47971eceee85dd4ba01e4813b622d32a",
-      "published_at": "2026-05-30T18:19:00Z"
     }
   ]
 }
