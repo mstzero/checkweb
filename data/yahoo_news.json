@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-06-05 22:41 UTC",
+  "last_updated": "2026-06-06 00:04 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "2a994a35-ed7b-37c6-91a2-2b33a9b02346",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Chipotle Stock Rallied Today",
+      "summary": "After sizable declines, the restaurant chain could be poised for a rebound.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/05/why-chipotle-stock-is-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oxSUBx142LLE1XsdqmwBZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3097fe6c5398c2d9640db9635fb67c07",
+      "published_at": "2026-06-05T23:30:17Z"
+    },
+    {
+      "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+      "summary": "The market rally broke key support; here's what to do. The SpaceX IPO, Apple's AI push and Oracle earnings loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nguaTChhMgOPMywVSHxXLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/53cb5ccd6529d26f805783b37decf65d",
+      "published_at": "2026-06-05T23:10:07Z"
+    },
+    {
+      "id": "85f27600-5921-3432-89e1-176c404294d9",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Why Vanguard’s VOO Won the Trillion-Dollars-in-Assets Race",
+      "summary": "Vanguard’s S&P 500 exchange-traded fund—so popular it’s known simply by its ticker symbol VOO—just topped $1 trillion in assets, the first ETF to mark that milestone.  VOO, which launched in 2010, got there before two rivals with head starts:  BlackRock  ETF, which began trading in 2000, has $859 billion in assets and the  ETF, the first U.S. ETF to debut in 1993, has $787 billion, according to ETF Database.  VOO charges an expense ratio of 0.03% versus 0.09% for  State Street  ; the iShares ETF also charges 0.03%.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/vanguard-voo-wins-the-trillion-dollars-in-assets-race-cb1b0657?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0_sf4yqT0vboENEVVXoe1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8259623de4c1720d723de2e05927339c",
+      "published_at": "2026-06-05T22:55:00Z"
+    },
+    {
+      "id": "4067ea14-1d66-390c-b9ef-9b62b87a6ca9",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/reid-hoffman-leaving-microsoft-board-223501663.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z_n5BJAKx5yDXnFuFBExZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/e3542fdc0979c3742eb5fd0bfdf43aea",
+      "published_at": "2026-06-05T22:35:01Z"
+    },
     {
       "id": "9b2591b8-f3f2-3880-87d5-5a3d02582fef",
       "asset": "NVDA",
@@ -13,6 +57,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-223214227.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W9ivdO.sctFkKbfmoj.jLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/9df849806a0be3aa24c1ad0e8ef5af38",
       "published_at": "2026-06-05T22:32:14Z"
+    },
+    {
+      "id": "097d9190-4cf1-33ba-9b5a-9e22a0a4eb78",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Berkshire Hathaway Just Agreed to Put $10 Billion Into Alphabet's AI Build-Out. Should Investors Follow?",
+      "summary": "Google's parent is raising tens of billions of dollars in stock to fund its AI spending -- and Warren Buffett's conglomerate wants in on it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/05/berkshire-hathaway-just-put-10-billion-into-alphab/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vp0hJTsyXwaZng7E24wBZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e1f74b8720ef9954cd327aefbc7f7117",
+      "published_at": "2026-06-05T22:31:00Z"
     },
     {
       "id": "3d2ddc7d-31a3-3295-ad4c-35177cd51372",
@@ -35,6 +90,17 @@
       "url": "https://www.fool.com/retirement/2026/06/05/turning-62-in-2026-you-may-not-be-able-to-apply-fo/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iMAeS15J2LhsWfl5w3LU2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/20cbafdb4f1baa1e35b0ebce3eb8636b",
       "published_at": "2026-06-05T22:20:00Z"
+    },
+    {
+      "id": "01589843-deb8-349a-99f4-fb1f8802e211",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Oracle Stock Has Returned $54 Billion To Shareholders. Can It Continue?",
+      "summary": "In the last five years, Oracle (ORCL) stock has returned a notable $54 Bil back to its shareholders through cold, hard cash via dividends and buybacks. That is not a small feat for a company that has simultaneously been funding one of the more aggressive infrastructure build-outs in enterprise tech. Let's look at some numbers and compare how this payout power stacks up against the market's biggest capital-return machines.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/601600/years-of-rewards-54-bil-from-oracle-stock/2026-06-05",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y3sr7Yd8rAEFzqOmJUFP3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/c841fa58551a2d31cd2dc64e1877facc",
+      "published_at": "2026-06-05T22:17:56Z"
     },
     {
       "id": "454214c8-d3a3-3f25-a192-6f4c56d62cd6",
@@ -81,17 +147,6 @@
       "published_at": "2026-06-05T21:59:42Z"
     },
     {
-      "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
-      "summary": "The market rally broke key support; here's what to do. The SpaceX IPO, Apple's AI push and Oracle earnings loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nguaTChhMgOPMywVSHxXLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/53cb5ccd6529d26f805783b37decf65d",
-      "published_at": "2026-06-05T21:58:36Z"
-    },
-    {
       "id": "06b3fb8f-2bd9-3754-8a84-4758b6abbbf8",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -101,28 +156,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/vinfast-vfs-autobrains-nvidia-nvda-215636422.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KwlB03Y86QLjDgqzg8RmWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3f25b8d1bda08b44f6e870b25d119e1a",
       "published_at": "2026-06-05T21:56:36Z"
-    },
-    {
-      "id": "58a5967e-4dac-3cab-b30a-02d2dc1cbffb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Molina Healthcare Stock Cruised to a Nearly 10% Gain This Week",
-      "summary": "Towards the end of the week in particular, investors were hungry for less-risky stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/05/why-molina-healthcare-stock-cruised-to-a-nearly-10/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ozC7dYVFgfY3xRuB9BTLOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/947aaa22745a5086fffb916a90f32c12",
-      "published_at": "2026-06-05T21:55:26Z"
-    },
-    {
-      "id": "fd5fdf9f-7479-3490-b6f3-a78de28d1c88",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Marvell Stock Was Just Added to S&P 500. Here’s Who Else Was Included and Bumped.",
-      "summary": "Marvell Technology  and  Flex  will be added to the  index, replacing  Pool  and  Campbell’s  the soup company, prior to the opening of trading on June 22, according to S&P Dow Jones Indices.  Before its deletion, Campbell’s had one of the smallest market values in the S&P 500, making it vulnerable to deletion.  Marvell was famously tagged as the next $1 trillion company by  Nvidia  CEO Jensen Huang earlier this week.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/marvell-stock-added-sp-500-293d3230?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3hEKvXK5nDt7Fj3sYCPujw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c457669d97773c3f2277bd4f304a049c",
-      "published_at": "2026-06-05T21:54:00Z"
     },
     {
       "id": "f632fb08-2740-32e3-beec-2320e12b5485",
@@ -136,15 +169,37 @@
       "published_at": "2026-06-05T21:53:17Z"
     },
     {
-      "id": "e0db6e78-c003-3d43-8d07-644948d86da7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nebius Stock Is Up 170% in 2026, and Leopold Aschenbrenner Just Bought a 5.6% Stake. Here's Why",
-      "summary": "The AI infrastructure company still has a bright future.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/05/nebius-stock-is-up-170-in-2026-and-leopold-aschenb/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f7TjNTO3tIGjDweqHXCd1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d480e1f7d6987365c463add650a10efd",
-      "published_at": "2026-06-05T21:50:00Z"
+      "id": "5dae1c8b-09d5-3105-875c-20bb8163a5bb",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Here's Why Newmont Corporation (NEM) Fell More Than Broader Market",
+      "summary": "Newmont Corporation (NEM) concluded the recent trading session at $99.71, signifying a -7.96% move from its prior day's close.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-newmont-corporation-nem-215004709.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dyt3crCN4lSY1Napwi9gXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83",
+      "published_at": "2026-06-05T21:50:04Z"
+    },
+    {
+      "id": "acd565b8-3ac5-3b4a-9ba9-d21fb0a237be",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
+      "summary": "Apple (AAPL) reached $307.56 at the closing of the latest trading day, reflecting a -1.18% change compared to its last close.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-moves-1-214503867.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T9IoFLx.nUDVTWxje4kaEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+      "published_at": "2026-06-05T21:45:03Z"
+    },
+    {
+      "id": "e7997199-7a78-3a8a-ae98-449985e0a7d8",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft (MSFT) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "summary": "Microsoft (MSFT) concluded the recent trading session at $416.67, signifying a -2.66% move from its prior day's close.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-registers-bigger-fall-214503080.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rkeQDWhJO5YQoC8FZM3hkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b95cfdd8768bc3c4620e666dbcb0b248",
+      "published_at": "2026-06-05T21:45:03Z"
     },
     {
       "id": "499eae80-db0e-4895-ad94-fe7c4df9a735",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/video/chip-sell-off-rattles-markets-210216273.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wS0cMD6XfXgTiQA_prgA2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/a25a4150-4686-11ee-ac7d-4539cbcade25",
       "published_at": "2026-06-05T21:02:16Z"
-    },
-    {
-      "id": "dd0311c7-371c-3c1c-bd0c-5d15e479a410",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Dive Will Hike Strategy's Borrowing Rate To 11.75% — At Least",
-      "summary": "Strategy's sale of $2.5 million bitcoin, which helped precipitate this week's dive for the cryptocurrency, appears certain to hike its annual financing costs by $26 million.  After sinking in heavy volume to start the month, Strategy's Stretch variable rate preferred stock with the STRC ticker has an impossibly steep mountain to climb to avoid a ratcheting up of its dividend rate by at least 25 basis points to 11.75% on all $10.5 billion of the outstanding securities.  Friday's even deeper selloff has put a potential 50-basis-point hike key Strategy's borrowing rate to 13% in play.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/auN7MCqaD_WWpDzrVXKvMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/05f583ddc8e65f5258c2feabcd5a14f7",
-      "published_at": "2026-06-05T20:59:24Z"
-    },
-    {
-      "id": "91233c66-4cdd-36a4-84d8-3b4b8f079edc",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "After Cardano’s Meltdown, Could XRP and Ethereum Be Next?",
-      "summary": "Cardano faces its worst crisis in years. We analyze whether XRP and Ethereum could experience a similar meltdown.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/cardano-meltdown-could-xrp-ethereum-be-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FHAEoEQoKG10kCOTCtPicw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8ceb79a570d2935b5bd82d9322cc9f2e",
-      "published_at": "2026-06-05T20:53:36Z"
-    },
-    {
-      "id": "0969b6a1-857e-37b0-8763-e82159add875",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Gold bull warns Bitcoin could face ‘Black Monday’",
-      "summary": "Bitcoin fell below $60,000 on June 5 for the first time since October 2024, extending a sell-off that has erased all gains made since US President Donald Trump’s election victory. The decline followed Strategy’s first Bitcoin sale since 2022, continued outflows from US spot Bitcoin exchange-traded ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/gold-bull-warns-bitcoin-could-face-a-black-monday",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ItDhcj.Cye4IFCxBX0HhUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ec104d56fd217b5848c29ac0f6693750",
-      "published_at": "2026-06-05T20:47:32Z"
-    },
-    {
-      "id": "a184560a-276f-3e14-8110-fe5b0c18b5a2",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia Is Moving Into Intel and Qualcomm's Turf. These Are the Losers Investors Should Watch Closely.",
-      "summary": "Nvidia's new CPU represents an existential threat to legacy CPU makers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/05/nvidia-is-moving-into-intel-and-qualcomms-turf-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PNfybgZ3SQqVrpJkINDlvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/57b507a993c627caf20ddbc0f6644bc3",
-      "published_at": "2026-06-05T20:45:00Z"
-    },
-    {
-      "id": "2e2c497a-46d6-3c90-96de-b7b99b1035b8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Tech sell-off, rate-hike fears drive Wall Street plunge",
-      "summary": "Wall Street's key indices closed heavily in the red on Friday, hit by a massive sell-off in technology stocks following a recent surge driven by AI investment, and fears of US Fed rate hikes on the horizon.\"However, if policymakers even start talking about rate hikes or taking a more hawkish posture, that could throw cold water on the recent stock market surge,\" Kenwell said.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-another-hit-ai-024455312.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/quNUB3ud0viKJhBJq98g9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/4ba8f024d2da70384e27374f88d968ee",
-      "published_at": "2026-06-05T20:44:32Z"
     }
   ]
 }
