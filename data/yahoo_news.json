@@ -1,51 +1,128 @@
 {
-  "last_updated": "2026-06-06 14:57 UTC",
+  "last_updated": "2026-06-06 16:06 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "4a409827-057d-3e33-978a-a4878e08c53c",
+      "id": "c22baf97-585b-394a-a9a7-53ea9cbf9ca8",
       "asset": "NVDA",
       "asset_name": "Nvidia",
+      "title": "SpaceX Is Finally Going Public. Here's How Much a $1,000 Investment Could Get You.",
+      "summary": "SpaceX is set to go public on June 12.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/06/spacex-is-finally-going-public-heres-how-much-1000/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p.DG1jsKFMfJSVwFEhPmWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c138ebdb24e642210090f47feec4b5f",
+      "published_at": "2026-06-06T15:50:00Z"
+    },
+    {
+      "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+      "summary": "The market rally broke key support; here's what to do. The SpaceX IPO, Apple's AI push and Oracle earnings loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nguaTChhMgOPMywVSHxXLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/53cb5ccd6529d26f805783b37decf65d",
+      "published_at": "2026-06-06T15:47:52Z"
+    },
+    {
+      "id": "d50a32c6-5811-3f53-ba73-e6c2c4410fb8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Dividend Stock Has Gained 18% While the Rest of its Sector Went Nowhere. Here's Why.",
+      "summary": "One REIT is firing on all cylinders and could still have lots of upside.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/06/this-dividend-stock-has-gained-18-while-the-rest-o/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RMsOKi8QM8y9UJ.HNsAvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0606113b49176977be828653f0a0eb89",
+      "published_at": "2026-06-06T15:46:00Z"
+    },
+    {
+      "id": "20fa48f7-1752-3f3c-b9e3-335568ee587e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget High-Flying Oil Drillers: 1 Fee-Based Midstream Giant to Buy Right Now",
+      "summary": "EOG Resources (NYSE:EOG) is the name every oil bull is screaming about as WTI crude spiked to $114.58 in early April 2026 and traders pile into upstream drillers to play the Iran war supply shock. The EOG Trade Is a Sugar High Geopolitical premium fades. It always does. And when it does, EOG holders get ... Forget High-Flying Oil Drillers: 1 Fee-Based Midstream Giant to Buy Right Now",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/06/forget-high-flying-oil-drillers-1-fee-based-midstream-giant-to-buy-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bD6b7LCXcNHS_J6J7tXGoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/207fa58450ae25333a4c0144d5ff2834",
+      "published_at": "2026-06-06T15:40:56Z"
+    },
+    {
+      "id": "2e92af52-d4fb-3b69-b917-b6b97f136208",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What's the Better Stock Right Now: Hewlett Packard Enterprise or Dell?",
+      "summary": "Both companies posted record quarterly results amid unprecedented demand.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/06/better-stock-right-now-hewlett-packard-dell/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Gq7nfRHo5zlo4ehrD1aBkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9a38617a862d30de77303da8f91926af",
+      "published_at": "2026-06-06T15:25:00Z"
+    },
+    {
+      "id": "44294b8f-4150-31dc-8512-89c205d4d2db",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "JPMorgan sets jaw-dropping Tesla stock price target",
+      "summary": "For the better part of a decade, JPMorgan was one of Tesla's most reliable institutional bears. Ryan Brinkman, who covered the stock for the bank since 2015, told investors to sell through earnings beats, record highs, and multiple cycles of Wall Street enthusiasm. His final target of $145, ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/jpmorgan-raises-tesla-stock-price-target-significantly",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eOZP6UmATDLORl1D0UB_eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9efdea5f50328a211d4986b4b76f4e64",
+      "published_at": "2026-06-06T15:20:43Z"
+    },
+    {
+      "id": "0f9a35f6-a3be-3242-bd3f-47527cc703a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett's Berkshire Hathaway Has 67% of Its Portfolio in 5 Stocks. Should You Copy Him?",
+      "summary": "There are multiple reasons to not copy Berkshire's portfolio.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/06/warren-buffett-has-67-of-berkshires-portfolio-in-5/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QEiCkNjT77J0yaM7nM.0IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6413ad2fdf66756499f5c47d3778fc5e",
+      "published_at": "2026-06-06T15:17:00Z"
+    },
+    {
+      "id": "6e107229-3cff-3258-a42d-e001dd2242c2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer Calls NVIDIA the “Heart” of Data Center Story",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) was among the stocks on which Jim Cramer gave his opinion, as he warned that increased AI-related spending might cause near-term headwind for stocks. Cramer noted that he remains a “believer” in the company, as he stated: This company just had a very successful COMPUTEX festival in Taiwan with CEO Jensen Huang […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-nvidia-heart-150558836.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pTI5xj3EA3J4dQEjQYdRPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec",
+      "published_at": "2026-06-06T15:05:58Z"
+    },
+    {
+      "id": "a4f3cc8f-c606-3a8c-adf9-90625c097303",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here’s Why Early Investors Are Banking On It",
+      "summary": "On a recent Earn Your Leisure segment, co-host Rashaad Bilal quoted investor Barry Atlas with a claim that stops you mid-scroll: “these companies are going to make more money than all of the IPOs in the last 20 years put together,” creating “a whole new class of billionaires” from just a handful of listings. SpaceX ... SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here’s Why Early Investors Are Banking On It",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/06/spacex-ipo-could-create-more-wealth-than-all-ipos-in-the-last-20-years-combined-heres-why-early-investors-are-banking-on-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ukXRplar8hK4X1.zrP221w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/602617b66f0f3117d923db0967deda27",
+      "published_at": "2026-06-06T15:04:00Z"
+    },
+    {
+      "id": "6a398f27-0f86-323f-b680-551216ef4ee2",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "UBS: Gold faces short-term headwinds but structural drivers point to new highs",
+      "summary": "Investing.com -- Macroeconomic pressures tied to the conflict in the Middle East have interrupted the multi-month rally in precious metals as stickier inflation data recalibrates monetary policy expectations. Investors now anticipate that the Federal Reserve will maintain higher-for-longer interest rates, elevating real yields and increasing the opportunity cost of holding non-interest-bearing bullion, wrote UBS Switzerland Chief Investment Officer Michael Bolliger in a note to clients Friday. T",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/ubs-gold-faces-short-term-150220571.html",
+      "thumbnail": "",
+      "published_at": "2026-06-06T15:02:20Z"
+    },
+    {
+      "id": "4a409827-057d-3e33-978a-a4878e08c53c",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "The \"Magnificent Seven's\" Capex Spending Spree Has Given Birth to 2 Millionaire-Maker Stocks Hiding in Plain Sight. Here's the Best of the Bunch",
       "summary": "Major hyperscalers in the U.S. are going to spend a significantly higher amount on building AI infrastructure this year, and that's great news for Nvidia and Sandisk.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/06/06/the-magnificent-sevens-capex-spending-spree-has-gi/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cOe3w1SrrbKfH2_wYWPiLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0f65c81c29bd01cc005e7edb41364e4a",
       "published_at": "2026-06-06T14:43:00Z"
-    },
-    {
-      "id": "79e86b3b-6159-3f15-a032-4f20b0eba076",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Redwire is a Contract Success Story You’ll Regret Not Buying on the Next Dip",
-      "summary": "At $22.04, Redwire (NYSE:RDW) carries a ‘hold’ framing, with the thesis hinging on a pullback before the risk/reward improves. The space and defense contractor has gone vertical, and the gap between its share price and Wall Street’s target now defines the entire investment debate. Redwire builds satellite components, in-space robotics, solar arrays, and tactical drones ... Redwire is a Contract Success Story You’ll Regret Not Buying on the Next Dip",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/06/redwire-is-a-contract-success-story-youll-regret-not-buying-on-the-next-dip/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U5fOLO3.bJmFGpA5wvTPMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/728e1ed115695f5aed4e0049626d7f38",
-      "published_at": "2026-06-06T14:41:42Z"
-    },
-    {
-      "id": "925eea1b-168f-31e2-858c-98327ba4fa61",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Oklo: Buy This Entrenched High-Yield Utility Giant on the Dip Instead",
-      "summary": "Oklo (NYSE:OKLO) is the ticker dominating retail feeds right now, riding a 14 GW pipeline of non-binding data-center letters of intent and a wave of small modular reactor euphoria. The fundamentals tell a different story than the price action. The Oklo Trade Is a Speculative Story With No Underlying Business Oklo reported $0 in revenue ... Forget Oklo: Buy This Entrenched High-Yield Utility Giant on the Dip Instead",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/06/forget-oklo-buy-this-entrenched-high-yield-utility-giant-on-the-dip-instead/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yZzTYrMVXYJoD81FqgObuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6b53aa1bcf36feb5af5dee0560664a76",
-      "published_at": "2026-06-06T14:40:06Z"
-    },
-    {
-      "id": "da639ec6-9f78-38ec-9fdb-d8d3f1a87c20",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Johnson & Johnson May Be the Closest Thing Investors Can Find to a Bulletproof Dividend Stock",
-      "summary": "Johnson & Johnson takes a licking, and the dividend keeps on ticking higher.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/06/why-johnson-johnson-may-be-the-closest-thing-inves/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PZvd8EFEM7fzv.oP7PRJ2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9f58e3c18092030a5881559304f7c5be",
-      "published_at": "2026-06-06T14:35:00Z"
     },
     {
       "id": "653727d3-9188-305c-9e9f-d392b8473f85",
@@ -60,8 +137,8 @@
     },
     {
       "id": "f21b5453-30cc-3f82-9d87-e30dd8010f1c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "The Most Important AI Company You've Never Heard Of",
       "summary": "Investors have been focusing on artificial intelligence (AI) chips and software. But what if the biggest bottleneck isn't computing power?",
       "source": "Motley Fool",
@@ -71,8 +148,8 @@
     },
     {
       "id": "1e28ec48-a2a8-36a2-a8c4-3c7568be0c58",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "SaaS Stocks Are Rallying on AI Optimism. 3 Stocks to Buy Now.",
       "summary": "These three SaaS stocks have plenty more upside ahead.",
       "source": "Motley Fool",
@@ -90,17 +167,6 @@
       "url": "https://www.fool.com/coverage/etfs/2026/06/06/glittering-returns-ishares-silver-trust-outpaces-sprott-gold-miners-etf/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_H8mnlSucVqsHmMqHWuPZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7db1e67f063b4d2af25ebc343bc684ff",
       "published_at": "2026-06-06T14:11:32Z"
-    },
-    {
-      "id": "509c6ca8-aee0-36ec-b621-5ef3b55578cb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX IPO Could Create ‘The Biggest Short Squeeze’ of All Time on Index Funds. Here’s How That Happens.",
-      "summary": "The phrase sounds almost impossible: a short squeeze involving index funds. After all, index funds are designed to be passive, rules-based buyers, not active traders caught on the wrong side of a position. Yet that is exactly the scenario Animal Spirits hosts Michael Batnick and Ben Carlson laid out on Episode 467, “The Biggest Short ... SpaceX IPO Could Create ‘The Biggest Short Squeeze’ of All Time on Index Funds. Here’s How That Happens.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/06/spacex-ipo-could-create-the-biggest-short-squeeze-of-all-time-on-index-funds-heres-how-that-happens/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gR6RQEhmstYZxz13L_hPqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/98fdf741a44d36b9df6f29319c46540d",
-      "published_at": "2026-06-06T14:10:27Z"
     },
     {
       "id": "fa7f4a5c-e833-3030-ad1f-146f487cfbe4",
@@ -191,17 +257,6 @@
       "published_at": "2026-06-06T12:28:38Z"
     },
     {
-      "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
-      "summary": "The market rally broke key support; here's what to do. The SpaceX IPO, Apple's AI push and Oracle earnings loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nguaTChhMgOPMywVSHxXLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/53cb5ccd6529d26f805783b37decf65d",
-      "published_at": "2026-06-06T12:22:13Z"
-    },
-    {
       "id": "b83f5c8f-e0bc-329d-bea9-3ce1403ec80c",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -255,61 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/luke-gromen-bitcoin-liquidity-smoke-alarm/cZ0pYLLRe62",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xpPtADRYMp9Jnr8z7iyqXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/69ef9678b74a3227226b45bbd792bfcc",
       "published_at": "2026-06-06T11:50:58Z"
-    },
-    {
-      "id": "52a5179f-2a47-4bc6-90ab-2eb751698d32",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
-      "summary": "As Congress debates new regulations around artificial intelligence and cryptocurrency, lawmakers' stock portfolios have surged in recent years toward investments in these sectors.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/article/lawmakers-invest-in-tech-ai-and-crypto-as-new-rules-for-the-industries-are-on-their-agenda-114556895.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YBtlZs8PiCo4I3eMJ5NsGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/fd611c5a-fc72-44d5-9945-c7d2621fc0fa",
-      "published_at": "2026-06-06T11:45:56Z"
-    },
-    {
-      "id": "28cf2016-2e09-3566-93fc-11752a474c47",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "These 2 Cryptocurrencies Have Better Outlooks Than Solana or Ethereum. Should You Buy Them?",
-      "summary": "For a coin to be successful, it's necessary to have holder-friendly policies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/06/these-2-cryptocurrencies-have-better-outlooks-than/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DiKAKM27U9Qpt1Us0aQAOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5a02673fcde04c3508709f59a2b4920b",
-      "published_at": "2026-06-06T11:15:00Z"
-    },
-    {
-      "id": "5e92a101-3dec-35c5-8f63-c2ca72c71304",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed",
-      "summary": "Historical and structural deficiencies have laid the ultimate trap for everyday investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/06/spacex-ipo-greatest-fleecing-retail-investors-ever/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1IgppP8fXizhVFEQFFm7aw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/357148cada1207d38616bf75a5e811a0",
-      "published_at": "2026-06-06T10:56:00Z"
-    },
-    {
-      "id": "9a281572-3319-3728-995a-ea2ad658dc59",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Joseph Lubin’s $122 Million Move Sparks Sell-Off Fears for Ethereum",
-      "summary": "Joseph Lubin moved 80,001 ETH after three years, but on-chain data shows the funds went to MakerDAO, not an exchange.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/joseph-lubin-ethereum-move-sell-off-fears/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e8NtyOmw8O_47WHEXvqSdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/bdcd76b2e7914d493473f8f7f6049700",
-      "published_at": "2026-06-06T10:49:14Z"
-    },
-    {
-      "id": "15cf149f-46fd-3dc6-bf89-205c5836cc00",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion?",
-      "summary": "Elon Musk is poised to become the world’s first trillionaire. It’s a staggering amount of wealth never seen before in the history of human commerce.",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/06/06/business/musk-trillionaire-how-much-is-one-trillion-dollars",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YL0XUFuJShJgoBwImHdP1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/cd501804c80b88d19a2fddcd1a31456a",
-      "published_at": "2026-06-06T10:30:09Z"
     }
   ]
 }
