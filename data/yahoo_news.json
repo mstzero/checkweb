@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-06-07 21:43 UTC",
+  "last_updated": "2026-06-07 23:02 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures Fall As Trump Says This After Iran Attacks Israel; Market Rally Faces First Real Test",
+      "summary": "Futures fell after Iran fired missiles at Israel. The SpaceX IPO, Apple's AI push and Oracle earnings are ahead.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
+      "published_at": "2026-06-07T22:49:25Z"
+    },
+    {
+      "id": "74c50e7f-fd01-3bd1-a52c-3cf998a5818e",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Agnico Eagle CEO makes a quiet promise to gold investors",
+      "summary": "In a commodity boom, almost everyone makes money. The companies worth owning are the ones that get better while it happens, not just richer. That distinction is easy to lose in 2026. Gold has spent the year near record highs, trading around 4,500 dollars an ounce, and the entire mining sector ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/agnico-eagle-ceo-makes-a-quiet-promise-to-gold-investors",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P8HTrkuNNyEOeicxAwtkhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ac556cecbf765677a90de5e71d2ec324",
+      "published_at": "2026-06-07T22:40:02Z"
+    },
+    {
+      "id": "e04e9a3c-c21d-326c-9706-204a730d2781",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon, Alphabet, and Microsoft Are All Racing to Design Their Own AI Chips. Here's What It Means for Nvidia.",
+      "summary": "The cloud giants are spending hundreds of billions to build AI data centers -- and a growing slice of that money is going toward chips they design themselves.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/amazon-alphabet-and-microsoft-are-all-racing-to-de/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vJ4TSLURiU1Pc7I5qLZZUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/35f327f3fca49bae84f8f895f7a8ab10",
+      "published_at": "2026-06-07T22:32:00Z"
+    },
+    {
+      "id": "8b727375-7657-3ab1-8f19-dda7f22db134",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stock Futures Drift Lower, Oil Rises After Iran Fires Missiles at Israel",
+      "summary": "Stock futures were dropping, potentially extending the indexes’ selloff on Friday.  Oil futures were set to react to new attacks as the Iran war marks its 100th day with no peace deal in sight.  Just after 6 p.m. Eastern time, S&P 500 futures were down 0.4%, while Nasdaq futures were down 0.3% as were Dow futures.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-63b9376e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ShtwVPQsew153jHOGNVi2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/07c11ebfb3b5c3ea1327d4fdd1022c50",
+      "published_at": "2026-06-07T22:12:00Z"
+    },
+    {
+      "id": "3c114b2a-120f-3592-834c-7c03dccec32d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value",
+      "summary": "Tesla (NasdaqGS:TSLA) has seen a sharp decline in the value of its Bitcoin holdings following the recent cryptocurrency downturn. The company’s digital asset exposure is back in focus as investors reassess the risk profile of its crypto strategy. At the same time, Tesla reported around 40% sales growth in China for May, highlighting stronger activity in a key market. Tesla is also expanding the rollout of its Full Self-Driving (FSD) software in China, one of its most important international...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-bitcoin-hit-versus-china-221044310.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+      "published_at": "2026-06-07T22:10:44Z"
+    },
+    {
+      "id": "ca07452d-ef65-3307-8469-cfa41029462d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Visa Stock a Smart Way to Invest in the Cashless Economy?",
+      "summary": "Declining usage of physical currencies and other paper-based payment methodologies has been a durable secular trend.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/visa-stock-smart-way-invest-in-cashless-economy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6K7PQoc5p7Jx3g85_qRk9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9702db7271d125b92b2d30219adde772",
+      "published_at": "2026-06-07T22:04:00Z"
+    },
+    {
+      "id": "fd4edb51-1925-3e94-8741-7876cba517d3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
+      "summary": "Investors interested in buying this newly minted stock at its IPO have much to consider.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/reasons-to-buy-spacex-stock-ipo-reason-wait/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qFvK02mgSBvUudx7bRp65g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c8693d073d28a49c969754ecaed38c78",
+      "published_at": "2026-06-07T21:35:00Z"
+    },
     {
       "id": "35423ca1-9292-3c05-907a-f69b1be77fda",
       "asset": "BTC",
@@ -13,17 +90,6 @@
       "url": "https://www.fool.com/investing/2026/06/07/heres-the-1-crypto-id-buy-if-i-could-only-pick-1/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/isLTZEsBCEc_z5.6fJPwYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/40d13cee7f6fea767f527d5faf1ce1ca",
       "published_at": "2026-06-07T21:27:00Z"
-    },
-    {
-      "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
-      "summary": "Futures loom after the stock market rally broke key support. Iran fired missiles at Israel. The SpaceX IPO, Apple's AI push and Oracle earnings are ahead.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
-      "published_at": "2026-06-07T21:00:43Z"
     },
     {
       "id": "13dd707d-d132-3865-b3ac-675743bc4575",
@@ -114,17 +180,6 @@
       "published_at": "2026-06-07T19:58:43Z"
     },
     {
-      "id": "8b727375-7657-3ab1-8f19-dda7f22db134",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Futures to Trade as Iran Fires Missiles Toward Israel",
-      "summary": "Stock futures are poised to begin trading later on Sunday after Friday’s selloff, and oil futures are likely to respond to new attacks as the Iran war marks its 100th day with no peace deal in sight.  The prospects for peace seemed more distant after Iran fired missiles toward Israel on Sunday, as The Wall Street Journal reported, after an earlier Israeli airstrike on Beirut targeted the Hezbollah militants backed by Tehran.  Iran had earlier threatened to hit Israel and American military bases in the Middle East because of Israeli airstrikes on the Lebanese capital, despite the U.S.-announcing a ceasefire between Israel and Lebanon last week, the Journal report said.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-63b9376e?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ShtwVPQsew153jHOGNVi2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/07c11ebfb3b5c3ea1327d4fdd1022c50",
-      "published_at": "2026-06-07T19:51:00Z"
-    },
-    {
       "id": "912463d8-34aa-367c-b804-db56a48da1c6",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -137,36 +192,14 @@
     },
     {
       "id": "dd71d561-fccb-38b6-84dc-3ed7d4a354bb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors",
       "summary": "Microsoft is building its own AI infrastructure in-house, and that's good news for investors.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/06/07/why-microsoft-distancing-from-openai-is-good/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HKt7j8q3x1XYxMoyqnNLjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/868b8fb1b9e5c7234c64024547714a18",
       "published_at": "2026-06-07T19:31:00Z"
-    },
-    {
-      "id": "c2875737-3f4e-34c2-8deb-856ec395415a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Time Is Running Out to Lock In This Financial Stock's Sky-High Yield",
-      "summary": "Ares Capital's next dividend payment is approaching.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/time-is-running-out-to-lock-in-this-financial-stoc/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UNpWIsSwIMxUcjB9okLV1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9b75ff20b2354d7af0f0f74eab77cf1d",
-      "published_at": "2026-06-07T19:20:00Z"
-    },
-    {
-      "id": "2604b00f-7c16-35f1-ae87-4c6a04490990",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape",
-      "summary": "If you owned GraniteShares 2x Long NVDA Daily ETF (NASDAQ:NVDL) into the close on Friday, June 5, 2026, your screen looked broken. The fund opened the session near $109.45 and closed at $95.91, a 12% single-day drop. The underlying, NVIDIA (NASDAQ:NVDA), fell 6.2% from $218.66 to $205.10, shedding ~$279 billion in market value in a ... NVDL Collapsed 12% in a Single Day as Nvidia Lost $279 Billion, Exposing How Leverage Compounds on Bad Tape",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/07/nvdl-collapsed-12-in-a-single-day-as-nvidia-lost-279-billion-exposing-how-leverage-compounds-on-bad-tape/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JJVUbSl2NjrdIRGB8MI.Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0c3d6fa4bd95910d49a32773dc939b88",
-      "published_at": "2026-06-07T19:15:11Z"
     },
     {
       "id": "3d6dd094-d29e-327a-b861-b39ac900c005",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/sectors/technology/articles/grid-dynamics-holdings-inc-gdyn-173904686.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cl8m45AN24ai_7BlJI0pgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2961649df6f1345e8fd39d0677187115",
       "published_at": "2026-06-07T17:39:04Z"
-    },
-    {
-      "id": "cb5f17bf-6f08-3e94-8ac8-397620664d7e",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Trump's New AI Clock Starts Ticking: Will Microsoft, Oracle Or Palantir Become 'Trusted Partners'?",
-      "summary": "President Donald Trump‘s new AI executive order may have avoided the heavy-handed regulation that some in Silicon Valley feared, but it has opened a new question for investors: who will gain a seat at the table as Washington builds its...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/trumps-ai-clock-starts-ticking-173110348.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sE1VhgPsQbGl32tc9HCg7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/7fa0e5cf557456164d70692c16dbda61",
-      "published_at": "2026-06-07T17:31:10Z"
-    },
-    {
-      "id": "418908e6-bc5a-3dd1-8e32-590ad785b2a6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MSTU Down 95% in a Year, How a 2x Daily Fund Lost Nearly Everything While Its Underlying Fell 67%",
-      "summary": "A $10,000 stake in the T-REX 2X Long MSTR Daily Target ETF (NASDAQ:MSTU) bought at Thursday’s close was worth about $8,633 at Friday’s bell, a roughly 14% single-session drawdown from $3.95 to $3.41. The fund’s mirror product traveled the same path. The underlying, Strategy (NASDAQ:MSTR), the company formerly known as MicroStrategy, fell about 7% from ... MSTU Down 95% in a Year, How a 2x Daily Fund Lost Nearly Everything While Its Underlying Fell 67%",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/07/mstu-down-95-in-a-year-how-a-2x-daily-fund-lost-nearly-everything-while-its-underlying-fell-67/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aFApg.JiXYZdEwu5YV2ysw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/594dd0e1446bdd2cb2f14459737c0488",
-      "published_at": "2026-06-07T17:00:23Z"
-    },
-    {
-      "id": "5e2f2ec9-40b9-3c7c-b312-38babc84201a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Is Diamondback Energy, Inc. (FANG) A Good Stock To Buy Now?",
-      "summary": "Is FANG a good stock to buy? We came across a bullish thesis on Diamondback Energy, Inc. on X.com by @MoneyShow. In this article, we will summarize the bulls’ thesis on FANG. Diamondback Energy, Inc.’s share was trading at $ 191.48 as of May 29th. FANG’s trailing and forward P/E were 195.39 and 8.58 respectively according to […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-inc-fang-good-164658128.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/htnerXXP99N_8nOYH3EKtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6d658af1aa63e2d4ec17103305b6397a",
-      "published_at": "2026-06-07T16:46:58Z"
     }
   ]
 }
