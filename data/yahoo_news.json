@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-06-07 23:02 UTC",
+  "last_updated": "2026-06-08 01:39 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "85e38f7b-9aeb-3d6c-b6ed-50084bc53b4f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Better Buy: Sandisk or Nvidia Stock?",
+      "summary": "The memory-chip maker has taken the title of most exciting AI stock from the GPU giant.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/better-buy-sandisk-or-nvidia-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lmlTBrYAX5_oFI4I_aKbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1ce11422f219c0975697a8dc35c0623f",
+      "published_at": "2026-06-08T01:32:00Z"
+    },
     {
       "id": "4e57fd62-a165-35ac-ab25-3c8bcc828d3c",
       "asset": "AAPL",
@@ -12,7 +23,183 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
-      "published_at": "2026-06-07T22:49:25Z"
+      "published_at": "2026-06-08T01:20:54Z"
+    },
+    {
+      "id": "10299ca5-e0de-39e3-af90-f208222d1bdf",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asia markets tumble as tech rout deepens",
+      "summary": "SINGAPORE, June 8 (Reuters) - Asian markets plunged on Monday as investors slammed the brakes on the red-hot AI rally, while Israeli strikes on Beirut sent oil prices and the dollar higher.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-brace-selling-tech-234406406.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wZP8pY1aBV7XkR0bcnJTIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a465660d54f56e32dcb7c6fb7b40117c",
+      "published_at": "2026-06-08T01:08:00Z"
+    },
+    {
+      "id": "02813366-a663-36d7-b14b-53fd4a1cb8a8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Sandisk Stock Skyrocketed 54.6% Last Month But Is Sinking in June",
+      "summary": "May was a great month for Sandisk stock, but shares have taken a step back this month.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/why-sandisk-stock-skyrocketed-546-last-month-but-i/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r1etk5v6bT82Kr9JZdyHvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f9be6020c1ebe50f7af8c8a7c125dda8",
+      "published_at": "2026-06-08T00:53:32Z"
+    },
+    {
+      "id": "fe3ed27d-8c9d-3418-a752-205e22d92b77",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple faces a Siri moment it can’t afford to miss",
+      "summary": "Apple’s (AAPL) next major test is soon upon us. The company's Worldwide Developers Conference is June 8-12, and this year's gathering may be more important than a usual product display. Apple is scheduled to preview iOS 27, iPadOS 27, macOS 27, watchOS 27, tvOS 27, and visionOS 27. Developers and ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/apple-needs-to-make-meanigful-siri-upgrade",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aDKCeRc2g4JWgzvWl9Sbxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7b491aee2c060bf924732ea73f4dd550",
+      "published_at": "2026-06-08T00:37:00Z"
+    },
+    {
+      "id": "5bc262fc-6999-3805-ba69-b7140b8b1c59",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Tilray's Brewdog Bet Already Backfiring? Collapsing UK Sales Suggest Yes.",
+      "summary": "Tilray bought Brewdog on the cheap, but there's a reason why it got such a good price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/is-tilrays-brewdog-bet-already-backfiring-collapsi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oT6LYrmVIbPOgKJ.aA6alQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5db073ef10e05758f2de146e93b69b74",
+      "published_at": "2026-06-08T00:35:00Z"
+    },
+    {
+      "id": "475a83b3-1613-3e3c-b910-5a4c3236bd5f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices rise more than $2 on Israel strikes on Lebanon",
+      "summary": "By Colleen Howe BEIJING, June 8 (Reuters) - Oil prices were up more than $2 a barrel on Monday after Israel on Sunday launched renewed strikes on Lebanon despite a truce between the two countries,",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-prices-rise-more-2-223106619.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zwBbFF1FAUT35.bHD7eYeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a25da82a98b1608417c97ae3df82dab1",
+      "published_at": "2026-06-08T00:26:22Z"
+    },
+    {
+      "id": "9cff0104-68c8-320a-b3b5-c2ac9e1e5050",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Public Storage Looks Good But Buy This Unstoppable REIT Wealth Creator as National Debt Soars",
+      "summary": "Every storage REIT bull is pointing at Public Storage (NYSE:PSA), the $53 billion mega-cap that just printed a Q1 Core FFO of $4.22 and announced a $10.5 billion all-stock takeover of National Storage Affiliates. But here’s what you should actually be watching. The Crowded Trade Has a Math Problem That headline FFO beat was inflated ... Public Storage Looks Good But Buy This Unstoppable REIT Wealth Creator as National Debt Soars",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/07/public-storage-looks-good-but-buy-this-unstoppable-reit-wealth-creator-as-national-debt-soars/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SCIHVFSZrcQvYTQPvYXvHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a32270b7209b25bb3465ee2166736f87",
+      "published_at": "2026-06-08T00:22:43Z"
+    },
+    {
+      "id": "c3114306-33d6-3b4c-b747-07b01522a5b7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: SpaceX Won't Merge With Tesla. It's Going to Buy This Nvidia-Backed Artificial Intelligence (AI) Company Instead.",
+      "summary": "Some investors think SpaceX could be interested in combining with Tesla following its $75 billion IPO.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/prediction-spacex-wont-merge-with-tesla-its-going/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MP0y9LNlEAQLJNlk7htAtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/18bcab306ce81442991e6313558e1efe",
+      "published_at": "2026-06-08T00:20:00Z"
+    },
+    {
+      "id": "84762531-c499-313b-b1ab-472789a6937e",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "34% of Americans Panic-Sell During Market Drops. The Cost: 27% in Missed Gains",
+      "summary": "A new behavioral finding from the Allianz Center for the Future of Retirement’s 2026 Annual Retirement Study shows that 34% of Americans typically withdraw money from investments to avoid further losses during a significant market drop, and 57% feel anxious about their financial future when retirement accounts suffer losses. The study, fielded in January 2026 ... 34% of Americans Panic-Sell During Market Drops. The Cost: 27% in Missed Gains",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/06/07/34-of-americans-panic-sell-during-market-drops-the-cost-27-in-missed-gains/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9pz7kF5u4QjNwc_wdMdnNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f5d2574118daead0256105e3ac658d81",
+      "published_at": "2026-06-08T00:11:05Z"
+    },
+    {
+      "id": "ec7e9466-2647-3fa9-9366-e50500dd9652",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Pushing Your Savings Rate To 30% Could Shave Years Off Your Working Life",
+      "summary": "Saving 30% of your income could be your ticket to an early exit from the 9-to-5 grind. Aggressively boosting how much you save doesn't just build a bigger cushion — it makes you spend less, setting you up for a...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/articles/pushing-savings-rate-30-could-000134077.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gpzBUOpxnMnDOX4kTqBdKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/af8dc85ae4274e2eda79ef0a5f816700",
+      "published_at": "2026-06-08T00:01:34Z"
+    },
+    {
+      "id": "9b73f650-7a04-34e8-89c0-2059ab1531e1",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Rise Amid Escalating Supply Disruption Concerns",
+      "summary": "OIL MARKETS 2336 GMT — Oil prices rise in early trade amid escalating concerns of supply disruption in the Middle East. Iran fired at least four waves of missiles toward Israel on Sunday in response to an Israeli airstrike on Beirut hours earlier, targeting the Tehran-backed militants Hezbollah.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-amid-escalating-supply-disruption-concerns-a2670a9a?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-06-07T23:39:00Z"
+    },
+    {
+      "id": "fed57924-9965-3319-87a6-23b514bcf4a9",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Amazon.com, Inc. (AMZN): Top 10 Stocks That Members of Congress Own",
+      "summary": "With 353 hedge fund holders as of Q1 2026, Amazon.com, Inc. (NASDAQ:AMZN) is among the Top 10 Stocks That Members of Congress Own. On May 29, Amazon.com, Inc. (NASDAQ:AMZN) announced that it would acquire Apple’s 20% stake in Globalstar (GSAT) as part of its $11.6 billion acquisition of the satellite communications company. In a regulatory filing, Amazon stated that its planned investments in constellation […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-top-233845495.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9YxvsBDTdWOqj06qQCUTCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4be6808c5f3c8741951a686dd90ef418",
+      "published_at": "2026-06-07T23:38:45Z"
+    },
+    {
+      "id": "c983917e-8f2b-345d-ac1f-4e92d2942ff5",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Is Tesla, Inc. (TSLA) among the Top 10 Stocks That Members of Congress Own?",
+      "summary": "With 123 hedge fund holders as of Q1 2026, Tesla, Inc. (NASDAQ:TSLA) is among the Top 10 Stocks That Members of Congress Own. Tesla, Inc. (NASDAQ:TSLA) received a notable vote of confidence from analysts on June 5 when Erste Group upgraded the stock to Hold from Sell. While the firm acknowledged that Tesla’s valuation remains elevated, it […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-among-top-233830575.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lmVpdHMCZaREseu6m8sIXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/29a6aea20a7c867bec3078256880ee1c",
+      "published_at": "2026-06-07T23:38:30Z"
+    },
+    {
+      "id": "62fa7241-abea-3970-96dc-799e1b95137c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "I'm Calling It: UPS Is a Buy Before July 15",
+      "summary": "Package delivery giant UPS will give an update in late July that I believe will be very positive.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/im-calling-it-ups-is-a-buy-before-july-15/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yScmUX11Q.xX5l8xhB8Fkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e7067860e60791fdaac56d608d0c8f30",
+      "published_at": "2026-06-07T23:35:00Z"
+    },
+    {
+      "id": "efe59ca1-7e12-357f-a740-85d8c6fdeced",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX's AI Business Lost $6.4 Billion Last Year — And That's Exactly The Point",
+      "summary": "SpaceX‘s AI business lost a staggering $6.4 billion last year. Most companies would call that a problem. Elon Musk appears to call it an investment. Buried in the company’s IPO fact sheet is a glimpse into what could become one...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/spacexs-ai-business-lost-6-233125128.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1lIefdJVH_EcAo7qYnKB6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a03469a34435b6b0668ba74324251ed5",
+      "published_at": "2026-06-07T23:31:25Z"
+    },
+    {
+      "id": "980593aa-ced6-342f-8850-d6087348531e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia announces deals with South Korea's SK Hynix, Naver and Doosan for AI data centres",
+      "summary": "Nvidia on Monday announced deals with South ‌Korea's SK Hynix, Naver and Doosan Group to build AI data centres ‌and use the U.S. chip firm's technology, as it looks to continue driving the AI boom.  The ​agreements come during a high-profile trip by Nvidia CEO Jensen Huang to South Korea that began on Friday and has seen him have fried chicken with the country's top corporate bosses, throw a baseball pitch and meet with a well-known gamer so ‌far.  Nvidia and its partners did ⁠not disclose the value of the deals.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/sk-hynix-announces-multi-tech-232702383.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S4Rt0aJJfBrwF86E.uQHxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/40732e0ed51eb26b4345362a0bd496e5",
+      "published_at": "2026-06-07T23:27:02Z"
+    },
+    {
+      "id": "314bd4b5-56fb-34d0-b0f8-e4cf4449cd5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 High-Growth Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now",
+      "summary": "The AI build-out is making several unlikely candidates excellent investment opportunities.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/07/3-high-growth-artificial-intelligence-ai-stocks-to/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Oq5klgfh1u7tPqi7uqgibw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/730c5af75df131c18765a7755d6fd891",
+      "published_at": "2026-06-07T23:25:00Z"
     },
     {
       "id": "74c50e7f-fd01-3bd1-a52c-3cf998a5818e",
@@ -27,8 +214,8 @@
     },
     {
       "id": "e04e9a3c-c21d-326c-9706-204a730d2781",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Amazon, Alphabet, and Microsoft Are All Racing to Design Their Own AI Chips. Here's What It Means for Nvidia.",
       "summary": "The cloud giants are spending hundreds of billions to build AI data centers -- and a growing slice of that money is going toward chips they design themselves.",
       "source": "Motley Fool",
@@ -59,28 +246,6 @@
       "published_at": "2026-06-07T22:10:44Z"
     },
     {
-      "id": "ca07452d-ef65-3307-8469-cfa41029462d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Visa Stock a Smart Way to Invest in the Cashless Economy?",
-      "summary": "Declining usage of physical currencies and other paper-based payment methodologies has been a durable secular trend.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/visa-stock-smart-way-invest-in-cashless-economy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6K7PQoc5p7Jx3g85_qRk9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9702db7271d125b92b2d30219adde772",
-      "published_at": "2026-06-07T22:04:00Z"
-    },
-    {
-      "id": "fd4edb51-1925-3e94-8741-7876cba517d3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
-      "summary": "Investors interested in buying this newly minted stock at its IPO have much to consider.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/reasons-to-buy-spacex-stock-ipo-reason-wait/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qFvK02mgSBvUudx7bRp65g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c8693d073d28a49c969754ecaed38c78",
-      "published_at": "2026-06-07T21:35:00Z"
-    },
-    {
       "id": "35423ca1-9292-3c05-907a-f69b1be77fda",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -103,20 +268,9 @@
       "published_at": "2026-06-07T21:00:00Z"
     },
     {
-      "id": "d4ff6318-c43d-3ffc-a798-4dd453eae301",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Micron's Stock Is Up Over 270% This Year. Here's How It Can Still Double in 2026.",
-      "summary": "Micron has risen to over a $1 trillion valuation.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/microns-stock-is-up-over-270-this-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FL67UPT6dwqirAsuMob.uA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2e69bcdecf78ca2f34490a47d88169b1",
-      "published_at": "2026-06-07T20:31:00Z"
-    },
-    {
       "id": "5f9b4a61-95b5-3627-afc1-a3406c5abf84",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Which Big 3 Cloud Computing Stock Is the Best Buy Now?",
       "summary": "Cloud computing will benefit from the AI build-out over the long term.",
       "source": "Motley Fool",
@@ -147,17 +301,6 @@
       "published_at": "2026-06-07T20:13:24Z"
     },
     {
-      "id": "77a7e2af-085e-340f-afd8-354145b6d0aa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "TSMC Nvidia AI Partnership Puts Factory Efficiency And Valuation In Focus",
-      "summary": "TSMC (NYSE:TSM) and Nvidia announced a wide-ranging partnership to apply AI and accelerated computing across TSMC's semiconductor manufacturing operations. The agreement covers areas such as lithography, defect detection, and factory and production optimization within TSMC's fabs. The partnership extends the existing customer supplier relationship into a broader collaboration focused on AI driven chipmaking processes. For you as an investor, this matters because TSMC is a key contract chip...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-ai-partnership-puts-200726215.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sdqM2NN9Xy0ai0FXQvYklw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
-      "published_at": "2026-06-07T20:07:26Z"
-    },
-    {
       "id": "b2c57a3b-3c56-3519-b4d7-f5d6811dcce2",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -167,149 +310,6 @@
       "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-direct-talks-asml-200155324.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uTS.z0cZ7onhfFBNZlMtKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c62ec3a9995e53c56d818bd0f5e6d556",
       "published_at": "2026-06-07T20:01:55Z"
-    },
-    {
-      "id": "4ce342ae-ca81-3e6e-aa1b-30b0866eb102",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Did Anthropic and Google Just Give Investors 2.2 Billion Reasons to Buy the SpaceX IPO?",
-      "summary": "SpaceX recently unveiled a large new compute deal with Google, in addition to a previously announced one with Anthropic.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/did-anthropic-and-google-just-give-investors-22-billion-reasons-to-buy-the-spacex-ipo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bn5Ndh7QZMAyeQckzAUwZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b850bcc00e69880fb28e6592a2d3e979",
-      "published_at": "2026-06-07T19:58:43Z"
-    },
-    {
-      "id": "912463d8-34aa-367c-b804-db56a48da1c6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "The SpaceX IPO is Coming Soon. What Does It Mean for Crypto?",
-      "summary": "The SpaceX IPO is a one-time event that probably won't have a lasting impact on crypto.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/the-spacex-ipo-is-coming-soon-what-does-it-mean-fo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jWgf5zHOI1oA0U2pPGa4LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/addfcd082e005cfa4f85b8a056aec49c",
-      "published_at": "2026-06-07T19:35:00Z"
-    },
-    {
-      "id": "dd71d561-fccb-38b6-84dc-3ed7d4a354bb",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors",
-      "summary": "Microsoft is building its own AI infrastructure in-house, and that's good news for investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/07/why-microsoft-distancing-from-openai-is-good/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HKt7j8q3x1XYxMoyqnNLjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/868b8fb1b9e5c7234c64024547714a18",
-      "published_at": "2026-06-07T19:31:00Z"
-    },
-    {
-      "id": "3d6dd094-d29e-327a-b861-b39ac900c005",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "BYD just answered the question Tesla keeps fighting in court",
-      "summary": "Every new piece of car technology eventually runs into the same awkward question. When it works, the carmaker takes the credit. When it fails, who takes the blame? For self-driving software, the industry settled that question years ago, and it settled it in the carmaker's favor. The marketing ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/byd-just-answered-the-question-tesla-keeps-fighting-in-court",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vf0mt2RTLKgQXM9taUFqDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6d71ba827955a3cc8bd2d9b28b6447f2",
-      "published_at": "2026-06-07T19:13:00Z"
-    },
-    {
-      "id": "1fea6531-0b6d-3b9e-b126-97fd9daa6b6f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MicroStrategy and BitMine Could Trigger the Largest Bitcoin Crash Ever: DWF Labs Co-founder Warns",
-      "summary": "DWF Labs warns MicroStrategy and BitMine could trigger the biggest crypto crash ever, with Bitcoin possibly hitting $10,000.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/microstrategy-bitmine-crypto-crash-dwf-labs-warning/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4a8xY_ydpwzhgQ3AcRV4kA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/784554d226753216ebc5654d8ebe1d35",
-      "published_at": "2026-06-07T19:00:00Z"
-    },
-    {
-      "id": "47164461-5fb2-3e13-93f2-635427b84f27",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Starlink Is Incredible—and It’s the Key to the SpaceX IPO",
-      "summary": "What SpaceX’s Starlink is worth is for each investor to decide. How it works is easier to say. It’s remarkable.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-ipo-starlink-review-328e54f1?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qkmo1uBJDacFq8SoQQ4Sig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/583d164aacc6e01427e2518d3a79e375",
-      "published_at": "2026-06-07T18:51:00Z"
-    },
-    {
-      "id": "baaea3b2-1995-3e4f-808f-442626d6beb0",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Exxon Got Kicked Out of the Dow in 2020. It Has Since Beaten the S&P 500 by Nearly Double",
-      "summary": "Ten years ago, Exxon Mobil (NYSE:XOM) was an aging supermajor coasting on legacy assets and a sleepy dividend. The decade that followed was brutal before it got good. CEO Darren Woods kicked off a transformation in 2018 built around advantaged barrels, cost cuts, and capital discipline. Then came the pandemic, which gutted crude demand and ... Exxon Got Kicked Out of the Dow in 2020. It Has Since Beaten the S&P 500 by Nearly Double",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/07/exxon-got-kicked-out-of-the-dow-in-2020-it-has-since-beaten-the-sp-500-by-nearly-double/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a0M6TeVXbBiVYVfXU68FbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4137e22e084d225ff9e0b16c169f644e",
-      "published_at": "2026-06-07T18:38:12Z"
-    },
-    {
-      "id": "02b6897d-021d-395c-a119-485f3b264ae9",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "NUGT Collapsed 17% on Friday While Gold Fell Just 3%: The Hidden Leverage Destroying Miners ETF Holders",
-      "summary": "If you put $10,000 into Direxion Daily Gold Miners Index Bull 2X Shares (NYSEARCA:NUGT) at Friday’s open on June 5, 2026, you walked out of the close with about $8,300. The fund opened at $158.82 and finished the day at $131.39, a one-session loss of 17.27%, and it happened on a day when half the ... NUGT Collapsed 17% on Friday While Gold Fell Just 3%: The Hidden Leverage Destroying Miners ETF Holders",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/07/nugt-collapsed-17-on-friday-while-gold-fell-just-3-the-hidden-leverage-destroying-miners-etf-holders/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dRtHVn6xKK3PbqncjDE72g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fded941da7cfb559cc2eb4adc2e7c66e",
-      "published_at": "2026-06-07T18:30:09Z"
-    },
-    {
-      "id": "44109a62-e88f-3f94-b39e-918bc501158e",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Forget SCHD: DGRO’s Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
-      "summary": "For a 59-year-old pre-retiree sitting on a six-figure dividend core, the choice between iShares Core Dividend Growth ETF (NYSEARCA:DGRO) and Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) usually gets framed as a yield contest. SCHD pays more today. The quieter story is that DGRO has delivered 250% over the past ten years versus SCHD’s 233%, and ... Forget SCHD: DGRO’s Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/07/forget-schd-dgros-looser-quality-filter-has-quietly-delivered-higher-total-returns-over-the-last-decade/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lwpsLXXL5nioLwwfr6K31w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/04b3dda5b13960ec5705c377537b6338",
-      "published_at": "2026-06-07T18:23:43Z"
-    },
-    {
-      "id": "f6be3d40-f72c-390b-ad8a-2dd9122c2ea8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Is HIVE Digital Technologies Ltd. (HIVE) a Top Penny Stock to Buy on Robust Diversified Core Business?",
-      "summary": "HIVE Digital Technologies Ltd. (NASDAQ:HIVE) is one of the top penny stocks to buy in investors’ stock portfolio. On June 1, co-founder and executive chairman Frank Holmes reiterated that 2026 is turning out to be a defining year for HIVE Digital Technologies Ltd (NASDAQ:HIVE). The sentiment comes as the company becomes the first publicly traded […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-ltd-hive-180043192.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZYx1EdCLF3PIMOlsRNLGsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/440fc92c6072fbe942a9995aabad565e",
-      "published_at": "2026-06-07T18:00:43Z"
-    },
-    {
-      "id": "e18f5d7a-5140-3aa5-873c-21c0ba168b06",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MSTX Lost 89 Percent From Its August 2024 Peak, and Friday’s Payroll Print Showed Why Leverage Decay Never Stops",
-      "summary": "If you bought Defiance Daily Target 2X Long MSTR ETF (NASDAQ:MSTX) at the open on Friday, June 5, 2026, you watched $18.10 turn into $15.54 by the close, a 14% drop in a single session. If you owned it for the week, the damage was worse. The fund opened Friday May 29 at $28.14 and ... MSTX Lost 89 Percent From Its August 2024 Peak, and Friday’s Payroll Print Showed Why Leverage Decay Never Stops",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/07/mstx-lost-89-percent-from-its-august-2024-peak-and-fridays-payroll-print-showed-why-leverage-decay-never-stops/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aFApg.JiXYZdEwu5YV2ysw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/594dd0e1446bdd2cb2f14459737c0488",
-      "published_at": "2026-06-07T17:45:58Z"
-    },
-    {
-      "id": "795896f8-4d28-3b7f-b1b7-fe67281d916f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Trump’s Explosive Interview Walkout Buried a Bigger Message for Markets",
-      "summary": "Trump's interview walkout buried market-moving calls for lower rates, cheaper oil, and bigger military spending.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/trump-interview-walkout-markets-message/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hc2k6deAZXl_8wmFrm1ceA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/03bda7becad62cf2085de5912f21c127",
-      "published_at": "2026-06-07T17:41:20Z"
-    },
-    {
-      "id": "5dd1d5ec-4b93-37fc-b814-88d02a9662d6",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Grid Dynamics Holdings Inc. (GDYN) Unveils AI Modernization Service on Microsoft Azure",
-      "summary": "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) is one of the best debt-free IT stocks to buy now. On May 26, Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) moved to target large enterprises running mission-critical, high-transaction-volume legacy environments. The company unveiled an AI-native modernization service powered by its GAIN Platform for SDLC on Microsoft Azure. The offering will help […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/grid-dynamics-holdings-inc-gdyn-173904686.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cl8m45AN24ai_7BlJI0pgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2961649df6f1345e8fd39d0677187115",
-      "published_at": "2026-06-07T17:39:04Z"
     }
   ]
 }
