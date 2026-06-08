@@ -1,23 +1,188 @@
 {
-  "last_updated": "2026-06-08 22:24 UTC",
+  "last_updated": "2026-06-08 23:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "7a0b3f12-f52d-3cd7-8776-1fea94126ab6",
+      "id": "2dea183c-d7e0-374c-9a69-8a4d8ec194f5",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Corning (GLW) Shares Skyrocket, What You Need To Know",
-      "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 7.4% in the morning session after Amazon announced a multiyear, multibillion-dollar agreement with the company to supply optical fiber, cable, and connectivity solutions for its expanding U.S. data center infrastructure.",
+      "title": "Why Ciena Stock Stumbled Today",
+      "summary": "It's floating a large-scale convertible notes issue.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/08/why-ciena-stock-stumbled-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EEsyYrqmucOx8GAjA8Ygmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/78fb2d47c829a981c9e5cd3a04da3084",
+      "published_at": "2026-06-08T23:31:18Z"
+    },
+    {
+      "id": "e164f219-d908-3eae-9cf7-6bf049cc499f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy AI Chip Stocks on the Dip? Words from Nvidia's Jensen Huang Offer an Answer That's Crystal Clear (and Echoes Warren Buffett's Wisdom).",
+      "summary": "Buffett is known for his focus on stocks' valuations.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/08/should-you-buy-ai-chip-stocks-on-the-dip-words-fro/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.M7EWd8We0N4rFMDL4v75Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/78779de6eb7103d8f2d3dfd96899d459",
+      "published_at": "2026-06-08T23:30:00Z"
+    },
+    {
+      "id": "ac900074-9abc-30e6-af8b-736baf67db2f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "RPC, Helix Energy Solutions, and NOV Shares Skyrocket, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after Israel and Iran launched direct strikes against each other over the weekend, the most significant test of the fragile ceasefire since April, pushing Brent crude briefly above $98 a barrel.",
       "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-shares-skyrocket-know-221350852.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qMm_jDy2Rb2E_jRsGf6yiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f3a6f5a1ef8fb88f543bd1c946974a28",
-      "published_at": "2026-06-08T22:13:50Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rpc-helix-energy-solutions-nov-232550138.html",
+      "thumbnail": "",
+      "published_at": "2026-06-08T23:25:50Z"
+    },
+    {
+      "id": "76859843-f80e-30bb-a6c8-2184d2dcfefd",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s New Siri AI And Apple Intelligence Put Valuation In Focus",
+      "summary": "Apple unveiled its next generation Siri AI and Apple Intelligence platform at WWDC 2026. The new system focuses on on-device and Private Cloud Compute models with a privacy-first design. Apple also introduced enhanced parental controls aimed at user wellbeing and family usage. For investors watching NasdaqGS:AAPL, this AI update comes with the stock at a share price of $301.54 and a value score of 1. Over the past year, the share price is up 50.3%, and over 5 years it is up 137.1%, which...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-siri-ai-apple-intelligence-231807615.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bU5AIomYRBg3WBNqAswADg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+      "published_at": "2026-06-08T23:18:07Z"
+    },
+    {
+      "id": "4345c9ef-1c7b-3561-b54c-2ebee1fde499",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Patterson-UTI, ProPetro, and Cactus Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after Israel and Iran launched direct strikes against each other over the weekend, the most significant test of the fragile ceasefire since April, pushing Brent crude briefly above $98 a barrel.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/patterson-uti-propetro-cactus-shares-231750154.html",
+      "thumbnail": "",
+      "published_at": "2026-06-08T23:17:50Z"
+    },
+    {
+      "id": "9745f5d2-20ea-3846-9d59-ecd5d15e55b5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Institutional Conviction Remains Strong Despite Bitcoin Downturn, According to Coinbase Executive",
+      "summary": "Bitcoin (CRYPTO: $BTC) has been struggling this year but its recent drop, including a brief dip below $60,000, hasn...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/institutional-conviction-remains-strong-despite-bitcoin-downturn-according-to-coinbase-executive-5812",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/snA_izVs4elYofhmXlfVmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/a0c36019d938c7192c77777b6ff15b46",
+      "published_at": "2026-06-08T23:13:00Z"
+    },
+    {
+      "id": "a5fb9d26-31d2-37d3-ab9d-9cfe82c0c436",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Trading Day: Recovery, but on mute",
+      "summary": "By Jamie McGeever ORLANDO, Florida, June 8 (Reuters) - The S&P 500 and Nasdaq rebounded on Monday from Friday's tech-led rout, on news of an Israel-Iran detente and as investors bought back cheapened",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-recovery-mute-210153230.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KWD8aaeKZaU3MFKTBEMpnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/aa616c4005216fd69a832ecf3301b9c5",
+      "published_at": "2026-06-08T23:12:39Z"
+    },
+    {
+      "id": "f9b879e8-b54e-3af2-a9b7-6743f06c9bce",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Weatherford, ProFrac, and Helmerich & Payne Shares Skyrocket, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after Israel and Iran launched direct strikes against each other over the weekend, the most significant test of the fragile ceasefire since April, pushing Brent crude briefly above $98 a barrel.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-profrac-helmerich-payne-shares-230950665.html",
+      "thumbnail": "",
+      "published_at": "2026-06-08T23:09:50Z"
+    },
+    {
+      "id": "99e45f2d-a39d-31dc-b1c0-11fd371bf560",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "The oil market's fate isn't in OPEC's hands anymore",
+      "summary": "The most powerful player in any market is the one who can set the price and make everyone else live with it. For half a century, one group did exactly that with oil. When it held barrels back, prices climbed. When it opened the taps, prices eased, and the rest of the world arranged its plans around ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/markets/the-oil-markets-fate-isnt-in-opecs-hands-anymore",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bgv6uG2ZvlIpEpUov.D9aw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1facf6f2abb2c6500dac0274a9132bd1",
+      "published_at": "2026-06-08T23:00:00Z"
+    },
+    {
+      "id": "b26dae78-05fd-3d20-8917-055468e24ab0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why VOO Makes More Sense as a 20-Year Hold Than a 2-Year Trade, Even at Today's Valuations",
+      "summary": "The stock market is trading at historically expensive levels. That doesn't mean long-term investors should shy away from the S&P 500.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/08/why-voo-makes-more-sense-20-year-hold-than-trade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Cxx5l94YsF1xcQdwDgc.PQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/516bd8f3bd488c4a255d3520539749e6",
+      "published_at": "2026-06-08T22:55:00Z"
+    },
+    {
+      "id": "1cead1f3-222b-37ca-a929-ab66da066d66",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Motorcar Parts of America Surged Nearly 35% Higher Today",
+      "summary": "It blew past analyst estimates in its final quarter of fiscal 2026.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/08/why-motorcar-parts-of-america-surged-nearly-35-hig/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fSRV9bnmgugLa9sn00Vsgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5eee8e7d9add2913b4258efa2ee48357",
+      "published_at": "2026-06-08T22:52:10Z"
+    },
+    {
+      "id": "74d8b1d0-f93f-35d4-90b4-470ca8113909",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Analyst reveals a surprising winner in the AI race",
+      "summary": "Bitcoin miners are emerging as an important part of the artificial intelligence buildout, according to a new research note from Bernstein analyst Gautam Chhugani. The firm initiated coverage of two mining companies, TeraWulf and Cipher Digital, with \"Outperform\" ratings, calling them \"the power ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-reveals-a-surprising-winner-in-the-ai-race",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AwsxUfCJSBMqpjz1.cRv.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/66a3cd86f5f66c31ab74d14b99bb9064",
+      "published_at": "2026-06-08T22:50:00Z"
+    },
+    {
+      "id": "24669149-c635-45bb-bcf7-af24878cc58f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple pitches a more personal, easier-to-use AI",
+      "summary": "Apple's pitch for AI is about being personal and easy to use.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/article/apple-pitches-a-more-personal-easier-to-use-ai-224739067.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/orAjKCvgnpmYL4RdCvx7CA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/cb491076-f767-477a-b327-385b24618061",
+      "published_at": "2026-06-08T22:47:39Z"
+    },
+    {
+      "id": "db52791d-4b02-3a2d-81b4-be49e23abbd6",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Coinbase (COIN) Stock Is Trading Up Today",
+      "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) jumped 5.8% in the morning session after the cryptocurrency market rebounded, with Bitcoin reclaiming the $63,000 level.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-coinbase-coin-stock-trading-224550616.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jzeVwqgwYHxY2hnBsrAnuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/0853feacc1714816055c5fd627257ffb",
+      "published_at": "2026-06-08T22:45:50Z"
+    },
+    {
+      "id": "cd476580-bec6-3c8e-a677-6d1f14390fef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: The Trump Bull Market Will Soon End -- But These 2 Stocks Will Keep Winning Anyway",
+      "summary": "These stocks may deliver gains during any market environment.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/08/prediction-the-trump-bull-market-will-soon-end-but/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JWJOT2SrbQ3jG0zmX9QFhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e162d1165306c615437ffd5f3c9e3ef6",
+      "published_at": "2026-06-08T22:35:00Z"
+    },
+    {
+      "id": "345eba02-24cc-375e-9942-89a5aafe311f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Qualcomm shares rise 2% after Nvidia CEO endorses the stock",
+      "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares climbed 2% in after-hours trading on Monday following comments from NVIDIA (NASDAQ:NVDA) CEO Jensen Huang recommending investors purchase the chipmaker's stock.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-shares-rise-2-nvidia-223318024.html",
+      "thumbnail": "",
+      "published_at": "2026-06-08T22:33:18Z"
     },
     {
       "id": "30fc39b2-9562-370a-aedf-acce3aa24e32",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
       "summary": "Dow Jones Futures: President Trump and Iran's comments sparked a tech rebound Monday. Micron, Nvidia and Sandisk were big winners.",
       "source": "Investor's Business Daily",
@@ -26,25 +191,36 @@
       "published_at": "2026-06-08T22:09:54Z"
     },
     {
-      "id": "8c44bb16-8fe7-30a8-8820-90ae94333b64",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Unstoppable Quantum Computing Stocks to Buy Now",
-      "summary": "Quantum computing is becoming closer to reality.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/08/3-unstoppable-quantum-computing-stocks-to-buy-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M3.HcKSeLhZGX_Npx_WtAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e7504862e98e38d012329e5e75b986d4",
-      "published_at": "2026-06-08T22:05:00Z"
+      "id": "6a006277-7ff5-33f9-b8fb-f5378ec8c8ef",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "'Saylor Better Lawyer Up Fast,' Peter Schiff Says: Retirees 'May Have to Come Out of Retirement'",
+      "summary": "Peter Schiff fired at Strategy Inc. on Friday, warning that retirees who put savings into STRC have already lost over 7% as the preferred stock trades at $92.62, well below its $100 par value target. STRC Broke Its 10-Month Rising...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/saylor-better-lawyer-fast-peter-220107897.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w73O6Cq_uc9Hbn8A3R3kUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/42b35e5af5d3ae38102f0b930ac904cf",
+      "published_at": "2026-06-08T22:01:07Z"
     },
     {
-      "id": "97eff985-80a0-48eb-9959-7bf6c7583e12",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Steve Jobs built Apple and Tim Cook 'expanded' it",
-      "summary": "Apple (AAPL) CEO Tim Cook took the stage on Monday at what will be his final Worldwide Developers Conference (WWDC) keynote speech as chief executive; Cook will be stepping down this September to take on a new role as executive chairman. Geoffrey Cain — the author of \"Steve Jobs in Exile\" — sits down with Josh Lipton to compare the leadership and achievements of Jobs and Cook.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/steve-jobs-built-apple-tim-220000607.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zDvBO8zJFmsL0xEiA5r4Kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ab831fa4-c8b4-4e01-81c9-fe3a6b374e6a_7d47f44928fb07ca9f7244008f21c40f111e0919bb903dedd668bf1552880f2d.jpg",
+      "id": "ee911e26-eb53-30c9-bbd5-54a0a2ba99b9",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "3 Stocks to Watch as Trump Floats Giving Americans a Stake in AI",
+      "summary": "Trump wants Americans to own a piece of the AI boom. Here are three AI stocks to watch as money flow and options data split on who wins.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/us-stocks-to-watch-trump-ai-stake/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ko_Ceyo2i_E4z5.JF.s6IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8336b0f9e2425da46bd7f03e6db0712e",
+      "published_at": "2026-06-08T22:00:00Z"
+    },
+    {
+      "id": "3c8a1ba8-4902-3480-8aff-d3c5a5daff34",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Global Economy Is One Oil Price Spike Away From Trouble",
+      "summary": "Markets may be underestimating the risk, with traders betting on a Hormuz reopening even as physical oil stocks approach critically low levels and tanker traffic remains disrupted.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/global-economy-one-oil-price-220000920.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6lvNnSCG4pE2eRXOA_fKVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/f0880be07f9677ac8e580684ac487757",
       "published_at": "2026-06-08T22:00:00Z"
     },
     {
@@ -57,50 +233,6 @@
       "url": "https://www.thestreet.com/crypto/markets/exclusive-cathie-woods-ark-invest-reveals-the-cost-of-mega-ipos",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0K_arS1b2JjIAzlWKGS4EQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1a2b31df4e20598f78a72418769d3ba6",
       "published_at": "2026-06-08T21:56:40Z"
-    },
-    {
-      "id": "b2411421-0414-30c6-a5f9-7d52a56058a7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Account Minimums Are Being Lowered to Participate in the SpaceX IPO. Is This a Win or a Trap for Retail Investors?",
-      "summary": "Fidelity just lowered the minimum account balance to participate in the SpaceX IPO to $2,000.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/08/account-minimums-are-being-lowered-to-participate/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qwfYg2e7TJHwgmPli4uVUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ca7b192c6a664056de157fc5aaa593ee",
-      "published_at": "2026-06-08T21:50:00Z"
-    },
-    {
-      "id": "0e9f2138-5235-365c-9df7-a18aa88bd2ee",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "OpenAI Just Filed for an IPO Because Everybody Else Already Did",
-      "summary": "SpaceX is already on its roadshow, Anthropic is going public, and now Sam Altman has entered the chat",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/news/news-openai-just-filed-for-an-ipo-because-everybody-else-already-did?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uVfFndAyiz.cm2QqhGpRLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/f323a104424e2dcc47a46cb0ac6591c1",
-      "published_at": "2026-06-08T21:44:53Z"
-    },
-    {
-      "id": "291e6c5a-9001-3fe8-9c55-88bad9fba33f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Lilly Just Announced 3 Infectious Disease Acquisitions in 1 Day. Is This the Beginning of Its Post-Obesity Growth Strategy?",
-      "summary": "Infectious disease could fuel Eli Lilly's next growth phase.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/08/lilly-announced-3-infectious-disease-acquisitions/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Svy_STN5yBefeA8_LnCBBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7199ac300f70579cadedd6cb991b3293",
-      "published_at": "2026-06-08T21:43:00Z"
-    },
-    {
-      "id": "2cc8b529-ce0a-3c0c-a6fb-e7b5e090f687",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",
-      "summary": "There could be a catalyst around the corner that sends the stock higher.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/08/after-skyrocketing-340-in-just-12-months-is-marvel/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CZyDWMYAs3wbELv2gJKHWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/93ecb50f259b7bffe4521a163c10d605",
-      "published_at": "2026-06-08T21:35:00Z"
     },
     {
       "id": "a72dec39-8856-3cc6-81a2-ab206b0b9cfd",
@@ -147,6 +279,17 @@
       "published_at": "2026-06-08T21:20:40Z"
     },
     {
+      "id": "8ac0637e-0ef2-3247-8690-ae92b22736a8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Iran War Upends the Global Oil Industry: Kiplinger Special Report",
+      "summary": "Even after the war ends, oil producers and importers will be racing to lessen their reliance on oil shipments through the Persian Gulf.",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/business/iran-war-upends-the-global-oil-industry-kiplinger-special-report",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eU6odst8kHV3OSW3tGrOlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/c67d734ad972c3757559575cbae26dc5",
+      "published_at": "2026-06-08T21:15:00Z"
+    },
+    {
       "id": "20d4dc14-9226-3f9b-aa1c-345b5595c05f",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -167,149 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-amid-210530538.html",
       "thumbnail": "",
       "published_at": "2026-06-08T21:05:30Z"
-    },
-    {
-      "id": "10299ca5-e0de-39e3-af90-f208222d1bdf",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks bounce back, oil pares gains as Iran and Israel signal a pause",
-      "summary": "By Sinéad Carew and Samuel Indyk NEW YORK/LONDON, June 8 (Reuters) - MSCI's global equities index fell slightly on Monday but Wall Street saw some support from a bounce in technology stocks while oil",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-brace-selling-tech-234406406.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qB.W1j0yWXJniLRAeS.QyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6bd50e6f207cfc0027c99f70ec83a99e",
-      "published_at": "2026-06-08T21:03:19Z"
-    },
-    {
-      "id": "7a3c786d-2ae5-37b0-a0a7-d58706d694d0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Delivered AI Siri Today. Investors Yawned—and the Stock Fell.",
-      "summary": "Shares of Apple fell close to 2% Monday, sliding while broader markets rose, after the iPhone maker at its annual Worldwide Developers Conference revealed its highly awaited Siri AI along with a slew of other features and its latest operating system",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/apple-delivered-ai-siri-today-investors-yawned-and-the-stock-fell-aapl-11993325",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q1a4Q9Sf1p9iyGi9KMTMIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/e69ee47792925599ea683074808230ce",
-      "published_at": "2026-06-08T21:02:51Z"
-    },
-    {
-      "id": "40cab280-6674-37d9-b9e3-87740589d9eb",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on Badger Infrastructure Solutions, airline fuel, oil futures and more in the latest Market Talks covering Energy and Utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-a358a0dd?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bMf2BwNlYSkvPvZfUbHjFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9cee3055653f78e05d9d745ae3992e27",
-      "published_at": "2026-06-08T21:00:00Z"
-    },
-    {
-      "id": "8891eb7e-fe09-38e6-9820-f67744e5aef0",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit",
-      "summary": "The Bored Ape Yacht Club creator now holds more than 60 rescued NFTs in its custody as it works to return them to their rightful owners.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/370445/bored-ape-maker-yuga-labs-rescues-ethereum-nfts-exploit",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vyFsUsQSwmRMQ0H1Ftt65A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/fe189303ab62b4c26fe9a6c18f988e44",
-      "published_at": "2026-06-08T20:54:45Z"
-    },
-    {
-      "id": "34a0ce12-e5d0-369b-99dd-2a53210f0376",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Stocks to Watch Recap: Marvell Technology, Apple, Broadcom, Strategy",
-      "summary": "↗️ Marvell Technology (MRVL): Shares jumped nearly 10% after S&P Dow Jones Indices said Friday that the chip maker would join the S&P 500 later this month. Flex (FLEX), an electronics manufacturing firm, will also join.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-08-2026/card/stocks-to-watch-marvell-technology-broadcom-strategy-TrCmO4Vya85LY4bC0hMM?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rTtvTbEjRn0Wo.9Wz26MZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ebf77435afb619c328ed8c2f3b9c10e8",
-      "published_at": "2026-06-08T20:53:39Z"
-    },
-    {
-      "id": "99e0d184-dc22-3493-865f-64eb9a23f7fa",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Could Bitcoin Help You Buy Your Next Home? Coinbase Thinks It's Possible.",
-      "summary": "Coinbase and Better Mortgage are offering crypto-backed mortgages.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/08/could-bitcoin-help-you-buy-your-next-home-coinbase/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KGi4btT4Z_vNO52uE57Jwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bf08b750225ddea4d8c71f434977624c",
-      "published_at": "2026-06-08T20:53:16Z"
-    },
-    {
-      "id": "35be229f-ead0-3dbc-8e02-e6dcb8c07c45",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple WWDC 2026: AAPL Stock Slips As Lack Of Launch Deadline For Siri AI Spooks Retail Investors",
-      "summary": "Gene Munster on X, formerly known as Twitter, said AAPL stock is falling because Apple hasn’t given any timeline on the new Siri features.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/apple-wwdc-2026-aapl-stock-slips-as-lack-of-launch-deadline-for-siri-ai-spooks-retail-investors/cZ0vKIBR7GC",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2IKsUevV.szRDItBWZszUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/dd56ada8845ec3cdffc75cec88fe1e8d",
-      "published_at": "2026-06-08T20:53:16Z"
-    },
-    {
-      "id": "a11a01bc-0095-3b34-8738-48f46ad26552",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Tech stock rebound drives Wall Street gains, oil pares rise after fresh strikes",
-      "summary": "Tech stocks drove global equity markets on Monday, with steep selling last week having a knock-on effect in Asia but attracting US investors to buy the dip, while oil prices rose moderately after Iran and Israel exchanged strikes against one another despite a purported ceasefire.The Israeli-Iran strikes were the first since a shaky ceasefire in April put five weeks of war on hold.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seoul-leads-steep-asian-losses-022519941.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ICjBMOafH0sDPF_K33rY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/70c2c4eb27d6a51d43ba7dab79721fc0",
-      "published_at": "2026-06-08T20:46:59Z"
-    },
-    {
-      "id": "efde5002-810a-3b65-a107-6b48a8a3ed74",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Want to Own the SpaceX IPO—But Not Buy the Stock? Here's What You Need to Know About Your Options.",
-      "summary": "There are various investment funds that hold pre-IPO shares of Elon Musk's rocket company; and plenty more will automatically buy the stock days after it goes public.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/some-investors-want-to-own-the-spacex-ipo-but-not-the-stock-here-s-what-you-need-to-know-about-your-options-spcx-11993273",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mMYmIUoVFLlOHPFZrnYUiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/8e07a80c735139ae70946e1d6c4ec0fd",
-      "published_at": "2026-06-08T20:45:08Z"
-    },
-    {
-      "id": "4666804e-2154-3599-9b27-c294f072946f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: Nasdaq Ends Higher In Recovery Move, Dow Dips; Apple Sinks On AI News",
-      "summary": "Stock Market Today: The Dow Jones index slips Monday, but the Nasdaq composite climbs. Tesla shows a hefty gain while Nvidia rises.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eElO_30Hq7k9yi7degqgmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e782351d28363e0a32c6fffae91f2471",
-      "published_at": "2026-06-08T20:42:46Z"
-    },
-    {
-      "id": "182014ac-2fce-3b48-936a-681b1f5a4d41",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "TSX Closure: The Index Gains As Energy, Financial Shares, Advance Ahead of the BoC's Rate Decision",
-      "summary": "The Toronto Stock Exchange closed higher on Monday, recovering some of Friday's 804-point drop as st",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-closure-index-gains-energy-203302324.html",
-      "thumbnail": "",
-      "published_at": "2026-06-08T20:33:02Z"
-    },
-    {
-      "id": "20759b37-accf-327e-9efc-969b13cb5764",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price Rebounds From 2-Month Low. SpaceX IPO Siphons Capital, Analyst Says.",
-      "summary": "Bitcoin price rebounds modestly after falling to a two-month low. ETF outflows persist as SpaceX IPO amasses liquidity. Crypto stocks rise.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/bitcoin-price-rebound-liquidations-etf-flows-spacex-ipo-capital/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.jTFlP2N0bl.OjXvUtcXxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/20b1f6fa22278dc6d25ccbaedfff2e11",
-      "published_at": "2026-06-08T20:30:13Z"
-    },
-    {
-      "id": "ceb00b9c-94e6-3862-9a78-c9216d9ece0c",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Micron, Intel, Tesla, Apple, Lilly, and More Stocks That Explain Today’s Market",
-      "summary": "The brutal AI selloff that rocked the market on Friday may end up being short-lived, judging by how chip makers are trading Monday.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-movers-1c1ec825?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3qCezTa9zVJEs3ZD2smgBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8f1e35f8dc25c56d902a2bfcde186995",
-      "published_at": "2026-06-08T20:26:00Z"
     }
   ]
 }
