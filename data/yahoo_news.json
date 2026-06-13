@@ -1,40 +1,194 @@
 {
-  "last_updated": "2026-06-13 17:52 UTC",
+  "last_updated": "2026-06-13 19:20 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "30ed6aff-41b2-362b-897a-d6e25cb78596",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Costco vs. Walmart vs. Amazon: Which Stock Is the Smartest Buy in 2026?",
-      "summary": "If you can only pick one, here's how you decide between Costco, Walmart, and Amazon.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/costco-vs-walmart-vs-amazon-which-stock-is-the-sma/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UqDQALY.c5Enax9Lae613A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c485540336d1469eda263eee1d77c6a0",
-      "published_at": "2026-06-13T17:35:00Z"
+      "id": "41879e00-88f3-34d4-8429-39e5c21c3e38",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures: The Next Test For Market — And SpaceX; Five Stocks In Buy Areas",
+      "summary": "President Trump says an Iran deal will \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-week-5-stocks-buy-areas-spacex-next-test/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TfmLbq.FsSGsH7IeWTLPZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/553a55a5438576064cccd15ab67dbdc4",
+      "published_at": "2026-06-13T19:05:43Z"
     },
     {
-      "id": "1c9669f3-de8a-3c83-8f32-dc2f26d5a6d6",
+      "id": "53ef6448-8767-328b-b034-5e80b8700f02",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Space Stocks Got Crushed on SpaceX's Big Day. Is the Sell-Off a Warning or a Buying Opportunity?",
-      "summary": "While the market's biggest space company soared in its debut, a basket of smaller players went the other way. The split is worth understanding.",
+      "title": "The Danger of Diversifying Without Really Diversifying",
+      "summary": "There is such a thing as too much of a good thing.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/space-stocks-got-crushed-on-spacexs-big-day-is-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oMcke3dyPzseocj5N9ievA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/458614f0648acce5c35e03cf3e666a07",
-      "published_at": "2026-06-13T17:26:00Z"
+      "url": "https://www.fool.com/investing/2026/06/13/danger-of-diversifying-without-really-diversifying/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S8BNvHUUhbA78kUeZPgz0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e3d12a2f61515b47ed77781fdfc6583e",
+      "published_at": "2026-06-13T18:43:00Z"
     },
     {
-      "id": "a4a5afcf-8d4d-343d-8255-bdc86a25c9bb",
+      "id": "1ca37e0b-4351-3c17-8958-8a5fbf61f121",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "IREN Secures $3.65B GPU Financing Facility for Microsoft AI Cloud Expansion",
+      "summary": "IREN Limited (NASDAQ:IREN) is one of the best young stocks with the highest upside potential. On June 1, IREN announced that it has closed a $3.65 billion investment-grade GPU financing facility to support the delivery of its AI cloud contract with Microsoft. The financing is designed to fund large-scale GPU capital expenditures tied to the […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/iren-secures-3-65b-gpu-183830231.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ogwhzTe727zn2bZIvl079w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/cb919d527284686eb8de911c12958126",
+      "published_at": "2026-06-13T18:38:30Z"
+    },
+    {
+      "id": "40a12931-a55c-33f9-b2d0-9bbca664f137",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Planet Labs Stock Plunged Following Its Recent Earnings Call. Should Investors Buy the Dip?",
-      "summary": "The space stock has surged 474% in the past year, but dilution fears have triggered the recent sell-off.",
+      "title": "CoreWeave (CRWV) Deploys NVIDIA (NVDA) Vera Rubin NVL72, First to Validate at Rack Scale",
+      "summary": "CoreWeave Inc. (NASDAQ:CRWV) is one of the best young stocks with the highest upside potential. On June 1, CoreWeave announced it had completed the industry-first bring-up and full validation of NVIDIA Vera Rubin NVL72 on its cloud platform. This makes CoreWeave the first AI cloud provider to deploy and operationalize the system at rack scale, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-deploys-nvidia-nvda-183752004.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FJHuYeo4_oQRy50obQU_vQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1d848c92e75e178d78677c8e74e71ff5",
+      "published_at": "2026-06-13T18:37:52Z"
+    },
+    {
+      "id": "f02e8207-a327-34c9-9d05-9002a74cea07",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Pipeline Stock Face-Off: Is Enbridge or Oneok the Better Buy Right Now?",
+      "summary": "These two top pipeline stocks go head-to-head.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/planet-labs-stock-plunged-following-earnings-call/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y3NkDwSmoNdm461cPBT98w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5c53db468988295834aec55aa651b6e",
-      "published_at": "2026-06-13T17:20:00Z"
+      "url": "https://www.fool.com/investing/2026/06/13/stock-stock-face-off-is-stock-a-or-stock-b-the-bet/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Pp7PTxG7XahrQAqPIQToFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/39f61e3f7e41fe863a79299375e96614",
+      "published_at": "2026-06-13T18:35:00Z"
+    },
+    {
+      "id": "0267ca05-fd04-31b2-919e-2b091ef023f5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Could Be the Easiest Way to Save for Retirement Despite Inflation",
+      "summary": "Even if money is tight, this strategy could be a game-changer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/06/13/this-could-be-the-easiest-way-to-save-for-retireme/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PiSiUHN1xLcGD0gqKyzBPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/86abb88e5dd2d7ec97836328e7ca8fae",
+      "published_at": "2026-06-13T18:26:00Z"
+    },
+    {
+      "id": "6c53b91b-d39c-3259-8e3d-184a3c3652a8",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Former Tesla board member issues candid message on SpaceX stock",
+      "summary": "Venture capitalist Steve Westly says SpaceX is \"three moonshots in one company\" and the math only works if most of them pay off. On June 12, SpaceX (SPCX) just pulled off the biggest initial public offering in stock market history. The company raised $75 billion, priced shares at $135 each, ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-stock-justify-2-billion-valuation",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qYFHaDaOgmgY1xTUoi1MtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1cc4e6794866660f3304d961732847b9",
+      "published_at": "2026-06-13T18:17:00Z"
+    },
+    {
+      "id": "97131a21-c13e-3ddd-a80a-0b45ea0c2946",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Prediction: Bitcoin Will Hit $100,000 By the End of 2026",
+      "summary": "Things may look bleak now for Bitcoin investors, but just wait six months.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/13/prediction-bitcoin-will-be-worth-100000-in-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5hWF51zFYeb8DJkWTDJmBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c584f81aebc6a0c92a2789fef1b1659b",
+      "published_at": "2026-06-13T18:11:00Z"
+    },
+    {
+      "id": "2708c16f-c01b-3f05-b7fe-d0d3ddf2cb05",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Core Scientific Board Shift And Texas AI Build Reframe Growth Story",
+      "summary": "Core Scientific (NasdaqGS:CORZ) has appointed Steve Smith, CEO of Zayo Group, to its board of directors. The company is repurposing its Pecos, Texas site into a large AI focused data center campus. These steps represent a shift in focus from pure bitcoin mining toward broader digital infrastructure and AI compute. For investors watching Core Scientific at a share price of $27.6, these moves come after a period in which the stock has risen 6.8% over the past week, 15.0% over the past month,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-board-shift-texas-180956909.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cpqTWRJR8e941YTCQ9uiCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f7f8b4185e66ce4ecc9786e684bcd048",
+      "published_at": "2026-06-13T18:09:56Z"
+    },
+    {
+      "id": "f472d011-da25-3efa-865f-cfddd8319bbe",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Caledonia Mining Corporation Plc (CMCL) Reports Q1 2026 Results",
+      "summary": "Caledonia Mining Corporation Plc (NYSEAMERICAN:CMCL) is one of the Most Profitable Stocks. On May 11, Caledonia Mining Corporation Plc (NYSEAMERICAN:CMCL) reported Q1 revenue of $66.43 million with a 18.3% growth YoY. EBITDA climbed by 50.2% to $33.87 million as higher gold prices offset lower production. The company said profit after tax rose 69.4% to $18.91 million, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caledonia-mining-corporation-plc-cmcl-180942794.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8RcwFwAUR5srW2tCzVVKxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e65d9dddacd5c90c8d0e7ebd184a11e2",
+      "published_at": "2026-06-13T18:09:42Z"
+    },
+    {
+      "id": "c5128053-daec-3cae-9f9c-cc79e0969c18",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Caledonia Mining (CMCL) Stock After Recent Pullback Is The Valuation Gap Widening?",
+      "summary": "If you are wondering whether Caledonia Mining at around US$20.18 is a bargain or a value trap, it helps to start with how the current price lines up against a range of valuation checks. The stock has risen 1.2% over the last week, but is down 18.5% over the last 30 days and down 23.4% year to date, while still showing a 6.1% return over 1 year, 67.4% over 3 years and 104.1% over 5 years. This can change how the market is thinking about both upside potential and risk. Recent coverage of...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caledonia-mining-cmcl-stock-recent-180840092.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
+      "published_at": "2026-06-13T18:08:40Z"
+    },
+    {
+      "id": "8fb53334-f882-34ac-a993-1154fdc9fe3a",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
+      "summary": "A friend forwards you a screenshot of an ETF chart with a number on it, and the number is 103%. That is what Sprott Critical Materials ETF (NASDAQ:SETM) has done over the past year, closing June 8, 2026 at $32.72 after starting the prior June around $16.10. The SPDR S&P 500 ETF Trust (NYSEARCA:SPY), the ... SETM Is Up 27% YTD and 150% Over a Year. The S&P 500? Not Even Close.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/13/setm-is-up-27-ytd-and-150-over-a-year-the-sp-500-not-even-close/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9sdbAQZfVuaZCIr10SrGjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/41e35f4c211a573461130138780b95e2",
+      "published_at": "2026-06-13T18:00:28Z"
+    },
+    {
+      "id": "2e0ea40a-802c-38f9-b2e7-c67384ae9b26",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Truist Reiterates “Buy” Rating On Meta Platforms (META) With $840 PT",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) carries a profit margin of 39.36% and net income of $60.46 billion (FY25), securing its place on our list of the most profitable blue chip stocks to buy according to hedge funds, with analysts seeing 41.10% upside for the stock. That profitability is supported by a business that continues to grow […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-reiterates-buy-rating-meta-175950721.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W6ZyKzbifHoEQS0to_OAQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6d9b9f21ed7756c0d2bf7940076538b9",
+      "published_at": "2026-06-13T17:59:50Z"
+    },
+    {
+      "id": "a31fc621-6407-33da-94d4-0a8c9ebd55d7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA Corporation (NVDA) Partners With South Korea’s LG Group On Humanoid Robots And Data Centers",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) carries a profit margin of 62.97% and net income of $120.07 billion (FY26), securing its place on our list of the most profitable blue chip stocks to buy according to hedge funds, with analysts seeing 36.90% upside for the stock. That profitability is now backing an expanding footprint beyond chips and data […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-partners-south-175948056.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GuKFyaQ4aU9qsGktH9ytkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6629cda35d240dc9f1a9552f313ca8c8",
+      "published_at": "2026-06-13T17:59:48Z"
+    },
+    {
+      "id": "c6af5b2e-b91c-3fca-a8d6-17b65fa5b03d",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft (MSFT)’s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
+      "summary": "With a profit margin of 39.34% and net income of $101.83 billion (FY25), Microsoft Corporation (NASDAQ:MSFT) ranks among the most profitable blue chip stocks to buy according to hedge funds. Meanwhile, analysts see 38.20% upside for the stock. That standing is well-supported by results, and Microsoft Corporation (NASDAQ:MSFT) is actively broadening its revenue base beyond […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-linkedin-launches-brandworks-175942732.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KL5tBcF.vXBaFlfFn4TdYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/80edf045ce67b6028d3b3d7ae6f95b0f",
+      "published_at": "2026-06-13T17:59:42Z"
+    },
+    {
+      "id": "df4a453d-bed6-3013-ab79-6a26283366e3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nu Holdings Is Quietly Building a Banking Empire in Latin America",
+      "summary": "With more than 135 million customers, this thriving fintech enterprise is still rapidly expanding.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/13/nu-holdings-building-banking-empire-latin-america/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KIyE_bUtefuv9ew2FOlyVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fafebef602bbbce3d627dc595118abce",
+      "published_at": "2026-06-13T17:50:00Z"
+    },
+    {
+      "id": "79f86118-c488-3695-baae-83e05eb32f97",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin ETFs Post Biggest Inflow In 4 Weeks on SpaceX IPO Day",
+      "summary": "Bitcoin spot ETFs drew $85.85M on June 12, the biggest daily inflow since mid-May, as SpaceX made its Nasdaq debut.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-etf-inflow-spacex-ipo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rJvLvkbkJY_p3Kr3.4jktg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b",
+      "published_at": "2026-06-13T17:17:19Z"
     },
     {
       "id": "ebbc18a7-30de-3b05-b74b-1df7e683eb8d",
@@ -48,28 +202,6 @@
       "published_at": "2026-06-13T17:13:08Z"
     },
     {
-      "id": "f325f6cb-3c0d-3c5d-a376-ea5a2a018c67",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "A Once-in-a-Decade Opportunity: 3 of the Best Stocks to Buy in June",
-      "summary": "These three steady-Eddie stocks have been left behind by the market -- and now its time to buy them while they trade at once-in-a-decade valuations.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/a-once-in-a-decade-opportunity-3-of-the-best-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_rxqDCK0AswTU9swfJLjdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9fcdec701df61489583b50d1e1b05004",
-      "published_at": "2026-06-13T17:05:00Z"
-    },
-    {
-      "id": "4a033451-9d73-37af-a4a9-c473db09b91c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Broadcom Inc. (AVGO) A Good Stock To Buy Now?",
-      "summary": "Is AVGO a good stock to buy? We came across a bullish thesis on Broadcom Inc. on Beyond the Noise’s Substack by Cristobal Botanch. In this article, we will summarize the bulls’ thesis on AVGO. Broadcom Inc.’s share was trading at $396.60 as of June 8th. AVGO’s trailing and forward P/E were 64.18 and 33.90 respectively according […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-good-stock-165748458.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bGVz5hCprY0gLLlB4j_ufA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/67f9cd6f73fae86b88a971abe9c6654a",
-      "published_at": "2026-06-13T16:57:48Z"
-    },
-    {
       "id": "82649212-6dcb-3526-a6d6-c36195f8ca56",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -79,39 +211,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-good-stock-165557909.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rEU6V7WDw6xANlm42Yx_Yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c17be7f49a6e436bb492a2b71308ec75",
       "published_at": "2026-06-13T16:55:57Z"
-    },
-    {
-      "id": "50d0c3ee-0f0b-38e6-b4ef-da922f88bbc5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Plug Power Is Undergoing a Massive Transformation: Here Are 3 Things Investors Need to Know",
-      "summary": "After racking up an accumulated deficit of $8.2 billion, Plug Power is looking to revitalize its business to achieve profitability.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/plug-power-is-undergoing-a-massive-transformation/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tqfxMGbIOm._SAKXZvTnBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/678d6b6ab985bbc5d30c6d9a5552a485",
-      "published_at": "2026-06-13T16:35:00Z"
-    },
-    {
-      "id": "8524ef11-4cfc-3183-90a2-1894362f0d0b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Can SoundHound Stock Reach $20 Again? Here's the Answer.",
-      "summary": "The SoundHound stock price won't rebound overnight.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/can-soundhound-stock-reach-20-again-heres-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m2TDz3sZd4Leb5XRhmtVVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5f005b1f128554f7e6902f41c4ba4e6",
-      "published_at": "2026-06-13T16:20:00Z"
-    },
-    {
-      "id": "662cd076-af23-33db-8b9d-837e65bfa681",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Investor Beware: These ETF Mistakes Could Cost You Thousands",
-      "summary": "As attractive as ETFs are, it's possible to lose out by making simple mistakes.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/investor-beware-these-etf-mistakes-could-cost-you/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Cs5MVhWaVVk5TWr0CXBxdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3d39add57c840793c22d2f1e62959ccc",
-      "published_at": "2026-06-13T16:05:00Z"
     },
     {
       "id": "91567df7-b710-3e6c-9973-23cacb64c7a0",
@@ -202,17 +301,6 @@
       "published_at": "2026-06-13T15:30:58Z"
     },
     {
-      "id": "41879e00-88f3-34d4-8429-39e5c21c3e38",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: The Next Test For Market — And SpaceX; Five Stocks In Buy Areas",
-      "summary": "The stock market had a wild but winning week. Comfort Systems and Viavi lead stocks making bullish rebounds. The SpaceX IPO took off.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-week-5-stocks-buy-areas-spacex-next-test/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N9afVIkht7lu0Fc5nXPuzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/573638b65ab0da6a9ef96790e629731a",
-      "published_at": "2026-06-13T15:30:53Z"
-    },
-    {
       "id": "d06aeb26-91e1-3940-8138-aa75d4ef3209",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -222,94 +310,6 @@
       "url": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-ipo-elon-musk-tesla/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OlP4cjkLJzzlK1QmB66cWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/325a8766791a258753f13bf38157201f",
       "published_at": "2026-06-13T15:20:42Z"
-    },
-    {
-      "id": "2729cce8-9d0e-39e4-8664-4ebbc474140b",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "SpaceX's Nasdaq Debut Puts Bitcoin On 25% Of 'Mag8' Balance Sheets, Strategy’s Michael Saylor Says",
-      "summary": "FTSE Russell confirmed SpaceX will join the Russell 1000 and Russell Top 200 on June 26, with MSCI adding it to its standard and large-cap indexes on June 29.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/saylor-spacex-mag8-bitcoin/cZKII4kR75H",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K4_J3iqePD9Gi6N8nO4T1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/42b62403e6baec5ced8bf0e0ba131e24",
-      "published_at": "2026-06-13T14:48:11Z"
-    },
-    {
-      "id": "a47bd8c4-9bb8-387a-8044-2b47d0708025",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.",
-      "summary": "A brutal week for AI's biggest spenders is recasting the iPhone maker's restraint as a strength.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/13/apple-is-mostly-sitting-out-the-ai-spending-arms-r/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UL_Z2u6i_AnltkkatEwNqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/63c2b663895a01d890d8c86423e87329",
-      "published_at": "2026-06-13T14:27:00Z"
-    },
-    {
-      "id": "7802070c-2dab-3726-b85f-9169c28a8de5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "US-Iran Peace Deal Expected in 24-Hours: Will Bitcoin Price Recover?",
-      "summary": "Bitcoin rose toward $64,000 after Pakistan said a US-Iran peace deal could be finalized within 24 hours, but key resistance remains.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/us-iran-peace-deal-final-stage-bitcoin-recovery/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ko_Ceyo2i_E4z5.JF.s6IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8336b0f9e2425da46bd7f03e6db0712e",
-      "published_at": "2026-06-13T14:26:12Z"
-    },
-    {
-      "id": "26793788-735c-3124-ab3f-8dfe0aec8ea3",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Lundin Gold (TSX:LUG) Stock After Recent Pullback Is A 31% Undervaluation Story Taking Shape?",
-      "summary": "Lundin Gold stock after recent performance Lundin Gold (TSX:LUG) has drawn attention after the stock declined about 20% over the past month and roughly 26% over the past 3 months, even as the business reports ongoing revenue and net income. See our latest analysis for Lundin Gold. At around CA$76.81 per share, Lundin Gold’s recent drop, including a 31% share price decline year to date, contrasts with a strong one year total shareholder return of 16% and very large multi year gains. This...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lundin-gold-tsx-lug-stock-141117647.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L_JYKq_L1tuqPSvUG2qJmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5",
-      "published_at": "2026-06-13T14:11:17Z"
-    },
-    {
-      "id": "c0d7c718-107e-3993-a4a5-1c5ec8f1c1c5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Jim Cramer Returns To ConocoPhillips (COP) As Oil Prices Touch $96",
-      "summary": "We recently published Jim Cramer Didn’t Hold Back On SpaceX’s IPO & Discussed These 12 Stocks. ConocoPhillips (NYSE:COP) is one of the stocks discussed by Jim Cramer. ConocoPhillips (NYSE:COP) is an oil and gas exploration and production company. The shares are up by 32% over the past year and 24% year-to-date. Mizuho discussed ConocoPhillips (NYSE:COP) […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/jim-cramer-returns-conocophillips-cop-140706706.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_Ot0Ky5Zpy2xs.sV37I5.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7b600ca62378ed9ebad63947f5b3c7a0",
-      "published_at": "2026-06-13T14:07:06Z"
-    },
-    {
-      "id": "95ab553b-2c40-3146-ac79-763d991ec23f",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Stock Market Week Ahead: Keep An Eye On The Little Things",
-      "summary": "The past week's stock market saw the S&P 500 and the Nasdaq composite test, then bounce off support at their 50-day moving averages. The S&P 500 then rose, on Friday, to briefly test resistance at its 21-day exponential moving average. The Nasdaq did not rise to this level. The Nasdaq 100, however, as tracked by the Invesco QQQ Trust Series...",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-keep-an-eye-on-the-little-things/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LZXUhtsDewCMa71PjUgi8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/705414163767d04acbeb2f369a2ab470",
-      "published_at": "2026-06-13T13:55:41Z"
-    },
-    {
-      "id": "c1f8031e-23f8-35ed-9966-09bb3ab57456",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Is Hut 8 Corp. (HUT) A Good Stock To Buy Now?",
-      "summary": "Is HUT a good stock to buy? We came across a bullish thesis on Hut 8 Corp. on The Mispricing Desk’s Substack. In this article, we will summarize the bulls’ thesis on HUT. Hut 8 Corp.’s share was trading at $119.60 as of June 8th. HUT’s trailing and forward P/E were 28.26 and 84.75 respectively according to […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-corp-hut-good-135403945.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NBSygtn_EBk71BPd.hXcsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6ff8ba1f4c43f3dbe9d9fe3ff9617868",
-      "published_at": "2026-06-13T13:54:03Z"
-    },
-    {
-      "id": "6b6c6a3f-329a-3c22-9c08-8fc0c18c932f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Harvard University Likes Meta (META) Stock Despite AI CapEx Fears",
-      "summary": "We just covered Harvard University Stock Portfolio 2026: Top 10 Picks. Meta Platforms (NASDAQ:META) ranks #8 (see Harvard University Stock Portfolio 2026: Top 5 Picks). Harvard’s Stake: $111,310,180 Meta Platforms (NASDAQ:META) is down about 12% so far this year, with CapEx-related fears being the primary drag on the stock despite Mark Zuckerberg’s assurances that these […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/harvard-university-likes-meta-meta-134104742.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CcVnpksIPcWt4RxEdSxmhw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d636804777e86306db796c6b7eec75a0",
-      "published_at": "2026-06-13T13:41:04Z"
     }
   ]
 }
