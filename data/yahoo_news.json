@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-06-14 21:50 UTC",
+  "last_updated": "2026-06-14 23:05 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "44c03548-70c7-47eb-87e2-1eeb79300bff",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US, Iran agree to ceasefire, sending stock futures higher, oil lower",
+      "summary": "Washington and Tehran signal they've signed a deal to end the war in Iran.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/article/us-iran-agree-to-ceasefire-sending-stock-futures-higher-oil-lower-225858194.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mTAQHR14FLtBlHcHNneBjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0c5703d3-c443-4a79-b96e-54454ed771cb_c38db4db074d1a35fefada0a94180ca953e18e83cad5d3fd3dc63527b47856a9.jpg",
+      "published_at": "2026-06-14T22:58:58Z"
+    },
+    {
+      "id": "b485e60c-f906-3c9a-a4a9-a6cf1e9d534b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Shares jump, oil skids in Asia on news of Gulf deal",
+      "summary": "By Wayne Cole SYDNEY, June 15 (Reuters) - Share markets surged in Asia on Monday while the dollar slipped and oil prices slid as news the United States had agreed to a peace deal with Iran boosted",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/articles/shares-jump-oil-skids-asia-225712362.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qi9KU3VQXX4jqyyOAXoEBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d3ad54b5ded820d15642114b8f2e10da",
+      "published_at": "2026-06-14T22:57:12Z"
+    },
+    {
+      "id": "41879e00-88f3-34d4-8429-39e5c21c3e38",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test",
+      "summary": "Futures rose and oil dived as President Trump announced an Iran deal. The stock market still must do this. What's next for SpaceX?",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TfmLbq.FsSGsH7IeWTLPZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/553a55a5438576064cccd15ab67dbdc4",
+      "published_at": "2026-06-14T22:53:28Z"
+    },
+    {
+      "id": "021d6aba-5853-319b-b6de-6ca3f089e2c5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Longtime SpaceX Investor Cathie Wood Made This Move on IPO Day. Should You Follow?",
+      "summary": "The Ark Venture Fund was an early investor in the space giant.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/14/longtime-spacex-investor-cathie-wood-made-this-mov/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.fQwqR5yu23dN0QNN0d8Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c21a684fa5d5127048e6c8cfd1f852fb",
+      "published_at": "2026-06-14T22:30:00Z"
+    },
+    {
+      "id": "a030d02f-4723-338f-9ad4-6641f8f280f0",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Donald Trump: Deal With Iran is Complete – Bitcoin, Gold and Oil React",
+      "summary": "Pakistani Prime Minister Shehbaz Sharif announced that the US and Iran have reached a peace agreement: Bitcoin, Gold and Oil React.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/us-iran-peace-deal-signed-bitcoin-gold-oil-react/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a95lBxg0XBDibhd7cPt9Lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/864a1763b228d6c2d2e715687be81cff",
+      "published_at": "2026-06-14T21:27:46Z"
+    },
     {
       "id": "a3778495-7cb6-3f8d-b089-8207662c9a3c",
       "asset": "NVDA",
@@ -35,17 +90,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-us-3-09-billion-211042030.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IGsiZuioDOVtnjnKzPh41Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/8825248dd2026431674a1820f2d9889e",
       "published_at": "2026-06-14T21:10:42Z"
-    },
-    {
-      "id": "41879e00-88f3-34d4-8429-39e5c21c3e38",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures Due With Iran Deal In Focus, SpaceX's Next Test",
-      "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TfmLbq.FsSGsH7IeWTLPZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/553a55a5438576064cccd15ab67dbdc4",
-      "published_at": "2026-06-14T21:08:37Z"
     },
     {
       "id": "5f15e273-87f8-3de6-9ed4-3cdb324200fc",
@@ -181,8 +225,8 @@
     },
     {
       "id": "15c2ccc3-b430-38ba-a65b-c1507393a08e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "The Better AI Cloud Stock: Microsoft or Amazon?",
       "summary": "Both are racing to turn enormous AI spending into cloud profits. But on growth and valuation, one looks like the more compelling buy today.",
       "source": "Motley Fool",
@@ -266,50 +310,6 @@
       "url": "https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zVhi6uprmS4Fuy4ztFT41w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e78f9a92756aad3a4fbaa0e267065af0",
       "published_at": "2026-06-14T17:45:08Z"
-    },
-    {
-      "id": "893d459a-42a2-32cb-90d0-119cad9c9166",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Car owners caught in government fight that could cost them big",
-      "summary": "President Donald Trump has come out in support of the REPAIR Act, a bill making its way through Congress that would ensure a car owner's right to repair and modify their vehicles without artificial barriers imposed by car manufacturers. According to some consumer advocacy groups, original equipment ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/car-owners-delay-buying-new-cars",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I69gAZwpxpbRrvGKVWCm1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/da8869acb54a3735258e5ac7d26f52b2",
-      "published_at": "2026-06-14T17:36:49Z"
-    },
-    {
-      "id": "c00e38b9-6a16-3717-922b-8075e87b8391",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Charles Hoskinson Tries to Close Cardano’s $70 Million Bitcoin Mystery",
-      "summary": "Charles Hoskinson ties Cardano's disputed 1,096 Bitcoin to a 2016 crowdsale audit, but Thomas Braziel demands the receipts.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/cardano-1096-bitcoin-audit-hoskinson/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/omXJoVVTL9Zf3FGoYQul3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/517afe628283ae3e1bfab196a5fdf567",
-      "published_at": "2026-06-14T17:15:16Z"
-    },
-    {
-      "id": "6cff8392-9dd6-3b01-ae90-ffb2d6187b30",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold vs. the S&P 500: With Inflation at a 3-Year High, Which Does History Say Wins?",
-      "summary": "Will the top precious metal consistently outperform the largest companies in America?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/14/gold-vs-the-sp-500-with-inflation-at-a-3-year-high/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pmmZ8s2zjzOfSHJY..bIoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/558ff69440843a606d6803b8508dedfa",
-      "published_at": "2026-06-14T16:48:50Z"
-    },
-    {
-      "id": "439746cd-38f9-382e-ba08-1e875051230e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Is A Stone's Throw Away From Becoming The World's First Trillionaire As SpaceX IPO Sends His Net Worth Soaring",
-      "summary": "Tesla Inc. CEO Elon Musk is on the verge of becoming the world’s first trillionaire as his space venture SpaceX’s blockbuster initial public offering pushed his estimated fortune to within $29 billion of the historic milestone. SpaceX IPO Drives Musk’s...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-stones-throw-away-163055086.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vQATGh_1lQeFlmAPfbSypw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/4dacdad74e87fe1c44177daaebc2bf90",
-      "published_at": "2026-06-14T16:30:55Z"
     }
   ]
 }
