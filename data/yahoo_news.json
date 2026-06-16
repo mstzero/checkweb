@@ -1,51 +1,73 @@
 {
-  "last_updated": "2026-06-15 23:20 UTC",
+  "last_updated": "2026-06-16 02:06 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "ea815f56-2553-36d3-93d4-cf4e3a422984",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Standard Chartered sees one crypto asset beating Bitcoin, Ether",
-      "summary": "Uniswap's UNI token could be one of crypto's biggest winners over the next five years if Wall Street's push into tokenized assets continues to accelerate. That is the view of Standard Chartered, which has initiated coverage of Uniswap and argued the decentralized exchange may be positioned at the ...",
+      "id": "cb23da10-5f61-3942-a467-c71367a8ba2c",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Barclays issues urgent note for gold investors after selloff",
+      "summary": "Gold investors were already facing a messy setup after the metal’s sharp pullback from earlier highs. Reuters reported spot gold around $4,344.77 an ounce and U.S. gold futures near $4,366.80 after the U.S.-Iran peace deal cooled oil prices and Treasury yields. Moreover, according to Barchart, ...",
       "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/trading/standard-chartered-one-crypto-asset-beating-bitcoin-ether",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Obq5KAZdHvOoSvyCPnapwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/dcb128bc20454e494bc126fa46d334f3",
-      "published_at": "2026-06-15T23:10:00Z"
+      "url": "https://www.thestreet.com/investing/barclays-issues-urgent-note-for-gold-investors-after-selloff",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tIcGWbWxjMiB7.LtTZsGYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8207df5aefa9fe05e85fdf0aa4e58e57",
+      "published_at": "2026-06-16T02:03:00Z"
     },
     {
-      "id": "2da4bd24-6d74-34fe-8593-c48a1c20c4c9",
+      "id": "b670a93e-478c-3ec4-b035-a80f9eb38a6d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "U.S. gasoline slips below $4 a gallon for first time since April",
-      "summary": "NEW YORK, June 15 (Reuters) - U. average retail gasoline prices dipped below $4 a gallon for the first time since mid-April, as optimism grew that a preliminary deal between the U.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/u-gasoline-slips-below-4-230712401.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WoraLHhgHupsTYMEq.bx4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1494c022a624c8b9d6ed210ff65b6cc6",
-      "published_at": "2026-06-15T23:07:12Z"
-    },
-    {
-      "id": "1126ed31-b6f2-3140-b7f7-8448de86d70e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "ThredUp and Stitch Fix Stocks Trade Up, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after oil fell more than 5%, as the Trump administration announced a new peace deal that would lead to the reopening of the Strait of Hormuz.",
+      "title": "OneWater (ONEW) Stock Trades Up, Here Is Why",
+      "summary": "Shares of boat and marine products retailer OneWater Marine (NASDAQ:ONEW) jumped 2.5% in the morning session after oil prices fell more than 5% on the Iran peace deal.",
       "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/thredup-stitch-fix-stocks-trade-230007902.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rRs.Z1y4ftTH1NqhxpNFTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/54392493e9ee6b580c8199ba9ab42e5d",
-      "published_at": "2026-06-15T23:00:07Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/onewater-onew-stock-trades-why-015607445.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iEiCCDxvRAn6cvxZf5ZsbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/1a9b7e9defde91a73336770b14e4efa1",
+      "published_at": "2026-06-16T01:56:07Z"
     },
     {
-      "id": "a9fc7ceb-6e16-3862-874d-5510a4321efd",
+      "id": "b1541c68-4e15-3400-851b-8833cf891139",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Oil Falls Back Near $80 as the Iran Standoff Cools. 3 Tech Stocks That Could Benefit the Most.",
-      "summary": "The retreat in oil is taking pressure off interest rates, and a few high-multiple technology stocks stand to gain the most.",
+      "title": "Why Palantir Stock Soared Today",
+      "summary": "Palantir stock jumped in a bullish day for the broader market, but it's still down 35% from its peak.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/15/oil-falls-back-near-80-as-the-iran-standoff-cools/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Rhr1j_PNPn9omsQGDm53Hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a1fa988284f2f1512448630e71035d9b",
-      "published_at": "2026-06-15T22:56:00Z"
+      "url": "https://www.fool.com/investing/2026/06/15/why-palantir-stock-soared-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hixrKGwTchV14j84AvLNug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f4efdb6071636ad7d7d154db2b9220b8",
+      "published_at": "2026-06-16T01:48:58Z"
+    },
+    {
+      "id": "7c74fba0-8787-3134-a9e2-18e07b489a78",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Ollie's, Floor And Decor, and Arhaus Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after oil prices fell more than 5% on the Iran peace deal.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ollies-floor-decor-arhaus-shares-014807864.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lRFOP_ZuSXD6B0FMTnuyMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/75436a2e885e3bdfadfc9583488b0c85",
+      "published_at": "2026-06-16T01:48:07Z"
+    },
+    {
+      "id": "1cb2ca34-0abb-3e38-a4f1-203b4f99a231",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Abercrombie and Fitch, Dollar General, and Monro Shares Skyrocket, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after oil prices fell more than 5% on the Iran peace deal.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-dollar-general-monro-014807529.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TFkkGo1V1zdIlRaW8U6efQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/19d976841a7cf02344c7d4020c2f5a5c",
+      "published_at": "2026-06-16T01:48:07Z"
+    },
+    {
+      "id": "33f37e86-923f-3a7f-a165-db85af4f9c7a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Has Gained at Every FIFA World Cup: Will the 2030 Cycle Hold?",
+      "summary": "Bitcoin has gained at every FIFA World Cup since 2010. With BTC near $65,700 in 2026, does the pattern hold through 2030?",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-fifa-cycle-four-year-returns/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zpNnbKkgI4qFxnRIm0Anog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/10c9d694ae4b549541fa648b20b308a0",
+      "published_at": "2026-06-16T01:30:00Z"
     },
     {
       "id": "b3e6dc9b-d268-379d-9b55-14e848365f6f",
@@ -56,29 +78,183 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-deal-nvidia-micron-sandisk-spacex/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L1is9se3Y7L9h7tlX.RU3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4f1fa106a49c603c17f0aadb20cc8971",
-      "published_at": "2026-06-15T22:55:18Z"
+      "published_at": "2026-06-16T01:17:26Z"
     },
     {
-      "id": "81ef028e-c457-3506-ae7a-85cdef45249c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Gas Won’t Drop Back to $3 After Trump’s Iran Deal",
-      "summary": "The average price of a gallon of gasoline fell to $4.06 on Monday following President Trump’s announcement that the United States and Iran had reached an agreement to end hostilities and reopen the Strait of Hormuz. U.S. gas prices rose sharply after the United States and Israel started bombing Iran on February 28, rising from less than $3 a gallon on average to a peak of $4.56 in the third week of May, per AAA. Prices have moved lower since then, falling for three straight weeks as oil prices r",
-      "source": "The Fiscal Times",
-      "url": "https://finance.yahoo.com/energy/articles/why-gas-won-t-drop-225408628.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HYhBT9VAt4XqMGt0jZalkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.thefiscaltimes/a12440a4699923c2f50c120052bc6441",
-      "published_at": "2026-06-15T22:54:08Z"
+      "id": "670559d7-4bc0-3278-8528-c10d8c9f848b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Intel gets a $170 billion AI reason to matter again",
+      "summary": "For much of the artificial intelligence boom, investors have heard one simple story. Graphics processing units were at the center of it all. That thesis made Nvidia (NVDA) a must-have in the stock market. It also drove investors to Advanced Micro Devices (AMD), Broadcom (AVGO), Marvell Technology ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/intel-gets-a-170-billion-ai-reason-to-matter-again",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D3I7CF0VEOsiWgMV_m6yqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/90c042b6dd779c4f9f237270bcea0bbe",
+      "published_at": "2026-06-16T01:17:00Z"
     },
     {
-      "id": "7086111c-e25a-3a24-8e14-a04da667fbd8",
+      "id": "d746f22c-36eb-3ff8-8d6a-8dd2e6891c35",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Ralph Lauren and Tapestry Shares Skyrocket, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after oil fell more than 5%, as the Trump administration announced a new peace deal that would lead to the reopening of the Strait of Hormuz.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-tapestry-shares-skyrocket-225207616.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XKYFKntm7_2cVgg0SFBtug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/8e73e0d27ce42dd3c5005d924f28062b",
-      "published_at": "2026-06-15T22:52:07Z"
+      "title": "Oil rebounds on concerns about US-Iran peace deal, restoration of supply",
+      "summary": "June 16 (Reuters) - Oil prices rebounded on Tuesday on concerns about the lack of details in a preliminary agreement ending the war between the U.S. and Iran and the realization the resumption of",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/oil-rebounds-concerns-us-iran-011407637.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p7ULQpTlChf4zyPjQBOe.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4807f6ef30321f8bef08434bd1cb71bd",
+      "published_at": "2026-06-16T01:15:07Z"
+    },
+    {
+      "id": "a574caf4-3610-39e9-a560-0e2107f785e4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asia markets temper Iran deal optimism, BOJ decision in view",
+      "summary": "By Gregor Stuart Hunter SINGAPORE, June 16 (Reuters) - Asian stocks inched up on Tuesday after rallying on the previous session on news of a peace deal between Iran and the U.S., as investors turned",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/asia-markets-temper-iran-deal-011441660.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zTkkSLug3AqC85jRuaYUJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f381e30dad909cfdabd8cd600af10e60",
+      "published_at": "2026-06-16T01:14:41Z"
+    },
+    {
+      "id": "d2a4bdf8-e47f-365c-a531-6152f56bb8a9",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Intuit Stock's Real Growth Story Isn't The One You're Watching",
+      "summary": "The market is rightly focused on the company's struggles in do-it-yourself tax, but it might be missing a massive and much more lucrative business taking over from within.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/602904/intuit-stocks-real-growth-story-isnt-the-one-youre-watching/2026-06-15",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VaPdGh90vIANqco7Q23zIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/d3ac73e6f5ce0e44b00e440a5814f9ee",
+      "published_at": "2026-06-16T01:07:14Z"
+    },
+    {
+      "id": "be0ef2ce-112e-39c2-acd0-b8ccdcd3c190",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dollar sways near 10-day lows as attention turns to BOJ and RBA",
+      "summary": "By Ankur Banerjee SINGAPORE, June 16 (Reuters) - The U.S. dollar held near 10-day lows on Tuesday as a deal to end the Middle East war buoyed risk appetite, with attention turning to central bank",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/dollar-sways-near-10-day-010359872.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LYBr6IANWn8XCeXUJuDkDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3e9555e0ea2f8219f9410da384d28b83",
+      "published_at": "2026-06-16T01:03:59Z"
+    },
+    {
+      "id": "50dfdfa3-a4d3-3176-9ad2-81529edc34e2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Google Just Went All in on Its Deal With Intel",
+      "summary": "The search giant is taking this collaboration to new heights.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/15/google-just-went-all-in-on-its-deal-with-intel/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0Tep.EjhdgzvOR3aq1z0Qg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9855cb3bce9e82fb64b74a91c4665990",
+      "published_at": "2026-06-16T00:45:10Z"
+    },
+    {
+      "id": "a3502c0d-f0b2-3216-a000-72877ecd6c5c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Wall Street veteran sends blunt message on Bitcoin",
+      "summary": "We are close to clocking eight months since we last saw Bitcoin (BTC) trade near its all-time high (ATH) of $126,000. Ever since the Oct. 10 slide last year, we have seen Bitcoin struggling to break past $70,000 and maintain the momentum. In fact, at the time of writing, Bitcoin was ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/investing/wall-street-veteran-sends-blunt-message-on-bitcoin",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6mOT51DEw4NA1GTKZ6pycg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9473fef5252641d58deb1b5744ef7544",
+      "published_at": "2026-06-16T00:43:01Z"
+    },
+    {
+      "id": "29dd70a9-b2b4-3eff-8d04-b148d48d5296",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "SpaceX Market Cap Breaches $2.5T: Goes Past Tesla, TSMC And Broadcom",
+      "summary": "SpaceX stock jumped close to 20% on Monday, hitting a market cap of $2.52 trillion, outshining TSMC.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/space-x-marketcap-breaches-2-5-t-goes-past-tesla-tsmc-and-broadcom/cZKW4MAR73z",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mGR1t5brNREOpJD2du0YwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/bac842f8c9aea355003849b387e73428",
+      "published_at": "2026-06-16T00:33:34Z"
+    },
+    {
+      "id": "29a4fc92-f73d-3f0d-958f-dd4d0e45e0f8",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
+      "summary": "Microsoft, Google, Amazon, and Meta just told the President they’d pay whatever it takes to power AI, but the electricity they need is becoming the main bottleneck",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-wars-why-microsoft-google-000000032.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8DJ0tTLePrnGI1AbHHx_eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/4a92857346e507405ebc0aba6504d906",
+      "published_at": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "81fc4c49-9e19-37c7-b653-54bc9fa56157",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why AI investor Aschenbrenner is shorting Nvidia, buying HIVE",
+      "summary": "Leopold Aschenbrenner, the former OpenAI researcher whose AI-focused fund posted blockbuster 2025 returns, used his Q1 2026 13F to do something counterintuitive: stack roughly $8.5 billion of put options against Nvidia while piling into Bitcoin miners pivoting to AI, including a new position in ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/why-ai-investor-aschenbrenner-is-shorting-nvidia-buying-hive",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c1Nqf3IQy9FWvGkcnB9IpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8459e0d012507174550932fa917c9cad",
+      "published_at": "2026-06-15T23:56:08Z"
+    },
+    {
+      "id": "b9767f8e-e781-3e60-aac0-bec5c4016ca2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Micron Stock Rocketed to a Record High Today",
+      "summary": "More gains lie ahead for the semiconductor star's shareowners, according to a respected Wall Street analyst.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/15/why-micron-stock-rocketed-to-a-record-high-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bYBUQ_d2vu.7YZUtWVtBUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/92727c692e446b8591f0521f6789089c",
+      "published_at": "2026-06-15T23:50:23Z"
+    },
+    {
+      "id": "5a6c54d4-cd14-311d-806a-e906a8dfadaa",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Morgan Stanley executive sends strong prediction on Bitcoin",
+      "summary": "Bitcoin (BTC), which hit the all-time high (ATH) of $126,080 on Oct. 6 last year, is still struggling on the charts due to the market turmoil. Though the recent peace negotiation between the United States and Iran has boosted the hopes of crypto investors, Bitcoin is still trading 45% lower ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/trading/morgan-stanley-executive-sends-strong-prediction-on-bitcoin",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ysJCpsajjE09A3YlWNWEpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d92ce88b1cc30831c0d11a7262af28cc",
+      "published_at": "2026-06-15T23:45:00Z"
+    },
+    {
+      "id": "4a6235a7-154b-39ea-a054-d16eff5c450f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Post-IPO: Something Big May Happen in 15 Days. Here's What It Means for You.",
+      "summary": "SpaceX just completed the largest IPO ever.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/15/spacex-post-ipo-something-big-may-happen-in-15-day/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.cWZkcLU23e1bdEw7yua.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d5dab7a2a338b39e4557d10801b7603",
+      "published_at": "2026-06-15T23:30:00Z"
+    },
+    {
+      "id": "6ebe2fcf-8614-365b-8cbf-7b573dac25a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Roku Stock Hits a New 52-Week High: Is It a Buy?",
+      "summary": "Fox announced on Monday that it is acquiring the company for roughly $22 billion.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/15/roku-stock-hits-a-new-52-week-high-is-it-a-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1UzVvjzonc.bXQMce5amkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0cdafb127f0f891860f31b56106738d8",
+      "published_at": "2026-06-15T23:26:41Z"
+    },
+    {
+      "id": "33f570ca-4039-372f-b0ca-18620ae246eb",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Standard Chartered Says UNI Could Hit $100 as Wall Street Moves Onchain",
+      "summary": "Standard Chartered has opened coverage of Uniswap with one of the most aggressive Wall Street forecasts yet for a m...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/standard-chartered-says-uni-could-hit-100-as-wall-street-moves-onchain-5877",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t.OkIP.7LpM3eJI8tpWkjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/b4eb4412361f8408996d958cd335188c",
+      "published_at": "2026-06-15T23:12:00Z"
+    },
+    {
+      "id": "ea815f56-2553-36d3-93d4-cf4e3a422984",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Standard Chartered sees one crypto asset beating Bitcoin, Ether",
+      "summary": "Uniswap's UNI token could be one of crypto's biggest winners over the next five years if Wall Street's push into tokenized assets continues to accelerate. That is the view of Standard Chartered, which has initiated coverage of Uniswap and argued the decentralized exchange may be positioned at the ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/trading/standard-chartered-one-crypto-asset-beating-bitcoin-ether",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Obq5KAZdHvOoSvyCPnapwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/dcb128bc20454e494bc126fa46d334f3",
+      "published_at": "2026-06-15T23:10:00Z"
     },
     {
       "id": "0b8ea9f8-d46e-3643-abce-213e0fe546ce",
@@ -92,17 +268,6 @@
       "published_at": "2026-06-15T22:48:26Z"
     },
     {
-      "id": "68b55293-5919-3fd9-9072-8b42aeb2e033",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "QCOM Stock Jumps Over 4% — Qualcomm Reportedly Eyes Tenstorrent Acquisition To Power AI Chip Ambitions",
-      "summary": "The potential deal signals Qualcomm’s bid to strengthen its position in AI and data center semiconductors beyond its smartphone core.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-jumps-over-4-percent-qualcomm-reportedly-eyes-tenstorrent-acquisition-to-power-ai-chip-ambitions/cZKfUeSR73w",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tBiFtCJsHlJfvK62eCLFKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/830798b2a45849bb974a593e43e014d8",
-      "published_at": "2026-06-15T22:45:37Z"
-    },
-    {
       "id": "6bdf7c77-334a-3c76-a9f3-55768902cdfd",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -114,48 +279,15 @@
       "published_at": "2026-06-15T22:30:31Z"
     },
     {
-      "id": "b485e60c-f906-3c9a-a4a9-a6cf1e9d534b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks gain, oil slides as Trump says Iran deal signed",
-      "summary": "By Caroline Valetkevitch and Marc Jones NEW YORK/LONDON, June 15 (Reuters) - Major stock indexes and bond prices rallied while oil futures settled at a three-month low on Monday as U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/articles/shares-jump-oil-skids-asia-225712362.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vgci2G790Xbln1CQ3qvCDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8e46808e7c5fc845036a141c94368421",
-      "published_at": "2026-06-15T22:15:37Z"
-    },
-    {
-      "id": "6d432f49-d804-34c9-a2cc-9a64abfb3f2f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Micron: 1 Record-Breaking Cloud Powerhouse to Buy Hand Over Fist After the Pullback",
-      "summary": "Micron Technology (NASDAQ:MU) is the chip stock dominating every feed after its memory business rode the AI cycle to a $1.12 trillion market cap and a 760.37% one-year run. But here’s what you should actually be watching. The Crowded Trade at the Top of the Cycle Memory margins do not stay at 74% forever. Micron ... Forget Micron: 1 Record-Breaking Cloud Powerhouse to Buy Hand Over Fist After the Pullback",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/15/forget-micron-1-record-breaking-cloud-powerhouse-to-buy-hand-over-fist-after-the-pullback/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G8ND0CUZLib.mURw3wPmgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/456dd010972b49c2bfde42d94792267c",
-      "published_at": "2026-06-15T22:10:42Z"
-    },
-    {
-      "id": "8de527c8-661a-3ff2-bb4b-b99b2b1e2d40",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks Have Even More Room to Fly if Hormuz Reopens",
-      "summary": "Oil prices fell, bonds rallied and the Dow industrials closed at a record after President Trump announced a deal to end the war with Iran.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/global-stocks-markets-dow-news-06-15-2026-c6898869?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/evlkNDGs.mfkipiXSmOI_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ffbb2bb12bced0f9c8d0274c770f661d",
-      "published_at": "2026-06-15T22:02:00Z"
-    },
-    {
-      "id": "bc6984f6-faae-3771-8b4b-d99c99296ab9",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Behind the Ticker: BBB and Cyber Hornet ETFs",
-      "summary": "<p>20-30% of your clients already own crypto outside your practice. Mike Willis of Cyber Hornet ETFs makes the case for why every advisor needs a digital asset plan, and how <a href=\"https://www.etf.com/BBB\"><strong>BBB</strong></a>'s 75/25 S&P 500/Bitcoin structure does the heavy lifting for them. </p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/podcasts/behind-ticker-bbb-and-cyber-hornet-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5oCjrbfUMDxhblBKA6gwYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/b04c519a4997fd71ee9701a0faf5b9a2",
-      "published_at": "2026-06-15T21:56:31Z"
+      "id": "fe8fcaf7-52db-3e84-b7e9-07daa2c8cbcd",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Buffett Could Halt Gifts to Gates Foundation After Epstein Disclosures",
+      "summary": "Warren Buffett is expected to decide soon on his annual contribution to the Gates Foundation following revelations about Bill Gates’ Epstein ties.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/warren-buffett-bill-gates-foundation-epstein-c4a64298?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b5OyCJ3tFd1RwDW55mqTxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1f5895ac902bbf889e9d2bfbfd196581",
+      "published_at": "2026-06-15T22:24:00Z"
     },
     {
       "id": "fbde5022-ecfe-35d5-a4c3-f4e360e93f8e",
@@ -169,147 +301,15 @@
       "published_at": "2026-06-15T21:52:23Z"
     },
     {
-      "id": "a2f4756f-8723-3d9f-a5e2-afd83cdb10ce",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "PowerFleet, Inc. Q4 2026 Earnings Call Summary",
-      "summary": "Moby summary of PowerFleet, Inc.'s Q4 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-powerfleet-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "",
-      "published_at": "2026-06-15T21:42:15Z"
-    },
-    {
-      "id": "28b883e9-cca0-39e9-93aa-b3d1c1bd94a7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Anthony Scaramucci unveils Bitcoin target for July",
-      "summary": "SkyBridge Capital founder Anthony Scaramucci, one of Wall Street's most prominent Bitcoin advocates, has called for the cryptocurrency to reclaim the $70,000 level, pointing to overcrowded negative sentiment and exhausted selling pressure as the primary drivers behind what he believes will be the ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/anthony-scaramucci-unveils-bitcoin-target-for-july",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sm60XJ._ZrFzCLb._O4Xcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7fa9c5e7f91a7d9bd2b52075128aed70",
-      "published_at": "2026-06-15T21:41:59Z"
-    },
-    {
       "id": "c2f82190-e1c7-387d-88a9-8b71742795d0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Are There Opportunities in Europe’s “Digital Sovereignty”?",
       "summary": "Europe wants to build its own digital infrastructure, which could have profound implications for U.S. tech companies.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/06/15/are-there-opportunities-in-europe-s-digital-sovereignty/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SNsgqM77RUmljCOWpwOfSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5038a49c8bd64a8e4df3406ffc9d6325",
       "published_at": "2026-06-15T21:39:02Z"
-    },
-    {
-      "id": "4b3463f9-c169-34f9-a735-a63642de9600",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today, June 15: Nvidia Jumps as Markets Soar on Peace Hopes",
-      "summary": "Nvidia’s oversubscribed bond sale and fresh buyback helped power an AI-fueled rally across major U.S. benchmarks, today, June 15, 2026.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-nvidia-jumps-as-markets-soar-on-peace-hopes/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tVRYC.sQmSIfHMboVHjFVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e1465e3a2bb101fe7b16704415e84a6",
-      "published_at": "2026-06-15T21:34:57Z"
-    },
-    {
-      "id": "be30f089-e659-3464-9888-4e820115e72c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "If You Invested $1,000 In Bitcoin When Mark Cuban Said 'Throw The Hail Mary,' Here's How Much You'd Have Now",
-      "summary": "Billionaire entrepreneur Mark Cuban has never been one to shy away from providing lessons he learned in his early years or advice for people today on how to overcome obstacles and accumulate wealth. In a 2017 interview, Cuban suggested investing...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-bitcoin-mark-213024404.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3OHd2tU51I_..EIRQLhhLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/7c11c201e3853e744043ce7248e63323",
-      "published_at": "2026-06-15T21:30:24Z"
-    },
-    {
-      "id": "ce931e18-2b3f-35c8-a306-cd83efc25bf8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Buyers are Back, But They Could be Walking Into a Trap at $67,000",
-      "summary": "Bitcoin buyers successfully reclaimed $67K, but still Deribit options positioning skews toward more volatility.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-buyers-trap-67k-analysis/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nGvY1PEMJYJBLkBWuUtPBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6094628ca1c1af1002bb458cc35aa05f",
-      "published_at": "2026-06-15T21:30:00Z"
-    },
-    {
-      "id": "51838c20-c2f5-3340-8d4f-70930c2c9c4a",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX Is Already One of the World's 10 Most Valuable Companies. Here's Where the Stock Could Go From Here.",
-      "summary": "The largest IPO in history left the rocket and satellite-internet company trading at a price that is simply difficult to justify.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/15/spacex-is-already-one-of-the-worlds-10-most-valuab/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UdjrK5TcOxk2hviPPjNl0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e08e51d8cf001366ac3995e73150e0a8",
-      "published_at": "2026-06-15T21:23:00Z"
-    },
-    {
-      "id": "36106bf0-3432-3c3b-9d71-1428a38d84ec",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows",
-      "summary": "Shareholders have filed a proposed securities class action, City of St. Clair Shores Police and Fire Retirement System v. Microsoft Corp., alleging misstatements around Azure and Copilot AI progress. The lawsuit focuses on disclosures about operational challenges, capacity tradeoffs, and slower than expected subscription conversions to Copilot. At the same time, Microsoft 365 Copilot is gaining traction through new integrations with NHS England, Wix, and third party solutions like Nurix...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-faces-azure-copilot-lawsuit-211322060.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AyiBLWl3XhKcC4uQ8kwsOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925",
-      "published_at": "2026-06-15T21:13:22Z"
-    },
-    {
-      "id": "a4576d59-ab8d-3011-ba9d-9675c563cf3e",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on Canadian precious metals miners, palm oil prices, London’s miners and more in the latest Market Talks covering Basic Materials.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e6481993?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gN6LmfHLt880lRoF5LqMqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/1edd7a449f9d8da9a69dd1817d097563",
-      "published_at": "2026-06-15T21:02:00Z"
-    },
-    {
-      "id": "934ebfd3-e461-3b85-bb85-3b7453904dcf",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Bill Ackman’s Main Fund Is Feeling the Pain. So Is His New One.",
-      "summary": "The billionaire’s largest fund is off 10% and his new fund is trading 20% below its April IPO price.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bill-ackman-pershing-square-price-3be104ba?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A860ArPPRMnglQDLWzXrew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2f977c3edcf8e01ac3412340582a1880",
-      "published_at": "2026-06-15T21:01:00Z"
-    },
-    {
-      "id": "7073f5b4-1c51-3637-8d51-5c73e49e23da",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Daily ETF Flows: NASA, ARKK, ARKQ Benefit From SPCX IPO",
-      "summary": "<p>The SpaceX IPO on Friday sent markets soaring, with ETFs like the <a href=\"https://www.etf.com/nasa\">Tema Space Innovators ETF (NASA)</a> benefiting from investors’ enthusiasm and interest. </p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-nasa-arkk-arkq-benefit-spcx-ipo?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZAcWl4GGOFSLqDO1rMzHZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/1d45f9488d95ad21b16acbe33a9dfed0",
-      "published_at": "2026-06-15T21:00:05Z"
-    },
-    {
-      "id": "bb1b5b40-de04-328f-b6ff-8eca6f3de794",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Update: Market Chatter: Microsoft Sued by Shareholders Over Azure Growth, AI Costs",
-      "summary": "(Updates to add company's comment in paragraph 4) Microsoft (MSFT) faces a proposed class action",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-microsoft-sued-shareholders-205754860.html",
-      "thumbnail": "",
-      "published_at": "2026-06-15T20:57:54Z"
-    },
-    {
-      "id": "2dc42c67-64be-3135-ba93-97129afdfcf8",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX Surpassed Broadcom, Meta Platforms, and Tesla in Market Cap on Its IPO Day. Can It Take on Amazon's Market Cap Next?",
-      "summary": "The biggest IPO in history looks overvalued relative to its industry peers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/15/spacex-surpassed-broadcom-meta-platforms-and-tesla/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_dKBStHBL_uf7JwgrwXKJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5054cea9daab774eb8857915da6ea29",
-      "published_at": "2026-06-15T20:51:24Z"
     }
   ]
 }
