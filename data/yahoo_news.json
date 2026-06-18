@@ -1,18 +1,150 @@
 {
-  "last_updated": "2026-06-17 22:56 UTC",
+  "last_updated": "2026-06-18 00:15 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "30e27d91-6bf7-3cc9-a515-638225610eb2",
+      "id": "5c8d0e9d-e689-392d-a3f5-30fa88dbd6bf",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant",
+      "summary": "No cash changed hands, and no shares were sold into the open market in the process, a filing shows.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-elon-musk-exercises-2018-stock-options-award-boosts-stake-in-ev-giant/cZKKXg9R7eX",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KTW2_1vYGa0xdmJboVE_QA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/fc88241c1effef5a38b6850758425131",
+      "published_at": "2026-06-17T23:55:55Z"
+    },
+    {
+      "id": "10c4ae1e-1ee3-39c9-8136-6f1fc4184a47",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Stock Market Today, June 17: Marvell Rises as AI Bookings Build on Nvidia-Linked Momentum",
-      "summary": "Marvell’s custom AI chips and optical-networking exposure give investors a clearer data-center growth angle, with the next test tied to whether demand for custom chips and optical networking will translate into sales and profit growth.",
+      "title": "Nvidia Just Raised $25 Billion in Debt. Here's What That Really Tells Investors",
+      "summary": "One of the most cash-rich companies on the planet just borrowed billions it doesn't appear to need. The reason says a lot about how it plans to use its money.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-marvell-rises-as-ai-bookings-build-on-nvidia-linked-momentum/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2G5H3GKtURSM2jMubuSAAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
-      "published_at": "2026-06-17T22:47:03Z"
+      "url": "https://www.fool.com/investing/2026/06/17/nvidia-just-raised-25-billion-in-debt-heres-what-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ocJtl9XOyztn5uULroVV1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9224f87a2440e9c198b99bcec00442e1",
+      "published_at": "2026-06-17T23:52:00Z"
+    },
+    {
+      "id": "405c4d91-d1a4-3146-9378-ac0e1cf18435",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Brazil cuts interest rates again, leaves door open for more",
+      "summary": "By Marcela Ayres BRASILIA, June 17 (Reuters) - Brazil's central bank cut rates at a third straight meeting on Wednesday and left its next steps open, acknowledging a tougher inflation outlook and",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/brazil-central-bank-cuts-rates-221925437.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.N1zDX7LfF4uNHsyYyglow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f3dce879dc0ceebc6967f70b3a1b0bbe",
+      "published_at": "2026-06-17T23:41:13Z"
+    },
+    {
+      "id": "0629d4b1-e678-34bd-826f-d4e5bb9b02f9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why United States Antimony Stock Was a big Winner on Wednesday",
+      "summary": "A director at the company made a five-figure purchase of its shares.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/17/why-united-states-antimony-stock-was-a-big-winner/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nQ5u3wIkZjcopFscKutOjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/135c3404d2177ed6329169f017544feb",
+      "published_at": "2026-06-17T23:35:19Z"
+    },
+    {
+      "id": "3545bc74-3977-3f70-8241-e791a7eea14b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia supplier SK Hynix ships samples of next-generation chips to major customers",
+      "summary": "SK Hynix said on Thursday ‌it has shipped samples ‌of its latest high-bandwidth memory (HBM) ​chips to major customers, as the South Korean chipmaker seeks to strengthen its position ‌in the ⁠fast-growing AI semiconductor market. The next-generation 12-layer HBM4E ⁠chip reaches speeds of up to 16 gigabits per ​second per ​pin ​and offers over ‌20% better power efficiency than previous models, the company said. HBM chips are used in AI chipsets and are ‌crucial components for ​processors such as ​those ​made by Nvidia, ‌helping handle vast data ​needed ​to train AI models.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-says-ships-samples-233341539.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8tXRnshIRSpsarJvhPeewA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/57783e84b5fc6f2e5839956443e3e020",
+      "published_at": "2026-06-17T23:33:41Z"
+    },
+    {
+      "id": "ed7494f7-5ba1-3bf3-a4f3-a24b47ddb218",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-hurting-apple-more-ways-232821400.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GkP80srtEc_tpSX9ViYacA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/7c199ce10e19d3e9551c7bfb8548bedb",
+      "published_at": "2026-06-17T23:28:21Z"
+    },
+    {
+      "id": "9c764778-6ddf-32b7-a290-cb9ea4723342",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget SpaceX at $200. Buy This Space ETF Instead for Just $34.",
+      "summary": "The SpaceX IPO is in the books, but there's another way to gain exposure to the much-hyped stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/17/forget-spacex-at-200-buy-this-space-etf-instead-fo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yAzWaXNZXF3lGZKTNMsQEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a1b2b01599cae4eb8883eb5fdf185c8a",
+      "published_at": "2026-06-17T23:27:00Z"
+    },
+    {
+      "id": "21eb5b2f-8f26-3492-9522-b680bbfe2e01",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why CarMax Stock Plummeted Today",
+      "summary": "CarMax delivered better-than-expected quarterly results, but the stock still sank.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/17/why-carmax-stock-plummeted-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V2fIbSfC9rDuLk7nj0ovzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f3da10bc3a7be42ead31555ee7e8e44a",
+      "published_at": "2026-06-17T23:25:38Z"
+    },
+    {
+      "id": "fb5a68e1-ac31-3ba2-8ed0-00cadd46055c",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Is GE (GE) Quietly Rewiring Its Aerospace Identity Through Advanced Power and Nuclear Bets?",
+      "summary": "In recent days, General Electric Company moved to expand its board by electing Microsoft executive Judson Althoff as an independent director, while GE Aerospace deepened its role in advanced technologies through support for Starfighters Space’s STARLAUNCH 1 design review and a Memorandum of Understanding with Wolfspeed on high-voltage silicon carbide power modules. Alongside these developments, GE Vernova’s small modular reactor component partnership in Ontario highlights how the group is...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-ge-quietly-rewiring-aerospace-232232372.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bnAbu1rx.4a93StSM3QhKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b565e2d3fdcb5a581a5c8f029c97a384",
+      "published_at": "2026-06-17T23:22:32Z"
+    },
+    {
+      "id": "9d4167c9-978e-3b7c-9b50-bda8eea27faf",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL) Is Reportedly Building AI AirPods And A Foldable iPhone For 2027",
+      "summary": "Apple is reportedly working on AI-enabled AirPods with integrated cameras aimed for a 2027 release. The company is also said to be developing a second-generation foldable iPhone on a similar timeline. These products would mark a shift toward AI wearables and foldable devices beyond regular hardware refresh cycles. For investors tracking Apple, NasdaqGS:AAPL, the focus is often on how new product categories can complement existing revenue drivers. The stock is currently trading at $295.95,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-reportedly-building-ai-232207631.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bU5AIomYRBg3WBNqAswADg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+      "published_at": "2026-06-17T23:22:07Z"
+    },
+    {
+      "id": "b07c7212-862e-3357-9180-e537f7ac0081",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why GE Vernova Stock Leaped Nearly 7% Higher Today",
+      "summary": "An analyst initiated coverage of the high-profile engineering company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/17/why-ge-vernova-stock-leaped-nearly-7-higher-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LSU9_4BRpH_ji_mXY5IHUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bca213ff8cd80b3c79174a5f25c72a41",
+      "published_at": "2026-06-17T23:13:07Z"
+    },
+    {
+      "id": "76eb71c0-8322-3c79-aff0-438de72175f0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Elon Musk Just Made This $1 Trillion SpaceX Prediction. Here's What It Could Mean for the Stock By 2030.",
+      "summary": "Plenty of fans and supporters latched onto the bold claim, of course. Just bear in mind the company will eventually need to prove it can reach that mark.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/17/elon-musk-trillion-spacex-predict-stock-2030/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s5xAx2_cSNVUsV2PJg0Wcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a4da698df25ea2d33c110286d176afaa",
+      "published_at": "2026-06-17T23:00:00Z"
+    },
+    {
+      "id": "111aaea7-7a33-3d02-a8cf-cfd99633fde7",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Morgan Stanley (MS) Stock Trades Up, Here Is Why",
+      "summary": "Shares of global financial services firm Morgan Stanley (NYSE:MS) jumped 2.6% in the afternoon session after its investment management division, alongside partner Ridgeback Group, announced the acquisition of a UK private rental business for approximately £1.05 billion.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stock-trades-225104319.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/04DzAWNgeVBv25A3ArGepQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/39e5edccf7e328b27557353bd28ea1ed",
+      "published_at": "2026-06-17T22:51:04Z"
     },
     {
       "id": "ec06d761-ce63-307b-85d6-178ca7a70ed6",
@@ -26,15 +158,15 @@
       "published_at": "2026-06-17T22:44:44Z"
     },
     {
-      "id": "6e50e6d2-c5e9-36db-8d48-da1f2b9c0f33",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Meta Platforms Stock Plummeted by Over 5% on Wednesday",
-      "summary": "According to a media report, the leader of its internal AI initiative is leaving the company.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/17/why-meta-platforms-stock-plummeted-by-over-5-on-we/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ETfmAQbCXN.p_8nxaebPYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/197bd4a8827a8fcef2e03681941a635a",
-      "published_at": "2026-06-17T22:42:16Z"
+      "id": "c46ddf28-98cd-3b99-8313-232200d90c8d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Trump Signs the Iran Deal. It Leaves More Questions Than Answers.",
+      "summary": "Analysts warn that the current sub-$80-a-barrel oil prices may be overly optimistic for a smooth end to the conflict and the reopening on the Strait of Hormuz.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/iran-deal-oil-prices-hormuz-trump-7b37ddfc?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1P.rMluyq.Aw0FHjHLoMwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c8f6f84ef7896ba18f53ef135f3b1445",
+      "published_at": "2026-06-17T22:28:00Z"
     },
     {
       "id": "841ea972-27c3-3630-a066-11a1934fd8a8",
@@ -46,17 +178,6 @@
       "url": "https://www.fool.com/coverage/etfs/2026/06/17/which-s-and-p-500-etf-is-the-better-buy-ishares-ivv-or-state-street-s-spy/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tzC3hRmMJHvcftt3GeRG9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1cc89126b931ec8a7ec53da16b4b0719",
       "published_at": "2026-06-17T22:24:15Z"
-    },
-    {
-      "id": "405c4d91-d1a4-3146-9378-ac0e1cf18435",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Brazil central bank cuts rates at third straight meeting",
-      "summary": "By Marcela Ayres BRASILIA, June 17 (Reuters) - Brazil's central bank cut rates at a third straight meeting on Wednesday and again left its next steps open, while acknowledging a tougher inflation",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/economy/policy/articles/brazil-central-bank-cuts-rates-221925437.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p5TpFfrftSs9LwB25CfjjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7fc89e3cd50b8f0bef32ff679efaebf8",
-      "published_at": "2026-06-17T22:19:25Z"
     },
     {
       "id": "a1db2873-1a0f-30c0-b810-fd8b5aeff9d0",
@@ -104,8 +225,8 @@
     },
     {
       "id": "99a6a538-5945-3968-9c24-3e3aca74d30b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Why Microsoft Stock Slumped Today",
       "summary": "It apparently fell short in an attempt to lease cloud capacity from a peer.",
       "source": "Motley Fool",
@@ -123,6 +244,39 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-warns-price-hikes-215917035.html",
       "thumbnail": "",
       "published_at": "2026-06-17T21:59:17Z"
+    },
+    {
+      "id": "e5c5d10c-dbae-3020-a0e7-bd42f431d69a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Homebuyers Are Watching the Fed—But Oil Prices May Matter More as Mortgage Rates Fall",
+      "summary": "The Fed held rates steady again, but mortgage rates are more closely tied to bond-market signals that can shift when oil prices move.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/homebuyers-are-watching-the-fed-but-oil-prices-may-matter-more-as-mortgage-rates-fall-12001009",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/imG8bGPCICJUkPnse1BElA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/38530b062b73ddb19e21f8584def60c7",
+      "published_at": "2026-06-17T21:55:14Z"
+    },
+    {
+      "id": "68d245d6-7757-346a-a2ac-7103509be05e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Tim Cook Warns Apple Price Hikes Are Coming: ‘Unavoidable’",
+      "summary": "Apple CEO Tim Cook told The Wall Street Journal that ‘unfortunately, price increases are unavoidable.’",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/apple-stock-price-increases-tim-cook-7647e007?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/egdOugHFONY59iR0Primxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2a22a45d3f98f7bd6a099cd58e5a116b",
+      "published_at": "2026-06-17T21:55:00Z"
+    },
+    {
+      "id": "c947925f-e9b9-35bb-9019-0d03ccfe60e0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Diversified Energy Company PLC (DEC) Dips More Than Broader Market: What You Should Know",
+      "summary": "Diversified Energy Company PLC (DEC) closed at $12.99 in the latest trading session, marking a -1.96% move from the prior day.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/diversified-energy-company-plc-dec-215003704.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UvhcCSRHcENB2QppdmYPaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7ea641b46fe75c0a913349e5e610d6a2",
+      "published_at": "2026-06-17T21:50:03Z"
     },
     {
       "id": "1e096ec9-968f-3417-ab8c-e1162f978173",
@@ -156,160 +310,6 @@
       "url": "https://finance.yahoo.com/video/why-apple-ceo-tim-cook-214400609.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L3JsnqIz9j2T7KofqaQvog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wall_street_journal_733/a24091a004bcd19ebc6a7c690d91a364",
       "published_at": "2026-06-17T21:44:00Z"
-    },
-    {
-      "id": "9b6284f1-10e9-326f-9cb5-4ff5feff2d78",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "International Recap, June 17: Easing Oil Prices and Steady Rate Outlook Help Lift International Markets",
-      "summary": "Today, June 17, 2026, global equities found support as investors welcomed calmer energy markets and stable policy signals.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/17/international-recap-june-17-easing-oil-prices-and-steady-rate-outlook-help-lift-international-markets/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kx2gkEae778wbYXAOEFQLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/53c34ec6db0acd7fd3c610dfb70eb401",
-      "published_at": "2026-06-17T21:42:02Z"
-    },
-    {
-      "id": "22bd5150-8ef4-3562-ac54-05e784ed475c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Rumble rebrands to RUM Group after Northern Data buyout",
-      "summary": "Rumble, which hosts U.S. President Donald Trump's Truth Social platform, ‌said it would begin operating ‌as 'RUM Group' and oversee a new AI-focused business unit ​in addition to its existing video platform. The move, announced on Wednesday and effective from June 18, comes after the company closed ‌its acquisition of ⁠German AI cloud company Northern Data. Here are some details: • Rumble shares ⁠jumped about 8% in extended trading.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rumble-rebrands-rum-group-northern-213744220.html",
-      "thumbnail": "",
-      "published_at": "2026-06-17T21:37:44Z"
-    },
-    {
-      "id": "44fe12e6-a832-30b1-8411-2e6d7a2c8572",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "AI stock jumps over 157% amid billion-dollar deal",
-      "summary": "Shares of Hyperscale Data Inc. (NYSE American: GPUS) have rallied more than 157% over the past month. This comes as the artificial intelligence data center company advances negotiations on a potential billion-dollar AI infrastructure deal. The stock was trading about 47% higher intraday at press ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/ai-stock-jumps-over-157-amid-billion-dollar-deal",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kZwMlGSgyqUpdNXWdeclwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d9cdc9d86afcbaed446a45b878aed1d7",
-      "published_at": "2026-06-17T21:31:26Z"
-    },
-    {
-      "id": "89e5ecc3-d868-31d0-b03e-009a89cbb3e9",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Stock Market Today, June 17: Stocks Slide on Fed Rate Hike Fears",
-      "summary": "Investors weighed hawkish central bank messaging and rising Treasury yields, today, June 17, 2026.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-stocks-slide-on-fed-rate-hike-fears/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HS.p98roqhMAhk1B_TlxGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460",
-      "published_at": "2026-06-17T21:29:51Z"
-    },
-    {
-      "id": "bf33ef2f-2593-3342-b292-00583e10f303",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The SpaceX IPO Is Finally Here: This Is When It Might Be Coming to Your S&P 500 ETF",
-      "summary": "S&P Dow Jones indexes said it won't make any special rule changes to allow SpaceX into the S&P 500.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/17/spacex-ipo-is-here-when-it-comes-to-sp-500/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5K_7kFTJ85pkSGo1bjI3Pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f6c2e3357f1c5440fb6880a060cede57",
-      "published_at": "2026-06-17T21:28:00Z"
-    },
-    {
-      "id": "9688a53b-b1d3-3efb-92ab-886ccc4bfcba",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "GLD vs GLDM vs IAU: Which Gold ETF Should You Actually Buy?",
-      "summary": "<p>GLD, GLDM, and IAU all track gold bullion, but their expense ratios, share prices, and options liquidity differ in ways that matter. Here's how to pick the right one for your portfolio.</p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/news/gld-vs-gldm-vs-iau-which-gold-etf-should-you-actually-buy?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uY9NwXXyHN9pqLfrhWEjHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/6f17bdf4a053436cb116205f87a5e5f7",
-      "published_at": "2026-06-17T21:27:33Z"
-    },
-    {
-      "id": "a5aeec9e-a278-3aef-9bd0-da49d423b413",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Reveals Plans to Raise Prices",
-      "summary": "Plus, more Fed officials signal a rate increase is coming soon, and pool owners feel blue about the color blue.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/apple-reveals-plans-to-raise-prices-1fbcc1d4?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JGwlHvnZg8t3hK9m01zU0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/c22a3a8e8b90640eb047798b60a51c7c",
-      "published_at": "2026-06-17T21:27:00Z"
-    },
-    {
-      "id": "67ef94ed-71ce-3f26-a13e-da0cf48622a1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Want $1,000 in Annual Passive Income? Invest $14,000 in This High-Yielding Energy Stock Right Now.",
-      "summary": "The extra tax-preparation step is worth holding this high-yield stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/17/want-1000-in-annual-passive-income-invest-14000-in/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XvL8l78xdQvvbnLhaL4NCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4c97695c408aa461e8a33fec090d9aa0",
-      "published_at": "2026-06-17T21:25:00Z"
-    },
-    {
-      "id": "de5fd851-ce27-3d51-9cb9-3054bcae87bb",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ",
-      "summary": "Apple plans to raise prices on its products to offset increasing memory and storage chip costs, CEO Tim Cook told ‌the Wall Street Journal in an interview.  A surge in AI-driven demand for ‌data centers has forced consumer electronics companies into a fierce competition for dwindling supplies of the key ​components, driving prices sharply higher.  Groups representing automakers, retailers, electronic firms and others had warned earlier this month that the increasing demand for memory chips could lead to dramatic price hikes in U.S. consumer goods and disrupt supply chains.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/apple-raise-prices-due-memory-212327523.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sXJBcm2mmrXHME4hNVqykQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/119972fe9de9f5e7bc615235751926eb",
-      "published_at": "2026-06-17T21:23:27Z"
-    },
-    {
-      "id": "2c3ac7c6-4611-3367-b81b-b68dc4d9a45a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "What Illinois’s bitcoin transaction tax actually means",
-      "summary": "Illinois will now tax brokers and exchanges 0.2% for every bitcoin and crypto transaction.",
-      "source": "Blockspace",
-      "url": "https://blockspace.media/short/what-illinoiss-bitcoin-transaction-tax-actually-means/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ym6CGRAP.5jTgUSoGGeB.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/blockspace_702/f9f397f0a3fbde58d9f7c389c3003b02",
-      "published_at": "2026-06-17T21:20:11Z"
-    },
-    {
-      "id": "663ed8f2-9293-3238-a144-7fad3bfcd0c9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Iran Peace Deal: What Does It Mean for Defense Stocks Like Lockheed Martin?",
-      "summary": "A ceasing of hostilities won't erase defense demand.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/17/iran-peace-deal-what-does-it-mean-for-defense-stoc/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3GDA0oqbBTtxOBG8.iv7xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cbffcc30602bea3457624b7b9bf61cc6",
-      "published_at": "2026-06-17T21:18:00Z"
-    },
-    {
-      "id": "4577ae87-e2df-31b0-842d-33f48a152156",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "S&P 500, Nasdaq And Dow Slip As Investors Assess Rate Hike Possibility — SPCX, UBER, ASTS, BBBY, RXT In Focus",
-      "summary": "The U.S. Federal Reserve left interest rates unchanged earlier in the day and raised the 2026 inflation outlook.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-and-dow-slip-as-investors-assess-rate-hike-possibility-spcx-uber-asts-bbby-rxt-in-focus/cZKKBc8R7eB",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q2qrcsYJE4XGalHgpi26mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f1007efc23e01233656884f4bf98b796",
-      "published_at": "2026-06-17T21:13:37Z"
-    },
-    {
-      "id": "d8b6c11f-7fe0-3b95-bee0-132999220505",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "We Did the Math on Why the iPhone 18 Pro Could Cost $1,299",
-      "summary": "The memory-chip crunch is pushing up prices for all electronics. Even Apple, which dominates the supply chain, isn’t spared.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/personal-tech/apple-iphone-price-increase-e846d737?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IgP4qkEgVXa.GwPzZ4JrZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/3758c841dac7b633922567a311650c09",
-      "published_at": "2026-06-17T21:01:00Z"
-    },
-    {
-      "id": "500d2f7b-67b1-316a-a09e-ceafd7b6bdc0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple to Raise Prices Due to Memory Chip Crunch, Tim Cook Says",
-      "summary": "The CEO tells the Journal in an exclusive interview that soaring costs make price increases “unavoidable.”",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JGwlHvnZg8t3hK9m01zU0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/c22a3a8e8b90640eb047798b60a51c7c",
-      "published_at": "2026-06-17T21:00:00Z"
     }
   ]
 }
