@@ -1,18 +1,150 @@
 {
-  "last_updated": "2026-06-19 21:06 UTC",
+  "last_updated": "2026-06-19 22:30 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "55ead51a-37a5-3496-8c88-6a896f02aca4",
+      "id": "cf954bf9-b9e9-3804-9cf0-d9e43ed5837f",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
+      "summary": "Senator Bernie Sanders fired off a single sentence on X this month that frames the entire fight over how to keep Social Security solvent: “Today, Elon Musk, a trillionaire, pays the same amount into Social Security as someone making $184,500.” The Vermont independent paired the post with a bill he says would end that absurdity ... Bernie Sanders vs. Elon Musk: Would Taxing the Rich Actually Save Social Security?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/06/19/bernie-sanders-vs-elon-musk-would-taxing-the-rich-actually-save-social-security/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wVkk0elnHDJrfrDmZiCRiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c44098e3c6c5187cd2ba56b1f9e44773",
+      "published_at": "2026-06-19T22:16:47Z"
+    },
+    {
+      "id": "29698ec2-b7ed-3ffe-abf8-c62edb19eb7d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Making $100K a Year? Here’s the One Fund That Compounds Without the Research",
+      "summary": "You open your brokerage app, stare at a dozen tabs of analyst ratings, and realize you have spent another Saturday morning trying to pick winners. You aren’t a day trader. Instead, you have a job, a mortgage, maybe kids, and a vague plan to retire someday. You just want your money in the market, working, ... Making $100K a Year? Here’s the One Fund That Compounds Without the Research",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/19/making-100k-a-year-heres-the-one-fund-that-compounds-without-the-research/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I6kRm.HHwm8PWHfuMJC2Dw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/14c911e64657443356ba72d89632db5e",
+      "published_at": "2026-06-19T22:13:34Z"
+    },
+    {
+      "id": "caf7b108-737e-30ad-95b0-c64389c35e24",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The Simplest Way to Own Bitcoin Inside Your Regular Brokerage Account",
+      "summary": "You believe in Bitcoin, you just don’t believe in seed phrases, hardware wallets, sketchy exchange logins, or explaining to your spouse why a USB stick in the sock drawer is technically your retirement plan. You want spot Bitcoin exposure inside the same brokerage account that holds your index funds, your IRA, your 401(k) rollover. That ... The Simplest Way to Own Bitcoin Inside Your Regular Brokerage Account",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/19/the-simplest-way-to-own-bitcoin-inside-your-regular-brokerage-account/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6.dCG.7qUBufKWAeBLEtoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9f1227a22f2de8ac67bb16fb3c6ffb43",
+      "published_at": "2026-06-19T22:01:35Z"
+    },
+    {
+      "id": "c0bba9d8-3dff-3b6c-94e1-0dbe2aaa7515",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "If You’re 50+ and Tired of Watching Tech Boom Without You, Read This",
-      "summary": "You are in your fifties, the 401(k) is finally a real number, and you have noticed something uncomfortable: the market keeps ripping higher on a handful of AI names you don’t understand, while the cash you actually want to live on someday is parked in a money market fund earning whatever the Fed decides this ... If You’re 50+ and Tired of Watching Tech Boom Without You, Read This",
+      "title": "Why Saia Stock Swooned This Week",
+      "summary": "An analyst advised hitting the brakes on the trucking company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/19/why-saia-stock-swooned-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S.j8R3EgOrW.yIPcYcFUXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0b9f5a09ef437eead70abf720f8ad3eb",
+      "published_at": "2026-06-19T21:58:35Z"
+    },
+    {
+      "id": "0fc8d546-f6d4-3dd8-ab56-2ac8f8102127",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You’re 45 and Want Real Estate Income, Skip the Landlord Duties and Buy VNQ",
+      "summary": "You like the idea of owning real estate, but you don’t like the idea of fielding 2 a.m. plumbing calls, chasing rent checks, or sinking your down payment savings into a single zip code. You want the income, the inflation hedge, and the diversification that property brings, without becoming a landlord. That is the reader ... If You’re 45 and Want Real Estate Income, Skip the Landlord Duties and Buy VNQ",
       "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xC6zQOLlsykFH25xl6gNPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/987c57e681df88da4c95630ea8d68464",
-      "published_at": "2026-06-19T20:51:02Z"
+      "url": "https://247wallst.com/investing/2026/06/19/if-youre-45-and-want-real-estate-income-skip-the-landlord-duties-and-buy-vnq/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SCIHVFSZrcQvYTQPvYXvHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a32270b7209b25bb3465ee2166736f87",
+      "published_at": "2026-06-19T21:57:24Z"
+    },
+    {
+      "id": "0d1fdaf9-e664-3aba-9fc1-d2e571fb378b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Things to Watch in the Stock Market Next Week",
+      "summary": "Two heavyweight earnings reports and a closely followed check on the banking system all land in the same few days.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/19/3-things-to-watch-in-the-stock-market-next-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uR5CKNqW7biYqKF98zZr1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5ead877103fbb6112d68e60900f88201",
+      "published_at": "2026-06-19T21:51:00Z"
+    },
+    {
+      "id": "ed52ddc2-aa80-3468-8ae7-a4d1e09d773a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About.",
+      "summary": "The tech giant is one of the best long-term plays on the booming AI market.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/19/broadcom-builds-custom-chips-for-google-meta-anthr/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SjY9jEG5nkbrT8HvzzPtyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6303e36bdb80b00588a162256382b6ab",
+      "published_at": "2026-06-19T21:50:00Z"
+    },
+    {
+      "id": "28e01030-fa18-3e90-b90a-e30363815cbf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Beyond the Trillion-Dollar Club: 3 High-Growth Tech Stocks to Buy Right Now",
+      "summary": "The market is full of high-growth stocks that could move higher over the next year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/19/beyond-the-trillion-dollar-club-3-high-growth-tech/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JXHEp.t6g7RFvth_7g0Dhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1cd88029560391960f07388079c8d940",
+      "published_at": "2026-06-19T21:41:00Z"
+    },
+    {
+      "id": "50c05030-b2c9-3bc6-b095-edfea7b6461e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
+      "summary": "The same shortage delivering record profits to memory makers is now squeezing one of the world's most valuable companies -- and its CEO says customers will end up paying for it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/19/the-memory-boom-has-been-a-gift-to-micron-for-appl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LsSO1_KuRE2NjaBewRahag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b50ced13570d16ad936f3cf56949e789",
+      "published_at": "2026-06-19T21:37:53Z"
+    },
+    {
+      "id": "f1b3e3ac-8834-3bff-8182-cb7adfc66c6b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Gildan Activewear Stock Tumbled by 11% This Week",
+      "summary": "A short-seller published a comprehensive -- and highly critical -- report on the company's conduct.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/19/why-gildan-activewear-stock-tumbled-by-11-this-wee/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h_oNQRUX7A0YHmlfrYHjLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/768722986a548e7f68abb572dfda35ca",
+      "published_at": "2026-06-19T21:33:15Z"
+    },
+    {
+      "id": "9aa99b5e-574f-393a-97eb-1de8b09c3f42",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+      "summary": "You check your portfolio and it looks like every other portfolio in America. Apple, Microsoft, NVIDIA, Amazon, Meta, Alphabet, and a heaping side of S&P 500 index fund that is, when you look under the hood, basically more of the same seven names. You are 38, you have 25-plus years until retirement, and you have ... Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/19/making-six-figures-but-betting-everything-on-u-s-stocks-avuv-fixes-that-problem/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DUT1RB06l5SGj5ySIj9Eyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6ec15312c8461c6de0e09dff3da3f7fb",
+      "published_at": "2026-06-19T21:30:35Z"
+    },
+    {
+      "id": "2b9e72af-1e94-3d6d-a235-931ba7e00841",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "360 Energy Pulse: What mattered in energy this week",
+      "summary": "(Oil & Gas 360) – This week marked a notable shift in market sentiment. For months, energy markets were focused […]",
+      "source": "Oil and Gas 360",
+      "url": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-energy-213014601.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VCP0Sv69TNyabyz18A7qAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oil_and_gas_360_817/ddc0ce2a816d021823bd5b5ef21d20ce",
+      "published_at": "2026-06-19T21:30:14Z"
+    },
+    {
+      "id": "9f84b35a-18d4-3c59-910e-33c667393510",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
+      "summary": "You check your portfolio and it looks like every other portfolio in America. Apple, Microsoft, NVIDIA, Amazon, Meta, Alphabet, and a heaping side of S&P 500 index fund that is, when you look under the hood, basically more of the same seven names. You are 38, you have 25 plus years until retirement, and you ... If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/19/if-youre-38-with-500k-saved-avuv-fixes-your-tech-heavy-portfolio/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eC8IGqTw6m9bGgGwfgslIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2d2b6b9e7d3e19728bd644fccf3584e",
+      "published_at": "2026-06-19T21:10:12Z"
     },
     {
       "id": "7b7e9b0b-84fc-3658-b6bb-b80d78dab99d",
@@ -49,36 +181,14 @@
     },
     {
       "id": "37bd02d9-bef9-3467-8ee4-0bf24e22cf2b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today",
       "summary": "The market continues to buy the story that this is an AI, autonomous driving, and robotics enterprise.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/06/19/you-invest-10000-tesla-10-years-ago-how-much/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LyLaxYUkjhOVRncFBNzfKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d1731e7b7bae2e9a619675bb7f718691",
       "published_at": "2026-06-19T20:04:00Z"
-    },
-    {
-      "id": "da1e68f5-c38d-3f94-a491-12a16c4db3ee",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Up 700% YTD, How High Can SanDisk Rally?",
-      "summary": "After one of the most extraordinary rallies in semiconductor history, SanDisk (NASDAQ:SNDK) sits at $1,958.80 after climbing 725.17% year to date and 4,342.73% over the past year. Our 24/7 Wall St. price target for SanDisk is $1,663.78 over the next 12 months, implying 15.06% downside and a sell recommendation at a 90% confidence level. The ... Up 700% YTD, How High Can SanDisk Rally?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/19/up-700-ytd-how-high-can-sandisk-rally/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oY4d9inMWeSTXzJPCdzKHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
-      "published_at": "2026-06-19T20:00:42Z"
-    },
-    {
-      "id": "ce275846-0b86-3a27-b334-868e92358545",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "With Inflation Surging, Is a Bond ETF the Best Investment Right Now? Here's What History Suggests.",
-      "summary": "Not all bond ETFs will benefit from higher interest rates.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/19/with-inflation-surging-is-a-bond-etf-the-best-inve/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WE_OoQ1JJR4.gtc1N9MQnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ee9e0f6e8cdf9c09ce5e1e893de47587",
-      "published_at": "2026-06-19T19:56:37Z"
     },
     {
       "id": "a0608876-e678-3fb9-bce8-958ae31b7e31",
@@ -92,28 +202,6 @@
       "published_at": "2026-06-19T19:48:22Z"
     },
     {
-      "id": "2f8db6ba-5542-3e67-9944-86f57cb2fd13",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Buy These 3 Growth Stocks Now, Ignore the Noise, and Thank Yourself Later",
-      "summary": "While Wall Street fixates on short-term consumer spending fears, Chipotle, Ulta Beauty, and Dutch Bros are continuing to expand, strengthen their brands, and execute long-term growth strategies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/19/buy-these-3-growth-stocks-now-ignore-the-noise-and/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TEuJW9h434kEp.NZbz.avw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0bcc00d1c7723a0760995a92e155f33b",
-      "published_at": "2026-06-19T19:41:00Z"
-    },
-    {
-      "id": "02838a31-a87f-3601-a7c8-9b08ed71a595",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AppLovin Could Hit $600+ With 28% Upside as AI Ad-Tech Story Rebounds",
-      "summary": "AppLovin (NASDAQ:APP) has had a wild ride in 2026. After a blistering 2025 that pushed shares higher, the stock has cooled meaningfully, leaving investors wondering whether the AI ad-tech story is broken or simply digesting gains. My read leans toward the latter, and the 24/7 Wall St. price target reflects that. Our price target for ... AppLovin Could Hit $600+ With 28% Upside as AI Ad-Tech Story Rebounds",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/19/applovin-could-hit-600-with-28-upside-as-ai-ad-tech-story-rebounds/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v4wOjOd3ajd11SHkkzr.Sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3badfbb1dcedb4395e4e3acff606d229",
-      "published_at": "2026-06-19T19:40:07Z"
-    },
-    {
       "id": "4999d31b-efd1-31a2-81cf-ba2f444d6a73",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -125,17 +213,6 @@
       "published_at": "2026-06-19T19:39:11Z"
     },
     {
-      "id": "a41931f9-d06e-32e0-895d-890c03b1b6b4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Dividend King Stock Down 25% to Buy Right Now",
-      "summary": "If you're looking for a high-quality dividend stock to add to your portfolio, consider this blue chip stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/19/1-dividend-king-stock-down-25-to-buy-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7JM.UtMSnb_3mF8UfKas5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e9b27f3502133d6a5551a66e90201ca",
-      "published_at": "2026-06-19T19:27:00Z"
-    },
-    {
       "id": "f9b5ceed-e89c-3a9e-90fa-120705993b8c",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -145,39 +222,6 @@
       "url": "https://finance.yahoo.com/small-business/articles/michigan-father-44-says-made-192500028.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PKzHJ8ta523xqstan0eDIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/42a27cfacc1d8a65ae955ffe97f66759",
       "published_at": "2026-06-19T19:25:00Z"
-    },
-    {
-      "id": "d8026957-4ba5-30a8-9ce2-f0218b08cf48",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Eli Lilly Will Trade at $1,200 on This Date",
-      "summary": "Eli Lilly (NYSE:LLY) just reported a quarter that should have sent bulls into a frenzy. Revenue grew 55.5% year over year to $19.80 billion, Mounjaro alone delivered $8.66 billion, and management raised full-year guidance to $82 to $85 billion. Yet shares are up just 2.57% year to date at $1,098.57. That disconnect is the entire ... Prediction: Eli Lilly Will Trade at $1,200 on This Date",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/19/prediction-eli-lilly-will-trade-at-1200-on-this-date/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/llIfP4ze8_AJQM4FdxCF4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9fec819aa20ef9e5ca12ffbeabcc0431",
-      "published_at": "2026-06-19T19:15:48Z"
-    },
-    {
-      "id": "b623e136-e4eb-33f2-ba45-f1cc6f60591d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Archer Aviation Stock: Buy, Sell, or Hold?",
-      "summary": "Wall Street has been bearish on Archer Aviation lately. Is this a buying opportunity?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/19/archer-achr-stock-buy-sell-or-hold/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ySHQ1ZunOqJ3J4qt1bT14Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8f36a237536e3ccbf69b3d85a89a2827",
-      "published_at": "2026-06-19T19:15:00Z"
-    },
-    {
-      "id": "37191904-069f-3838-b98e-b4adab25d97c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX stock joins AI bond frenzy",
-      "summary": "Wall Street has a new favorite trade: lending money to artificial intelligence. NVIDIA, Alphabet, Amazon, and Oracle have all rushed into debt markets to raise hundreds of billions of dollars to fund data centers, chips, and AI infrastructure. Investors have been lining up to buy, and the demand ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-stock-ai-bond-offering",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GGOu4kUGZVHupGhxRB_NdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2b1ccbafaae4da3244b429cb1197a7cc",
-      "published_at": "2026-06-19T19:13:00Z"
     },
     {
       "id": "ef842ce8-ca3d-3082-930d-e5ea12dd81d6",
@@ -239,7 +283,7 @@
       "asset": "ETH",
       "asset_name": "Ethereum",
       "title": "The Morgan Stanley 0.14% Fee Sets New Floor in Crypto ETF Fee War",
-      "summary": "In crypto news today (June 19), Bitcoin has fallen another -2% overnight, dropping below $64,000, with ETF flows bleeding once more, while Michael Saylor’s STRC stock continues to crash, fueling fears that Strategy will be forced to dump Bitcoin to stabilize the STRC price. Liquidations have picked up, with over ...",
+      "summary": "Morgan Stanley filed amended S-1 registration statements with the SEC on June 18, 2026, for two planned spot crypto ETFs, a spot Ethereum ETF and a spot Solana ETF, both carrying a 0.14% annual unitary sponsor fee, the lowest in the US market for either asset class, according to the ...",
       "source": "99bitcoins",
       "url": "https://99bitcoins.com/news/altcoins/crypto-etf-fee-war-morgan-stanley-ethereum-solana/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZNj3yk3n0PgJY8RzZlvK.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/99bitcoins_us_315/afe0decbd390982affc0682a1a3e8673",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-cuts-end-gold-180510265.html",
       "thumbnail": "",
       "published_at": "2026-06-19T18:05:10Z"
-    },
-    {
-      "id": "ed17af8b-bb6d-38fa-8e0e-670fb604530a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "AI Won’t Make You a Good Trader, But Here’s How the Pros Use It Anyway",
-      "summary": "Four analysts explain how AI in crypto trading speeds up research but still rewards skilled, data-driven investors.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/how-professionals-use-ai-for-crypto-trading/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R4IJMo3DZ2nxZ0t_3BGN.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5e4cf2a01bb972df7cfdc734db5edab8",
-      "published_at": "2026-06-19T17:59:26Z"
-    },
-    {
-      "id": "dab08657-80a4-3204-bf8a-b8770d5bd2dc",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",
-      "summary": "Cathie Wood Snaps Up $35 Million in Snowflake, Slashes Roku Stake",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-makes-bold-tesla-175813012.html",
-      "thumbnail": "",
-      "published_at": "2026-06-19T17:58:13Z"
-    },
-    {
-      "id": "f2ec752a-961f-3eb4-b91c-8981e083b20e",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "ASML Faces Fresh China Export Scrutiny",
-      "summary": "Officials question possible EUV machine diversion report",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/asml-faces-fresh-china-export-175704126.html",
-      "thumbnail": "",
-      "published_at": "2026-06-19T17:57:04Z"
-    },
-    {
-      "id": "c3d6b157-9cfe-352f-bbdb-046dcd24b529",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Senator says Bitcoin can pay down America's national debt",
-      "summary": "Senator Cynthia Lummis recently delivered one of the clearest legislative roadmaps for Bitcoin policy to come out of Washington, addressing everything from Treasury purchases to a national debt strategy built on Bitcoin's scarcity. During an interview with Roxom TV News host Hank Hudson, the ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/senator-says-bitcoin-can-pay-down-americas-national-debt",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JvbLxlDoZ9rYArQZ1uI8iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b5ae1819e27188ad1d83283f0e3c19b9",
-      "published_at": "2026-06-19T17:50:44Z"
     }
   ]
 }
