@@ -1,84 +1,150 @@
 {
-  "last_updated": "2026-06-21 16:14 UTC",
+  "last_updated": "2026-06-21 18:03 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "c101c706-de9d-3825-bde4-e77eb062881a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Joby Stock Will Trade at This Price in 2028",
-      "summary": "Joby Aviation (NYSE:JOBY) is graduating from a flight-test story to a revenue story. The Blade acquisition pushed Q4 2025 revenue to $30.84 million, management is guiding $105 million to $115 million for full-year 2026, and a JFK-to-Manhattan eVTOL flight put the brand in front of every commuter in the country. Yet shares sit at $10, ... Prediction: Joby Stock Will Trade at This Price in 2028",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/21/prediction-joby-stock-will-trade-at-this-price-in-2028/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h.UBUvP31INefdwtgu6xXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a3d9ec635d477b07c7da8ee8c90f1bf4",
-      "published_at": "2026-06-21T16:00:10Z"
+      "id": "2afcf46f-fb93-3c8d-85a5-a9c9cc85ab27",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Jim Cramer Explains the Reason Capital One (COF) Became a “Virtual Trampoline”",
+      "summary": "Capital One Financial Corporation (NYSE:COF) was among the stocks on Jim Cramer’s radar on Mad Money, as he advised investors to care about where a stock is going, not where it has been. Cramer highlighted it as a Charitable Trust name, as he said: While we do have a surprisingly strong consumer, that always helps. […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-capital-132816663.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cZU8NRH6AJh62h8MqLmKTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/753cb9cb32336de8f86289f7a7c7b36e",
+      "published_at": "2026-06-21T17:48:16Z"
     },
     {
-      "id": "b3bd116a-2061-3e2e-810a-6880e55f1371",
+      "id": "dbadf917-91ba-3ccd-8fcd-8b617306469e",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Better International ETF: VXUS vs. VSS",
-      "summary": "One has clearly outperformed the other over the years, but those returns come with more volatility.",
+      "title": "Jim Cramer Highlights Goldman Sachs (GS) as Investment Banking Activity Explodes",
+      "summary": "The Goldman Sachs Group, Inc. (NYSE:GS) was among the stocks on Jim Cramer’s radar on Mad Money, as he advised investors to care about where a stock is going, not where it has been. Cramer highlighted the events that positively impact the bank, as he stated: Right now, the bond and stock issuance, it’s just […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-goldman-sachs-134003398.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ArIS2bNIRCg5aqdwMzbuGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be",
+      "published_at": "2026-06-21T17:40:03Z"
+    },
+    {
+      "id": "ca1c2091-05c8-323b-8665-6c390761bffa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opportunity?",
+      "summary": "Shares of the e-commerce and cloud giant have shown some weakness lately despite the company's solid results.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/21/better-international-etf-vxus-vs-vss/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l1FmvzNDBAwkHx44J.Mk8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52e68b4a6f6ef3976fa24d9d98249db8",
-      "published_at": "2026-06-21T15:50:00Z"
+      "url": "https://www.fool.com/investing/2026/06/21/down-10-from-its-peak-is-amazon-stock-the-ultimate/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zdNJJqyweywRq38KQ.OW1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bce21c692bbfb18ea164fb95b5afad8e",
+      "published_at": "2026-06-21T17:39:00Z"
     },
     {
-      "id": "e8033ccb-e0df-3023-ab94-ea5258caea64",
+      "id": "bd06ca40-0a57-3acc-b1e5-7463b8e56762",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Micron Must Do This on June 24, or Its Stock Could Crash",
-      "summary": "The AI boom has created a market where good results are no longer good enough. Investors have rewarded companies tied to artificial intelligence with premium valuations, but they have also become far less forgiving. A strong quarter can still lead to a falling stock price if management fails to convince Wall Street that growth is ... Micron Must Do This on June 24, or Its Stock Could Crash",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/21/micron-must-do-this-on-june-24-or-its-stock-could-crash/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sJ1HL4XhUX_FKVFW6Yx72g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fe9c74e32591894a5bc026151a3a281b",
-      "published_at": "2026-06-21T15:45:31Z"
-    },
-    {
-      "id": "23dfe3b1-7f79-30f7-aeab-724041fc7f94",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meta’s Recent Pullback Creates an Attractive Buying Opportunity",
-      "summary": "I am opening with the verdict because the gap between where Meta Platforms (NASDAQ:META) trades today and where our model says it should trade is too wide to bury. After a punishing six months for the stock, our 24/7 Wall St. price target for Meta is $837.78, implying 47.61% upside from $567.58. The recommendation is ... Meta’s Recent Pullback Creates an Attractive Buying Opportunity",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/21/metas-recent-pullback-creates-an-attractive-buying-opportunity/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VG_yW36LQIe7wfzza6H6pA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/627d7cc6ac7d1f692b530008c6492372",
-      "published_at": "2026-06-21T15:45:09Z"
-    },
-    {
-      "id": "4230b0ad-5115-3cb0-b34f-c44942c1857a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should You Forget Picking Individual Stocks and Buy This Index Fund Instead?",
-      "summary": "Managing a stock portfolio is a lot of work; dividend investors can let this index-based ETF handle that work for them.",
+      "title": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+      "summary": "One member of the group is doing something none of the others can match -- and the stock still doesn't trade like it.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/21/should-you-forget-picking-individual-stocks-and-bu/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cMRWJdfk9k2jkRiripbyyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5563e03c4a070c3ae6b2769cd8ce3771",
-      "published_at": "2026-06-21T15:35:00Z"
+      "url": "https://www.fool.com/investing/2026/06/21/is-alphabet-the-best-magnificent-seven-ai-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9Yhn1twDiAHUhT6mwB9Kog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/15ab9c5648b70685ec84232ddea9afde",
+      "published_at": "2026-06-21T17:33:00Z"
     },
     {
-      "id": "82447f91-5b40-38c5-98ad-1195c2a24b8c",
+      "id": "081e9182-1147-3f49-8734-151dbb89a379",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Own 500 Shares of Pfizer and JNJ and Here’s Your Annual Dividend Income",
-      "summary": "Passive income is the closest thing investors have to financial gravity. It pulls in money whether you are at your desk, on a beach, or asleep, and it lands in your account no matter what the broader market did that week. Earned income depends on showing up. Dividend income depends on a board of directors ... Own 500 Shares of Pfizer and JNJ and Here’s Your Annual Dividend Income",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/21/own-500-shares-of-pfizer-and-jnj-and-heres-your-annual-dividend-income/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rCrfkXXNY4ayGicSamPEPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d981dd810eaeb413015369ebbce09ae6",
-      "published_at": "2026-06-21T15:30:06Z"
-    },
-    {
-      "id": "497c367d-d6a9-38cd-879f-76df521c3e90",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Catalyst That Could Cause SpaceX Stock to Drop. Should Investors Sell?",
-      "summary": "The end of SpaceX's IPO lockup periods could cause the stock to slide.",
+      "title": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
+      "summary": "These exciting companies offer different ways to invest in the next generation of defense.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/21/1-catalyst-that-could-cause-spacex-stock-to-drop-s/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gSeRHfbdhIR0jY_dHEwzzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/aa7f4983af2a698a4a60e7a086ff830f",
-      "published_at": "2026-06-21T15:25:00Z"
+      "url": "https://www.fool.com/investing/2026/06/21/archer-aviation-vs-kraken-robotics-with-geopolitic/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KhXDznae1GiPqwgDeJf2zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d036108c3e65981b1bb70862b6495677",
+      "published_at": "2026-06-21T17:25:00Z"
+    },
+    {
+      "id": "b6226a98-15c6-359b-ab35-c05ef89def3c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
+      "summary": "Meta has major AI aspirations, but the market isn't buying it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/21/meta-platforms-looks-unbelievably-cheap-after-the/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MPcFdR5rpVcPPNvjV2Mfvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5af362acaee47ed70106ca34d3275b53",
+      "published_at": "2026-06-21T17:05:00Z"
+    },
+    {
+      "id": "6fefe270-d255-3e94-b7a5-7c8f2811b155",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
+      "summary": "Domino's stock hasn't been this cheap in years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/21/near-its-52-week-low-stock-is-flashing-a-signal-lo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x.EyesnkyDxoAl.m8Z1zGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a389cdc2ff3d7d32591ae63c06df0d02",
+      "published_at": "2026-06-21T17:02:00Z"
+    },
+    {
+      "id": "1cf915b5-5dc7-3a5c-a113-4635ce431309",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Ways to Prepare Your Portfolio for the Second Half of 2026",
+      "summary": "News from the past week has sharply altered investor expectations for July and beyond.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/06/21/ways-prepare-portfolio-for-second-half-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/An6jWKSQkU0j.VqghKgq9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/36069fa48f4bc79764a07dbcf917e64f",
+      "published_at": "2026-06-21T16:50:00Z"
+    },
+    {
+      "id": "4787c8f3-d790-35e8-9059-2ee8595372a6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain",
+      "summary": "Marvell Technology is becoming the market's next hot AI growth stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/21/the-next-1-trillion-ai-winner-may-already-be-hidin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lxTO8.OM8xfMSkCa.UGNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2c1aecbee034b09e3a0871f6eb658b2f",
+      "published_at": "2026-06-21T16:49:07Z"
+    },
+    {
+      "id": "034fc147-66eb-3f5c-aae0-b342f1216056",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX and Nvidia Each Forecast $1 Trillion in Revenue. Which Stock is the Better Buy?",
+      "summary": "The two companies are both involved in the high-growth business of AI.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/21/spacex-and-nvidia-each-forecast-1-trillion-in-reve/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KPLIDGZO3MjqFp0phVjpmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/05e64e03e57820c20365165eb3a414d5",
+      "published_at": "2026-06-21T16:25:00Z"
+    },
+    {
+      "id": "142b37a5-83d3-3349-8ab2-6edaab20cd3e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Wall Street Just Sold Off These IT-Services Stocks on AI Fears. Is the Sell-Off Overdone?",
+      "summary": "Is AI disrupting these businesses?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/21/wall-street-just-sold-off-these-it-services-stocks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t4viWBGAuuTHTsNgmofYbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6a84fc9e4ee59bd974c4f78f7fc1312b",
+      "published_at": "2026-06-21T16:20:00Z"
+    },
+    {
+      "id": "25c90c0b-cf0a-37bc-a870-af4667ca3c1b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why HIVE Digital Technologies (TSX:HIVE) Is Up 26.8% After Major AI GPU Cloud Deal And Data Center Buy",
+      "summary": "HIVE Digital Technologies recently received approval to acquire the 32 MW Big Boden data center in Sweden and closed a three-year, US$220 million sovereign AI GPU cloud contract with Bell Canada and Cohere Inc., deepening its push into high-performance computing and AI infrastructure. By shifting from tenant to owner in Boden and securing long-duration AI compute revenues through BUZZ HPC, HIVE is reshaping its business mix beyond its origins in Bitcoin mining. With this expanded AI GPU...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-hive-digital-technologies-tsx-160700083.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-06-21T16:07:00Z"
+    },
+    {
+      "id": "075e8e55-23fc-3918-914c-fde6f03bddf0",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Has Only 69 Robotaxis In Texas — But They Are Cheap",
+      "summary": "Tesla Inc. is getting lapped in the Texas robotaxi race. The question is whether it matters. Texas Department of Motor Vehicles data as of June 16 puts Tesla’s statewide fleet at just 69 vehicles, according to research from Bank of America. Waymo leads with 620, AVRide has 317, Nuro and Zoox round out the field at 47 and 35. Tesla is also trails its competitors in markets. The company is live in four cities, with five more listed as “preparations underway,” while Waymo operates in 11. Tesla is s",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/articles/tesla-only-69-robotaxis-texas-153145920.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/py2IACqK3IIG4upiLqfq_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/1c3469207da15755202ed87dfb5247ad",
+      "published_at": "2026-06-21T15:31:45Z"
     },
     {
       "id": "d07bfe6d-ead6-373c-bdbf-ba9e80e5dfc9",
@@ -92,17 +158,6 @@
       "published_at": "2026-06-21T15:24:50Z"
     },
     {
-      "id": "2ae4dc5c-5099-3ac9-8410-98a3e2f6366e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Don't Forget About Western Digital Amid Sandisk Euphoria",
-      "summary": "Sandisk has gotten all the attention, but Western Digital is another memory stock that has crushed the S&P 500.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/21/dont-forget-about-western-digital-amid-sandisk-eup/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qGZwxj_ZtENeFfoUO97JAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5dcabef3afd4e596b685df2420338aa7",
-      "published_at": "2026-06-21T15:22:00Z"
-    },
-    {
       "id": "cd42e0a7-9238-3f9c-97bf-390b99ce18d4",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -114,17 +169,6 @@
       "published_at": "2026-06-21T15:21:32Z"
     },
     {
-      "id": "5dd4120e-edff-3a5e-978a-6a55ff579cb4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What Will Nvidia Stock's Price Be in 1 Year?",
-      "summary": "Nvidia stock is poised to outperform the market over the next year, driven by incredible demand for its technology that enables generative AI.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/21/nvda-stock-1-year-price-prediction-target/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nEJ8mPG8mobwkud_UrfCZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d1be0ecb394c4d063af87ac02af0121e",
-      "published_at": "2026-06-21T15:20:00Z"
-    },
-    {
       "id": "a851721e-429e-3d49-abd4-92f3b2871b91",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -134,17 +178,6 @@
       "url": "https://www.fool.com/coverage/etfs/2026/06/21/spy-and-qqq-which-looks-best-for-your-portfolio-in-2026/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tzC3hRmMJHvcftt3GeRG9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1cc89126b931ec8a7ec53da16b4b0719",
       "published_at": "2026-06-21T15:15:01Z"
-    },
-    {
-      "id": "a469173d-dc4f-3bc3-ab63-008ba1382ff0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warning: The S&P 500 Could Be on the Verge of Doing Something for the First Time in 155 Years, and It's Not Good News for Investors",
-      "summary": "The S&P 500 CAPE ratio is at its second-highest reading in history.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/21/warning-the-sp-500-is-about-to-do-something-for/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XIhve1S_oPTS6PFvWfq_4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6c81af5e2bfd358cc385927e59519485",
-      "published_at": "2026-06-21T15:05:00Z"
     },
     {
       "id": "dce18a2d-4b67-31e1-beff-abdf0f8e7417",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-faces-hurdle-path-5-122241269.html",
       "thumbnail": "",
       "published_at": "2026-06-21T12:22:41Z"
-    },
-    {
-      "id": "f20cd562-1273-3ace-bc77-4475038adbb5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Iran Closes Strait of Hormuz Again: Are Fed Rate Hikes Back on the Table?",
-      "summary": "Last week’s truce between the U.S. and Iran briefly gave investors something they haven’t had much of lately: hope. The memorandum of understanding (MOU) signed by both sides appeared to reduce one of the biggest threats hanging over the global economy. Oil prices fell sharply, shipping traffic resumed through the Strait of Hormuz, and traders ... Iran Closes Strait of Hormuz Again: Are Fed Rate Hikes Back on the Table?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/21/iran-closes-strait-of-hormuz-again-are-fed-rate-hikes-back-on-the-table/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b982IO9eZ_q55WN2axTeoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d17b538ac11d0a4f504259a3aab3aeb6",
-      "published_at": "2026-06-21T12:15:57Z"
-    },
-    {
-      "id": "5519aa0b-1ee7-3c1b-9254-a0a8ee59024c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Franklin Resources (BEN) Files Bitcoin Dividend ETFs As AUM Reaches $1.78 Trillion",
-      "summary": "Franklin Resources (NYSE:BEN) has filed with the SEC for U.S. equity ETFs that reinvest portfolio dividends into Bitcoin, described as a first of its kind structure. The company has introduced the Franklin BSP CLO ETF, adding a new product focused on collateralized loan obligations. Franklin Resources reports record assets under management of $1.78 trillion. Franklin Resources, the asset manager behind Franklin Templeton, is pushing further into both digital assets and credit products with...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/franklin-resources-ben-files-bitcoin-120709852.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/79qko4F_hdhwRlGyEfLjcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f88d3d8c5618aa88ce2627c2a1cda340",
-      "published_at": "2026-06-21T12:07:09Z"
-    },
-    {
-      "id": "deeab5bb-6206-3535-95db-3143b763ac1f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Billionaire reveals jaw-dropping proposal for Satoshi's Bitcoin",
-      "summary": "Changpeng Zhao is the billionaire founder of the world's largest crypto trading exchange, Binance. Well-known for his bold views on digital assets, he recently talked at length about securing Bitcoin (BTC) from potential quantum attacks. On June 18, Zhao appeared on the Galaxy Brains ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/billionaire-reveals-proposal-for-satoshis-bitcoin",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Wi44Htnnrp0jMVcTcHjyMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/20a685c5dd6d7b511f6eb80fc9e852d2",
-      "published_at": "2026-06-21T11:44:00Z"
     }
   ]
 }
