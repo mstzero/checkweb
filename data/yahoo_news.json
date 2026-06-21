@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-06-20 23:43 UTC",
+  "last_updated": "2026-06-21 03:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "dbefd618-f1e3-3403-a0cc-766df0f31801",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SK Hynix (KOSE:A000660) Ships HBM4E DRAM To AI Customers",
+      "summary": "SK hynix has begun shipping its next generation HBM4E DRAM for AI customers, introducing a new high bandwidth memory product for intensive AI workloads. The HBM4E chips are designed to offer higher data processing speed, capacity, and improved heat resistance compared with prior HBM products. This product milestone is directly connected to SK hynix’s AI data center and high performance computing roadmap and follows earlier focus on its NVIDIA partnership. For investors tracking...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-kose-a000660-ships-031333713.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sdqM2NN9Xy0ai0FXQvYklw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
+      "published_at": "2026-06-21T03:13:33Z"
+    },
+    {
+      "id": "aa0411a1-2ba1-3057-bff9-1381bd5225f7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Iran Says Hormuz Closed But New Talks To Start; Nvidia, SpaceX Are Stocks To Watch",
+      "summary": "Iran said it's closed the Strait of Hormuz but new peace talks are set to start Sunday. Nvidia and SpaceX are stocks to watch.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MUVjfpI8IE7J5UOjJVqI7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
+      "published_at": "2026-06-21T02:38:05Z"
+    },
+    {
+      "id": "f0449cc1-3898-3001-b5ec-2fcfc35cc6d9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign?",
+      "summary": "A record rush to raise cash is bankrolling the AI build-out. But the companies tapping the market aren't all in the same financial shape.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/20/nvidia-oracle-and-now-spacex-are-borrowing-billion/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BbiSISj7cMNwE5vlhGeyjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cabb562491f859039ce9de51fbb7550c",
+      "published_at": "2026-06-21T02:33:00Z"
+    },
+    {
+      "id": "487230e7-ccfb-3274-b443-1c4bf5a8b8a1",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin",
+      "summary": "If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NihhilM3nyilawX_z2JqKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3d800cc57a77760a19aa26680d3a16dc",
+      "published_at": "2026-06-21T02:31:00Z"
+    },
+    {
+      "id": "839bffe5-f2c7-3876-9a80-34e7b1be96b9",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "PBF Energy (PBF) Price Target Raised at Morgan Stanley. Here is Why",
+      "summary": "PBF Energy Inc. (NYSE:PBF) is included among the 12 Best American Oil Stocks to Buy Now. PBF Energy Inc. (NYSE:PBF) engages in the refining and supplying of petroleum products. It operates through two segments, Refining and Logistics. On June 12, Morgan Stanley analyst Joe Laetsch raised the firm’s price target on PBF Energy Inc. (NYSE:PBF) […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/pbf-energy-pbf-price-target-011830097.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WNVyt_3JWHjr8rIMbgdYoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/99a13e841bfd5e5b957d334d96e3f90d",
+      "published_at": "2026-06-21T01:18:30Z"
+    },
+    {
+      "id": "1fa3866a-1011-36a0-9e16-72778a40854a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Is Cactus (WHD) One of the Best American Oil Stocks to Buy Now?",
+      "summary": "Cactus, Inc. (NYSE:WHD) is included among the 12 Best American Oil Stocks to Buy Now. Cactus, Inc. (NYSE:WHD) designs, manufactures, sells, and rents engineered pressure control and spoolable pipe technologies in the United States, Australia, Canada, the Middle East, and internationally. On June 6, Stifel upped its price target on Cactus, Inc. (NYSE:WHD) from $66 […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/cactus-whd-one-best-american-011809538.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dlbCUvZqNk7SKtdzxSgP1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4130ddfd6cd21ca8051ae34cfc9a0edd",
+      "published_at": "2026-06-21T01:18:09Z"
+    },
+    {
+      "id": "734dbb98-0f39-3931-8b20-2f75d0c83293",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stifel Lifts Patterson-UTI Energy (PTEN) Price Target Following Improved Q2 Guidance",
+      "summary": "Patterson-UTI Energy, Inc. (NASDAQ:PTEN) is included among the 12 Best American Oil Stocks to Buy Now. Patterson-UTI Energy, Inc. (NASDAQ:PTEN) is a leading provider of drilling and completion services to oil and natural gas exploration and production companies in the United States and other select countries. On June 16, Stifel analyst Stephen Gengaro lifted the […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/stifel-lifts-patterson-uti-energy-011716699.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oxNb_vSvVzwOsAaoeef40w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa46c4b4a5c2dbd1d815183af8252893",
+      "published_at": "2026-06-21T01:17:16Z"
+    },
+    {
+      "id": "2cb31104-f79d-3e69-8c58-869f58e799b7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Marathon Petroleum (MPC) Price Target Boosted at Wells Fargo. Here is Why",
+      "summary": "Marathon Petroleum Corporation (NYSE:MPC) is included among the 12 Best American Oil Stocks to Buy Now. Marathon Petroleum Corporation (NYSE:MPC) is a leading integrated downstream and midstream energy company headquartered in Ohio. The company operates the largest refining system in the United States, boasting approximately 3 million barrels per day of crude oil capacity across […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-price-target-011701431.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VDlYkYI_.l5Cv7UwPOwO.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7746916dc82119be00709fa019315081",
+      "published_at": "2026-06-21T01:17:01Z"
+    },
+    {
+      "id": "8753d74c-3941-3947-8300-34b49e88cec5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Analyst Raises Solaris Energy Infrastructure (SEI) Price Target by $18",
+      "summary": "Solaris Energy Infrastructure, Inc. (NYSE:SEI) is included among the 12 Best American Oil Stocks to Buy Now. Solaris Energy Infrastructure, Inc. (NYSE:SEI) delivers proprietary power generation and distribution solutions, as well as logistics equipment and services, to clients in the data center, energy, commercial, and industrial sectors. On June 12, Northland raised the firm’s price […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/analyst-raises-solaris-energy-infrastructure-011646949.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/39H2v1d8_j8QPGyquhhGnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1ea3c5aefe4df3f34e5b2506810adc02",
+      "published_at": "2026-06-21T01:16:46Z"
+    },
+    {
+      "id": "2b280d1d-d950-328c-8c5e-8f80bc55a6a9",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Devon Energy (DVN) Price Target Lowered at Raymond James. Here is Why",
+      "summary": "Devon Energy Corporation (NYSE:DVN) is included among the 12 Best American Oil Stocks to Buy Now. Devon Energy Corporation (NYSE:DVN) is a leading US oil and gas producer with a premier multi-basin portfolio touching the Anadarko Basin, Eagle Ford, Marcellus Shale, Powder River Basin, Williston Basin, and anchored by a world-class acreage position in the […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/devon-energy-dvn-price-target-011551225.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hq5qHRM_zsPJe3SxgtBtzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ce74cb4e24f6aeeae8f41ae50a33944c",
+      "published_at": "2026-06-21T01:15:51Z"
+    },
+    {
+      "id": "0084a99e-48c5-3f4e-b54b-a9082dfa0d8b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Here is What Barclays Thinks About Kinder Morgan (KMI)",
+      "summary": "Kinder Morgan, Inc. (NYSE:KMI) is included among the 12 Best American Oil Stocks to Buy Now. Kinder Morgan, Inc. (NYSE:KMI) is one of the largest energy infrastructure companies in North America. The company is the largest independent transporter of petroleum products in the United States, transporting approximately 2.4 million barrels per day. On June 12, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/barclays-thinks-kinder-morgan-kmi-011538379.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PifNZuRk1ODyQygLMJ99Pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f2815fee8dd87c41e4294d91093397d7",
+      "published_at": "2026-06-21T01:15:38Z"
+    },
+    {
+      "id": "de25ec05-f10d-347d-a81d-961a044c5212",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Phillips 66 (PSX) Price Target Lifted at Morgan Stanley. Here is Why",
+      "summary": "Phillips 66 (NYSE:PSX) is included among the 12 Best American Oil Stocks to Buy Now. Phillips 66 (NYSE:PSX) is a diversified and integrated downstream energy provider that manufactures, transports, and markets products. On June 12, Morgan Stanley analyst Joe Laetsch lifted the firm’s price target on Phillips 66 (NYSE:PSX) from $180 to $196, while keeping […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/phillips-66-psx-price-target-011447834.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vvvAgUCLp8esCVkqDa_.kA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/266da5880c0e679d3611df6c50fcd082",
+      "published_at": "2026-06-21T01:14:47Z"
+    },
+    {
+      "id": "ce049a2e-6c17-3047-952f-cb99cd4ca7c4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "SLB- Among the 12 Best American Oil Stocks to Buy Now",
+      "summary": "SLB N.V. (NYSE:SLB) is included among the 12 Best American Oil Stocks to Buy Now. SLB N.V. (NYSE:SLB) engages in the provision of technology for the energy industry worldwide. SLB N.V. (NYSE:SLB) announced on June 10 that it had signed a long-term contract with Venezuela’s state oil company, PDVSA, to support the revitalization and modernization […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/slb-among-12-best-american-011436276.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zyJRmBPeDL1W3QBHAIZlnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6cbeaf70baa7f3889976a41c5ab100ea",
+      "published_at": "2026-06-21T01:14:36Z"
+    },
+    {
+      "id": "96c1506c-623f-3c38-86fb-edd7f8c72b65",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Where Will Micron Technology Be in 5 Years?",
+      "summary": "A closer look at the memory market's prospects over the next five years suggests that Micron Technology still has multibagger potential.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/20/where-will-micron-technology-be-in-5-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ffu7RGrZhle9nbmgRt3Ixw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1f08938bfc67b068cab924adc04d9674",
+      "published_at": "2026-06-21T00:43:00Z"
+    },
+    {
+      "id": "01517e3c-f3f7-3e37-832d-b47676d112df",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth",
+      "summary": "Mark Cuban built a fortune Forbes pegged at $6 billion on its 2025 Forbes 400 list by being more careful about what he refused to fund than what he chased. His framework, surfaced again this month in a widely shared rundown of his investing rules, argues that staying wealthy is mostly about pattern recognition on ... Mark Cuban Warns 6 Popular Investments Could Quietly Ruin Your Wealth",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/20/mark-cuban-warns-6-popular-investments-could-quietly-ruin-your-wealth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E5N5BZce1ai0lL7aPPuj0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9aee6eaa210f86fe708e3212ae0a5f7e",
+      "published_at": "2026-06-20T23:50:59Z"
+    },
+    {
+      "id": "5b05e271-10ac-30f6-91e1-8c490b792976",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Top AI Cryptocurrency Was Up 115% in May. But Is It a Buy?",
+      "summary": "NEAR Protocol surged 115% in May on its AI agent infrastructure play. Is this the real deal, or just another empty hype cycle?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/20/this-top-ai-cryptocurrency-was-up-115-in-may/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZF7uPawgRX639uU9tPwTrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b119798b26f087786229391c9d24e30a",
+      "published_at": "2026-06-20T23:39:00Z"
+    },
+    {
+      "id": "d63848ee-3343-37ab-8074-785544d48a2b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Network Activity Erupts After Iran Peace Deal: Is The Bottom In For BTC?",
+      "summary": "Bitcoin network activity index crossed above its 365-day moving average for the first time since December 2024, entering what CryptoQuant research news officially classifies as a bull phase, the same threshold that preceded significant price advances in 2024 and 2025. Daily Bitcoin transactions have exceeded 800,000 in 2026, more than ...",
+      "source": "Cryptonews",
+      "url": "https://cryptonews.com/news/bitcoin-bull-phase-cryptoquant-signal-bottom/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kp1mu1JqG_DbCA9_z988gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/4ac516caf12640523f31fdf261d19607",
+      "published_at": "2026-06-20T23:35:00Z"
+    },
+    {
+      "id": "1915f1fc-d079-3a4d-bd87-2da63e4bea07",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Where Will Alphabet Stock Be in 5 Years?",
+      "summary": "This leading artificial intelligence (AI) enterprise has more than doubled shareholder capital in the past five years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/20/where-will-alphabet-stock-be-in-5-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lEaWVqopuNP84uKl_qDUtg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6cdc3983faf271be2f42c19a43d8431d",
+      "published_at": "2026-06-20T23:33:00Z"
+    },
+    {
+      "id": "12acc7b6-0a51-371b-a727-83e69f566d67",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Nears 20% Voting Power In Tesla After Exercising Stock Options",
+      "summary": "Tesla Inc. CEO Elon Musk gained more than 300 million shares of the EV giant’s stock as part of his 2018 CEO Compensation Award, which takes his voting rights in Tesla to approximately 19.9%. Elon Musk Gains Tesla Shares In a Form 4 filing with the SEC on June 16, Musk exercised his stock options as part of the 2018 CEO award, gaining over 303,960,630 shares of the EV giant at $23.34/share. The original agreement granted Musk 20,264,042 shares at $350.02/share, but Tesla’s stock split 5-for-1 in",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-nears-20-voting-233111023.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uUT4TKwNxzkbUTJtBCEsJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/88ba91ddb54bc091d81df7f7106f68e3",
+      "published_at": "2026-06-20T23:31:11Z"
+    },
     {
       "id": "7db82597-a14c-3ae8-a83e-27afc20c950d",
       "asset": "NVDA",
@@ -37,17 +246,6 @@
       "published_at": "2026-06-20T22:30:38Z"
     },
     {
-      "id": "aa0411a1-2ba1-3057-bff9-1381bd5225f7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-      "summary": "Dow Jones futures: Iran closed the Strait of Hormuz after the stock market rose last week on the interim deal. Nvidia is near a buy point. SpaceX stock needs this.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MUVjfpI8IE7J5UOjJVqI7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a2718c578247ec7a151aec3a57442ba4",
-      "published_at": "2026-06-20T22:29:08Z"
-    },
-    {
       "id": "87fdeb41-cc69-3709-b9d9-f1a878144490",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -70,28 +268,6 @@
       "published_at": "2026-06-20T22:07:16Z"
     },
     {
-      "id": "2c7139c4-42c1-374d-b2e2-98d1fe38066e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Netflix Stock Cheap or Overvalued? Here's What Investors Need to Know.",
-      "summary": "With shares trading 42% off their peak, the streaming pioneer is grabbing the attention of market participants looking to allocate capital.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/netflix-stock-cheap-overvalued-investors-need-know/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mWJPnfN8r47.jOiHk_nvKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1a4142cc28827df72078d2769c0acd59",
-      "published_at": "2026-06-20T21:49:00Z"
-    },
-    {
-      "id": "9b15a0e2-6050-3f50-b097-98c2e7ae7846",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
-      "summary": "Pfizer is out of favor right now, and for good reason, but dividend investors may want to take the risk just the same.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/pfizers-dividend-yield-is-10x-bigger-than-eli-lill/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_8tL7TH.9ELP1xA7lYkx2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d00503bf9e63fcce7af14a6e3746331",
-      "published_at": "2026-06-20T21:35:00Z"
-    },
-    {
       "id": "39974de7-cd7b-3739-bb80-f7ace44199cc",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -103,39 +279,6 @@
       "published_at": "2026-06-20T21:31:13Z"
     },
     {
-      "id": "cb22071c-4f26-3593-90f6-0ba9c26a49f9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Ford Could Make $500 Million From AI. Is Now the Time to Buy?",
-      "summary": "Hold your horses on buying Ford right now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/ford-could-make-500-million-from-ai-is-now-the-tim/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PmO5hjhTpn31VMuTYc5eew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c939a08bac0a22e9b4a98c8960aa301e",
-      "published_at": "2026-06-20T21:25:00Z"
-    },
-    {
-      "id": "b22f15d5-6a4d-3aee-833b-3adedc335d73",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Company Could Become the Nvidia of AI Inference",
-      "summary": "ON Semiconductor's fast-growing revenue related to data centers is likely to become a key growth driver for many years to come.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/this-company-could-become-the-nvidia-of-ai-inferen/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hFnW1p7CQmq4zHuqIY2ZCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ebe61fc86d555ead8f4f791c740ab883",
-      "published_at": "2026-06-20T21:20:00Z"
-    },
-    {
-      "id": "a4083e4f-f606-322f-9973-f651044c91b6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Your 401(k) Balance. Here's the Number That Really Matters.",
-      "summary": "It's important to look beyond the number you see on your screen.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/retirement/2026/06/20/forget-your-401k-balance-heres-the-number-that-rea/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sBU9LwJdySSHNbmfH4P8wA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3f7da0ac41af9c56c52b6e5fba028a06",
-      "published_at": "2026-06-20T20:56:00Z"
-    },
-    {
       "id": "cf0cc8c2-8f6f-3165-82aa-a11b4f007417",
       "asset": "QQQ",
       "asset_name": "Nasdaq 100 ETF",
@@ -145,17 +288,6 @@
       "url": "https://247wallst.com/investing/2026/06/20/youre-watching-ai-headlines-daily-heres-how-to-own-the-whole-trend-at-once/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FN_N_frdb5C3pRVB4FK0XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cbecd1beefd2c063c7701d81e6e026ca",
       "published_at": "2026-06-20T20:55:03Z"
-    },
-    {
-      "id": "2a4392ad-630f-3489-a865-cdcb6dafbca8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's How Many Shares of Home Depot You'd Need to Generate $10,000 in Yearly Dividends",
-      "summary": "Income investors might find this retail stock to be a worthy portfolio addition.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/how-many-shares-home-depot-10000-yearly-dividends/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K_rzMuEI.Tleyri8b4QuTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2362417a834c17d63fb809041b520432",
-      "published_at": "2026-06-20T19:59:00Z"
     },
     {
       "id": "50d31fe9-56f1-3fc5-935d-727e94bc8bd9",
@@ -178,138 +310,6 @@
       "url": "https://beincrypto.com/satoshi-bitcoin-quantum-risk-debate/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WZo1TV3sA0L9g.tYIzf0TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2aeefbd4bbbdaa6501c2d83db54afbeb",
       "published_at": "2026-06-20T19:00:00Z"
-    },
-    {
-      "id": "28192b96-e37f-3170-982e-75652918aaf5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil drops to $80 a barrel and markets rise as Trump touts Iran framework deal",
-      "summary": "Oil prices traded over 5% lower on Monday morning after US President Donald Trump announced the completion of the framework for a peace deal with Iran and the reopening of the Strait of Hormuz.View on euronews",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/06/15/oil-drops-to-80-a-barrel-and-markets-rise-as-trump-touts-peace-agreement-with-iran",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rHVxmJT.B4PC5LLWposIIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/dd0f4140e737b9894a45507805642c0d",
-      "published_at": "2026-06-20T18:16:10Z"
-    },
-    {
-      "id": "d18926c2-0993-3848-a767-e2096b8808b9",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Is on the Rise Again. 2 Mining Stocks to Buy Now.",
-      "summary": "Gold has soared past $4,300 an ounce. Agnico Eagle Mines and Alamos Gold are two gold mining stocks that show promise.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/gold-is-on-the-rise-again-2-mining-stocks-to-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qa4IvwmnJBs8jZ67x7NkAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2aacda57ff917efadadb5af128f17395",
-      "published_at": "2026-06-20T18:05:00Z"
-    },
-    {
-      "id": "95358d81-4d3d-3b9e-86f1-9bf65c22ea0c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Kiyosaki Eyes Gold, Silver Rebound as Hormuz Risks Keep Safe-Haven Case Alive",
-      "summary": "Robert Kiyosaki watches gold and silver for a reversal as a Strait of Hormuz dispute keeps the safe-haven trade in play.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/kiyosaki-gold-silver-hormuz-safe-haven/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4jIZgxcFD6GAKeP2DgC6rA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/98f19c932dbed288fd0be93f4048759a",
-      "published_at": "2026-06-20T17:41:14Z"
-    },
-    {
-      "id": "4ffe87ba-196c-3f39-82e4-1538fbc30353",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "HIVE’s (HIVE) BUZZ HPC Secures $220M GPU Cloud Contract for Sovereign AI Infrastructure",
-      "summary": "HIVE Digital Technologies Ltd. (NASDAQ:HIVE) is one of the penny stocks with explosive growth potential. On June 18, HIVE Digital’s subsidiary, BUZZ HPC, secured a three-year, $220 million GPU cloud contract to provide HPC infrastructure for Bell Canada and Cohere Inc. This collaboration establishes an integrated Canadian AI stack, using 2,304 NVIDIA Grace Blackwell GPUs […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hive-hive-buzz-hpc-secures-172800619.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n92XV8ZmxEc5rp8CjjOjlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c1c1da1168429125eb24c3832293a68b",
-      "published_at": "2026-06-20T17:28:00Z"
-    },
-    {
-      "id": "2a6c5c12-6673-3594-9ee4-0901d509bdae",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The Best Semiconductor ETF to Buy With $1,000 Right Now",
-      "summary": "Chip stocks are still hot, but one ETF stands out as the better choice given current conditions.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/best-semiconductor-etf-to-buy-with-1000-now-smh/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YJx0RgS6GO1XcjgGCcsQ.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a70c02b660f435f5ea7a6bb053b5876b",
-      "published_at": "2026-06-20T17:20:00Z"
-    },
-    {
-      "id": "aa07d4a7-2f6a-30f0-9130-7e967efe3481",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Billionaire Warren Buffett Disciple Warns: Don’t Quit Your Job To Start A New Business, Do This Instead",
-      "summary": "Billionaire investor Mohnish Pabrai has built a reputation for borrowing the best ideas from Warren Buffett and Charlie Munger, then applying them with ruthless simplicity. On a recent appearance on Big Deal with Codie Sanchez, he turned that same lens on a piece of conventional wisdom that gets repeated in nearly every startup pitch deck ... Billionaire Warren Buffett Disciple Warns: Don’t Quit Your Job To Start A New Business, Do This Instead",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/20/billionaire-warren-buffett-disciple-warns-dont-quit-your-job-to-start-a-new-business-do-this-instead/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GE_8vwiejJ14Dm92jrpZnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/543033fd0ce316fc12d2c3f6ff657147",
-      "published_at": "2026-06-20T17:12:21Z"
-    },
-    {
-      "id": "2715f8d8-540d-355f-be6e-149548893888",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "20% of Warren Buffett-led Berkshire Hathaway's $341 Billion Portfolio Is Invested in 1 Stock That's Quietly Trying to Cash in on the AI Boom",
-      "summary": "This massive tech company has seen its share price rise more than 12-fold in the past decade.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/20/warren-buffett-berkshire-billion-cash-in-ai-boom/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XobXrw.x8IXSuzsPiHSm0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d2f92d15f17ba3ceb4d13f8ebfa1a417",
-      "published_at": "2026-06-20T17:05:00Z"
-    },
-    {
-      "id": "f18b3163-b0d7-318e-aeb3-19c3a80c7a58",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trump’s Fears About Economy Undercut US Leverage in Iran Talks",
-      "summary": "(Bloomberg) -- President Donald Trump said the prospect of global economic collapse was a big reason he signed an interim peace deal with Iran. That admission exposes a key US weakness heading into the next round of talks with Tehran.Most Read from BloombergIran Says Hormuz Closed Again as Talks With US Set to OpenRead the 14-Point Draft Memorandum Between the US and IranDOJ Rejects Judge Request to Certify $1.8 Billion Fund NixedUS-Iran Nuclear Talks Stall Over Lebanon Before They BeginIran Flo",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/news/trumps-fears-about-economy-undercut-us-leverage-in-iran-talks-163341928.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HEW2yGWAq.VLEtBFFiKhWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-06/7aed21f8-d0b4-4fbb-9e37-ea2e0f5b50d6",
-      "published_at": "2026-06-20T16:33:41Z"
-    },
-    {
-      "id": "e3e10eb6-a0b5-303d-a49b-4af5dc958d16",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "IEA Cuts 2026 Oil Demand Outlook Amid Gulf Disruptions, Sees Recovery Taking Shape in 2027",
-      "summary": "The International Energy Agency (IEA) has sharply downgraded its outlook for global oil demand in 2026, citing the impact of the Gulf supply crisis, while forecasting a gradual restoration of flows through the Strait of Hormuz that could reach 8 million barrels per day by 2027. The agency now expects global oil demand to contract by 1.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/30823/iea-cuts-2026-oil-demand-outlook-amid-gulf-disruptions-sees-recovery-taking-shape-in-2027",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VrortisiIRA4nqh1wXEl0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/66e69fdaa1a711b40d35293f85706e7a",
-      "published_at": "2026-06-20T16:12:00Z"
-    },
-    {
-      "id": "21ed2658-919e-39fb-99de-907c54079d47",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Michael Saylor Touts $48 Billion Bitcoin Turnaround, But Can MicroStrategy’s STRC Survive 2026?",
-      "summary": "Saylor says Strategy reserves top debt by $48 billion, but STRC trades below par as traders debate the funding model.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/saylor-bitcoin-strc-survive-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N1EUaUiNDVgCM.XJVsj_8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/ed0e4c5f4cb3cc4f82e87476f87e7701",
-      "published_at": "2026-06-20T16:03:03Z"
-    },
-    {
-      "id": "35b161e8-bc5c-30f9-bbab-821a536e2b49",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Dear MicroStrategy Stock Fans, Mark Your Calendars for July 4",
-      "summary": "Strategy investors are closely watching the July 4 CLARITY Act deadline, which could reshape crypto regulation and influence bitcoin-linked stocks.",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/2567433/dear-microstrategy-stock-fans-mark-your-calendars-for-july-4",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ecF7QEHXB4Z670x0bXPJgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/40e87a62efbddb5dcdb498184db4d77f",
-      "published_at": "2026-06-20T16:00:02Z"
-    },
-    {
-      "id": "a5a0c2d8-1402-3797-b398-9f69099b95bb",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Arthur Hayes Says Michael Saylor Is Pulling 'Jedi Mind Tricks' On Whether Strategy Will Sell More Bitcoin",
-      "summary": "Strategy sold 32 BTC for roughly $2.5 million in late May, its first standalone Bitcoin sale since 2022.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/mstr-hayes-saylor-jedi-mind-tricks-btc-sales/cZK8NwpR7Jp",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/87tHZZuiQRbOQol61p_gjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/166a50350e30fe0fac86d2241d4ac9fa",
-      "published_at": "2026-06-20T15:51:00Z"
     }
   ]
 }
