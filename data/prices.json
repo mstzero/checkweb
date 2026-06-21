@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20 20:11 UTC",
+  "last_updated": "2026-06-21 20:20 UTC",
   "total": 37,
   "ok": 37,
   "prices": {
@@ -7,45 +7,45 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "decimals": 0,
-      "price": 63880.8515625,
-      "change": 0.54,
-      "base": 63540.8359375,
+      "price": 64002.1484375,
+      "change": -0.37,
+      "base": 64239.67578125,
       "status": "ok"
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
       "decimals": 0,
-      "price": 1727.699951171875,
-      "change": 0.98,
-      "base": 1710.982421875,
+      "price": 1727.969970703125,
+      "change": -0.65,
+      "base": 1739.3013916015625,
       "status": "ok"
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
       "decimals": 2,
-      "price": 71.83000183105469,
-      "change": 3.03,
-      "base": 69.7206039428711,
+      "price": 73.93000030517578,
+      "change": 1.04,
+      "base": 73.17265319824219,
       "status": "ok"
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
       "decimals": 2,
-      "price": 585.2999877929688,
-      "change": 0.71,
-      "base": 581.1637573242188,
+      "price": 589.72998046875,
+      "change": 0.36,
+      "base": 587.6138916015625,
       "status": "ok"
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "decimals": 4,
-      "price": 1.1440000534057617,
-      "change": 0.67,
-      "base": 1.1363840103149414,
+      "price": 1.1403000354766846,
+      "change": -0.76,
+      "base": 1.1490520238876343,
       "status": "ok"
     },
     "GOLD": {
@@ -97,8 +97,8 @@
       "symbol": "DXY",
       "name": "Dollar Index",
       "decimals": 2,
-      "price": 100.8489990234375,
-      "change": -0.0,
+      "price": 100.8499984741211,
+      "change": 0,
       "base": 100.8499984741211,
       "status": "ok"
     },
@@ -107,9 +107,9 @@
       "name": "US 10Y Yield",
       "decimals": 2,
       "suffix": "%",
-      "price": 4.450999736785889,
+      "price": 4.451000213623047,
       "change": 0,
-      "base": 4.450999736785889,
+      "base": 4.451000213623047,
       "status": "ok"
     },
     "US02Y": {
@@ -117,26 +117,26 @@
       "name": "US 2Y Yield",
       "decimals": 2,
       "suffix": "%",
-      "price": 3.6580002307891846,
+      "price": 3.6579999923706055,
       "change": 0,
-      "base": 3.6580002307891846,
+      "base": 3.6579999923706055,
       "status": "ok"
     },
     "EURUSD": {
       "symbol": "EURUSD",
       "name": "Euro / US Dollar",
       "decimals": 4,
-      "price": 1.1469204425811768,
-      "change": -0.33,
-      "base": 1.150734782218933,
+      "price": 1.1463946104049683,
+      "change": 0.05,
+      "base": 1.1458560228347778,
       "status": "ok"
     },
     "GBPUSD": {
       "symbol": "GBPUSD",
       "name": "British Pound / US Dollar",
       "decimals": 4,
-      "price": 1.3237143754959106,
-      "change": 0.27,
+      "price": 1.3192089796066284,
+      "change": -0.08,
       "base": 1.3202017545700073,
       "status": "ok"
     },
@@ -144,8 +144,8 @@
       "symbol": "USDJPY",
       "name": "US Dollar / Yen",
       "decimals": 2,
-      "price": 161.27499389648438,
-      "change": -0.01,
+      "price": 161.17799377441406,
+      "change": -0.07,
       "base": 161.28900146484375,
       "status": "ok"
     },
@@ -153,9 +153,9 @@
       "symbol": "USDTRY",
       "name": "US Dollar / Turkish Lira",
       "decimals": 2,
-      "price": 46.42890167236328,
-      "change": -0.02,
-      "base": 46.44004821777344,
+      "price": 46.349300384521484,
+      "change": -0.15,
+      "base": 46.419891357421875,
       "status": "ok"
     },
     "SPY": {
@@ -198,8 +198,8 @@
       "symbol": "ES",
       "name": "S&P 500 Futures",
       "decimals": 2,
-      "price": 7570.75,
-      "change": 0.83,
+      "price": 7556.25,
+      "change": 0.64,
       "base": 7508.43017578125,
       "status": "ok"
     },
@@ -207,8 +207,8 @@
       "symbol": "NQ",
       "name": "Nasdaq Futures",
       "decimals": 2,
-      "price": 30719.75,
-      "change": 1.51,
+      "price": 30647.0,
+      "change": 1.27,
       "base": 30263.349609375,
       "status": "ok"
     },
@@ -226,8 +226,8 @@
       "name": "UK FTSE 100",
       "decimals": 2,
       "price": 10363.2998046875,
-      "change": 0,
-      "base": 10363.2998046875,
+      "change": -0.35,
+      "base": 10399.7001953125,
       "status": "ok"
     },
     "CAC": {
@@ -244,8 +244,8 @@
       "name": "Japan Nikkei 225",
       "decimals": 2,
       "price": 71250.0625,
-      "change": 0,
-      "base": 71250.0625,
+      "change": 0.28,
+      "base": 71053.4921875,
       "status": "ok"
     },
     "SHCOMP": {
