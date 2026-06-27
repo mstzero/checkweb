@@ -1,18 +1,194 @@
 {
-  "last_updated": "2026-06-27 13:25 UTC",
+  "last_updated": "2026-06-27 15:00 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "6c679a67-5524-382b-be29-adc8d4867f81",
+      "id": "98840c37-eb49-3c3b-9068-643258062aff",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "SpaceX Is Borrowing $20 Billion to Fund Its AI Ambitions. Is That a Bold Move or a Dangerous One?",
-      "summary": "SpaceX just pulled off a huge IPO ever and immediately went back to borrow $25 billion more -- here's what that tells you about the bet Musk is actually making.",
+      "title": "Here's What a $50,000 Investment in SpaceX Stock Could Look Like in 10 Years, According to Billionaire Investor Ron Baron",
+      "summary": "SpaceX is getting a lot of attention, with everyone trying to figure out whether it's overvalued or just starting its ascent.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/spacex-borrow-20-billion-fund-ai-efforts-bold/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AMhfWLCGheZNgDfWNj674A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bca1960dbb96ce03f8eace0520ac4784",
-      "published_at": "2026-06-27T13:05:00Z"
+      "url": "https://www.fool.com/investing/2026/06/27/what-50k-investment-spacex-stock-ron-baron/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mz8DmDpraayxG7GBHPz7Ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/822d1601e1ffa864c9be2d18c3da68f7",
+      "published_at": "2026-06-27T14:50:00Z"
+    },
+    {
+      "id": "c92c5231-0df1-346d-8295-d339ea6c195b",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Is UBS Group (UBS) One of the Most Profitable Value Stocks to Invest In Now?",
+      "summary": "​UBS Group (NYSE:UBS) is one of the most profitable value stocks to invest in now. On June 23, UBS and Nethermind completed two joint proofs of concept demonstrating that the public Ethereum network can meet the operational and compliance standards required by regulated financial institutions. This initiative proves that banks can implement rigorous risk management […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-group-ubs-one-most-144616211.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fqKG5iH3VEcmrkBxIrT7fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8eec0772350e216890020428c8781355",
+      "published_at": "2026-06-27T14:46:16Z"
+    },
+    {
+      "id": "ed43f1d7-df32-3e3c-8262-a6c162467eb0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Qualcomm Wants to Bring AI Data Center Power to Your Smartphone",
+      "summary": "Artificial intelligence is rapidly shifting from the cloud to the devices we use every day. The first wave of generative AI relied on massive data centers packed with expensive graphics processors. The next phase is about making AI faster, cheaper, and more private by moving more of that computing directly onto smartphones, laptops, and vehicles. ... Qualcomm Wants to Bring AI Data Center Power to Your Smartphone",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/27/qualcomm-wants-to-bring-ai-data-center-power-to-your-smartphone/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m6iMOc.QqtzX79Db3Rn6_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/81e640587f70ba6b184851e229e0447b",
+      "published_at": "2026-06-27T14:38:43Z"
+    },
+    {
+      "id": "78f1d2ea-51c9-3258-8118-5641b4fd803f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "With the Market Sliding, Costco Is Worth Every Dollar of $1,000",
+      "summary": "Costco's all-weather appeal makes it a relative market winner when the stock market is at its worst.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/with-the-market-sliding-stock-is-worth-every-dolla/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F4gHYRAOI83S7j7OVEC4wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/acf3d2ff6f52382163cc207095feff19",
+      "published_at": "2026-06-27T14:36:48Z"
+    },
+    {
+      "id": "afc3b1b5-9c4a-383a-b9c9-16cdfced0d54",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
+      "summary": "The seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/degJrBobdmY8qv4H_Wpabg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/4a9164d0d79732fafa1c8990bc2ae47f",
+      "published_at": "2026-06-27T14:34:32Z"
+    },
+    {
+      "id": "cd196a4c-22bd-3305-b039-1a7c9b9b26b3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Antonio Filosa Report Card: Grading Stellantis’ CEO After 1 Year",
+      "summary": "Stellantis shareholders have suffered, the losses are staggering, and Antonio Filosa keeps insisting the turnaround is on track. So which side of that argument does the evidence actually support after his first year running the company?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/27/the-antonio-filosa-report-card-grading-stellantis-ceo-after-1-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xwJxi6XEnDUS5D.TOa6PPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7415fc6d33f644c4842a206c08062ee8",
+      "published_at": "2026-06-27T14:25:32Z"
+    },
+    {
+      "id": "69d4ca2d-6fc3-3584-9bb5-050aefd2cc61",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget Pepsi: As Volatility Tests Consumer Staples, This Global Household Name Wins Every Time",
+      "summary": "PepsiCo (NASDAQ:PEP) just hiked its dividend for the 54th straight year and beat Q1 estimates, putting it squarely back in dividend-investor chatter as consumer staples wobble through another bout of volatility. The Hot Ticker Isn’t Telling You the Whole Story PepsiCo’s Q1 FY26 headline beat masks a business that posted organic revenue growth of just ... Forget Pepsi: As Volatility Tests Consumer Staples, This Global Household Name Wins Every Time",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/27/forget-pepsi-as-volatility-tests-consumer-staples-this-global-household-name-wins-every-time/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PTHJ_bKlLh9Lev0IOXOHHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/03ad257304e5cbc4770198ad266f093d",
+      "published_at": "2026-06-27T14:22:14Z"
+    },
+    {
+      "id": "0799b593-529a-3705-a272-74df944499e0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet Is Joining the Dow Jones Industrial Average. 3 Surprising Reasons Why SpaceX Could Be Next.",
+      "summary": "With just 30 components, the Dow's exclusivity is built on industry leadership, which SpaceX has in spades.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/alphabet-is-joining-dow-spacex-could-be-next/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nU6qsDKV0NoZQkgriRwz2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/de8c77afcb93a9f473ebd37a93ef72ed",
+      "published_at": "2026-06-27T14:20:00Z"
+    },
+    {
+      "id": "4bda8f4c-200a-3a29-827e-0246f523bae2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Will Bitcoin Crash to $20K? ChatGPT and Claude Explain the Worst-Case Scenario",
+      "summary": "Both ChatGPT and Claude consider a $20,000 Bitcoin possible but unlikely, saying it would require an extraordinary combination of factors. ChatGPT's worst-case scenario includes a ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/will-bitcoin-crash-to-20k-chatgpt-claude-worst-case-scenario/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CF23DQmXgmFcjjbMhmnIDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/a57d353b6fe9080b466674e5c8f23e4c",
+      "published_at": "2026-06-27T14:12:16Z"
+    },
+    {
+      "id": "b0ed4367-1d59-3daa-b693-2988cc4f4a87",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Goldman Expects Inflation to Ease in 2027 as AI and Energy Pressures Recede",
+      "summary": "Goldman Sachs believes U. S. inflation will remain relatively elevated through the end of 2026 before slowing considerably in 2027 as the impact of artificial intelligence-related pricing distortions and energy-driven inflation gradually fades.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/31033/goldman-expects-inflation-to-ease-in-2027-as-ai-and-energy-pressures-recede",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hqlpp0.mVINn7h8Hq7zyPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/9bf79590e228e08766f7d6c8148e8287",
+      "published_at": "2026-06-27T13:52:00Z"
+    },
+    {
+      "id": "45e0b9eb-ecc0-314f-9aa3-b6e2722f61a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's Exactly How We Fixed Social Security the Last Time It Was Running Out of Money",
+      "summary": "This isn't the first time Social Security has been running out of money.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/06/27/heres-exactly-how-we-fixed-social-security-the-las/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/csc5IdVLIv4XorfsGCmFBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a513963cc83b004a69014d079339f4a1",
+      "published_at": "2026-06-27T13:43:00Z"
+    },
+    {
+      "id": "55d47acd-a329-3ca6-96aa-8fd097a26a6e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Stock Market Week Ahead: Rotating, For Now, Away From The AI Boom",
+      "summary": "Recent action suggests that hyperscalers and other AI boom stocks may be passing the baton to other stock market sectors.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-rotating-for-now-away-from-the-ai-boom/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wf3oKkk9vjIMubXsY95qHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bfd56da204a7a8311ef82d086bf4703a",
+      "published_at": "2026-06-27T13:38:13Z"
+    },
+    {
+      "id": "8fc84c39-9b7c-32a1-89dc-b2cc882b0a5a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What a Kevin Warsh-Led Fed Could Mean for Mortgage REITs AGNC and Annaly Capital",
+      "summary": "The new Fed chief could be a headwind for AGNC and Annaly in the near term, but a positive over the longer term.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/what-a-kevin-warsh-led-fed-could-mean-for-mortgage/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uiNSA0rMKdeFk.6JLWFDgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/324d22b7835ea7e8963c77372656bbe0",
+      "published_at": "2026-06-27T13:35:00Z"
+    },
+    {
+      "id": "090a345e-3d80-3ae6-9eb6-26b859d7813b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Cathie Wood-backed crypto stock drops over 90%",
+      "summary": "Michael Saylor's Strategy (NASDAQ: MSTR) has been the inspiration behind many companies picking up a crypto treasury model. One such firm was Brera Holdings. Founded in 2022, it began as an owner of small football clubs across Italy, North Macedonia, Mozambique, and Mongolia. After its ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/cathie-wood-backed-crypto-stock-drops-over-90",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rtPXZEtD7yu1wf3vL46vTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a2081ae1da7480c8a430bc915442aedd",
+      "published_at": "2026-06-27T13:29:13Z"
+    },
+    {
+      "id": "d86765c0-5711-367b-98c7-9931e9062764",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Apple Wants to Buy Blacklisted Chinese Memory. Micron Has Nothing to Worry About",
+      "summary": "The AI boom has transformed one of the semiconductor industry’s most cyclical businesses into one of its tightest markets. Memory chips, once plagued by oversupply and collapsing prices, have become one of the biggest bottlenecks for AI infrastructure. That shortage has helped lift Micron Technology (NASDAQ:MU), Samsung Electronics, and SK hynix to record profitability as ... Apple Wants to Buy Blacklisted Chinese Memory. Micron Has Nothing to Worry About",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/27/apple-wants-to-buy-blacklisted-chinese-memory-micron-has-nothing-to-worry-about/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E3AGH0.gJ_pOVNBc2aucrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f6d8bfe4b4168adc6b185fe4be125f50",
+      "published_at": "2026-06-27T13:27:33Z"
+    },
+    {
+      "id": "f86e7a05-8b03-3032-884a-9c629c74e92e",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers",
+      "summary": "If you own VanEck Semiconductor ETF (NASDAQ:SMH) for AI exposure, you are betting on the same handful of chip designers everyone else holds. SMH is the default vehicle for the trade: a concentrated basket led by NVIDIA, Taiwan Semiconductor, and Broadcom that has produced the headline gains of the AI cycle. The case for owning ... Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/27/forget-the-ai-chipmakers-for-0-47-this-fund-owns-the-companies-building-the-data-centers/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G8ND0CUZLib.mURw3wPmgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/456dd010972b49c2bfde42d94792267c",
+      "published_at": "2026-06-27T13:23:45Z"
+    },
+    {
+      "id": "5ebff8b0-e520-3a02-a22e-1f1de9e92919",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Caterpillar (CAT) Joins Russell Top 50 As AI Power Backlog Draws Investor Focus",
+      "summary": "Caterpillar (NYSE:CAT) has been added to the Russell Top 50 Index, reflecting its inclusion among some of the largest U.S. companies by market value. The move comes as Caterpillar reports a record order backlog tied to AI data center power generation projects. The company supplies engines and turbines for large scale infrastructure efforts, including the Chevron Microsoft power initiative for AI data centers. Caterpillar sits at an intersection of heavy equipment manufacturing and large...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-joins-russell-top-130809825.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fQ60fphztv2LNSJGNMZ4hQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/380cee108664e03df52933d767981db0",
+      "published_at": "2026-06-27T13:08:09Z"
     },
     {
       "id": "c95e935c-06b5-387b-8ddf-85f55d1e1cd0",
@@ -23,6 +199,17 @@
       "source": "BeInCrypto",
       "url": "https://beincrypto.com/coinbase-ceo-ai-costs-bitcoin-market/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x20zNcXJXo6vzGErki6SFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/cb304460232752ef04772a37ed860ba6",
+      "published_at": "2026-06-27T13:00:00Z"
+    },
+    {
+      "id": "8af1bf39-d562-3b87-bfd0-285578116086",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AI’s Energy Crunch Has Investors Searching for Next IPO Winners",
+      "summary": "(Bloomberg) -- The artificial intelligence boom has a power problem, and Wall Street is betting billions on companies that promise to solve it — even if some of the technology hasn’t been fully developed yet. Most Read from BloombergLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll RevenueIndonesia Opens Door to Dirty Money to Fund Prabowo’s PlansOman Tells Allies Ships Going Through Hormuz May Have to PayApple Shares Sink After Price Hikes Hit iPads and MacsAn Analyst’s Missed Rema",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/energy/articles/ai-energy-crunch-investors-searching-130000398.html",
+      "thumbnail": "",
       "published_at": "2026-06-27T13:00:00Z"
     },
     {
@@ -37,17 +224,6 @@
       "published_at": "2026-06-27T13:00:00Z"
     },
     {
-      "id": "fb6bbaee-a3a3-30c4-ad03-bf5c0a7d8f2f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Cash-Rich Utility Retirees Can Count On to Protect Their Future Financial Plans",
-      "summary": "Few stocks earn their place in a retiree’s portfolio the way Consolidated Edison (NYSE:ED) has. The New York utility delivers electricity, gas, and steam to roughly 3.7 million electric customers across the country’s busiest commercial district and just notched its 52nd consecutive year of dividend increases. Is that streak built to last another decade? Dividend ... 1 Cash-Rich Utility Retirees Can Count On to Protect Their Future Financial Plans",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/27/1-cash-rich-utility-retirees-can-count-on-to-protect-their-future-financial-plans/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ogLBzpg90HbxywIbosEr4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9227437da1c7b907cda3b08c29498342",
-      "published_at": "2026-06-27T12:59:11Z"
-    },
-    {
       "id": "f616be2d-bfcf-3ef0-8925-a49485c99531",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -57,61 +233,6 @@
       "url": "https://www.fool.com/coverage/charts/2026/06/27/microsoft-vs-alphabet-what-their-revenue-trends-tell-investors/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/071tm..NcFZpkZwJtbiluQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1b1ce07915034a2ca6ea7a3d91c77ea9",
       "published_at": "2026-06-27T12:54:01Z"
-    },
-    {
-      "id": "f5ad9753-1269-3c30-a377-5d106cd88d31",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Stock Market Metric Just Hit \"Extreme Fear.\" Warren Buffett Has 11 Encouraging Words for Investors Right Now.",
-      "summary": "If you're nervous about volatility, Warren Buffett can offer some reassuring advice.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/this-stock-market-metric-just-hit-extreme-fear-war/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ndW4nCh8yKw_LHNt1xazUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f68544f88a2a7a248c9ad607e15d5cf8",
-      "published_at": "2026-06-27T12:50:00Z"
-    },
-    {
-      "id": "47a4cc87-7ef9-3152-ab1a-d89769e0e0b9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Joins Nasdaq-100 on July 7. Its Stock is Still Not a Buy",
-      "summary": "The biggest IPO in history is about to reach another milestone, but smart investors shouldn’t confuse forced buying with lasting value. On July 7, SpaceX (NASDAQ:SPCX) will officially join the Nasdaq-100 after the Nasdaq exchange rewrote its eligibility rules to allow newly public mega-cap companies into the index without waiting through the traditional seasoning period. ... SpaceX Joins Nasdaq-100 on July 7. Its Stock is Still Not a Buy",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/27/spacex-joins-nasdaq-100-on-july-7-its-stock-is-still-not-a-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.Y3TR1oJE2PFC4qAdAIYmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/69e3b48502edc0a0ab25f46c07bc3ac9",
-      "published_at": "2026-06-27T12:40:24Z"
-    },
-    {
-      "id": "2abc5460-ac52-31d9-b88b-18e2810feb7a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Blue Chip Industrial Stocks I'd Buy Into This Week's Weakness Without Hesitation",
-      "summary": "Investors looking for industrial stocks experiencing modest pullbacks might want to examine Canadian National Railway and Johnson Controls.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/two-blue-chip-industrial-stocks-id-buy-into-this-w/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aWxnihh9VxffWMFkEKy7bQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/38784b15bdc55bd22eb213124d86ecec",
-      "published_at": "2026-06-27T12:25:00Z"
-    },
-    {
-      "id": "3f9caed3-ac50-39c0-8445-ba3613c87b49",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Top Dividend ETF Just Lowered Its Payment. Should Income Investors Be Concerned?",
-      "summary": "The Schwab U.S. Dividend Equity ETF has a long history of paying a rising dividend.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/this-top-dividend-etf-just-lowered-its-payment-sho/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ginxLW86TAH67AWRCRuQ4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/51508ef7da32bd1c00a6735e1c0b6601",
-      "published_at": "2026-06-27T12:20:00Z"
-    },
-    {
-      "id": "b76cd5de-64a1-36cf-9f16-37ab5358fd8d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "64 With $1.1 Million in a Traditional IRA. Yield Volatility Is Back. Here’s Where I’m Allocating Capital",
-      "summary": "At 64 with $1.1 million in a Traditional IRA, I want reliable income that compounds tax-deferred until required minimum distributions begin. The 10-year Treasury sits at 4.46%, after swinging between 3.97% and 4.67% over the past year. With the yield curve flattening to 0.27%, I want equity income that does not blink. I am allocating ... 64 With $1.1 Million in a Traditional IRA. Yield Volatility Is Back. Here’s Where I’m Allocating Capital",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/27/64-with-1-1-million-in-a-traditional-ira-yield-volatility-is-back-heres-where-im-allocating-capital/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/up0l3kJxl2Y287lMxHyX_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cd3b9453b2752c8b2fa14ecff1fb0294",
-      "published_at": "2026-06-27T12:09:22Z"
     },
     {
       "id": "4cf27c13-4e93-3dbe-b7ea-7f50e1d9d115",
@@ -134,28 +255,6 @@
       "url": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7zItvof0K01cv0weXUquCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dd249868-61df-44b2-8c42-5cf0e8fcbdf0_531264e176c13060d9cc298566c80ad95f95f46c64261f2b5e35ce058975b871.jpg",
       "published_at": "2026-06-27T12:00:00Z"
-    },
-    {
-      "id": "2ef39433-0277-3263-9f2e-2b31518e9d79",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Insane Number HPE’s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
-      "summary": "The artificial intelligence boom has shifted from a race for chips to a race for electricity. Every new AI data center requires enormous amounts of reliable power, yet the U.S. electric grid is struggling to keep pace. That mismatch is becoming one of the defining investment themes of the decade. While semiconductor companies remain at ... The Insane Number HPE’s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/27/the-insane-number-hpes-ceo-just-threw-out-shows-why-bloom-energy-is-a-buy-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w7jVush77HzNL9ULGTHqkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5ad20199a54755f278bf5c49ef835615",
-      "published_at": "2026-06-27T11:51:23Z"
-    },
-    {
-      "id": "ad7c7e69-9ada-3646-a300-3a75923c2bc1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why SpaceX Stock Plummeted This Week",
-      "summary": "SpaceX stock is now down roughly 24% from its high. What comes next?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/why-spacex-stock-plummeted-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OvEepT1ncM0uGB5ydA5TrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47d21fe1588be1ad1f13ce131cfd23fc",
-      "published_at": "2026-06-27T11:51:16Z"
     },
     {
       "id": "cdf300ad-ea8c-3605-91d8-d60e964526b7",
@@ -211,105 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/freegold-ventures-tsx-fvl-redefining-090826379.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
       "published_at": "2026-06-27T09:08:26Z"
-    },
-    {
-      "id": "4601a6be-f658-393f-9c7b-9d98934bf3b4",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin holds above $60,000 as Strategy’s funding model faces growing scrutiny",
-      "summary": "Investing.com -- Bitcoin held above the $60,000 mark on Saturday as investors weighed mounting concerns over Strategy Inc’s (NASDAQ:MSTR) Bitcoin accumulation strategy ahead of a key dividend reset, while broader cryptocurrency markets traded higher.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-60-000-090357524.html",
-      "thumbnail": "",
-      "published_at": "2026-06-27T09:03:57Z"
-    },
-    {
-      "id": "04772dd3-2524-35db-a484-2e94e4d83837",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Ripple CEO Criticizes Saylor’s Bitcoin Strategy While Remaining Bullish on BTC",
-      "summary": "Ripple CEO Garlinghouse called Saylor's Bitcoin model a 'damning indictment,' with STRC trading 26% below par.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/ripple-ceo-microstrategy-bitcoin-criticism/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0uC0t7STZpgdTohQMbu6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a",
-      "published_at": "2026-06-27T08:27:46Z"
-    },
-    {
-      "id": "dc0b9823-ee01-3112-a8c6-3a4966b03d8a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
-      "summary": "(Bloomberg) -- Apple Inc. is pressing the White House for approval to purchase memory chips from a blacklisted Chinese company as it grapples to rein in chip costs, the Financial Times reported on Saturday.Most Read from BloombergLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll RevenueIndonesia Opens Door to Dirty Money to Fund Prabowo’s PlansOman Tells Allies Ships Going Through Hormuz May Have to PayApple Shares Sink After Price Hikes Hit iPads and MacsUS Strikes Iran in Response",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html",
-      "thumbnail": "",
-      "published_at": "2026-06-27T07:45:23Z"
-    },
-    {
-      "id": "d601a312-c496-36c2-a51d-0fa68ad68447",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) Stock Faces Fresh Scrutiny As STRC Slide Fuels Funding Fears",
-      "summary": "Strategy (NasdaqGS:MSTR), formerly MicroStrategy, is facing mounting concern after its flagship STRC preferred stock fell sharply, drawing heightened scrutiny. Analysts and critics are questioning the company’s Bitcoin backed funding model and its capacity to maintain cash reserves for preferred dividends. The company recently sold Bitcoin to fund dividends, a shift from its earlier “never sell” stance, and its stock now trades at a discount to its Bitcoin holdings. Public criticism, talk of...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-stock-faces-fresh-070704095.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
-      "published_at": "2026-06-27T07:07:04Z"
-    },
-    {
-      "id": "ac722a8c-68f8-39e2-8c18-471098e1fc2a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Is the Bottom In For BTC USD Price? 22 Months Until Next Bitcoin Halving – Time to Buy?",
-      "summary": "Bitcoin is testing the patience of every holder watching their screen. BTC USD at $59,890, down -0.5% in 24 hours and -5.1% over the past week, and the more important question isn’t where the price is right now, but whether the floor has already been laid. The next Bitcoin halving ...",
-      "source": "99bitcoins",
-      "url": "https://99bitcoins.com/news/bitcoin-btc/btc-usd-price-bottom-halving/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.wSVkz_hTYzmfCnYZnRGKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/99bitcoins_us_315/aabb500871b9dad5aa66e9ff7b7da92a",
-      "published_at": "2026-06-27T07:00:50Z"
-    },
-    {
-      "id": "0a2761d5-455b-36d0-9ebc-bb201be5e5e0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Coinsilium CEO and CFO discuss results, treasury strategy and accounting treatment - ICYMI",
-      "summary": "Coinsilium Group Limited (AQSE:COIN, OTCQB:CINGF, FRA:5CT) CEO Eddy Travia and CFO Ben Proffitt discuss the company's latest annual results, Bitcoin treasury strategy and evolving accounting treatment for digital assets. The pair also outline Coinsilium's growing focus on frontier...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1094588/coinsilium-ceo-and-cfo-discuss-results-treasury-strategy-and-accounting-treatment-icymi-1094588.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/19.hp.VGo7Vkyt1PTt9S_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/d0783bfa43c829fb9462dee681266659",
-      "published_at": "2026-06-27T06:48:00Z"
-    },
-    {
-      "id": "b195c5eb-4a85-3fca-ab9c-f32331b40352",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "The investments that soared and slumped in the first half of 2026",
-      "summary": "The first half of 2026 has rewarded investors who backed the machinery behind AI and punished those who reached for crypto and gold, as the technology boom reshaped which assets thrived and which were left behind.View on euronews",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/06/27/the-investments-that-soared-and-slumped-in-the-first-half-of-2026",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6XDJow.OQtLsMeXvVViFMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/eb7ce567ebb3d22323d66dfbb6d4b680",
-      "published_at": "2026-06-27T05:01:31Z"
-    },
-    {
-      "id": "516fffb9-5c9f-3faa-a63c-103927293ca4",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal",
-      "summary": "BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mmItZj1w6uZR7mVgNXHwig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e1d8c3ad346767ea04efc136bafb8859",
-      "published_at": "2026-06-27T04:35:00Z"
-    },
-    {
-      "id": "90ec199f-6674-369a-9fc6-9ef2ab90c567",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "How did the hyperscalers do in 1Q26?",
-      "summary": "Investing.com -- Bernstein said Google Cloud has emerged as the leading AI cloud platform after a strong first quarter, with accelerating cloud growth and rising profitability helping it pull ahead of rivals in incremental cloud revenue despite continued heavy spending on AI infrastructure.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/did-hyperscalers-1q26-042810607.html",
-      "thumbnail": "",
-      "published_at": "2026-06-27T04:28:10Z"
     }
   ]
 }
