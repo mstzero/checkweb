@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-06-27 20:59 UTC",
+  "last_updated": "2026-06-27 22:09 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "550d506b-1f29-337d-94a2-61e80dfe6176",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "A $290,000 Tesla Semi for $50,000?? California’s Incentive Stack Is Real, but the Number Hides as Much as It Reveals.",
+      "summary": "A claim is circulating that stops you mid-scroll: a California small fleet can now buy a Tesla Semi for as little as $50,000. The Tesla Semi carries a $290,000 sticker. The post lays out how two California incentive programs stack to knock $240,000 off that price, leaving a net cost of roughly $50,000, which it […] The post A $290,000 Tesla Semi for $50,000?? California’s Incentive Stack Is Real, but the Number Hides as Much as It Reveals. appeared first on FreightWaves.",
+      "source": "FreightWaves",
+      "url": "https://finance.yahoo.com/small-business/articles/290-000-tesla-semi-50-214519534.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K_O9snxDPcUNXfbfRoD6AQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/freightwaves_373/d1a9380bf54d8f61e741b020bcc5d83e",
+      "published_at": "2026-06-27T21:45:19Z"
+    },
+    {
+      "id": "b2ed4d00-36df-39aa-8214-16c06d293b52",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
+      "summary": "The deal adds a missing piece to the company's vertically integrated model at the software application layer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/spacex-looks-to-reshuffle-the-deck-in-the-enterpri/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iav4sGWHvzynGNe6TjgmOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/baab4495de58602645fae590bbfd1a0b",
+      "published_at": "2026-06-27T21:20:00Z"
+    },
+    {
+      "id": "bc7aafee-d461-344b-9891-355f2d63e509",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Teradata (TDC) Expands Cloud Partnerships As VantageCloud Adoption Picks Up",
+      "summary": "Teradata (NYSE:TDC) reports growing momentum in its cloud business tied to adoption of its VantageCloud platform. The company highlights new and expanded partnerships with major cloud providers, including AWS, Microsoft Azure, and Google Cloud. These developments point to a larger shift in Teradata’s model toward cloud based data and AI services for data intensive customers. Teradata is best known for helping large organizations manage and analyze complex data, and its VantageCloud platform...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teradata-tdc-expands-cloud-partnerships-210700161.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nTWELeTHEmnHaHGQ9PNC6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/36ca5b522ba2e0a30acf16e5282f313b",
+      "published_at": "2026-06-27T21:07:00Z"
+    },
+    {
+      "id": "88ff48a2-3ad0-390a-ab02-424e50cd4938",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look.",
+      "summary": "It could end up being a great addition to your portfolio.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/looking-for-reliable-retirement-income-this-vangua/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XW0JwKLHLeSCSJTKborhIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e5c82e53cac1d015ba678d8abbdc1498",
+      "published_at": "2026-06-27T20:56:00Z"
+    },
     {
       "id": "c4d99923-212a-3d80-9fa8-fc21b2e5dcf0",
       "asset": "NVDA",
@@ -126,8 +170,8 @@
     },
     {
       "id": "a0935670-993f-3d3d-b877-5aba598b62b9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Prediction: Buying Rivian Stock Today Could Set You Up for Life",
       "summary": "Rivian is copying Tesla's playbook for growth.",
       "source": "Motley Fool",
@@ -167,17 +211,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-thinks-microsoft-msft-chevron-190905266.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7FVXaC.qNKFr6Wz4v4sdRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
       "published_at": "2026-06-27T19:09:05Z"
-    },
-    {
-      "id": "9ee6036b-cc3f-32f9-807a-1ca5dad18f94",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVIDIA (NVDA) Announces the NVIDIA Vera Rubin Platform",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the best trending AI stocks to watch in 2026. NVIDIA Corporation (NASDAQ:NVDA) announced on June 22 the NVIDIA Vera Rubin platform that delivers world-class supercomputers for science, bringing together NVIDIA CUDA-X™ libraries, native double-precision (FP64) performance, and the full-stack capabilities of the NVIDIA AI platform. It further stated that […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-announces-nvidia-vera-190852060.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OOLpgO9iYhjDMfrtb.kSUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-      "published_at": "2026-06-27T19:08:52Z"
     },
     {
       "id": "905e6875-9a72-3928-8fc2-43a75f87fdd1",
@@ -277,39 +310,6 @@
       "url": "https://beincrypto.com/billionaire-jeremy-grantham-bitcoin-criticism/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9eCPaGDCbkHo.aZAfAS62g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5e14791e71e801e9e081d9386bbf5171",
       "published_at": "2026-06-27T17:44:42Z"
-    },
-    {
-      "id": "d800bb4b-6fbf-3561-ad97-84b5dbbab16a",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Where Will Solana Be in 3 Years?",
-      "summary": "The world's fastest blockchain could attract a lot more attention.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/where-will-solana-be-in-3-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G_1DBhccIXIRLTSG9GnN3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d4873e07a9e660aa3dfa1c40b06e10f8",
-      "published_at": "2026-06-27T17:25:00Z"
-    },
-    {
-      "id": "985bc40e-b27b-3767-b077-9e3cac4c7082",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "The ultimate AI proxy trade isn’t a tech stock—It’s something more humble",
-      "summary": "You can't all be Micron, up 329% so far this year. But Micron can't be Micron. And Nvidia can't be Nvidia. And Intel can't be Intel. And artificial intelligence can't be artificial intelligence. Without copper. There we've said it: without copper. And that's not going to change any time soon. Wood ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/the-ultimate-ai-proxy-trade-isnt-a-tech-stock-its-something-more-humble",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wqaMqw5L29R.VmNO.Zexpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/52586b29587b2e3df722d8f6ed50216f",
-      "published_at": "2026-06-27T16:47:00Z"
-    },
-    {
-      "id": "0ee9148e-cd09-361f-b833-661482ecb9d8",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Just Did Something It Wouldn’t Even Do During COVID, and Wall Street Is Freaking Out",
-      "summary": "Apple (NASDAQ:AAPL) rarely raises prices. That has been a working assumption on Wall Street for roughly two decades. The company absorbs component costs, squeezes suppliers, redesigns around the problem, and protects its margin envelope without making customers pay more for the same box. So when Apple confirmed Friday that it was raising prices an average of ... Apple Just Did Something It Wouldn’t Even Do During COVID, and Wall Street Is Freaking Out",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/27/apple-just-did-something-it-wouldnt-even-do-during-covid-and-wall-street-is-freaking-out/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QASX4ok28H9g9EOZOlOlwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/56214873d26f0171a01f341e6be4e033",
-      "published_at": "2026-06-27T16:15:28Z"
     }
   ]
 }
