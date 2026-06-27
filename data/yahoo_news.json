@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-06-27 10:03 UTC",
+  "last_updated": "2026-06-27 11:52 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5e84412e-757c-3125-88cb-03f9f867e3fe",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Owns This Under-the-Radar $20 Stock Poised to Disrupt a $1.8 Trillion Market",
+      "summary": "Yes, many of the companies you've invested in also have their own stock portfolios. This is bullishness worth noting.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/nvidia-owns-under-radar-stock-trillion-market-genb/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzoN16bcK9U9Mon5MLxO2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/235ad9fb84732eb5689fffcf82225675",
+      "published_at": "2026-06-27T11:43:00Z"
+    },
+    {
+      "id": "65471dfd-34c2-359a-af37-d78ce19a34b8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Vanguard ETF Built for Investors Who Want Dividends That Actually Grow",
+      "summary": "There's more to dividend investing than current income.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/the-vanguard-etf-built-for-investors-who-want-divi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FJizvb.SfSxKU5zTboChZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f350f3b483d1aa5ed1508d842efd8122",
+      "published_at": "2026-06-27T11:31:00Z"
+    },
+    {
+      "id": "cdf300ad-ea8c-3605-91d8-d60e964526b7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
+      "summary": "How do you choose today between two richly priced stocks with bright prospects in the distant future?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/spacex-vs-tesla-heres-which-elon-musk-stock-id-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6cUbtUEAwezIkEp4Vgv66g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7f7ec974c78ae671fc0c615dd6260647",
+      "published_at": "2026-06-27T11:27:00Z"
+    },
+    {
+      "id": "cb165efd-c288-3eca-bde7-b77ac87a242d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the high growth stocks to buy right now. On June 23, NVIDIA introduced the BioNeMo Agent Toolkit, a new software suite providing domain-specific tools designed to enable AI agents to accelerate scientific discovery in life sciences. By integrating over a decade of NVIDIA’s libraries and models, the toolkit allows […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/slrCOxiTm.vlJAuW0vBQuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/094ee83d0d34849418ab9a78e4d78acc",
+      "published_at": "2026-06-27T11:21:42Z"
+    },
+    {
+      "id": "2e82ff23-53db-3574-a1fa-2a0622c38416",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "With Just 6 Words, Fed Chair Kevin Warsh Demolished Expectations. \"It's Hard to Believe,\" Says President Trump.",
+      "summary": "The new Fed chair signaled a major policy shift, and not everyone was happy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0WlaT7cVKuDj2s9ChrqIiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f217f32dc4e3c15c04c19c5f4150262b",
+      "published_at": "2026-06-27T11:20:00Z"
+    },
+    {
+      "id": "16354794-172c-47fa-b764-9bd38f3ade42",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "As oil fades as an inflation concern, will AI take its place? The Fed is watching closely.",
+      "summary": "Oil prices are tumbling now that the Strait of Hormuz is open, potentially averting a continued rise that could have led to broader, more persistent inflation. But as energy prices plunge, the Federal Reserve may have a new inflation hurdle: artificial intelligence.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/article/as-oil-fades-as-an-inflation-concern-will-ai-take-its-place-the-fed-is-watching-closely-110838570.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XHa5TUxQbkNCfdgGLH9IjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/515e7575-e8ec-497d-bfcc-9faafa7f0ce7_8007e919bcdf445cc3f6949e142d5d4a7e97edb8a60b3b70c7473a8cfdac962b.jpg",
+      "published_at": "2026-06-27T11:08:38Z"
+    },
+    {
+      "id": "c32e0045-8fd6-3944-8561-86ccbdb9fc59",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "One of Wall Street's Most Unbreakable Records, Spanning 155 Years, Is on the Verge of Toppling -- and It Has Terrifying Implications for the Stock Market",
+      "summary": "The priciness of the stock market during the dot-com era was unrivaled... until now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/wall-st-unbreakable-record-155-years-stock-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ANPqZYyNheXhXk4GJ4FTaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1074ef23d96102610fa90f1530652690",
+      "published_at": "2026-06-27T10:56:00Z"
+    },
+    {
+      "id": "16750ab4-67a4-3c00-b005-3b30a69f3b24",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Artificial Intelligence (AI) Stocks to Buy as Demand for Custom Chips Soars",
+      "summary": "It's not too late to invest in these high-flying stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/2-artificial-intelligence-ai-stocks-to-buy-as-dema/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NmngYST9tODLPzWhk.RbuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/efb387ea07d2e4dd6aad988566e54434",
+      "published_at": "2026-06-27T10:35:00Z"
+    },
+    {
+      "id": "36364e9f-531c-3be7-b302-b46353d39bde",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "UnitedHealth Stock Has Quietly Soared 80% off Its Low. Is the Worst Finally Behind It?",
+      "summary": "Is the insurer's recovery already baked into the stock?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/unitedhealth-stock-has-quietly-soared-80-off-its-l/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GynnkZSM6Ad860LbwouCww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0219bc6c94fc101ce295c2bc727f58dd",
+      "published_at": "2026-06-27T10:23:00Z"
+    },
     {
       "id": "718b6a72-abf4-3dbf-b378-53bf9bad390d",
       "asset": "BTC",
@@ -13,50 +112,6 @@
       "url": "https://www.fool.com/investing/2026/06/27/thinking-of-buying-the-bottom-with-dogecoin-do-thi/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wQc.._NYx5Ko8tdl38Mc0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5bb4e0a9fc8c01ecfd7d369e40dc0b32",
       "published_at": "2026-06-27T09:30:00Z"
-    },
-    {
-      "id": "3c40ccae-6aec-3323-b051-ae094a38ff2a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Where Will SpaceX's Price Be in September? Here's What the Options Market Says.",
-      "summary": "SpaceX stock has advanced in the double digits since its IPO.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/where-will-spacexs-price-be-in-september-heres-wha/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/99DOXafSDh0R_bZjU8wyOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4608eaef2296ca57ed8854f0b1926ac7",
-      "published_at": "2026-06-27T09:30:00Z"
-    },
-    {
-      "id": "8904f397-1768-3f3d-82fb-2ab1388378dd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Buying VTI Today Set You Up for Life?",
-      "summary": "History gives one clear, encouraging answer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/could-buying-vti-today-set-you-up-for-life/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T9eqDZ_yM7geavxVN6qSrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/254eb838c3deeb919d4d5bc8f3bcd8f8",
-      "published_at": "2026-06-27T09:28:00Z"
-    },
-    {
-      "id": "97ad7042-9c8a-349b-9f54-2ebc83b78556",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Hot Industrial Stock Riding the AI Infrastructure Boom",
-      "summary": "This is an ideal picks-and-shovels stock to play the ongoing interest in all things artificial intelligence.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/hot-industrial-stock-riding-ai-infrastructure-fix/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2Qec2hIbjc4m_LtdTOGQjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c3b881173cdfc8c168a96a7aff38492",
-      "published_at": "2026-06-27T09:21:00Z"
-    },
-    {
-      "id": "9dca323b-760e-3c4f-8e06-278ef632cd9c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Would You Let an AI Agent Trade Crypto For You? Here's What to Know About Coinbase's New AI Agent Tool.",
-      "summary": "Automating your investing process won't save you from poorly defined goals or bad decisions.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/would-you-let-an-ai-agent-trade-crypto-for-you-her/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/58DqRqW6vPWFL6whnc75TA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d2718cd3f821e55bf46502e421973fb",
-      "published_at": "2026-06-27T09:12:00Z"
     },
     {
       "id": "5dddb3ac-d294-3678-85d6-43fd4908a743",
@@ -81,28 +136,6 @@
       "published_at": "2026-06-27T09:03:57Z"
     },
     {
-      "id": "806dfa4c-088f-3edb-abf0-94b60d65d769",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Red Cat Holdings a Top Drone Defense Stock to Buy Right Now?",
-      "summary": "The United States is making a strong push for domestic drone production.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/red-cat-holdings-top-drone-defense-stock-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y__ZkBs_tTDZNRl9SQWVnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c116b7b43305dd53f419c5f73aaa436",
-      "published_at": "2026-06-27T08:49:00Z"
-    },
-    {
-      "id": "373d9923-a35c-3bf4-8eb9-c17e3bd64c1a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Micron's Explosive Earnings Report: The 1 Mind-Boggling Number You Won't Want to Miss. (Hint: It Beats Nvidia.)",
-      "summary": "AI customers are rushing to Micron for memory products.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/microns-explosive-earnings-report-the-1-mind-boggl/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G73mxTx2LqKCCYjcVdVCig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e837677168c074414e33b616bfa60c1",
-      "published_at": "2026-06-27T08:35:00Z"
-    },
-    {
       "id": "04772dd3-2524-35db-a484-2e94e4d83837",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -114,15 +147,15 @@
       "published_at": "2026-06-27T08:27:46Z"
     },
     {
-      "id": "5f3e7033-0a84-3a99-8117-4cf75a23595f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Sneaky Way SpaceX, Anthropic, and OpenAI Can Destroy the Trump Bull Market",
-      "summary": "Newly implemented rules can turn the tables on the artificial intelligence (AI)-driven bull market under President Donald Trump.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/sneaky-way-spacex-anthropic-openai-destroy-trump/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iABflLofMWz3UxdcELy9_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/456551b90485909d4d7a5c6cab00790f",
-      "published_at": "2026-06-27T08:26:00Z"
+      "id": "dc0b9823-ee01-3112-a8c6-3a4966b03d8a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+      "summary": "(Bloomberg) -- Apple Inc. is pressing the White House for approval to purchase memory chips from a blacklisted Chinese company as it grapples to rein in chip costs, the Financial Times reported on Saturday.Most Read from BloombergLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll RevenueIndonesia Opens Door to Dirty Money to Fund Prabowo’s PlansOman Tells Allies Ships Going Through Hormuz May Have to PayApple Shares Sink After Price Hikes Hit iPads and MacsUS Strikes Iran in Response",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html",
+      "thumbnail": "",
+      "published_at": "2026-06-27T07:45:23Z"
     },
     {
       "id": "d601a312-c496-36c2-a51d-0fa68ad68447",
@@ -277,39 +310,6 @@
       "url": "https://www.trefis.com/articles/604729/the-old-school-signal-that-lit-up-palo-alto-networks-stock/2026-06-26",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S2ZgnuKAiJHI5wHcZRFhjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/213d21a91ad09945c4c69906e5a5a5e2",
       "published_at": "2026-06-27T01:50:08Z"
-    },
-    {
-      "id": "3420185a-549f-3f10-adc8-9ccbb90c54fb",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "SpaceX rises modestly ahead of Russell rebalance, Nasdaq entry next",
-      "summary": "By Noel Randewich June 26 (Reuters) - Shares of SpaceX rose a marginal 0.15% on Friday ahead of its inclusion in Russell indexes, with passively managed funds tracking those benchmarks required to add",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-marginally-ahead-russell-205428459.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pZkNDAgR8wtvZcs8sGd9Kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/30cec448ce916bcc9bc383fbd4eb316c",
-      "published_at": "2026-06-27T01:40:47Z"
-    },
-    {
-      "id": "21a10a84-a85d-3ee8-a8bd-f52d1cc7dcf3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US rig count up 10 as prices drop",
-      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 258 rigs active in the region. A year ago, 270 rigs were active in the region. Nationally, the oil and gas rig count is up 10 from last week at 573 rigs. A year ago, 547 rigs were active. The count shows that 440 rigs sought oil, up seven from the previous week, and 125 explored for ...",
-      "source": "Odessa American, Texas",
-      "url": "https://www.oaoa.com/?p=365383",
-      "thumbnail": "",
-      "published_at": "2026-06-27T00:01:00Z"
-    },
-    {
-      "id": "832233d1-692d-312b-8c07-51fe3b4607fa",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Weekly Wrap: Bitcoin Nears Two-Year Low",
-      "summary": "Leading cryptocurrencies such as Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) reached their lowest levels of ...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-nears-two-year-low-6010",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pLtE5k6Qj2gzCoZG6tKBFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/bd57b92632408b8bfb29aecad42bd286",
-      "published_at": "2026-06-26T23:52:00Z"
     }
   ]
 }
