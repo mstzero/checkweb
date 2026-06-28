@@ -1,8 +1,173 @@
 {
-  "last_updated": "2026-06-27 23:33 UTC",
+  "last_updated": "2026-06-28 03:29 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "4cf27c13-4e93-3dbe-b7ea-7f50e1d9d115",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures: Market At Tipping Point. Eli Lilly Soars, Tesla, Jobs On Tap.",
+      "summary": "Here's what investors should do amid the stock market's divergent signals. Eli Lilly is strong while Tesla EV sales loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SwyNcc6TFMZ8ouqB2zbn6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/1ce802cf395fdace943c9de2dc2ce842",
+      "published_at": "2026-06-28T03:07:30Z"
+    },
+    {
+      "id": "08afacd5-6ab5-329a-a306-e303a4ce05f1",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is the U.S. dollar debasement trade dead?",
+      "summary": "Investing.com -- The \"Dollar Debasement Trade\" has largely run its course, according to a Yardeni Research note, which said recent market moves no longer support the view that investors are abandoning U.S. assets.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-debasement-trade-dead-030545089.html",
+      "thumbnail": "",
+      "published_at": "2026-06-28T03:05:45Z"
+    },
+    {
+      "id": "6d771fda-6658-3348-8b13-fc3830a2adb6",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "AngloGold Ashanti plc (AU) A Top Mining Stock Generating Significant Shareholder Value",
+      "summary": "AngloGold Ashanti plc (NYSE:AU) is one of the mining stocks with the highest dividends. The company also continues to return value to shareholders through buybacks. On June 12, Anglogold Ashanti PLC (NYSE:AU) announced it will hold a general shareholders meeting on July 23 to vote on a proposed $2 billion share buyback program. The board […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-top-030249366.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/57qULDwnUohpkS3cWBs67w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/9ed9752ee55046383664d83131037f8c",
+      "published_at": "2026-06-28T03:02:49Z"
+    },
+    {
+      "id": "bd810d5a-9bd0-3ec4-bc0c-1e53dc6867d1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Fields Limited (GFI) Inks Deal for Windfall Mining Project Development",
+      "summary": "Gold Fields Limited (NYSE:GFI) is one of the mining stocks with the highest dividends. On June 2, Gold Fields Limited (NYSE:GFI) subsidiary Windfall Mining Group entered into an Impact Benefit Agreement with the Cree First Nation of Waswanipi (CFNW), the Cree Nation Government, and the Grand Council of the Crees. The agreement is for the […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-fields-limited-gfi-inks-030228401.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nsZ0d2p0.yi7XKwRgFC3OQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/69a5e9309c5f37c3aa322d18dd37f6dc",
+      "published_at": "2026-06-28T03:02:28Z"
+    },
+    {
+      "id": "aa5f4c16-03ac-39d4-a77e-74b7e4c8ff9b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
+      "summary": "This is one more step for the business to expand into robotics and AI.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/tesla-completes-key-ai-chip-milestone-in-its-push/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AkW1yFaLdIrADYptDiOfJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d528072d1804eb708b9ee78fb9734e44",
+      "published_at": "2026-06-28T02:50:00Z"
+    },
+    {
+      "id": "4931085f-08f5-3bc3-aeac-8c4bd1427be6",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Capex boom threatens to crowd out buybacks, key equity demand driver",
+      "summary": "Investing.com -- A surge in artificial intelligence-related capital spending is unlikely to undermine share buybacks across the broader U.S. equity market, according to a Deutsche Bank strategy note, which said record corporate earnings continue to support shareholder returns despite a sharp rise in investment spending.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/capex-boom-threatens-crowd-buybacks-023214326.html",
+      "thumbnail": "",
+      "published_at": "2026-06-28T02:32:14Z"
+    },
+    {
+      "id": "ad9ad696-f5d8-3107-af68-f463d784ef46",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon quietly raises price tag on the AI boom",
+      "summary": "Amazon (AMZN) is telling investors that the artificial intelligence boom comes with a very real price tag. And Wall Street needs to take note. Amazon Web Services quietly posted an update to the pricing for Amazon EC2 Capacity Blocks for ML, a reservation product that allows customers to lock in ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/amazon-raises-price-ai-ec2-capacity-blocks",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KA5KMTlUmrxw3Yruwl1qag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8643a52015ef806ed55b67c66ff02097",
+      "published_at": "2026-06-28T01:37:00Z"
+    },
+    {
+      "id": "ae657404-30a5-3cc5-95c2-1696da6502f6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?",
+      "summary": "Intel's comeback story is getting real. See what's driving the rally, what Foundry still must prove, and whether this AI bet makes the stock worth a second look.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/intels-ai-bet-is-finally-paying-off-is-it-time-to/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ABpaEJK5U7P20UzcxeRq3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/557fea47dd8fcaf1fd7bf417cb72b791",
+      "published_at": "2026-06-28T01:20:00Z"
+    },
+    {
+      "id": "4f72b19e-199a-3b1f-bc7b-d6fc9163d3fd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Wall Street Thinks AI Capex Is Unsustainable -- Here's Why Big Tech Keeps Spending Anyway",
+      "summary": "Is AI fatigue setting in?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/wall-street-thinks-ai-capex-is-unsustainable-heres/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NXncv4QmNee_fF7vt1aPhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b267b412cfb3b81cc94a3597c879ec3",
+      "published_at": "2026-06-28T00:50:00Z"
+    },
+    {
+      "id": "f55d233f-f071-3d4a-a90d-a6d123db207a",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Rivian R1T Is What Tesla Should Have Made Instead Of The Cybertruck, Pickup Skeptic James May Says He's 'Converted'",
+      "summary": "British motoring journalist James May picked Rivian Automotive Inc.’s R1T over Tesla Inc.’s Cybertruck, saying he would choose the Rivian if forced to decide between the two electric pickups. May Praises Rivian’s Interior And Design May, best known for \"Top...",
+      "source": "Benzinga",
+      "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/rivian-r1t-tesla-made-instead-003114794.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DmVE7knTa1Eluk6CKEaBnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/83d8d365b3fb8d1a9a0781092a53876a",
+      "published_at": "2026-06-28T00:31:14Z"
+    },
+    {
+      "id": "13e9d58d-4b8d-31b0-a00e-4abd0d7602d2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Little-Known Biotech Just Delivered a Bigger IPO Pop Than SpaceX -- and Regeneron Is Already Invested",
+      "summary": "Parabilis Medicines is ambitious, but it has Regeneron on its side already.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/this-little-known-biotech-just-delivered-a-bigger/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DR_c1MDeMzDnVPDqYJ2iwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bb272c60b0de0984e424e8617cdc82fe",
+      "published_at": "2026-06-28T00:20:00Z"
+    },
+    {
+      "id": "5e2a24e3-42d2-36e3-b6b2-72c507e4d92f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.",
+      "summary": "The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p7vmu7jEdaNGAayBtb83AQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5974a635fc07ef8ee1d1a92626c55deb",
+      "published_at": "2026-06-28T00:01:00Z"
+    },
+    {
+      "id": "6a03f5a1-521a-306a-8fd6-432a29b5402a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Hedge Funds Are Buying Up Amazon Stock. Should You Join In, Too?",
+      "summary": "Viewed through an AI lens, Amazon's stock is attractively priced relative to competitors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/hedge-funds-are-buying-up-amazon-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mJ1LON5nIf9yeFl6o2LSXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/674df6540360673a74dd225a1adac8ad",
+      "published_at": "2026-06-27T23:39:00Z"
+    },
+    {
+      "id": "32cc302c-b0fe-36c7-89f9-5324a2530caa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Warren Buffett Stocks to Buy and Hold for the Next 20 Years",
+      "summary": "Take a second look at these companies the next time you go stock shopping.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/2-warren-buffett-stocks-to-buy-and-hold-20-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GNWSlxRGQCDlbTrTFobRMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0975d1af7cd0332c961e4218341c85ec",
+      "published_at": "2026-06-27T23:35:00Z"
+    },
+    {
+      "id": "deb53643-fd43-30cb-ac23-b3391b15f370",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas.",
+      "summary": "How does a company best known for oil royalties become one of 2026's hottest data center plays?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/27/the-strangest-ai-stock-of-2026-doesnt-make-chips-i/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ltrpyyHX.UfMEcbQDr9B.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/06a0a15d282de1a5736208171324d69e",
+      "published_at": "2026-06-27T23:31:00Z"
+    },
     {
       "id": "6b5c9f69-f704-3b73-9e50-e98049185023",
       "asset": "NVDA",
@@ -15,15 +180,26 @@
       "published_at": "2026-06-27T23:05:00Z"
     },
     {
-      "id": "f78cdb9d-79f8-31f8-a13d-0e1a5a083951",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How Many Starlink Satellites Can SpaceX Launch This Year?",
-      "summary": "SpaceX's Starship megarocket is critical to future launches.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/how-many-starlink-satellites-can-spacex-launch-thi/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7QIFTTnKQx4RoJ8xkOF1Zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7a809cf645744cbd47e61a7aaeec6334",
-      "published_at": "2026-06-27T22:50:00Z"
+      "id": "9546f804-d0b8-31ef-bb67-20b719692ff9",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
+      "summary": "The rapid expansion of artificial intelligence is being constrained not by chips or software, but by access to reliable, scalable electricity infrastructure.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/7-trillion-ai-boom-turning-230000777.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N09KR3hHR7lbVceaOjCd7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/bc6dc0f0aef326acbcb2dd9966a545a9",
+      "published_at": "2026-06-27T23:00:00Z"
+    },
+    {
+      "id": "1ca430d2-217a-3d12-b77c-6fb397414930",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "One of Texas' Oldest Oil Plays Is Running Dry",
+      "summary": "USGS finds Buda Limestone beneath Eagle Ford nearly tapped out, even as the shale play above it keeps output steady.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/one-texas-oldest-oil-plays-230000008.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z3AWvXeGL31R_LmQfuLoHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/48f88cba00b90578a75f13a4299547ee",
+      "published_at": "2026-06-27T23:00:00Z"
     },
     {
       "id": "201aca66-164a-347a-a35f-a8bdcb819663",
@@ -35,6 +211,17 @@
       "url": "https://beincrypto.com/xrp-origins-debate-ripple-bitcoin/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vSzTiOR.e4xfKPumuQiwyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/902fc149b8fc623ce922f780733ba767",
       "published_at": "2026-06-27T22:30:00Z"
+    },
+    {
+      "id": "3fc3606f-2e6e-3017-88c5-fa47697903e0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "The contrarian view for Fed rate cuts: Payrolls will weaken, inflation will plunge, and Kevin Warsh was ‘largely performative’ in his hawkishness",
+      "summary": "\"He had to sound hawkish to draw a clear line between himself and the White House.\"",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/economy/policy/articles/contrarian-view-fed-rate-cuts-222853424.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tuiGNOdifCIcjzdR.Gla2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/ead4169cd36f20483e4ea9b3f125c091",
+      "published_at": "2026-06-27T22:28:53Z"
     },
     {
       "id": "7dc1a03e-3aa3-3df6-aa95-0e8a92b2fcce",
@@ -59,17 +246,6 @@
       "published_at": "2026-06-27T22:07:28Z"
     },
     {
-      "id": "f6cfee2c-5d26-3103-b203-6e7a4378a901",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Got $1,000 to Invest? This Stock Could Turn It Into $100,000 in 10 Years.",
-      "summary": "Nano Nuclear Energy could be one NRC approval away from unlocking a lucrative opportunity.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/got-1000-to-invest-this-stock-could-turn-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B2btKzhB.tV76MWCZNw2iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2714598461767d1e05571b1c2a488d22",
-      "published_at": "2026-06-27T22:05:00Z"
-    },
-    {
       "id": "550d506b-1f29-337d-94a2-61e80dfe6176",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -81,17 +257,6 @@
       "published_at": "2026-06-27T21:45:19Z"
     },
     {
-      "id": "b2ed4d00-36df-39aa-8214-16c06d293b52",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
-      "summary": "The deal adds a missing piece to the company's vertically integrated model at the software application layer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/spacex-looks-to-reshuffle-the-deck-in-the-enterpri/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iav4sGWHvzynGNe6TjgmOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/baab4495de58602645fae590bbfd1a0b",
-      "published_at": "2026-06-27T21:20:00Z"
-    },
-    {
       "id": "bc7aafee-d461-344b-9891-355f2d63e509",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -101,72 +266,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/teradata-tdc-expands-cloud-partnerships-210700161.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nTWELeTHEmnHaHGQ9PNC6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/36ca5b522ba2e0a30acf16e5282f313b",
       "published_at": "2026-06-27T21:07:00Z"
-    },
-    {
-      "id": "88ff48a2-3ad0-390a-ab02-424e50cd4938",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look.",
-      "summary": "It could end up being a great addition to your portfolio.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/looking-for-reliable-retirement-income-this-vangua/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XW0JwKLHLeSCSJTKborhIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e5c82e53cac1d015ba678d8abbdc1498",
-      "published_at": "2026-06-27T20:56:00Z"
-    },
-    {
-      "id": "c4d99923-212a-3d80-9fa8-fc21b2e5dcf0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make",
-      "summary": "Brookfield Renewable offers powerful total return potential.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/heres-why-buying-brookfield-renewable-today-could/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9XSXPCO.A0lgBT6Aq52PXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/05f5594652c8dfe70340d8f0a3bdd35f",
-      "published_at": "2026-06-27T20:50:00Z"
-    },
-    {
-      "id": "bea5a902-fe85-3169-a537-480d944148f2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should Investors Buy Infleqtion to Ride the Quantum Computing Rally?",
-      "summary": "Infleqtion is well positioned to compete in the expected quantum computing boom, with Nvidia and the U.S. government as backers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/should-investors-buy-infleqtion-to-ride-the-quantu/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h0P5whXsLoy65IaRSHxyVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed805c56fd1c1dbec307bc8999aa485b",
-      "published_at": "2026-06-27T20:33:00Z"
-    },
-    {
-      "id": "eb730761-db40-33b3-9f53-3ed1da27a013",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow",
-      "summary": "Micron's earnings was a giant green flag for Silicon Motion Technology investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/3-reasons-to-buy-silicon-motion-technology-stock-l/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u52IQz3yRSkLwAuKPlGGSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3de6e5e7df906f07dd5cfe221a00e796",
-      "published_at": "2026-06-27T20:20:00Z"
-    },
-    {
-      "id": "1cdad946-6189-3681-bb55-048c514ca75a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Reason Why Passively Managed Index Funds Could Save You More Money Than Mutual Funds",
-      "summary": "Long-term investing is enhanced when you're able to control fees and taxes. Here's how index funds can help on that front.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/1-reason-passive-managed-index-funds-could-save/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RpCFFzQwibNyYXCWhbaWXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c57d3b0caebc53982be0af071a41200f",
-      "published_at": "2026-06-27T20:05:00Z"
-    },
-    {
-      "id": "210d5fc1-0cd8-335e-ae84-85db4f896714",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right Now",
-      "summary": "Pfizer is deeply out of favor on Wall Street, which could be a huge opportunity for long-term dividend investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/opinion-pfizer-is-a-fantastic-dividend-stock-for-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jIxFFwGlvrYZueLjXddZsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bea34785c3464013198636bed6bb6803",
-      "published_at": "2026-06-27T19:35:00Z"
     },
     {
       "id": "7ca3e70e-b2c8-3070-a937-29caf3f0d960",
@@ -202,114 +301,15 @@
       "published_at": "2026-06-27T19:31:14Z"
     },
     {
-      "id": "a0935670-993f-3d3d-b877-5aba598b62b9",
+      "id": "18764b6b-6c04-337d-a377-8f3ed34aa839",
       "asset": "TSLA",
       "asset_name": "Tesla",
-      "title": "Prediction: Buying Rivian Stock Today Could Set You Up for Life",
-      "summary": "Rivian is copying Tesla's playbook for growth.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/06/27/prediction-buying-stock-today-could-set-you-up-for/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5MR_ZpFXZHz6a2c.tdDOHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/acbe8fc12f132e2af30155d83efb6227",
-      "published_at": "2026-06-27T19:25:00Z"
-    },
-    {
-      "id": "354d031a-fbdf-3d0c-a9a5-226d964b5791",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Is Amazon.com (AMZN) One of the Top Trending US Stocks to Buy Now?",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the top trending US stocks to buy now. Reuters reported on June 19 that Amazon.com, Inc. (NASDAQ:AMZN) announced on Friday that its Indian operations reached a significant milestone in water conservation. This came at a time when global tech giants are facing mounting pressure regarding their use of resources […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-one-top-192057945.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qxnvWDd15MbgM4XbEkrxZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411",
-      "published_at": "2026-06-27T19:20:57Z"
-    },
-    {
-      "id": "a7bad382-5596-3f7a-9254-31c9f86b9255",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nancy Pelosi places big bets on two surging tech stocks",
-      "summary": "Few congressional portfolios attract as much scrutiny as Nancy Pelosi's. Her husband, Paul Pelosi, who executes the family's trades, has previously disclosed bets on Microsoft and Alphabet that outpaced the S&P 500. His latest moves may draw even more attention. Investing.com ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/nancy-pelosi-uber-intel-call-options",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZbB5Hj1tE04H6wYxRTAayA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/cd400e6db805e9a3431452904ec9b4b6",
-      "published_at": "2026-06-27T19:13:00Z"
-    },
-    {
-      "id": "04a627ba-ec2c-36a5-b5b6-e4c0b654e1da",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Here’s What JPMorgan Thinks About Microsoft (MSFT) and Chevron’s 20-Year Agreement",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the best trending AI stocks to watch in 2026. Following Microsoft Corporation (NASDAQ:MSFT) and Chevron’s signing of a 20-year agreement to supply natural-gas- fired power to a data-center campus in West Texas, JPMorgan stated that it considers the offtake as durable and believes “the most compelling element of the […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-thinks-microsoft-msft-chevron-190905266.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7FVXaC.qNKFr6Wz4v4sdRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
-      "published_at": "2026-06-27T19:09:05Z"
-    },
-    {
-      "id": "905e6875-9a72-3928-8fc2-43a75f87fdd1",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "KGI Securities Downgrades Apple (AAPL) to Hold – Here’s Why",
-      "summary": "Apple Inc. (NASDAQ:AAPL) is one of the best trending AI stocks to watch in 2026. Apple Inc. (NASDAQ:AAPL) was downgraded by KGI Securities to Hold from Outperform on June 22, with the firm setting a price target of $315. In a separate development, Reuters reported on June 17 that CEO Tim Cook told the Wall […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kgi-securities-downgrades-apple-aapl-190812337.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ERk7UFMt6k8ofjYa8ja0kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
-      "published_at": "2026-06-27T19:08:12Z"
-    },
-    {
-      "id": "ef7b229c-487d-3e36-a2dc-29f038afa915",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "ECB’s Schnabel says inflation risks remain despite easing energy prices",
-      "summary": "Investing.com -- European Central Bank Executive Board member Isabel Schnabel warned on Saturday that inflation risks remain tilted to the upside despite the recent decline in energy prices following the U.S.-Iran ceasefire, reinforcing expectations that the central bank may need to raise interest rates further.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ecb-schnabel-says-inflation-risks-190656869.html",
-      "thumbnail": "",
-      "published_at": "2026-06-27T19:06:56Z"
-    },
-    {
-      "id": "d42713f4-82cf-3b2d-849d-53c459df3e41",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Cloudflare (NET) Announces New Initiative With Major Web Browsers",
-      "summary": "Cloudflare, Inc. (NYSE:NET) is one of the best trending AI stocks to watch in 2026. Cloudflare, Inc. (NYSE:NET) announced on June 22 a new initiative with major Web browsers, including Google Chrome, Mozilla Firefox, and Microsoft Edge, focused on developing and submitting for “standardization a privacy-preserving protocol to help humans and bots prove that their […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/cloudflare-net-announces-initiative-major-183903297.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1wc_f_YGpI1kKGz5bfpqfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d937718ae94ad9b4875dba498bf907a8",
-      "published_at": "2026-06-27T18:39:03Z"
-    },
-    {
-      "id": "55a40c82-87f1-3112-b852-f8b2eced3501",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "EU Targets Microsoft (MSFT) and Amazon Cloud Units for Big Tech “Gatekeeper” Rules, Reuters Reports",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the safe stocks for beginners to buy in 2026. Reuters reported on June 25 that, according to EU antitrust regulators, Amazon and Microsoft Corporation’s (NASDAQ:MSFT) cloud computing services should be designated as “gatekeepers” under landmark tech rules. This step would subject them to strict obligations aimed at curbing market […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/eu-targets-microsoft-msft-amazon-183743473.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7FVXaC.qNKFr6Wz4v4sdRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
-      "published_at": "2026-06-27T18:37:43Z"
-    },
-    {
-      "id": "7ba90a25-0032-37e5-933b-7b91ae325600",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Micron (MU) Surpasses Market Valuation of ​Meta and Briefly Tesla, Reuters Reports",
-      "summary": "Micron Technology, Inc. (NASDAQ:MU) is one of the safe stocks for beginners to buy in 2026. Reuters reported on June 25 that Micron Technology, Inc. (NASDAQ:MU) surpassed the market valuation of ​Meta Platforms, and briefly Tesla, for the first time on Thursday. The company’s solid forecast allowed it to extend its AI-driven ​ascent, with its shares […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-surpasses-market-valuation-183653872.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bv9CtYA1cFCLXDNUGvFctw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb",
-      "published_at": "2026-06-27T18:36:53Z"
-    },
-    {
-      "id": "b66c0212-c341-3cd6-b101-09e7a772b6ac",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla (TSLA) to Raise Production at Berlin Plant by 20%, Reuters Reports",
-      "summary": "Tesla, Inc. (NASDAQ:TSLA) is one of the safe stocks for beginners to buy in 2026. Reuters reported on June 25 that Tesla, Inc. (NASDAQ:TSLA) announced on Thursday plans to raise production at its Berlin plant by 20% to 7,500 vehicles per week from ​October this year. The company stated that the planned increase in production ⁠means […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-raise-production-berlin-183606852.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dXoTFxAiaENntffRoJeDVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf",
-      "published_at": "2026-06-27T18:36:06Z"
+      "title": "Tesla Left a Big Hole in Short Sellers’ Pockets. It’s SpaceX’s Turn Now.",
+      "summary": "Short-sellers lost billions of dollars betting against Tesla over the last decade. Can SpaceX also be a short-seller killer like TSLA?",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3017103/tesla-left-a-big-hole-in-short-sellers-pockets-its-spacexs-turn-now",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EEgKF7NaJZZ18m1oRgNX3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/5a0c6f9aa2a3d35b670806506a63618c",
+      "published_at": "2026-06-27T19:30:02Z"
     }
   ]
 }
