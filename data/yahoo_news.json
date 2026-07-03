@@ -1,18 +1,238 @@
 {
-  "last_updated": "2026-07-03 05:12 UTC",
+  "last_updated": "2026-07-03 08:33 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "434cfd2d-ed4e-3529-807b-c95201b2304a",
+      "id": "a2ffcd24-193e-35e4-90d7-f19df8b65c2d",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Sandisk Is the Best-Performing S&P 500 Stock During the First Half of 2026. Here's What Stock I Think Will Dominate the Second Half (Hint: It's Not SpaceX)",
-      "summary": "Sandisk could stay on its monster run to finish 2026.",
+      "title": "Jim Cramer Explains How NVIDIA Can Change “Direction of the Price”",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Discussing stocks that have declined in the second quarter, Cramer mentioned the company and its possible competitors. Six: NVIDIA. NVIDIA, down just over 5% this month. At these levels, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-nvidia-change-082356845.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pTI5xj3EA3J4dQEjQYdRPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec",
+      "published_at": "2026-07-03T08:23:56Z"
+    },
+    {
+      "id": "d15afeac-bc1c-30ad-9a02-3d4197a63648",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Apple Just Made a Controversial Move. Is the Stock One to Avoid or Is Now the Time to Buy?",
+      "summary": "Investors sanctioned Apple stock after the news.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/03/sandisk-is-the-best-performing-sp-500-stock-during/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PW0KzfAv_HA2BMeq9j9Pog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cadcaacd96eccfa9fa14c1cfb6754146",
-      "published_at": "2026-07-03T04:50:00Z"
+      "url": "https://www.fool.com/investing/2026/07/03/apple-just-made-a-controversial-move-is-the-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dmRRps1Ei0llBZAfavDn7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/928951a4682549f0f483075eb87317bd",
+      "published_at": "2026-07-03T08:22:00Z"
+    },
+    {
+      "id": "80940c95-9ac5-3a28-9368-02cb43fe3d61",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Members of Congress Are Loading Up on Johnson & Johnson and UnitedHealth. Here's Why Retail Investors Should Pay Attention.",
+      "summary": "Politicians serve on committees that set healthcare policy, monitor government contracts, and shape regulatory frameworks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/03/congress-members-are-loading-up-on-johnson-johnson/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ibMs3.FAsIKWk7sQwGseZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/902b7844dc3838cb36100b838f3da2eb",
+      "published_at": "2026-07-03T08:20:00Z"
+    },
+    {
+      "id": "96a2c4ed-6bf6-39ea-9834-7e1b9431087e",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Jim Cramer Says Alphabet Is “Getting Very Little Credit for YouTube, Google Cloud, or Even Search”",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer explained why the stock declined in the second quarter, as he commented: Speaking of Google, parent company Alphabet was able to do a giant fundraise not long ago. […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-alphabet-getting-081847382.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yqglgDyk7EEaoAgem2eUNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/af2bb6bdbc4f56cfaf197a2118a94cf1",
+      "published_at": "2026-07-03T08:18:47Z"
+    },
+    {
+      "id": "385dfdee-2e10-3fe2-b8c9-ec683a1ade6d",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Jim Cramer on Apple: “We Need to See the Quarter and Hear What They Say”",
+      "summary": "Apple Inc. (NASDAQ:AAPL) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer highlighted the effect of rising cost of components on the company’s stock, as he remarked: Fourth, Apple was down over 7% in June thanks to the skyrocketing cost […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-apple-see-quarter-081840061.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KFeFt81VdfSfNdsoVI.0vQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a0cb88158fe64431726accde4ec7ad62",
+      "published_at": "2026-07-03T08:18:40Z"
+    },
+    {
+      "id": "11a50906-5674-3c06-94d0-e4bc7d3de314",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Jim Cramer on Amazon: “We Need to See a Bountiful Return, or the Declines Will Continue”",
+      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer noted why the stock “could be punished,” as he commented: Second worst performer, Amazon, off 12% from June. My Trust owns Microsoft; it owns this Amazon. This is […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-see-bountiful-081822860.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ITg3zUV_tIjYqIn3jkgCIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/990b7edf68d640b729ce75bb5a0624ac",
+      "published_at": "2026-07-03T08:18:22Z"
+    },
+    {
+      "id": "8cac9b15-7aac-322b-8d6e-925d20a11fee",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Jim Cramer Explains What Microsoft Needs to Do to “Reverse Its Fortunes”",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer highlighted the company stock’s decline during the second quarter, as he stated: We need to go over what the heck happened to these losing stocks in the month […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-microsoft-needs-081813422.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kNYJMij.GnYOlXEsbQ.SCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064",
+      "published_at": "2026-07-03T08:18:13Z"
+    },
+    {
+      "id": "be2b7f38-9eaa-375c-af0c-c10e9a05b473",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer Says If Jensen Huang Is Right, Marvell Has “A Lot More Upside”",
+      "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer highlighted NVIDIA CEO’s endorsement of the company, as he remarked: Marvell Tech’s next. It got optical networking, and most important is the endorsement of NVIDIA CEO Jensen […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-jensen-huang-081754859.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DWR2UTkAeMLQnBduXaVicQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f4972b23ca1d429713741721f81c5f25",
+      "published_at": "2026-07-03T08:17:54Z"
+    },
+    {
+      "id": "5499e63c-cc8c-30ac-809a-4ac62df55761",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Jim Cramer on Tesla: “I Think It’ll Be Bought By SpaceX Sooner Rather Than Later”",
+      "summary": "Tesla, Inc. (NASDAQ:TSLA) was among the stocks on Jim Cramer’s Mad Money radar as he taught investors how to profit from the upcoming wave of takeovers. Cramer made a prediction about the company during the episode, as he said: Finally, there’s Tesla. No issues here. I think it’ll be bought by SpaceX sooner rather than […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-think-ll-081553609.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fNpE9Q4fceQ5lonsOJNP1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/567adcc50a31ecf9233f7dd1759d14dd",
+      "published_at": "2026-07-03T08:15:53Z"
+    },
+    {
+      "id": "083a130f-996c-3e52-9f85-7a0a8ed326b6",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitdeer (BTDR) Signs Major Norway AI Data Center Lease As Business Focus Shifts",
+      "summary": "Bitdeer Technologies Group (NasdaqCM:BTDR) has signed a major colocation lease for its Tydal, Norway AI data center. The facility is planned as one of Europe's largest AI data centers by installed capacity and is designed for Nvidia's Vera Rubin platform. The agreement marks a key step in Bitdeer's move from Bitcoin mining toward a focused hyperscale AI infrastructure business. Bitdeer Technologies Group is moving deeper into AI infrastructure, with the new colocation lease in Tydal putting...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-signs-major-norway-081329142.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-07-03T08:13:29Z"
+    },
+    {
+      "id": "2b6ed7fa-d9ba-30e3-bd56-e9abdf58fcd4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here Are the Average 401(k) Balances at Ages 55, 60, 65, and 70 -- How Do You Stack Up?",
+      "summary": "Find out if your 401(k) retirement saving is on track.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/07/03/here-are-the-average-401k-balances-at-ages-55-60-6/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8d7U6oZCqVYjksGC7DGxPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b31dbb0edfa7bb109a3c5f797d641b19",
+      "published_at": "2026-07-03T08:12:00Z"
+    },
+    {
+      "id": "37338762-61e5-3d4f-83b0-3278347f2e51",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Stock Could Jump by 19%, According to Wall Street",
+      "summary": "Is The Street being too optimistic?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/03/spacex-stock-could-jump-by-19-according-to-wall-st/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/50NqLCNduHnxUYvsZpUs2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6346e13d3b54400edc5363340f295b68",
+      "published_at": "2026-07-03T08:05:00Z"
+    },
+    {
+      "id": "1d383fcf-025c-313e-9f1c-478650daaf54",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices little changed ahead of long US weekend as peace efforts hold",
+      "summary": "By Helen Clark and Sam Li PERTH, July 3 (Reuters) - Oil prices were little changed on Friday before a long holiday weekend in the U.S., as traders held on to hopes that attempts to secure peace in the",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/oil-prices-little-changed-ahead-075928204.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zthpaDogyDpCCJrYhQ043w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/faebba4f695942fa4f17f005629c9f32",
+      "published_at": "2026-07-03T07:59:28Z"
+    },
+    {
+      "id": "072b25b4-c7b7-39a9-bb2b-85da3cf17b4e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Universal Technical Institute Stock Crushed it This Week",
+      "summary": "It tapped a higher education veteran for the new campus it's set to open in 2027.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/03/why-universal-technical-institute-stock-crushed-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kup4SQR4hESV4Ncqsr.dRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52a2af0c9157028b7e80c7c894dfc865",
+      "published_at": "2026-07-03T07:59:19Z"
+    },
+    {
+      "id": "1d5f473d-981d-3ede-b65e-cecfcda67783",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
+      "summary": "The new company will focus on integrating enterprise AI, offering tailored support and protecting client data and intellectual property.",
+      "source": "Verdict",
+      "url": "https://www.verdict.co.uk/microsoft-launches-microsoft-frontier-company/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RX9sKJLPcraZtYTVCGZFwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/verdict_626/f2c945ad655b68932783ab8313fbe0a0",
+      "published_at": "2026-07-03T07:55:42Z"
+    },
+    {
+      "id": "951c91fb-4ff9-36f2-890c-3e8c73d6ad93",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
+      "summary": "The EV race is about more than vehicle sales.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/03/tesla-byd-or-rivian-which-stock-currently-has-the/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NhJK2f7qwAEm4Yj7QRmefg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/aa3a4968b04f6e035903dde7048115ce",
+      "published_at": "2026-07-03T07:25:00Z"
+    },
+    {
+      "id": "97b760f7-e377-3534-8e23-442bf5435491",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitwise CIO Matt Hougan: MicroStrategy’s Run as Bitcoin’s Top Buyer Is Likely Over",
+      "summary": "Bitwise CIO Hougan says MicroStrategy's era as Bitcoin's dominant buyer is likely over with the firm expected to be a less important figure.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitwise-microstrategy-bitcoin-dominant-buyer/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xhP0cns4AdkOUHzq1BrM9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8746021bf08a2b66c5292adbe576686d",
+      "published_at": "2026-07-03T07:13:48Z"
+    },
+    {
+      "id": "cb950dc6-7787-3c60-ac78-3e7764d9b377",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla beat the Street and was still punished. Here's why",
+      "summary": "Tesla Inc (NASDAQ:TSLA) delivered 480,126 vehicles in the second quarter, a 25% jump on a year earlier and a decisive beat against a consensus of roughly 406,000. On any conventional reading, it was the rebound the company badly needed after a bruising start to the year. The stock fell about...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1094902/tesla-beat-the-street-and-was-still-punished-here-s-why-1094902.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j_FKg5.paeU4SwV.ain9jA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/9f6debccadc35e25be381c17a12008c0",
+      "published_at": "2026-07-03T06:55:00Z"
+    },
+    {
+      "id": "30c30506-2bf1-36a1-ba62-44dec6f8a034",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold heads for first weekly rise in five on easing Fed rate-hike bets",
+      "summary": "By Pablo Sinha July 3 (Reuters) - Gold rose 1% on Friday and was set for its first weekly gain in five, as investors dialled back expectations for U.S. rate hikes following softer-than-expected jobs",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-heads-first-weekly-rise-011741620.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Aq37dYJSUzFpDoZH41_ifg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8083653307f995a7a64b91983ca6b796",
+      "published_at": "2026-07-03T06:19:00Z"
+    },
+    {
+      "id": "9c13ad39-4282-310a-9bc3-7ef0df3d57bf",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is Bitdeer Technologies Group (BTDR) Overvalued After Its AI Pivot?",
+      "summary": "Bitdeer Technologies Group stock has fallen sharply over the past month, yet on Simply Wall St’s checks it still screens as expensive rather than a clear bargain, which puts recent excitement around its AI infrastructure pivot against a more cautious valuation read. Bitdeer has declined 26.2% over the past month, which pulls back some of this year’s gains but does not, on its own, make the current share price look automatically attractive. The company’s push into enterprise AI data centers...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bitdeer-technologies-group-btdr-overvalued-061304583.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-07-03T06:13:04Z"
+    },
+    {
+      "id": "a4d87431-6da2-32ef-a3a1-75e17f9e0bd3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Cantor Delays Adam Back’s $4B Bitcoin Treasury SPAC Merger Again",
+      "summary": "In a major crypto merger update, Cantor Equity Partners I has once again postponed the shareholder vote on its proposed merger with Bitcoin Standard Treasury (BSTR), the bitcoin treasury company backed by Blockstream CEO Adam Back. The company board has now pushed the meeting to July 10 from the previously scheduled July 2. The vote",
+      "source": "CoinGape",
+      "url": "https://coingape.com/block-of-fame/pulse/cantor-delays-adam-backs-4b-bitcoin-treasury-spac-merger-again/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jux.slryUGJ9qJqCOgcllQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/5e2579e8bc22d703a81ac09c6fcbda77",
+      "published_at": "2026-07-03T05:06:32Z"
     },
     {
       "id": "1c12f8cd-3b97-3a34-a8b1-8df3f3fb4baf",
@@ -26,48 +246,15 @@
       "published_at": "2026-07-03T04:25:35Z"
     },
     {
-      "id": "08a919b2-8780-3dd7-88e9-efb58666c2b5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Asian shares rally after Dow hits a record, as some AI shares bounce back",
-      "summary": "Shares rallied in Asia on Friday after the Dow Jones Industrial Average set another record, as some key AI related stocks rose while others extended losses.  U.S. futures were moderately higher and oil prices also rose.  Samsung Electronics, the country's biggest company and a major maker of computer chips, gained 7%.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rally-dow-hits-042205669.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4gNCzGOp8B55C5cj6s.V5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/d1f4f13a29681438abb76f4a8670cc78",
-      "published_at": "2026-07-03T04:22:05Z"
-    },
-    {
       "id": "81867a80-4565-3c79-9cbd-361baf9eca27",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Burry Called a Bubble Days Ago and Now AI & EV Stocks Are Already Cracking",
       "summary": "Michael Burry warned of an AI bubble on June 30. Days later, memory and storage stocks, and Tesla are sliding on fresh valuation fears.",
       "source": "BeInCrypto",
       "url": "https://beincrypto.com/burry-ai-bubble-bet-chip-stocks-crack/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_1CnM4YoAsqelns3q_HyiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c1271bea287c699326de621b07d31274",
       "published_at": "2026-07-03T03:50:38Z"
-    },
-    {
-      "id": "375c8eed-362f-3399-bfd5-5c2938e91e07",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why AppLovin Stock Was Racing Higher This Week",
-      "summary": "An analyst initiated coverage of the adtech company on Monday.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/why-applovin-stock-was-racing-higher-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JKwiYHH57e2MqCFshKEHXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6113c313ee7c94b84f11522dbed3931e",
-      "published_at": "2026-07-03T03:44:12Z"
-    },
-    {
-      "id": "7ac8b58c-0c2a-3137-b81e-b087f889ad89",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Might Be the Most Valuable Money-Losing Company in Market History. Should Investors Care?",
-      "summary": "A $2.1 trillion valuation and a $9 billion trailing loss make for a combination the market has arguably never priced before.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/spacex-might-be-the-most-valuable-money-losing-com/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NJ4CEIMVFgWM6rNZn.dLoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3b845683318b8e6e36dc790cefd49f98",
-      "published_at": "2026-07-03T03:33:00Z"
     },
     {
       "id": "2ed9ef53-d045-33b6-a6ab-12763cfc48c6",
@@ -90,17 +277,6 @@
       "url": "https://beincrypto.com/bitcoin-dominance-key-support-altcoin-season-near/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0uC0t7STZpgdTohQMbu6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a",
       "published_at": "2026-07-03T03:25:00Z"
-    },
-    {
-      "id": "aa7b7a89-b067-3ace-91c1-a445bb170775",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Dell (DELL) Shares Are Plunging Today",
-      "summary": "Shares of computer hardware and IT solutions company Dell (NYSE:DELL) fell 8.6% in the afternoon session after AI-linked stocks pulled back amid fears that AI-driven chip demand may be cooling.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-dell-dell-shares-plunging-030824605.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n8iS1XcPEvNT31o0yg2VJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/b5d4c7c2ad660a2ff5268d8c7d8e5a0f",
-      "published_at": "2026-07-03T03:08:24Z"
     },
     {
       "id": "7f79985b-5b39-3ea1-b4bf-589dfd59dfae",
@@ -134,182 +310,6 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hihlsgYFB_KDEDW1Q7dq.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/3466ef5c612e56be40cc67bae4229f0d",
       "published_at": "2026-07-03T03:00:28Z"
-    },
-    {
-      "id": "3e1d5420-310e-3a21-a71a-7f822290cf1f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "CrowdStrike Just Split Its Stock 4-for-1. Does a $193 Price Tag Make It a Buy?",
-      "summary": "The cybersecurity leader's shares just got about 75% cheaper -- sort of.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/crowdstrike-just-split-its-stock-4-for-1-does-a-19/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PTdgiwM0qrxOvu2aTXq5Xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/66178db1accaf0d2ad6842ca5a5a6904",
-      "published_at": "2026-07-03T02:46:00Z"
-    },
-    {
-      "id": "59256af9-63a6-35d9-a603-e208090de225",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin ETFs Bleed $8.95 Billion in Two Months, and the Selling Isn’t Over",
-      "summary": "Bitcoin ETF outflows reach $8.95 billion in two months. Glassnode data shows why the sell-off may not be over yet.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-etfs-bleed-8-95-billion-in-two-months-and-the-selling-isnt-over/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j2d6TU0_gg8cy4SP7wuvaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1806c0da2a5a78790467470de854956a",
-      "published_at": "2026-07-03T02:45:00Z"
-    },
-    {
-      "id": "cf7ec504-187c-3c10-b1c6-4d5c52d2a72c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What Makes a Bank Stock Worth Owning for Decades",
-      "summary": "Banks are an economic necessity, and they can provide a reliable income stream for dividend investors if you pick the right ones.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/what-makes-a-bank-stock-worth-owning-for-decades/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E5NgaykpFF4FYSwTXhhI0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0675d5c6a56d678a8d819b262153f1cb",
-      "published_at": "2026-07-03T02:35:00Z"
-    },
-    {
-      "id": "05160fe6-7cdd-309a-9a0e-86ddf385b600",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Trillionaire Elon Musk Says Neuralink Could Deliver 'Jesus-Level' Miracles: Here's What He Means",
-      "summary": "Trillionaire Elon Musk, who is the CEO of Space Exploration Technologies Corp. and Tesla Inc., affirmed that the Brain-Chip Interface (BCI) company Neuralink can enable Jesus-level miracles with its technology. Neuralink Can Restore Sight, Enable Limb Function In a post...",
-      "source": "Benzinga",
-      "url": "https://tech.yahoo.com/ai/meta-ai/articles/trillionaire-elon-musk-says-neuralink-023108720.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wrnrpgjriiJmvOOUg0Hoig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/08d97284d55cc6d2e6a964bb6c1a38f2",
-      "published_at": "2026-07-03T02:31:08Z"
-    },
-    {
-      "id": "18be48cd-b41a-3f5a-bd4e-703d6f83934e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Why Did Tesla’s Stock Drop 7% Despite a Record Delivery Quarter?",
-      "summary": "Tesla stock sank 7% despite crushing Q2 delivery estimates, reversing an 8% FSD-driven rally from days earlier.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/tesla-stock-drop-record-deliveries-fsd/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AKSLVTX2hvyRAzJQBFDNSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/cc4a1b492d807a16d0991a233e579f47",
-      "published_at": "2026-07-03T02:29:34Z"
-    },
-    {
-      "id": "aa5a46cb-a9ae-3bff-9a96-cfd2f08130c0",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Likely Remains Valid Target for Asset Diversification in Medium Term",
-      "summary": "Gold’s medium-term role as a target for asset diversification remains valid, but its price was likely to be weighed by a tougher macroeconomic backdrop, said OCBC.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-after-cooler-than-expected-u-s-jobs-report-cabe1bf3?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-07-03T02:20:00Z"
-    },
-    {
-      "id": "83380843-18d7-3745-a41c-040922fba6df",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Apple Stock Rallied Today",
-      "summary": "The tech giant may have a solution to its memory problem.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/why-apple-stock-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ba._uRP5eWMzqbznF9hGWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7b011660e1747f7e5da0fc1508cfea1d",
-      "published_at": "2026-07-03T02:16:25Z"
-    },
-    {
-      "id": "3bd0dd41-cdd7-393f-9a51-26395686399c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meta Wants In on the Cloud. Is Amazon Stock Still a Buy?",
-      "summary": "A reported new rival is coming for the cloud computing king's most profitable business.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/meta-wants-in-on-the-cloud-is-amazon-stock-still-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3yQl7CeiZKEM8GtF3UPu3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2527e2b23ecec9705c0819dbdc9bfe08",
-      "published_at": "2026-07-03T01:48:00Z"
-    },
-    {
-      "id": "24789107-f0f8-3b3e-8f54-ac6706509be1",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Kyndryl (KD) Stock Trades Up, Here Is Why",
-      "summary": "Shares of IT infrastructure services provider Kyndryl (NYSE:KD) jumped 3.2% in the afternoon session after it continued a rally that began after the company announced an expanded partnership with Microsoft to help clients meet data residency and regulatory requirements.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-kd-stock-trades-why-013224265.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/clQYHmuNquMqrbQmvR0mxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/febfa4cf9afebb96ba96b1628b8917c0",
-      "published_at": "2026-07-03T01:32:24Z"
-    },
-    {
-      "id": "3b94b5a8-ecee-37ea-9ef2-1fa18f050448",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Why Genpact (G) Stock Is Up Today",
-      "summary": "Shares of business transformation services company Genpact (NYSE:G) jumped 2.9% in the afternoon session after the company launched an AI agent-powered platform designed to help consumer goods companies automate and improve the recovery of lost revenue.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-genpact-g-stock-today-012424080.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LRsNJ5MaFUHffHDjHAX0UA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/e9fdfda9eb9b36239d4c1631f5402470",
-      "published_at": "2026-07-03T01:24:24Z"
-    },
-    {
-      "id": "fef31c4b-4dc7-3fd6-9bac-eaed2c483c72",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "ETF Zoo: Mid-Year Check-In  the AI Trade That Won’t Quit",
-      "summary": "<p>The ETF industry smashed through the $1 trillion mark in flows shortly before the close of the first half. Find out what this week’s ETF Zoo crew thought about where the money is going, SEC regulatory updates, leveraged ETF popularity and more. </p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/podcasts/etf-zoo-mid-year-check-ai-trade-wont-quit?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cK87BsDS_Xk.aPoOG0oYTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/1b9322b78e5304421c8f5aab349df7da",
-      "published_at": "2026-07-03T01:16:46Z"
-    },
-    {
-      "id": "0c958665-ee6b-362d-b0da-ca6b8265412b",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Does Kyndryl (KD) and Microsoft’s Sovereign Cloud Push Redefine Its Edge in Regulated AI?",
-      "summary": "Kyndryl Holdings, Inc. recently expanded its sovereignty solutioning by combining its advisory, engineering and operational services with Microsoft Corporation’s Sovereign Cloud capabilities to help customers design, build and operate cloud architectures that address evolving data residency and operational requirements. This collaboration positions Kyndryl as a key partner for governments and highly regulated industries seeking practical, scalable cloud sovereignty architectures that support...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-kyndryl-kd-microsoft-sovereign-010730827.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y9Ep6b1avnUSDQmha6co_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b394072c431426666ba19d9f9857f297",
-      "published_at": "2026-07-03T01:07:30Z"
-    },
-    {
-      "id": "f014d7d7-f357-3b6e-83c8-388ccf2991c8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Bitcoin Jumped towards $62,000 and What Could Carry It to $70,000",
-      "summary": "Bitcoin jumped to $62,000 on weak US jobs data, dovish Fed signals, and heavy short liquidations. Is $70,000 next?",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/why-bitcoin-jumped-62000-70000/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rJvLvkbkJY_p3Kr3.4jktg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b",
-      "published_at": "2026-07-03T00:37:08Z"
-    },
-    {
-      "id": "68c9b54b-5b0f-38c0-b10f-2e90726d265e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates — Investors And Experts Weigh In",
-      "summary": "Earlier on Thursday, Tesla said that it delivered 480,126 vehicles in Q2 2026, beating the sell-side consensus of around 406,000 by roughly 18%.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-worst-day-in-11-months-after-q2-delivery-blows-past-estimates/cZm97iXR7jO",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dZhDFeeMhTkZtp66ngPtMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ee13a98802bde1a6c2753eab234e9a34",
-      "published_at": "2026-07-03T00:31:36Z"
-    },
-    {
-      "id": "84b46356-9090-3b9d-bca6-7bd6b2833051",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Nikkei Falls 1.0%, Dragged by Electronics, Tech Stocks",
-      "summary": "STOCKS 0020 GMT — Japanese stocks are lower in early trade as uncertainty over the Middle East conflict continues. Electronics and technology stocks are leading the declines. Kioxia Holdings is down 7.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-electronics-tech-stock-fc233590?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-07-03T00:31:00Z"
-    },
-    {
-      "id": "4a2f1312-e7f8-3e05-8684-8c3289cf6b3f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Senior analyst revamps Robinhood price target amid hyperscaling potential",
-      "summary": "An analyst at Mizuho believes Robinhood Markets (NASDAQ: HOOD) has big upside coming. On July 2, senior analyst Dan Dolev raised the stock's price target to $130 from $115 on Thursday while keeping an Outperform rating. The new ratings appear just a day after their live event \"Robinhood ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/senior-analyst-revamps-robinhood-price-target-amid-hyperscaling-potential",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2aD3aeBbszye9D6KI9aDxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/267ed27b2e65443b93785ca022718b09",
-      "published_at": "2026-07-03T00:30:00Z"
     }
   ]
 }
