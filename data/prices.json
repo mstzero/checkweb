@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 20:10 UTC",
+  "last_updated": "2026-07-04 20:05 UTC",
   "total": 37,
   "ok": 37,
   "prices": {
@@ -7,45 +7,45 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "decimals": 0,
-      "price": 62360.96875,
-      "change": 1.42,
-      "base": 61485.30078125,
+      "price": 63324.80078125,
+      "change": 1.25,
+      "base": 62544.19921875,
       "status": "ok"
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
       "decimals": 0,
-      "price": 1747.25,
-      "change": 2.89,
-      "base": 1698.16943359375,
+      "price": 1793.4100341796875,
+      "change": 2.1,
+      "base": 1756.5186767578125,
       "status": "ok"
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
       "decimals": 2,
-      "price": 82.45999908447266,
-      "change": 2.25,
-      "base": 80.64398193359375,
+      "price": 81.83000183105469,
+      "change": -0.55,
+      "base": 82.28005981445312,
       "status": "ok"
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
       "decimals": 2,
-      "price": 570.219970703125,
-      "change": 2.19,
-      "base": 558.0145263671875,
+      "price": 575.3499755859375,
+      "change": 0.33,
+      "base": 573.4421997070312,
       "status": "ok"
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "decimals": 4,
-      "price": 1.132099986076355,
-      "change": 4.2,
-      "base": 1.0864959955215454,
+      "price": 1.1682000160217285,
+      "change": 3.02,
+      "base": 1.1339329481124878,
       "status": "ok"
     },
     "GOLD": {
@@ -126,8 +126,8 @@
       "symbol": "EURUSD",
       "name": "Euro / US Dollar",
       "decimals": 4,
-      "price": 1.1439030170440674,
-      "change": 0.54,
+      "price": 1.1440337896347046,
+      "change": 0.55,
       "base": 1.13779878616333,
       "status": "ok"
     },
@@ -135,17 +135,17 @@
       "symbol": "GBPUSD",
       "name": "British Pound / US Dollar",
       "decimals": 4,
-      "price": 1.33539879322052,
-      "change": 0.56,
-      "base": 1.3279330730438232,
+      "price": 1.3349887132644653,
+      "change": 0.08,
+      "base": 1.3338704109191895,
       "status": "ok"
     },
     "USDJPY": {
       "symbol": "USDJPY",
       "name": "US Dollar / Yen",
       "decimals": 2,
-      "price": 161.35499572753906,
-      "change": -0.73,
+      "price": 161.33700561523438,
+      "change": -0.74,
       "base": 162.53900146484375,
       "status": "ok"
     },
@@ -153,9 +153,9 @@
       "symbol": "USDTRY",
       "name": "US Dollar / Turkish Lira",
       "decimals": 2,
-      "price": 46.670799255371094,
-      "change": -0.01,
-      "base": 46.67720031738281,
+      "price": 46.75299835205078,
+      "change": 0.06,
+      "base": 46.7234992980957,
       "status": "ok"
     },
     "SPY": {
@@ -225,7 +225,7 @@
       "symbol": "FTSE",
       "name": "UK FTSE 100",
       "decimals": 2,
-      "price": 10679.0302734375,
+      "price": 10679.0,
       "change": 0.25,
       "base": 10652.900390625,
       "status": "ok"
@@ -243,8 +243,8 @@
       "symbol": "NIKKEI",
       "name": "Japan Nikkei 225",
       "decimals": 2,
-      "price": 68733.1484375,
-      "change": 0,
+      "price": 69744.0703125,
+      "change": 1.47,
       "base": 68733.1484375,
       "status": "ok"
     },
@@ -252,8 +252,8 @@
       "symbol": "SHCOMP",
       "name": "Shanghai Composite",
       "decimals": 2,
-      "price": 4028.904052734375,
-      "change": 0,
+      "price": 4043.64306640625,
+      "change": 0.37,
       "base": 4028.904052734375,
       "status": "ok"
     },
@@ -261,8 +261,8 @@
       "symbol": "HSI",
       "name": "Hong Kong Hang Seng",
       "decimals": 2,
-      "price": 23055.029296875,
-      "change": 0,
+      "price": 23350.029296875,
+      "change": 1.28,
       "base": 23055.029296875,
       "status": "ok"
     },
@@ -333,7 +333,7 @@
       "symbol": "BIST100",
       "name": "BIST 100",
       "decimals": 2,
-      "price": 14417.91015625,
+      "price": 14417.900390625,
       "change": -0.26,
       "base": 14455.0,
       "status": "ok"
