@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 20:05 UTC",
+  "last_updated": "2026-07-05 20:07 UTC",
   "total": 37,
   "ok": 37,
   "prices": {
@@ -7,45 +7,45 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "decimals": 0,
-      "price": 63324.80078125,
-      "change": 1.25,
-      "base": 62544.19921875,
+      "price": 62740.3984375,
+      "change": -0.55,
+      "base": 63088.3046875,
       "status": "ok"
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
       "decimals": 0,
-      "price": 1793.4100341796875,
-      "change": 2.1,
-      "base": 1756.5186767578125,
+      "price": 1779.97998046875,
+      "change": 0.05,
+      "base": 1779.032958984375,
       "status": "ok"
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
       "decimals": 2,
-      "price": 81.83000183105469,
-      "change": -0.55,
-      "base": 82.28005981445312,
+      "price": 81.0199966430664,
+      "change": -0.77,
+      "base": 81.6496353149414,
       "status": "ok"
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
       "decimals": 2,
-      "price": 575.3499755859375,
-      "change": 0.33,
-      "base": 573.4421997070312,
+      "price": 589.2899780273438,
+      "change": 2.49,
+      "base": 574.9729614257812,
       "status": "ok"
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "decimals": 4,
-      "price": 1.1682000160217285,
-      "change": 3.02,
-      "base": 1.1339329481124878,
+      "price": 1.1359000205993652,
+      "change": -1.81,
+      "base": 1.1567870378494263,
       "status": "ok"
     },
     "GOLD": {
@@ -97,8 +97,8 @@
       "symbol": "DXY",
       "name": "Dollar Index",
       "decimals": 2,
-      "price": 100.85700225830078,
-      "change": -0.0,
+      "price": 100.86000061035156,
+      "change": 0,
       "base": 100.86000061035156,
       "status": "ok"
     },
@@ -107,9 +107,9 @@
       "name": "US 10Y Yield",
       "decimals": 2,
       "suffix": "%",
-      "price": 4.484999656677246,
-      "change": 0,
-      "base": 4.484999656677246,
+      "price": 4.485000133514404,
+      "change": 0.22,
+      "base": 4.474999904632568,
       "status": "ok"
     },
     "US02Y": {
@@ -118,17 +118,17 @@
       "decimals": 2,
       "suffix": "%",
       "price": 3.6679999828338623,
-      "change": 0,
-      "base": 3.6679999828338623,
+      "change": -0.86,
+      "base": 3.700000047683716,
       "status": "ok"
     },
     "EURUSD": {
       "symbol": "EURUSD",
       "name": "Euro / US Dollar",
       "decimals": 4,
-      "price": 1.1440337896347046,
-      "change": 0.55,
-      "base": 1.13779878616333,
+      "price": 1.143379807472229,
+      "change": 0.1,
+      "base": 1.1422696113586426,
       "status": "ok"
     },
     "GBPUSD": {
@@ -144,17 +144,17 @@
       "symbol": "USDJPY",
       "name": "US Dollar / Yen",
       "decimals": 2,
-      "price": 161.33700561523438,
-      "change": -0.74,
-      "base": 162.53900146484375,
+      "price": 161.32899475097656,
+      "change": -0.07,
+      "base": 161.44900512695312,
       "status": "ok"
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "US Dollar / Turkish Lira",
       "decimals": 2,
-      "price": 46.75299835205078,
-      "change": 0.06,
+      "price": 46.78580093383789,
+      "change": 0.13,
       "base": 46.7234992980957,
       "status": "ok"
     },
