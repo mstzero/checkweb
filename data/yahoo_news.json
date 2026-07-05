@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-07-05 20:34 UTC",
+  "last_updated": "2026-07-05 21:58 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "edd257b1-64c2-3362-ade4-15c107e518b1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Dividend ETF Picks That Could Build Serious Long-Term Wealth",
+      "summary": "Slow and steady wins the race.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/3-dividend-etf-picks-that-could-build-serious-long/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HwAMgr6HWr.JSUrhXu3WXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/055a1e083605e8c73a351094415307bd",
+      "published_at": "2026-07-05T21:40:00Z"
+    },
+    {
+      "id": "b135d4b9-3c57-3f78-aa09-78bf2b9b6403",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
+      "summary": "Neither Meta Platforms nor Nvidia is trading at the premiums they warrant.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/the-first-half-of-2026-is-over-2-spectacular-artif/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HNzGHjjljVcBOW1skXhLfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a169085329ba89ced41656e0e52c0a33",
+      "published_at": "2026-07-05T21:26:00Z"
+    },
+    {
+      "id": "34aca182-60b8-3490-97de-b2cb9ddfe4f6",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
+      "summary": "Bitcoin will remain highly volatile, but its low price might be worth some of the risk.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/bitcoin-is-down-53-is-it-finally-time-to-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZgEwGww5iEgIdgwATIastQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84b2acf93eafe52a337fd998cb811d96",
+      "published_at": "2026-07-05T20:50:00Z"
+    },
+    {
+      "id": "0bda3695-0a38-34e7-a2d8-bc01a471653a",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
+      "summary": "If you bought ProShares UltraPro QQQ (NASDAQ:TQQQ) expecting a clean 3x version of the Nasdaq-100, look at the last five years. The index proxy Invesco QQQ Trust (NASDAQ:QQQ) returned 107.69%. Triple that is 323%. TQQQ actually returned 177.7%. That gap, roughly 145 percentage points of missing upside on a rising index, is the hidden cost ... The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/05/the-82-annual-fee-is-just-the-start-tqqqs-hidden-cost-structure-explained/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LDqKUShr32NnZ5m3UN6trg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5523c3581b30da1055e654065068ca3f",
+      "published_at": "2026-07-05T20:33:52Z"
+    },
+    {
+      "id": "5f9e7f46-17b6-3276-a62c-6927709abbf0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Top Analyst strongly resets AMD stock price target",
+      "summary": "Wall Street just picked a new favorite in the AI chip race, and it isn't the company most investors expect. According to Investing.com, Cantor Fitzgerald analyst C.J. Muse raised his price target on Advanced Micro Devices (AMD) to $700 from $500 on June 29, keeping his Overweight rating. That ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/amd-stock-price-target-reset-cantor-fitzgerald",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7v6OBC_qXBF.GowmfovOmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/194165e2a9574085161982fd02b43c83",
+      "published_at": "2026-07-05T20:33:00Z"
+    },
     {
       "id": "e83e738b-2506-31b6-98ea-1d0881c290b6",
       "asset": "NVDA",
@@ -82,8 +137,8 @@
     },
     {
       "id": "7dc1b56f-bf18-347b-9c22-6f838e0021ca",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
       "summary": "A photo finish in market value -- and a chasm in everything underneath it.",
       "source": "Motley Fool",
@@ -112,28 +167,6 @@
       "url": "https://www.fool.com/investing/2026/07/05/ethereum-lost-22-in-1-month-heres-why-it-could-sti/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ah3ULcn5YXozcJG.XGvP7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d339956b6a43428e534eae186c4815f",
       "published_at": "2026-07-05T19:22:00Z"
-    },
-    {
-      "id": "95d3db5b-e769-359b-a132-ddf2f568cca7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia's surprising product revival tells deeper AI industry story",
-      "summary": "Nvidia (NVDA) may be reaching into its past to solve a very current problem. It looks like the chip giant is resurrecting the GeForce RTX 3060, a graphics card that came out years ago and should have been replaced by subsequent versions. Not simply a nostalgia play for PC gamers, the re-release ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/nvidia-brings-back-geforce-rtx-3060-graphics-card",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Td.p3VKEkeMhSs7v3fvIlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/75956c70bae625e283e8eb06314b1d96",
-      "published_at": "2026-07-05T19:13:00Z"
-    },
-    {
-      "id": "4d19caec-7252-3b5d-b890-3551051b0205",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "MercadoLibre and Walmart Are Both Down This Year. Which Stock Should Investors Buy?",
-      "summary": "Despite strong earnings, both stocks are down for the year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/mercadolibre-walmart-down-2026-stock-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V5IgmWztkYIVMfjDUshrdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/676fbad64ef70d8219982deda81a69ca",
-      "published_at": "2026-07-05T19:05:00Z"
     },
     {
       "id": "ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8",
@@ -277,39 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/vanecks-sigel-strategy-now-hedge-fund/cZmLfkRR7k0",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8ZdycTDv3CQoLg2kV9NkUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/e71e18c6c90992753185691c2e6cc3e8",
       "published_at": "2026-07-05T17:15:04Z"
-    },
-    {
-      "id": "91b032f0-0fbd-3145-8e7f-f0c13c8706f8",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "MiCA Shake-Up? Binance Logs Highest Weekly Outflows in Over 3 Years",
-      "summary": "Binance outflows hit a three-year high as the exchange exits the EU before the MiCA deadline and ether withdrawals spike.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/binance-weekly-outflows-eth-withdrawals/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2fRQhPUY2HLeMo0TA1vOCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1638a97f8a74446314b5bc83fccbf83d",
-      "published_at": "2026-07-05T16:57:19Z"
-    },
-    {
-      "id": "b3986694-6455-336b-a710-7d954185d18d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026.",
-      "summary": "This leading pipeline operator has a bright future.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/prediction-et-will-crush-the-sp-500-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jiY2HnD1EJu9nwuudXRgKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f53b048c2fcd4c71bee33ff7497c59d6",
-      "published_at": "2026-07-05T16:51:55Z"
-    },
-    {
-      "id": "5252a9d0-7162-308a-92c3-6f59cbda2227",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Got $1,000? Why Microsoft's Drop to a 52-Week Low Is a Screaming Buy for Long-Term Investors",
-      "summary": "Microsoft stock looks like a screaming deal at these levels.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/got-1000-why-microsofts-drop-to-a-52-week-low-is-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FmGow2_DSvnxjSvckCrgEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3fbc535d4d503ec2b5d78ae71577f7bf",
-      "published_at": "2026-07-05T16:50:00Z"
     }
   ]
 }
