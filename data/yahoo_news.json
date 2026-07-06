@@ -1,18 +1,205 @@
 {
-  "last_updated": "2026-07-05 23:05 UTC",
+  "last_updated": "2026-07-06 01:13 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "df5e639d-2981-3b8c-ac80-e27cf0ab724c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Shares edge higher in Asia as oil dips, earnings loom",
+      "summary": "By Wayne Cole SYDNEY, July 6 (Reuters) - Asian share markets were mostly firmer on Monday, as Wall Street futures started the week with gains on hopes for an upbeat earnings season, while easing oil",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/shares-edge-higher-asia-oil-005923908.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fYEgFqEasI7.cRhUf.G3cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/01dcced73b01b1eb051ac7c599be7e3d",
+      "published_at": "2026-07-06T00:59:23Z"
+    },
+    {
+      "id": "349f17b5-6996-3115-8389-0bb10a8b91a3",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Nasdaq, S&P 500, Dow Futures Rise After Fourth Of July Break As Investors Await Fed Minutes: SLS, ONDS, HOOD, MARA, HUT In Focus",
+      "summary": "U.S. stock futures edged higher in the overnight session ahead of Monday’s open following a strong rally in the prior week.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-after-fourth-of-july-break-as-investors-await-fed-minutes/cZmKumjR7kK",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AEMeV69vvJZg8.Nujqm8ug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/0187741e893dd537f78f587c816f59c0",
+      "published_at": "2026-07-06T00:58:06Z"
+    },
+    {
       "id": "ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8",
       "asset": "AAPL",
       "asset_name": "Apple",
-      "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "title": "Dow Jones Futures Rise, Techs Jump; Apple, SpaceX, Sandisk, Robinhood In Focus",
       "summary": "The Nasdaq and many AI stocks like Sandisk are at key levels. Also watch Apple, SpaceX and Robinhood.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RpIi9W_Dtnrodwr9CiWGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c66806cf756aa82a3190a23478bad917",
-      "published_at": "2026-07-05T22:56:43Z"
+      "published_at": "2026-07-06T00:53:19Z"
+    },
+    {
+      "id": "a25cc49a-bca4-336e-958f-14770091b4bc",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Gains as Investors Scale Back on Fed Hike Bets",
+      "summary": "Gold edged higher in Asian trade. Softer U.S. jobs data and lower energy prices were likely leading investors to scale back Federal Reserve rate hike bets, said UOB.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-investors-scale-back-on-fed-hike-bets-554c9a5a?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-07-06T00:48:00Z"
+    },
+    {
+      "id": "1e92f18c-e9d7-3487-835d-b0fcec2ebf7b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA Corp. (NVDA) Shares Updates Around Claude Models Running on Blackwell Ultra GPUs",
+      "summary": "NVIDIA Corp. (NASDAQ:NVDA) is one of BlackRock’s 30 most important AI stocks right now. On June 29, the company shared that Anthropic’s Claude models in Microsoft Foundry, hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs, are now publicly available. It provides Azure-native businesses a robust new way to develop domain-specific and […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corp-nvda-shares-updates-004525875.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HoQH28_esx6t8CNNtw1_8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6eeac832621827d123ccd03733dcdaca",
+      "published_at": "2026-07-06T00:45:25Z"
+    },
+    {
+      "id": "535af2f6-7cdd-3edd-9235-2e21abf6e8e5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit.",
+      "summary": "As these companies try to solve a new AI bottleneck, their stock prices keep climbing.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/nvidia-ceo-jensen-huang-highlighted-a-new-ai-bottl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZuTGUbvJ.H5i58rDTjVTjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6409b849a9d549cb5e3d733891acbf2d",
+      "published_at": "2026-07-06T00:45:00Z"
+    },
+    {
+      "id": "9802e3de-91a7-397f-b07b-2a4dd23a18f7",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "QYLD’s $10,000 Problem: How a Covered-Call ETF Left Investors With a Fraction of Nasdaq Gains",
+      "summary": "Over the past decade, an investor who put $10,000 into QYLD walked away with a fraction of what a plain Nasdaq-100 index holder pocketed. The fat monthly checks papered over that gap rather than closing it. What You’re Actually Paying The Global X NASDAQ 100 Covered Call ETF (NASDAQ:QYLD) sells the story of income. The ... QYLD’s $10,000 Problem: How a Covered-Call ETF Left Investors With a Fraction of Nasdaq Gains",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/05/qylds-10000-problem-how-a-covered-call-etf-left-investors-with-a-fraction-of-nasdaq-gains/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DzTXwKSQaKcBwH7Z9uFEeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e780ea826248f3a10781c76d8ad76e27",
+      "published_at": "2026-07-06T00:38:31Z"
+    },
+    {
+      "id": "a3eb44f1-6414-3b92-b826-815529f65ee0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What This Rare Historical Market Signal Means for Your Portfolio",
+      "summary": "The signal is named for Warren Buffett, who advised on when it's in scary territory -- such as now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/what-this-rare-historical-market-signal-means-for/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G7AqbYh4b.S4z91VHXcY.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33354946bb14d184540ad4ea4518f296",
+      "published_at": "2026-07-06T00:24:00Z"
+    },
+    {
+      "id": "20343564-42d8-389b-8626-d6a7e8d4d7be",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Greatland tops FY26 guidance with 328,986 ounces of gold",
+      "summary": "Greatland Resources Ltd (AIM:GGP, OTC:GRLGF, ASX:GGP) has delivered full-year gold production of 328,986 ounces, beating the top end of its FY26 guidance range after producing 79,099 ounces in the June quarter. The Western Australian gold and copper producer also reported June quarter copper...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1094947/greatland-tops-fy26-guidance-with-328-986-ounces-of-gold-1094947.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/owXjz833I_70yZ4Gbtif5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/2cf5a08979f06783930f84370f356a02",
+      "published_at": "2026-07-06T00:23:00Z"
+    },
+    {
+      "id": "b6dcf212-f9bb-356f-aa6f-7ffe50634efe",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App",
+      "summary": "Microsoft Corp. (NASDAQ:MSFT) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional holder, with 7.99% or 593.33 million outstanding shares in the company, as per the filings on March 31. As of the close of July 2, the consensus sentiment around Microsoft Corp. (NASDAQ:MSFT) was also strongly bullish. […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-plans-turn-001859230.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dP4pqgQOVZKJMI6ibvEJAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/bb3fda785fb5d68473dfa440830f97d2",
+      "published_at": "2026-07-06T00:18:59Z"
+    },
+    {
+      "id": "d07fcde3-6e1d-3014-ac0d-129af4f53827",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here is Why Palantir Technologies (PLTR) is One of BlackRock’s 30 Most Important AI Stock Picks",
+      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional investor in the company, holding 8.67% or 188.99 million of outstanding shares, as per the filings on March 31. On June 29, Palantir Technologies Inc. (NASDAQ:PLTR) shared that the company has entered into a strategic […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-palantir-technologies-pltr-one-001815015.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5s0VWoPeMHrjI7B94MYFqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/99d3c1a2db557ce7049bdbc10b710862",
+      "published_at": "2026-07-06T00:18:15Z"
+    },
+    {
+      "id": "aec6e819-d525-36b2-b7a4-114e6175b026",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Mizuho Raises Price Target for Entegris Inc. (ENTG)",
+      "summary": "Entegris Inc. (NASDAQ:ENTG) is one of BlackRock’s 30 most important AI stocks right now. On July 1, John Roberts from Mizuho increased the firm’s target price on Entegris Inc. (NASDAQ:ENTG) from $180 to $200, and maintained an Outperform rating on the stock. Roberts’ price target adjustment is notable, as Mizuho had been decreasing price targets […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-price-target-entegris-001647926.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zbcX2dSg3C0GyM9Rvd.acA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c60dc34e87a8d03ebe9092d73f3d5daf",
+      "published_at": "2026-07-06T00:16:47Z"
+    },
+    {
+      "id": "8619c3bb-a934-3c6f-b468-baf7e114c67a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Anthropic Could Be a $1 Trillion IPO This Fall. These 2 Stocks Already Own a Piece.",
+      "summary": "You can't buy what may be the fall's biggest IPO yet. But two familiar publicly traded megacaps bought in years ago.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/anthropic-could-be-a-1-trillion-ipo-this-fall-thes/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9tNQPzyckiEStfjczUKIkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7f5ef62c60683f0ffc8c4a3cdb4b54c4",
+      "published_at": "2026-07-05T23:56:00Z"
+    },
+    {
+      "id": "ba8d3ff6-46cb-3aa1-8e90-24f4daa2d434",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Want to Go",
+      "summary": "One stock market metric is sounding the alarm.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/historic-warning-signal-suggests-the-stock-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4FYfISdb1087Q2_lsDTH.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d7cea51a83fec0fc3af8264b5f23d889",
+      "published_at": "2026-07-05T23:50:00Z"
+    },
+    {
+      "id": "d439d9fe-7a92-3d51-bfcb-3fca022eede8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Revolution Medicines Is Up Nearly 140% in 2026. Is the Hot Biotech Stock Still a Buy?",
+      "summary": "The company recently wowed investors with clinical trial results.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/revolution-medicines-is-up-140-in-2026-is-the-hot/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3BIwtzyOJIOFFeVxzT.9BQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5f25ebe0551c5cf24261ec6c2916274",
+      "published_at": "2026-07-05T23:35:00Z"
+    },
+    {
+      "id": "66242e3e-a86c-3320-959b-e2e381e9541a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Robinhood Stock Jumped This Week",
+      "summary": "The popular brokerage is embracing decentralized finance and agentic AI.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/why-robinhood-stock-jumped-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7mNK5bJNSgnOOs.cbWnneA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e287ac0b9fd00b1002da2253d0e5eb4e",
+      "published_at": "2026-07-05T23:32:09Z"
+    },
+    {
+      "id": "8298f8b9-5d1c-3bd4-9745-b5621da996b9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Could Buying Rocket Lab Stock Today Set You Up for Life?",
+      "summary": "Should investors bet big on Rocket Lab stock following its latest acquisition move?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/could-buying-rocket-lab-stock-today-set-you-up-for/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c64jcIDor5nlnzqAWP7Uyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/981cac2a615a58e970bdeb1612fded99",
+      "published_at": "2026-07-05T23:25:00Z"
+    },
+    {
+      "id": "e9997912-e771-391f-ae2b-088ff919e327",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
+      "summary": "As AI drives explosive demand for computing, electricity has emerged as the world’s most critical and scarce strategic resource.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KUiq73W4kPUaKiesrUHmPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/4ba6e9f3fa937441669f195b036602e2",
+      "published_at": "2026-07-05T23:00:00Z"
     },
     {
       "id": "90e576fc-cd5c-34af-ab29-5de13089e886",
@@ -38,8 +225,8 @@
     },
     {
       "id": "7df3a744-e58f-34be-a12c-a070d085f29d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Anthropic’s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
       "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the top AI stocks to buy according to billionaire Philippe Laffont. On June 30, Microsoft Corp (NASDAQ: MSFT) confirmed the general availability of Anthropic’s Claude models in Foundry. Organizations can now run Claude within their Azure environments while leveraging Microsoft authentication, billing, and governance controls. Claude Models in Microsoft […]",
       "source": "Insider Monkey",
@@ -48,70 +235,15 @@
       "published_at": "2026-07-05T22:50:21Z"
     },
     {
-      "id": "74a2c83e-ca67-3457-8965-2640a2e20288",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVIDIA Corporation (NVDA) Secures Bit Origin’s AI Chips Supply as Prices Skyrocket in China’s Black Market",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the top AI Stocks to buy according to billionaire Philippe Laffont. On June 29, Bit Origin, an emerging AI computing infrastructure company, announced an agreement to the acquire about $11 million worth of NVIDIA Corp (NASDAQ:NVDA)’s Blackwell B300 AI infrastructure assets. The Singapore-based company will fund the purchase with […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-secures-bit-225012320.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GlWy38f5UVKktOoyLoX6tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/065fd4b8554030ef4f360c2cf3b6b471",
-      "published_at": "2026-07-05T22:50:12Z"
-    },
-    {
-      "id": "9c789030-ab2f-3e53-9a04-defb6ab3f0f8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
-      "summary": "These Nvidia rivals climbed in the triple digits.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/amd-stock-and-intel-crushed-nvidia-in-the-first-ha/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IBsi6s7_RLYaX1LuuRw53g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f49c3fed186e8e9fad1d74b1eaea1ca0",
-      "published_at": "2026-07-05T22:30:00Z"
-    },
-    {
-      "id": "dec5087d-fd09-34ec-9c71-525865af8ebe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Reasons to Load Up on Netflix Stock Before July 16",
-      "summary": "Netflix reports earnings July 16, and these three overlooked metrics could reveal whether its next phase of growth is just beginning.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/3-reasons-load-up-on-netflix-stock-before-july-16/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kv5D_77cHeov1EmSQGetcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0810e811c63f24a6b159389a15fe7821",
-      "published_at": "2026-07-05T22:20:00Z"
-    },
-    {
-      "id": "f35e0c05-f08b-3d66-9288-215d539025e2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now",
-      "summary": "SpaceX completed a record IPO about three weeks ago.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/if-youd-invested-10000-in-the-spacex-ipo-heres-how/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/be8d9LRlxQKf452tiP1tTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/265fe385e8999f4e7f9358d47669a190",
-      "published_at": "2026-07-05T22:15:00Z"
-    },
-    {
-      "id": "edd257b1-64c2-3362-ade4-15c107e518b1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Dividend ETF Picks That Could Build Serious Long-Term Wealth",
-      "summary": "Slow and steady wins the race.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/3-dividend-etf-picks-that-could-build-serious-long/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HwAMgr6HWr.JSUrhXu3WXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/055a1e083605e8c73a351094415307bd",
-      "published_at": "2026-07-05T21:40:00Z"
-    },
-    {
-      "id": "b135d4b9-3c57-3f78-aa09-78bf2b9b6403",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half.",
-      "summary": "Neither Meta Platforms nor Nvidia is trading at the premiums they warrant.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/the-first-half-of-2026-is-over-2-spectacular-artif/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HNzGHjjljVcBOW1skXhLfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a169085329ba89ced41656e0e52c0a33",
-      "published_at": "2026-07-05T21:26:00Z"
+      "id": "10a04605-38ff-322b-8c54-f78654f78eab",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply",
+      "summary": "(Bloomberg) -- Oil fell as energy flows through the Strait of Hormuz persisted and OPEC+ signaled higher supplies, fanning concerns about a potential glut.Most Read from BloombergOil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-TurnsOil’s Supply Wave, Tumbling Prices Rekindle Fears of Global GlutBrazil Freezes $2 Billion, Pursues Arrests After US SanctionWhy the Great American State Fair Looks So EmptyGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaBrent dropped below $7",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/energy/articles/oil-drops-flows-hormuz-persist-220245219.html",
+      "thumbnail": "",
+      "published_at": "2026-07-05T22:02:45Z"
     },
     {
       "id": "34aca182-60b8-3490-97de-b2cb9ddfe4f6",
@@ -134,17 +266,6 @@
       "url": "https://247wallst.com/investing/2026/07/05/the-82-annual-fee-is-just-the-start-tqqqs-hidden-cost-structure-explained/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LDqKUShr32NnZ5m3UN6trg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5523c3581b30da1055e654065068ca3f",
       "published_at": "2026-07-05T20:33:52Z"
-    },
-    {
-      "id": "5f9e7f46-17b6-3276-a62c-6927709abbf0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Top Analyst strongly resets AMD stock price target",
-      "summary": "Wall Street just picked a new favorite in the AI chip race, and it isn't the company most investors expect. According to Investing.com, Cantor Fitzgerald analyst C.J. Muse raised his price target on Advanced Micro Devices (AMD) to $700 from $500 on June 29, keeping his Overweight rating. That ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/amd-stock-price-target-reset-cantor-fitzgerald",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7v6OBC_qXBF.GowmfovOmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/194165e2a9574085161982fd02b43c83",
-      "published_at": "2026-07-05T20:33:00Z"
     },
     {
       "id": "b4bc1c77-aaf5-3c6e-a1b9-dcf066d08685",
@@ -189,127 +310,6 @@
       "url": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8MxIQlkIg08Aqf1R3kWBxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8a45e32c37bf32ae9a673b0e4293766",
       "published_at": "2026-07-05T19:27:00Z"
-    },
-    {
-      "id": "cf7d04c8-2b8c-3c8a-94b2-12db263c3eb7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Options Turn Call-Heavy Before July 8 FOMC Minutes: Will BTC Break $63,000?",
-      "summary": "Bitcoin options turn call-heavy before the July 8 FOMC minutes as max pain sits at $63,000 and put demand fades.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-options-call-heavy-fomc-minutes/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0J7U9a55t0CHI79WuHr9eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2fd4a5f5cb75e39fc75d05a316d7af63",
-      "published_at": "2026-07-05T19:26:44Z"
-    },
-    {
-      "id": "a357ea2d-f3a5-3308-961a-b40da4b6b58e",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse",
-      "summary": "This coin could have a bumpy few months queued up.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/ethereum-lost-22-in-1-month-heres-why-it-could-sti/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ah3ULcn5YXozcJG.XGvP7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d339956b6a43428e534eae186c4815f",
-      "published_at": "2026-07-05T19:22:00Z"
-    },
-    {
-      "id": "cad5ec86-b44a-3f7f-8b11-0e713ae67229",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-      "summary": "A handful of countries in the OPEC+ oil-producing alliance plan to increase their outputs modestly next month, which would bring more oil online after fuel prices have fallen to levels not seen since before the U.S. and Israel's war with Iran.  The Organization of the Petroleum Exporting Countries and its allies — collectively known as OPEC+ — announced on Sunday that seven countries would expand oil production by a combined total of 188,000 barrels per day in August.  It was the fifth consecutive month OPEC+ agreed to raise oil outputs.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0eY_qdlziNH5xYZuRe1v1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6c2896d2ccec406c1f48b3e55b35b41e",
-      "published_at": "2026-07-05T18:47:51Z"
-    },
-    {
-      "id": "c0872044-7dfc-33aa-8b86-d36710708a4c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE",
-      "summary": "Everyone wants the same thing from crypto: put in a little now and pull out a fortune later. So let’s actually run the numbers. If you dropped $10,000 into one coin today and wanted $1 million by 2030, which one gives you the best shot? We compared five of the most talked-about coins—XRP (CRYPTO:XRP), Bitcoin ... Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/05/which-crypto-can-make-you-a-millionaire-by-2030-with-10000-we-compared-xrp-btc-eth-sol-and-hype/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rSxkcC4xQM.LfrsAef_AJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/121398e2c59f5827718a997a947d565e",
-      "published_at": "2026-07-05T18:13:04Z"
-    },
-    {
-      "id": "cb48ec37-f7c8-3db1-a5ca-a79a73e98fe7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Peter Brandt Eyes Selling Bitcoin to Invest in Gold, and Here is Why",
-      "summary": "Veteran trader Peter Brandt eyes selling Bitcoin to invest in gold, citing a bullish XAU/BTC ratio breakout on his chart.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/peter-brandt-eyes-selling-bitcoin-invest-gold-reason/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q3r3dDWHRN92ozh4i986BQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/4fd97b3791c69726295087b918225fff",
-      "published_at": "2026-07-05T18:12:36Z"
-    },
-    {
-      "id": "96be9efe-ae59-33c7-95e5-d0d3784443d0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) Approves $1.25 Billion In Bitcoin Sales To Fund Buybacks",
-      "summary": "Strategy (NasdaqGS:MSTR) has approved a Digital Credit Capital Framework that allows selective sales of up to $1.25b in Bitcoin. The move marks a shift from its prior strict Bitcoin accumulation approach to a formal Bitcoin monetization program. Proceeds may be used for liquidity, share buybacks, and potential dividends, introducing two way risk around Strategy's Bitcoin position. For investors watching Strategy, this policy change comes as the stock trades at $100.77, with performance that...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-approves-1-25-180814280.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
-      "published_at": "2026-07-05T18:08:14Z"
-    },
-    {
-      "id": "dc8d4d23-2cb6-38a4-9931-d95fffcd0c55",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
-      "summary": "A 68-year-old who retired recently with most of his savings in a traditional 401(k) or IRA is watching his account statements with mixed feelings. Goldman Sachs strategists led by Ben Snider project S&P 500 Q2 earnings will jump roughly 22% year over year, powered by the AI investment boom and energy-sector gains. The S&P 500 ... Goldman Says AI Is Driving a 22% Earnings Surge. For a 68-Year-Old, the Rally Swelling His 401(k) Is Inflating the RMD Tax Hit Waiting at 73.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/07/05/goldman-says-ai-is-driving-a-22-earnings-surge-for-a-68-year-old-the-rally-swelling-his-401k-is-inflating-the-rmd-tax-hit-waiting-at-73/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iP2Rumy60_rd5JPmQk23LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7aab9a7f7a856bd3b7fbc412f8788cf6",
-      "published_at": "2026-07-05T18:03:27Z"
-    },
-    {
-      "id": "38ee672a-968e-3150-998e-6aef59f72577",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Energy Stock Most Investors Overlook-And Why You Should Consider Adding It to Your Portfolio Today.",
-      "summary": "The soaring demand for electricity will drive Vistra's stock higher.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/the-energy-stock-most-investors-overlook-and-why-y/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tiyL5IH63iETw9HdZFrCgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5c2c9d1554d5d7a3e1a60d180073ceeb",
-      "published_at": "2026-07-05T18:02:05Z"
-    },
-    {
-      "id": "f56afa2a-9896-3ecb-a7d3-ced9d80e2f1d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Billionaire Investor Bets on AI Infrastructure With New Hut 8 Stake",
-      "summary": "Billionaire investor Daniel Loeb‘s Third Point expanded its AI infrastructure portfolio with the addition of Hut 8 Corp.. The company recently pivoted from bitcoin mining to focus on high-performance computing and AI infrastructure. Third Point acquired 869,563 shares in the...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-bets-ai-infrastructure-180104557.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cBJVTVhJUpZzrtx9yEnWog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/f4551f5bcc2a9735559700b31fb3d422",
-      "published_at": "2026-07-05T18:01:04Z"
-    },
-    {
-      "id": "c880be51-0930-3dee-8c8d-e08321b30953",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Was Volatile in the First Half of 2026. Here's How to Invest in Gold for the Rest of the Year.",
-      "summary": "The volatility in gold looks set to continue, but the underlying fundamentals favor taking a positive long-term view on the gold price.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/gold-was-volatile-in-the-first-half-of-2026-heres/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BgcS69vDM.rv.l2xwFUg3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/12a3bfc70b0607400381449b920af6c8",
-      "published_at": "2026-07-05T17:50:00Z"
-    },
-    {
-      "id": "cc77496b-487b-3c40-8e63-e8c30d6f5674",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Prediction: This Stock Will Be One of the Biggest Winners of the Second Half of 2026",
-      "summary": "Investors have chosen to see this company's glass as half-empty since late last year. Yet, it's continued producing fantastic growth anyway. Something's got to give soon.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/prediction-this-stock-will-be-one-of-the-biggest/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1lQsq44NI.giWisKc18n3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb479bbe17588c28bde48283fa3b1827",
-      "published_at": "2026-07-05T17:35:00Z"
     }
   ]
 }
