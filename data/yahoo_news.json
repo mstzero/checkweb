@@ -1,18 +1,238 @@
 {
-  "last_updated": "2026-07-06 01:13 UTC",
+  "last_updated": "2026-07-06 05:52 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "51c9c14d-110a-3cae-8042-b024907f512c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVDA, AAPL Stocks In Focus: Foxconn Beats Q2 Revenue Estimates But Sounds Caution On Geopolitics",
+      "summary": "The Taiwanese company said it is monitoring “the impact of the volatile global political and economic situation,” without elaborating.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-aapl-stocks-in-focus-foxconn-beats-q2-revenue-estimates-but-sounds-caution-on-geopolitics/cZm1ReOR7ks",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_rTGIioMumDdT6o0xiGrQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/546e99e2995bdcbf0105b6203c32dffe",
+      "published_at": "2026-07-06T05:44:01Z"
+    },
+    {
       "id": "df5e639d-2981-3b8c-ac80-e27cf0ab724c",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Shares edge higher in Asia as oil dips, earnings loom",
-      "summary": "By Wayne Cole SYDNEY, July 6 (Reuters) - Asian share markets were mostly firmer on Monday, as Wall Street futures started the week with gains on hopes for an upbeat earnings season, while easing oil",
+      "title": "Asia shares sputter as earnings loom, oil weighed by supply",
+      "summary": "By Wayne Cole SYDNEY, July 6 (Reuters) - Asian share markets sputtered on Monday as caution took hold ahead of a crucial earnings season for the AI sector, while the potential for increased supply",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/news/shares-edge-higher-asia-oil-005923908.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fYEgFqEasI7.cRhUf.G3cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/01dcced73b01b1eb051ac7c599be7e3d",
-      "published_at": "2026-07-06T00:59:23Z"
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AAQF3CA7OgHAlKDQ9gqQ5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/48211c125927fb173bb7d8d93ffeea17",
+      "published_at": "2026-07-06T05:39:07Z"
+    },
+    {
+      "id": "0da99969-604f-3692-af8e-a5328cfcd4b8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You Invested $1,000 in SpaceX at Its IPO, Here Is What It Is Worth Today",
+      "summary": "So far, the results haven't lived up to the hype.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/06/if-you-invested-1000-in-spacex-at-its-ipo-here-is/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9nzOPBv4PQmOOkFmQ4Eniw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5c2dcb904caf1cfb44c45ca4b96929c5",
+      "published_at": "2026-07-06T05:25:00Z"
+    },
+    {
+      "id": "f081797a-b025-3b59-9ce3-7695fcc560d1",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin's Price Tumbled 18% in June. Here's Why It's Still a Buy This Summer.",
+      "summary": "If history is any guide, Bitcoin could be in recovery mode by the end of this year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/06/bitcoins-price-tumbled-18-in-june-heres-why-its-st/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MKz5u.xY8sUr9ncMwCGqfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/583fddcbe7df2f02f73467619ff25aa6",
+      "published_at": "2026-07-06T04:50:00Z"
+    },
+    {
+      "id": "c0045926-e39d-39b3-957a-5cbe5be1493d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Morning Bid: Samsung to serve chip taster for earnings feast",
+      "summary": "July 6 (Reuters) - A look at the day ahead in European and global markets from Wayne Cole.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-samsung-serve-chip-043150581.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z9wN0ItmbVVuuFazBXwQgg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/daa175a20c2afbcc519616f4b56b062b",
+      "published_at": "2026-07-06T04:31:50Z"
+    },
+    {
+      "id": "d9f3b84b-04db-31be-b321-d6fe37123fc6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Q2 Earnings Season Is About to Kick Off. These 5 Reports Will Set the Market's Tone.",
+      "summary": "Five reports over two weeks will tell investors whether the rally has the earnings to back it up.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/06/q2-earnings-season-is-about-to-kick-off-these-5-re/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eXVH3BZXcRBgqF3vQADyYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af11d9792c6199adc88596707310371a",
+      "published_at": "2026-07-06T04:22:00Z"
+    },
+    {
+      "id": "ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures Rise, Techs Lead; Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "summary": "The Nasdaq and many AI stocks like Sandisk are at key levels. Also watch Apple, SpaceX and Robinhood.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RpIi9W_Dtnrodwr9CiWGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c66806cf756aa82a3190a23478bad917",
+      "published_at": "2026-07-06T03:17:18Z"
+    },
+    {
+      "id": "ea4aaec1-c741-36dd-be04-a355285a1ab8",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold holds near two-week high on easing Fed rate-hike bets",
+      "summary": "By Pablo Sinha July 6 (Reuters) - Gold was steady near a two-week high on Monday after a softer-than-expected U.S. jobs report last week tempered expectations of interest rate hikes from the Federal",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-trades-near-two-week-005430656.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8luT2HWVxsyt87G29j8u.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/87b374331baccd8520ea1c5292fa816f",
+      "published_at": "2026-07-06T03:13:14Z"
+    },
+    {
+      "id": "93962711-e979-3815-b574-7470af44c3d8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Palantir Stock Popped This Week",
+      "summary": "The AI leader's stock is a buy, according to a respected Wall Street analyst.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/why-palantir-stock-popped-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4ZYNKRKqaAeeQ_DVP5fbFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c38f5aa12469e1ea1039f938688cf33f",
+      "published_at": "2026-07-06T03:10:22Z"
+    },
+    {
+      "id": "5ba1ce51-1e85-3a87-b9d6-89f09687806c",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "NewPeak Metals soars more than 100% intraday after Las Opeñas discovery",
+      "summary": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) shares surged in morning trade after the company confirmed a large-scale gold-zinc-silver discovery from the first hole of its 2026 drilling program at the 100%-owned Las Opeñas Gold Project in San Juan Province, Argentina. The stock surged as...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1094955/newpeak-metals-soars-more-than-100-intraday-after-las-openas-discovery-1094955.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WayfrynddmdZLgJooFDb.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/c51d7f6f903a2fc6b6367f52566a5370",
+      "published_at": "2026-07-06T03:02:00Z"
+    },
+    {
+      "id": "6536142f-2b39-3635-9771-66fdd72441d4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian markets mixed as tech recovery stutters, oil slips",
+      "summary": "Asian markets fluctuated Monday as investors struggled to maintain last week's late tech recovery, with traders turning their focus to the upcoming earnings season, while oil prices fell on further supplies passing through the Strait of Hormuz.Crude prices extended losses as tankers continued to pass through the Strait of Hormuz and on optimism over US-Iran peace talks.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mixed-tech-recovery-024825236.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/biI0kdcysFgbzBvZ8yYLvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/a58ef199a9025762f9514ec7a0c95073",
+      "published_at": "2026-07-06T02:48:25Z"
+    },
+    {
+      "id": "366ea38e-aed6-394b-851e-09a1798237ff",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla’s blowout quarter comes with a warning sign",
+      "summary": "Tesla (TSLA) finally gave investors the number they had been waiting for. The electric-vehicle maker produced a lot more automobiles than Wall Street expected in the second quarter, giving bulls a much-needed data point following a tough stretch for CEO Elon Musk’s company. But the stock market did ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/automotive/teslas-blowout-quarter-comes-with-a-warning-sign",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zuDNgJ7_vYc9KIzFIH4HUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1e74fcb203ea35af828b32502a3b9b79",
+      "published_at": "2026-07-06T02:33:00Z"
+    },
+    {
+      "id": "365d5315-8f84-363f-8887-89a3970876ee",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares likely to open higher on strong business updates from lenders",
+      "summary": "July 6 (Reuters) - Indian shares are set to open with a positive tone on Monday as investors react to quarterly business updates from key lenders and companies, while crude oil prices remained below $",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-likely-open-higher-022746814.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yAW2LFm.FpyHv8dDSHfxBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/de1cd62890cad9a0b0099fb922708dbc",
+      "published_at": "2026-07-06T02:27:46Z"
+    },
+    {
+      "id": "2731bc65-9bf4-3b03-9953-ba58d8ad0bb0",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "TSLA Stock Rises Overnight: Analyst Sees Rebound This Week After EV Delivery Surge, But Calls Stock ‘Fully-Priced’",
+      "summary": "Analyst Gary Black said higher gas prices likely drove EV demand more than FSD/autonomy enthusiasm.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-rebound-ev-delivery-surge-stock-fully-priced/cZmKDHQR7kl",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GhmQcJYRS6bA6TOjBSkSGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f902444363bab1c91347baa11f7b1926",
+      "published_at": "2026-07-06T02:22:25Z"
+    },
+    {
+      "id": "c99cd662-4e9e-3785-ad88-1a2f25c19556",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Down 32%, Is Nike the Smartest Dividend Stock to Buy for the Second Half of 2026?",
+      "summary": "The stock offers a high yield, but it comes with risks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/down-32-is-nike-the-smartest-dividend-stock-to-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gIE5WUcxbKRvsMZLFJAEjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/81d0fa4369c27dc1f3dd1e4ae2cd9b75",
+      "published_at": "2026-07-06T02:20:00Z"
+    },
+    {
+      "id": "188ba71d-5ea7-3218-9650-28770e3fffcc",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
+      "summary": "Artificial intelligence, semiconductors, automotive and space technology dominated headlines during the week.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-meta-mu-baba-tsla-rklb/cZmKDleR7kk",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hsY5ObHVtaQvHW0hlU3L7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4bdc76b2413aceabe9678c2cf6bc1751",
+      "published_at": "2026-07-06T02:11:01Z"
+    },
+    {
+      "id": "11135bd0-fc4e-3f03-9fa8-af2696d4eb8f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Rally as 'Extreme Fear' Persists: Analyst Expects a 'Quick' Move Upward for BTC After 'Shallow' Correction",
+      "summary": "Leading cryptocurrencies gained alongside stock futures on Sunday as investors braced for the release of the Federal Reserve’s June meeting minutes. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:15 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.25%$63,715.39Ethereum (CRYPTO: ETH) +1.15%$1,790.59XRP (CRYPTO: XRP) +0.84%$1.15Solana (CRYPTO: SOL) +1.02%$82.00Dogecoin (CRYPTO: DOGE) +1.09%$0.07804 Crypto Market Lifts Bitcoin spiked late evening, nearly breaking $64,000, as trading volume increased marginall",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rally-015240911.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CURCj8E7o3267GeDLBioJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/19d0e19af540f8d17a1c5cc40cc39674",
+      "published_at": "2026-07-06T01:52:40Z"
+    },
+    {
+      "id": "85e12bc5-5eb9-3a63-9f7d-cdeb0872c712",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "McDonald's Popped 4% While the Nasdaq Fell. Is the Dividend Juggernaut Back?",
+      "summary": "When tech wobbled, nervous money bought burgers. Here's what gives -- and whether shares look attractive today.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/mcdonalds-popped-4-while-the-nasdaq-fell-is-the-di/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_iJX5we3yDXoUAo59ONCtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dd2d106800256ee4529f0b05a38657f5",
+      "published_at": "2026-07-06T01:51:00Z"
+    },
+    {
+      "id": "1c7693cd-50eb-3f3f-aa87-0a59474d2554",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
+      "summary": "The debate over a possible Tesla-SpaceX merger is getting harder to ignore.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/80-chance-of-a-tesla-and-spacex-merger-could-be-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dUPfNdbjoj9CIx6A0NgFFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/98d321a6b80ffe40769cac0ef7671fbb",
+      "published_at": "2026-07-06T01:27:00Z"
+    },
+    {
+      "id": "82984698-7f85-38fb-b8ac-b53bfd0865d1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Palantir Is Down 38% From Its High -- and It Just Got a Wall Street Upgrade. Time to Buy?",
+      "summary": "The upgrade's argument is simple: the earnings finally caught up to the price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/palantir-is-down-38-from-its-high-and-it-just-got/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/seTYhdHB0SriQW2SGDs9Mw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9cc235dd2fac473ddf5359b20722574a",
+      "published_at": "2026-07-06T01:20:00Z"
+    },
+    {
+      "id": "a79153f1-15e6-33ca-9c71-1f04173939fc",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Price Spikes Near $64,000 as Short Sellers Get Liquidated",
+      "summary": "Bitcoin spiked near $64,000 as a weak jobs report and short squeeze fueled a weekend rally in crypto markets.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-64000-weekend-short-squeeze/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rJvLvkbkJY_p3Kr3.4jktg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b",
+      "published_at": "2026-07-06T01:04:38Z"
     },
     {
       "id": "349f17b5-6996-3115-8389-0bb10a8b91a3",
@@ -24,17 +244,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-after-fourth-of-july-break-as-investors-await-fed-minutes/cZmKumjR7kK",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AEMeV69vvJZg8.Nujqm8ug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/0187741e893dd537f78f587c816f59c0",
       "published_at": "2026-07-06T00:58:06Z"
-    },
-    {
-      "id": "ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures Rise, Techs Jump; Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "summary": "The Nasdaq and many AI stocks like Sandisk are at key levels. Also watch Apple, SpaceX and Robinhood.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RpIi9W_Dtnrodwr9CiWGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c66806cf756aa82a3190a23478bad917",
-      "published_at": "2026-07-06T00:53:19Z"
     },
     {
       "id": "a25cc49a-bca4-336e-958f-14770091b4bc",
@@ -49,25 +258,14 @@
     },
     {
       "id": "1e92f18c-e9d7-3487-835d-b0fcec2ebf7b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "NVIDIA Corp. (NVDA) Shares Updates Around Claude Models Running on Blackwell Ultra GPUs",
       "summary": "NVIDIA Corp. (NASDAQ:NVDA) is one of BlackRock’s 30 most important AI stocks right now. On June 29, the company shared that Anthropic’s Claude models in Microsoft Foundry, hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs, are now publicly available. It provides Azure-native businesses a robust new way to develop domain-specific and […]",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corp-nvda-shares-updates-004525875.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HoQH28_esx6t8CNNtw1_8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6eeac832621827d123ccd03733dcdaca",
       "published_at": "2026-07-06T00:45:25Z"
-    },
-    {
-      "id": "535af2f6-7cdd-3edd-9235-2e21abf6e8e5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit.",
-      "summary": "As these companies try to solve a new AI bottleneck, their stock prices keep climbing.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/nvidia-ceo-jensen-huang-highlighted-a-new-ai-bottl/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZuTGUbvJ.H5i58rDTjVTjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6409b849a9d549cb5e3d733891acbf2d",
-      "published_at": "2026-07-06T00:45:00Z"
     },
     {
       "id": "9802e3de-91a7-397f-b07b-2a4dd23a18f7",
@@ -79,17 +277,6 @@
       "url": "https://247wallst.com/investing/2026/07/05/qylds-10000-problem-how-a-covered-call-etf-left-investors-with-a-fraction-of-nasdaq-gains/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DzTXwKSQaKcBwH7Z9uFEeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e780ea826248f3a10781c76d8ad76e27",
       "published_at": "2026-07-06T00:38:31Z"
-    },
-    {
-      "id": "a3eb44f1-6414-3b92-b826-815529f65ee0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What This Rare Historical Market Signal Means for Your Portfolio",
-      "summary": "The signal is named for Warren Buffett, who advised on when it's in scary territory -- such as now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/what-this-rare-historical-market-signal-means-for/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G7AqbYh4b.S4z91VHXcY.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33354946bb14d184540ad4ea4518f296",
-      "published_at": "2026-07-06T00:24:00Z"
     },
     {
       "id": "20343564-42d8-389b-8626-d6a7e8d4d7be",
@@ -114,17 +301,6 @@
       "published_at": "2026-07-06T00:18:59Z"
     },
     {
-      "id": "d07fcde3-6e1d-3014-ac0d-129af4f53827",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here is Why Palantir Technologies (PLTR) is One of BlackRock’s 30 Most Important AI Stock Picks",
-      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional investor in the company, holding 8.67% or 188.99 million of outstanding shares, as per the filings on March 31. On June 29, Palantir Technologies Inc. (NASDAQ:PLTR) shared that the company has entered into a strategic […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-palantir-technologies-pltr-one-001815015.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5s0VWoPeMHrjI7B94MYFqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/99d3c1a2db557ce7049bdbc10b710862",
-      "published_at": "2026-07-06T00:18:15Z"
-    },
-    {
       "id": "aec6e819-d525-36b2-b7a4-114e6175b026",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -134,182 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-price-target-entegris-001647926.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zbcX2dSg3C0GyM9Rvd.acA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c60dc34e87a8d03ebe9092d73f3d5daf",
       "published_at": "2026-07-06T00:16:47Z"
-    },
-    {
-      "id": "8619c3bb-a934-3c6f-b468-baf7e114c67a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Anthropic Could Be a $1 Trillion IPO This Fall. These 2 Stocks Already Own a Piece.",
-      "summary": "You can't buy what may be the fall's biggest IPO yet. But two familiar publicly traded megacaps bought in years ago.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/anthropic-could-be-a-1-trillion-ipo-this-fall-thes/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9tNQPzyckiEStfjczUKIkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7f5ef62c60683f0ffc8c4a3cdb4b54c4",
-      "published_at": "2026-07-05T23:56:00Z"
-    },
-    {
-      "id": "ba8d3ff6-46cb-3aa1-8e90-24f4daa2d434",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Historic Warning Signal Suggests the Stock Market Is Headed Somewhere Investors Do Not Want to Go",
-      "summary": "One stock market metric is sounding the alarm.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/historic-warning-signal-suggests-the-stock-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4FYfISdb1087Q2_lsDTH.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d7cea51a83fec0fc3af8264b5f23d889",
-      "published_at": "2026-07-05T23:50:00Z"
-    },
-    {
-      "id": "d439d9fe-7a92-3d51-bfcb-3fca022eede8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Revolution Medicines Is Up Nearly 140% in 2026. Is the Hot Biotech Stock Still a Buy?",
-      "summary": "The company recently wowed investors with clinical trial results.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/revolution-medicines-is-up-140-in-2026-is-the-hot/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3BIwtzyOJIOFFeVxzT.9BQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5f25ebe0551c5cf24261ec6c2916274",
-      "published_at": "2026-07-05T23:35:00Z"
-    },
-    {
-      "id": "66242e3e-a86c-3320-959b-e2e381e9541a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Robinhood Stock Jumped This Week",
-      "summary": "The popular brokerage is embracing decentralized finance and agentic AI.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/why-robinhood-stock-jumped-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7mNK5bJNSgnOOs.cbWnneA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e287ac0b9fd00b1002da2253d0e5eb4e",
-      "published_at": "2026-07-05T23:32:09Z"
-    },
-    {
-      "id": "8298f8b9-5d1c-3bd4-9745-b5621da996b9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Buying Rocket Lab Stock Today Set You Up for Life?",
-      "summary": "Should investors bet big on Rocket Lab stock following its latest acquisition move?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/could-buying-rocket-lab-stock-today-set-you-up-for/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c64jcIDor5nlnzqAWP7Uyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/981cac2a615a58e970bdeb1612fded99",
-      "published_at": "2026-07-05T23:25:00Z"
-    },
-    {
-      "id": "e9997912-e771-391f-ae2b-088ff919e327",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
-      "summary": "As AI drives explosive demand for computing, electricity has emerged as the world’s most critical and scarce strategic resource.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KUiq73W4kPUaKiesrUHmPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/4ba6e9f3fa937441669f195b036602e2",
-      "published_at": "2026-07-05T23:00:00Z"
-    },
-    {
-      "id": "90e576fc-cd5c-34af-ab29-5de13089e886",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "AngloGold Ashanti PLC (AU) Faces Diverging Analyst Views Amid Market and Regulatory Shifts",
-      "summary": "AngloGold Ashanti PLC (NYSE:AU) is one of the best dividend stocks yielding at least 5% to buy according to hedge funds. On June 26, Freedom Broker initiated coverage of AngloGold Ashanti (NYSE: AU) with a Buy rating and a $114 price target, citing the company’s position at a “strategic inflection point.” In its research note, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-faces-225226198.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j56U1P6vPYLaCFz_F8eWhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/529f81f6eff056f4fbdd64cf87e24c72",
-      "published_at": "2026-07-05T22:52:26Z"
-    },
-    {
-      "id": "c9a7da08-883f-38a9-b30b-796c6c9d19de",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom",
-      "summary": "Micron Technology Inc. (NASDAQ:MU) is one of the top AI Stocks to buy according to billionaire Philippe Laffont. On June 29, Micron Technology Inc. (NASDAQ:MU) was hit with a class action lawsuit over claims that it is restricting DRAM supply to inflate prices. The private class-action lawsuit in the US also names Samsung and SK […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-inc-mu-sued-225110494.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v74Gg.KsF1dUbvmIBHMUpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b5174de0b4a09d2c8a1b8508460f6225",
-      "published_at": "2026-07-05T22:51:10Z"
-    },
-    {
-      "id": "7df3a744-e58f-34be-a12c-a070d085f29d",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Anthropic’s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the top AI stocks to buy according to billionaire Philippe Laffont. On June 30, Microsoft Corp (NASDAQ: MSFT) confirmed the general availability of Anthropic’s Claude models in Foundry. Organizations can now run Claude within their Azure environments while leveraging Microsoft authentication, billing, and governance controls. Claude Models in Microsoft […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-claude-available-microsoft-corporation-225021269.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CfuUP9WmBnMt_pRBfuc5KA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d48be47a91378cda46a06694752c2efc",
-      "published_at": "2026-07-05T22:50:21Z"
-    },
-    {
-      "id": "10a04605-38ff-322b-8c54-f78654f78eab",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply",
-      "summary": "(Bloomberg) -- Oil fell as energy flows through the Strait of Hormuz persisted and OPEC+ signaled higher supplies, fanning concerns about a potential glut.Most Read from BloombergOil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-TurnsOil’s Supply Wave, Tumbling Prices Rekindle Fears of Global GlutBrazil Freezes $2 Billion, Pursues Arrests After US SanctionWhy the Great American State Fair Looks So EmptyGreece Offers Bounty to Catch Ravenous Fish Lured by Warming SeaBrent dropped below $7",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/energy/articles/oil-drops-flows-hormuz-persist-220245219.html",
-      "thumbnail": "",
-      "published_at": "2026-07-05T22:02:45Z"
-    },
-    {
-      "id": "34aca182-60b8-3490-97de-b2cb9ddfe4f6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
-      "summary": "Bitcoin will remain highly volatile, but its low price might be worth some of the risk.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/bitcoin-is-down-53-is-it-finally-time-to-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZgEwGww5iEgIdgwATIastQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84b2acf93eafe52a337fd998cb811d96",
-      "published_at": "2026-07-05T20:50:00Z"
-    },
-    {
-      "id": "0bda3695-0a38-34e7-a2d8-bc01a471653a",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
-      "summary": "If you bought ProShares UltraPro QQQ (NASDAQ:TQQQ) expecting a clean 3x version of the Nasdaq-100, look at the last five years. The index proxy Invesco QQQ Trust (NASDAQ:QQQ) returned 107.69%. Triple that is 323%. TQQQ actually returned 177.7%. That gap, roughly 145 percentage points of missing upside on a rising index, is the hidden cost ... The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/05/the-82-annual-fee-is-just-the-start-tqqqs-hidden-cost-structure-explained/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LDqKUShr32NnZ5m3UN6trg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5523c3581b30da1055e654065068ca3f",
-      "published_at": "2026-07-05T20:33:52Z"
-    },
-    {
-      "id": "b4bc1c77-aaf5-3c6e-a1b9-dcf066d08685",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Kosmos Energy (KOS) Completes Sale of Equatorial Guinea Interests to Panoro Energy",
-      "summary": "Kosmos Energy Ltd. (NYSE:KOS) is one of the best value penny stocks to buy according to hedge funds. On June 17, Kosmos Energy announced the completed sale of its interests in the Ceiba Field and Okume Complex in Equatorial Guinea to Panoro Energy. The transaction resulted in a final cash payment of approximately $127 million, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/kosmos-energy-kos-completes-sale-200554093.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u1Mvy9kd7EbgGReBZWjuDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/53fe1eb0e562a7908e55d53cc551b93d",
-      "published_at": "2026-07-05T20:05:54Z"
-    },
-    {
-      "id": "a244e9fe-85da-31a6-8cfe-bd9a136708ca",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
-      "summary": "Inveting.com -- Meta’s (NASDAQ: META) new planned entry into the cloud business makes it a potential competitor to Amazon’s AWS (NASDAQ: AMZN), Microsoft’s Azure (NASDAQ: MSFT), and Google Cloud (NASDAQ: GOOGL). As the company considers two potential offerings, a hosted API/model access service comparable to AWS Bedrock and a neocloud-like raw silicon offering, Morgan Stanley analysts offer 5 takes exploring the monetisation pathways and potential of META’s announcement.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/analyst-shares-5-takes-neocloud-195005562.html",
-      "thumbnail": "",
-      "published_at": "2026-07-05T19:50:05Z"
-    },
-    {
-      "id": "ecc45644-4231-307c-80df-e2309f21a1ed",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Buying VOO Near All-Time Highs Could Still Be a Smart Move",
-      "summary": "You can't know the one thing you need to know about timing the market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/buying-voo-all-time-highs-still-smart-spy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LtafjcPDzezRZ_3OQy.7lQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7bcb320550138e9198c9968cc42aa90d",
-      "published_at": "2026-07-05T19:50:00Z"
-    },
-    {
-      "id": "7dc1b56f-bf18-347b-9c22-6f838e0021ca",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
-      "summary": "A photo finish in market value -- and a chasm in everything underneath it.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8MxIQlkIg08Aqf1R3kWBxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8a45e32c37bf32ae9a673b0e4293766",
-      "published_at": "2026-07-05T19:27:00Z"
     }
   ]
 }
