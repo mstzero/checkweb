@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05 20:32 UTC",
+  "last_updated": "2026-07-06 21:03 UTC",
   "source": "TCMB EVDS3",
   "source_urls": {
     "en_cok_takip_edilenler": "https://evds3.tcmb.gov.tr/igmevdsms-dis/sk-seriler",
@@ -13,8 +13,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "06-07-2026",
-      "latest_value": 46.6011,
+      "latest_date": "07-07-2026",
+      "latest_value": 46.7035,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -30,8 +30,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "06-07-2026",
-      "latest_value": 53.3583,
+      "latest_date": "07-07-2026",
+      "latest_value": 53.3342,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -115,7 +115,7 @@
       "description": "TCMB Altın ve Döviz Rezervleri",
       "chart_title": "TCMB Rezervi",
       "comment": "Grafik merkez bankası altın, döviz ve toplam rezervini bir arada göstermektedir.",
-      "order": 84,
+      "order": 85,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0ODNmYTZlZDc0NGFhNzVjMjI3/tr"
     },
     {
@@ -123,7 +123,7 @@
       "description": "",
       "chart_title": "Cari İşlemler Hesabı",
       "comment": "Grafik, Cari İşlemler Hesabının aylık ve 12 aylık hareketli toplam verisini göstermektedir. ",
-      "order": 85,
+      "order": 86,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0Nzg3ZGI1Mjc3NzQ1NDhlYmQ1/tr"
     },
     {
@@ -131,7 +131,7 @@
       "description": "",
       "chart_title": "Yurt Dışı Yerleşiklerin Menkul Kıymet Portföy Hareketleri (Milyon ABD doları)",
       "comment": "Grafik, yurt dışı yerleşiklerin portföyünde bulunan hisse senedi, devlet iç borçlanma senetleri (DİBS), genel yönetim ve genel yönetim haricindeki sektörlerin yurt dışı ihraçlarının değişimlerini bir arada göstermektedir. \nGrafikteki serileri oluşturmak için EVDS’de Menkul Kıymet İstatistikleri konu başlığı altında yer alan Yurt Dışı Yerleşikler Menkul Kıymet Portföyü veri grubundaki serilerin verileri kullanılmıştır. ",
-      "order": 87,
+      "order": 88,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0NmZmYTZlZDc0NGFhNzVjMjI0/tr"
     },
     {
@@ -139,7 +139,7 @@
       "description": "Yıllık Yüzde Değişim",
       "chart_title": "Parasal Büyüklükler (yıllık yüzde değişim)",
       "comment": "Grafik, M1 ve M3 para arzlarındaki yıllık yüzde değişimi göstermektedir. M1 en dar para arzı tanımı olup dolaşımdaki para ve vadesiz mevduatlardan oluşmaktadır. Geniş para arzı M3 ise M1e vadeli mevduatlar, repodan sağlanan fonlar, para piyasası fonları ve vadesi 2 yıla kadar olan ihraç edilen menkul kıymetler eklenerek elde edilmektedir. \nHazırlayan: TCMB Veri Yönetişimi ve İstatistik Genel Müdürlüğü, Parasal İstatistikler Müdürlüğü (parasal.veriler@tcmb.gov.tr)",
-      "order": 88,
+      "order": 89,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0NjBiY2UyZmIwZjhhNjE3ODVk/tr"
     },
     {
@@ -147,7 +147,7 @@
       "description": "Yıllık Yüzde Değişim",
       "chart_title": "Banka Kartı ve Kredi Kartı Harcamaları",
       "comment": "Grafik, Türkiye’de banka kartı ve kredi kartı ile yapılan harcamalardaki  yıllık yüzde değişim oranını “Toplam” ve “Market ve Alışveriş Merkezi” kategorileri için göstermektedir.\nGrafikteki seriler için EVDS’de Parasal ve Finansal İstatistikler konu başlığı altında yer alan “Banka Kartı ve Kredi Kartı Harcama Tutarı” tablosu kullanılmıştır. \nHazırlayan: TCMB Veri Yönetişimi ve İstatistik Genel Müdürlüğü, Parasal İstatistikler Müdürlüğü (parasal.veriler@tcmb.gov.tr)",
-      "order": 89,
+      "order": 90,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0OGViY2UyZmIwZjhhNjE3ODYw/tr"
     },
     {
@@ -155,7 +155,7 @@
       "description": "Yıllık Yüzde Değişim",
       "chart_title": "TÜFE ve Temel Göstergeler",
       "comment": "Grafik Tüketici Fiyat Endeksi (TÜFE) ile Özel Kapsamlı TÜFE Göstergeleri adı altında oluşturulan B ve C tanımlı endeksleri birarada göstermektedir. B tanımlı endeks TÜFE’den işlenmemiş gıda ürünleri, enerji, alkollü içkiler ve tütün ile altın kalemlerinin çıkarılmasıyla ulaşılan, C tanımlı endeks ise TÜFE’den enerji, gıda ve alkolsüz içecekler, alkollü içkiler ile tütün ürünleri ve altın kalemlerinin çıkarılmasıyla ulaşılan göstergelerdir.",
-      "order": 91,
+      "order": 92,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjFkYjhmYTZlZDc0NGFhNzVjMWQ5/tr"
     }
   ],
@@ -167,8 +167,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "06-07-2026",
-      "latest_value": 46.6011,
+      "latest_date": "07-07-2026",
+      "latest_value": 46.7035,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -185,8 +185,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "06-07-2026",
-      "latest_value": 53.3583,
+      "latest_date": "07-07-2026",
+      "latest_value": 53.3342,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -349,8 +349,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "06-07-2026",
-      "latest_value": 46.6011,
+      "latest_date": "07-07-2026",
+      "latest_value": 46.7035,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -366,8 +366,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "06-07-2026",
-      "latest_value": 53.3583,
+      "latest_date": "07-07-2026",
+      "latest_value": 53.3342,
       "previous_value": null,
       "change": null,
       "change_pct": null,
