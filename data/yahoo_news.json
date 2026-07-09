@@ -1,95 +1,183 @@
 {
-  "last_updated": "2026-07-08 23:02 UTC",
+  "last_updated": "2026-07-09 01:08 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "33d0c18d-8e82-3332-baf2-785c37d3ed7f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "ProPetro, Atlas Energy Solutions, and Helix Energy Solutions Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after President Trump declared the Iran ceasefire \"over\" and threatened fresh strikes, sending oil prices sharply higher and lifting the broad energy complex.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/propetro-atlas-energy-solutions-helix-005844911.html",
+      "thumbnail": "",
+      "published_at": "2026-07-09T00:58:44Z"
+    },
+    {
+      "id": "c09e5c71-7554-3e6a-a408-5bd61604774e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Builders FirstSource, Fortune Brands, and Gibraltar Shares Are Falling, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after President Trump declared the Iran ceasefire \"over\" and threatened more strikes, driving oil prices higher and lifting bond yields in an inflation scare that hit anything tied to housing.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/builders-firstsource-fortune-brands-gibraltar-005044134.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ie5JMBcZEHaaJsqe_R7mjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/a5ad0705f67a910204b9dccbf5099673",
+      "published_at": "2026-07-09T00:50:44Z"
+    },
+    {
+      "id": "550af80d-99ea-3c94-8d5c-002d75bc209f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Broadcom Stock Fell 15% in June",
+      "summary": "The diversified semiconductor giant couldn't quite live up to high expectations in its second-quarter earnings report.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/08/why-broadcom-stock-fell-15-in-june/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d4qC60MCtTQf1k2zTa4lmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c8911b35b2475423e68d076f72da554e",
+      "published_at": "2026-07-09T00:50:00Z"
+    },
+    {
+      "id": "c3b4eefd-0ad7-3ec7-897c-dd0a8a128621",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Japan benchmark bond yield hits 30-year high on inflation, fiscal health concerns",
+      "summary": "By Satoshi Sugiyama TOKYO, July 9 (Reuters) - The benchmark 10-year Japanese Government Bond (JGB) yield hit a 30-year high on Thursday, as rising oil prices rekindled inflation concerns and investors",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/japan-benchmark-bond-yield-hits-004445377.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YDXnHO6nyEsKo31bl4QJ9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8666fa69886862ae299e7314404e36d2",
+      "published_at": "2026-07-09T00:44:45Z"
+    },
+    {
       "id": "460a0d08-18ee-3417-83ad-76a56f707497",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Oil Spikes On Iran News, But Nvidia, Valero, Dell Rise; SpaceX Hits New Low",
-      "summary": "The Dow Jones slid with most stocks as oil prices jumped. The Nasdaq rose as Nvidia, Dell and AI plays bounced. SpaceX hit a new low.",
+      "title": "Dow Jones Futures: Tech Futures Rise, Oil Keeps Climbing; Nvidia, Valero, Dell, SpaceX In Focus",
+      "summary": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-spikes-iran-news-nvidia-valero-dell-spacex-low/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oCtoj_aOTnOpBE6jrSeqtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2016223acf3da44919d7ae68df2df349",
-      "published_at": "2026-07-08T22:45:12Z"
+      "published_at": "2026-07-09T00:42:44Z"
     },
     {
-      "id": "4d3d5cc0-6017-3052-a2d7-151400b2225b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Memory Stock Sell-Off: Is This the Time to Buy Micron Technology and Sandisk Like There's No Tomorrow?",
-      "summary": "Micron and Sandisk have pulled back significantly after reaching 52-week highs last month.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/08/memory-stock-sell-off-is-this-the-time-to-buy-micr/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WErq6.wubl4smAcwyiM0qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5357d5eb89225f0ce04df23458e73e03",
-      "published_at": "2026-07-08T22:43:00Z"
-    },
-    {
-      "id": "5257ef30-1236-3e6a-b6ef-6b6cb7b3db59",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Occidental Petroleum Stock Crushed it on Wednesday",
-      "summary": "An analyst pulled the lever on a rare double upgrade of the oil company.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/08/why-occidental-petroleum-stock-crushed-it-on-wedne/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zr0P9yUJnJJvV8sBjMqOzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/31a0b1e8763993b4af68882a7a5cb64a",
-      "published_at": "2026-07-08T22:27:32Z"
-    },
-    {
-      "id": "ce86fa82-44b3-35aa-9008-0048f4a3f5fc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Stock Market Just Flashed a Warning Sign Only Seen Once Before in 155 Years -- and History is Very Clear About What Happens Next.",
-      "summary": "Will the S&P 500's gains continue?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/08/the-stock-market-just-flashed-a-warning-sign-only/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wFsjf7OmykObwjVeEYevIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7924df17e98361366b8b5d0a68c0cc33",
-      "published_at": "2026-07-08T22:25:00Z"
-    },
-    {
-      "id": "9e552a8e-9da3-3295-9253-1db414dd450c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did Palo Alto Networks Stock Drop Today?",
-      "summary": "First, Palo Alto stock got a price target hike -- then it's stock dropped.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/08/why-did-palo-alto-networks-stock-drop-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KrfVL.i.VVHshLGVo6Psmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1fb779664bfdfe3b58d2d22efeceee33",
-      "published_at": "2026-07-08T22:24:07Z"
-    },
-    {
-      "id": "9e04956f-1097-3796-8518-f9cde12ab370",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Penguin Stock Popped Today",
-      "summary": "AI agents need a massive amount of memory.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/08/why-penguin-stock-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/csvE0vlnO0YOLULJvO6vUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5091789cd841a6c58285a30dde436c9",
-      "published_at": "2026-07-08T22:21:35Z"
-    },
-    {
-      "id": "fafc146f-1bb8-3dbd-906b-48a678e2acc7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Latest Selloff Is the Perfect Buying Opportunity for Nvidia and Broadcom",
-      "summary": "The market is giving investors a gift by putting these two stocks on sale.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/08/selloff-perfect-buy-opportunity-nvidia-broadcom/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OyhvPVPhdAWEPRl0n12.0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4f5f017a8cdd99f3484adbf65e2448a2",
-      "published_at": "2026-07-08T22:19:00Z"
-    },
-    {
-      "id": "48e9e7dd-2974-33aa-82a3-1f8f08d695a2",
+      "id": "af866e97-cf90-316f-b7b7-8bbed22a205a",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "American Airlines (AAL) Stock Faces Fresh Pressure As Oil Spike Tests Its Balance Sheet",
-      "summary": "Crude oil prices have spiked sharply following renewed geopolitical tensions in the Middle East. Higher fuel costs are increasing financial pressure on American Airlines Group (NasdaqGS:AAL), which already carries high debt and negative shareholder equity. Sector wide risks include squeezed profit margins and possible disruption to routes if airspace restrictions expand. American Airlines Group, trading around $16.51, sits at the center of this fuel cost shock because of its leveraged...",
+      "title": "Quanex, Masco, and Hayward Shares Plummet, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after President Trump declared the Iran ceasefire \"over\" and threatened more strikes, driving oil prices higher and lifting bond yields in an inflation scare that hit anything tied to housing.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quanex-masco-hayward-shares-plummet-004244170.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x7hzfj1dEMg92jae1dgSeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/e8e958e1a10615df3d2b4b117e8f9311",
+      "published_at": "2026-07-09T00:42:44Z"
+    },
+    {
+      "id": "82de78be-68b0-3def-b15a-dc72f64d86bd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Fast-Growing Pharmaceutical Stocks to Buy Now",
+      "summary": "Incyte and TG Therapeutics are seeing strong share growth, backed up by booming revenue and earnings.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/08/2-fast-growing-pharmaceutical-stocks-to-buy-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u8sxnrumbvaasPP3UL1wsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9803198f4a16f27a02fb1cca3050b499",
+      "published_at": "2026-07-09T00:25:00Z"
+    },
+    {
+      "id": "d9256685-6893-3f02-93f7-dd443a8ffdb5",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Cenovus Energy (TSX:CVE) Gets A Valuation Lift On Strong Q1 And Oil Price Gains",
+      "summary": "Investors are reassessing Cenovus Energy (TSX:CVE) after crude oil price gains and a strong first quarter, where adjusted earnings topped estimates, upstream production hit records, and the MEG Energy acquisition supported higher operating margins. See our latest analysis for Cenovus Energy. Short term momentum around Cenovus Energy has picked up again, with a 1 day share price return of 5.45% and 7 day share price return of 7.27%. The 1 year total shareholder return of 96.07% and 5 year...",
       "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-stock-faces-221633450.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/szHwMMcGj9jXEp8SyFPbYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/cdab26cef65d270b239872ce437e6c07",
-      "published_at": "2026-07-08T22:16:33Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cenovus-energy-tsx-cve-gets-002232013.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/axotWtN7Y6fhuKGZUrRXuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5a12595fe0f9b8e2072084c2db6835b6",
+      "published_at": "2026-07-09T00:22:32Z"
+    },
+    {
+      "id": "929674c0-fae8-34bf-a3d3-aa79cc6a2418",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Why Broadcom (AVGO) Stock Is Trading Up Today",
+      "summary": "Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) jumped 5.2% in the afternoon session after the company confirmed an expanded, multi-year partnership with Apple exceeding $30 billion for custom silicon components and wireless technologies.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-000244384.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/knNQTq4WmzZH.pRHKJF73g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/c33d5012ea1701a7be34c00d3064b11a",
+      "published_at": "2026-07-09T00:02:44Z"
+    },
+    {
+      "id": "fda98d7c-f937-343c-a9d6-4ff4f6d308f0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Lemonade Stock Wilted by Almost 9% on Wednesday",
+      "summary": "No investor likes an analyst recommendation downgrade.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/08/why-lemonade-stock-wilted-by-almost-9-on-wednesday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xXaPt1hQToXiFWeqPfuwxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48bde94336bc85b6d14b547c52ab9b3",
+      "published_at": "2026-07-08T23:38:47Z"
+    },
+    {
+      "id": "5ec3d7f0-019c-3c4c-90b3-61912a446ac1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Stock Is Down 35% From Its High Just 1 Day After Joining the Nasdaq-100. Is the Dip a Buy?",
+      "summary": "A spot in the index was supposed to be the catalyst. So why are shares back near their post-IPO low?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/08/spacex-stock-is-down-35-from-its-high-just-1-day-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JDzUg4Jwiew11VTLy.g7JQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0408d1c981cc6fed56bea8ba71724654",
+      "published_at": "2026-07-08T23:36:00Z"
+    },
+    {
+      "id": "804aeafb-0123-3699-8f01-ed23fc940ce8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why IMAX Stock Trounced the Market Today",
+      "summary": "A very bullish analyst reiterated his buy argument on the unique entertainment company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/08/why-imax-stock-trounced-the-market-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EwhMUfZ8qzitjGMmQpzGcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/134082256b71142289f966ff35645757",
+      "published_at": "2026-07-08T23:18:02Z"
+    },
+    {
+      "id": "a503897d-f6dc-35de-8991-225fec88d45b",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Alkane hits high-grade gold in Björkdal near-mine drilling, strengthening growth case",
+      "summary": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has reported further high-grade gold results from near-mine drilling at the Björkdal Gold Mine in Sweden, with new intercepts extending mineralisation at depth and supporting the company’s push to grow resources and mine life. The latest program...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095152/alkane-hits-high-grade-gold-in-bjoerkdal-near-mine-drilling-strengthening-growth-case-1095152.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AhFzmcjdvgXHZLG3SFnz8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/2832e59d251c4b18f1f855fe92a263bc",
+      "published_at": "2026-07-08T23:14:00Z"
+    },
+    {
+      "id": "40f68b59-4b18-36ef-a38c-5b288029d2ca",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL) Secures Largest Ever US Chip Deal With Broadcom For $30 Billion",
+      "summary": "Apple (NasdaqGS:AAPL) has agreed a multi year US chip manufacturing and co development deal with Broadcom valued at more than US$30b. The agreement runs through 2031 and covers the production of over 15b custom chips for Apple products in the US. Broadcom plans a US$1.5b expansion of its Fort Collins, Colorado facilities to support the work. Apple, best known for its iPhone, Mac, and wearables ecosystem, is deepening its role in chip design and sourcing at a time when hardware and AI...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-secures-largest-ever-231307290.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bU5AIomYRBg3WBNqAswADg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+      "published_at": "2026-07-08T23:13:07Z"
+    },
+    {
+      "id": "19b8a6ec-2688-326d-b782-ff1ee885b9a9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett's Successor Greg Abel Has Poured More Than $20 Billion of Berkshire Hathaway's Cash Into Alphabet. This May Be Why.",
+      "summary": "Berkshire's new CEO is making one of the boldest bets of the post-Buffett era.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/08/warren-buffetts-successor-greg-abel-has-poured-mor/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WPL5DX8L1wxzWL32t7nEZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6c48a7a742ead444a6086b3ef68c71ea",
+      "published_at": "2026-07-08T23:11:00Z"
+    },
+    {
+      "id": "7385061e-25fc-35ea-8af9-08d0f8e7e231",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "An Abandoned Crypto SPAC Deal Highlights The Decline Of Digital Asset Treasuries",
+      "summary": "A blank check deal set to take a bitcoin treasury firm public was postponed—just one example of how digital asset treasury companies have lost their luster.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/an-abandoned-crypto-spac-deal-highlights-the-decline-of-digital-asset-treasuries-bmnr-orbs-mstr-12014476",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NfmkyOxuuEPQR0vYdILH_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/4fa92a3cb3e19e7390697e259d51029f",
+      "published_at": "2026-07-08T22:17:27Z"
     },
     {
       "id": "ec31225c-1b55-3173-a44d-bbfb97a82865",
@@ -103,17 +191,6 @@
       "published_at": "2026-07-08T22:00:20Z"
     },
     {
-      "id": "06dea73d-dd29-35ab-be74-3a58025a5607",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
-      "summary": "The Kingdom of Saudi Arabia is offering rare discounts to regain market share as Gulf producers compete aggressively following the partial reopening of the Strait of Hormuz.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/gulf-oil-producers-relaunch-fight-220000439.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H9MtBwxn4ApoTSDM_VeVdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/2adb65ef4fe9296d92c900c36e9727d3",
-      "published_at": "2026-07-08T22:00:00Z"
-    },
-    {
       "id": "54b02a2c-0bfb-36bc-9e30-17f7b19505c1",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -123,6 +200,17 @@
       "url": "https://www.thestreet.com/employment/elon-musks-ai-jobs-prediction-gets-reality-check-from-michael-burry",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bpwZeDQalCjwEM0w8JaQyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/5680e48bd6e18a67b268e85a757da70f",
       "published_at": "2026-07-08T21:47:00Z"
+    },
+    {
+      "id": "9eff97a9-e5d7-30e2-807b-f0848793cb1b",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft (MSFT) Dips More Than Broader Market: What You Should Know",
+      "summary": "In the latest trading session, Microsoft (MSFT) closed at $383.34, marking a -1.41% move from the previous day.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-dips-more-broader-214502731.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eCx50FHAThtC2odHVlyBEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/26a86d59f0e8f1e82a35a92ae5684cd9",
+      "published_at": "2026-07-08T21:45:02Z"
     },
     {
       "id": "96988b0c-a5fe-3987-8425-16a6e8660112",
@@ -222,94 +310,6 @@
       "url": "https://www.trefis.com/articles/606191/arkks-dip-history-comes-with-a-warning/2026-07-08",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
       "published_at": "2026-07-08T20:46:57Z"
-    },
-    {
-      "id": "79143a06-a990-36e2-a0d2-8e97a173fbae",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "This is what $1,000 investment in Strategy 10 years ago is worth today",
-      "summary": "Ten years ago, Strategy was a mid-size business intelligence software company trading at around $18 a share. No Bitcoin. No Michael Saylor on television. No meme stock following. Just a quietly struggling enterprise software firm that most retail investors had never heard of. A $1,000 ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/this-is-what-1000-investment-in-strategy-10-years-ago-is-worth-today",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i48WTIc281Kqt1yoPkHHtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a1c4aac3612b1de414afb7776730b68e",
-      "published_at": "2026-07-08T20:41:58Z"
-    },
-    {
-      "id": "9378cab7-c2fd-38f6-9a73-5ec052d88e38",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Update: Dow Logs Worst Day in 4 Weeks Amid Renewed US-Iran Tensions",
-      "summary": "(Updates with market moves at the end of the day and latest developments.) The Dow Jones Industri",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-logs-worst-day-4-204002072.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KemtEB6CG4krkJpa4AjedQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
-      "published_at": "2026-07-08T20:40:02Z"
-    },
-    {
-      "id": "6d1e8c12-caa8-4534-aaa7-3e009e737ccb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "China warned that Anthropic's Claude Code puts your data at risk. Is that true?",
-      "summary": "Yahoo Finance Technology Editor Dan Howley discusses China's warning that Anthropic's (ANTH.PVT) Claude Code could expose sensitive user data.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/china-warned-that-anthropics-claude-code-puts-your-data-at-risk-is-that-true-203951387.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vRCpTQpcpUQoE59yvXaEpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8555fc25-39ef-42ed-b6c1-afd618948fd9_f83c68082654274e6bffa9f5ed0ea9628b68af794c1af1735f8ac9978ca4c502.jpg",
-      "published_at": "2026-07-08T20:39:51Z"
-    },
-    {
-      "id": "6084a2bc-f2f4-320d-94f7-df72e43801a2",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Robinhood Chain's Unexpected Meme Meta",
-      "summary": "Robinhood built its L2 for serious onchain finance, but degens had other plans.",
-      "source": "Bankless",
-      "url": "https://www.bankless.com/read/robinhood-chains-unexpected-meme-meta",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5hjqZgCQDw9_J6o3DPHOPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/76cdced58531612030ce0c90715ad30e",
-      "published_at": "2026-07-08T20:39:46Z"
-    },
-    {
-      "id": "4f27ab8e-b1f4-3096-96cb-ee3633c003a3",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "What Is SpaceX Really Worth? Wall Street Disagrees on Elon Musk’s Huge Valuation.",
-      "summary": "Analysts prefer a sum-of-the-parts approach to determining the value of Elon Musk’s rocket and AI company, SpaceX.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-valuation-d3059231?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.JDqNrNHIYXBEybdTUf36w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/adbbfc5ecdccac0721a31a80c8d6dad9",
-      "published_at": "2026-07-08T20:36:00Z"
-    },
-    {
-      "id": "70be4358-b269-387d-abac-0523e13af43c",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Top Research Reports for Tesla, Bank of America & Merck",
-      "summary": "Tesla, Bank of America and Merck lead today's featured research, highlighting growth drivers, risks and outlooks shaping these widely watched stocks.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-tesla-bank-202900156.html",
-      "thumbnail": "",
-      "published_at": "2026-07-08T20:29:00Z"
-    },
-    {
-      "id": "44a0d553-7d87-308c-93ec-f0a8640df7b0",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Why a Tesla-SpaceX Merger Is No Sure Thing",
-      "summary": "BNP Paribas analyst James Picariello doesn’t see a Tesla-SpaceX merger happening any time soon. He ticks off several reasons why.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tesla-spacex-merger-401e238b?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r..xNAe7SiOLmrn6HO6W.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b0d9c324611878bb69afed73247e0399",
-      "published_at": "2026-07-08T20:26:00Z"
-    },
-    {
-      "id": "40d8088c-9cd4-31a6-9a93-596aca4a9adb",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Deal With Broadcom Bolsters Its Made-In-America Goals",
-      "summary": "Apple’s major chip-supply agreement with Broadcom is part of its larger goal to increase manufacturing in the U.S.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/apple-stock-broadcom-deal-bolsters-made-in-usa-efforts/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X_j4q87xsKzxoKp2HXn.aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9fafd512764ae62d2ec8700c83b70894",
-      "published_at": "2026-07-08T20:25:30Z"
     }
   ]
 }
