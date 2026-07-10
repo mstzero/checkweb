@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-07-10 20:48 UTC",
+  "last_updated": "2026-07-10 21:58 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9b4a855e-1e83-4914-a930-e859a2d37d54",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple is suing OpenAI over alleged trade secret theft",
+      "summary": "Apple is suing OpenAI, alleging trade secret theft.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/apple-is-suing-openai-over-alleged-trade-secret-theft-213609180.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g1LHOFbx57AyEbWJ60Bz8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-03/3e2ea6db-de0b-456e-95ac-33c10a87966a",
+      "published_at": "2026-07-10T21:36:09Z"
+    },
+    {
+      "id": "c82ef080-ce61-3863-a499-d887b1b18494",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin treasury company sells 48% of holdings to repay debt",
+      "summary": "Empery Digital (Nasdaq: EMPD) sold 1,400 Bitcoin for $87.1 million within the first year of its pivot to a Bitcoin treasury strategy. The sale represented roughly 48% of its Bitcoin holdings before the transaction. The company, formerly electric powersports maker Volcon, pivoted to a Bitcoin ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-treasury-company-sells-48-of-holdings-to-repay-debt",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPjB3iEPvlRrSoRXwGwyfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6a8169d6ace45f0c3faa3d933fc6e1db",
+      "published_at": "2026-07-10T21:35:58Z"
+    },
+    {
+      "id": "f6adcfff-0709-3ea1-ab8a-7cfda5917a47",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Figma Stock Lost 52% in the First Half of 2026",
+      "summary": "Figma's stock lost more than half its value in six months. Strong earnings couldn't overcome fears about AI-native competition.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/10/why-figma-stock-lost-52-in-the-first-half-of-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q1TGNUcLUxVXUw2p0.FKvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0889e498a7e8d2bf87f9d7077a346beb",
+      "published_at": "2026-07-10T21:33:20Z"
+    },
+    {
+      "id": "2bc568b7-c66d-3768-909a-e3a41aa74dee",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "360 Energy Pulse: What mattered this week in energy",
+      "summary": "(By Oil & Gas 360) – This week was a reminder that today’s energy market can change direction in a […]",
+      "source": "Oil and Gas 360",
+      "url": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213037030.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tdWRc5.KSA7KAJu4epgZLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oil_and_gas_360_817/f10f34163839d202289bc5fcc6f501a6",
+      "published_at": "2026-07-10T21:30:37Z"
+    },
+    {
+      "id": "1cc32e0c-030b-3682-b38e-f8ead53993de",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Stock Market Today, July 10: Markets Edge Higher and SK Hynix Soars on Debut",
+      "summary": "On July 10, 2026, stock gained on renewed confidence as the S&P 500 edged back toward record highs.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/10/stock-market-today-july-10-markets-edge-higher-and-sk-hynix-soars-on-debut/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tVRYC.sQmSIfHMboVHjFVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e1465e3a2bb101fe7b16704415e84a6",
+      "published_at": "2026-07-10T21:25:05Z"
+    },
+    {
+      "id": "c9c5d519-838f-3f0a-b9e7-557ba0386c6d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "summary": "1509 ET – Oil futures end the week higher on a renewal of military strikes by the U.S. and Iran following attacks on tankers in the Strait of Hormuz.  Gains are tempered by market expectations that the flare-up will be short-lived, as President Trump says the U.S. has agreed to continue talks although the ceasefire is over.  “Some version of this outcome was becoming increasingly inevitable,” says Henry Hoffman, co-portfolio manager of the Catalyst Energy Infrastructure Fund.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-a5207043?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qIFRS81JidiZa5VvPhVQ8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ebb98300164b6a1c7cfbd077a2809fb6",
+      "published_at": "2026-07-10T21:23:00Z"
+    },
+    {
+      "id": "77324d19-7f14-3397-bb6a-44add583c410",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. Stock Market Ticks Higher With Memory Chip Maker’s Big Debut",
+      "summary": "U.S. stocks ended slightly higher after a multibillion-dollar share offering in the semiconductor sector steadied volatility.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-market-ticks-higher-with-memory-chip-makers-big-debut-e3193b33?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M6hvZqn9qtcFTfUsQR23DA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d202e3c561fdfe40477336ecd68583cf",
+      "published_at": "2026-07-10T21:20:00Z"
+    },
+    {
+      "id": "6f4082c0-bcd1-3353-8afb-317140ff29a5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy Is Still a Major Risk for Bitcoin, says Mike Green",
+      "summary": "Mike Green says Strategy’s levered Bitcoin bet remains a major risk if Bitcoin keeps falling",
+      "source": "Coinage Coop",
+      "url": "https://www.coinage.media/2026/strategy-is-still-a-major-risk-for-bitcoin-says-mike-green",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LKKSMQN0si6c1qN8JtiP0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinage_coop_399/c6ed6079a55685a8a6a50899edf373a5",
+      "published_at": "2026-07-10T21:19:00Z"
+    },
+    {
+      "id": "fe7a4a13-d2ce-396b-bdfb-51fd89ae820c",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Subversive Capital files 'Ex-Elon' ETFs with the SEC that strip Tesla and SpaceX from the S&P 500 and Nasdaq-100",
+      "summary": "Two proposed index funds are banning Elon Musk’s businesses. Find out how these anti-Elon ETFs work and whether they’re a shrewd investment move.",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/subversive-capital-files-ex-elon-211500636.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PJT3706lDSTQuPuziJBDvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/e8ee7529fcf200c17971f5d67ea37bff",
+      "published_at": "2026-07-10T21:15:00Z"
+    },
+    {
+      "id": "088e2558-d40f-30e5-b984-052858f38b1e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Global oil demand is dropping, but US drivers keep buying more gas",
+      "summary": "Global oil demand is set to decline this year for the first time since the height of the COVID-19 pandemic in 2020, according to a report from the International Energy Agency.  The drop, which the agency expects to amount to about 1 million barrels per day in 2026, is due to higher oil prices and disruptions to physical supply that weighed heavily, but unevenly, on various parts of the world, the report said.  The supply disruptions were caused by the war between the U.S. and Iran, which left ships loaded with crude oil stranded in the Persian Gulf for more than three months, unable to safely travel through the Strait of Hormuz, a major route for oil and gas shipments.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/energy/articles/global-oil-demand-dropping-us-211342726.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yc31KkWwhQPPg.glVrWirA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/5a697a3b7ef77bf8d99c5d5cec8f3ce6",
+      "published_at": "2026-07-10T21:13:42Z"
+    },
+    {
+      "id": "5f2dfc10-5537-3cfe-b2b4-c4d85dd724c2",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Investing.com -- Apple filed a lawsuit on Friday against OpenAI and two former Apple employees, accusing them of stealing the company’s trade secrets.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-sues-openai-over-alleged-210459570.html",
+      "thumbnail": "",
+      "published_at": "2026-07-10T21:04:59Z"
+    },
+    {
+      "id": "a35beef5-af03-319a-8df3-12afe9566280",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Is Meta (META) Stock Soaring Today",
+      "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 5.2% in the afternoon session after a cluster of AI infrastructure and product news reframed the company's heavy capital spending as a path to lower costs, new revenue, and faster growth rather than a pure expense drag.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-meta-meta-stock-soaring-210320840.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OJ.q7321ts98DrQRXKRU7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f2216b648a0db93b9cf1e78ef49e6e65",
+      "published_at": "2026-07-10T21:03:20Z"
+    },
+    {
+      "id": "a054a2b5-4119-38b8-a989-9d21ad61c107",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Lighter Prepares to Burn 15.5 Million LIT in First Revenue-Funded Supply Reduction, Will LIT Rally?",
+      "summary": "Lighter prepares its first revenue-funded LIT token burn, cutting 15.5 million tokens as the price climbs. Will LIT rally?",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/lighter-lit-token-burn-rally/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7RNgnp38qDwjjtgqgP7D2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d0fc81480c700decfac8ed6a2cad5d89",
+      "published_at": "2026-07-10T21:02:37Z"
+    },
+    {
+      "id": "9abae6e2-0a22-31e7-8f7d-43c3f9d98783",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Faces Possible Robotaxi Ban In New Jersey, But It Gains Market Share In China",
+      "summary": "A New Jersey bill would ban self-driving cars that don't use radar and lidar. Tesla's stock is up 1% on Friday.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/tesla-robotaxi-china-auto-sales-electric-vehicles-elon-musk/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sHp1QJU5ezeNbr9e7VKotw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c3ed9664e420fe304235e06407484e00",
+      "published_at": "2026-07-10T21:01:34Z"
+    },
+    {
+      "id": "5dd830ec-73ed-3952-a764-887366a50401",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SK Hynix: How It Measures Up After Day One",
+      "summary": "Here’s how memory-chip maker SK Hynix compares with peers after its first U.S. trading day.  2026 Debuts, day 1 performance   Cerebras Systems: 68%   Innio: 23%   SpaceX: 19%   Madison Air: 18%   🎯 SK Hynix: 13%.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-10-2026/card/sk-hynix-how-it-measures-up-after-day-one-Dplh4KN3NJvoYESgVtII?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-07-10T20:54:14Z"
+    },
+    {
+      "id": "d3c7ca53-2b49-395f-92c1-5531d39c1e37",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Wall Street climbs, oil slides as investors bet on AI growth over Middle East tensions",
+      "summary": "By Pete Schroeder WASHINGTON, July 10 (Reuters) - Stocks climbed and oil prices slipped somewhat as investors retained AI-related enthusiasm and shrugged off the ongoing dispute between the U.S. and",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-surge-investors-look-015829863.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ChmJK6D3rCxRc4D8EB8V3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f99a15b19dc46f70f4db0c482ad32218",
+      "published_at": "2026-07-10T20:49:16Z"
+    },
+    {
+      "id": "b094791a-01ce-3dd2-8ea0-978934d1dc06",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184%",
+      "summary": "The Amplify Transformational Data Sharing ETF (NYSEARCA:BLOK) is the go-to actively managed vehicle for investors who want one ticker that covers the entire blockchain economy. BLOK owners get miners, exchanges, treasury holders, payment processors, and enterprise adopters bundled together, which is exactly the pitch: diversified exposure to a volatile theme without the risk of picking ... Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184%",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/10/why-the-pure-bitcoin-miner-fund-crushed-the-blockchain-basket-up-184/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sPDozqywZy8A_cFnrZXokw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/859859241034558057f076c1c9064a4e",
+      "published_at": "2026-07-10T20:48:57Z"
+    },
+    {
+      "id": "53571346-1040-3234-8407-5129ce47c180",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Circle Stock Rallies On National Bank Approval. ARK Buys More Shares.",
+      "summary": "Circle Internet lands regulator approval to establish a national trust bank. CRCL stock spikes. Cathie Wood bought more shares.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/circle-national-trust-bank-occ-stablecoin-circle-stock/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X0uBIGpL.JAIDQqDJXQ1UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6bf9ad4ebb5bdfc492c53b0a33acc347",
+      "published_at": "2026-07-10T20:44:36Z"
+    },
     {
       "id": "192de850-fe0f-3057-866a-e3ccaafa9383",
       "asset": "OIL",
@@ -37,15 +235,26 @@
       "published_at": "2026-07-10T20:33:00Z"
     },
     {
-      "id": "735ee70f-7a5c-36c6-845b-083d32b2d206",
+      "id": "5cc51ec6-3ea1-379e-8b66-5374ff0de6cd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SK Hynix Stock Spikes 13% in U.S. Trading Debut",
+      "summary": "SK Hynix  shares spiked 13% to $168.49 in their Nasdaq debut as investors scrambled to get a piece of a pivotal player in the global artificial-intelligence supply chain.  The chip maker’s American depositary receipts opened at $170 on Friday and hit a session high of $177, representing a 19% jump from their initial public offering price.  SK Hynix  priced the ADRs at $149 each on Thursday.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/sk-hynix-stock-price-us-listing-6401db72?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KWt.UJTpOFvx8yo2bD7DKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f3a0745e7c97476636d25df39273f68e",
+      "published_at": "2026-07-10T20:30:00Z"
+    },
+    {
+      "id": "bdf15ee3-9674-3ebb-8c89-23f87cbb8978",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Update: US Equities Rise, Oil Prices Ease as Trump Confirms Iran Talks",
-      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US equities rose Frid",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equities-rise-oil-prices-202529062.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KemtEB6CG4krkJpa4AjedQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142",
-      "published_at": "2026-07-10T20:25:29Z"
+      "title": "Hynix Soars, Chips Stay Grounded",
+      "summary": "The prospect of resumed talks between the U.S. and Iran eased oil prices.  President Trump said in a social-media post that the U.S. had agreed to continue talks with Iran.  SK Hynix completed the largest-ever U.S. share sale by a foreign company.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/hynix-soars-chips-stay-grounded-68dd99e9?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ixTtNix6wT0Gz_S.odJt1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/dd29e458865f6aacfdda787fda61b9b2",
+      "published_at": "2026-07-10T20:28:00Z"
     },
     {
       "id": "b02c5cca-8316-3add-a2e5-c6dd52fe0b85",
@@ -81,17 +290,6 @@
       "published_at": "2026-07-10T20:23:48Z"
     },
     {
-      "id": "68e4715d-e06f-3db2-94c6-48a32acf99df",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Trade Desk Stock Lost 52% in the First Half of 2026",
-      "summary": "The Trade Desk lost more than half its value in six months. Here's what happened and what investors should watch next.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/why-trade-desk-stock-lost-52-in-h1-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PftZNdg1FNfgyN7QK8bVFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/30f80129be898ecef9f37be9fb749dc8",
-      "published_at": "2026-07-10T20:22:54Z"
-    },
-    {
       "id": "b569e5c4-6fc8-384b-b5cc-57135e48356f",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -103,17 +301,6 @@
       "published_at": "2026-07-10T20:22:42Z"
     },
     {
-      "id": "4b97bb43-0f73-3b3e-908a-66c5eff2f5bf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SK hynix surges on first day of trading on Wall Street",
-      "summary": "South Korean chip giant SK hynix soared 13 percent on its first day of trading on Wall Street on Friday, capping one of the world's biggest ever stock sales as it takes advantage of the AI boom.Tech stocks have tumbled in recent weeks on fears of overheated valuations -- although SK hynix has soared more than 220 percent this year in Seoul -- and questions about when enormous global AI spending will reap returns.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-surges-first-day-202106559.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7CDRWchr5GmX6f29ITO1ow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/618d5ccb36cd112413a733dac69292a7",
-      "published_at": "2026-07-10T20:21:06Z"
-    },
-    {
       "id": "0a84bc87-2633-34a0-80c9-c3a71f9153f1",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -123,193 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-meta-among-hsbc-201634977.html",
       "thumbnail": "",
       "published_at": "2026-07-10T20:16:34Z"
-    },
-    {
-      "id": "82e58872-3c66-354c-82ad-c76e9669a2d3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Three Enticing Clues Put This Broadcom Partner, Nvidia Rival In Focus",
-      "summary": "As Nvidia heats up its AI battle versus Broadcom partner Arista Networks, shares of Arista stock launch a breakout.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-analysis/arista-stock-broadcom-partner-nvidia-rival-in-focus/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JAjB8j6atxNNuA6GvqfBng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6057ee6e3addcacbce75e4bfce4cc8fa",
-      "published_at": "2026-07-10T20:15:39Z"
-    },
-    {
-      "id": "d54b207f-edff-3e35-a34b-c970fe27df61",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "UK Brings Amazon Web Services Under Direct Financial Oversight",
-      "summary": "The designation takes effect July 13.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/uk-brings-amazon-services-under-200831873.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T20:08:31Z"
-    },
-    {
-      "id": "da270b56-68ab-3ef6-b8cb-f457c8af5305",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Starbucks tries something it failed at before",
-      "summary": "Ten months ago, in September 2025, Starbucks walked into 11,000 stores with NomadGo’s inventory Artificial Intelligence (AI) tool that promised 99% accuracy and counted up to eight times faster than a human. After 9 months, in May 2026, according to Reuters, an internal newsletter retired the ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/sbux-starbucks-stock-building-ai-powered-internal-software-to-replace-microsoft-and-ibm-tools",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jaA2JcFkZuyXHceixAi4Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d37f4500f6618566ab1c1f16c53edeee",
-      "published_at": "2026-07-10T20:07:00Z"
-    },
-    {
-      "id": "8e9bb090-71ec-3492-b116-6a16baf9fa3c",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "IBM's Quantum Upside Meets Valuation Risk",
-      "summary": "Quantum and software gains face valuation and consulting concerns",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/ibms-quantum-upside-meets-valuation-200301436.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T20:03:01Z"
-    },
-    {
-      "id": "346f5127-953f-4fab-ae7b-0bf4e8d70c3c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "PC shipments fall as AI demand spikes memory prices",
-      "summary": "Yahoo Finance Tech Editor Dan Howley breaks down how an AI-driven memory shortage is driving down PC shipments while forcing major tech companies to increase laptop prices.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/pc-shipments-fall-as-ai-demand-spikes-memory-prices-200214556.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4zu3mjAHpTlUegQfVt2SOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/f6028000-6031-429e-ae93-3d0db9bf780d",
-      "published_at": "2026-07-10T20:02:14Z"
-    },
-    {
-      "id": "ed14ab44-36bc-30b8-94f7-a9361e6ac1c8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "A $28 Billion AI IPO Trading at Just 7x Earnings: Too Cheap or Too Cyclical to Trust?",
-      "summary": "SK Hynix is preparing one of the largest Asian IPOs in NASDAQ history, and its valuation multiple raises a question that divides Wall Street: is memory finally a different business, or is the oldest trap in semiconductors about to spring again?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/10/a-28-billion-ai-ipo-trading-at-just-7x-earnings-too-cheap-or-too-cyclical-to-trust/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PrUUbWjSrPucGPjyyRrULA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a44cb40bd29b94c10e9b0212c6cd0b82",
-      "published_at": "2026-07-10T20:01:40Z"
-    },
-    {
-      "id": "c1f1bd8f-f1da-37e9-b94d-3e7b70cb19ca",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",
-      "summary": "US equity indexes closed higher Friday amid a broad-based rally after the US and Iran displayed prog",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-200117842.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T20:01:17Z"
-    },
-    {
-      "id": "779c209b-27d2-3034-b60e-c9672f84abe9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's Why Remitly Global Jumped 62.4% In The First Half of 2026",
-      "summary": "The payments company keeps growing at a rapid pace.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/heres-why-remitly-global-jumped-624-in-the-first-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Wf3uI8U4W_6YDdF7uR4dmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33ff7072aded135e1409c0d510a37c8d",
-      "published_at": "2026-07-10T20:00:56Z"
-    },
-    {
-      "id": "6c79df9a-2c21-32be-a69a-6908594a3cda",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Goldman Sachs Physical Gold ETF vs VanEck Gold Miners ETF. Is Bullion or Miners the Better Way to Invest in Gold in 2026?",
-      "summary": "AAAU tracks bullion directly with lower fees, while GDX offers mining equity exposure with higher volatility and stronger 1-year returns.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/10/goldman-sachs-physical-gold-etf-vs-vaneck-gold-miners-etf-is-bullion-or-miners-the-better-way-to-invest-in-gold-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T9woSZaC1fn3l3WuTUdwrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a234cc3da6368ebdb72ccddb0152e6dd",
-      "published_at": "2026-07-10T19:59:59Z"
-    },
-    {
-      "id": "1b5e6d23-2c26-345e-9531-51ac3243d092",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
-      "summary": "Financial stocks were higher in late Friday afternoon trading, with the NYSE Financial Index rising",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195846810.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T19:58:46Z"
-    },
-    {
-      "id": "0787d44f-6c73-3f8b-941b-3d5665918124",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "5 Altcoins Stand to Gain From Tokenized Stocks, Grayscale Says",
-      "summary": "Grayscale maps three tokenized stock models and names five altcoins best positioned to benefit as adoption grows.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/grayscale-altcoins-benefit-tokenized-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gpjutFwNFkiTBONkgskulw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/0b1e76fede1e5ba035388cf9bd1b5465",
-      "published_at": "2026-07-10T19:58:28Z"
-    },
-    {
-      "id": "725e8b8a-efdb-3152-8482-29f8c798ac93",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "AI Giants Add $350 Billion Debt as $725 Billion Spending Surges",
-      "summary": "Alphabet, Amazon, Meta, Microsoft and Oracle ramp AI infrastructure investment as investors scrutinize funding and future returns.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-giants-add-350-billion-195553515.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T19:55:53Z"
-    },
-    {
-      "id": "964c2526-96f8-3818-b900-b3e05840fbe3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sector Update: Energy Stocks Advance Late Afternoon",
-      "summary": "Energy stocks were slightly higher late Friday afternoon, with the NYSE Energy Sector Index and the",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-195551027.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T19:55:51Z"
-    },
-    {
-      "id": "5df36d91-8fab-397e-b7f0-f9904b90866e",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Drops Over 20% Since Iran War as HSBC Cuts 2026 Forecast",
-      "summary": "Higher rate expectations, Middle East tensions, and a stronger dollar continue to pressure bullion prices.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-drops-over-20-since-194650126.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T19:46:50Z"
-    },
-    {
-      "id": "56f8a2c3-444f-3247-8fae-0707b1bef029",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "How To Invest In Stocks Using History — And Unique Analysis From Bill O'Neil",
-      "summary": "Tap into archives of IBD founder Bill O'Neil for unique insight on how to invest in stocks now and in the future.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/how-to-invest/how-to-invest-in-stocks-bill-oneil-analysis/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TWmSTSeMfdKlg.ksRfIVkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/fb93381e67c5bf33cf72ad22c7fecc22",
-      "published_at": "2026-07-10T19:46:38Z"
-    },
-    {
-      "id": "c1860ee3-e3b5-3827-a106-0c825651d6f8",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
-      "summary": "Consumer stocks were higher late Friday afternoon, with the State Street Consumer Staples Select Sec",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-194637544.html",
-      "thumbnail": "",
-      "published_at": "2026-07-10T19:46:37Z"
-    },
-    {
-      "id": "7994bf5b-6ee5-3118-a7ab-c14dc1e37136",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Oil Prices Headed for First Weekly Gain in 5 Weeks Amid Renewed Middle East Tensions",
-      "summary": "US crude futures slipped Friday, but were on track for their first weekly advance in five weeks foll",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/us-oil-prices-headed-first-194537278.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mMVFILYtjoXDJn1qL8XBng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/3550b6ac771c32d19954f0599428a615",
-      "published_at": "2026-07-10T19:45:37Z"
     }
   ]
 }
