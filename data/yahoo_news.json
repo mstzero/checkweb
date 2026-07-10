@@ -1,95 +1,260 @@
 {
-  "last_updated": "2026-07-10 00:01 UTC",
+  "last_updated": "2026-07-10 04:32 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "e717c3a2-8abc-3399-8bda-c3afbe72ca39",
+      "id": "92ce72ef-7ad6-34a2-b5a8-491d3469c240",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Why The Bancorp Stock Surged Today",
-      "summary": "The innovative fintech benefited from an analyst's recommendation upgrade.",
+      "title": "Costco's June Sales Rose 10.6%, but the Stock Fell 4%. Here's What Spooked Investors.",
+      "summary": "The headline numbers looked great. So why did the stock sell off?",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/09/why-the-bancorp-stock-surged-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E5IAKz1BeDxTBo2y0T0Pew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3d873d0d6b5fdfa0f7c275514ff9b61c",
-      "published_at": "2026-07-09T23:43:05Z"
+      "url": "https://www.fool.com/investing/2026/07/09/costcos-june-sales-rose-106-but-the-stock-fell-4-h/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Fz3ghMW6md.hiQ51pVx7hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f73a5468a802f1411844fe46e808eafa",
+      "published_at": "2026-07-10T03:51:00Z"
     },
     {
-      "id": "644a81c0-2a7f-334f-ac76-ec863415aabf",
+      "id": "4b7f6ece-195a-3824-9544-fb706c5ebd54",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Jim Cramer says one AI giant holds key to market’s next move",
+      "summary": "Yes, Jim Cramer has said a lot of things about a lot of stocks over the years. But when the \"Mad Money\" host identifies a single name as the market's directional signal, that is a different kind of call entirely. Cramer posted about it on X (formerly Twitter) on July 8. If there is going to be a ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/avgo-broadcom-stock-jim-cramer-market-bellwether-to-watch-bear-market",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HNVsfKdIkjxctsqQw8sG.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/53be1d16c4efc7116cdaedc346568c24",
+      "published_at": "2026-07-10T03:33:00Z"
+    },
+    {
+      "id": "cb620a95-29d5-34a4-9c31-00ff58b31606",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "If I Had $10,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
-      "summary": "The world's largest company looks like a bargain right now.",
+      "title": "Why Mara Holdings Stock Spiked Today",
+      "summary": "An intriguing acquisition is set to double the energy tech provider's power capacity.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/09/if-10000-invest-trillion-stock-buy-instead-spacex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tyQ6KFSvBk45J3CHYswB6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/087ff6742e9d394c17b3bf653097bf81",
-      "published_at": "2026-07-09T23:35:00Z"
+      "url": "https://www.fool.com/investing/2026/07/09/why-mara-holdings-stock-is-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nKtlkB5fUhtrxvRnVUjn6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5e028f8d64cd586b522818713beb2b5f",
+      "published_at": "2026-07-10T03:30:05Z"
+    },
+    {
+      "id": "8541be75-3c32-37c5-b7b6-a3be37c59499",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Micron's Data Center Gross Margin Hit 87% Last Quarter. Here's What It Means for the Stock.",
+      "summary": "A memory chipmaker just posted a software-like margin. The real question is how long it can last.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/09/microns-data-center-gross-margin-hit-87-last-quart/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NHEgPpy0IxUi68Y_Dif_mQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/81bd180682341b0438b67207d9098755",
+      "published_at": "2026-07-10T03:25:00Z"
+    },
+    {
+      "id": "2d64e03f-0528-331b-af81-bddc524d72c3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "TeraWulf (WULF) Lands $3.5 Billion Loan To Build Out Its AI Data Centers",
+      "summary": "TeraWulf (NasdaqCM:WULF) arranged its first $3.5b leveraged loan to fund a large data center buildout. The financing is linked to a 20 year, $19b high performance computing lease with Anthropic. The new capital will support development of a data center campus in Kentucky focused on AI infrastructure. TeraWulf is moving further away from its roots in Bitcoin mining and leaning into AI infrastructure as a core business line. The stock trades around $23.2 and is up 9.5% over the past week and...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/terawulf-wulf-lands-3-5-032359291.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vD4pRO4kEaxH8LXMGMHNtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72",
+      "published_at": "2026-07-10T03:23:59Z"
+    },
+    {
+      "id": "5919657f-497d-3161-804f-9621bbe5d679",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Is Digital Turbine’s (APPS) AI Partnership Blitz Quietly Rewriting Its Mobile Advertising Thesis?",
+      "summary": "In recent months, Digital Turbine has expanded its AI-focused mobile growth platform through new partnerships with Databricks, Google Cloud, and European carrier Orange, while its Chief Accounting Officer completed a routine tax-withholding share disposition that did not issue new stock. These developments highlight how deeper AI integration and international carrier agreements are reshaping Digital Turbine’s role in global app distribution and mobile advertising. Next, we’ll examine how the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/digital-turbine-apps-ai-partnership-032236737.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-07-10T03:22:36Z"
+    },
+    {
+      "id": "d3c7ca53-2b49-395f-92c1-5531d39c1e37",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian stocks surge as investors focus more on AI than Middle East attacks",
+      "summary": "By Ankur Banerjee SINGAPORE, July 10 (Reuters) - Asian stocks rose sharply on Friday, led by chip and AI firms as investors brushed off concern over the stalled recovery of energy supplies through the",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-surge-investors-look-015829863.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mmBYbH.nOv5VEMUFvUBpVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7cc45c9e3062abbbf001d2d88cd2306a",
+      "published_at": "2026-07-10T03:16:51Z"
+    },
+    {
+      "id": "cfe6d9a5-e73b-359e-84c0-9cfd8004578d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Broadcom Is Less Than 5% From the $2 Trillion Club -- and Apple Just Committed $30 Billion for More Chips",
+      "summary": "The chipmaker is a short hop from a milestone only a handful of companies have reached. Is the climb built to last?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/09/broadcom-is-less-than-5-from-the-2-trillion-club-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sBIAIstncFkTFsBOx08N.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c4fd8edd9a4dd33286dabfb2e420db98",
+      "published_at": "2026-07-10T03:11:00Z"
     },
     {
       "id": "6e8baca0-b324-3166-b745-36b306c19567",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
+      "title": "Dow Jones Futures: SK Hynix Raises $26.5 Billion After Micron, Sandisk Jump, Nasdaq Tops Key Level",
       "summary": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-micron-sandisk-jump-delta-taiwan-semi-sk-hynix/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I.4j9HzEyh_ZjqLAzvFxqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/dd3d8b33d715764a9a678ecf8d0d54d9",
-      "published_at": "2026-07-09T23:30:14Z"
+      "published_at": "2026-07-10T03:09:59Z"
     },
     {
-      "id": "ca2ffe91-6a7a-3351-8a98-157624b266bb",
+      "id": "8ff97f32-4095-38ce-8c8f-f881c3824a88",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares set to open higher; TCS in focus after revenue beat",
+      "summary": "July 10 (Reuters) - Indian shares were set to open higher on Friday, likely led by IT stocks after Tata Consultancy Services reported quarterly revenue above estimates, while easing oil prices and",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-open-higher-023710144.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uXU_m1ThOQQgsmXGTMKKQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7a43a1fda9aa147a2d0cd2a2fbb51224",
+      "published_at": "2026-07-10T02:37:10Z"
+    },
+    {
+      "id": "0a59717a-87a2-3a55-89ad-1bcedae0346f",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Worried About Dividend Cuts? Buy These 3 Dividend Stocks and Sleep Well At Night",
-      "summary": "There's no better feeling for a dividend investor than peace of mind.",
+      "title": "UWM Walked Away From the Two Harbors Bidding War. That Might Be the Best News for Shareholders.",
+      "summary": "United Wholesale Mortgage lost out to CrossCountry Mortgage, but that could actually be a sign of fiscal prudence.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/09/worried-about-dividend-cuts-buy-these-3-dividend-s/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NzSYs5O9qoHgU7h9bZxHDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f682510cbefbee4bf63d95c32e98fe3e",
-      "published_at": "2026-07-09T23:25:00Z"
+      "url": "https://www.fool.com/investing/2026/07/09/uwm-walked-away-from-the-two-harbors-bidding-war-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/maO.yXYBlZmy9_Ke7sq47w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/aa077bbeadd7901462e9fa0f29808c58",
+      "published_at": "2026-07-10T02:35:00Z"
     },
     {
-      "id": "e73ef138-3121-3ec4-a009-5c252091b701",
+      "id": "c8a18fd6-e846-306b-878a-41164da1fe7c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Meta to produce AI chips in September, memo shows",
-      "summary": "<body><p>STORY: :: A memo seen by Reuters shows that Meta plans to produce AI chips this September&nbsp;</p><p>:: The move will likely help Meta gain more independence from chip suppliers such as Nvidia</p><p>:: Katie Paul, Tech Correspondent</p><p>:: Meta / Archive</p><p>\"In the world of AI, those who control their infrastructure and their compute costs really control their destiny. Meta has been at this a while. They want to have more control over their supply chain. Doing a chip helps them to get that cost of running compute down. If they buy a lot of chips from Nvidia and AMD, those are extremely expensive. It means that other companies are in the driver's seat, both in terms of cost and some control over the supply. And having some kind of chip that can help maximize efficiency of running compute, or running processes, helps them, puts them in the driver's seat more and it helps them control their costs. They're also trying to build out these brand-new business models to effectively compete with OpenAI and Anthropic. So, selling the AI models to developers to use, and that means rolling out an API, which they just did this morning. This is brand new for them. They're moving this direction for the first time after kind of embracing the open source ethos for a number of years. And so that means that they need to, try to compete on price with those other, players in the market and also keep their costs low enough that they can, you know, make this business model make sense. And so having a chip that can help them to run these processes in a way that is as cost-efficient as possible is a huge potential benefit for them.\"</p><p>The tech firm's data center chip, code-named \"Iris,\" is part of a four-generation project for Meta Training and Inference Accelerators (MTIA) that it will design in-house. The plan is to use custom-built silicon to improve the AI that powers its Facebook and Instagram social media platforms.</p><p>Testing the chip took only six weeks and found no major issues, the memo showed. That relatively quick progress signals positive momentum for an in-house effort that has floundered since its launch more than half a decade ago.</p><p>Meta tailored the chip for its own needs and is working with Broadcom to help design it and Taiwan Semiconductor Manufacturing Co to manufacture it. The approach is likely to help the firm lower its massive computing costs and gain more independence from chip suppliers such as Nvidia and Advanced Micro Devices.</p></body>",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/meta-produce-ai-chips-september-232348609.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h27SBPTUhsefztIPQKu9Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/49ee50d5-7c70-41fd-8d0e-33ed3560aaa6/main/1280x720/48s224ms/match/image.jpg",
-      "published_at": "2026-07-09T23:23:48Z"
-    },
-    {
-      "id": "24b913d0-0b1c-3595-9765-99ef10ed2c48",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why BellRing Brands Stock Got Trounced on Thursday",
-      "summary": "This, despite naming a well-qualified executive to be its next CEO.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/09/why-bellring-brands-stock-got-trounced-on-thursday/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KRkyu2LMYj55YvFCehakOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c4f4c8f8ce4a106a35900b55d059a4df",
-      "published_at": "2026-07-09T23:19:37Z"
-    },
-    {
-      "id": "f38efd8b-6122-3a2d-b1ac-fe1a9ead8f0a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia stock flashes valuation signal for first time in 7 years",
-      "summary": "Nvidia (NVDA) investors had been bracing for a tougher AI trade, but perhaps not this kind of reset. Over the past three years or so, Wall Street has treated Nvidia as the cleanest way to own the AI buildout. For perspective, Nvidia’s current market cap is at an eye-popping $4.98 trillion, up from ...",
+      "title": "Overlooked chip ETF is beating biggest AI names",
+      "summary": "Semiconductor stocks have dominated every performance leaderboard in 2026, with memory and equipment makers delivering triple-digit gains that dwarf the broader market. Yet the fund capturing most of that upside is not the industry's largest, and it manages a fraction of the assets held by the ...",
       "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/nvidia-stock-flashes-valuation-signal-for-first-time-in-7-years",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NbEdhP.Hb9HHiWHRPx7N8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/90e947f698218676e6b1f3cb339947c6",
-      "published_at": "2026-07-09T23:17:00Z"
+      "url": "https://www.thestreet.com/investing/semiconductor-etf-nvidia-weight-psi-smh-performance-gap",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/StQDKMTxVj5XlCc4tRKXhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/971cd44b45f5d4f5a10ee2acc62649be",
+      "published_at": "2026-07-10T02:33:00Z"
     },
     {
-      "id": "90a81590-2900-3578-8ccc-76ea752aff1e",
+      "id": "567ce4f1-35cc-3289-8266-1db31f21105c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Chip titan SK hynix to raise $26.5 bn in blockbuster US listing",
-      "summary": "South Korean chip giant SK hynix on Friday priced its mega US listing at $149 per share, raising around $26.5 billion in what will be the world's second largest stock sale after SpaceX.\nAs governments and tech firms race to build data centres to train and run artificial intelligence, SK hynix -- a supplier to industry behemoth Nvidia -- has seen profits and its share price skyrocket.Global tech stocks have tumbled in recent weeks amid fears about extended valuations -- SK hynix has jumped more t",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-titan-sk-hynix-set-025602686.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6q0eIJyDCj40OF6SAxFVOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/0b659699f1a77706076e244e1d795711",
-      "published_at": "2026-07-09T23:03:34Z"
+      "title": "Louis Navellier flags three top tech stocks for market growth",
+      "summary": "The U.S. is truly a special, entrepreneurial oasis where anyone can succeed. The fact that one American stock, Nvidia (NVDA), is worth more than the French, German, and Italian stock markets combined says it all. I should add that Nvidia is also worth more than the entire British stock ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/louis-navellier-flags-three-top-tech-stocks-for-market-growth",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tyzsgWyW9W3491tJTGnEZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0f203d77d7b0d2977d9fb48912638d43",
+      "published_at": "2026-07-10T02:06:00Z"
+    },
+    {
+      "id": "7aea76b0-71a1-33b4-b3e1-e242c46cb58f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Silver and Copper Are Outpacing Gold in 2026 and After Following Industrial Metals These 3 ETFs Show How Smart Money Is Playing the Trend",
+      "summary": "The industrial metals trade has quietly become the most interesting corner of the commodity market, and the choice between iShares Silver Trust (NYSEARCA:SLV), United States Copper Index Fund (NYSEARCA:CPER), and SPDR S&P Metals & Mining ETF (NYSEARCA:XME) carries real performance consequences. Over the last twelve months SLV returned 62.91% and XME returned 48.68%, while SPDR ... Silver and Copper Are Outpacing Gold in 2026 and After Following Industrial Metals These 3 ETFs Show How Smart Money",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/09/silver-and-copper-are-outpacing-gold-in-2026-and-after-following-industrial-metals-these-3-etfs-show-how-smart-money-is-playing-the-trend/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UEEktFK1IwsoCZUreZteUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2aa905eb61dbfe56931741d05a4a64ef",
+      "published_at": "2026-07-10T01:54:41Z"
+    },
+    {
+      "id": "2b6aaea1-3e8d-3811-921a-17c3e7b38eb3",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Steady Amid Mideast Tensions",
+      "summary": "Gold was steady in early Asian trade. “Increasing tensions between the U.S. and Iran could leave markets on edge,” said Naga.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/golds-rally-likely-limited-by-headwinds-7bc5018f?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-07-10T01:35:00Z"
+    },
+    {
+      "id": "4147a094-7d7c-378c-bf09-6cf04668c3e6",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Dow, Nasdaq, S&P 500 Futures Retreat After Chip-Led Gains At Close: META, ONDS, FUBO, FRMI Stocks In Focus",
+      "summary": "U.S. President Donald Trump told reporters on board Air Force One that Iran “badly” wants to make a deal after America had “just hit [Iran] very hard.”",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-sp500-futures-retreat-after-chip-led-gains-at-close/cZmAFbyR7F3",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fCCcDP6SYr5wJ8IOjrQ.dA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/3725f4d9830e9f6b66b3669182a69013",
+      "published_at": "2026-07-10T01:30:16Z"
+    },
+    {
+      "id": "0f529d4c-4509-3779-9c51-85c80a71d830",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Halliburton (HAL) Stock Still Looks Discounted Despite Its 81% Five Year Run",
+      "summary": "Halliburton stock has delivered an 81.4% total return over the past five years, and recent news around new contracts in Iraq and mixed demand trends now sits alongside valuation checks that suggest the shares lean cheap rather than stretched. Over five years, Halliburton has returned 81.4%, which puts recent pullbacks into context as part of a longer period of shareholder gains. The new agreement to develop the Bin Omar and Sindibad oil fields in Iraq can support expectations for future...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-stock-still-looks-012435456.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CuV3k9k3smqgpQBa.vY5Bg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/92d26d55968bddf376addae5e476c381",
+      "published_at": "2026-07-10T01:24:35Z"
+    },
+    {
+      "id": "252ac703-e185-37f5-8760-9b9573954f25",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Valero Energy (VLO) Could Gain From Cheaper Crude As Refining Margins Hold",
+      "summary": "Renewed tensions in the Middle East are affecting crude oil flows and pricing in global markets. Despite supply worries, benchmark oil prices remain below earlier peaks, easing feedstock costs for refiners. Valero Energy (NYSE:VLO) is positioned to benefit from lower crude input prices and firm refining margins. Valero Energy enters this period of market stress with the stock trading at about $281.25 and showing strong recent momentum, including a 70.1% return year to date and 86.3% over...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/valero-energy-vlo-could-gain-012434429.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/onirgqVJDCdeXU3Q045Lvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/d3a411057b98955e763856eb6a647e44",
+      "published_at": "2026-07-10T01:24:34Z"
+    },
+    {
+      "id": "049bd161-9bec-3802-b497-7d4d2e319d21",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
+      "summary": "<p>A rough year for most of the megacaps has opened the door for funds that tilt away from the biggest stocks.<br> </p>",
+      "source": "etf.com",
+      "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ekAOA4tRDY7gs8AbKde.og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/7524cfbda86647665d99719e8480fd9c",
+      "published_at": "2026-07-10T01:06:19Z"
+    },
+    {
+      "id": "65e2ee83-0d73-3d86-aaa2-2da32ea45599",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "JGBs Edge Higher, Tracking Gains in U.S. Treasurys",
+      "summary": "TREASURYS 0029 GMT — JGBs edge higher in morning Tokyo session, tracking overnight price gains in U.S. Treasurys. Both JGBs and Treasurys tend to move in tandem. JGB prices may also be buoyed by the latest decline in crude oil prices, which could lead to lower inflationary pressures in Japan and ease concerns over a rapid pace of BOJ rate increases.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-2cb325e7?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-07-10T00:37:00Z"
+    },
+    {
+      "id": "7b0c7ffe-614d-3835-a3a8-c4e0fe8dfa84",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Arbitrum Jumps 19% as Robinhood Chain Trading Volume Hits $568M",
+      "summary": "Arbitrum’s ARB token (CRYPTO: $ARB) jumped 19% Thursday as trading on Robinhood’s (NASDAQ: $HOOD) new b...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/arbitrum-jumps-19-as-robinhood-chain-trading-volume-hits-568m-6115",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.fXIONHdsZsRPRPKystCjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/acc79af6ddbacfc41e2371bcbaf61c45",
+      "published_at": "2026-07-10T00:26:00Z"
+    },
+    {
+      "id": "9ef07d89-da6b-3c37-a885-d940b6615f64",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Wix.com (WIX) Could Be 37% Undervalued On Elavon Partnership News",
+      "summary": "Wix.com (WIX) stock is back in focus after the company announced a partnership with Elavon to power unified commerce solutions that link payments, online stores, and in person sales for small businesses. See our latest analysis for Wix.com. Despite the Elavon and Microsoft 365 Copilot partnerships putting Wix.com back on investors’ radar, the 90 day share price return is down 24.4% and the year to date share price return is down 51.23%, while the 1 year total shareholder return is down...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-could-37-001734316.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xa.weXHMj76pLUj0AQi7xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/47b1af040582d42464f0a0f280b2e22b",
+      "published_at": "2026-07-10T00:17:34Z"
+    },
+    {
+      "id": "f306c33d-d7c1-3f6b-bd70-cd6410ec4e5c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Google-backed ex-Bitcoin miner reveals $3.5 billion debt raise",
+      "summary": "A former Bitcoin miner is about to make its biggest debt raise yet and the money is going straight into artificial intelligence. TeraWulf Inc. (NASDAQ: WULF) is preparing to raise approximately $3.5 billion in debt to build a new data center campus in Kentucky, Bloomberg reported on Thursday, ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/google-backed-ex-bitcoin-miner-reveals-3-5-billion-debt-raise",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BcjtqjLChev5pgf.cWDTlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/968d6dae60af01eb76f62f8ba55c4050",
+      "published_at": "2026-07-10T00:00:00Z"
     },
     {
       "id": "4244266e-fe28-42c4-8ebc-6a9d03cb1a82",
@@ -100,17 +265,6 @@
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sxmki7i3SUIhFwlhofYwVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wtw-thumbnail-07092026_6763.png",
-      "published_at": "2026-07-09T23:00:00Z"
-    },
-    {
-      "id": "c38a430b-7d77-3915-a2b9-ccd823b1815d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "People Are Talking About Contango While Oil Markets Are Far From Recovered",
-      "summary": "The end of the U.S. Iran waiver, tighter Russian diesel exports, and renewed Hormuz tensions are expected to tighten physical oil markets.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/people-talking-contango-while-oil-230000669.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U7PrwFQa_JlRs0wjrdbihg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/08d11a709e027d4beb77735733d2bad9",
       "published_at": "2026-07-09T23:00:00Z"
     },
     {
@@ -125,17 +279,6 @@
       "published_at": "2026-07-09T22:57:54Z"
     },
     {
-      "id": "d48bfd67-5939-3f8a-9dc7-1e49ea8309f0",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "HighPeak Energy, DHT Holdings, and Kosmos Energy Stocks Trade Down, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after crude oil prices pulled back from the previous day's rally.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/energy/articles/highpeak-energy-dht-holdings-kosmos-225542672.html",
-      "thumbnail": "",
-      "published_at": "2026-07-09T22:55:42Z"
-    },
-    {
       "id": "dcf2de48-338d-364b-8f2b-27e3d02899db",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -145,17 +288,6 @@
       "url": "https://247wallst.com/personal-finance/2026/07/09/convert-your-ira-while-the-market-is-crashing-and-the-irs-basically-gives-you-a-discount/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l1qyjhsWQG40vPTDcJuiUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cae5e5e29638b93f480fc7abb8b7f7f9",
       "published_at": "2026-07-09T22:47:36Z"
-    },
-    {
-      "id": "8c23bf09-18cf-341d-a676-fcaf4d294ee7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Core Laboratories, Excelerate Energy, and Black Stone Minerals Shares Are Falling, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after crude oil prices pulled back from the previous day's rally. West Texas Intermediate (WTI) crude fell 2.2% to settle near $71.88 per barrel, while the international benchmark Brent crude slipped below $77 per barrel.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/core-laboratories-excelerate-energy-black-222342855.html",
-      "thumbnail": "",
-      "published_at": "2026-07-09T22:23:42Z"
     },
     {
       "id": "b4b30c1e-9450-3246-a7c2-d358ae099b85",
@@ -178,138 +310,6 @@
       "url": "https://www.thestreet.com/employment/microsoft-sends-significant-offer-to-laid-off-employees-severance-package",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_PEg9YXkH5rYNhwugtLPjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bedefaff47440d1c72c89256373a6cce",
       "published_at": "2026-07-09T22:17:00Z"
-    },
-    {
-      "id": "9553c05c-7d1d-3890-8a4f-502d58d55abe",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Why AngloGold Ashanti (AU) Outpaced the Stock Market Today",
-      "summary": "In the most recent trading session, AngloGold Ashanti (AU) closed at $81.91, indicating a +2.61% shift from the previous trading day.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-anglogold-ashanti-au-outpaced-221506358.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ntuaEXebAoViSP2xpnvkrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3d7c5b2146ac04ffd51752e17ff2a619",
-      "published_at": "2026-07-09T22:15:06Z"
-    },
-    {
-      "id": "ba6ada39-46cb-3525-95c4-e06f76b59910",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Did Tesla’s Miami Robotaxi Launch and Q2 Numbers Just Shift TSLA’s Autonomy‑First Narrative?",
-      "summary": "In the past week, Tesla reported second-quarter 2026 production of 451,758 vehicles and deliveries of 480,126 units, while also launching driverless Robotaxi operations in Miami, its first such market beyond Texas and California. Together with a rapidly expanding Megapack order book and growing focus on AI and robotics, these moves highlight Tesla’s push to evolve from a pure EV manufacturer into a broader software, energy, and autonomous services platform. We’ll now explore how the Miami...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-tesla-miami-robotaxi-launch-221357688.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-      "published_at": "2026-07-09T22:13:57Z"
-    },
-    {
-      "id": "624bd312-4570-3491-8e0f-4112b0d93ae6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
-      "summary": "Any disruption or added costs in Malacca would hit Asian energy importers hard, raise shipping and insurance costs, and put fresh upward pressure on global oil prices.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/strait-malacca-faces-growing-fears-220000086.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RfsyVrWxINJVczfPuyvbyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/7f6c86a4e6b6890870fad723a4db57bb",
-      "published_at": "2026-07-09T22:00:00Z"
-    },
-    {
-      "id": "9ca1dbc7-1006-30fa-8839-6cc9f3fab2e0",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Newmont Corporation (NEM) Outperforms Broader Market: What You Need to Know",
-      "summary": "Newmont Corporation (NEM) closed at $94.81 in the latest trading session, marking a +1.73% move from the prior day.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-corporation-nem-outperforms-broader-215004312.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1_jHMuW6SvnOrEW0N10GTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
-      "published_at": "2026-07-09T21:50:04Z"
-    },
-    {
-      "id": "d99a0f06-9dd8-3cb4-9791-d30c1c99a9af",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Diversified Energy Company PLC (DEC) Stock Slides as Market Rises: Facts to Know Before You Trade",
-      "summary": "In the latest trading session, Diversified Energy Company PLC (DEC) closed at $13.68, marking a -1.87% move from the previous day.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/diversified-energy-company-plc-dec-215003719.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ioqNyI9jOh7CiNNfF8upSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af",
-      "published_at": "2026-07-09T21:50:03Z"
-    },
-    {
-      "id": "fce96e0b-00d1-35ad-ae60-ed714f64c7db",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Talos Energy, Northern Oil and Gas, and Seadrill Shares Plummet, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after crude oil prices pulled back from the previous day's rally. West Texas Intermediate (WTI) crude fell 2.2% to settle near $71.88 per barrel, while the international benchmark Brent crude slipped below $77 per barrel.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-northern-oil-gas-214342243.html",
-      "thumbnail": "",
-      "published_at": "2026-07-09T21:43:42Z"
-    },
-    {
-      "id": "4e62b846-5169-3d4b-8d0e-80e1f0404077",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
-      "summary": "These tech titans took their partnership to the next level. It's a win for shareholders.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/09/broadcom-stock-investors-just-got-incredible-news-from-apple-ceo-tim-cook/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1d3YprPZZJNsM2Pys006AQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84900f4203b3e88628145f42952c7654",
-      "published_at": "2026-07-09T21:31:36Z"
-    },
-    {
-      "id": "19cf36c1-818c-34f5-b21c-c4c19e5a886c",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "S&P 500, Nasdaq, Dow End Higher Led By Chipmaker Stocks As Investors Look Past US-Iran Hostility — ORCL, SBUX, WULF, PANW, FATE In Focus",
-      "summary": "The United States carried out a second consecutive day of new military operations against Iran.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-led-by-chipmaker-stocks-as-investors-look-past-us-iran-hostility/cZmY9vSR7nz",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G1qkt0yXqRBNjxt3u.XQiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/861d4a9f5434ad23c589c830c2eb9736",
-      "published_at": "2026-07-09T21:28:17Z"
-    },
-    {
-      "id": "b405aa9a-3bdb-3fa5-8b95-9e236243da6b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Chord Energy, Murphy Oil, and Vitesse Energy Shares Plummet, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after crude oil prices pulled back from the previous day's rally. West Texas Intermediate (WTI) crude fell 2.2% to settle near $71.88 per barrel, while the international benchmark Brent crude slipped below $77 per barrel.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chord-energy-murphy-oil-vitesse-212742771.html",
-      "thumbnail": "",
-      "published_at": "2026-07-09T21:27:42Z"
-    },
-    {
-      "id": "7d289910-c02c-3fbe-8941-81ab07749537",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Crypto Market Today, July 9: Bitcoin Holds Firm as Risk Appetite Returns Despite Geopolitical Noise",
-      "summary": "On July 9, 2026, leading cryptocurrencies posted gains as news reports sparked hope that digital asset legislation may reach the Senate this month.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/09/crypto-market-today-july-9-bitcoin-holds-firm-as-risk-appetite-returns-despite-geopolitical-noise/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tpQwgvHr7ZBAgOYEqshQIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dd2f639991337f7759f6c8de80c915cd",
-      "published_at": "2026-07-09T21:22:43Z"
-    },
-    {
-      "id": "709d7529-c51a-374a-8ca4-093b1bb0db24",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Your Fund May Carry An Unearned Price",
-      "summary": "Some funds are trading far above their own historical valuations without delivering the performance to justify it; check your holdings against this list.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/606424/your-fund-may-carry-an-unearned-price/2026-07-09",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
-      "published_at": "2026-07-09T21:14:46Z"
-    },
-    {
-      "id": "39420734-39d8-30ea-9971-339a4eab765a",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Agnico Eagle Mines (NYSE:AEM) Faces A Valuation Test After Barnat Mining Halt",
-      "summary": "Agnico Eagle Mines (AEM) temporarily halted mining in the Barnat open pit at the Canadian Malartic complex after a rock mass movement, prompting investors to reassess near term production risk and stock valuation. See our latest analysis for Agnico Eagle Mines. The rock mass incident comes after a weak stretch for Agnico Eagle Mines, with the share price down 3.62% over one day and 33.06% over 90 days. At the same time, the 1 year total shareholder return of 24.26% and 3 year total...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-nyse-aem-211319810.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
-      "published_at": "2026-07-09T21:13:19Z"
     }
   ]
 }
