@@ -1,18 +1,73 @@
 {
-  "last_updated": "2026-07-11 15:29 UTC",
+  "last_updated": "2026-07-11 16:27 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "a27fea19-79a3-3fe5-9302-714b8e8f06d0",
+      "id": "c6297719-6be3-33a9-bdeb-f3db39557bab",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Dips Below $60,000 and History Points to What Comes Next",
+      "summary": "Bitcoin has a long history of bouncing back from extreme market declines.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/11/bitcoin-dips-below-60000-and-history-points-to-wha/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sYOxOlPkqBXigFPfSv2Ycg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1cf0c9b9d20ab74d6d5d7cb01cdabe54",
+      "published_at": "2026-07-11T16:10:00Z"
+    },
+    {
+      "id": "703d6efd-fa8a-3f74-9b23-333d4ae56f74",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Texas Roadhouse (TXRH) Stock Looks Below Fair Value But Above Fair Value On Earnings",
+      "summary": "Texas Roadhouse has returned 119.7% over the past five years, yet its current valuation sends mixed signals, with the intrinsic value estimate from a Discounted Cash Flow (DCF) approach pointing to upside while market multiples suggest the stock is priced richly. Over 5 years, Texas Roadhouse has returned 119.7%, which puts recent valuation concerns in the context of a strong longer term share price run. Analysts highlighting better beef prices and traffic growth suggest operating momentum...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/texas-roadhouse-txrh-stock-looks-160723660.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1ryptWsKSSGvIC3vkbKhOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b92ce08f4e871c6e137e8b720b721336",
+      "published_at": "2026-07-11T16:07:23Z"
+    },
+    {
+      "id": "60f4d147-c97d-345b-8e91-a7baf23c97c3",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "What $5,000 Invested in SpaceX Could Be Worth by 2030",
-      "summary": "Here are the bull, base, and bear cases every investor should consider.",
+      "title": "Super Micro Computer (SMCI) Introduces DCBBS Blueprint for HPC",
+      "summary": "Super Micro Computer Inc. (NASDAQ:SMCI) is one of the best stocks to invest in under $100. On June 22, Super Micro Computer introduced its Data Center Building Block Solutions/DCBBS Blueprint for HPC, featuring the NVIDIA Vera Rubin NVL4 platform. This end-to-end blueprint is designed to accelerate the deployment of converged high-performance computing and AI infrastructure, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-introduces-160002387.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SoFixJvMLN.213mvhMTGYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2f2460176d0f63fc0072885a5d014f04",
+      "published_at": "2026-07-11T16:00:02Z"
+    },
+    {
+      "id": "3ac90177-ec44-38ab-9297-9a14e6932053",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It?",
+      "summary": "One small investment offers big benefits for Nvidia.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/what-5000-invested-in-spacex-could-be-worth-2030/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DZeuFrNi5btfH_vcrrrDwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/15f7d8f11c25ad50ba6bf6f2653d832b",
-      "published_at": "2026-07-11T15:16:00Z"
+      "url": "https://www.fool.com/investing/2026/07/11/nvidia-ceo-jensen-huang-said-ais-most-profound-imp/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VbJlNbhY0H04VSuzbnxgfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/06fb34643938bcee91898e95d420a50a",
+      "published_at": "2026-07-11T15:57:00Z"
+    },
+    {
+      "id": "1faa7b37-25f3-39ce-8e69-efb39f06681d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Taiwan Semiconductor's Stock Will Soar on July 17",
+      "summary": "Taiwan Semiconductor Manufacturing will set the tone for AI demand during earnings season.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/11/predict-taiwan-semiconductor-tsmc-stock-will-soar/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8zShlciLtywm2_bs63hlrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9daf78a128543301085737d199613701",
+      "published_at": "2026-07-11T15:52:00Z"
+    },
+    {
+      "id": "b03d666d-80c9-3ab6-9b41-f3c10cc4c3d9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Wall Street Is Bullish on SpaceX: Here Is What a $2,000 Investment Could Return",
+      "summary": "The gap between the bullish and bearish forecasts for this stock is unusually wide.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/11/wall-street-is-bullish-on-spacex-here-is-what-a-2/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LMsqGXGd2_UFKFFTEw.Vkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/737e540cdbdc280fabd1666cb34b9b4b",
+      "published_at": "2026-07-11T15:52:00Z"
     },
     {
       "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
@@ -23,7 +78,84 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FVUYWFQy3lHt5R408Eq2iQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf",
-      "published_at": "2026-07-11T15:08:55Z"
+      "published_at": "2026-07-11T15:41:35Z"
+    },
+    {
+      "id": "dcebee8c-7343-3136-be32-05214ef0e6a2",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "This Covered Call ETF Just Proved Double Digit Income Doesn’t Mean NAV Bleed",
+      "summary": "SPYI has paid double-digit yields every single month since inception while its share price keeps climbing, and that combination raises an uncomfortable question about where the money is actually coming from.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/11/this-covered-call-etf-just-proved-double-digit-income-doesnt-mean-nav-bleed/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ts5_wIu0OvGSoZ95rGyrdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bd8b3b8c2c3ddad288bb62950051255b",
+      "published_at": "2026-07-11T15:39:37Z"
+    },
+    {
+      "id": "7e34de74-9064-347c-9e74-cd18a8489099",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Nuclear Energy Comeback Is Real. These 3 Energy Stocks Are the Best Ways to Play the Revival.",
+      "summary": "Nuclear power provides reliable baseload power, which is increasingly important as demand for electricity skyrockets.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/11/the-nuclear-energy-comeback-is-real-these-3-energy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/krAFJdrNhS4birmcCmPi9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3a523d6a36930a5170f02e8be79f9ca7",
+      "published_at": "2026-07-11T15:35:00Z"
+    },
+    {
+      "id": "bdf712bd-c74f-37d9-8dfc-86cea3151622",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Why Today’s Small Dividend Could Become Tomorrow’s Retirement Engine",
+      "summary": "A stock screener sorted by current yield misses one of the most powerful income stories in the market. Microsoft (NASDAQ: MSFT) now pays $0.91 per quarter, up from $0.08 per quarter in 2005. Visa (NYSE: V) most recently paid $0.67 per quarter, and its annual dividend now totals $2.68. Those stocks do not look like ... Why Today’s Small Dividend Could Become Tomorrow’s Retirement Engine",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/07/11/why-todays-small-dividend-could-become-tomorrows-retirement-engine/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4kQqTOyTaHXqeZEWK7XfEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c0eff889e29dbce73f4d1362e07fa11",
+      "published_at": "2026-07-11T15:30:10Z"
+    },
+    {
+      "id": "046de521-054b-3760-bf12-79ab3aa46e6b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Price Prediction: Synopsys Stock Will Be Worth This In 2030",
+      "summary": "Synopsys powers every AI chip on the planet yet trades nearly 20% below where it stood a year ago, which raises a question Wall Street has not fully answered: how far can this stock run before 2030?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/11/price-prediction-synopsys-stock-will-be-worth-this-in-2030/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q29mcGaVwWRvevKOlBCnVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/449ccbdbe959e04c02c3094edfe26724",
+      "published_at": "2026-07-11T15:30:04Z"
+    },
+    {
+      "id": "b5b14813-25d1-35e9-94b5-fb03b016fdb7",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Hits Record Oversold Level Against Gold, Echoing a 660% Rally",
+      "summary": "Bitcoin just hit its most oversold level against gold in history, a signal that once preceded a 660% macro rally.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-most-oversold-level-against-gold-history/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h_w857BMeZzXP0Hj88pEjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2be11e73a9f614c5494645c08f3825f6",
+      "published_at": "2026-07-11T15:30:00Z"
+    },
+    {
+      "id": "6879cd99-12e4-336a-8f08-bad99ab9bcfa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon’s $2 Trillion Empire Faces a Critical Turning Point",
+      "summary": "Amazon's fastest-growing divisions now carry margins that retailers can only dream about, and the market is starting to reprice the entire empire around them. Whether that repricing has further to run depends on one number that Wall Street is watching very closely.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/11/amazons-2-trillion-empire-faces-a-critical-turning-point/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WJheZGkUv9DnRm.GVueysQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/72882fbcc5faee22b4ae01f5081538e9",
+      "published_at": "2026-07-11T15:25:08Z"
+    },
+    {
+      "id": "d2d70316-21ff-3854-bd36-572c28c28cfa",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Cathie Wood Is Buying Coinbase and Circle Stock as the Sell-Off Ramps Up Ahead of the Clarity Act Vote. Here's the Bet.",
+      "summary": "Wood and her team have been staunch believers in crypto for many years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/11/cathie-wood-buy-coinbase-circle-clarity-act-vote/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1pytd0Vth0BmsyuniDwxiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/312844262656bf07384b69143b9fe239",
+      "published_at": "2026-07-11T15:23:00Z"
     },
     {
       "id": "e2390685-b30e-344d-8708-aa09981e895e",
@@ -49,25 +181,14 @@
     },
     {
       "id": "473df077-cad1-323a-baee-9ef062611bca",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
       "summary": "While investors fixate on Tesla's vehicle deliveries and margins, a quieter transformation is underway that positions the company to compete directly with the hyperscalers reshaping the global economy.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/07/11/forget-ai-hyperscalers-tesla-may-own-the-most-valuable-ai-application/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SHYRN2YQVm1PCiNg1VlOzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/94644384d105750eb7a5807ec7d89647",
       "published_at": "2026-07-11T15:03:27Z"
-    },
-    {
-      "id": "5294c2b5-87fa-338b-9d4a-f1cb5a137692",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Carvana's New-Car Business Will Work. Early Numbers Are Stunning.",
-      "summary": "Carvana is finally selling new vehicles, and early results emphasize how lucrative that could become.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/prediction-carvanas-new-car-business-will-work/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c7MM4giFG73RhpGUeodHnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/85b6a677e4199bd392c4e91b4e9acc18",
-      "published_at": "2026-07-11T14:50:00Z"
     },
     {
       "id": "77d71746-3fcb-3bda-bc12-7f9420f78add",
@@ -103,17 +224,6 @@
       "published_at": "2026-07-11T14:22:34Z"
     },
     {
-      "id": "ac1b7a9f-830b-3b26-875d-d0089db4b0d6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Rivian Just Did What Investors Despised Lucid for. How Bad Is It?",
-      "summary": "Rivian just announced a capital raise that would result in shareholder dilution. The important question for investors: Is this justified?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/rivian-just-did-what-investors-despise-lucid-for/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6c5HQ1GgcueHmpOnnRhnXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/59d2b568a9bd96fa5f014f39a44ffce5",
-      "published_at": "2026-07-11T14:20:00Z"
-    },
-    {
       "id": "0cd5fb41-f474-3a56-815a-0fd7f8b7194c",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -136,28 +246,6 @@
       "published_at": "2026-07-11T14:08:23Z"
     },
     {
-      "id": "24777328-e97d-30a5-a74e-cf749edeaff1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Stocks That Crushed Nvidia With 300% or More Gains Over the Past Year",
-      "summary": "These three stocks have outperformed Nvidia by a wide margin over the past year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/stocks-crushed-nvidia-300-percent-gain-mu-sndk/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RlXR8_Gn24YV32mmcHxsqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f16a96eafe2a0ca84f8a35321b481264",
-      "published_at": "2026-07-11T14:05:00Z"
-    },
-    {
-      "id": "db672217-36d6-328e-b8ec-1cce10d11852",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nuclear Energy Stock SMR Is Trading Under $10: Bargain Buy or Value Trap?",
-      "summary": "NuScale Power is developing a technology that AI data centers need. Does that make the stock's recent fall an opportunity to buy?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/nuclear-energy-stock-smr-under-10-buy-trap/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/64yp.N0Ax7t758_2eSY3HA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7711f066aeffa105cf909541fb683f4d",
-      "published_at": "2026-07-11T14:05:00Z"
-    },
-    {
       "id": "378f713d-1ad4-3b19-9dfa-b7ef24f5b8af",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -167,28 +255,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/blockstream-ceo-adam-back-bitcoin-contested-upgrade/cZmugaNR7oG",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Mw9nDrSBzfZy8QnfkxhcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/00a216ee5711fb6a9cf8d9b771800440",
       "published_at": "2026-07-11T14:03:41Z"
-    },
-    {
-      "id": "8540e175-42be-3d8f-aae2-12daba2688a7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Got $10,000? Broadcom vs Marvell: Only One Will Match The AI Hype",
-      "summary": "Broadcom and Marvell both rode AI tailwinds to blockbuster quarters, but their cash flows, growth strategies, and risk profiles point in completely different directions. Before you put $10,000 into either ticker, understand which one is actually built to deliver on the hype.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/11/got-10000-broadcom-vs-marvell-only-one-will-match-the-ai-hype/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OkquM2zlCFLylfKLgddt3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
-      "published_at": "2026-07-11T14:00:55Z"
-    },
-    {
-      "id": "e7e45739-5be1-3ef7-8040-e18bf2128483",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Datadog Stock Is Way Too Risky Right Now",
-      "summary": "Datadog's recent rally defies its fundamentals, and gravity may soon take its course.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/datadog-stock-is-way-too-risky-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e1RjU7SVxtxHb.iT07a4dQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4a1bd390c764b5281eb10c2f34753e8c",
-      "published_at": "2026-07-11T13:50:00Z"
     },
     {
       "id": "c1054282-c6a1-3cec-a87b-bfe236d70cae",
@@ -244,72 +310,6 @@
       "url": "https://247wallst.com/investing/2026/07/11/the-5-smartphone-chip-stocks-poised-for-the-next-handset-upgrade-wave/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kvx0iGjJXOLnqXNjvg9sXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/79b8fa40f28a54f22aea723fccd00344",
       "published_at": "2026-07-11T12:30:35Z"
-    },
-    {
-      "id": "7df29fee-453d-3416-a0f6-e4144c3376c3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap",
-      "summary": "Tim Peterson’s Metcalfe’s law model that puts a value of Bitcoin between $105,000 and $108,000 is well above current trading levels, said Mark Yusko.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/spacex-dogecoin-bitcoin-hedge-fund-manager/cZmuaZdR786",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N6YrOG0_xtVQHA_oKZKwUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8ae217a5d21b2f9653f4249ec6c835e1",
-      "published_at": "2026-07-11T12:22:08Z"
-    },
-    {
-      "id": "2c49a355-e171-308a-8014-6d5dc2bcf19e",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Volatility Isn’t the Risk You Should Fear — These Are",
-      "summary": "Most investors panic when stocks turn red, but the losses that actually destroy wealth rarely show up on a bad trading day. Four household-name stocks reveal the quieter threats compounding beneath the surface.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/11/volatility-isnt-the-risk-you-should-fear-these-are/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9pz7kF5u4QjNwc_wdMdnNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f5d2574118daead0256105e3ac658d81",
-      "published_at": "2026-07-11T12:19:55Z"
-    },
-    {
-      "id": "b17d79d2-fafd-3e01-a4fc-7158baad0f31",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Magnolia Oil & Gas (MGY) Following Q2 Recovery Hopes Still Looks Undervalued",
-      "summary": "Magnolia Oil & Gas (MGY) is drawing attention as investors look ahead to a Q2 update that is expected to reflect recovering production after weather-related disruptions, along with continued support from revenue growth and free cash flow. See our latest analysis for Magnolia Oil & Gas. At a share price of $25.79, Magnolia Oil & Gas has seen its 1 month share price return decline 7.26% and its 3 month share price return fall 13.75%, while the year to date share price return of 14.72% and 5...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnolia-oil-gas-mgy-following-121401089.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0TmvAbrR8UwmJ968fBRtIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
-      "published_at": "2026-07-11T12:14:01Z"
-    },
-    {
-      "id": "08f71742-d78e-304b-8621-409a791c46c1",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Par Pacific Holdings (PARR) Could Be 12% Undervalued After Strong Refining Demand",
-      "summary": "Recent interest in Par Pacific Holdings (PARR) is being driven by elevated refining crack spreads, strong fuel demand and higher crude prices linked to geopolitical tensions. All of these factors intersect with the company’s integrated refining and retail footprint. See our latest analysis for Par Pacific Holdings. Against this backdrop, Par Pacific Holdings’ share price has moved to $65.78, with a 7 day share price return of 12.46% and an 83.64% year to date share price return. The 5 year...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-holdings-parr-could-121325081.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BXVXK0Jsv5IdYsSS57k4kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4a6dac4ad072ed89ed8af60caf944b99",
-      "published_at": "2026-07-11T12:13:25Z"
-    },
-    {
-      "id": "50413a61-64aa-37a0-8545-1ccc27345584",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
-      "summary": "What counts as “upper class” is constantly evolving and the data in 2026 makes it clear that the bar is higher than ever.",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ISkN7Klraw5FZ3jTLof_gQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/777e52c1f57b4c31bb8a7a115a26c7b4",
-      "published_at": "2026-07-11T12:05:00Z"
-    },
-    {
-      "id": "39237934-f488-3e42-bb0b-4464ff42fe26",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Anthony Scaramucci's Model Portfolio: 30% to Bitcoin, Some Gold, 'Bet the Long Term of the US'",
-      "summary": "SkyBridge Capital founder Anthony Scaramucci maintains his long-term bullish stance on Bitcoin, saying that he believes artificial intelligence is likely in bubble territory. Scaramucci’s 30% BTC Allocation In an interview with Phil Rose on Thursday, Scaramucci attributed Bitcoin’s recent correction...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramuccis-model-portfolio-30-120126142.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0rlPygIqOP7iFzbkqOCItg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/99edf63e1a8685da788bffb070195f72",
-      "published_at": "2026-07-11T12:01:26Z"
     }
   ]
 }
