@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-11 00:55 UTC",
+  "last_updated": "2026-07-11 04:10 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5a7819fb-68e8-3bcf-8ee3-88934f518a33",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+      "summary": "AMD chases AI growth with concentrated risk, while TXN's diversified portfolio trades at a cheaper valuation. Which risk-reward profile fits your 2026 strategy?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/better-buy/2026/07/10/advanced-micro-devices-vs-texas-instruments-which-technology-stock-is-a-better-buy-in-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3L5l3jsVNGZGuYFe.5oDMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/464e1ae7311cbacdad796d04904b9f4e",
+      "published_at": "2026-07-11T03:36:12Z"
+    },
+    {
+      "id": "9c7381cd-71d1-33ce-ba36-4eaccb7154cf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
+      "summary": "A reported September production date hints at how the company plans to get more out of its massive AI budget.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/10/mark-zuckerberg-is-turning-meta-into-a-bigger-chip/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c9gwcl4zCEcTi2qFt1rFag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/86447e25d1519a0574a98bbb00fe5f96",
+      "published_at": "2026-07-11T03:01:00Z"
+    },
+    {
+      "id": "b6354ec8-18f0-3111-b3cb-0ead8088147f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple sues OpenAI alleging trade secret theft",
+      "summary": "In a classic “Friday news dump,” Apple filed a federal lawsuit in California against OpenAI, accusing its once-partner of stealing some of its trade secrets. Specifically, it’s alleging that two of its former employees brought proprietary and confidential information about its hardware to OpenAI when they joined. The lawsuit calls to mind Waymo’s trade secret theft lawsuit against Uber, filed in 2017. Similarly, a well-established tech giant publicly accused a fast-ascending private company, loc",
+      "source": "Pitchbook",
+      "url": "https://pitchbook.com/news/articles/apple-sues-openai-alleging-trade-secret-theft",
+      "thumbnail": "",
+      "published_at": "2026-07-11T02:46:10Z"
+    },
+    {
+      "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "summary": "Taiwan Semi, Goldman and GE Aerospace are big earnings due with the market improving. Nvidia, Sandisk, Micron, Robinhood are near buy points.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FVUYWFQy3lHt5R408Eq2iQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf",
+      "published_at": "2026-07-11T02:39:48Z"
+    },
+    {
+      "id": "e80a0abc-2b23-30f5-8ac1-54f53f2559fb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Private Credit Is Coming to 401(k) Plans. These Are the Alternative Asset Managers Set to Cash In.",
+      "summary": "The private credit sector is growing rapidly, and it could get a huge boost when the average investor can buy in, too.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/10/private-credit-is-coming-to-401k-plans-these-are-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a73nrHfYUIjkoBtl8o9SFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0b10054790bf559550396b9fa848ec28",
+      "published_at": "2026-07-11T02:35:00Z"
+    },
+    {
+      "id": "7079f238-f1a2-3d81-bad9-e1bfb9a6181d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Has Meta ever had a stock split? What sets this ‘Mag 7’ stock apart",
+      "summary": "Meta Platforms has a lot in common with its “Magnificent 7” brethren. Like Nvidia, Apple, Alphabet, Microsoft, Amazon, and Tesla, Meta is a technology giant with a market capitalization exceeding $1 trillion. Its stock has dramatically outperformed the broader S&P 500 over the past decade, and ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/meta-platforms-stock-split",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5BBshNd0MePe5Ppo__w4lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/141963da0575fada6821cf829ae4ce21",
+      "published_at": "2026-07-11T01:47:54Z"
+    },
+    {
+      "id": "bcdb248f-1a55-31ea-b2ff-87a22947d3e1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic",
+      "summary": "Alex Karp called out OpenAI and Anthropic by name on live television, sent Palantir stock surging 8%, and argued that enterprises are done paying for tokens. The question is whether his numbers back up the swagger or just paper over a valuation that has Michael Burry betting against it.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/10/palantir-ceo-something-has-gone-completely-wrong-with-openai-and-anthropic-2/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cRaigE9QmCZhFwEbFydo1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b40720e0d4952ee8877af7e472d25a4a",
+      "published_at": "2026-07-11T01:29:37Z"
+    },
+    {
+      "id": "bc77db63-0244-3907-86c8-0efa98ea6c81",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why WD-40 Stock Popped Today",
+      "summary": "Boring can be beautiful.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/10/why-wd-40-stock-is-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i54HN29M8S2i.BmjKB4X7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0ad01b18d92c3b931b1325ecee26dffd",
+      "published_at": "2026-07-11T01:20:28Z"
+    },
+    {
+      "id": "c4b887cb-5362-3fbb-932e-314380a448be",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Does MARA’s 2 GW Texas Campus Plan Reshape The Bull Case For MARA Holdings (MARA)?",
+      "summary": "MARA Holdings recently agreed to acquire more than 1,200 acres of powered land in Matagorda County, Texas, for up to US$600 million, aiming to build a digital infrastructure campus that can access as much as 2 GW of grid capacity by 2028 for AI, high‑performance computing and Bitcoin mining. This move more than doubles MARA’s potential power pipeline to roughly 4.8 GW and signals a clear pivot toward owning critical energy and compute infrastructure rather than relying solely on traditional...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-mara-2-gw-texas-011203662.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D.JM6wrYqs6WgeXjIASjXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/deae7123c305ae121db80b585a5fb9dd",
+      "published_at": "2026-07-11T01:12:03Z"
+    },
+    {
+      "id": "3c12a022-3c82-31e3-ba1d-5ad8765a6230",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "The White House Made Fixing Intel Its Pet Project. It’s Working.",
+      "summary": "The chip maker’s business is improving, with government twisting the arms of potential customers and partners including Apple and Nvidia",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/the-white-house-intel-trump-apple-84fe833e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nGZ4OiomCENfH0xQeXahbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ccd3c4f8357c981f69bb95a9b4ba4413",
+      "published_at": "2026-07-11T01:00:00Z"
+    },
     {
       "id": "ad80647d-dae1-3698-947a-62f2e97d4e73",
       "asset": "NVDA",
@@ -35,17 +145,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dht-holdings-dht-accelerates-newbuild-001730958.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lP4_suJGxwfkcKENi0CvvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f9692e894f79c9cd0c66d13d11ff0ac1",
       "published_at": "2026-07-11T00:17:30Z"
-    },
-    {
-      "id": "50a69279-082b-38b7-bfdd-2c10727ef162",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Gulfport Energy Stock Flopped on Friday",
-      "summary": "An analyst chopped his price target on the company's shares.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/why-gulfport-energy-stock-flopped-on-friday/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mkV4BQi4ydDpkMAUpjV1QQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c077e2ce453f9b6ae88dcdc7e7ef4e15",
-      "published_at": "2026-07-11T00:16:06Z"
     },
     {
       "id": "62dd552d-d7e7-33ea-9281-3d4ea2ddbaba",
@@ -81,37 +180,15 @@
       "published_at": "2026-07-11T00:02:00Z"
     },
     {
-      "id": "3780cd02-571b-362d-be85-9fc9ae5e2a34",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Vodafone Stock Rocketed Almost 13% Higher Today",
-      "summary": "A stake worth around $6 billion was sold on Thursday.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/why-vodafone-stock-rocketed-almost-13-higher-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qUvRht66Xf6eZyCFhcrjiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fed968c14fec2bab3578c114afd5bf49",
-      "published_at": "2026-07-10T23:54:48Z"
-    },
-    {
-      "id": "3717b565-6998-3549-aef0-dbf611d2262d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Circle Just Won a U.S. National Bank Charter. Here's Why It Matters for the Stock.",
-      "summary": "The stablecoin issuer just got a federal stamp of legitimacy. The stock's problem, however, lies elsewhere.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/circle-just-won-a-us-national-bank-charter-heres-w/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zJnDu8V.WwEhvM86tYhAkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb11947b01449ff64922536b6adb8cc8",
-      "published_at": "2026-07-10T23:51:00Z"
-    },
-    {
-      "id": "acdbbead-dc54-38bb-8e1a-a6a32b965dc2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Simply Good Foods Slipped by Almost 2% on Friday",
-      "summary": "Investors were digesting the specialty food company's latest earnings report.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/why-simply-good-foods-slipped-by-almost-2-on-frida/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BYm50lnqyFvvM.OuLyZyXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f41cdeb801b5fffa683c0d35a4546c0c",
-      "published_at": "2026-07-10T23:26:06Z"
+      "id": "7c4a3db1-0586-3a74-ab39-27ebfea953fc",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Review & Preview: Why the Dow Snapped Its Streak",
+      "summary": "REVIEW PREVIEW NEWSLETTER Pretty Meta. One big thing separated the S&P 500 and Nasdaq Composite from the Dow Jones Industrial Average this week: Meta Platforms stock. The Dow rose 150 points, or 0.3%, on Friday.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-today-dow-ends-winning-streak-meta-404d363a?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+      "published_at": "2026-07-10T23:55:00Z"
     },
     {
       "id": "cff92d7b-515b-3ee8-98aa-bf84716b00e7",
@@ -123,6 +200,17 @@
       "url": "https://www.barrons.com/articles/apple-openai-io-lawsuit-b4325be0?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EpWzpHM6eMes9BPgL0rc6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1606983d8a3fbc0541bf60a9812aad51",
       "published_at": "2026-07-10T23:25:00Z"
+    },
+    {
+      "id": "ab24cf3c-bfa5-36af-9106-dbebf3144d23",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple accuses OpenAI, and former design star Jony Ive’s io Products firm, of stealing hardware trade secrets in blockbuster lawsuit",
+      "summary": "The lawsuit alleges that two former Apple employees now working at OpenAI stole confidential data including information about unreleased hardware products and technical specifications.",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-accuses-openai-former-design-231936659.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fm7Aj17.0sNrS5xgwjkNhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/23d45bd7aff3fa473afcc004f6854bea",
+      "published_at": "2026-07-10T23:19:36Z"
     },
     {
       "id": "6b326980-d0c8-3d9b-aa12-ba3fb693cc65",
@@ -156,28 +244,6 @@
       "url": "https://www.wsj.com/tech/apple-openai-lawsuit-f86bd58c?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bFc_rBULslbidPwQyxmLQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/65b4e9f9119ca774fcad686f2ba513fb",
       "published_at": "2026-07-10T23:09:00Z"
-    },
-    {
-      "id": "0bae9a23-499a-3b8a-b493-7da5ed244c3b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Circle Receives New Regulatory Approval for National Trust Bank. Here's What It Could Mean For CRCL Stock",
-      "summary": "What does this change for Circle stock?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/10/circle-receives-new-regulatory-approval-for-national-trust-bank-heres-what-it-could-mean-for-crcl-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DOuJssyJruG81GLRlDCLQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b1fd5c0488326fb40e45974a7684384d",
-      "published_at": "2026-07-10T23:05:01Z"
-    },
-    {
-      "id": "9b741483-7953-3927-813a-bfb8dc0d4713",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Missed Nvidia’s Run? SMH Holders Made 113% Over 12 Months Anyway",
-      "summary": "Every investor who skipped Nvidia this year assumes they left money on the table, but one overlooked semiconductor fund quietly tells a very different story about who actually won the AI trade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/10/missed-nvidias-run-smh-holders-made-113-over-12-months-anyway/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FN_N_frdb5C3pRVB4FK0XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cbecd1beefd2c063c7701d81e6e026ca",
-      "published_at": "2026-07-10T23:00:44Z"
     },
     {
       "id": "2d17f73e-dbc8-375f-9519-7bdbe48b1a4c",
@@ -244,72 +310,6 @@
       "url": "https://247wallst.com/investing/etf/2026/07/10/id-put-25000-in-these-2-etfs-before-the-next-earnings-season/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m6iMOc.QqtzX79Db3Rn6_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/81e640587f70ba6b184851e229e0447b",
       "published_at": "2026-07-10T22:12:42Z"
-    },
-    {
-      "id": "cd369e62-f360-33a7-a11c-273028e3e788",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "AAPL Stock Unmoved After-Hours — Apple Sues OpenAI Over Alleged 'Rotten' Campaign To Steal AI Hardware Secrets",
-      "summary": "Apple has filed a federal lawsuit against OpenAI, accusing the artificial intelligence company of running a coordinated campaign to steal confidential product designs and trade secrets.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-unmoved-after-hours-apple-sues-open-ai-over-alleged-rotten-campaign-to-steal-ai-hardware-secrets/cZmrj2wR78n",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MF7bYuo_mauiRnn1.DBmaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ef3d6d24e478cfadc77758e8047b923b",
-      "published_at": "2026-07-10T22:08:36Z"
-    },
-    {
-      "id": "6f50c4b9-5351-31c7-97a5-e5f978ec3aea",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Bessent tells gas stations the savings better show up",
-      "summary": "Every driver knows the pattern, even without a chart to prove it. When crude oil spikes, the number on the station sign seems to jump before you finish your commute. When crude falls, the savings take the scenic route. Economists call it rockets and feathers: Pump prices rocket up and float down. ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/markets/bessent-tells-gas-stations-the-savings-better-show-up",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F3IooJNimhVfGOehzkGrTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c53835a7cf2e3af271dceb7e66a813e2",
-      "published_at": "2026-07-10T22:07:00Z"
-    },
-    {
-      "id": "0ecf69d7-7347-3aae-bf33-5742aa6132e7",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "OpenAI Back in Another Legal War Weeks After Beating Elon Musk",
-      "summary": "Apple sues OpenAI, accusing ex-employees of stealing trade secrets for rival AI hardware, weeks after its Musk court win.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/apple-sues-openai-trade-secrets/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5IeuajknSpX2IcFkdxwNKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/421430d1512166a64c23709a5b508696",
-      "published_at": "2026-07-10T21:45:18Z"
-    },
-    {
-      "id": "ea4ae04a-cdf9-359b-9ff5-b9100abb2a19",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Agnico Eagle Mines (AEM) Stock Sinks As Market Gains: What You Should Know",
-      "summary": "In the latest trading session, Agnico Eagle Mines (AEM) closed at $146.87, marking a -1.45% move from the previous day.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-stock-214504017.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NZX_qmP7eZKgJOT17Ly_KQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
-      "published_at": "2026-07-10T21:45:04Z"
-    },
-    {
-      "id": "9b4a855e-1e83-4914-a930-e859a2d37d54",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple is suing OpenAI over alleged trade secret theft",
-      "summary": "Apple is suing OpenAI, alleging trade secret theft.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/apple-is-suing-openai-over-alleged-trade-secret-theft-213609180.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g1LHOFbx57AyEbWJ60Bz8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-03/3e2ea6db-de0b-456e-95ac-33c10a87966a",
-      "published_at": "2026-07-10T21:36:09Z"
-    },
-    {
-      "id": "c82ef080-ce61-3863-a499-d887b1b18494",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin treasury company sells 48% of holdings to repay debt",
-      "summary": "Empery Digital (Nasdaq: EMPD) sold 1,400 Bitcoin for $87.1 million within the first year of its pivot to a Bitcoin treasury strategy. The sale represented roughly 48% of its Bitcoin holdings before the transaction. The company, formerly electric powersports maker Volcon, pivoted to a Bitcoin ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/bitcoin-treasury-company-sells-48-of-holdings-to-repay-debt",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPjB3iEPvlRrSoRXwGwyfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6a8169d6ace45f0c3faa3d933fc6e1db",
-      "published_at": "2026-07-10T21:35:58Z"
     }
   ]
 }
