@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-07-12 04:50 UTC",
+  "last_updated": "2026-07-12 07:26 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Big Tech’s Massive AI Spending Is Just Starting. Earnings Will Show It.",
+      "summary": "Analysts expect Alphabet’s second-quarter capital expenditures to reach $44.9 billion, a 100% increase from the prior year period.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amazon-alphabet-big-tech-stocks-earnings-ai-2c8774f5?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sS.In65TvYkNA22IQsOOCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d57028a796539aad0506ba0df74347a6",
+      "published_at": "2026-07-12T07:00:00Z"
+    },
+    {
+      "id": "7f384e99-0313-3b00-b743-0a621b6dc9c5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What a $5,000 Investment in SpaceX at Launch Would Be Worth Now",
+      "summary": "Whether you're up or down largely depends on when you stepped into this unsurprisingly volatile ticker.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/what-a-5000-investment-in-spacex-at-launch-would-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rMo4ob_gAa7iMNvZc8lzvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3d0c8ca69ff1e5e399c6d2b67f83be98",
+      "published_at": "2026-07-12T06:55:00Z"
+    },
+    {
+      "id": "f194caad-3caa-37e6-967a-8f1c7d05ea14",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Monday Blues. Is the Dip in Monday.com Stock a Buying Opportunity?",
+      "summary": "Monday.com's stock has been caught in the SaaS collapse.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/the-monday-blues-is-the-dip-in-mondaycom-stock-a-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XE5itmg6OWl7Kk1vLrKZiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/10dbdc8161e96d9a3d6a7dc99180969d",
+      "published_at": "2026-07-12T06:20:00Z"
+    },
+    {
+      "id": "acd915e7-da43-3fa3-a6f8-fb84948c24f6",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is Bitcoin a Good Crypto for Long-Term Investors?",
+      "summary": "The current bear market is testing the patience of this top digital asset's biggest bulls.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/is-bitcoin-a-good-crypto-for-long-term-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FBAdbfRzvTUIj7Z6SX7kag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f16b27fd92fe39a43172538b1a794405",
+      "published_at": "2026-07-12T06:01:00Z"
+    },
+    {
+      "id": "5830e5f9-3ff5-3eb4-ae22-a29d06a8c88f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What’s the AI hit to U.S. inflation?",
+      "summary": "Investing.com -- Artificial intelligence is adding to U.S. inflation rather than reducing it, with the current investment boom estimated to contribute roughly 0.4 percentage points to annual inflation in 2026, according to CIBC Capital Markets.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
+      "thumbnail": "",
+      "published_at": "2026-07-12T05:30:10Z"
+    },
+    {
+      "id": "e67e0e18-c4ca-3b86-be2c-94bccf78557f",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "This Data Center IPO Is the Next Big Test for the AI Trade",
+      "summary": "Csquare, a data center operator backed by Brookfield, is going public as investors are growing skeptical about AI and IPOs.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/csquare-ipo-data-center-ai-stock-574e67b9?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J5u0ZnOOGxMPTepK8e9sOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b93a782bd3336fbe9336c6ee6acd27fb",
+      "published_at": "2026-07-12T05:30:00Z"
+    },
+    {
+      "id": "771a21af-01bf-330d-a54e-e27fca4c83ec",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "XRP Has Pulled Back Sharply. Is Now the Time to Load Up?",
+      "summary": "Investors should be concerned that XRP is still languishing at the $1 price level.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/xrp-has-pulled-back-sharply-is-now-the-time-to-loa/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/quES70QVm0KFD9dSO2RH6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6654045090eedd00a7b24fbc88607fbe",
+      "published_at": "2026-07-12T05:20:00Z"
+    },
+    {
+      "id": "9c9cb791-f423-33e1-8020-9ac00d2ee15e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jensen Huang's Blue-Collar Millionaire Prediction Lifted Quanta Services' Backlog to $48 Billion",
+      "summary": "Jensen Huang says the AI bottleneck isn't chips, it's skilled workers, and one infrastructure company may be perfectly positioned to profit.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/jensen-huangs-blue-collar-millionaire-prediction-l/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UrJWYya0MeSTxhVVrm9W2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f7cf581fca5adc57409dddbeaba485e6",
+      "published_at": "2026-07-12T05:05:00Z"
+    },
+    {
+      "id": "6ddbb472-4914-3c8c-af0d-22990b04e88e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Don't Be Misled: Common Myths About Index Funds Debunked",
+      "summary": "Index funds can be an excellent wealth-building tool. However, not buying into these myths may help you avoid mistakes.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/dont-be-misled-common-myths-about-index-funds-debu/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zpiTfYRGTTvQTCJyLiGckg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8c8ade4a360cad40f9c20382feb7a65",
+      "published_at": "2026-07-12T04:50:00Z"
+    },
     {
       "id": "bc39a016-8bd9-3cb0-a07d-8a86fad8ff7d",
       "asset": "NVDA",
@@ -37,28 +136,6 @@
       "published_at": "2026-07-12T02:45:01Z"
     },
     {
-      "id": "353bf919-6d4b-3ae0-8416-e5276f5019b1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Oklo Stock Sank 27% In The First Half of 2026",
-      "summary": "The boom in enthusiasm around nuclear energy stocks has begun to fade.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/why-oklo-stock-sank-27-in-the-first-half-of-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.JH.eaknTwY86eUA2.YMDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/544ced58c2424b93702cce7abdcc6543",
-      "published_at": "2026-07-12T02:07:04Z"
-    },
-    {
-      "id": "41fef95d-1b45-3331-a897-78b1714d711f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: $500,000 Invested in SpaceX Stock Could Grow to $1,615,000 by 2030",
-      "summary": "SpaceX's AI division has tremendous growth potential.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/prediction-500000-invested-in-spacex-stock-could-g/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nOLQxHeT3JF.PkH3M4FVRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8fa8d12f2b54d9998004b7ae3db3a514",
-      "published_at": "2026-07-12T01:59:00Z"
-    },
-    {
       "id": "f16a1994-9136-38b8-b1bb-052fb59f872c",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -70,39 +147,6 @@
       "published_at": "2026-07-12T01:58:45Z"
     },
     {
-      "id": "3f25cb36-787a-3d0b-8e6a-7e70d9f849b0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Interactive Brokers Stock Zoomed 35.3% Higher In The First Half of 2026",
-      "summary": "The trading brokerage is showing strong growth and just added access to the Korean market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/why-interactive-brokers-stock-zoomed-353-higher-in/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6dqJPaX9qlImaWgUW5Lvew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cdce409d6f75f1e5502e8a3b6f0dff45",
-      "published_at": "2026-07-12T01:36:44Z"
-    },
-    {
-      "id": "29d131ef-345d-34f3-b6b3-80b3f19ffe11",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Samsung Begins Mass Production of High-Speed AI SSD for Nvidia Vera Rubin, Strengthening Its Position in AI Memory Market",
-      "summary": "Samsung Electronics has begun mass production of its latest enterprise solid-state drive, the PM1763, which will be deployed in Nvidia Corp’s upcoming Vera Rubin AI platform scheduled to launch later this year. Samsung’s New AI SSD Targets Faster Data Center...",
-      "source": "Benzinga",
-      "url": "https://tech.yahoo.com/computing/articles/samsung-begins-mass-production-high-013103337.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gPVOiHURJ4SDH3uUWaeQOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/8515ab1c781c67439b0fd8248fe11651",
-      "published_at": "2026-07-12T01:31:03Z"
-    },
-    {
-      "id": "8cc229fa-8b8c-3639-bed4-ce21f1c40afa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia's Forward P/E Has Actually Fallen as Its Stock Price Rose. Here's How That's Possible.",
-      "summary": "Nvidia is even cheaper despite outperforming the S&P 500 this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/nvidias-forward-pe-has-actually-fallen-as-its-stoc/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jywWD7PS6UZQlnFkVFO4DA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5f7681ff3e224e4e784b15c2c52cf039",
-      "published_at": "2026-07-12T01:22:00Z"
-    },
-    {
       "id": "0e5a3c22-2434-37d9-a883-bffe02d5e277",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -112,17 +156,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-faces-25-emissions-010802367.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AyiBLWl3XhKcC4uQ8kwsOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925",
       "published_at": "2026-07-12T01:08:02Z"
-    },
-    {
-      "id": "65356430-b60a-31e3-a85d-12925b4512e4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AbbVie Is Already a Dividend King. Here's Why the $10.9 Billion Apogee Deal Could Make It a Dynasty",
-      "summary": "AbbVie inherited its status as a Dividend King, but it is building a strong foundation to continue the dividend streak.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/abbvie-is-already-a-dividend-king-heres-why-the-10/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V4bMJd2KkzKDjOH8P9MDkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7556113f874a9ca33be58f632a3455c4",
-      "published_at": "2026-07-12T00:35:00Z"
     },
     {
       "id": "a691df1f-707a-3c41-8de5-95a5ce11d43c",
@@ -145,17 +178,6 @@
       "url": "https://www.yahoo.com/entertainment/tv/articles/making-fun-trump-pays-off-233111717.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Tem7eMULOKko5Y5tI0di1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ec679d6d1c4aee1ddf710bc55eda6cb5",
       "published_at": "2026-07-11T23:31:11Z"
-    },
-    {
-      "id": "fc4105fc-b1a5-3028-852e-c69a1e07cf76",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warren Buffett Swears By This 1 Low-Cost Investment. History Proves He's Been Right Every Time.",
-      "summary": "There's a good reason why Buffett says this investment is \"the best thing\" for most people.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/warren-buffett-swears-by-this-1-low-cost-investmen/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WTe2yTN3iAeiwBO0sTsxGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6b73dfe8f6cb26870ec3695590d23254",
-      "published_at": "2026-07-11T23:20:00Z"
     },
     {
       "id": "27256b7f-2df8-3bc4-ac87-a0c7966bd890",
@@ -288,28 +310,6 @@
       "url": "https://beincrypto.com/trump-market-moves-this-week/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4eCo9wIOd9oNPrLdHsu4Fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d614aa8f1a16ee712377b9dbee01a007",
       "published_at": "2026-07-11T18:51:22Z"
-    },
-    {
-      "id": "3d548fa8-f3df-3157-be39-35275f327bdc",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "The New Villian in Tech",
-      "summary": "Rising chip prices, data centers, and subsequent price increases in consumer products have made Silicon Valley a villain in the age of AI.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/11/the-new-villian-in-tech/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QJDIgTuBob9MM1XKBH9Oag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2a653465a26fd11daee38065356c4a34",
-      "published_at": "2026-07-11T18:07:42Z"
-    },
-    {
-      "id": "fc79f004-3c8b-3908-9d32-46a72141c57d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' — here are experts takes on buying the dip",
-      "summary": "If you’re in it for the long-term, you can acquire more tokens at a lower average cost during a dip, while short-term trades are riskier.",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NHczcLB7b0588TKk6EtS4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/659326e2e4c98e171a9dde5f7a9157c2",
-      "published_at": "2026-07-11T18:00:00Z"
     }
   ]
 }
