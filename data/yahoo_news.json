@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-07-12 19:17 UTC",
+  "last_updated": "2026-07-12 20:13 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "71c1e0c7-2c33-36c6-ac24-7a4be4ad4479",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "iShares Ethereum Trust ETF vs Hashdex Nasdaq Crypto Index ETF: Is Diversification a Winning Crypto Strategy?",
+      "summary": "One fund bets on Ether alone; the other diversifies across Bitcoin and other digital assets. Both charge 0.25% but differ sharply in scale and volatility.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/12/ishares-ethereum-trust-etf-vs-hashdex-nasdaq-crypto-index-etf-is-diversification-a-winning-crypto-strategy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_H8mnlSucVqsHmMqHWuPZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7db1e67f063b4d2af25ebc343bc684ff",
+      "published_at": "2026-07-12T19:49:01Z"
+    },
+    {
+      "id": "81601e46-739b-36a5-b97a-d179a114c0ed",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "If I Could Tell Every QQQ Investor 1 Thing About SpaceX's Nasdaq-100 Entry, It's This",
+      "summary": "Anyone expecting SpaceX to become a huge holding in the Nasdaq-100 index is likely going to be disappointed.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/tell-every-qqq-investor-nasdaq-100-spacex-its-this/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SGXC3vBB06ndMNCe6KH0WA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8879d7bf867ca174c4c762a0bf17532e",
+      "published_at": "2026-07-12T19:49:00Z"
+    },
+    {
+      "id": "9ec7c0ce-736b-3f9f-9800-51b95a0fd242",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "1 Big Reason to Buy FuelCell Energy Stock While It's Still Under $30",
+      "summary": "A new collaboration could be yet another catalyst for the share price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/big-reason-to-buy-fuelcell-energy-stock-under-30/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hN2kITEQcIaI56RLN7ZH7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c0394085586c5da6ab0ddb086983f6b2",
+      "published_at": "2026-07-12T19:21:00Z"
+    },
     {
       "id": "c8c4d22f-f5c8-3974-a8d5-69f977ff216c",
       "asset": "AAPL",
@@ -26,6 +59,17 @@
       "published_at": "2026-07-12T19:04:00Z"
     },
     {
+      "id": "d942518c-92d8-35b8-871c-bd804ed1b6ef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is the AI Bubble About to Burst?",
+      "summary": "Artificial intelligence is transforming business, but mounting evidence suggests its greatest value lies in supporting human expertise rather than replacing it.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f1JTxVh7M3tbxBnWoCbVSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/7856d9d7438a4a93ef29874c4df27a63",
+      "published_at": "2026-07-12T19:00:00Z"
+    },
+    {
       "id": "583a2b08-1103-3059-999a-c03fa472be28",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -34,6 +78,17 @@
       "source": "Moneywise",
       "url": "https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-190000424.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x4mWV7DBx4mXE3PPmRN2nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/89f7be5f44242c4b355969baa9fc0373",
+      "published_at": "2026-07-12T19:00:00Z"
+    },
+    {
+      "id": "6493278d-28c4-36ed-b510-e59f68d1dc24",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Traders Grapple With World That’s Good for Dollar, Bad for Bonds",
+      "summary": "(Bloomberg) -- What’s good for the US dollar isn’t always good for US bonds — but investors are finding ways to work around it.Most Read from BloombergLindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With AppleUS Launches Fresh Iran Strikes as Tehran Declares Hormuz ClosedHormuz Route Open Despite Iran Declaration, Maritime Group SaysGates Heir’s Shopping App Claimed Sales It Didn’t DriveEven as the greenback draws support from a r",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/traders-grapple-world-good-dollar-190000548.html",
+      "thumbnail": "",
       "published_at": "2026-07-12T19:00:00Z"
     },
     {
@@ -70,6 +125,17 @@
       "published_at": "2026-07-12T18:25:00Z"
     },
     {
+      "id": "4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Big Tech Is Pouring Billions Into AI, and the Stock Market Wants to See the Payoff—Now",
+      "summary": "Analysts expect Alphabet’s second-quarter capital expenditures to reach $44.9 billion, a 100% increase from the prior year period.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/big-tech-earnings-ai-spending-2c8774f5?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sS.In65TvYkNA22IQsOOCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d57028a796539aad0506ba0df74347a6",
+      "published_at": "2026-07-12T18:16:00Z"
+    },
+    {
       "id": "4ce1d453-5da1-34b2-b1a4-0e235c443c9a",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -103,17 +169,6 @@
       "published_at": "2026-07-12T18:03:00Z"
     },
     {
-      "id": "b15e99cb-4cb9-342e-ad6a-f180c7bf235b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The AI Memory Chip Market Could Reach $476 Billion by 2030. Here Are 2 Stocks Positioned to Win.",
-      "summary": "The memory market is in the up phase of a powerful supercycle, and Micron and Sandisk could benefit from it for years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/the-ai-memory-chip-market-could-reach-476-billion/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wgz9mk5rloOrTirILbs8WQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/159fc2fcde8dcceb544a4254b40f5bee",
-      "published_at": "2026-07-12T17:58:00Z"
-    },
-    {
       "id": "586ea29a-c79f-3e8b-a665-037749a9781e",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -126,8 +181,8 @@
     },
     {
       "id": "5dc17372-b4dd-3f9a-81ff-9767b6b7e7a8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "The 1 AI Stock I'd Buy and Hold for the Next Decade",
       "summary": "My pick isn't the market's hottest AI name -- and that's the point.",
       "source": "Motley Fool",
@@ -167,17 +222,6 @@
       "url": "https://www.thestreet.com/crypto/markets/if-you-had-invested-10000-in-gold-bitcoin-silver-and-oil-when-khamenei-was-killed-heres-how-much-youd-have-today",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FsM0VLxHcfZj0ayxvz6xBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d6b5b8c4f5666715d795348ccba5127d",
       "published_at": "2026-07-12T17:18:20Z"
-    },
-    {
-      "id": "7a3aed4f-277d-3dec-b49b-30bdd9a646a1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Wall Street Is Bullish on 1 of These Chip Stocks and Bearish on the Other",
-      "summary": "Wall Street's biggest banks are split on two AI chip stocks. Here's why they're backing Marvell Technology while remaining cautious on Intel.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/wall-street-bullish-on-one-chip-stock-and-bearish/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UDHWQadTozF3ccHpIkYP3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b8098b32f6bf8ee94a1f4f666878625",
-      "published_at": "2026-07-12T17:18:00Z"
     },
     {
       "id": "c306a183-2d55-3e9f-b1be-44aea50cd958",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-says-bull-market-145836602.html",
       "thumbnail": "",
       "published_at": "2026-07-12T14:58:36Z"
-    },
-    {
-      "id": "6b055c38-5863-3acf-a00b-2b8b0d529deb",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Says Tesla Robot Will Be ‘Biggest Product of All Time’ — ‘Nothing Will Even Be Close’ but China Is Toughest Rival, ‘No Two Ways About It’",
-      "summary": "The next product race may not be fought on the highway. If Tesla and Space X CEO Elon Musk is right, it will play out on factory floors, in warehouses and eventually inside homes, where humanoid robots could become as...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-tesla-robot-143135307.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o60V9iqVl4azdsy.8ip_8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/eaa61ea5d0d52a3fad35e09e6ba72d56",
-      "published_at": "2026-07-12T14:31:35Z"
-    },
-    {
-      "id": "9815f685-b552-3675-8f95-a33a30dee554",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller",
-      "summary": "We recently published Bill Miller Portfolio: Top 10 Stock Picks. Nabors Industries Ltd. (NYSE:NBR) is one of the top stock picks. Nabors Industries Ltd. (NYSE:NBR) is a large oil and gas drilling company with operations all over the world. The shares are up by 140% over the past year and by 48% year-to-date. RBC Capital […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nabors-industries-ltd-nbr-top-142403732.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3jl5k8DSpo15.9WzRCP6kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/526f61194a7af8782131e15778bacf1a",
-      "published_at": "2026-07-12T14:24:03Z"
-    },
-    {
-      "id": "c8564590-105d-3acb-b4c1-d9980242ad7e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Crescent Energy Company (CRGY) Is A Top Stock In Miller Value Partners’ Filings",
-      "summary": "We recently published Bill Miller Portfolio: Top 10 Stock Picks. Crescent Energy Company (NYSE:CRGY) is one of the top stock picks. Crescent Energy Company (NYSE:CRGY) is a mid sized oil and gas exploration and production company. Its shares are up by 2.4% over the past year and by 11% year-to-date. Raymond James discussed the firm […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-company-crgy-top-142340318.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UPadBGHyLGahmxyDkvBY9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/333c3048829bf721bed46d336ee0af0b",
-      "published_at": "2026-07-12T14:23:40Z"
-    },
-    {
-      "id": "15ca4938-0e28-3a83-b32f-c44eea15a058",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
-      "summary": "Dividend-focused investors have made Vanguard High Dividend Yield ETF (NYSEARCA:VYM) one of the largest yield-tilted funds available, with $78.33B in assets and 618 holdings spanning U.S. large-cap dividend payers. VYM’s appeal is straightforward: broad diversification, a very low fee, and a portfolio built around the FTSE High Dividend Yield Index. For an investor who wants ... Stop Settling for VYM. This Fund Yields More, Costs 0.06%, and Beat the S&P",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/12/stop-settling-for-vym-this-fund-yields-more-costs-0-06-and-beat-the-sp/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ts5_wIu0OvGSoZ95rGyrdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bd8b3b8c2c3ddad288bb62950051255b",
-      "published_at": "2026-07-12T14:09:25Z"
     }
   ]
 }
