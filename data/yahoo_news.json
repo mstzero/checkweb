@@ -1,51 +1,161 @@
 {
-  "last_updated": "2026-07-12 11:56 UTC",
+  "last_updated": "2026-07-12 13:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "77adabe9-fdfa-3750-a5d4-006cc8f5bc0d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "These 5 Optical Chip Stocks Are Cashing in on AI Data Center Bandwidth",
+      "summary": "AI data centers are hitting a bandwidth wall, and the companies supplying the glass to break through it are posting revenue growth that copper simply cannot match. Five optical chip names are quietly stacking the picks and shovels before the next round of hyperscaler spending hits.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/12/these-5-optical-chip-stocks-are-cashing-in-on-ai-data-center-bandwidth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NZBgAWD1g_WLqpF9WUQ_qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/394819492ce2bd0fb33391e3ad11b577",
+      "published_at": "2026-07-12T13:00:20Z"
+    },
+    {
+      "id": "c253d51b-0aa4-3173-9235-9dac3c3581df",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SK Hynix Joins the Nasdaq. But This Nasdaq-100 Semiconductor Stock Could Be an Even Better Buy for the Second Half of 2026.",
+      "summary": "ASML's lithography machines are needed to manufacture advanced logic and memory chips for AI workflows.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/sk-hynix-joins-the-nasdaq-but-this-nasdaq-100-semi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KMLqjmm9RkyerswCHaH1SA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/25e6f18446ddc6c978771d2ba3c8cabb",
+      "published_at": "2026-07-12T12:57:00Z"
+    },
+    {
+      "id": "351090d9-81bf-353d-bd3f-316fb55f1598",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Peter Schiff Says Wall Street's Bitcoin Bulls ‘Won't Put Money Where Their Mouth Is,’ Cites Strategy's Widening Discount",
+      "summary": "Peter Schiff tied the skepticism to Strategy's roughly $230.3 million in Bitcoin sales, a reversal of Saylor's \"never sell\" stance.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/btc-schiff-wallstreet-bulls-wont-put-money/cZmDSZvR7o3",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1fkM5kzfTgo4HotyOEkPyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/36ebecc3b59fd220f3aa4f3a1238b00e",
+      "published_at": "2026-07-12T12:55:37Z"
+    },
+    {
+      "id": "6b48e1f6-e72f-316c-b17e-e584bb1c35a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Inflation Can Quickly Erode Your Portfolio's Value: This Is the ETF Type I'm Counting On as a Hedge Against That Happening",
+      "summary": "Inflation is sneaky, but here's a way you can help protect your investments.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/inflation-can-quickly-erode-your-portfolios-value/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eATeEpfrVICqW2t3IiyWqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e6a2d4316390256a077718f85ea6f59",
+      "published_at": "2026-07-12T12:50:00Z"
+    },
+    {
+      "id": "57fd7298-a916-30d5-b100-d70ab615366f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here’s Why NVIDIA (NVDA) is One of the Best Quality Stocks to Buy According to Wall Street Analysts",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the best quality stocks to buy according to Wall Street analysts. On July 8, NVIDIA announced that its Nemotron 3 Ultra model achieved benchmark-leading performance when paired with LangChain’s Deep Agents harness. By optimizing the surrounding environment rather than retraining the model, the integration reached task parity with top-tier […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-one-best-124242223.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EdT5YIEN0zIhdKrc3faeeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a99fb68631ca24eb25c6859d7e68279b",
+      "published_at": "2026-07-12T12:42:42Z"
+    },
+    {
+      "id": "f8076f9e-dc58-3f9f-8575-b51943184122",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Nebius Rocketed 230% in the First Half of 2026",
+      "summary": "Nebius outperformed all other \"neoclouds\" amid stellar execution and large deals.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/why-nebius-rocketed-230-in-the-first-half-of-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R96ur9rA8TiCQsZtVS1qWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b1bb1c37a1d5f6bd62f90d07c53b3e1",
+      "published_at": "2026-07-12T12:40:00Z"
+    },
+    {
+      "id": "1cbcf43c-42fa-3b84-8401-06dcf0e54a9a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett Is Piling Up Cash as the Stock Market Wobbles. Here's What That Tells Investors.",
+      "summary": "Berkshire's cash hoard has never been this large. The reason behind it says more than the number does.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/warren-buffett-is-piling-up-cash-as-the-stock-mark/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/22TSDchzlWEI3yQNNCn3Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/71881815d8bd22a23cdc148e4de3e0c5",
+      "published_at": "2026-07-12T12:34:00Z"
+    },
+    {
+      "id": "fbc3ad56-7c6f-33c2-b5c6-530f3057acc8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "5 Power Chip Stocks Built for the Electrification Surge",
+      "summary": "Silicon carbide and gallium nitride are the choke points in a $trillions electrification wave, and five U.S.-listed chip makers are already collecting the toll. One just survived bankruptcy court, and another trades like a call option on the entire NVIDIA 800V build-out.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/12/5-power-chip-stocks-built-for-the-electrification-surge/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h2N3IcpBXkIk1Bf0FineNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4674d73cefa467b4d874845447cd69a4",
+      "published_at": "2026-07-12T12:30:24Z"
+    },
+    {
+      "id": "d05307fe-9113-4eaf-b33b-3eea180de663",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Coinbase, Lyft, and Axon prove there's more going on in markets than the 'Magnificent 7'",
+      "summary": "There's more happening in the investor world than Micron, Nvidia, and earnings season.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/coinbase-lyft-and-axon-prove-theres-more-going-on-in-markets-than-the-magnificent-7-123000539.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/soo2cJD3IMrgpnnux8lG1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/1d615e42-babd-4969-94c2-91223b8dc440",
+      "published_at": "2026-07-12T12:30:00Z"
+    },
+    {
+      "id": "9a5c2d69-aa6f-37cd-af89-c50bccf8c78b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Coca-Cola Just Declared Its 64th Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
+      "summary": "It's one of the best dividend stocks on the market.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/coca-cola-just-declared-its-64th-dividend-increase/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d5N6eSqGduYY3JY5iB7j4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/68b4c8746c971723cb1f69badf27c9ae",
+      "published_at": "2026-07-12T12:27:00Z"
+    },
+    {
+      "id": "20514f79-580e-390d-8328-afcacbc9f065",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia vs. SanDisk: 1 Valuation Gap Jim Cramer Says Is the Most Insulting Trade in Semiconductors Right Now",
+      "summary": "Jim Cramer called it insulting on live television, and the numbers suggest he has a point. Two semiconductor companies just posted blowout quarters, but the market is pricing the commodity supplier at a premium over the GPU monopoly.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/12/nvidia-vs-sandisk-1-valuation-gap-jim-cramer-says-is-the-most-insulting-trade-in-semiconductors-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ne1WKbtvdXZprL98aROyZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/907c03bbdcaf291628bbb4deb478746c",
+      "published_at": "2026-07-12T12:25:15Z"
+    },
+    {
       "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Market Sets Up But U.S., Iran Launch Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "summary": "Taiwan Semi, Goldman and GE Aerospace are big earnings due with the market improving. Nvidia, Sandisk, Micron, Robinhood are near buy points.",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "summary": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
-      "published_at": "2026-07-12T11:42:36Z"
+      "published_at": "2026-07-12T12:23:17Z"
     },
     {
-      "id": "ca98daa6-4dfe-3940-9d39-1d55f68be6bb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell Without Losing Them?",
-      "summary": "Execution will be key if Capital One wants to make the most of its Discover acquisition.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover-cards-to-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pXYi3GhhlVog0HkGuIUB9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1fed045f131cc41f55269771255cd6e2",
-      "published_at": "2026-07-12T11:35:00Z"
+      "id": "5307851d-6fe0-3b7e-8e4b-1a76bf8b91f4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Geopolitical Risk Returns as Oil and Bond Yields React: What Markets Are Watching",
+      "summary": "Concerns over geopolitical risk have returned to the forefront after the fragile ceasefire between the United States and Iran appeared to unravel following a new exchange of military strikes. President Donald Trump said on Wednesday that he believes the ceasefire and interim agreement are “over,” adding that although U.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/31648/geopolitical-risk-returns-as-oil-and-bond-yields-react-what-markets-are-watching",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8LDyi73wAAbI.Y.lyTPNPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/db0f30e41a22e2a8bcef13d69663b7df",
+      "published_at": "2026-07-12T11:59:00Z"
     },
     {
-      "id": "5b2b01d6-4ce9-3663-9942-45689cf0317a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Morgan Stanley Warns of \"Chipflation\" as Hyperscalers Invest More in Compute Capacity: 2 No-Brainer Artificial Intelligence (AI) Chip Stocks to Buy Right Now",
-      "summary": "Research analysts from the investment bank recently published a report outlining some key themes surrounding the AI chip market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/chipflation/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ncPy4qTJCN7PGEmBf.vJHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9a1c30ccb33137c76ed41ce4a623ca41",
-      "published_at": "2026-07-12T11:34:00Z"
-    },
-    {
-      "id": "9d9b7771-7486-3fbd-a9d4-d0e7ab707629",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The 3 Top Chip Stocks Investors Own on Robinhood",
-      "summary": "Here's how more than 27 million Robinhood investors are leaning into chip stocks to play the AI race in their portfolios.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/the-3-top-chip-stocks-investors-own-on-robinhood/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3b9K44RHPeSUgU55QLi4jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/48b779fcb9a43fa8b453dc41f2ffd6e1",
-      "published_at": "2026-07-12T11:20:00Z"
+      "id": "cb1bc440-890a-3546-a9a5-d841a235e12e",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "The first 5 years of retirement decide everything — especially with Trump in the White House. Foolproof your riches now",
+      "summary": "Early retirement is a make-or-break window for the rest of your golden years. Here’s how you can get it right.",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/articles/first-5-years-retirement-decide-114500926.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vd6a0qxOToyzuiU8GmtJzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/7c8c6b605a68b4df95f5da616d0dd103",
+      "published_at": "2026-07-12T11:45:00Z"
     },
     {
       "id": "cbc8f1e2-22fd-3d59-8b08-7e85f0f4c81f",
@@ -70,17 +180,6 @@
       "published_at": "2026-07-12T11:10:00Z"
     },
     {
-      "id": "605265d2-e9b3-3501-841d-dff716bd1a75",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Fed Chair Kevin Warsh Sends a Blunt Warning to Wall Street. What Should Investors Do?",
-      "summary": "New Fed chairman Kevin Warsh has made it clear that he is not here to rescue stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/fed-chair-kevin-warsh-send-warning-wall-street/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vo8XjBjctanTtDwO5QbGXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/621797341be3e42fd2f717e22862cb99",
-      "published_at": "2026-07-12T11:05:00Z"
-    },
-    {
       "id": "8e5d55ee-12e2-34a3-84cb-72dd747df0b7",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -92,50 +191,6 @@
       "published_at": "2026-07-12T11:02:44Z"
     },
     {
-      "id": "02cd1998-e59f-3532-9257-352b24d0660e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Stock Market Is on the Verge of Doing Something That's Never Been Observed in 155 Years -- and It Has Worrisome Ramifications for Wall Street",
-      "summary": "A history-making moment may be imminent for Wall Street -- unfortunately, it's not the good kind.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/stock-market-do-something-in-155-years-wall-street/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hbLnCq029uQi0srhbW6gaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82998e8ddd7151386bd5b50de3fce9f7",
-      "published_at": "2026-07-12T10:56:00Z"
-    },
-    {
-      "id": "89204f63-940d-3ee3-916c-57e182a37845",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Vanguard ETFs Poised to Outperform as the Market Shifts Beyond Big Tech",
-      "summary": "It may be time for investors to start making some more sweeping strategic shifts with their portfolios.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/3-vanguard-etfs-poised-to-outperform-as-the-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wJKPBvzKFAWn8l82ObJ5lw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d27ce25037ef2937654411f219c26aa3",
-      "published_at": "2026-07-12T10:50:00Z"
-    },
-    {
-      "id": "79858a55-8b9e-3780-a9dc-94c2fe9cce3b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Dividend Stocks Worth Holding for the Long Haul",
-      "summary": "The three master limited partnerships are great long-term holdings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/3-dividend-stocks-worth-holding-for-the-long-haul/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/esRkhBQijJVgQoPNGqUIUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c79435e3b2c05bca7ee2bcfe03ae97a",
-      "published_at": "2026-07-12T10:35:00Z"
-    },
-    {
-      "id": "36a48963-2806-318e-9193-8c4dbe566dc4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Just Joined the Nasdaq-100. Is It Time to Buy?",
-      "summary": "The company's inclusion in the index failed to ignite much of a rally in the stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/spacex-just-joined-the-nasdaq-100-is-it-time-to-bu/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/81DU3qUMYwTMcn2HjaxtRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a393d9f4a99bc6cad4bef392477ed5c5",
-      "published_at": "2026-07-12T10:32:00Z"
-    },
-    {
       "id": "cf2e2b7d-a5e0-378e-92a0-1b131767fdea",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -145,17 +200,6 @@
       "url": "https://beincrypto.com/bitcoin-risks-former-meta-google-engineer-warns/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4a8xY_ydpwzhgQ3AcRV4kA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/784554d226753216ebc5654d8ebe1d35",
       "published_at": "2026-07-12T10:30:00Z"
-    },
-    {
-      "id": "aef801e2-25f2-328a-bd3f-4ff203cd05ca",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Reasons SoundHound AI Stock Could Keep Climbing",
-      "summary": "The company's bold bet is that voice assistants can become digital agents to do real-world tasks, a shift that could determine whether this speculative AI stock has much more room to run.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/3-reasons-soundhound-ai-stock-could-keep-climbing/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NP8c6CjlmBMIBUBLdFZM.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bc2156808756e574f42a85698bf25a82",
-      "published_at": "2026-07-12T10:25:00Z"
     },
     {
       "id": "2c8cba3a-c79f-37f3-b99a-6fdb6d5a06bd",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/3-reasons-bitcoin-stuck-bear-070000496.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RPqBpAm0qY1fqh2LFns1_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/946750fc748920865b448994bf037ad7",
       "published_at": "2026-07-12T07:00:00Z"
-    },
-    {
-      "id": "9dfd2af3-25e7-3528-9dde-4b988afb4944",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "More tech workers are retiring early because they don’t want to deal with AI-related changes: ‘Many people believe it’s overblown’",
-      "summary": "“For tech people, one of the distinctive features is that the learning curve of getting up to speed on a new technology can be a lot of effort,” one retirement expert said.",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/technology/ai/articles/more-tech-workers-retiring-early-070000172.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Fuosg3R2KwyDBd8aNZeUbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/a715930bd9db255147a603221e68a2f2",
-      "published_at": "2026-07-12T07:00:00Z"
-    },
-    {
-      "id": "4890ee8f-7be3-3f3f-a32e-d4b9d018d4ce",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Big Tech’s Massive AI Spending Is Just Starting. Earnings Will Show It.",
-      "summary": "Analysts expect Alphabet’s second-quarter capital expenditures to reach $44.9 billion, a 100% increase from the prior year period.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/amazon-alphabet-big-tech-stocks-earnings-ai-2c8774f5?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sS.In65TvYkNA22IQsOOCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d57028a796539aad0506ba0df74347a6",
-      "published_at": "2026-07-12T07:00:00Z"
-    },
-    {
-      "id": "acd915e7-da43-3fa3-a6f8-fb84948c24f6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Is Bitcoin a Good Crypto for Long-Term Investors?",
-      "summary": "The current bear market is testing the patience of this top digital asset's biggest bulls.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/is-bitcoin-a-good-crypto-for-long-term-investors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FBAdbfRzvTUIj7Z6SX7kag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f16b27fd92fe39a43172538b1a794405",
-      "published_at": "2026-07-12T06:01:00Z"
-    },
-    {
-      "id": "e67e0e18-c4ca-3b86-be2c-94bccf78557f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "This Data Center IPO Is the Next Big Test for the AI Trade",
-      "summary": "Csquare, a data center operator backed by Brookfield, is going public as investors are growing skeptical about AI and IPOs.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/csquare-ipo-data-center-ai-stock-574e67b9?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J5u0ZnOOGxMPTepK8e9sOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b93a782bd3336fbe9336c6ee6acd27fb",
-      "published_at": "2026-07-12T05:30:00Z"
     }
   ]
 }
