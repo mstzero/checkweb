@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-12 23:25 UTC",
+  "last_updated": "2026-07-13 01:02 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "967e102c-4fd9-3251-9f3f-1d87044bf039",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Strategy Stock Collapsed In The First Half of 2026",
+      "summary": "The company's Bitcoin accumulation strategy is beginning to unravel.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/why-strategy-stock-collapsed-in-the-first-half-of/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QTyXEJUXxoFEofaApHxeMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bd472b626a8579a451fe5152aff1a42e",
+      "published_at": "2026-07-13T00:50:21Z"
+    },
+    {
+      "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "summary": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
+      "published_at": "2026-07-13T00:48:10Z"
+    },
+    {
+      "id": "9a1a1a4f-abda-36bc-914f-09a8ed12b7b3",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dollar jumps on renewed Middle East attacks, Hormuz closure",
+      "summary": "By Gregor Stuart Hunter SINGAPORE, July 13 (Reuters) - The dollar jumped against most of its peers as a renewal of conflict in the Middle East fanned inflation fears and the prospect of rate hikes",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-jumps-renewed-middle-east-004051619.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dbl1a.y3f0hz6jF._dFWHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a8894f6ba24fa327760a41cb01f9b380",
+      "published_at": "2026-07-13T00:40:51Z"
+    },
+    {
+      "id": "60b0cced-336e-3de6-b84d-bd655bd7886d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "401(k) Champions and Soaring Value Stocks",
+      "summary": "Most of the education about work-sponsored retirement plans comes from the employer or the plan provider. But what if you could be a source of knowledge too?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/401k-champions-and-soaring-value-stocks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4lvrsYzje8u5cEn0dy5K_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ee5b9b95486ae064de1730d83c865204",
+      "published_at": "2026-07-13T00:32:48Z"
+    },
+    {
+      "id": "0d047058-5b29-333c-b79c-e9b6b5ee4b88",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Vanguard ETF Would Have Quadrupled Your Money Over the Last Decade. History Says Now Is a Smart Time to Invest. (It's Likely to Outperform SpaceX, Too.)",
+      "summary": "This fund has been a strong performer for a long time, and thanks to its diversification, it's less risky than many growth stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/vanguard-etf-would-have-quadrupled-your-money-voo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QSrEoLymy.b0zqFcI5cPmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/784b0b09f54d3ae5fc04b360ad13908a",
+      "published_at": "2026-07-13T00:21:00Z"
+    },
+    {
+      "id": "56f46d6a-a7c7-3088-b58b-bae253fbc56e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL) Sues OpenAI Over AI Hardware Trade Secrets",
+      "summary": "Apple (NasdaqGS:AAPL) has filed a federal lawsuit against OpenAI alleging theft of trade secrets tied to its AI hardware work. The complaint centers on claims that former Apple employees took confidential materials and shared them with OpenAI. The filing escalates a public feud involving senior tech leaders and highlights rising rivalry across AI hardware and software. Apple enters this legal fight while its stock trades at $315.32, with the company up 16.4% year to date and 49.9% over the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-sues-openai-over-001458718.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bU5AIomYRBg3WBNqAswADg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+      "published_at": "2026-07-13T00:14:58Z"
+    },
+    {
+      "id": "f56baaf5-2b17-33f8-b662-0ca4d986d9c9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stellantis Trails Its Rival on Key Metrics but Offers Compelling Upside for Patient Investors",
+      "summary": "Compared to its \"Detroit Three\" peers, Stellantis offers a stronger risk/reward proposition.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/stellantis-trails-its-rival-on-key-metrics-but-off/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dYqaBTINazwOb3d8DhhMow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/691192b0acd234b3aacad7097bccf55f",
+      "published_at": "2026-07-12T23:50:00Z"
+    },
+    {
+      "id": "f906d4b2-e97b-3815-aa32-9a205d066061",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here’s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
+      "summary": "The S&P 500 has delivered roughly 13% annualized returns over the past decade, one of the strongest bull runs in modern history. Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B), long the gold standard for patient capital, has matched that pace with about 13% annually over the same stretch. Impressive numbers for most investors. Yet both look like amateur hour next to the woman still serving out her final term in Congress: Nancy Pelosi.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uqX1lPvCKG5Zel1s1OQ0Ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/29970aec12c7e551827fdd2d128b61b4",
+      "published_at": "2026-07-12T23:15:27Z"
+    },
+    {
+      "id": "cce4b501-da22-30a0-801b-497665d6e044",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia (NVDA) Faces Class Action Over Meal Break And Expense Claims",
+      "summary": "Ongoing class action lawsuit alleges NVIDIA failed to provide required meal breaks to certain employees. The suit also claims the company did not properly reimburse employee business expenses. The case raises questions around NVIDIA’s labor practices, compliance controls, and potential legal exposure. NVIDIA, ticker NasdaqGS:NVDA, is facing this legal challenge while its stock trades at $210.96, following a very large 5 year return and a 364.9% return over 3 years. Over the past year, the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-faces-class-action-231429812.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aO.m6F7TtQB8yU2PeCFGfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e",
+      "published_at": "2026-07-12T23:14:29Z"
+    },
+    {
+      "id": "3732c5d5-df40-3734-a182-7389be7def3a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "1 Vanguard ETF That Has Never Let Long-Term Investors Down.",
+      "summary": "Recession fears are back. This boring, dirt cheap fund has survived every recession it has faced.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/12/1-vanguard-etf-that-has-never-let-long-term-invest/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cp8TF3yKueA0qi7yRAKg6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a15046b825c3cf2e1ececcb4f6f4724c",
+      "published_at": "2026-07-12T23:12:00Z"
+    },
     {
       "id": "e38c4424-7e70-3246-a9ad-d216ba244f43",
       "asset": "OIL",
@@ -13,6 +123,28 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/boj-may-raise-growth-forecast-230318971.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.s7qXB6vUsTzxOouFzXyuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/04cec695f836a8eb9477b3e13aafc528",
       "published_at": "2026-07-12T23:03:18Z"
+    },
+    {
+      "id": "70a30aa0-2d95-36a5-909e-292002582755",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer?",
+      "summary": "Most budgeting apps fail the same way: they’re either too rigid, too automatic, or too disconnected from how you actually think about money. You open them for two weeks, life gets busy, and by month three the app is just...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/articles/ive-tried-every-budgeting-app-230104437.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aOel5beILWQwkac_aXzSlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/da64585b90274558ab4cedd7c9a68d75",
+      "published_at": "2026-07-12T23:01:04Z"
+    },
+    {
+      "id": "a7443864-955d-3553-ad75-4436ff600443",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s ‘Thermonuclear’ Response to the OpenAI Threat",
+      "summary": "Apple’s suit against OpenAI under Tim Cook echoes a familiar playbook, betting that litigation can delay a rival from upending the iPhone era.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9QfXaGvPTdo.j3wTcrJIcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9f011c4f66266aca0f7fbbf999487484",
+      "published_at": "2026-07-12T23:00:00Z"
     },
     {
       "id": "8325a7f1-56a9-3cf5-ac99-6f77a498ed21",
@@ -26,28 +158,6 @@
       "published_at": "2026-07-12T22:50:00Z"
     },
     {
-      "id": "71cee622-94c1-3b8f-84b0-b63ec5522477",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is the \"Solana Summer\" Finally Here?",
-      "summary": "The chain's fortunes look like they're on the verge of improving.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/is-the-solana-summer-finally-here/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V5S_XHL2cUCkUwSPToJjyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0e16210ddd58b9618977c85d4a28e338",
-      "published_at": "2026-07-12T22:35:00Z"
-    },
-    {
-      "id": "082a233e-c56a-3b99-a968-08ce2bfc43f7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "summary": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqpei9RYydF6EOQ9R3lMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af29ffd2755319037ad2b4e57387fc84",
-      "published_at": "2026-07-12T22:34:53Z"
-    },
-    {
       "id": "38ef8796-0b30-3cbf-a2e3-a88d920e5cc9",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -57,17 +167,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/driving-sell-off-ai-related-222852681.html",
       "thumbnail": "",
       "published_at": "2026-07-12T22:28:52Z"
-    },
-    {
-      "id": "c1920cc5-080e-33e2-846d-1e415a939a00",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
-      "summary": "This trio is dominating the AI computing space.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/best-artificial-intelligence-ai-stock-amd-nvidia-o/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mFXHTVDBnktLjcV9iQm8GQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b5d77945870ca39e47dae29b0dee4340",
-      "published_at": "2026-07-12T22:25:00Z"
     },
     {
       "id": "dd8c50aa-a49b-303a-a9c0-fb27b599bde5",
@@ -92,50 +191,6 @@
       "published_at": "2026-07-12T21:45:27Z"
     },
     {
-      "id": "5a5c1ef8-0046-31b3-bb20-7441405e50b3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meet the Vanguard ETF That Has Crushed the S&P 500 Over the Last 10 Years",
-      "summary": "The Vanguard Information Technology ETF (VGT) has beaten the S&P 500 handily over the past decade. But it's been a wild ride.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/meet-vanguard-etf-crushed-sp-500-10-years-vgt/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hFevYr1vZNRkintb6VHK9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e46de0c0aa4d33aec3f41c76b4e8159e",
-      "published_at": "2026-07-12T21:43:00Z"
-    },
-    {
-      "id": "a404de91-3bcb-3ada-96fc-2cc8907d9a50",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Ken Griffin Boosted His Stake in This Dividend King by 146%. Here's Why It's a Dream Stock for Risk-Averse Investors.",
-      "summary": "Griffin is at the helm of the world's most profitable hedge fund.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/billionaire-ken-griffin-boosted-his-stake-in-this/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ReXbNIhFq3l28yXhz4AjzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5d23e79975d2a7811d113c80b65cd936",
-      "published_at": "2026-07-12T21:30:00Z"
-    },
-    {
-      "id": "44261520-9836-369c-a2e6-2aaaff3307e5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is PayPal Stock a Bargain or a Value Trap?",
-      "summary": "PayPal has lost 85% of its value over the past five years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/is-paypal-stock-a-bargain-or-a-value-trap/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wu26_ftpoToNlOGnSY.atg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/875a5593042d90c0233e6f551ec690b5",
-      "published_at": "2026-07-12T21:20:00Z"
-    },
-    {
-      "id": "7f521da2-0bec-3cb4-9b6d-4610c19de53c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Retiring with $1.2 Million? Here's How to Avoid Running Out of Savings",
-      "summary": "The right strategy is crucial if you want your money to last.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/retirement/2026/07/12/retiring-with-12-million-heres-how-to-avoid-runnin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FfJnEpkw8Ks55nDKcnZtEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f10843a21bb072d1e6c54266d43b262b",
-      "published_at": "2026-07-12T21:09:00Z"
-    },
-    {
       "id": "a3e533e2-258b-3d4b-8b31-909a73f034a1",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -145,17 +200,6 @@
       "url": "https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk-spacex-tesla/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3Dczu4WJYvqOL0kPjZB4CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/92631501da1e8d1c57b4e995e696f2d3",
       "published_at": "2026-07-12T20:50:00Z"
-    },
-    {
-      "id": "2f899e9d-a706-3b68-896a-6b2435ab3483",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: SpaceX Shares Can Reach $220 by End of 2026",
-      "summary": "SpaceX's share price by the end of 2026 depends on whether investors continue to value the company based on its future revenue potential.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/predict-spacex-shares-can-reach-220-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Umc8RPPjztuVUQFQT3WVkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/75a95c4e54fec8ebe161bab65da1af93",
-      "published_at": "2026-07-12T20:40:00Z"
     },
     {
       "id": "4d526454-5d2f-3ecb-80ab-783d9c334ae0",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-ag-receives-075944774.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oALdkYiSxKcFci0F_WdR8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0b039d8987d1d0e2cc26f01f11cf038f",
       "published_at": "2026-07-12T17:26:44Z"
-    },
-    {
-      "id": "5dc17372-b4dd-3f9a-81ff-9767b6b7e7a8",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The 1 AI Stock I'd Buy and Hold for the Next Decade",
-      "summary": "My pick isn't the market's hottest AI name -- and that's the point.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/12/the-1-ai-stock-id-buy-and-hold-for-the-next-decade/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yGJv5kx3jNnZ0NYC4IqljA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4c7cfb27d29c442fce10d7c57dbe2007",
-      "published_at": "2026-07-12T17:23:00Z"
-    },
-    {
-      "id": "07c834a5-f175-3cd5-af2d-6a10d7f34d1d",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dakota Gold (DC) Reveals Encouraging Data for Richmond Hill Oxide Heap Leach Gold Project",
-      "summary": "Dakota Gold Corp. (NYSE:DC) is one of the 15 best NYSE penny stocks to buy according to hedge funds. On July 6, Dakota Gold Corp. (NYSE:DC) disclosed extra assay results from its 2026 drill campaign at the Richmond Hill Oxide Heap Leach Gold Project. This campaign amounted to 17,273 meters of drilling in 112 holes […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/dakota-gold-dc-reveals-encouraging-172125301.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B7tup.cclZVNVu5hmQvK6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/50e873fe145ca02746e2207bfdf9e6d8",
-      "published_at": "2026-07-12T17:21:25Z"
-    },
-    {
-      "id": "2c6df1f2-7b41-391c-9a6e-560b6f938018",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Integra Resources (ITRG) Reveals Encouraging Technical Report For Florida Canyon Mine",
-      "summary": "A recent feasibility report around the Florida Canyon Mine is inspiring confidence in Integra Resources Corp. (NYSE:ITRG), which is one of the 15 best NYSE penny stocks to buy according to hedge funds. On June 25, Integra Resources Corp. (NYSE:ITRG) disclosed its latest Technical Report covering its Florida Canyon Mine, based in Nevada. The company […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/integra-resources-itrg-reveals-encouraging-172114080.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZCl6sdamDuNldyF1jBTcXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/10ed55c4506cd5aa374eedb44ce4bc85",
-      "published_at": "2026-07-12T17:21:14Z"
-    },
-    {
-      "id": "0e417dc9-69bd-345f-904f-4527ec48c15c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "If you invested $10,000 in gold, Bitcoin, silver and oil when Khamenei was killed, here's how much you'd have today",
-      "summary": "Four and a half months later, here is what $10,000 placed in each of five assets that Friday afternoon would be worth today. Two of the five made money, and neither of them is the one that was supposed to. For context, this is how this was calculated: Prices are closing levels on Friday, ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/if-you-had-invested-10000-in-gold-bitcoin-silver-and-oil-when-khamenei-was-killed-heres-how-much-youd-have-today",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FsM0VLxHcfZj0ayxvz6xBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d6b5b8c4f5666715d795348ccba5127d",
-      "published_at": "2026-07-12T17:18:20Z"
     }
   ]
 }
