@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-07-18 21:13 UTC",
+  "last_updated": "2026-07-18 22:13 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "117868d3-9361-36f5-a497-e442c74e9996",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
+      "summary": "Nvidia isn't the best AI stock to buy anymore, and these three picks prove it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/3-ai-stocks-that-can-outperform-nvidia-next-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zQNM4QHgmtdTRhi.97oCug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/092d55dcd62684c516d3ad463d7b1a1b",
+      "published_at": "2026-07-18T21:56:00Z"
+    },
+    {
+      "id": "ed5a83d7-6336-3f70-b328-8fc194f4844c",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+      "summary": "A viral clip claims collectibles crush the stock market using 20 years of returns, but a financial advisor spotted a flaw in the comparison so fundamental he called it a math crime. The numbers only hold up if you never ask where they came from.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/18/pokemon-cards-beat-the-sp-500-by-2-5x-but-the-math-is-a-lie/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hY_SQREmWTIMZDwxV8r8KA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fa954babace1c00569ea7264ec96ea08",
+      "published_at": "2026-07-18T21:45:00Z"
+    },
+    {
+      "id": "c0a58a0c-a994-30ce-9a25-e076eaf6debe",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look Like?",
+      "summary": "The streaming giant made patient shareholders a lot of money. But can it keep compounding from here?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/netflix-stocks-last-decade-was-spectacular-but-wha/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VtsI2vB7vR83GRTP4bMJqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7e3567db929baee63b4a1baa4897a2d3",
+      "published_at": "2026-07-18T21:43:00Z"
+    },
+    {
+      "id": "51f81617-8709-3ce1-bf93-304b6a368ead",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Intuitive Surgical Stock Dropped This Week",
+      "summary": "The robot-assisted surgery pioneer's growth could be decelerating.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/why-intuitive-surgical-stock-dropped-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5Y3iO3xJ2VWDO5Ol6b6rIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f49e7c667da9de8bfd64917a0e9c2f62",
+      "published_at": "2026-07-18T21:41:17Z"
+    },
+    {
+      "id": "471de402-9ce2-3d5b-a3fc-b1f4f4d0a9a9",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Equal-Weight Strategy RSP Could Outrun SPY if This Macro Shift Continues",
+      "summary": "RSP is beating SPY for the first time in years, but two specific signals will determine whether equal-weight strategies keep their edge or surrender it back to the mega-caps before year end.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/18/equal-weight-strategy-rsp-could-outrun-spy-if-this-macro-shift-continues/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kQx4YXk9sNkJIrl7xs6_IA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8b7db7fd51871990cca8825ca5d8d8d5",
+      "published_at": "2026-07-18T21:11:03Z"
+    },
+    {
+      "id": "3ad528df-af5f-325a-bdd9-a59d249d1846",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Bank of America revamps Tesla forecast before earnings",
+      "summary": "Tesla (TSLA) CEO Elon Musk, whom JPMorgan CEO Jamie Dimon once called “our Einstein\", has had plenty on his plate lately. SpaceX’s (SPCX) latest Starship launch was aborted, sending the stock tumbling below its IPO price to $123.99 on Friday, 45% below its post-listing peak, according to ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/bank-of-america-revamps-tesla-forecast-before-earnings",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pEdqvPgwxU70P5gjmATzUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1234a50981d4b869a362b4ca5155fe9f",
+      "published_at": "2026-07-18T21:06:00Z"
+    },
     {
       "id": "1c29ae09-e350-3858-92da-d9a0b52c7837",
       "asset": "NVDA",
@@ -81,28 +147,6 @@
       "published_at": "2026-07-18T19:36:00Z"
     },
     {
-      "id": "ac9ab323-8597-35ee-8b99-b7fb3642f5e6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
-      "summary": "That's great news for investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/jpm-ceo-jamie-dimon-ai-spending-reach-trillion/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zhxvc1f.fDOfPYwfytZg_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc90fd285d7b8380e2e8613c5e233263",
-      "published_at": "2026-07-18T19:23:00Z"
-    },
-    {
-      "id": "31e12284-6046-30a0-aa4e-9d766eab2e5f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Is in Talks on a Multibillion Dollar Defense Contract. Here Is What It Means for Investors",
-      "summary": "SpaceX is in talks with the Pentagon over a multi-billion-dollar AI computing deal. Could this be the contract investors have been waiting for?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/spacex-is-in-talks-on-a-multibillion-dollar-defense-contract-here-is-what-it-means-for-investors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/033a392QkuDevHFwkUSe9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8ec6443afcf9a9d044d7148204545fbd",
-      "published_at": "2026-07-18T19:20:01Z"
-    },
-    {
       "id": "1ed48206-e8c9-3945-ae2c-8e4eef7e5e0e",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -123,28 +167,6 @@
       "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-cuts-9-000-190703168.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fNZOGYehJvXQf0L3V7Zs3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e629b5955390014615f0bd890cb3e1dc",
       "published_at": "2026-07-18T19:07:03Z"
-    },
-    {
-      "id": "2cd6fced-1271-3d10-8e4e-0dfbc760cfe3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
-      "summary": "Oklo stock has plummeted in 2026, in spite of the company's positive progress. This is the buying window long-term investors have been waiting for.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/this-nuclear-stock-is-down-46-and-its-a-screaming/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wUyVIYclHuAt6Q32OaDirw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
-      "published_at": "2026-07-18T19:05:00Z"
-    },
-    {
-      "id": "c0b839bd-0025-38dd-85f1-b32089b8d2d3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500",
-      "summary": "Both ETFs are on the positive end of economic conditions that they may not have predicted earlier.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/2-vanguard-etfs-using-momentum-to-outpace-sp-500/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nhJyNH56pzsPvstS78Awdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b22df43c1d8b5de6cf7e24b57d640ec5",
-      "published_at": "2026-07-18T18:50:00Z"
     },
     {
       "id": "1c0f8e03-ba55-32e6-99a0-259328befb03",
@@ -202,6 +224,17 @@
       "published_at": "2026-07-18T17:01:00Z"
     },
     {
+      "id": "bf520539-2252-30a5-8bcf-5defbf87c28b",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Ethereum Price Prediction: Thin Volumes Increase Risk of a Drop Below $1.8K",
+      "summary": "Ethereum is struggling to sustain its rally above the $1,800 support level as thin trading volumes and fading momentum suggest the current price action may be another short-lived recovery.",
+      "source": "FX Empire",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-thin-volumes-163433731.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H3FB8QSM4A5AU_4SSCsybQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/2e71e8cc91942de5e1cbbfc3030f4861",
+      "published_at": "2026-07-18T16:34:33Z"
+    },
+    {
       "id": "d6a73500-0971-38e7-abbf-6a519b04c68f",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -222,6 +255,17 @@
       "url": "https://247wallst.com/investing/etf/2026/07/18/the-ai-capex-question-every-qqq-holder-should-be-asking-right-now/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w6A8grA6QvwizYuCqZdl0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d",
       "published_at": "2026-07-18T16:11:00Z"
+    },
+    {
+      "id": "2410d36d-00bf-3fa0-b8f2-9c5b7c3e6da2",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Multiple Compression Is a Real Threat to Microsoft Stock, But Its Core Story Isn’t Broken",
+      "summary": "Citi cut its Microsoft price target from $620 to $570 while maintaining a 'Buy' rating, citing ongoing software multiple compression after the stock dropped 10%.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3349264/multiple-compression-is-a-real-threat-to-microsoft-stock-but-its-core-story-isnt-broken",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j88nvPaLdbhkqhuDccFekA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/91294aaacdd7339f5d87cfb430fbeba2",
+      "published_at": "2026-07-18T15:45:02Z"
     },
     {
       "id": "d70fcfb8-d8c3-3620-93b6-c47de3bf7b06",
@@ -266,50 +310,6 @@
       "url": "https://www.fool.com/coverage/etfs/2026/07/18/gold-s-returns-are-shining-is-it-better-to-invest-with-a-physical-gold-or-mining-stock-etf-in-2026/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZfWYPxtZdIUBUe.BiWy_Lw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5419adddb59219a2b0ebacb6b916c55b",
       "published_at": "2026-07-18T15:00:01Z"
-    },
-    {
-      "id": "f78db0da-283c-338b-a11d-ed51b90fe753",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "4 Covered Call ETFs to Buy in 2026: Skip XYLD’s 0.60% Fee for Cheaper Alternatives",
-      "summary": "XYLD has a loyal following and a 10% yield, but a growing roster of covered call ETFs undercuts its fee while offering features it simply cannot match. Before committing capital, knowing exactly where each fund wins and loses changes everything.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/18/4-covered-call-etfs-to-buy-in-2026-skip-xylds-0-60-fee-for-cheaper-alternatives/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FN_N_frdb5C3pRVB4FK0XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cbecd1beefd2c063c7701d81e6e026ca",
-      "published_at": "2026-07-18T14:55:03Z"
-    },
-    {
-      "id": "28d8e9be-932f-3982-8f15-6b7d3cd93cf7",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "BofA sees lost year taking shape for gold",
-      "summary": "Gold’s 2026 story was mostly supposed to be how high the safe-haven trade could potentially run. For context, the shiny yellow metal soared roughly 63% in 2025, according to LBMA benchmark data, the strongest annual gain in more than four decades. Lately, though, the bull case has been ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/gold-prices-bank-of-america-correction-forecast",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PbXeOj7vaAP7KCeZea2mVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0cce7c0fd65000f62c5ac09a3a8d31c1",
-      "published_at": "2026-07-18T14:37:00Z"
-    },
-    {
-      "id": "455c2215-fa21-3123-8242-26ff31440ba8",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Buy Any Month, Always Hedged: The ETF Built for Investors Who Bail at Every Dip",
-      "summary": "A $10 billion ETF was built specifically for the investor who sells at every dip and buys back too late, and the way it solves that problem reveals something uncomfortable about how most people actually experience the market.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/18/buy-any-month-always-hedged-the-etf-built-for-investors-who-bail-at-every-dip/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SgyGpI00qdmIqr53xuHhWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/93b661885c1df126249ae8566feec129",
-      "published_at": "2026-07-18T14:32:32Z"
-    },
-    {
-      "id": "117ba6c9-4012-3c85-acda-179cc9eff8a4",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
-      "summary": "Tesla has pulled back sharply from its December highs, leaving investors to weigh a stock priced for perfection against a wave of catalysts that could rewrite the bull case entirely.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/18/price-prediction-tesla-poised-for-12-rally-as-profit-margins-improve/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SHYRN2YQVm1PCiNg1VlOzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/94644384d105750eb7a5807ec7d89647",
-      "published_at": "2026-07-18T14:30:27Z"
     }
   ]
 }
