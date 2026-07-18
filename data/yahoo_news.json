@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-07-18 20:05 UTC",
+  "last_updated": "2026-07-18 21:13 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1c29ae09-e350-3858-92da-d9a0b52c7837",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What Do SpaceX, AMD, and Palantir Have in Common?",
+      "summary": "These three stocks are trading at expensive valuations.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/what-do-spacex-amd-and-palantir-have-in-common/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p_rSE9MOwdZ5AGp39VzLjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3f5c88d369e3fe84fd005c0f5fe0f206",
+      "published_at": "2026-07-18T20:33:00Z"
+    },
+    {
+      "id": "3ee1a5bf-2109-3c8d-86ea-ce77ff0c9422",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics Just Started Testing a Weight Loss Drug That Goes Beyond GLP-1",
+      "summary": "Viking's latest program seeks to push the envelope in weight loss efficacy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/watch-out-eli-lilly-and-novo-nordisk-viking-just/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9NqjvFZMMusS4DIi1Sza1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2a44695d192baf4ef63baf5ce2cd5a6f",
+      "published_at": "2026-07-18T20:05:00Z"
+    },
+    {
+      "id": "11e2b8b3-57b1-3b91-aff7-30ebf0e8427f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Jeff Bezos Spent $42 Million Building a 10,000-Year Cuckoo Clock That Ticks Once a Year — Calls It a ‘Symbol for Long-Term Thinking’",
+      "summary": "Most people struggle to plan next year’s vacation. Amazon an d Blue Origin founder Jeff Bezos helped build a clock designed to outlive entire civilizations. During an appearance on the \"Lex Fridman Podcast\" in 2023, Bezos explained why he spent...",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/lifestyle/articles/jeff-bezos-spent-42-million-200108839.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mfz1Jajh_zfpJXZcdKI9ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/d51a7178aebc7e2344b1c7b64bc8dbd7",
+      "published_at": "2026-07-18T20:01:08Z"
+    },
     {
       "id": "a716624e-8642-3ff9-bade-39ed3087da65",
       "asset": "NVDA",
@@ -112,17 +145,6 @@
       "url": "https://www.fool.com/investing/2026/07/18/2-vanguard-etfs-using-momentum-to-outpace-sp-500/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nhJyNH56pzsPvstS78Awdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b22df43c1d8b5de6cf7e24b57d640ec5",
       "published_at": "2026-07-18T18:50:00Z"
-    },
-    {
-      "id": "48bb19ac-ffeb-334f-a480-2a583f1af34c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors",
-      "summary": "Has the memory chip industry undergone a significant change over the past few years?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/investing-legend-john-templeton-has-a-warning-for/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lZeEVcTIxGJBzc9hYVCbJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f4a6459ff34102042822223c9b63c8b3",
-      "published_at": "2026-07-18T18:20:00Z"
     },
     {
       "id": "1c0f8e03-ba55-32e6-99a0-259328befb03",
@@ -288,28 +310,6 @@
       "url": "https://247wallst.com/investing/2026/07/18/price-prediction-tesla-poised-for-12-rally-as-profit-margins-improve/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SHYRN2YQVm1PCiNg1VlOzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/94644384d105750eb7a5807ec7d89647",
       "published_at": "2026-07-18T14:30:27Z"
-    },
-    {
-      "id": "5cdf51fa-0245-395e-8a75-52a14aae27c0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?",
-      "summary": "iShares dominates with $47B in assets, while VanEck undercuts on fees at 0.20% versus 0.25%. Which matters more for your portfolio?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/18/bitcoin-is-its-most-affordable-in-two-years-which-etf-is-better-to-invest-with-now-ishares-bitcoin-trust-etf-or-vaneck-bitcoin-etf/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bVxtRVkR0D50t9al224zPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5cfffef2918efe684d323f1f698b9d1",
-      "published_at": "2026-07-18T14:30:18Z"
-    },
-    {
-      "id": "15b4a54c-9c4f-3633-8d7a-8a375306883a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think",
-      "summary": "Tech giants now control nearly half the S&P 500, surpassing even dot-com bubble levels, and the AI spending race is raising uncomfortable questions about what happens when a handful of companies drive the fate of an entire index.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/18/the-sp-500-is-becoming-a-tech-index-in-disguise-but-that-may-not-be-the-risk-investors-think/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nTQab8MBlspb4GKX1sNupQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
-      "published_at": "2026-07-18T14:21:32Z"
     }
   ]
 }
