@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-07-18 18:58 UTC",
+  "last_updated": "2026-07-18 20:05 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a716624e-8642-3ff9-bade-39ed3087da65",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meta Platforms Is Up 21% This Month, and Here Is What's Driving the Surge",
+      "summary": "The tech company just added $270 billion to its market cap.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/meta-platforms-stock-up-21-july-driving-surge/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TyDae6uGwhKfM8f7.GMqZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed9ec74f8c7c27e9d395192173bb8c3c",
+      "published_at": "2026-07-18T19:50:00Z"
+    },
+    {
+      "id": "ec659a9b-3212-3712-9b64-b74600e99e2e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
+      "summary": "Memory and data storage manufacturers can't keep up with AI-driven demand.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/jensen-huang-told-ces-2026-that-memory-is-now-the/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_x5nzBYq66moSXqwY7TdaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8597c35e94aa836506dd2bc6c18e0ed1",
+      "published_at": "2026-07-18T19:42:00Z"
+    },
+    {
+      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "summary": "Dow Jones futures: An Iran attack killed two U.S. service members. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
+      "published_at": "2026-07-18T19:41:18Z"
+    },
+    {
+      "id": "58584cc5-4ad5-3d00-817b-02d2e6a021d1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: SOXX Is About to Outperform SMH. Here's Why.",
+      "summary": "Two seemingly similar semiconductor ETFs aren't as similar as they seem. One small detail gives SOXX the advantage for the rest of 2026.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/prediction-soxx-about-to-outperform-smh-heres-why/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3Sm6jGpcQyytH0RoydB21A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/08e4afe0316b69c33df90ba767238100",
+      "published_at": "2026-07-18T19:36:00Z"
+    },
+    {
+      "id": "ac9ab323-8597-35ee-8b99-b7fb3642f5e6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
+      "summary": "That's great news for investors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/jpm-ceo-jamie-dimon-ai-spending-reach-trillion/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zhxvc1f.fDOfPYwfytZg_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc90fd285d7b8380e2e8613c5e233263",
+      "published_at": "2026-07-18T19:23:00Z"
+    },
+    {
+      "id": "31e12284-6046-30a0-aa4e-9d766eab2e5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Is in Talks on a Multibillion Dollar Defense Contract. Here Is What It Means for Investors",
+      "summary": "SpaceX is in talks with the Pentagon over a multi-billion-dollar AI computing deal. Could this be the contract investors have been waiting for?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/spacex-is-in-talks-on-a-multibillion-dollar-defense-contract-here-is-what-it-means-for-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/033a392QkuDevHFwkUSe9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8ec6443afcf9a9d044d7148204545fbd",
+      "published_at": "2026-07-18T19:20:01Z"
+    },
+    {
+      "id": "1ed48206-e8c9-3945-ae2c-8e4eef7e5e0e",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Bank of America sends strong verdict on Microsoft stock",
+      "summary": "Microsoft has been one of the worst-performing large-cap tech stocks of 2026, down about 20% year to date, even as the company keeps expanding its AI business and growing Azure at a pace most cloud companies would envy. A lot of investors have been sitting on their hands, waiting either for a ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/msft-microsoft-stock-bank-of-america-earnings-forecast",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9LIVwNZ.6iAvXERmDDEeXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1ac0ef63dd563c2c1d9a873b5c7ffbc2",
+      "published_at": "2026-07-18T19:13:00Z"
+    },
+    {
+      "id": "868ebe1c-128c-3243-a6e7-88864a4b0f30",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Chevron (CVX) Cuts 9,000 Jobs As Record Oil Output Reshapes Its Workforce",
+      "summary": "Chevron (NYSE:CVX) is cutting 9,000 jobs even as it reports record oil production. The company cites increased automation and changing investor priorities as key drivers of the move. The restructuring focuses on reducing costs and reshaping Chevron’s global workforce. Chevron is a major integrated energy company with operations that span upstream production, refining, and related services. The decision to cut 9,000 jobs during a period of record oil output highlights how automation and new...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-cuts-9-000-190703168.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fNZOGYehJvXQf0L3V7Zs3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e629b5955390014615f0bd890cb3e1dc",
+      "published_at": "2026-07-18T19:07:03Z"
+    },
+    {
+      "id": "2cd6fced-1271-3d10-8e4e-0dfbc760cfe3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
+      "summary": "Oklo stock has plummeted in 2026, in spite of the company's positive progress. This is the buying window long-term investors have been waiting for.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/18/this-nuclear-stock-is-down-46-and-its-a-screaming/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wUyVIYclHuAt6Q32OaDirw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/724dbeb5b1134542a384651e07d8f661",
+      "published_at": "2026-07-18T19:05:00Z"
+    },
     {
       "id": "c0b839bd-0025-38dd-85f1-b32089b8d2d3",
       "asset": "NVDA",
@@ -26,17 +125,6 @@
       "published_at": "2026-07-18T18:20:00Z"
     },
     {
-      "id": "74bbe26f-0bef-328a-a45e-bb3463a1e5b0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Netflix's AI Strategy Has a 25-Year-Old Precedent",
-      "summary": "Netflix is scaling generative AI tools across hundreds of titles. Remember when Peter Jackson invented 10,000 digital orcs? Same idea.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/netflixs-ai-strategy-has-a-25-year-old-precedent/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X2DcvXia_n93z6uzy8TwKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/24d9eecea6848339be34f0151bdc1117",
-      "published_at": "2026-07-18T18:13:00Z"
-    },
-    {
       "id": "1c0f8e03-ba55-32e6-99a0-259328befb03",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -46,17 +134,6 @@
       "url": "https://uk.finance.yahoo.com/news/andy-burnham-urged-stick-labour-101653835.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f7ctGKrH1_te49PmIOxeGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/snappa.ukfinance/1ee4782bca7cec662f373fa629520c33",
       "published_at": "2026-07-18T18:08:28Z"
-    },
-    {
-      "id": "2605f396-9c7c-3d9a-98b5-0d04c3ecb068",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did Joby Aviation Stock Fall Below $10?",
-      "summary": "Joby Aviation stock has slipped below $10, but the decline isn't necessarily a sign that the business is in trouble.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/why-did-joby-aviation-stock-fall-below-10/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PSTaMlIfBuAjWK32b346kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b236ad4b206cbd5eb506bb6788b073bd",
-      "published_at": "2026-07-18T18:07:00Z"
     },
     {
       "id": "241e510e-6b38-4f92-b57c-b99104303a0a",
@@ -70,28 +147,6 @@
       "published_at": "2026-07-18T18:00:00Z"
     },
     {
-      "id": "4686dd4b-347d-3ccf-85a0-aebd343c78ef",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy",
-      "summary": "The chipmaker and its founder are not resting on their laurels.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/nvidia-jensen-huangs-company-is-still-the-king-of/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Rp8FynkEjmCx7JlPlAhJLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/93b2c261aa3ba2098c59d2e80e6e0373",
-      "published_at": "2026-07-18T17:53:00Z"
-    },
-    {
-      "id": "98ea8c5c-854c-36c1-afea-d5e0b9be221c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock",
-      "summary": "Here's what the Oracle of Omaha might have to say about the hot IPO.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/3-buffett-quotes-to-read-before-buying-spacex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yPaFvbJN2JjXUHhzEAlXcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d6f028d058b69eebc37cb4ee82418ba8",
-      "published_at": "2026-07-18T17:35:00Z"
-    },
-    {
       "id": "9c941632-1d86-3d9b-a6cc-c276433f8ac7",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -101,17 +156,6 @@
       "url": "https://247wallst.com/investing/2026/07/18/buy-sell-or-hold-ken-griffins-3-mega-cap-picks-at-current-valuations/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UE5vSsvJhOXhEVRlCZ42Yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/57c54793907956359f8a7ac187b3b87c",
       "published_at": "2026-07-18T17:30:00Z"
-    },
-    {
-      "id": "6d22f6e9-cc66-3193-a0c3-ca3bf99a2916",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Dividend ETF I'm Loading Up on Before 2027",
-      "summary": "The Schwab U.S. Dividend Equity ETF holds 100 top dividend-paying stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/1-dividend-etf-im-loading-up-on-before-2027/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CA6oNeQNNdEaHBtpoC8LkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/edbc1838b611d99a2d0d47a3fac7a793",
-      "published_at": "2026-07-18T17:20:00Z"
     },
     {
       "id": "90ebe954-20b3-34ea-9c74-7890a507a8ac",
@@ -125,28 +169,6 @@
       "published_at": "2026-07-18T17:09:53Z"
     },
     {
-      "id": "e07e6732-88ce-3c01-804c-424316e3bca6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Space Stocks You Should Buy Before Piling Into SpaceX",
-      "summary": "SpaceX may be stealing the spotlight, but investors looking for exposure to the expanding space economy should take a closer look at these two stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/2-space-stocks-you-should-buy-before-piling-into/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cjEvSROICFupg8pRihhH1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7fb3713316c7bb010e683f27922b0d4d",
-      "published_at": "2026-07-18T17:05:00Z"
-    },
-    {
-      "id": "be4f22b5-aaa4-3fff-985c-8afeab43b5f5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's Why The Metals Company Stock Plunged 28.2% in the First Half of 2026",
-      "summary": "With nothing to buoy this deep-sea mining stock higher, shares sank like a stone.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/18/heres-why-the-metals-company-plunged-282-in-the-fi/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rHy3ZZcA8HQOTIgrH.MsDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e41d6f094cca10bb4ecb4b7d564aca9c",
-      "published_at": "2026-07-18T17:04:09Z"
-    },
-    {
       "id": "d9ea3879-5f56-34b0-8527-4fa417c2a7c4",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -156,17 +178,6 @@
       "url": "https://www.fool.com/investing/2026/07/18/the-chip-index-just-fell-into-a-bear-market-apple/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rJk.PIIm72I230DS3CSroA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a186a357edc8801a5d115e282e35211b",
       "published_at": "2026-07-18T17:01:00Z"
-    },
-    {
-      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-      "summary": "Google earnings and capex guidance will be key for battered AI stocks. Tesla, Intel, GE Vernova also will report.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CHRePs3XremkNEs81dJO3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2dc23d177054799afd413b73b997d967",
-      "published_at": "2026-07-18T16:56:19Z"
     },
     {
       "id": "d6a73500-0971-38e7-abbf-6a519b04c68f",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/2026/07/18/the-sp-500-is-becoming-a-tech-index-in-disguise-but-that-may-not-be-the-risk-investors-think/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nTQab8MBlspb4GKX1sNupQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bb12aa15aef694d51fc240765059ae1f",
       "published_at": "2026-07-18T14:21:32Z"
-    },
-    {
-      "id": "0edfcee1-cd44-35b4-be0a-ca628a864953",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Down 7% While the S&P Sank 19%: Inside INCM's Defense",
-      "summary": "True diversification goes beyond owning different stocks to holding assets that behave differently when the market drops.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/607744/down-7-while-the-sp-sank-19-inside-incms-defense/2026-07-18",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
-      "published_at": "2026-07-18T14:03:09Z"
     }
   ]
 }
