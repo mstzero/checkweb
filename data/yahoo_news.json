@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-07-18 00:53 UTC",
+  "last_updated": "2026-07-18 03:52 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "abb03c3e-ad29-3382-9897-b80da24b5a91",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Robinhood Targets 27.6M Customers as Chain Moves Beyond Memecoin Rush",
+      "summary": "Robinhood Markets (NASDAQ: $HOOD) is trying to turn its 27.6 million funded customers into an onchain distribution ...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/robinhood-targets-276m-customers-as-chain-moves-beyond-memecoin-rush-6197",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r.ihyiAw0cJURProQ_r3Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/5eae53513bfd1df7e821f5044033d23a",
+      "published_at": "2026-07-18T03:24:00Z"
+    },
+    {
+      "id": "ad57fe8d-75b6-3fb5-ad02-ab0cfa325e52",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
+      "summary": "Microsoft Corp. has reportedly instructed its sales team on Tuesday to position in-house AI models above rival offerings from OpenAI, Alphabet’s Google and Anthropic, as part of a fiscal 2027 strategy session. Executive Vice President Jay Parikh told staff, “Everyone...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-wants-sales-team-push-023123802.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YN3xMOYrRyrvYvdGp6P9ZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5fb3f397bbea842426429d94356a7b9e",
+      "published_at": "2026-07-18T02:31:23Z"
+    },
+    {
+      "id": "8f1e12b5-c6eb-38fd-aa53-6be108316cde",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "UGL vs. GLL: The Leveraged Gold Trade for Every Market Direction",
+      "summary": "Gold's two most aggressive leveraged ETFs both promise amplified returns, but one has quietly destroyed 90% of investor capital over a decade while the other just posted a 20% gain. Knowing which macro signals separate them could save your portfolio from a very expensive mistake.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/17/ugl-vs-gll-the-leveraged-gold-trade-for-every-market-direction/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d0NrGN_WF8HgdrgyRGwSqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d1b5600d80b25bcad573b72d274a2427",
+      "published_at": "2026-07-18T02:05:30Z"
+    },
+    {
+      "id": "7b75d8fa-bae0-3ec2-b0fc-40b5759c20fa",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
+      "summary": "The entire US stock market is trading at a discount to its recent past, but the safest alternative is paying you more to wait.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/607746/vti-is-cheaper-than-it-used-to-be-so-whats-the-catch/2026-07-17",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
+      "published_at": "2026-07-18T01:32:45Z"
+    },
+    {
+      "id": "f51064bc-a393-3e27-a718-9f55a58a6ee7",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Reacts to Jamie Dimon's ‘Einstein’ Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
+      "summary": "Elon Musk thanked JPMorgan Chase & Co. CEO Jamie Dimon on Wednesday after an X post revived the banker’s comparison of the Tesla Inc. chief to legendary physicist and inventor Albert Einstein. Musk Revisits Dimon’s Famous Einstein Comparison \"Thanks, Jamie!\"...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-reacts-jamie-dimons-013111199.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1fKSXGfBO8ssM.xPJzinFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/9a274f4256394ac6f31e579c54caa1c3",
+      "published_at": "2026-07-18T01:31:11Z"
+    },
     {
       "id": "6b440fac-0e71-301f-89a7-aa3b0a9ccd1c",
       "asset": "NVDA",
@@ -38,8 +93,8 @@
     },
     {
       "id": "fcbaebf1-d1f7-3554-82d2-e4bf62b0a437",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
       "title": "Bitcoin Cleared $65,000 This Week. Ignore the Noise, This Is the 1 Factor That Investors Need to Watch.",
       "summary": "It's been about four weeks since this digital asset last crossed that price level.",
       "source": "Motley Fool",
@@ -81,6 +136,17 @@
       "published_at": "2026-07-17T23:56:54Z"
     },
     {
+      "id": "b723d305-de95-3aad-ace0-3ce4b6aa3e44",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI Chip Startup Etched Is in Talks for $20 Billion Valuation",
+      "summary": "The startup, founded by Harvard dropouts, is also raising capital at a $10 billion valuation in a separate round led by Sequoia Capital.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U3d61icCzRP0OBzmtGWK9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/aa05b07f62e56dc5f49a618081d0965e",
+      "published_at": "2026-07-17T23:42:00Z"
+    },
+    {
       "id": "ccea9c2e-e3d7-3d17-9033-db57150f5210",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -101,6 +167,17 @@
       "url": "https://247wallst.com/investing/etf/2026/07/17/spys-0-0945-fee-could-cost-you-thousands-over-two-decades-against-its-own-sister-fund/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uwPe05QyVR.jRQBF4r1pTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1cafb476eaba04d2d7f51413548359c6",
       "published_at": "2026-07-17T23:30:42Z"
+    },
+    {
+      "id": "48a32597-6ae8-355b-a544-f6382f92c478",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Can ‘The Odyssey’ Beat the World Cup?",
+      "summary": "Christopher Nolan’s movies have strong staying power, but the World Cup has Lionel Messi. Which will get more viewers?",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/can-the-odyssey-beat-the-world-cup-416868ed?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8Yo.H8xoZEWb.vTNsXp4Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/29c6ab06fda11e013fd18e00dc3aa33f",
+      "published_at": "2026-07-17T23:17:00Z"
     },
     {
       "id": "bacbe550-ba05-3dd8-ab11-cfc439afb721",
@@ -125,17 +202,6 @@
       "published_at": "2026-07-17T23:05:54Z"
     },
     {
-      "id": "aa5b7213-c120-3f1c-b235-bac8f4f55243",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "China’s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
-      "summary": "Moonshot's Kimi K3 tops coding charts and hits chip stocks as investors question America's AI lead over China.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/china-kimi-k3-us-chip-stocks-ai-lead/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zmdUN523oe2ASB9F0A_lDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5c315608dc46cbd3c3edbec50b90d6bc",
-      "published_at": "2026-07-17T22:57:28Z"
-    },
-    {
       "id": "acf307d9-a30c-3916-bb4d-f6ce4de774e0",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -156,17 +222,6 @@
       "url": "https://247wallst.com/investing/etf/2026/07/17/youre-paying-twice-for-divos-comfort-0-56-fees-plus-hidden-opportunity-costs/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SpHbMUyl9.7F7Wsg0r6jCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1d65e5662f47a5f60699e0bd9f0253f3",
       "published_at": "2026-07-17T22:35:43Z"
-    },
-    {
-      "id": "5f42e6ba-3818-3a57-b88e-6ba187aa2d6d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Beaten-Down Stocks Built for Long-Term Passive Income",
-      "summary": "If you are looking for dividend stocks, here's an industrial Dividend King, a leading food maker with a historically high yield, and a high-yield real estate giant.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/17/3-beaten-down-stocks-built-for-long-term-passive-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UIoAdz1bG_9pVS26LIIRWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/73e24a2da40155ba2f4a883bf42803c9",
-      "published_at": "2026-07-17T22:35:00Z"
     },
     {
       "id": "4d2f0189-3902-3376-b8ad-29995196aa1f",
@@ -255,61 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-slide-sharply-as-netflix-guidance-disappoints-and-chip-stocks-extend-losses-nflx-ge-meta-aapl-spcx-in-focus/cZZ7vo1R7MX",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sdroGgbg890xLBLdDzi6qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2a620d84b56f64f7b66952fba4df1a54",
       "published_at": "2026-07-17T21:53:42Z"
-    },
-    {
-      "id": "d4dbfe7c-d7e3-3a37-bf79-dcbf1875c887",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Newmont Corporation (NEM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "summary": "Newmont Corporation (NEM) concluded the recent trading session at $89.7, signifying a -1.24% move from its prior day's close.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-corporation-nem-sees-more-215005743.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U_mLgBLkmbjzIonwV1EBtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4",
-      "published_at": "2026-07-17T21:50:05Z"
-    },
-    {
-      "id": "15ad28b9-5c23-3b1e-8bf5-70856e365890",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Miners or Silver Bars? We Compare VanEck Gold Miners ETF to iShares Silver Trust to Find the Better Buy",
-      "summary": "GDX delivered $2,339 on a $1,000 investment versus SLV's $2,196, despite facing lower volatility than its silver counterpart.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/17/gold-miners-or-silver-bars-we-compare-vaneck-gold-miners-etf-to-ishares-silver-trust-to-find-the-better-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_H8mnlSucVqsHmMqHWuPZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7db1e67f063b4d2af25ebc343bc684ff",
-      "published_at": "2026-07-17T21:49:01Z"
-    },
-    {
-      "id": "3189944b-8cd9-3d0f-8885-3f6464002d44",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-      "summary": "Chip stocks tumbled amid geopolitical tensions and valuation concerns, while Travelers surged on earnings, today, July 17, 2026.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2G5H3GKtURSM2jMubuSAAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91",
-      "published_at": "2026-07-17T21:33:59Z"
-    },
-    {
-      "id": "ffd98ecc-302e-3a72-9d0b-6254d8b34090",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
-      "summary": "A duo of Magnificent 7 members, namely Tesla (TSLA) and Alphabet (GOOGL), will help headline the reporting docket this week, who both head into their reports with favorable revisions for both earnings and sales.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-alphabet-earnings-metrics-matter-212900112.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZH2XNIdaxt6TUtlEjxxrRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8f2cfa2b27eda152a197ae1b4f3dccdf",
-      "published_at": "2026-07-17T21:29:00Z"
-    },
-    {
-      "id": "489551c7-a663-3ef7-9720-6a59a02af8de",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "ETFs Offer an Easier Way to Hold Physical Metal. Is Buying Gold or Silver the Better Bet in 2026?",
-      "summary": "SIVR offers cheaper access at 0.30% expense ratio, while GLD delivers lower volatility. Both track physical metals with comparable 5-year returns.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/17/etfs-offer-an-easier-way-to-hold-physical-metal-is-buying-gold-or-silver-the-better-bet-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bVxtRVkR0D50t9al224zPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5cfffef2918efe684d323f1f698b9d1",
-      "published_at": "2026-07-17T21:22:01Z"
     }
   ]
 }
