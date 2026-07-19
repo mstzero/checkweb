@@ -1,18 +1,84 @@
 {
-  "last_updated": "2026-07-19 22:24 UTC",
+  "last_updated": "2026-07-19 23:28 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "6608f205-78c2-3bf9-9605-fb1c2aa06099",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment",
+      "summary": "TSMC is seeing strong, multi-year demand for its AI chips as it invests a further $100 billion to expand its Arizona facilities, but it needs to address several challenges, such as a shortage of construction workers there, a top ‌executive said.  Speaking after blockbuster second-quarter results on Thursday, Chief Financial Officer Wendell Huang said the company is \"very happy\" with progress in Arizona, which is ‌why it decided to ramp up investment to $265 billion.  \"We continue to see customers' strong demand — ​multi-year structural demand.\"",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-expects-strong-multi-demand-231456689.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cVvy11Y1ahgnuW_n41YJSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/78e2afaffc88c223eece509bd2cb46ca",
+      "published_at": "2026-07-19T23:14:56Z"
+    },
+    {
       "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
       "asset": "TSLA",
       "asset_name": "Tesla",
-      "title": "Dow Jones Futures Fall As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
       "summary": "Dow Jones futures: Iran attacks killed three U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
-      "published_at": "2026-07-19T22:19:18Z"
+      "published_at": "2026-07-19T23:13:45Z"
+    },
+    {
+      "id": "51497405-d60c-3bae-a23b-78acdcd3787f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Price Tops $90 as Iran War Escalates: What It Means for Crypto",
+      "summary": "Brent crude tops $90 as the Iran war chokes Hormuz flows, lifting Fed hike bets and pressuring Bitcoin.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/oil-price-iran-war-crypto-impact/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pZsoEmIxrVyxcOhp1MjXIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/261be73cde35330da0d1662954646626",
+      "published_at": "2026-07-19T23:08:38Z"
+    },
+    {
+      "id": "ea49ef04-b1ac-34c4-91ca-89f677475108",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Even With Elon Musk's SpaceX Stock (SPCX) Down Below Its IPO Price, I'd Still Rather Buy This Dividend Stock in July",
+      "summary": "Why opt for speculation when you could grab a 6.3% dividend yield that's been paid for 127 years in a row?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/even-with-spacex-down-below-its-ipo-price-id-still/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uHVAqf5GMGLpwu8rMJcgaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/984e62df708ba999d1f08854e374247a",
+      "published_at": "2026-07-19T22:58:00Z"
+    },
+    {
+      "id": "f516f540-5aae-3d93-b43c-e4e345c704c5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows",
+      "summary": "(Bloomberg) -- Brent crude jumped after the US and Iran escalated hostilities over the weekend, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait.Most Read from BloombergThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz LegacyUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsIran Conflict Escalates as US Announces Another Troop Was KilledFCC Near Rulings Against Disney Over ‘The View,’ TV Lice",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/energy/articles/brent-oil-tops-90-middle-225554077.html",
+      "thumbnail": "",
+      "published_at": "2026-07-19T22:55:54Z"
+    },
+    {
+      "id": "8a07556a-36e5-3032-8a50-d25413edded4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI Expectations Hit a Fever Pitch",
+      "summary": "Despite churning out incredible numbers, semiconductor stocks still seem to somehow “miss expectations.” The team digs into Wall Street's expectations game.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/ai-expectations-hit-a-fever-pitch/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ANKQoETH_7OQehN3IZMOfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f41286211828346f72d8e6f9dfc45843",
+      "published_at": "2026-07-19T22:46:01Z"
+    },
+    {
+      "id": "019a515e-faff-38ba-9a9f-7609812c7b5c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cathie Wood Is Loading Up on This GLP-1 Stock That Has Soared 1,600% Over the Past 10 Years",
+      "summary": "Maybe you should, too.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/cathie-wood-is-loading-up-on-this-glp-1-stock-that/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sS3Eo2tPJqTWwPCSETBi.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/98e5b753a60fbc2441c38468ee061099",
+      "published_at": "2026-07-19T22:20:00Z"
     },
     {
       "id": "9ee0266b-495e-372b-82b6-24d5eb2af7bf",
@@ -92,17 +158,6 @@
       "published_at": "2026-07-19T21:07:24Z"
     },
     {
-      "id": "a33e031c-4c08-3573-9cba-4794566c32ed",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Silicon Photonics Investment Is Ramping Fast as AI Clusters Outgrow Copper Wiring. 2 AI Stocks Stand to Win.",
-      "summary": "As AI data centers outgrow copper networking, these two optical technology companies could become major beneficiaries of the industry's shift to silicon photonics.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/silicon-photonics-investment-is-ramping-fast-as-ai/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lHfqMp2BxwJix6QsmGtbrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/510e282708379c0f203d0e8bb6f48478",
-      "published_at": "2026-07-19T20:57:00Z"
-    },
-    {
       "id": "2ceb84f9-7f45-3956-9f1c-688c38cc807f",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -112,28 +167,6 @@
       "url": "https://beincrypto.com/strategy-strc-mispriced-13-percent/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xhP0cns4AdkOUHzq1BrM9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8746021bf08a2b66c5292adbe576686d",
       "published_at": "2026-07-19T20:52:55Z"
-    },
-    {
-      "id": "fa0cb4e7-4b8e-33ae-a630-0fb44d699941",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind?",
-      "summary": "The search giant promised its most powerful AI model in June. It's still not here.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/alphabets-gemini-35-pro-is-late-and-the-stock-is-s/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/C1LZSag2VOeF0RmtuzQTWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb0e2f90bb123263f9c844edc1fe22ad",
-      "published_at": "2026-07-19T20:43:00Z"
-    },
-    {
-      "id": "2f986067-5b80-3860-ae6d-7ee231831f3a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Cathie Wood Is Selling This High-Flying Stock. Is It a Buy?",
-      "summary": "Wood's ETFs sell stocks that have had strong runs to pay for other positions.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/cathie-wood-is-selling-this-high-flying-stock-is-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WEi78XE45Q1Qgnda3n.wWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/640e7dacefd3623d2bb8a124e2177edb",
-      "published_at": "2026-07-19T20:32:00Z"
     },
     {
       "id": "95243a11-42d0-3c97-bd04-bf788b34d915",
@@ -167,17 +200,6 @@
       "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-dea89b32?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3knIgtMTI4x2_4EYiepgGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/56b92317f3f93c63a670d690c3c6f033",
       "published_at": "2026-07-19T20:26:00Z"
-    },
-    {
-      "id": "a13529cc-c2f2-396c-be1c-ffb28bc3556d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "My 2 Favorite Dividend Kings to Buy Right Now",
-      "summary": "They can help stabilize your portfolio in these otherwise volatile times.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/my-2-favorite-dividend-kings-to-buy-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/azCa55qxblsZHrHZgn385w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/722cc3c51ec01a7ca226bece397d4549",
-      "published_at": "2026-07-19T20:20:00Z"
     },
     {
       "id": "475888c9-cc6c-3f39-afd5-bd8ad508faf2",
@@ -288,28 +310,6 @@
       "url": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4n7bJyMLxuaR48xuQm3XKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5",
       "published_at": "2026-07-19T18:00:00Z"
-    },
-    {
-      "id": "cec8e767-3931-3c9c-b6e5-11957b39d126",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound",
-      "summary": "Geopolitical tensions in the Middle East have escalated in recent days, reviving concerns about oil prices, inflation, and the global economic outlook. Although the uncertainty has added another source of volatility, the S&P 500 remains within 2% of its all-time high, suggesting investors expect the broader economic impact to remain contained.Claim 55% Off TipRanks Unlock powerful investing tools with TipRanks Premium to make smarter, more confident investment decisions Subscribe to TipRanks Sma",
-      "source": "TipRanks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-says-2-175700366.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NZwhPT.kQ_Sd34fdcQBpMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/7fc12074e6b6168aa3f09eb10eaf63fd",
-      "published_at": "2026-07-19T17:57:00Z"
-    },
-    {
-      "id": "4ccbe8f6-d698-310f-9acb-d995f9abef6f",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "This Boring Pipeline Dividend MLP Returned 2X the QQQ’s Gains",
-      "summary": "Pipeline partnerships exist to collect tolls and bore you into a steady income, yet one midstream MLP has quietly stacked up returns that would embarrass most growth funds. Before you assume the easy money is already gone, the tax traps and leverage risks buried in this trade deserve a hard look.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/19/this-boring-pipeline-dividend-mlp-returned-2x-the-qqqs-gains/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jTAnXlwbe4B6ovJ9wDALxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c195d6ae00f4356ee709a7630f5aa594",
-      "published_at": "2026-07-19T17:45:42Z"
     }
   ]
 }
