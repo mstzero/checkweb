@@ -1,8 +1,129 @@
 {
-  "last_updated": "2026-07-19 13:09 UTC",
+  "last_updated": "2026-07-19 14:37 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a05db5ed-8300-411b-8aa1-653fb8eab65a",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "The Mercedes CLA 250+ is a more luxurious Model 3 — at a surprisingly good price: Review",
+      "summary": "Mercedes may have a winner on its hands — one that has the Tesla Model 3 in its sights.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/the-mercedes-cla-250-is-a-more-luxurious-model-3--at-a-surprisingly-good-price-review-143237482.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_CEjGPTVy4j705RIbCkrcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/25c0329-208-source_4026.jpg",
+      "published_at": "2026-07-19T14:32:37Z"
+    },
+    {
+      "id": "22b35f24-e955-3078-905f-8b4a310de53f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Energy Transfer Looks Poised to Outperform the S&P 500 in the Back Half of 2026",
+      "summary": "The MLP has plenty of fuel to continue rallying.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/energy-transfer-looks-poised-to-outperform-the-sp/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vuiwttsBf_D9uyX2UWFfjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e3d1c963111bb05d1bcc15065d9ec2c2",
+      "published_at": "2026-07-19T14:20:00Z"
+    },
+    {
+      "id": "60e9eba8-760e-3ef7-822a-81b553e7e3ff",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Why Worried Investors Should Buy Apple Over Amazon for the Rest of 2026",
+      "summary": "Apple and Amazon posted identical revenue growth last quarter, yet the two companies are betting on opposite visions of the future. Which one actually protects your portfolio through a choppy back half of 2026?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/why-worried-investors-should-buy-apple-over-amazon-for-the-rest-of-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KTHi_jWsTyDCfU.yqFHaAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6d26a10ff9c646ed2d5feac2da5423a",
+      "published_at": "2026-07-19T14:10:48Z"
+    },
+    {
+      "id": "a8af03a4-4baa-3166-a589-19d295afe77f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meta Platforms: Is This the Most Undervalued Stock in Big Tech? (NASDAQ: META)",
+      "summary": "Although it may be unloved, this big tech stock is worth considering.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/meta-platforms-is-this-the-most-undervalued-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yu5lHgcLC9AdLrsFBwrVaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8a8b5d11d1f99990a9286cb27058018e",
+      "published_at": "2026-07-19T13:55:00Z"
+    },
+    {
+      "id": "15dd2ccb-e406-3aea-a21e-325dee0b81c5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "1 Overlooked Vanguard ETF Is Outpacing the S&P 500 This Year at a Bargain Cost",
+      "summary": "With small caps surging, it feels like the Vanguard Small-Cap Growth ETF isn't getting the attention it deserves.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/overlook-vanguard-etf-outpacing-sp-500-bargain/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KUBAQ5_DQfCKySJAWyu64w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c7719f0b9ce3b0b82ea5ca4d4e51a43a",
+      "published_at": "2026-07-19T13:50:00Z"
+    },
+    {
+      "id": "4d0a1a2c-fe2c-3d65-8da4-f17708445082",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+      "summary": "TSMC and ASML are two of the most important companies in the semiconductor value chain.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/tsmc-vs-asml-which-is-the-better-ai-semiconductor/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TSluD1EqybdQ48Uhfge7eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/036d28b309abc1da6cb6a364744a459f",
+      "published_at": "2026-07-19T13:40:00Z"
+    },
+    {
+      "id": "67304257-b4eb-3fbf-bda7-448a158ef9ba",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett Set a New Goal: Give Away All of His $140 Billion Berkshire Stake by 2034",
+      "summary": "You can't take it with you, so you might as well spend it where you think it will do some good for someone.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/warren-buffett-goal-give-away-berkshire-stake/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/588bMq89WfRGWci6qMQqmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5694b11eb406090990cdb06de4c668a3",
+      "published_at": "2026-07-19T13:35:00Z"
+    },
+    {
+      "id": "2e8ff4dd-766b-3611-bcc9-e31f76884e1a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Biggest Pharma Giants: Buy, Sell or Hold?",
+      "summary": "All three pharma giants have left the S&P 500 in the dust, but surging returns and strong fundamentals tell very different stories about where each stock goes from here.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/3-biggest-pharma-giants-buy-sell-or-hold/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pmC8_E7uFGygLo8baAJ8_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2b3c198a85352404612a63df028a42db",
+      "published_at": "2026-07-19T13:30:58Z"
+    },
+    {
+      "id": "e22d0b76-f19a-3304-a06f-77d0d5f2edfe",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street",
+      "summary": "The new Fed chair's top priority is a double-edged sword for the second-priciest stock market in history.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/fed-kevin-warsh-2-words-define-tenure-wall-street/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2EV6LAnrlXZJPHciuiTQ6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/366fb7a71a35662b2f4f62f416b914da",
+      "published_at": "2026-07-19T13:26:00Z"
+    },
+    {
+      "id": "53073515-b6d4-35bc-9a57-98229041fed5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget the 600% Tanker Fund. This Shipping ETF Rode the Same Boom, Pays Dividends, and Won’t Implode",
+      "summary": "The tanker freight fund that turned a small stake into life-changing money carries a hidden structural trap that gets more expensive to ignore the longer you hold it, and a rival ETF in the same shipping boom actually pays you to wait.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/forget-the-600-tanker-fund-this-shipping-etf-rode-the-same-boom-pays-dividends-and-wont-implode/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3uN4QZkDgPoZdmjY0YxXvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6050efae69ff341327b1702809b088b9",
+      "published_at": "2026-07-19T13:24:04Z"
+    },
+    {
+      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "summary": "Dow Jones futures: An Iran attack killed two U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
+      "published_at": "2026-07-19T13:14:21Z"
+    },
     {
       "id": "b3938568-2116-3d93-bfa2-1820527d2967",
       "asset": "NVDA",
@@ -26,75 +147,9 @@
       "published_at": "2026-07-19T13:00:00Z"
     },
     {
-      "id": "d15f4760-f68d-3027-8d00-6d1405acb6b3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How to Invest in SpaceX Stock After Its Nasdaq-100 Debut",
-      "summary": "This red-hot IPO fizzled out after its inclusion in the index.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/how-to-invest-in-spacex-stock-after-its-nasdaq-100/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Dj1_D2pSOdCcucCUBASxKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fbc32e9873fd2945e204585794673d60",
-      "published_at": "2026-07-19T12:50:00Z"
-    },
-    {
-      "id": "51e0c026-cde4-3b01-8196-3aa03780844c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warren Buffett Is Behind Berkshire Hathaway's Massive Alphabet Investment. Here's What He Likes About the Company.",
-      "summary": "Alphabet has become one of Berkshire's biggest investments based on this simple idea.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/warren-buffett-berkshire-hathaway-alphabet-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2z2XAavEAWBE2aVXkfM4GQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/aabd6ab6d14586dbbce539823272062e",
-      "published_at": "2026-07-19T12:50:00Z"
-    },
-    {
-      "id": "52ec3145-1098-34f6-9ce2-589e73a63d71",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Love Stock Market Gains But Hate Risk? Here's 1 ETF Worth Looking At.",
-      "summary": "Not every investment has to drive you into a panic.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/love-stock-market-gains-but-hate-risk-heres-1-etf/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fvhN4c_XexP.jEwDqWKnVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0fcbac993f169ff67e219ae5772e155f",
-      "published_at": "2026-07-19T12:43:00Z"
-    },
-    {
-      "id": "48ae2550-e32f-367e-b571-5c9bc7aa73e3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Passive Income Stocks I Plan to Hold for the Next Decade",
-      "summary": "These two dividend stocks will anchor my income portfolio over the coming decade.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/2-passive-income-stocks-i-plan-to-hold-for-the-nex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p_NIkL0OwLmJgr1yhXvU4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b07e035359d0b2227f0489aa5b678803",
-      "published_at": "2026-07-19T12:35:00Z"
-    },
-    {
-      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "id": "4b873602-726d-362b-9521-3bfe218356fa",
       "asset": "TSLA",
       "asset_name": "Tesla",
-      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-      "summary": "Dow Jones futures: An Iran attack killed two U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
-      "published_at": "2026-07-19T12:31:27Z"
-    },
-    {
-      "id": "8d2f47f0-7477-3b0f-b860-6bbbcc7e63d7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Green Energy Stocks to Buy in July",
-      "summary": "Electricity demand just broke out of a 15-year flat line, and most investors are still pricing renewable stocks like nothing changed. Three names stand out this July, each for a very different reason.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/19/3-green-energy-stocks-to-buy-in-july/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/236EsygvMArJ9x2d_2KZ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6a8550ceb229716704ba93cd4d44f6bb",
-      "published_at": "2026-07-19T12:30:34Z"
-    },
-    {
-      "id": "4b873602-726d-362b-9521-3bfe218356fa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
       "title": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
       "summary": "Every stock in the \"Magnificent Seven\" has a different outlook.",
       "source": "Motley Fool",
@@ -112,17 +167,6 @@
       "url": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w7h9gGaHcXxf81KLNp92rg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-05/a5fd6670-53cb-11f1-b7ef-f267ecd76b19",
       "published_at": "2026-07-19T12:23:59Z"
-    },
-    {
-      "id": "088935b0-7eec-34c8-9786-838a50b88582",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The AI ‘Memory Wall’ Is About to Get a Lot Taller: These 3 Stocks Will Win Big",
-      "summary": "Nvidia's GPUs keep getting faster, but a deeper problem is quietly throttling AI's progress and reshaping where the next wave of infrastructure spending lands. Three stocks are positioned to profit from the shift.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/19/the-ai-memory-wall-is-about-to-get-a-lot-taller-these-3-stocks-will-win-big/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KxYzN693tjoL8MTh1wNVRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49",
-      "published_at": "2026-07-19T12:21:27Z"
     },
     {
       "id": "c90b8df4-b2f0-4162-8705-8a5e5c3fc37f",
@@ -266,50 +310,6 @@
       "url": "https://www.fool.com/investing/2026/07/19/chevron-hungry-power-deals-microsoft-energy/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dpWBWJu1lB.DflSwDG_.qg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6efbd04f7debe40b0dcfea5f71708db7",
       "published_at": "2026-07-19T10:05:00Z"
-    },
-    {
-      "id": "14c23af5-e0f5-33fb-9e01-7356407bb04a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "5 big analyst AI moves: Apple upgraded as HSBC flags ’operational turning point’",
-      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002290.html",
-      "thumbnail": "",
-      "published_at": "2026-07-19T09:30:02Z"
-    },
-    {
-      "id": "40209414-05a3-3716-b02d-2c59d0b1afa1",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin eyes $72,000 as governance and mining concentration concerns grow",
-      "summary": "Investing.com -- Bitcoin traded near $64,600 after rebounding from below $58,000 earlier in July, while large options positions pointed to a potential move toward $72,000 around the Federal Reserve’s upcoming interest-rate decision, CoinDesk reported.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-eyes-72-000-governance-092701329.html",
-      "thumbnail": "",
-      "published_at": "2026-07-19T09:27:01Z"
-    },
-    {
-      "id": "081f4b02-35d9-3df7-9ed4-696be1a6ffa0",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
-      "summary": "Tesla shares are trading for less than $400, but one fast-growing restaurant chain looks like the better stock to buy.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/even-with-tesla-under-400-id-still-rather-buy-this/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HeSIoTII6WoIsDKbhxoT4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e568bcd5491d3a2a56ff74560c393bdd",
-      "published_at": "2026-07-19T09:25:00Z"
-    },
-    {
-      "id": "24eccd80-9a05-3c86-8d59-bb28b6d4da84",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
-      "summary": "Nvidia, Meta Platforms, and Microsoft are all trading at cheap valuations.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/the-three-biggest-bargain-magnificent-seven-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vy81ZyM26uF8qtuvCaJScA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5446a51141598d867961d398a4f8149",
-      "published_at": "2026-07-19T09:20:00Z"
     }
   ]
 }
