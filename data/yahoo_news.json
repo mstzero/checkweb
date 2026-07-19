@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-07-19 21:22 UTC",
+  "last_updated": "2026-07-19 22:24 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures Fall As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "summary": "Dow Jones futures: Iran attacks killed three U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
+      "published_at": "2026-07-19T22:19:18Z"
+    },
+    {
+      "id": "9ee0266b-495e-372b-82b6-24d5eb2af7bf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test.",
+      "summary": "The rocket maker's slide has come with almost no insider supply hitting the market. That changes within weeks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/spacexs-ipo-lockup-starts-expiring-in-august-heres/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fz_fHfWhs7mXSg8Ao87GFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9e686220c281319bc0dea778a43d24e2",
+      "published_at": "2026-07-19T21:51:00Z"
+    },
+    {
+      "id": "2aaaa82e-8d9a-3769-bdc8-30b1873f9060",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's the Real Issue Behind the Stock's Decline.",
+      "summary": "Netflix shares sank yet again after it reported its second-quarter results.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/netflix-down-nearly-50-over-the-past-year-is-the-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mO4NFHkue63Z1tqc5UagtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3da642455c3e8187bf898834736291c9",
+      "published_at": "2026-07-19T21:50:00Z"
+    },
+    {
+      "id": "c6c04209-84a9-3a07-9dcf-3d46a21b8018",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22",
+      "summary": "AMD looks like a buy ahead of its Advancing AI event.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/prediction-investors-will-be-happy-if-they-buy-amd/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1OQ4eTWSQg4DF7YAgujz.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a7811b730a5dd8525335c7fb6d0b2463",
+      "published_at": "2026-07-19T21:37:00Z"
+    },
+    {
+      "id": "86c2a2ff-5fdd-39a7-a1ce-1dc635535bc8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: These Will Be the 2 Best Nuclear Energy Stocks to Buy for the Next 5 Years",
+      "summary": "As countries around the world drastically expand nuclear energy capacity, these two stocks could be huge winners.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/prediction-these-will-be-the-2-best-nuclear-energy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LXtoM4j2psXfxsvoOGnV1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ab33187c9192784fa31fc75076a38665",
+      "published_at": "2026-07-19T21:27:00Z"
+    },
+    {
+      "id": "b43a799b-0b62-3987-9aaf-b164463fe99a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/watch-jensen-huang-japan-visit-211607546.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XDv1Xs9IysHIfLBOKimWmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/7e54a8e1aae36dc35a1aad24428e37a9",
+      "published_at": "2026-07-19T21:16:07Z"
+    },
+    {
+      "id": "e01a0b0c-03bb-3fbd-998d-b8cc2650097e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+      "summary": "Mercedes-Benz Group (XTRA:MBG) has unveiled the revamped CLA 250+, a new luxury electric vehicle. The CLA 250+ is positioned as a direct competitor to Tesla's Model 3 in the premium EV segment. The model features an updated design, extended driving range, and a suite of advanced technologies. Mercedes-Benz Group is using the CLA 250+ to reinforce its presence in the growing luxury EV space, where established automakers and pure-play EV companies are competing for market share. The model...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-xtra-mbg-unveils-210728470.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3_ONHgtJxnGCYru49lXrWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/656b98e3020b5bb6fb75561732602847",
+      "published_at": "2026-07-19T21:07:28Z"
+    },
     {
       "id": "f9687edc-77da-3fda-8dfd-cc639e8cffda",
       "asset": "OIL",
@@ -24,6 +101,17 @@
       "url": "https://www.fool.com/investing/2026/07/19/silicon-photonics-investment-is-ramping-fast-as-ai/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lHfqMp2BxwJix6QsmGtbrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/510e282708379c0f203d0e8bb6f48478",
       "published_at": "2026-07-19T20:57:00Z"
+    },
+    {
+      "id": "2ceb84f9-7f45-3956-9f1c-688c38cc807f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Ex-Goldman Credit Veteran Says Markets May Be Mispricing MicroStrategy’s STRC by 13%",
+      "summary": "Ex-Goldman credit veteran Khing Oei values Strategy's STRC at $96 versus $85, arguing the 14% yield uses flawed math.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/strategy-strc-mispriced-13-percent/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xhP0cns4AdkOUHzq1BrM9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8746021bf08a2b66c5292adbe576686d",
+      "published_at": "2026-07-19T20:52:55Z"
     },
     {
       "id": "fa0cb4e7-4b8e-33ae-a630-0fb44d699941",
@@ -48,6 +136,17 @@
       "published_at": "2026-07-19T20:32:00Z"
     },
     {
+      "id": "95243a11-42d0-3c97-bd04-bf788b34d915",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
+      "summary": "Legendary investor Warren Buffett is no longer the CEO of Berkshire Hathaway Inc, but remains active as Executive Chairman at providing investment ideas for the conglomerate and new CEO Greg Abel. These days, Buffett says its tough to find value...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uDkdaYcTvdf.9pPKvGCALQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6f5e83b6e3350fc1a724e01820b76753",
+      "published_at": "2026-07-19T20:31:19Z"
+    },
+    {
       "id": "516e602b-de06-3b0a-865f-1ebf5877bd19",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -57,6 +156,17 @@
       "url": "https://beincrypto.com/banks-race-second-bitcoin-adoption-index/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TMoCEQz92RY7kavrcCVE0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2e2a553fd59dd600194688d941f84f9b",
       "published_at": "2026-07-19T20:30:00Z"
+    },
+    {
+      "id": "d8c17968-0715-3b5d-9758-8bb1ca0ea626",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stock Futures Likely to Reflect Latest Escalation in Iran War",
+      "summary": "U.S. stock futures and oil futures will begin trading later on Sunday after the U.S. carried out its eighth consecutive day of strikes on Iran in an escalation of the conflict.  The U.S. military carried out new airstrikes that U.S. Central Command said were designed to degrade Iran’s ability to threaten commercial shipping in the Strait of Hormuz and to “swiftly punish Islamic Revolutionary Guard Corps forces who launched attacks against American Service members in Jordan.”  Iran’s Islamic Republic News Agency issued a statement from Tehran on Sunday warning the U.S. of a “decisive and destructive” response to any act of greed, bullying, expansionism, or brutality by the U.S.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-dea89b32?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3knIgtMTI4x2_4EYiepgGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/56b92317f3f93c63a670d690c3c6f033",
+      "published_at": "2026-07-19T20:26:00Z"
     },
     {
       "id": "a13529cc-c2f2-396c-be1c-ffb28bc3556d",
@@ -81,17 +191,6 @@
       "published_at": "2026-07-19T20:00:00Z"
     },
     {
-      "id": "c69b7f27-837d-3967-b37c-cb95cca2a107",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "There's a Push to Ban Elected Officials From Launching Meme Coins. Is Meme Coin Mania Finally Over?",
-      "summary": "Hype-based cryptos backed by politicians have a history of leaving holders poorer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/theres-a-push-to-ban-elected-officials-from-launch/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0z0iahu_ToRJIa_glFU.hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e3612f351f036a0e60021549affc4596",
-      "published_at": "2026-07-19T19:59:00Z"
-    },
-    {
       "id": "7c609c3c-eed5-3246-8308-cdb1fead74c2",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -103,20 +202,9 @@
       "published_at": "2026-07-19T19:47:16Z"
     },
     {
-      "id": "dac98483-5a25-35b7-9d44-b58b94339bf3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jensen Huang's $4 Trillion Artificial Intelligence (AI) Projection Could Propel Nvidia's Market Cap to $20 Trillion",
-      "summary": "Nvidia could actually lose a meaningful slice of its market share and still hit that milestone by 2030.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/jensen-huangs-4-trillion-artificial-intelligence-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cIIXmJt2PViaU.NekJ4uBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/55464e38169d9e3caebfd226e967aaff",
-      "published_at": "2026-07-19T19:38:00Z"
-    },
-    {
       "id": "52e16a02-d182-306f-85d6-48a8b10b122f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
       "summary": "Will Musk's \"dogged determination\" help Tesla beat expectations?",
       "source": "Motley Fool",
@@ -134,28 +222,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/apple-lawsuit-derail-openai-hardware-192445049.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tlW2k9RnllFH1XKHr3Vo4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/bb87cf893830106e95f3767bb4ee46d1",
       "published_at": "2026-07-19T19:24:45Z"
-    },
-    {
-      "id": "b87db3db-15aa-3866-ae54-1a410dbe4b56",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Analysts Project the Oklo Stock Price Will Reach $87 in 2027 -- Is the Risk-to-Reward Scenario Worth It?",
-      "summary": "An investment in Oklo requires patience and may take years to pay off.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/analyst-project-oklo-stock-price-risk-reward/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nNlzr_KQBJaQv7fZRIu2Vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f5f2a4ac05f9b95cb3a9dfe3c7a4ac32",
-      "published_at": "2026-07-19T19:21:00Z"
-    },
-    {
-      "id": "fb52cb4f-e38a-3cd5-a97c-942ed93409cd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop",
-      "summary": "The recent sell-off stings a lot less when the cost basis is $10 a share.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/if-youd-put-10000-in-palantir-at-its-ipo-heres-wha/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LO3.L5e1MuCBX3pTQvlZVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52b6c6ec738aa29db8a823bcd86c961d",
-      "published_at": "2026-07-19T19:13:00Z"
     },
     {
       "id": "d5117851-8568-32df-b6a9-5f6494658f17",
@@ -244,72 +310,6 @@
       "url": "https://247wallst.com/investing/etf/2026/07/19/this-boring-pipeline-dividend-mlp-returned-2x-the-qqqs-gains/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jTAnXlwbe4B6ovJ9wDALxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c195d6ae00f4356ee709a7630f5aa594",
       "published_at": "2026-07-19T17:45:42Z"
-    },
-    {
-      "id": "8b5eabb7-5ac6-32ee-9f19-996b4871195f",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
-      "summary": "Tech companies are on the hunt for more efficient technologies to reduce memory costs.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/a-hidden-threat-for-micron-apple-is-eyeing-a-fix/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t9zz9yhnKptuulviLeSmhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e7f74f2d04e6c76b4b82a4f8f50adbed",
-      "published_at": "2026-07-19T17:35:00Z"
-    },
-    {
-      "id": "accea71f-5ab0-3e30-80e2-9ed9f2435826",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "The CLARITY Act Could Be in Trouble. This is the Only Crypto I'm Buying Right Now.",
-      "summary": "Bitcoin will thrive, regardless of what happens to the CLARITY Act.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/the-clarity-act-could-be-in-trouble-this-is-the-on/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4S7Av_0zfs4hVxdr75zAjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a5a39a69bbaaf7e339f1c3409ad491f7",
-      "published_at": "2026-07-19T16:57:22Z"
-    },
-    {
-      "id": "abe68136-8b45-3ac7-b304-882029b77718",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Active Funds Can’t Beat the S&P 500? This One Didn’t Get the Memo",
-      "summary": "Most active large-cap funds quietly bleed investors through bloated fees and closet indexing, but T. Rowe Price built TCAF to break that pattern entirely. Whether it actually does depends on a tradeoff most investors never stop to consider.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/19/active-funds-cant-beat-the-sp-500-this-one-didnt-get-the-memo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y_8ITRY30OZvcrFVVkBtfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c299fb213d8dfbfdc9d1bdc12b0c82b2",
-      "published_at": "2026-07-19T16:36:43Z"
-    },
-    {
-      "id": "ecadc5d0-0f0f-3aff-8b18-1ffdfeaf333d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
-      "summary": "Apple just closed at a record high after a monster run, but the real question is whether the forces driving it higher are durable enough to carry the stock through a gauntlet of legal battles, insider selling, and a looming earnings report that could change everything.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/19/apple-just-hit-an-all-time-high-hsbc-thinks-it-can-climb-even-higher/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YYcXf.xU1OxEz.kRonCZZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a74ef96455075803d9abc6bebe9aa1ca",
-      "published_at": "2026-07-19T16:30:34Z"
-    },
-    {
-      "id": "f2c4d76e-3fef-3800-83da-1205825e90b6",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "I Can’t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
-      "summary": "Every headline says Google is hemorrhaging its best AI minds to Anthropic and OpenAI, and that narrative has created one of the most exploitable gaps between fear and reality in the market right now.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/19/i-cant-stop-buying-alphabet-because-the-ai-talent-narrative-is-wrong/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QHSMscg.eeo5pitq3aulqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
-      "published_at": "2026-07-19T16:12:10Z"
-    },
-    {
-      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-      "summary": "Dow Jones futures: An Iran attack killed two U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
-      "published_at": "2026-07-19T16:04:39Z"
     }
   ]
 }
