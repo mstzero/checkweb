@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-19 15:54 UTC",
+  "last_updated": "2026-07-19 16:54 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "abe68136-8b45-3ac7-b304-882029b77718",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Active Funds Can’t Beat the S&P 500? This One Didn’t Get the Memo",
+      "summary": "Most active large-cap funds quietly bleed investors through bloated fees and closet indexing, but T. Rowe Price built TCAF to break that pattern entirely. Whether it actually does depends on a tradeoff most investors never stop to consider.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/19/active-funds-cant-beat-the-sp-500-this-one-didnt-get-the-memo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y_8ITRY30OZvcrFVVkBtfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c299fb213d8dfbfdc9d1bdc12b0c82b2",
+      "published_at": "2026-07-19T16:36:43Z"
+    },
+    {
+      "id": "2d68714a-5dd2-3ea7-af02-7eadbeff2621",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
+      "summary": "The AI race is far from over.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/here-are-my-top-3-artificial-intelligence-ai-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UplFBfeORT3og_3kEnDGyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e2ba00c943c1dd9d361aa3344ac8f38e",
+      "published_at": "2026-07-19T16:35:00Z"
+    },
+    {
+      "id": "f8d2dc1a-707a-32bf-b89c-79894d79944d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
+      "summary": "A Korean brokerage downgrade lit a fuse under chip stocks Monday, sending a controversial leveraged ETF surging while NVIDIA, AMD, and Broadcom shed billions in market cap. Here is what connected those two moves and why the math behind the trade is more treacherous than the single-day gain suggests.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/why-the-soxs-semiconductor-bear-etf-is-surging-as-chip-stocks-sell-off/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mqRKmeeoAixujx6Aig2oww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bdaf2c14cfe2cb8d03871eafe5485870",
+      "published_at": "2026-07-19T16:31:05Z"
+    },
+    {
+      "id": "ecadc5d0-0f0f-3aff-8b18-1ffdfeaf333d",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
+      "summary": "Apple just closed at a record high after a monster run, but the real question is whether the forces driving it higher are durable enough to carry the stock through a gauntlet of legal battles, insider selling, and a looming earnings report that could change everything.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/apple-just-hit-an-all-time-high-hsbc-thinks-it-can-climb-even-higher/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YYcXf.xU1OxEz.kRonCZZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a74ef96455075803d9abc6bebe9aa1ca",
+      "published_at": "2026-07-19T16:30:34Z"
+    },
+    {
+      "id": "ec5b1240-ecb7-3af0-ab8f-b8921f0a9d75",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Rocket Lab's Latest Deal Puts It on a Collision Course With SpaceX",
+      "summary": "The companies are going to be direct rivals in the not-so-distant future.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/rocket-labs-latest-deal-puts-it-on-a-collision/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/149MSUkeMvfbRHOSQ0Vy0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/67c3d7f2ac85ff2fd1a6b0553b8134b8",
+      "published_at": "2026-07-19T16:20:00Z"
+    },
+    {
+      "id": "f2c4d76e-3fef-3800-83da-1205825e90b6",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "I Can’t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
+      "summary": "Every headline says Google is hemorrhaging its best AI minds to Anthropic and OpenAI, and that narrative has created one of the most exploitable gaps between fear and reality in the market right now.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/i-cant-stop-buying-alphabet-because-the-ai-talent-narrative-is-wrong/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QHSMscg.eeo5pitq3aulqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/56bd9567fcff0d866895c5b2c21e9ca1",
+      "published_at": "2026-07-19T16:12:10Z"
+    },
+    {
+      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "summary": "Dow Jones futures: An Iran attack killed two U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
+      "published_at": "2026-07-19T16:04:39Z"
+    },
+    {
+      "id": "ffcfecff-4171-3bcb-9704-b93e2677d563",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Can Nebius Group Really 10X by 2030? The Math Says Yes",
+      "summary": "Wolfe Research has a number that should stop any serious investor cold, and Nebius Group's own internal projections are not far behind. The question is whether one company can actually build the AI infrastructure layer the entire industry needs before the window closes.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/can-nebius-group-really-10x-by-2030-the-math-says-yes/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oY4d9inMWeSTXzJPCdzKHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500",
+      "published_at": "2026-07-19T16:04:31Z"
+    },
+    {
+      "id": "55a8e7b2-6b15-32c8-a64e-540f91e2092c",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "This Crypto Fund Stakes Everything and Pays 7%, No Exchange Account Needed",
+      "summary": "BlackRock's Ethereum ETF has pulled in billions from investors who wanted clean crypto exposure, but a rival fund already does something ETHA structurally cannot, and institutions are quietly lining up for it.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/19/this-crypto-fund-stakes-everything-and-pays-7-no-exchange-account-needed/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8wTamTag3n1gMf0h2mcShA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6fd8fcccdc0ed2671d6d4fbd294c6bb",
+      "published_at": "2026-07-19T15:50:24Z"
+    },
+    {
+      "id": "028b7429-467b-35bb-a5c9-8b7da3cc8b54",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "I'm Calling It: Bloom Energy Will Be a Very Different Stock After 2026 for 1 Reason",
+      "summary": "Years' worth of work is finally intersecting with an insatiable demand for electricity. This will put many more eyes on this company's surprisingly profitable future.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/bloom-energy-will-be-a-very-different-stock-after/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Eiv71X0BxRzXKoeRO1KJFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dd16b2827851c4ddba46205aab94a71c",
+      "published_at": "2026-07-19T15:50:00Z"
+    },
     {
       "id": "95eea2ee-19e2-3c27-ae0b-86edfe0537b1",
       "asset": "NVDA",
@@ -37,28 +147,6 @@
       "published_at": "2026-07-19T15:30:56Z"
     },
     {
-      "id": "17f8925c-4c13-382b-9de2-b826b6cc3030",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Warren Buffett Warns That the Market Is Headed for Trouble",
-      "summary": "A stellar compounding track record that spans six decades gives the Oracle of Omaha credibility few investors have.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/why-warren-buffett-warns-market-headed-for-trouble/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Njmk68UTILPtz5_7jWSneQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e9922feb51796360211a065e488c53da",
-      "published_at": "2026-07-19T15:20:00Z"
-    },
-    {
-      "id": "13246f30-2e29-3383-afe3-d9b1b08f5148",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The 12% Yield Trap: Why BIZD’s Soaring Payout Ratio Signals Trouble Ahead",
-      "summary": "A 12% yield from a single BDC ETF sounds like a income investor's dream, but the fee stack, a payout ratio above 100%, and two consecutive distribution cuts inside the fund tell a different story about who actually keeps the money.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/19/the-12-yield-trap-why-bizds-soaring-payout-ratio-signals-trouble-ahead/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lt_hAgTdGuQJwk8AL41evw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d2dc4b24566ae5d4f3593f688f556b0e",
-      "published_at": "2026-07-19T15:13:51Z"
-    },
-    {
       "id": "68d06fd9-5d6d-3fd4-bcbd-8182998c36cc",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -81,17 +169,6 @@
       "published_at": "2026-07-19T15:06:57Z"
     },
     {
-      "id": "533d51ce-d48e-333b-984b-952d604a09f8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Hedge Fund Star Ken Griffin Thought AI Was \"Garbage.\" Now He's Changing His Tune.",
-      "summary": "Ken Griffin, the CEO of Citadel, has evolved his view about AI.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/hedge-fund-star-ken-griffin-thought-ai-was-garbage/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DL9J0S21zyU7Sb2lD7czvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7b40c908b6466c2d5b23483606847921",
-      "published_at": "2026-07-19T15:05:00Z"
-    },
-    {
       "id": "935944ab-aa84-387d-b21e-4b3db0c3b964",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -103,37 +180,15 @@
       "published_at": "2026-07-19T15:04:26Z"
     },
     {
-      "id": "bca4ae55-939b-3274-a382-c3d53ff9f45e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Constellation Invests in Blue Energy as Nuclear Demand From AI Data Centers Surges. Here's What CEG Investors Need to Know.",
-      "summary": "Amid the AI power boom, Constellation Energy wants to lead the small modular reactor (SMR) race with innovative bets.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/constellation-invests-in-blue-energy-as-nuclear-demand-from-ai-data-centers-surges-heres-what-ceg-investors-need-to-know/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r3.arvRI2FLpEgK.2GvFWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e17fbe650a493ba6cf3f7e520224592b",
-      "published_at": "2026-07-19T15:04:08Z"
-    },
-    {
       "id": "0c86700a-7661-35a9-9fa6-2bfc77eab1fa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
       "summary": "Twenty-five percent delivery growth on one side. A 67% downside call on the other. Wednesday's report starts to settle it.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/07/19/tesla-heads-into-its-july-22-earnings-down-22-and/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TfnrcS6E8QpUVjybMrZxjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3428a73bb9403412c31b6ab6ef475ee",
       "published_at": "2026-07-19T15:03:00Z"
-    },
-    {
-      "id": "5eff1d6a-215d-38c1-8bd2-ee28ca069482",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 ETFs That Could Build a Complete Investment Portfolio",
-      "summary": "Sometimes, the simplest solution is also a superior one.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/3-etfs-that-build-a-complete-investment-portfolio/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TWzjHmvz0ciMxvQEJjXs.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b51dfe2598b91d17861f5cd37965676",
-      "published_at": "2026-07-19T14:50:00Z"
     },
     {
       "id": "7b5199d7-14a2-36f8-8e2e-16da2c163195",
@@ -167,17 +222,6 @@
       "url": "https://247wallst.com/investing/2026/07/19/why-worried-investors-should-buy-apple-over-amazon-for-the-rest-of-2026/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KTHi_jWsTyDCfU.yqFHaAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6d26a10ff9c646ed2d5feac2da5423a",
       "published_at": "2026-07-19T14:10:48Z"
-    },
-    {
-      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-      "summary": "Dow Jones futures: An Iran attack killed two U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
-      "published_at": "2026-07-19T13:14:21Z"
     },
     {
       "id": "d42b3396-c2ba-30b9-9a79-fe62c2d6d210",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-qwen-unveils-preview-flagship-110209258.html",
       "thumbnail": "",
       "published_at": "2026-07-19T11:02:09Z"
-    },
-    {
-      "id": "a9527575-ad70-3a9e-8e41-4b172413c955",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "From a $38,000 Income to $84,000 Without Investing Another Dollar",
-      "summary": "Most investors chase the biggest dividend check they can find today, but that instinct quietly sabotages the income they could be collecting a decade from now. The math behind a smarter approach is almost offensively simple once you see it.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/07/19/from-a-38000-income-to-84000-without-investing-another-dollar/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bHecDA3XHmBPtm4XsMQ7bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b0a0b5a6d29e6c0537e21dd6bc9e3436",
-      "published_at": "2026-07-19T11:00:43Z"
-    },
-    {
-      "id": "71ba61f8-0a3a-3d2b-a20e-c525ea246d3c",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
-      "summary": "Earnings reporting season will kick into high gear this week with several major technology companies releasing results,",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-alphabet-tesla-and-intel-headline-big-tech-earnings-reports-12020649",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J8htRJFplAjYgFKrMLnvNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/b32020082c07d42840c7f4164471fbcc",
-      "published_at": "2026-07-19T11:00:00Z"
-    },
-    {
-      "id": "7011d796-1771-3f2d-92fe-d68b2097a00c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "4 Cryptocurrencies Poised to Deliver Huge Gains, According to Standard Chartered",
-      "summary": "What bear market? Standard Chartered thinks these top cryptos are headed significantly higher.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/4-cryptocurrencies-poised-to-deliver-massive-gains/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LF.x5hrhxylqie5vUa5auw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/76346bb08ca0fc99aee254ff7bdd5537",
-      "published_at": "2026-07-19T10:50:00Z"
-    },
-    {
-      "id": "c114d997-4457-3f81-95c8-636423d9045c",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Mira Murati Unveils Open-Weight AI Model as Alex Karp, Satya Nadella Warn Companies Are Giving Away Their IP",
-      "summary": "As enterprise leaders such as Palantir Technologies Inc. CEO Alex Karp and Microsoft Corp. CEO Satya Nadella raise the alarm about companies surrendering their intellectual property (IP) to centralized artificial intelligence (AI) models, former OpenAI executive Mira Murati has launched...",
-      "source": "Benzinga",
-      "url": "https://tech.yahoo.com/ai/articles/mira-murati-unveils-open-weight-104531804.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZaqR_3igyMQdiGrpePK4sQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/f2bb57c7eb0500c677acfb00dfc3dc8b",
-      "published_at": "2026-07-19T10:45:31Z"
     }
   ]
 }
