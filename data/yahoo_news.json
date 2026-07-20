@@ -1,8 +1,250 @@
 {
-  "last_updated": "2026-07-20 01:05 UTC",
+  "last_updated": "2026-07-20 05:03 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "20e2e0dd-7e8c-386b-a890-e62fa4ba98e7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Fed Chair Kevin Warsh Vowed to End 5 Years of High Inflation in First Congressional Testimony",
+      "summary": "An unpredictable geopolitical situation may make it much harder than anticipated.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/20/fed-chair-kevin-warsh-vowed-to-end-5-years-of-high/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mMA4umeNzwXSaaji82tWSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c151b9cccf8eda90588f9f1f56137be4",
+      "published_at": "2026-07-20T04:50:00Z"
+    },
+    {
+      "id": "6cf60430-0cf4-3fb5-8fce-a879a63099a4",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Michael Saylor Says Bitcoin's Proposed BIP-110 Upgrade Is 'More Dangerous Than the Condition'",
+      "summary": "Strategy Inc. (NASDAQ:MSTR) founder Michael Saylor made a case on Sunday against the BIP-110 software upgrade for Bitcoin (CRYPTO: BTC), arguing that the “proposed cure is more dangerous than the condition.” What Is The Upgrade About The upgrade is aimed at temporarily restricting the use of Bitcoin for storing large amounts of “non-monetary data,” including Ordinal inscriptions, and refocusing priorities on improving Bitcoin as “money.” Supporters of BIP-110 argue that this “spam” bloats the bl",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-bitcoins-proposed-044937060.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kC.TIAOXAFEbUJPM85zyHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/ba3fffced0a5b9b9d5df8bfe59b7b0f7",
+      "published_at": "2026-07-20T04:49:37Z"
+    },
+    {
+      "id": "c775f39c-ed95-3caa-8a24-ef74e10b5934",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "South Korea's Kospi drops nearly 5% as some AI stocks swoon, while oil keeps climbing",
+      "summary": "Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as investors unloaded more stocks linked to artificial intelligence.  Oil prices jumped more than 2%, with Brent crude above $90 a barrel as the U.S. and Iran moved closer to resuming an all-out war.  Iran has been responding to U.S. strikes by hitting U.S.-allies across the Middle East.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GMUOb8kSJyEh6DpwlnQR_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/22f11f4513afd9a3274182fe3456d511",
+      "published_at": "2026-07-20T04:35:30Z"
+    },
+    {
+      "id": "94f35f7e-2b7f-3e8a-b07f-c7f183dc84aa",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Contango ORE Fireside Chat: Metals Pullback Meets Defense, AI Demand Tailwinds",
+      "summary": "A panel of mining executives said recent volatility in precious and critical metals should be viewed in the context of still-elevated prices, while pointing to defense demand, artificial intelligence-related infrastructure and constrained project pipelines as key themes shaping the sector. The disc",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/contango-ore-fireside-chat-metals-pullback-meets-defense-ai-demand-tailwinds-2026-07-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G0YvCvtuqoo.waCKO.wUNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3",
+      "published_at": "2026-07-20T04:02:12Z"
+    },
+    {
+      "id": "7cdafdf5-251f-30ed-b209-007da3e7ef39",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares open lower, dragged by HDFC Bank; higher oil also weighs",
+      "summary": "July 20 (Reuters) - Indian shares opened lower on Monday, dragged by heavyweight HDFC Bank on a sequential moderation in its quarterly profit margins, while escalating conflict in the Middle East that",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-may-open-tad-023435425.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FTbb3pqFDt5YiuOX19xowQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4ced3f26b0ccbd89ecdde339752d3d9d",
+      "published_at": "2026-07-20T04:01:11Z"
+    },
+    {
+      "id": "bb297a31-37ba-3f80-9e11-4ec3ff5f853d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Brent oil tops $90 as US, Iran expand strikes in the Middle East",
+      "summary": "By Florence Tan and Siyi Liu SINGAPORE, July 20 (Reuters) - Brent oil prices rose 2% to more than $90 per barrel on Monday, as escalating U.S.-Iran hostilities in the Middle East restricted oil",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/brent-oil-tops-90-us-001615973.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2m9WfnTDlcQGrUs4Dag5gg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/c131703e2293e3c944cd116c58fe8e8d",
+      "published_at": "2026-07-20T03:31:14Z"
+    },
+    {
+      "id": "1bfcb884-4116-3557-b3ce-a845a7b4025c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil hits one-month high as Mideast war keeps investors on edge",
+      "summary": "Brent crude hit on Monday its highest price since June due to renewed fighting between the United States and Iran, while Asian equities were mixed as investors weighed the fallout of a prolonged Middle East war.Brent rose above $91 a barrel, its highest price since June 11.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/energy/articles/oil-hits-one-month-high-031729660.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uycJKta7u8p2Kd0P0tlrZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/e39a9df7e8fad5bf9a56cb800918a1aa",
+      "published_at": "2026-07-20T03:17:29Z"
+    },
+    {
+      "id": "12c4d4ee-e38b-3af8-b7da-5c03c6ee3b31",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft (MSFT) Criticizes Anthropic Fable AI While Azure Ties Deepen",
+      "summary": "Microsoft CEO Satya Nadella publicly criticized Anthropic's Fable AI product, questioning aspects of its technology and positioning. The comments come while Anthropic remains closely tied to Microsoft through significant use of the Azure cloud platform. Nadella's remarks highlight both cooperation and friction within a major AI partnership that is already attracting regulatory attention. Microsoft (NasdaqGS:MSFT) enters this episode with its stock at $393.82 and mixed recent performance,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-criticizes-anthropic-fable-031452921.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AyiBLWl3XhKcC4uQ8kwsOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925",
+      "published_at": "2026-07-20T03:14:52Z"
+    },
+    {
+      "id": "c3d37c8b-c696-3924-b3a1-b49ac5e9d4be",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Price Holds Above $4,000: Will Oil Surge Push It Lower?",
+      "summary": "Gold holds near $4,000 as Brent crude tops $90 and Fed officials push for a July rate hike amid renewed Iran conflict.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/gold-price-4000-oil-fed-hawks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Js83RQ4bsVcR1tTG4TJoug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5504a4fca2f1d85e4340c2999dabd223",
+      "published_at": "2026-07-20T03:12:42Z"
+    },
+    {
+      "id": "aca4c4ec-13aa-39c0-b86e-7da20889bb07",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Hedge Funds Amass Biggest New Zealand Dollar Net Short Since 2006",
+      "summary": "(Bloomberg) -- Leveraged funds have taken their short positions on the New Zealand dollar to a record high, betting that a recent rebound in global oil prices may exacerbate domestic economic pressures.Most Read from BloombergUS Strikes Iran in Escalating Campaign After Troops KilledThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz LegacyUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesAustria Hopes Hitler",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/hedge-funds-amass-biggest-zealand-031221551.html",
+      "thumbnail": "",
+      "published_at": "2026-07-20T03:12:21Z"
+    },
+    {
+      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead",
+      "summary": "Dow Jones futures: Iran attacks killed three U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
+      "published_at": "2026-07-20T03:04:27Z"
+    },
+    {
+      "id": "620d4142-7133-30d5-be07-b5f9c81baa4c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Morgan Stanley Set a $300 Price Target on Elon Musk's SpaceX Stock",
+      "summary": "SpaceX's unique business model comes with a high ceiling, but also a low floor.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/morgan-stanley-set-a-300-price-target-on-elon-musk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fWJRzvl1CYnd3pq9bsuizw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b8fed98af5980de556c756e32e373d45",
+      "published_at": "2026-07-20T02:50:00Z"
+    },
+    {
+      "id": "28fcbb09-b369-31ae-a4fe-993a80948e7e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Reasons Circle Internet Group Could Soar in Value by 2030",
+      "summary": "Circle remains the single-best way to get exposure to the $300 billion stablecoin industry.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/3-reasons-circle-internet-group-could-10x-in-value/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hPISQTPo2DKP4nst9Uatiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5f435f388ba2a23924d1c2b2c9948db9",
+      "published_at": "2026-07-20T02:35:00Z"
+    },
+    {
+      "id": "a0b0e873-544d-3a34-ae05-1b0a31980aaa",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asia shares shaky as oil climbs, earnings loom",
+      "summary": "By Wayne Cole SYDNEY, July 20 (Reuters) - Asian share markets slipped on Monday as the escalating conflict in the Gulf lifted oil prices and fanned fears of inflation, while a packed week of major",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asia-shares-hesitant-oil-climbs-003525906.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.0hyh3JvDF3NoZxSSDVEpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4a97e48e98080467009e9a2907d676e2",
+      "published_at": "2026-07-20T02:12:28Z"
+    },
+    {
+      "id": "8832144b-761a-3d4e-8670-3eef3be75d6d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Stay Flat Amid Iran Tensions—Analyst Says This BTC Level Could Ignite 'Sustained Bull Trend'",
+      "summary": "Leading cryptocurrencies moved sideways on Sunday as U.S. strikes on Iran continued into their “ninth consecutive night.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.03%$64,703.37Ethereum (CRYPTO: ETH) +0.78%$1,872.63XRP (CRYPTO: XRP) +0.48%$1.09Solana (CRYPTO: SOL) +1.40%$76.59Dogecoin (CRYPTO: DOGE) +0.11%$0.07249 Crypto Market Coagulates Bitcoin hovered between $64,000 and the low $65,000 range, even as trading volume surged 12% over the past 24 hou",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-stay-021041573.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eEftz6X8TSoxrJCwOlYa8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/e1c0b519fbad123cf702d572a4f4d7ca",
+      "published_at": "2026-07-20T02:10:41Z"
+    },
+    {
+      "id": "a40f4606-cdd1-3c18-8659-bb9662420c6b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Micron's 30% Decline Is Dragging Down the iShares Semiconductor ETF (NASDAQ: SOXX). Here's a Low-Cost Vanguard ETF to Buy Instead.",
+      "summary": "Demand for memory chips to power AI workflows has led to surging prices in memory chip stocks like Micron.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/micron-30-decline-is-dragging-down-the-ishares-se/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HhGpQj2TTVAfZI1sPMJahg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/85f190d5529705220d5fa582b808df0e",
+      "published_at": "2026-07-20T02:09:00Z"
+    },
+    {
+      "id": "b2b1b417-d3df-3bb4-8cc0-84cb8f5aad95",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Apple’s stunning Nvidia flip reveals where AI money is moving",
+      "summary": "Apple (AAPL) briefly overtook Nvidia (NVDA) as the world’s most valuable company during trading on July 17. However, Apple could not maintain the lead for long. Nvidia’s market capitalization was nearly $4.95 trillion compared with about $4.91 trillion for Apple when the markets closed on Friday. ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/apples-stunning-nvidia-flip-reveals-where-ai-money-is-moving",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uQli9JxQy3WtFZmkU_gytA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8ebfd08bbb6f5b5fd7badff9574b2ffc",
+      "published_at": "2026-07-20T02:03:00Z"
+    },
+    {
+      "id": "dd5d9bf8-4bb0-3779-abf4-648d7679b781",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins",
+      "summary": "Investors will watch Tesla's updates on margins, cash flow, Cybertruck, FSD 15, and Optimus.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-germany-ramp-q2-analyst-delivery-jump-improving-margins/cZZLVILR7MZ",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PeMMwqkZ3GaFsCFIoQOH3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/7a16c430235d3088c8a4758c155b0cc0",
+      "published_at": "2026-07-20T01:57:54Z"
+    },
+    {
+      "id": "e6c52f50-b2cf-3610-96e0-19f80348fef2",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus",
+      "summary": "Alphabet, Tesla, and Intel are among the key companies reporting their second-quarter results later this week.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-s-and-p-500-futures-edge-higher-ahead-of-key-earnings-week-even-as-middle-east-tensions-continue/cZZLNV8R7Ml",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CUgkPX.eBjOlIKbcrhEIzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8d4da88003b7d3b62ccfcb5b9efa5e35",
+      "published_at": "2026-07-20T01:35:37Z"
+    },
+    {
+      "id": "95845fe7-c934-377d-a4d6-2aa2934bc6cc",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "India FX traders eye oil prices, RBI defence; bonds bulls await index decision",
+      "summary": "By Dharamraj Dhutia and Jaspreet Kalra MUMBAI, July 20 (Reuters) - The Indian rupee's trajectory this week will hinge on crude oil prices and the extent to which the central bank defends the currency",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/india-fx-traders-eye-oil-013151596.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/26NkdRbMz8bnVLqlmyc3cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/35a1dd82b84f9f3e5eb55ce25ddcb3e3",
+      "published_at": "2026-07-20T01:31:51Z"
+    },
+    {
+      "id": "2f0e4386-3000-3b6a-b1f8-61c2d38044c1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "How Will AbbVie's $10.9 Billion Acquisition of Apogee Impact Its Dividend?",
+      "summary": "There's no need to panic.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/19/how-will-abbvies-109-billion-acquisition-of-apogee/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3668E0SSGmIJQiVMtxHQPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1e2b0f825e8e8279d526f97d49053f45",
+      "published_at": "2026-07-20T01:05:00Z"
+    },
+    {
+      "id": "34a9a292-06c2-3541-87bc-2fcefd61e5f1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Falls Amid Higher-For-Longer Interest-Rate Expectations",
+      "summary": "Gold declined in the early Asian trade. Expectations that interest rates will remain higher for longer have boosted the dollar and Treasury yields, likely weighing heavily on gold, said XS.com.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-higher-for-longer-interest-rate-expectations-4703d83c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-07-20T01:05:00Z"
+    },
     {
       "id": "0f25233e-3c08-3ee1-9d4c-f0c7b032103f",
       "asset": "NVDA",
@@ -26,72 +268,6 @@
       "published_at": "2026-07-20T00:49:01Z"
     },
     {
-      "id": "6c8dacfc-1037-32fc-a343-353600ff0076",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Oil Prices Rise As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
-      "summary": "Dow Jones futures: Iran attacks killed three U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rr78WjyqK.5yAgjxw5iR5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec",
-      "published_at": "2026-07-20T00:37:29Z"
-    },
-    {
-      "id": "e8c277a8-1d24-3256-b086-04462defa0ad",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did IBM Stock Plunge 25% in One Day? Preliminary Q2 Results Were Weak, But Not Terrible",
-      "summary": "The biggest concern among investors is that IBM will lower its full-year 2026 guidance when it releases its full, official Q2 report.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/ibm-stock-q2-preliminary-warning-ai-capex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fTrMr6xM0jo.z1SuG.GvvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/36f19b262e33f2566bcc3370c0e03121",
-      "published_at": "2026-07-20T00:37:09Z"
-    },
-    {
-      "id": "a0b0e873-544d-3a34-ae05-1b0a31980aaa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Asia shares hesitant as oil climbs, earnings loom",
-      "summary": "By Wayne Cole SYDNEY, July 20 (Reuters) - Asian share markets were hesitant on Monday as the escalating conflict in the Gulf lifted oil prices and fanned fears of inflation, while a packed week of",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asia-shares-hesitant-oil-climbs-003525906.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/C5RaLVabLb7uBcmOSfwT_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/b08697ea972110730201beeadf4097fb",
-      "published_at": "2026-07-20T00:35:25Z"
-    },
-    {
-      "id": "7af3c13f-fb92-3e49-8233-0ce2705ab1fb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should You Buy $1,000 Worth of SpaceX Stock Before Its First Earnings Report?",
-      "summary": "After all, those official figures probably won't be made public for weeks yet.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/should-you-buy-1000-worth-of-spacex-stock-before-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yMOsqz8mRS.tRRhfQdBHkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fd8a558f6aa733ef874ecf7001f1335c",
-      "published_at": "2026-07-20T00:20:00Z"
-    },
-    {
-      "id": "bb297a31-37ba-3f80-9e11-4ec3ff5f853d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Brent oil tops $90 as US, Iran intensify attacks in Middle East",
-      "summary": "By Florence Tan SINGAPORE, July 20 (Reuters) - Oil prices jumped 3% on Monday, with Brent surpassing $90 a barrel, as the United States and Iran expanded attacks in the Middle East that have curbed",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/brent-oil-tops-90-us-001615973.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3vkb4r6poZ1jabhyPAUy2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2746b0fec395905043047646cf55a60b",
-      "published_at": "2026-07-20T00:16:15Z"
-    },
-    {
-      "id": "6bb6bfe1-e5d4-3a0e-a30c-a44469963179",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Memory Chips Just Fell Into a Bear Market. Micron Is Down 30% From Its High Even as AI Demand Booms.",
-      "summary": "The fundamentals say boom. The stock price says the boom is ending. One of them is wrong.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/memory-chips-just-fell-into-a-bear-market-micron-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JAV89WIQEtJUu1mh.H95Vw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb2b11fe5a7a44499bbcf755b019856f",
-      "published_at": "2026-07-20T00:03:00Z"
-    },
-    {
       "id": "5d07f63e-f1f2-4d0c-9698-b601028828ef",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -103,92 +279,15 @@
       "published_at": "2026-07-20T00:00:00Z"
     },
     {
-      "id": "290bc52d-427a-3418-8d18-24abd49208f5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Rises on Rising Concerns Over Supply Disruptions in Middle East",
-      "summary": "OIL MARKETS 2340 GMT — Oil rises on rising concerns over supply disruptions in the Middle East. American military forces started conducting a new wave of strikes against Iran for ninth straight night, the U.",
+      "id": "94ecc58a-0f2d-39dd-aa69-bf018dd15a79",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "These AI-Native Companies Have Tiny Staffs and Fewer Bosses",
+      "summary": "The first, a subscription-based furniture rental company he started in 2017, employed around 150 staff at its peak before he sold it in 2022.  The newest generation of companies, infused with AI from the start, offer a vision of how work could soon be structured elsewhere in American corporations: Fewer co-workers; more on-staff engineers; and a flatter structure in which nearly everyone is a player-coach instead of strictly overseeing teams.  A new working paper examining thousands of recent Y Combinator and other U.S. venture-backed startups indicates as much.",
       "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-rising-concerns-over-supply-disruptions-in-middle-east-16d3038e?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-07-19T23:43:00Z"
-    },
-    {
-      "id": "b1fae642-1a0a-358f-85d4-70ef23ae17df",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Oil Pulls the Market Lower Again",
-      "summary": "Oil may not be the big driver of stocks that it was a few months ago -- and the market's pullback may simply be a healthy breather for hot stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/oil-pulls-the-market-lower-again/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N59Gvf.JuEORyYyFAEp.Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/105bfe6fb8ee5c6e5fdded17068c5aa8",
-      "published_at": "2026-07-19T23:35:01Z"
-    },
-    {
-      "id": "6608f205-78c2-3bf9-9605-fb1c2aa06099",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment",
-      "summary": "TSMC is seeing strong, multi-year demand for its AI chips as it invests a further $100 billion to expand its Arizona facilities, but it needs to address several challenges, such as a shortage of construction workers there, a top ‌executive said.  Speaking after blockbuster second-quarter results on Thursday, Chief Financial Officer Wendell Huang said the company is \"very happy\" with progress in Arizona, which is ‌why it decided to ramp up investment to $265 billion.  \"We continue to see customers' strong demand — ​multi-year structural demand.\"",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-expects-strong-multi-demand-231456689.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cVvy11Y1ahgnuW_n41YJSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/78e2afaffc88c223eece509bd2cb46ca",
-      "published_at": "2026-07-19T23:14:56Z"
-    },
-    {
-      "id": "51497405-d60c-3bae-a23b-78acdcd3787f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Price Tops $90 as Iran War Escalates: What It Means for Crypto",
-      "summary": "Brent crude tops $90 as the Iran war chokes Hormuz flows, lifting Fed hike bets and pressuring Bitcoin.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/oil-price-iran-war-crypto-impact/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pZsoEmIxrVyxcOhp1MjXIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/261be73cde35330da0d1662954646626",
-      "published_at": "2026-07-19T23:08:38Z"
-    },
-    {
-      "id": "ea49ef04-b1ac-34c4-91ca-89f677475108",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Even With Elon Musk's SpaceX Stock (SPCX) Down Below Its IPO Price, I'd Still Rather Buy This Dividend Stock in July",
-      "summary": "Why opt for speculation when you could grab a 6.3% dividend yield that's been paid for 127 years in a row?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/even-with-spacex-down-below-its-ipo-price-id-still/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uHVAqf5GMGLpwu8rMJcgaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/984e62df708ba999d1f08854e374247a",
-      "published_at": "2026-07-19T22:58:00Z"
-    },
-    {
-      "id": "f516f540-5aae-3d93-b43c-e4e345c704c5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows",
-      "summary": "(Bloomberg) -- Brent crude jumped after the US and Iran escalated hostilities over the weekend, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait.Most Read from BloombergThousands of Trucks Haul Iraq’s Oil Through Syria in Sign of Hormuz LegacyUS Strikes Iran to ‘Punish’ It for Attack That Killed 2 TroopsIran Conflict Escalates as US Announces Another Troop Was KilledFCC Near Rulings Against Disney Over ‘The View,’ TV Lice",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/energy/articles/brent-oil-tops-90-middle-225554077.html",
-      "thumbnail": "",
-      "published_at": "2026-07-19T22:55:54Z"
-    },
-    {
-      "id": "8a07556a-36e5-3032-8a50-d25413edded4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI Expectations Hit a Fever Pitch",
-      "summary": "Despite churning out incredible numbers, semiconductor stocks still seem to somehow “miss expectations.” The team digs into Wall Street's expectations game.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/ai-expectations-hit-a-fever-pitch/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ANKQoETH_7OQehN3IZMOfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f41286211828346f72d8e6f9dfc45843",
-      "published_at": "2026-07-19T22:46:01Z"
-    },
-    {
-      "id": "d8c17968-0715-3b5d-9758-8bb1ca0ea626",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Futures Head Lower, Oil Rises After Escalation in Iran War",
-      "summary": "U.S. stock futures were heading lower and oil was rising on Sunday after the U.S. carried out its eighth consecutive day of strikes on Iran in an escalation of the conflict.  Just after 6 p.m. Eastern time, S&P 500 futures were down 0.1% as were Nasdaq 100 futures.  Dow futures were down nearly 0.2%.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-dea89b32?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3knIgtMTI4x2_4EYiepgGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/56b92317f3f93c63a670d690c3c6f033",
-      "published_at": "2026-07-19T22:17:00Z"
+      "url": "https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.hF3cPp_I3q67iLbXAkf3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/b61b22e5aa000bdf1d4cb56901505c32",
+      "published_at": "2026-07-20T00:00:00Z"
     },
     {
       "id": "e01a0b0c-03bb-3fbd-998d-b8cc2650097e",
@@ -202,17 +301,6 @@
       "published_at": "2026-07-19T21:07:28Z"
     },
     {
-      "id": "f9687edc-77da-3fda-8dfd-cc639e8cffda",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Venture Global (VG) Soars as Geopolitical Tensions Fuel Natural Gas Rally",
-      "summary": "Venture Global climbed by 12.7 percent week-on-week, as investors rotated their portfolios into energy stocks amid the surging prices of oil and gas driven by escalating geopolitical tensions. As of Friday, Bloomberg data showed that August Henry Hub natural gas futures traded up by 1.85 percent to $2.91 amid concerns over tighter global gas supplies. […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/venture-global-vg-soars-geopolitical-210724730.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W16p5hFi6Mw0OIL3Dj9CMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/25c2f9a82d994c0db376f8bb184a1aeb",
-      "published_at": "2026-07-19T21:07:24Z"
-    },
-    {
       "id": "2ceb84f9-7f45-3956-9f1c-688c38cc807f",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -222,94 +310,6 @@
       "url": "https://beincrypto.com/strategy-strc-mispriced-13-percent/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xhP0cns4AdkOUHzq1BrM9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8746021bf08a2b66c5292adbe576686d",
       "published_at": "2026-07-19T20:52:55Z"
-    },
-    {
-      "id": "95243a11-42d0-3c97-bd04-bf788b34d915",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
-      "summary": "Legendary investor Warren Buffett is no longer the CEO of Berkshire Hathaway Inc, but remains active as Executive Chairman at providing investment ideas for the conglomerate and new CEO Greg Abel. These days, Buffett says its tough to find value...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uDkdaYcTvdf.9pPKvGCALQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6f5e83b6e3350fc1a724e01820b76753",
-      "published_at": "2026-07-19T20:31:19Z"
-    },
-    {
-      "id": "516e602b-de06-3b0a-865f-1ebf5877bd19",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MicroStrategy CEO: Wall Street’s Biggest Banks are Locked in a Tight Bitcoin Race",
-      "summary": "Goldman, JPMorgan, and Citi trail Fidelity in MicroStrategy's new Bitcoin Banking Adoption Index rankings this year.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/banks-race-second-bitcoin-adoption-index/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TMoCEQz92RY7kavrcCVE0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2e2a553fd59dd600194688d941f84f9b",
-      "published_at": "2026-07-19T20:30:00Z"
-    },
-    {
-      "id": "475888c9-cc6c-3f39-afd5-bd8ad508faf2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did",
-      "summary": "Coinbase CEO Brian Armstrong says Bitcoin missed Satoshi's vision as everyday money while stablecoins took the payments role.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-satoshi-vision-armstrong-stablecoins/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/huATpImg4iv9.aMs2e41qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5c07e9853acd3f843352ac1665ac0573",
-      "published_at": "2026-07-19T20:00:00Z"
-    },
-    {
-      "id": "7c609c3c-eed5-3246-8308-cdb1fead74c2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Donald Trump celebrates reports Andy Burnham could back more North Sea drilling",
-      "summary": "The incoming prime minister has not confirmed reports that he is considering approving new fossil fuel production.",
-      "source": "PA Media: Money",
-      "url": "https://uk.finance.yahoo.com/news/donald-trump-celebrates-reports-andy-150657850.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HTANb8ClkHu10EVAXTKyAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/snappa.ukfinance/171576599310681a7607505d4ffaeffe",
-      "published_at": "2026-07-19T19:47:16Z"
-    },
-    {
-      "id": "52e16a02-d182-306f-85d6-48a8b10b122f",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
-      "summary": "Will Musk's \"dogged determination\" help Tesla beat expectations?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/elon-musks-tesla-remains-one-of-the-last-great-fou/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/knxSS2GSqz5Nln5TElgf9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3688e450c94839490a9c3da77ee01252",
-      "published_at": "2026-07-19T19:25:00Z"
-    },
-    {
-      "id": "8db9a756-536d-3260-895b-469dc2859b91",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-lawsuit-derail-openai-hardware-192445049.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tlW2k9RnllFH1XKHr3Vo4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/bb87cf893830106e95f3767bb4ee46d1",
-      "published_at": "2026-07-19T19:24:45Z"
-    },
-    {
-      "id": "d5117851-8568-32df-b6a9-5f6494658f17",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Is Apple Still a Buy at Its All-Time High?",
-      "summary": "Apple is riding a wave of momentum led by strong sales and a different AI approach.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/is-apple-still-a-buy-at-its-all-time-high/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ifnZL3GC0_W92T0FTM75hQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7013dad70cec496bd35a80ab3073ae75",
-      "published_at": "2026-07-19T18:44:00Z"
-    },
-    {
-      "id": "711bade4-4dbe-3743-ad2a-770db8bcd9f3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Fed Flags a Fresh Inflation Threat That Could Rattle Markets",
-      "summary": "The AI data center build-out is driving up prices for some consumer goods.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/19/fed-flags-inflation-threat-could-rattle-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qz_1mJE1Xk7z75J8uzq16Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4fea45321e615c056ede04d2a1424276",
-      "published_at": "2026-07-19T18:20:00Z"
     }
   ]
 }
