@@ -1,18 +1,216 @@
 {
-  "last_updated": "2026-07-21 23:27 UTC",
+  "last_updated": "2026-07-22 00:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "d6861c87-1fc5-3036-bd9e-154c3bc09bf7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "$4.1 billion firm discloses exposure to Bitcoin, XRP, Robinhood",
-      "summary": "Farmers & Merchants Investment Inc., a bank holding company with assets under management (AUM) worth $4.1 billion, disclosed exposure to Bitcoin (BTC), XRP, and Robinhood Markets (Nasdaq: HOOD). While Bitcoin is the world's largest cryptocurrency, XRP is the sixth-largest ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/4-1-billion-firm-discloses-exposure-to-bitcoin-xrp-robinhood",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4i1wgXf9tOYhEh_5gyQUbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4884fb6136597c87dcf789303bf86dc1",
-      "published_at": "2026-07-21T23:00:00Z"
+      "id": "33e2bb25-299f-3d3b-a010-e095a4a68f83",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "A Caller’s Dad Turned $22,000 Into $1 Million on a Single Stock. Now the Family Faces a $150,000 Tax Decision",
+      "summary": "An 84-year-old man with Alzheimer's is sitting on a stock position worth a fortune, and selling it triggers a massive tax bill that waiting could legally erase. The family has to decide before the choice gets made for them.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/07/21/a-callers-dad-turned-22000-into-1-million-on-a-single-stock-now-the-family-faces-a-150000-tax-decision/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ka9eAn8CxJrFmJ82iTo94w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4b38ddbbf0062bd7637834c56e5be96e",
+      "published_at": "2026-07-22T00:50:14Z"
+    },
+    {
+      "id": "06dbf409-de8d-3302-a987-ac7f98c9ffbc",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Japan's exports jump in June on weak yen, AI-linked demand",
+      "summary": "TOKYO, July 22 (Reuters) - Japan's exports rose for a tenth straight month in June, government data showed on ‌Wednesday, driven by a weak yen and strong demand driven ‌by AI-related data centres despite supply disruptions linked to the U. Total ​exports by value jumped 19.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/japans-exports-jump-june-weak-002536228.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7uA5zr.u2Qu80Oauqjx.3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/51969bb34f6619b72504da69e1451970",
+      "published_at": "2026-07-22T00:25:36Z"
+    },
+    {
+      "id": "22b863a7-41a2-3ab7-a176-1821192a74c0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Is Down 20%: Here's Why I'm Still Not Buying",
+      "summary": "The stock recently slipped below its IPO price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/spacex-is-down-20-heres-why-im-still-not-buying/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aOekZdlFheUBm_i_KUp6Dw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/091245cfa3778362cfcceb09c6825aa0",
+      "published_at": "2026-07-22T00:25:00Z"
+    },
+    {
+      "id": "e50cca03-ea6d-3fed-b035-7937254a6277",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Trading Day: Stocks fly, yen sinks",
+      "summary": "By Jamie McGeever ORLANDO, Florida, July 21 (Reuters) - World stocks rallied sharply on Tuesday, with strong gains in semiconductor shares more than offsetting any angst about the U.S.-Iran war and",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-stocks-fly-yen-002251967.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TrH1Chc_26_DS3C4KhO9Yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/28715a063c829c53cf2b29526fca8099",
+      "published_at": "2026-07-22T00:22:51Z"
+    },
+    {
+      "id": "dbb26781-0af2-3b85-82c7-05c00bb7dee0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Moderna Stock Hand Over Fist Before Aug. 5?",
+      "summary": "The biotech has been on a tear lately.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/should-you-buy-moderna-stock-hand-over-fist-before/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Cp0RAYg.8rfLPPx02JbBqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fd40816ecc8a451d1563dd72bf9b68e0",
+      "published_at": "2026-07-22T00:20:00Z"
+    },
+    {
+      "id": "8467bc44-22df-3de9-96c5-5bf519fce946",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Your SPLG Position Is Stretched, What's Next?",
+      "summary": "The large-cap fund's price is well above its trend, but the advance was narrow, raising a tough question for holders.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/608209/your-splg-position-is-stretched-whats-next/2026-07-21",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
+      "published_at": "2026-07-22T00:01:12Z"
+    },
+    {
+      "id": "323da457-9567-3a75-baf6-07409e707381",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Review & Preview: Bounce",
+      "summary": "The Dow Jones Industrial Average added 0.7% while the S&P 500 rose 0.9% and the Nasdaq Composite gained 1.3%.  Semiconductor stocks logged their best day in a month.  Overall, traders “shrugged off the news from the War in favor of buying the chip makers again, presumably on the hope that the AI hyperscalers, when they report second-quarter earnings over the next few days, will also report large capital spending plans,” wrote Macquarie Strategist Thierry Wizman.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-today-tech-rebound-lifts-market-indexes-2205fb96?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+      "published_at": "2026-07-21T23:55:00Z"
+    },
+    {
+      "id": "53976146-9e5e-3ffa-974e-b6d0dc499dec",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Fantastic News for Netflix Stock Investors!",
+      "summary": "The company hasn't said its last word.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/fantastic-news-for-netflix-stock-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kVRLTNiQTdGskhjWiUVTqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc42654bdb2de46437992c6dde4ad051",
+      "published_at": "2026-07-21T23:50:00Z"
+    },
+    {
+      "id": "79e97ace-d07f-3859-87c3-c4288ec3131e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett Reveals He Was Behind Berkshire's Decision to Invest in Alphabet",
+      "summary": "The billionaire investor has typically been hesitant when it comes to buying tech stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/warren-buffett-reveals-he-was-behind-berkshires-de/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UY6NHjE3XFzH_9g8AOsJow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/239951d297f18ffff99aa9eed10a4ecc",
+      "published_at": "2026-07-21T23:50:00Z"
+    },
+    {
+      "id": "7fea48d7-a0af-3627-80e7-d60e9e582af9",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Zhongji Innolight Seeks $7.02 Billion in Hong Kong’s Biggest Listing This Year",
+      "summary": "The Shenzhen-listed company plans to raise more than US$7 billion in a Hong Kong public offering that would be the city’s largest listing so far this year.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/zhongji-innolight-seeks-7-02-billion-in-hong-kongs-biggest-listing-this-year-81e6eee6?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7khHRNe_QQT0d4BmmLO4.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/b29d3cd81d699618bc65152185de1ded",
+      "published_at": "2026-07-21T23:48:00Z"
+    },
+    {
+      "id": "dc756a58-ad9d-3457-8f64-d05485e34eaa",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Rises Amid Growing Concerns Over Supply Disruptions in Middle East",
+      "summary": "OIL MARKETS 2336 GMT — Oil rises in early Asian trade amid growing concerns over supply disruptions in the Middle East. “A Kuwaiti oil tanker was attacked in the Strait of Hormuz northeast of Oman by an unknown projectile,” ANZ Research analysts say in a research report.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-concerns-over-supply-disruptions-in-middle-east-067ef229?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-07-21T23:38:00Z"
+    },
+    {
+      "id": "66e8a702-0a81-372a-a1d9-da85b666040f",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Says Traffic Will Get Worse With Robot Cars, Reaffirms Tesla FSD Will Remember Individual Preferences",
+      "summary": "Tesla Inc. CEO Elon Musk has predicted that self-driving cars will cause traffic to increase in the future as more vehicles will be on the road. Robot Cars Will Make Traffic Worse On Sunday, Musk responded to investment firm Mach...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/articles/elon-musk-says-traffic-worse-233117391.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WrcKQHa0GD2S58X9tobY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/0816c5fe4e4a69dac1d9a4db2b409f6a",
+      "published_at": "2026-07-21T23:31:17Z"
+    },
+    {
+      "id": "dbdfa3fd-e550-3d95-bba0-ded1632b1c4a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nano Nuclear Energy Is Paying Up to $13 Million to Acquire This Nuclear Logistics Company. Here's Why Investors Shouldn't Overlook This Small Deal.",
+      "summary": "Nano Nuclear Energy just made a small deal that could have huge implications for its future.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/nano-nuclear-energy-is-paying-up-to-13-million-to/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A3t4lQ.B501Ku7WRQ3LzZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b32f1225c8f2e3cb154262ccc6f129ea",
+      "published_at": "2026-07-21T23:25:00Z"
+    },
+    {
+      "id": "c1925552-f20d-3aeb-a845-f70783b211d7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Nebius Stock Soared Today",
+      "summary": "The AI cloud company has the backing of a semiconductor giant.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/why-nebius-stock-soared-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lg.5EIHTDmioIfx3Rb1yEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f98bb3559abeb41dece5a7b37b2c16e6",
+      "published_at": "2026-07-21T23:23:01Z"
+    },
+    {
+      "id": "6581015c-9fe8-3af2-8ebe-6b99e0e177ce",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Looking Beyond Nvidia? This Mid-Cap ETF Could Benefit from AI’s Next Growth Phase",
+      "summary": "Nvidia dominates the headlines, but some of the biggest AI-driven gains are quietly emerging from a corner of the market most investors overlook entirely.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/21/looking-beyond-nvidia-this-mid-cap-etf-could-benefit-from-ais-next-growth-phase/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OkquM2zlCFLylfKLgddt3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
+      "published_at": "2026-07-21T23:22:26Z"
+    },
+    {
+      "id": "90ad47f1-3b41-31ce-aa0d-f413e777c77d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Microsoft Stock Will Go Parabolic After July 29. Here's Why.",
+      "summary": "Microsoft reports earnings on July 29.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/21/prediction-microsoft-stock-will-go-parabolic-after/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fof6fiYB8CVjaCRCrMYFEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fe55811663d28f3035bcea6342c2d553",
+      "published_at": "2026-07-21T23:20:00Z"
+    },
+    {
+      "id": "a8e2061a-c8cb-3031-91fb-6517243a2cab",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Horizon Gold DFS maps pathway to first gold at Gum Creek in 2028",
+      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF) has confirmed a financially robust development pathway for its 100%-owned Gum Creek Gold Project in Western Australia, with a definitive feasibility study targeting first production in the second half of 2028. The open-pit study outlines average...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095803/horizon-gold-dfs-maps-pathway-to-first-gold-at-gum-creek-in-2028-1095803.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gP1l3tID0sfLE9QHv2zpbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/bac81c4a2b22a7de0ba308480667b365",
+      "published_at": "2026-07-21T23:10:00Z"
+    },
+    {
+      "id": "23c746ba-ae04-34a1-8d8a-13e0b7e65d1e",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "OKLO, XE Stocks Jump After-Hours — Trump Administration Taps Oklo, X-Energy In $200M Push To Power AI Data Centers",
+      "summary": "The Trump administration is partnering with advanced nuclear reactor developers and major tech firms in a $200-million initiative to accelerate nuclear power deployment for energy-intensive AI data centers.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/trump-administration-taps-oklo-x-energy-in-200-m-push-to-power-ai-data-centers/cZZSo6qR7wb",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I1plix03ESGlidVvsOMiNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8e28805d856ec83b46168533a5fe3306",
+      "published_at": "2026-07-21T22:58:27Z"
+    },
+    {
+      "id": "644a4845-922d-38c1-a23a-574f92d1b40d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks jump with chipmakers; oil rises to 5-week high",
+      "summary": "By Caroline Valetkevitch and Ankur Banerjee NEW YORK/SINGAPORE, July 21 (Reuters) - Major stock indexes rose on Tuesday with the Nasdaq and chipmaker shares surging, while oil prices climbed to a five",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-mideast-mediation-020338229.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mAbSkmXy2.cm5JqHs7Wxfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a41618f5d77c71edbef98ac55eead31b",
+      "published_at": "2026-07-21T22:55:59Z"
     },
     {
       "id": "a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9",
@@ -26,17 +224,6 @@
       "published_at": "2026-07-21T22:50:58Z"
     },
     {
-      "id": "a1108c7d-2e0c-3940-9a3d-9b19aa166e15",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jamie Dimon's Latest Warning Sends Shockwaves Through Wall Street. History Is Very Clear About What Happens Next.",
-      "summary": "Dimon said he wouldn't do one thing in particular right now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/21/jamie-dimons-latest-warning-sends-shockwaves-throu/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jXyl6mcFgdRVy.MFEwvQug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f89276a214552d13e4642e0e34456113",
-      "published_at": "2026-07-21T22:35:00Z"
-    },
-    {
       "id": "20a90a33-ea44-498d-97a8-d85a2bcc7fa3",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -48,37 +235,15 @@
       "published_at": "2026-07-21T22:30:37Z"
     },
     {
-      "id": "4b2455ee-d5a5-39af-bf8d-3e3d2ee72e89",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: MercadoLibre Stock Could Soar in the Next 5 Years if This Happens",
-      "summary": "Improving profitability could be a game changer for the South American e-commerce and fintech giant.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/21/prediction-mercadolibre-stock-could-soar-in-the-ne/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wk08yGJbM9xK8JdgB_yKBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/93245125e55b44aa004a713bd41d6db5",
-      "published_at": "2026-07-21T22:30:00Z"
-    },
-    {
       "id": "8a3fc9a4-3c82-3e6b-a8b4-ed41f758fd5e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Nvidia Vera Rubin shown to provide 10x more throughput per megawatt than Blackwell",
       "summary": "Investing.com -- Nvidia announced Tuesday that its Vera Rubin platform is entering production with more than 300 global partners across 350 factory sites in 30 countries. Partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Mistral are deploying the new rack-scale AI system.",
       "source": "Investing.com",
       "url": "https://tech.yahoo.com/ai/articles/nvidia-vera-rubin-shown-10x-222148022.html",
       "thumbnail": "",
       "published_at": "2026-07-21T22:21:48Z"
-    },
-    {
-      "id": "f06e0e17-0eae-35d2-8a0f-00b0fe446d1c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Tutor Perini Stock Trounced the Market on Tuesday",
-      "summary": "It's about to join a notable small-cap stock index.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/21/why-tutor-perini-stock-trounced-the-market-on-tues/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NoBfHJVDYwyxjr2fa7pUGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0e6688506374f38d0c6dcc7a6e133d50",
-      "published_at": "2026-07-21T22:20:44Z"
     },
     {
       "id": "7dd1304e-1039-3cc2-a462-f28fbfeeb200",
@@ -92,20 +257,9 @@
       "published_at": "2026-07-21T22:16:19Z"
     },
     {
-      "id": "9e64b3a5-2c0f-3ba5-aba4-860765ef6659",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Ultra-High-Yield ETF Millions Are Buying That Could Wreck Your Retirement",
-      "summary": "Millions of dividend investors are parking billions into a covered call ETF that silently erodes wealth while promising fat monthly payouts, and the fund's own issuer quietly revealed the flaw years ago by building something better.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/21/1-ultra-high-yield-etf-millions-are-buying-that-could-wreck-your-retirement/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EganOaVq8VyYjhWbUArHcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f286dd6087a1f55ade66d6c93876b648",
-      "published_at": "2026-07-21T22:06:10Z"
-    },
-    {
       "id": "e36c67f1-9258-3ba3-9f4f-b2f9183daabf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Jim Cramer Says Stop Betting on Volatile Tech Stocks and Buy These “Boring” Sectors Instead",
       "summary": "Jim Cramer compared owning tech stocks to being tied to railroad tracks while a freight train approaches, and he has a very specific set of sectors in mind as the escape route.",
       "source": "24/7 Wall St.",
@@ -136,17 +290,6 @@
       "published_at": "2026-07-21T22:01:45Z"
     },
     {
-      "id": "d3d358fd-f378-3079-b62e-82e304888da2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Here is how much Bitcoin you actually need to get rich like Warren Buffett or Elon Musk",
-      "summary": "Bitcoin is trading at approximately $65,000 today, July 21, 2026. Two of the most invoked names in every crypto conversation right now are Warren Buffett and Elon Musk. One built $147.8 billion through six decades of disciplined compounding. The other crossed $917 billion, briefly becoming ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/here-is-how-much-bitcoin-you-actually-need-to-get-rich-like-warren-buffett-or-elon-musk",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fwXB14rl7A_kC4uvn8yjSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ea93f65c405d87cb2db7e4be09168165",
-      "published_at": "2026-07-21T22:00:00Z"
-    },
-    {
       "id": "6081f2e7-8232-35a2-8dcc-f3b0f0978e95",
       "asset": "ETH",
       "asset_name": "Ethereum",
@@ -158,158 +301,15 @@
       "published_at": "2026-07-21T22:00:00Z"
     },
     {
-      "id": "55331ffc-4144-3428-b3ac-55a5037a5cfe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "\"Deceptive Advertising!\" Claims Novo Nordisk in Explosive New GLP-1 Lawsuit Against Eli Lilly. Here's What That Means for Both Stocks.",
-      "summary": "Novo Nordisk is also demanding that Eli Lilly pull its ads and pay damages.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/21/novo-nordisk-vs-eli-lilly-just-moved-from-the-pharmacy-counter-to-federal-court-heres-what-that-means-for-both-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9J.3DFi_jvF0lBrJcAuDdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/18513521772453f0475df1d1244460ec",
-      "published_at": "2026-07-21T21:54:01Z"
-    },
-    {
-      "id": "b6acc5d2-50e3-3a50-ad10-05f50e990b10",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Sabra Health Care REIT Stock Soared Today",
-      "summary": "Investors were cheered with an operational and financial update from the REIT.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/21/why-sabra-health-care-reit-stock-soared-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T9QlUcEpvn2BsjTqGe8UAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ff61d0c5930d12bf4b8255354c59e4a4",
-      "published_at": "2026-07-21T21:53:28Z"
-    },
-    {
-      "id": "51d856e0-1fe8-3a90-afaa-c72b6d86af83",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Galaxy Digital Moves To Protect Bitcoin From Quantum Threats",
-      "summary": "Galaxy Digital (NASDAQ: $GLXY) has established a $5 million U.S. fund to help developers protect Bitcoin (CRYPTO: $...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/galaxy-digital-moves-to-protect-bitcoin-from-quantum-threats-6216",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z9lbCPDffe_aAJlzFcucBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/81dff3c271900f58cf9b4c45916b2a28",
-      "published_at": "2026-07-21T21:51:00Z"
-    },
-    {
-      "id": "19f604d9-2291-3780-bc64-2a13e09092ef",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Netflix “Is Not a Broken Company” and Trades At Just 19x Earnings. Jim Cramer Says Start Buying",
-      "summary": "Netflix just posted a beat on earnings and its biggest buyback quarter ever, yet the stock cratered anyway. Jim Cramer thinks that disconnect has created a rare opening, but his buy strategy comes with a pointed warning about what comes next.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/21/netflix-is-not-a-broken-company-and-trades-at-just-19x-earnings-jim-cramer-says-start-buying/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/suvfqh3T_4KA.JiWqGs.cw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/dd0c9ba1188658dc1bbe1a9f1e854062",
-      "published_at": "2026-07-21T21:43:38Z"
-    },
-    {
-      "id": "ee58f86e-bd73-344e-a833-fdab525412c0",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Who owns America’s refining advantage?",
-      "summary": "(By Oil & Gas 360) – For decades, the United States measured energy security by asking whether America could produce enough […]",
-      "source": "Oil and Gas 360",
-      "url": "https://finance.yahoo.com/energy/articles/owns-america-refining-advantage-213000712.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k8w45_WpTKuoXvPx94I5OA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oil_and_gas_360_817/e50f5d2f01d41ba7dc4fa07a1a20b6ce",
-      "published_at": "2026-07-21T21:30:00Z"
-    },
-    {
-      "id": "589a3e33-305f-3db9-ae5c-85648350192a",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
-      "summary": "Today, July 21, 2026, memory-chip leaders rallied, leading stocks higher even as investors weighed geopolitical and tariff risks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-micron-surges-12-as-semiconductor-strength-lifts-nasdaq/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qA_REWg.p70RJryy8kf.Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c1c6cc9d28a5e247d3dcd19989f5a82",
-      "published_at": "2026-07-21T21:23:44Z"
-    },
-    {
-      "id": "96f48cc6-ccfe-307c-8a22-00ccdb75d130",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Trump Oversees Ethics Provisions As Clarity Act Nears Vote",
-      "summary": "The Clarity Act nears a Senate vote this week after President Trump reportedly agreed to a debated ethics provision. Crypto stocks surge.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zlSzfdiSRqrau0a.qlAeaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7adc9701030c0673d8d092d6cb866d01",
-      "published_at": "2026-07-21T21:15:34Z"
-    },
-    {
-      "id": "01e6a3a5-fa77-3b7f-a794-3760467f599f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: US Equity Indexes Advance as Big Tech Helps Outweigh Worsening Iran Geopolitics",
-      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-big-211103575.html",
-      "thumbnail": "",
-      "published_at": "2026-07-21T21:11:03Z"
-    },
-    {
-      "id": "58e2ef15-881f-3d02-8942-908bcfcfb544",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Range Resources (NYSE:RRC) Reports Bullish Q2 CY2026",
-      "summary": "Natural gas producer Range Resources (NYSE:RRC) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 19.3% year on year to $833.6 million. Its non-GAAP profit of $0.79 per share was 21.5% above analysts’ consensus estimates.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/range-resources-nyse-rrc-reports-210224508.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PRScu1gAaqS227CoYNH2xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/b12bc13ef11c866e5ddac054fa60e1dd",
-      "published_at": "2026-07-21T21:02:24Z"
-    },
-    {
-      "id": "c1978efd-7f07-4c57-8031-00f0cfb91c18",
+      "id": "d3d358fd-f378-3079-b62e-82e304888da2",
       "asset": "TSLA",
       "asset_name": "Tesla",
-      "title": "Google & Tesla kick off Big Tech earnings: What to Watch",
-      "summary": "Yahoo Finance's Josh Lipton takes a closer look at the top stories for investors to watch on Wednesday, Jul. 22, including Alphabet (GOOG, GOOGL) and Tesla (TSLA) quarterly earnings results.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/google--tesla-kick-off-big-tech-earnings-what-to-watch-210020832.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j7RdUCiDXGncHqMAr7SWsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wtw-alphabet-earnings_5762.png",
-      "published_at": "2026-07-21T21:00:20Z"
-    },
-    {
-      "id": "05a8812d-c7bf-3632-8196-20d451663c99",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Q2 EPS Preview: Can Earnings Electrify the Stock?",
-      "summary": "Tesla's Q2 EPS will answer important questions about the company's legacy EV business, energy growth, and future product timelines.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-q2-eps-preview-earnings-205900745.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jJ5g.dED9bEVZmIEkTcGoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/31bd29e54b1564eed55c540c698fcb76",
-      "published_at": "2026-07-21T20:59:00Z"
-    },
-    {
-      "id": "db6cdf3a-5d14-3583-b5e3-e0125989a778",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "EQT (NYSE:EQT) Surprises With Strong Q2 CY2026",
-      "summary": "Natural gas producer EQT (NYSE:EQT) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 13.2% year on year to $1.81 billion. Its non-GAAP profit of $0.39 per share was 3.2% below analysts’ consensus estimates.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-nyse-eqt-surprises-strong-204416888.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uXNZrzY3T7cuDUSzZUkonw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/d9078b53a0666920699d2227cb35ff0c",
-      "published_at": "2026-07-21T20:44:16Z"
-    },
-    {
-      "id": "93d53ff1-4760-3c0a-893b-d0a05c6abab0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock",
-      "summary": "The software giant looks expensive on the surface, but a patient investor is effectively buying its future growth at a significant discount.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/608210/beyond-the-sticker-price-what-you-are-really-paying-for-microsoft-stock/2026-07-21",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KjxJ_mqxgrQGw8etWbPgVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/eb3f02f45b9d2f78bb7fa293d70ebcdf",
-      "published_at": "2026-07-21T20:43:10Z"
-    },
-    {
-      "id": "7cd163ba-1895-3c28-9a76-998c76136fe3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Coinbase Stock Jumps After Clarity Act Clears Major Hurdle",
-      "summary": "Shares of Coinbase Global jumped Tuesday after a major hurdle facing a crypto bill was cleared. The White House and a group of senators led by Sen. Cynthia Lummis (R., Wyo.) and Sen. Bernie Moreno (R.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/coinbase-stock-jumps-after-clarity-act-clears-major-hurdle-IjfioqJYzfNAVg6L2H2H?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-07-21T20:40:15Z"
+      "title": "Here is how much Bitcoin you actually need to get rich like Warren Buffett or Elon Musk",
+      "summary": "Bitcoin is trading at approximately $65,000 today, July 21, 2026. Two of the most invoked names in every crypto conversation right now are Warren Buffett and Elon Musk. One built $147.8 billion through six decades of disciplined compounding. The other crossed $917 billion, briefly becoming ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/here-is-how-much-bitcoin-you-actually-need-to-get-rich-like-warren-buffett-or-elon-musk",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fwXB14rl7A_kC4uvn8yjSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ea93f65c405d87cb2db7e4be09168165",
+      "published_at": "2026-07-21T22:00:00Z"
     }
   ]
 }
