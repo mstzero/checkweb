@@ -1,18 +1,172 @@
 {
-  "last_updated": "2026-07-23 03:52 UTC",
+  "last_updated": "2026-07-23 06:27 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "89069de4-0dd1-368a-a3e1-f8f20e6efb2a",
+      "id": "c15f2ba4-5f87-39f1-866d-0299ae675104",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Euro heads for one-week high ahead of ECB policy decision",
+      "summary": "By Satoshi Sugiyama TOKYO, July 23 (Reuters) - The euro rose towards a one-week high on Thursday ahead of a European Central Bank policy decision, with officials expected to keep interest rates",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/us-iran-tensions-underpin-dollar-005027588.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NueMOlwYSrr0I_NUIc6zjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9a1a42cb26fbd7bcdeb072d75ddf58cf",
+      "published_at": "2026-07-23T06:22:03Z"
+    },
+    {
+      "id": "61cbe279-8565-37eb-a4e9-a1cf641c77af",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
-      "summary": "U.S. chipmaking giants Intel and Advanced Micro Devices are signing longer-term purchase commitments with Chinese server customers for data-centre processors as prices ‌surge, two people familiar with the talks said.  The move highlights a broader consequence of the ‌AI boom: demand has spread beyond AI accelerators to memory, networking gear and server processors, giving suppliers greater leverage to seek long-term purchase ​deals.  AI data centres require not only Nvidia-style graphics processors (GPUs) but also large numbers of central processing units (CPUs) to support servers, storage, networking and inference workloads.",
+      "title": "High-Yield and High-Growth? This Energy Stock Backs Its 3.7%-Yielding Dividend With Booming AI-Driven Gas Demand.",
+      "summary": "Kinder Morgan reported robust earnings growth in the second quarter.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/23/high-yield-and-high-growth-this-energy-stock-backs/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Baxxd1LV2xOjBZFq9USPaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/518c32fd6eb312e03cee3063924e52ae",
+      "published_at": "2026-07-23T05:50:00Z"
+    },
+    {
+      "id": "47623a4e-b24a-3f84-b3db-8be69a7be7aa",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares are mostly higher and Mideast tensions push Brent crude past $96",
+      "summary": "Asian shares were mostly higher on Thursday, while the intensifying war with Iran pushed Brent crude past $96 a barrel.  Samsung Electronics gained 3%, while memory chipmaker SK Hynix advanced 3.4%.  Technology companies led gains, with stocks in SoftBank Group climbing 3.3%.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-mideast-052537242.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iMDGqjuDfLDmJKM61EODrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/021b879cf77bafa30add78c202d086e5",
+      "published_at": "2026-07-23T05:25:37Z"
+    },
+    {
+      "id": "979bdaba-554f-3ad1-863f-40c704e87993",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The 2 Best Dividend Stocks to Buy Now and Hold Forever",
+      "summary": "These top beverage brands can potentially pay you dividends for life.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/23/2-best-dividend-stocks-buy-now-hold-forever/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S_xf9JhPhPoMDg9x6p1xCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ae5f6a21260d4f7239617f4264ea6481",
+      "published_at": "2026-07-23T05:25:00Z"
+    },
+    {
+      "id": "65c57478-9ef4-3745-acf9-24214ab95d16",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian stocks rise as AI capex ramps up, oil at six-week highs",
+      "summary": "By Ankur Banerjee SINGAPORE, July 23 (Reuters) - Asian stocks rose on Thursday after U.S. technology firms outlined significant capital spending plans that are likely to benefit chipmakers in the",
       "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/exclusive-intel-amd-sign-long-032439242.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5tg9Ph3hnfwReQPFwm.Vig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8a1c33c9e09a88af78dc383c2476f68f",
-      "published_at": "2026-07-23T03:24:39Z"
+      "url": "https://finance.yahoo.com/news/asian-stocks-rise-us-tech-014857854.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3MvEc.R4DLsl9nGhASzCvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e3c11051a4a5496acf918d1e11174ffb",
+      "published_at": "2026-07-23T05:18:05Z"
+    },
+    {
+      "id": "f312e81b-16bd-3671-adbd-4087417e3a67",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "TSLA Stock Extends Tumble Overnight: Munster Sees Capex Blowing Past Street Estimates Next Year Too",
+      "summary": "Analyst Gene Munster sees Tesla’s 2027 Capex reaching $25 billion, above Wall Street’s $21 billion estimate.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-munster-capex-street-estimates-next-year-too/cZZnQCgR7xI",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RTOMfp73Hxl0PLA2tcR3XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c0657625222e22bb1e8244bdd1e0d4e9",
+      "published_at": "2026-07-23T05:16:43Z"
+    },
+    {
+      "id": "8d756cfc-2e69-306e-ab4f-ee6115faab21",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin & XRP Fall as Yemen’s Houthis Strike Saudi Tankers in Red Sea amid US-Iran War",
+      "summary": "Yemen’s Houthis attacked Saudi oil tankers in the Red Sea and intercepted multiple commercial vessels amid escalating US-Iran war. Oil prices have climbed further due to disruptions in the Red Sea and the Strait of Hormuz, causing Bitcoin and XRP to pare gains. Ad Ad Yemen’s Iran-Aligned Houthis Disrupt Oil Supply in Red Sea Yemen’s",
+      "source": "CoinGape",
+      "url": "https://coingape.com/bitcoin-xrp-fall-yemens-houthis-strike-saudi-tankers-red-sea-us-iran-war/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dmpGbDG.04UsXaAYLANbTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/a88a90da590a7639f94e5924be493218",
+      "published_at": "2026-07-23T05:16:33Z"
+    },
+    {
+      "id": "10dba54a-68b1-3bae-9f83-06eba0644783",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Kinder Morgan Inc (KMI) Q2 2026 Earnings Call Highlights: Strong Financial Performance and ...",
+      "summary": "Kinder Morgan Inc (KMI) reports robust earnings growth and strategic advancements, driven by increased natural gas demand and disciplined capital management.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/kinder-morgan-inc-kmi-q2-050152411.html",
+      "thumbnail": "",
+      "published_at": "2026-07-23T05:01:52Z"
+    },
+    {
+      "id": "74205463-65f2-3775-ad50-65f53e8e1e41",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
+      "summary": "Tesla Inc (TSLA) reports record Q2 deliveries and significant investments in AI and infrastructure, despite facing margin declines and supply chain challenges.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-q2-2026-050138649.html",
+      "thumbnail": "",
+      "published_at": "2026-07-23T05:01:38Z"
+    },
+    {
+      "id": "0b9bddee-d6f4-3f55-8380-5bffb9a3092f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
+      "summary": "An IPO doesn't just move the value of the new stock. Here's how the SpaceX IPO has impacted millions of passive investors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/23/mega-ipos-like-spacex-reshape-major-index-funds-an/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ArBnl_U4QU.KQZ9uw8KjOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8eb34e2b637407fc63df185ed6cac236",
+      "published_at": "2026-07-23T04:50:00Z"
+    },
+    {
+      "id": "71a276a8-3480-3afb-891e-37a75fd3fddf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The American Chip Boom Picks Winners: TXN, INTC, and QRVO at Current Share Prices",
+      "summary": "CHIPS Act dollars, a U.S. government equity stake, and a pending merger are converging on three American chipmakers at the same moment that reshoring shifts from political promise to balance-sheet reality. Whether their current share prices leave room for what comes next is the harder question.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/23/the-american-chip-boom-picks-winners-txn-intc-and-qrvo-at-current-prices/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NHaBD48SJZHqzo5Gm07smg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5dbb6881ae4691d7d4ece897f3cae94f",
+      "published_at": "2026-07-23T04:36:01Z"
+    },
+    {
+      "id": "aa728343-f2bb-3ad7-a096-bde7f7e59018",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA is Acquiring ‘Dark Fiber’ Across the United States. Here’s Why That’s a Big Deal.",
+      "summary": "NVIDIA is quietly buying up unlit fiber cables buried beneath American soil, and the strategic logic behind that move reveals something much bigger than a simple supply chain upgrade.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/23/nvidia-is-acquiring-dark-fiber-across-the-united-states-heres-why-thats-a-big-deal/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/49EhIXEg_pLHfjgI6xcesg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/51f9054189d92a6407a9c3698ddc6143",
+      "published_at": "2026-07-23T04:16:35Z"
+    },
+    {
+      "id": "81de92f4-7b36-349b-a368-fedcbb98466e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian central bank likely intervenes as rupee nears record low, traders say",
+      "summary": "MUMBAI, July 23 (Reuters) - The Reserve Bank of India likely intervened in the foreign exchange market on Thursday to limit the rupee's losses as a relentless rise in oil prices deepened the South",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-central-bank-likely-intervenes-040610910.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y3EGYTl3JY03eoKGXjCZ5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a91aa8db5a77061acaee32e2ea44daf6",
+      "published_at": "2026-07-23T04:06:10Z"
+    },
+    {
+      "id": "2ff2e7e1-be72-3d46-9283-3a0e93dc9096",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Jim Cramer reveals 4 surging chip stocks he likes best",
+      "summary": "I have covered each of the following four stocks separately over the past few weeks:Micron's historic earnings. Intel's painful turnaround. AMD's server CPU advantage heading into August 4. Applied Materials' wafer equipment supercycle. On July 21, Jim Cramer put them all in the same basket with a ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/micron-amd-intel-amat-jim-cramer-reveals-4-surging-chip-stocks-he-likes-best-ai-infrastructure",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4c9UsazkpXwOAlEUyC2zVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/67046711e8b92932a23861d46e1ee336",
+      "published_at": "2026-07-23T04:03:00Z"
+    },
+    {
+      "id": "f16ee4b3-df1d-34d8-bef5-8ec7fd2c485b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Meta Platforms Will Soar on July 29 When It Makes This Announcement",
+      "summary": "Alphabet's latest report makes it a no-brainer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/22/prediction-meta-platforms-will-soar-on-july-29-whe/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G.3D1aCbXLZeDaubaUh1jA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a4f3e7e1b49dc0482f615a75b771bf06",
+      "published_at": "2026-07-23T03:53:32Z"
     },
     {
       "id": "143d957b-e291-30cc-9807-d73cc9078efc",
@@ -37,17 +191,6 @@
       "published_at": "2026-07-23T03:20:00Z"
     },
     {
-      "id": "7b9f269d-59fc-3901-80f3-0ecc673eb8e9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Just Erased $1 Trillion in Value. Here’s Why the Worst Could Be Yet to Come.",
-      "summary": "SpaceX burned through tens of billions in market value before August even arrived, and the calendar just flagged a supply event that has options traders positioned at a ratio that rarely ends well for bulls.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/22/spacex-just-erased-1-trillion-in-value-heres-why-the-worst-could-be-yet-to-come/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rSs.lOMMZOxKlIARa3dICA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a134e2dde812f67ff017db47b6e6c996",
-      "published_at": "2026-07-23T03:06:40Z"
-    },
-    {
       "id": "092ff924-f233-311d-95de-ed11a4dabc57",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -70,39 +213,6 @@
       "published_at": "2026-07-23T02:44:02Z"
     },
     {
-      "id": "c15f2ba4-5f87-39f1-866d-0299ae675104",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US-Iran tensions underpin dollar as yen nears 40-year low",
-      "summary": "By Satoshi Sugiyama TOKYO, July 23 (Reuters) - The dollar largely stabilised on Thursday as renewed U.S.-Iran tensions kept investors on edge and underpinned demand for the safe-haven currency, while",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/us-iran-tensions-underpin-dollar-005027588.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7kpEptPlloMvq3jcrdpgbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e3e307036c5d1fc36ec8908dafb78755",
-      "published_at": "2026-07-23T02:38:50Z"
-    },
-    {
-      "id": "9230d26e-7dc2-3771-8b29-0526908f02a4",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian shares likely to fall as oil surge dents sentiment",
-      "summary": "July 23 (Reuters) - Indian equities are likely to open lower on Thursday, as oil prices climbed past $95 a barrel after the U.S. launched fresh strikes on Iran and Yemen's Houthis targeted oil tankers",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-shares-likely-fall-oil-023521612.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ObZHyxwWfwM6CMK4jNuW5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/bbd3f85abb24e6827240013f1ed03cea",
-      "published_at": "2026-07-23T02:35:21Z"
-    },
-    {
-      "id": "67a67b60-ef18-3fe8-ac91-32ed0d2a9125",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Donald Trump's Iran Blockade Announcement Sent Oil Prices Surging and the Dow Falling",
-      "summary": "The conflict in the Middle East is raging again, which highlights an important fact that energy investors ignore at their own risk.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/22/donald-trumps-iran-blockade-announcement-sent-oil/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8mznFdfIMZY7cMwvUFnrmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b9db6601e995d7b513f57f26f92ecce9",
-      "published_at": "2026-07-23T02:35:00Z"
-    },
-    {
       "id": "d54803c4-9c31-38c5-b0fa-e240fbc3972f",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -112,61 +222,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-tesla-robotaxi-023104687.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tSca_ee0lh2zzc5PoLY2Xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/52d3be11367f5e9d511087c2f6015f66",
       "published_at": "2026-07-23T02:31:04Z"
-    },
-    {
-      "id": "9e163fff-9eb6-3e67-89e2-911f759d9d8c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
-      "summary": "Dell Technologies (NYSE:DELL) surged by 9.32 percent on Wednesday to finish at $441.80 apiece as investors drew encouragement from the surging demand for AI servers using Nvidia chips. The stock rallied alongside its counterparts, Super Micro Computer (SMCI) and Hewlett Packard Enterprises, helped buoyed by SMCI’s record backlog of $60 billion in the fourth quarter […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ifgIrSRiJxFAO9pm.DhZ2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/16a0a19299131a0154021b60aea1d98c",
-      "published_at": "2026-07-23T02:29:11Z"
-    },
-    {
-      "id": "b9ea6216-7ed0-3479-965c-ef9457fced8e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
-      "summary": "Oil prices climbed to six-week highs as escalating U.S.-Iran hostilities and mounting threats to key shipping lanes outweighed bearish U.S. inventory data.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/brent-nears-96-u-strikes-022649078.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ueV8wchYfAwu2iLMyVMP6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/2a0b00eaa712ec3762e5a3767090e938",
-      "published_at": "2026-07-23T02:26:49Z"
-    },
-    {
-      "id": "44b2dfad-7d90-304b-9eb9-5e7deb2bb24f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Oatly Stock Jumped Today",
-      "summary": "The plant-based beverage maker is progressing toward profitability.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/22/why-oatly-stock-otly-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.tEFiz6eOQqqMJxYeKGWiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/911ad9e14ee1a237121af0501c8a0fbf",
-      "published_at": "2026-07-23T02:25:19Z"
-    },
-    {
-      "id": "db183f3a-2cdf-3c93-8f63-debf6cf7e9ad",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "HSBC Retains ‘Mildly Bearish’ View on JGBs",
-      "summary": "TREASURYS 0221 GMT — HSBC retains its “mildly bearish” view on Japanese government bonds. “Much of the focus in Japan rates has centered on the prime minister and finance minister’s statements, which suggest that the government is looking for ways to encourage pension funds and retail investors to buy more JGBs,” says Justin Heng, an APAC rates strategist.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-e9157d07?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-07-23T02:23:00Z"
-    },
-    {
-      "id": "09a42bcd-703d-3c64-bed9-a011cef57b40",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Analysts Say This Robotics Stock Could Be One of 2026’s Biggest Industrial Winners",
-      "summary": "Regal Rexnord has surged 53% this year on the back of a massive data center backlog and an emerging humanoid robotics play, but stretched valuations, negative free cash flow, and a brand-new CEO raise the question of whether the best of the move is already behind investors.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/22/this-is-the-no-1-robotics-stock-to-buy-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZvCDKLOWGAldIvlJU4k0Wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c7bc3fe97473bf58bc2293a819a639a0",
-      "published_at": "2026-07-23T02:12:05Z"
     },
     {
       "id": "c55b63b7-f5ea-37bf-a791-97cb598d660c",
@@ -246,17 +301,6 @@
       "published_at": "2026-07-23T01:34:00Z"
     },
     {
-      "id": "5d6925b7-910a-3871-a138-598a89b98a3e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-      "summary": "Tesla CEO Elon Musk on Wednesday left the door open to the EV maker merging with his other trillion-dollar-plus-valued firm SpaceX, declining to ‌dismiss the possibility and citing growing overlap between the companies.  “As you can tell from the many ‌collaborations on so many fronts with SpaceX, there’s more and more overlap,” Musk said on Tesla's earnings call.  “We can't talk about, you know, ​combining companies and that kind of thing on an earnings call,\" he added.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/musk-keeps-tesla-spacex-merger-011328678.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kk.sjTsDXIi8XJvlnpG79g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/5b01b5498e05879643b5ecb419151e1f",
-      "published_at": "2026-07-23T01:13:28Z"
-    },
-    {
       "id": "e4f9fce4-c866-32b0-96ec-be750d594651",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/novagold-ng-jumps-10-3-005830041.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P6ECw83a2M5acXywT98P4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b55c1ee11aa5b57429cf143c7164f1cf",
       "published_at": "2026-07-23T00:58:30Z"
-    },
-    {
-      "id": "250bbb73-fc08-390a-8da9-f2181ae2e9b2",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Horizon Gold to host Gum Creek DFS investor webinar",
-      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF, FRA:HO0) has invited shareholders to attend an investor briefing webinar on MarketOpen Direct Connect. Managing director and CEO Scott Williamson will provide an update on the recently released definitive feasibility study for the company’s 100%-owned Gum...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095896/horizon-gold-to-host-gum-creek-dfs-investor-webinar-1095896.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.wAwloaJ6iPRretOWXUSSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/5e3ba783382104ea0a3d5fd1974396aa",
-      "published_at": "2026-07-23T00:46:00Z"
-    },
-    {
-      "id": "371d1617-5055-3ed9-942e-046587375161",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Novo Resources files Leven Star technical report as Wyloo drilling confirms broader polymetallic system",
-      "summary": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO, FRA:1NOR) has filed an independent technical report supporting the mineral resource estimate for the Leven Star Reef at its 100%-owned Belltopper Gold Project in Victoria, while recent drilling at Wyloo in Western Australia has confirmed a...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095894/novo-resources-files-leven-star-technical-report-as-wyloo-drilling-confirms-broader-polymetallic-system-1095894.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ylhVQEFtVeWzllAnQHsyvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/41280598dcdc2b57466fd6967eb4e090",
-      "published_at": "2026-07-23T00:38:00Z"
-    },
-    {
-      "id": "294d3c66-451a-3f2e-b686-e2da16f823db",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Where Will Solana Be in 3 Years?",
-      "summary": "The biggest prize at stake is the market for tokenized stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/22/where-will-solana-be-in-3-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kWYbLW9pfRJGlQtQzPFWGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ae73ef69c10d0bdca233ce5b959412a0",
-      "published_at": "2026-07-23T00:31:00Z"
-    },
-    {
-      "id": "f8bb7a9f-1c7a-339b-8fee-7b56c626d8f8",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
-      "summary": "Alibaba Group Holding (BABA) is back in the spotlight after confirming its Qwen large language model will power Apple Intelligence features on Apple devices in China, following regulatory approval that clears a key AI commercialization milestone. See our latest analysis for Alibaba Group Holding. That Apple Qwen partnership comes as Alibaba Group Holding's share price has risen about 11.0% over the past month but remains down roughly 25.2% year to date. The 3 year total shareholder return of...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-joins-001630752.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D6tGlHnBV1OBj9DD.GNtjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/7ea8a72848a91550608dfe380952013a",
-      "published_at": "2026-07-23T00:16:30Z"
     }
   ]
 }
