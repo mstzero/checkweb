@@ -1,40 +1,216 @@
 {
-  "last_updated": "2026-07-25 11:42 UTC",
+  "last_updated": "2026-07-25 13:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "8c2eebf6-b7b2-34bb-b67c-450a921439f1",
+      "id": "c7413164-38bf-3f2a-bc20-d0dbb07bcf6c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
+      "title": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why.",
+      "summary": "The upcoming Federal Reserve meeting may or may not offer clues as to where interest rate policy is headed next.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/investors-july-29-critical-day-stocks-fed-meeting/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/on3y0DCy0sl59JewXjggfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/653c5227110c5f561c286c3e98303fa1",
+      "published_at": "2026-07-25T13:02:00Z"
+    },
+    {
+      "id": "42e25270-8141-3c46-bc68-d112edc765e3",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
+      "summary": "Berkshire Hathaway has traded both stocks extensively over the last year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/alphabet-vs-apple-which-warren-buffett-favorite-is/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fxVCPysfavv2RvXIpU9Cjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/51e6c159a417c96a13bef50bf994a2ef",
+      "published_at": "2026-07-25T12:54:00Z"
+    },
+    {
+      "id": "063caf42-8f0b-4800-85d8-b24564966ac9",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
+      "summary": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yRQfDjbdjTlakOrjrw7xEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/ed937aaa-069e-453c-8853-fc66794cae36",
+      "published_at": "2026-07-25T12:38:16Z"
+    },
+    {
+      "id": "ac1c2bfd-cdd2-3339-a13f-593114d638b1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Pfizer's Dividend Yield Looks Almost Too Good. Here's Why Management Isn't Worried.",
+      "summary": "Pfizer has a 6.8% yield at a time when the market's yield is roughly 1%: Is there something wrong?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/pfizers-dividend-yield-looks-almost-too-good-heres/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GM9pM_UvdsR_nRj2RP4nIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b3729601fadda2cdd85deab20ee78dda",
+      "published_at": "2026-07-25T12:35:00Z"
+    },
+    {
+      "id": "5684e3b5-deb9-3172-8eec-a3bca9f7f6b5",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "UFC star Sean Strickland's brutally blunt money advice hits 5.2M views — and it's just 2 simple steps",
+      "summary": "Strickland told his followers to first open a high-yield savings account and accumulate enough cash to cover three months of living expenses.",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ufc-star-sean-stricklands-brutally-123000893.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I0qjfqnXqEVekaQTvIz0rA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/404503eaf33629553e285f1396617546",
+      "published_at": "2026-07-25T12:30:00Z"
+    },
+    {
+      "id": "cddd4585-c62e-36f8-843a-209485f6b7f6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Major Reasons to Buy Coca-Cola Before July 28 Q2 Earnings",
+      "summary": "Coca-Cola just raised its dividend for the 64th consecutive year and has beaten earnings estimates four quarters in a row, yet most retirement investors are still sleeping on a major catalyst arriving July 28.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/25/3-major-reasons-to-buy-coca-cola-before-july-28-q2-earnings/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gWPx8GtpvJ_THlKkp6EidQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/58196e67b7e5cc3e40a1d37182e257cb",
+      "published_at": "2026-07-25T12:26:53Z"
+    },
+    {
+      "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "summary": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, with a rate hike a possibility.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xMA.4iyBt4eHLqHAohBJ_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+      "published_at": "2026-07-25T12:24:40Z"
+    },
+    {
+      "id": "9fae82c4-6001-38aa-9a87-d35727408891",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "How Is SpaceX (SPCX) Already the Largest of 3,372 Holdings in This $97.7 Billion Vanguard ETF?",
+      "summary": "SpaceX's small float is leading to some rather unusual buying behavior from top ETFs.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/how-is-spacex-spcx-already-the-largest-of-3372-hol/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XM0UuRmtqBeeFFYle_NOlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/be56278d6ea6af29f58f959a4c8440e4",
+      "published_at": "2026-07-25T12:20:00Z"
+    },
+    {
+      "id": "b2aa58e3-5ffc-3d26-b18a-06694ae94a5b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nuclear Company Oklo Receives Startup Authorization for Groves Reactor, A Key Step In Its Regulatory Journey",
+      "summary": "The fast track is even faster than investors expected.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/nuclear-company-oklo-receives-startup-authorization-for-groves-reactor-a-key-step-in-its-regulatory-journey/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J2KUo.Yxbbs0DPFO_3hApA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/35760260fe396d04f87b7d1efd10318e",
+      "published_at": "2026-07-25T12:15:01Z"
+    },
+    {
+      "id": "efc1f35f-dd7f-4249-b1b0-0dae492f6f76",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
+      "summary": "Wall Street spent months buying the AI buildout — this week it started asking who actually pays for it.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/POh3YF0j0HP6LaG56KAqzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/808285e7-299d-4c28-82c0-39298db912d1",
+      "published_at": "2026-07-25T12:14:03Z"
+    },
+    {
+      "id": "546c613f-3148-3249-8e3c-21acc469805b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meet the Dividend ETF That Could Supplement Your Monthly Retirement Income",
+      "summary": "The extra money could come in handy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/meet-the-dividend-etf-that-could-supplement-your-m/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MWomP9X2_ln0eks2zkuoCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4496f638a2f3a63c22db5b7f5b7ffe2c",
+      "published_at": "2026-07-25T12:09:00Z"
+    },
+    {
+      "id": "d3b4a5bd-d766-379e-9a37-1580e157737b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s Fight With Micron Just Took a Wild Turn — And It Could Reshape the Memory Market",
+      "summary": "Apple is lobbying Washington for permission to buy memory chips from a Chinese company blacklisted for military ties, and the reason it's willing to take that political risk reveals something uncomfortable about how Silicon Valley's most profitable company talks about fair pricing.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/25/apples-fight-with-micron-just-took-a-wild-turn-and-it-could-reshape-the-memory-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E3AGH0.gJ_pOVNBc2aucrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f6d8bfe4b4168adc6b185fe4be125f50",
+      "published_at": "2026-07-25T12:02:38Z"
+    },
+    {
+      "id": "1742b033-d1c6-3dc8-8a1b-c28844f61a73",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Apartment REITs to Buy for Passive Income Before July Ends",
+      "summary": "Multifamily supply is falling off a cliff, and three apartment REITs are paying dividends this month before most investors notice the setup has changed.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/25/3-apartment-reits-to-buy-for-passive-income-before-july-ends/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NBt1gvzo8ixbAUZZXvQXFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b821342d79d073b8b69d9d03a439a774",
+      "published_at": "2026-07-25T12:00:04Z"
+    },
+    {
+      "id": "25bec1bd-3d94-43d4-88c6-a8a2385b04b8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why bear markets may actually be more favorable for crypto builders",
+      "summary": "Scott Melker sits down with Morgan Stanley head of digital asset strategy Amy Oldenburg to discuss the company's outlook on crypto infrastructure, including why a bear market environment may actually be more suitable for crypto infrastructure builders. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/why-bear-markets-may-actually-120000416.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/icy3vvRy3n8iuUrGOziVhw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0ac9d819-f29d-4f79-a135-4bf86a4d5cfa_cc28fa3800a2aa9f67206d998e33534f5a3d1be82fbbc83bdff2d03d70359de9.jpg",
+      "published_at": "2026-07-25T12:00:00Z"
+    },
+    {
+      "id": "e20b6e78-774f-3587-9127-f0bd50dd8699",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Forget SpaceX Stock?",
+      "summary": "Initially high hopes have already been dashed, leaving plenty of investors wondering what they should do next -- if anything.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/should-you-forget-spacex-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vxMve7ZMxKq9o7ue_bJMhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/39ec3555c5fe0d8707cab9f5e4464684",
+      "published_at": "2026-07-25T11:59:00Z"
+    },
+    {
+      "id": "6df98c63-555f-36eb-8d0d-d8eb92460934",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Gulf oil producers race to build alternatives to the Strait of Hormuz as oil hits $100",
+      "summary": "Gulf oil producers are spending billions of dollars on pipelines designed to route crude around the Strait of Hormuz, as Iran's grip on the waterway drags on causing oil prices to hit $100 a barrel for the first time since May.View on euronews",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/07/23/gulf-oil-producers-race-to-build-alternative-routes-to-the-strait-of-hormuz",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K7q_TRYJF0B9v7hVajLNiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/17f60c92f76a2be4ca1b786909110bbe",
+      "published_at": "2026-07-25T11:46:06Z"
+    },
+    {
+      "id": "7ee13bd5-7fd3-3a1b-a6c6-7d8fff56fa73",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "$7 Trillion Wall Street Giant is Watching This Key Bitcoin Metric",
+      "summary": "Fidelity says record-long-term holder supply is aligned with other Bitcoin bottom signals, but the asset manager has not called the low yet.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/fidelity-bitcoin-long-term-holder-supply/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0uC0t7STZpgdTohQMbu6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a",
+      "published_at": "2026-07-25T11:37:53Z"
+    },
+    {
+      "id": "0bfd029f-464d-3558-921a-67f2a24e6ab5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Japan's Bitcoin ETF Market Could Hit $18.4 Billion — And It'd Still Be Just 0.13% Of Household Wealth",
+      "summary": "Japanese spot Bitcoin ETF market could grow to around $18.4 billion by fiscal 2028 under a bullish adoption scenario. In a July 24 morning edition, Nikkei noted that the estimate is based on the size of Japan’s household financial assets,...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/japans-bitcoin-etf-market-could-113126037.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6z4.eOkIEwibfhY7HcZHkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a7c3ba30bc7c2ddf496acc59e9901bac",
+      "published_at": "2026-07-25T11:31:26Z"
+    },
+    {
+      "id": "8c2eebf6-b7b2-34bb-b67c-450a921439f1",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Prediction: Kevin Warsh and the Federal Open Market Committee (FOMC) Will Not Raise Interest Rates in 2026",
       "summary": "The market is currently pricing in an interest rate hike by the Fed later this year.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/07/25/prediction-kevin-warsh-and-the-federal-open-market/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/27dSXJwbKMblqU8tzjh3Ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/72e1b8e95e6cbae560205205918ca8e1",
       "published_at": "2026-07-25T11:25:00Z"
-    },
-    {
-      "id": "49fd7f59-12b3-3064-8120-40e11f2b07f7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: This Unstoppable ETF Will Crush the S&P 500 in 2026 and Beyond",
-      "summary": "AI is driving today's bull market, and this tech ETF is set up to win.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/predict-unstoppable-etf-crush-sp-500-vgt/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L38NUR.jQkLEzWbUhkCzMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/61aa5df250e0ab0eeb09e815ef1c041e",
-      "published_at": "2026-07-25T11:15:00Z"
-    },
-    {
-      "id": "68d11125-8a4a-3107-b214-6b334a828911",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: This Dividend ETF Will Double by 2034 -- and Pay You Passive Income While You Wait",
-      "summary": "The Schwab U.S. Dividend Equity ETF can provide growth and income.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/prediction-this-dividend-etf-will-double-by-2034-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fw1CTSLcOX09EsTPbMskrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/614cf19068558ee73c79ac81862f5dc7",
-      "published_at": "2026-07-25T11:05:00Z"
     },
     {
       "id": "1045ea87-f1f2-3144-923d-c61e5b333eed",
@@ -48,48 +224,15 @@
       "published_at": "2026-07-25T11:00:00Z"
     },
     {
-      "id": "7d5e1558-7a01-39e8-b4a2-bc9e77238f5c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "I'm Calling It: NuScale Power Stock Will Double as This Catalyst Hits",
-      "summary": "NuScale Power's shares have slid amid a lack of meaningful announcements.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/im-calling-it-nuscale-power-stock-will-double-as-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GCcaNY_anatAsui752iJeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f836cf4987329f3165e14cf2a1f4f148",
-      "published_at": "2026-07-25T10:40:00Z"
-    },
-    {
-      "id": "a6318fd2-27d3-38dd-8689-111f17862703",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What Greg Abel Might Do With Berkshire Hathaway's Massive Cash Pile",
-      "summary": "If you're willing and able to connect the dots, so to speak, certain decisions seem more likely than not.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K3xaJgCrALHJqoNlnBpTjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3e4ab339d420c1dac322fe1311629d1d",
-      "published_at": "2026-07-25T10:35:00Z"
-    },
-    {
-      "id": "3a63c1cb-06c7-347f-97cb-f75b7419f842",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's First Outside Funding Round",
-      "summary": "Blue Origin is burning cash like mad -- and Jeff Bezos needs more fuel for the fire.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/jeff-bezos-puts-2-billion-into-blue-origin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5cBu0YVUUKqohuKfNKVR_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/246b6d5c8ebf5d924ba780e711f43515",
-      "published_at": "2026-07-25T10:26:00Z"
-    },
-    {
-      "id": "99eb97bb-c447-30f5-9bfd-ceefbf04e90f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI Investing Genius Leopold Aschenbrenner Owns 20% of This AI Stock. Should You Buy It Too?",
-      "summary": "Sharon AI is growing quickly, but profitability remains an issue.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/ai-investing-genius-leopold-aschenbrenner-owns-20/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tKYkTKvHNKQ.17pV4QOpZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5f6df624dd709bdc330a0c761368fa08",
-      "published_at": "2026-07-25T10:20:00Z"
+      "id": "9459711b-7e98-3435-9a33-48a77b527000",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Peter Schiff Says Strategy's Common Stock Will Eventually Be Worthless As Michael Saylor Says STRC Is The Biggest Position In Three Major ETFs",
+      "summary": "Schiff also reiterated his bearish Bitcoin outlook, warning a break below $50,000 could trigger a deeper decline toward the $20,000-$30,000 range.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/peter-schiff-mstr-worthless-saylor-strc-etf-wins/cZZrzkBR7zS",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0t_JQwBnxHgvaI1_AKlYiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aa3f67a3168af8b994f85531e40e8535",
+      "published_at": "2026-07-25T10:26:58Z"
     },
     {
       "id": "942c4819-c3eb-3109-87ff-ab5b253fd3ff",
@@ -167,149 +310,6 @@
       "url": "https://www.fool.com/investing/2026/07/25/1-cryptocurrency-buy-soars-1125-cathie-woods-ark/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h7IQ2F5Ow1bVWM6p12vhsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/659a91c8ad3abb5e56ac5d4e8a59a620",
       "published_at": "2026-07-25T08:48:00Z"
-    },
-    {
-      "id": "06d80772-e5a7-3d64-8657-cf0528e11983",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Western Digital Corporation (NASDAQ:WDC) Got Lucky While Micron’s The Real Deal, Says Jim Cramer",
-      "summary": "Even though the shares have been among the top performers in the market, CNBC’s Jim Cramer still believes that Western Digital Corporation (NASDAQ:WDC) got lucky. The stock is up by 644% over the past year and by 173% year-to-date. Cramer’s sentiment about Western Digital Corporation (NASDAQ:WDC) repeats his earlier claims about the firm. For instance, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-nasdaq-wdc-080209259.html",
-      "thumbnail": "",
-      "published_at": "2026-07-25T08:02:09Z"
-    },
-    {
-      "id": "72fd8f5e-daa3-3cc1-a40a-faeff5b18292",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX may have missed its window to buy Tesla",
-      "summary": "SpaceX's stock nosedive makes Elon Musk's merger dreams much harder to justify.",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-may-missed-window-buy-080000394.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Br4z4x1Li.L6UgYli..xIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/406d795cedc3b0cc34eec20fa93b1cbf",
-      "published_at": "2026-07-25T08:00:00Z"
-    },
-    {
-      "id": "bceb5051-3b75-386a-ab33-9997d66e16d5",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Crypto Payments Firm Triple-A Hit by $9.7 Million Wallet Drain",
-      "summary": "Attackers reportedly drained $9.7M from Triple-A hot wallets across four chains and bridged the funds to Ethereum.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/triple-a-exploit-9m-wallet-drain/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oXCd0cNSOIxiCLe7d4DUtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0",
-      "published_at": "2026-07-25T07:47:39Z"
-    },
-    {
-      "id": "1ed747c9-dfcf-394f-8d7b-c3a79c9df5c8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Kuwait signs $16 billion oil pipeline deal with Blackstone, KKR and Brookfield",
-      "summary": "Investing.com -- Kuwait Petroleum Corporation has signed a $16 billion lease and leaseback agreement covering its crude oil pipeline network with Blackstone, KKR and Brookfield, Reuters reported.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/energy/articles/kuwait-signs-16-billion-oil-071157032.html",
-      "thumbnail": "",
-      "published_at": "2026-07-25T07:11:57Z"
-    },
-    {
-      "id": "9084fb3b-46c7-34bc-a42c-943f077c3630",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) Joins BlackRock And Coinbase In Bitcoin Security Consortium",
-      "summary": "Strategy (NasdaqGS:MSTR) has joined BlackRock, Coinbase, and other industry players to form the Bitcoin Security Consortium. The consortium is focused on strengthening Bitcoin against potential quantum computing threats. Members have committed a combined US$15 million to support research and development of quantum resistant security measures. For investors following Strategy, the move into the Bitcoin Security Consortium highlights how closely the company is tying its profile to Bitcoin and...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-joins-blackrock-coinbase-071149112.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
-      "published_at": "2026-07-25T07:11:49Z"
-    },
-    {
-      "id": "c9a8d6be-1b13-3657-8d8b-5c9652d5977c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trump has no remaining levers to pull as oil hovers near the $100 ‘psychological’ threshold",
-      "summary": "Depleted emergency oil reserves create a dangerous game if the Strait of Hormuz and the Red Sea are effectively shuttered.",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/energy/articles/trump-no-remaining-levers-pull-070900812.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mg6QZ7VsB0dOyku2A2IWLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/c82f4b8463bb6edd5b0aab295b58e600",
-      "published_at": "2026-07-25T07:09:00Z"
-    },
-    {
-      "id": "8c42c82a-910c-328d-b1c6-2d8da44c25be",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
-      "summary": "AI data centers are putting pressure on the US power grid, making grid equipment manufacturers, apart from chipmakers, direct beneficiaries of the AI buildout. US data center power consumption is expected to increase 22% in a single year, with total grid demand almost tripling to 134.4 GW by 2030. Hyperscalers such as Amazon, Google, Microsoft, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eynCMH13AxFxV5NAL9fHfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ab6f878f3081ddfbe3cd231ff6eb130e",
-      "published_at": "2026-07-25T06:55:04Z"
-    },
-    {
-      "id": "4407b773-3a8d-33b2-8198-cfd58c6f7f90",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Why Economist Mohamed El-Erian Monitors South Korea, U.K. Bonds, and the Yen",
-      "summary": "El-Erian warned that rising borrowing costs and a decline in reliable buyers of U.S. debt are straining bond markets.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/allianz-bonds-treasuries-korea-japan-aff04a67?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CIAqU95ukRuect7uKMU6xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9d2692de022f3967348884797d525e5e",
-      "published_at": "2026-07-25T06:00:00Z"
-    },
-    {
-      "id": "8849342b-fb43-3309-8fee-863b308c7800",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Just Hit a 30-Day High Above $65,000. Where Does BTC Go From Here?",
-      "summary": "Since the start of July, the world's most valuable cryptocurrency has risen 11%.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/bitcoin-30-day-high-above-65000-btc-where-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UCO31vH5cLaz8ZLy.P.icQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d741953beb66b79b6b3b7c1734e39e51",
-      "published_at": "2026-07-25T04:37:00Z"
-    },
-    {
-      "id": "7937d2de-0b98-3b8f-9d38-ddba4b078afd",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Is Dorchester Minerals (DMLP) A Bargain On Its New Q2 2026 Cash Distribution?",
-      "summary": "Dorchester Minerals (DMLP) drew investor attention after declaring a second quarter 2026 cash distribution of $1.272943 per common unit. The distribution covers activity through June 30 and is payable on August 13 to unitholders of record on August 3. See our latest analysis for Dorchester Minerals. The new distribution lands as Dorchester Minerals trades at $27.79, with a 1 month share price return of 8.47% and a year to date share price return of 19.53%. The 5 year total shareholder return...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dorchester-minerals-dmlp-bargain-q2-042029221.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0TmvAbrR8UwmJ968fBRtIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
-      "published_at": "2026-07-25T04:20:29Z"
-    },
-    {
-      "id": "8760ea0d-51a5-3af2-839f-bbed9ef4fee5",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Trump faces Apple-Micron clash over Chinese memory chips - WSJ",
-      "summary": "Investing.com -- Apple and Micron Technology are pressing the Trump administration to take opposing positions on the use of Chinese memory chips, forcing the president to weigh lower consumer prices against his goal of expanding domestic semiconductor production, The Wall Street Journal exclusively reported.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-faces-apple-micron-clash-030900453.html",
-      "thumbnail": "",
-      "published_at": "2026-07-25T03:09:00Z"
-    },
-    {
-      "id": "9d6862cf-4ed3-36c8-8c22-db7a11a0703b",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Waymo vs. human drivers: Experts reveal which is safer",
-      "summary": "Are autonomous vehicles like Waymo really safer than human drivers? That's the question some of the biggest tech companies in the world are investing billions of dollars to answer. Alphabet owns Waymo, Amazon owns Zoox, and Tesla has its own Robotaxi division. The advantages robots have over human ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/waymo-vs-human-drivers-experts-reveal-which-is-safer",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/78ESIf3pqhhFub1LNORHJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9342cb62efc0baf3b1b37757f78d4354",
-      "published_at": "2026-07-25T03:07:00Z"
-    },
-    {
-      "id": "96d2b81c-f7c7-36e7-896e-c73268cf8136",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Why Apple Stock Is Up Today",
-      "summary": "As competitors spend enormous sums, the tech titan's financial discipline is being rewarded.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/24/why-apple-stock-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f_AW78UZuHZ.y5ShfV5_pQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/12e5bb20a4c6acca0a8b5e56b4c2de22",
-      "published_at": "2026-07-25T03:02:33Z"
     }
   ]
 }
