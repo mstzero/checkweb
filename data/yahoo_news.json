@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-07-25 19:44 UTC",
+  "last_updated": "2026-07-25 20:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "38ff9ee4-628c-3c0a-9f4d-3b9686b3f51f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Simplest Way to Invest in the AI Revolution Is Hiding in Plain Sight",
+      "summary": "Some of the market's best-performing stocks sit at the center of this huge technological trend.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/simplest-way-invest-ai-revolution-plain-sight/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GWjtNPumCcHSnaiON4lb3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4bb378e8c23e701afbf55f5140ada1a3",
+      "published_at": "2026-07-25T20:03:00Z"
+    },
+    {
+      "id": "620ff363-078e-3043-be0e-cde5932f7df9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
+      "summary": "\"Magnificent Seven\" stocks are cheaper than they've been in years, and Alphabet, Nvidia, and Microsoft are the most attractive AI-driven buys today.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/ranking-the-best-magnificent-seven-stocks-to-buy-r/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e7hhbGQxtY0tlgIMHg6uHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d6bdd88aee25c338abe3dc4ce570a0df",
+      "published_at": "2026-07-25T19:50:00Z"
+    },
+    {
+      "id": "d86207c8-00f9-3fb2-84f1-bd8e21d3f3f7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "UCOP: A 2X Bet on the Metal the World Can’t Electrify Without",
+      "summary": "Copper powers electric vehicles, AI data centers, and the grids connecting them all, and one leveraged ETF promises to double every move the metal makes. Before you pile in, there are a few critical risks worth understanding first.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/25/ucop-a-2x-bet-on-the-metal-the-world-cant-electrify-without/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ti1yadA5kLjVZzRHHCbStQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0ff7081a04d2392618aeeaef13aa354d",
+      "published_at": "2026-07-25T19:48:04Z"
+    },
+    {
+      "id": "62dd4fe5-bfb8-3ed0-8c73-549315bd3e7d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "PayPal's Board Reportedly Called $60.50 a Share Inadequate. The Stock Trades at $56.",
+      "summary": "PayPal's board wants more than $60.50 per share. But is the stock really worth that much?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/paypals-board-reportedly-called-6050-a-share-inade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sIc9OPhf.HJ.OM5H5cgArQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0fc3664b286031b856a081a2c96022bc",
+      "published_at": "2026-07-25T19:43:00Z"
+    },
+    {
+      "id": "38b11dd3-4eb0-3e63-a897-c7952f9aa0b4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Chipotle Stock Before July 29?",
+      "summary": "When it comes to the fast-casual chain's stock, the question of timing matters far less than whether you believe its long-term expansion story is still intact.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/should-you-buy-chipotle-stock-before-july-29/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I51z9TP18CKKuH9YWzYQcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/165dd1dfd14110771566345b00a1e67d",
+      "published_at": "2026-07-25T19:42:00Z"
+    },
     {
       "id": "877ee34e-aec9-388b-a7c9-f67c40d83165",
       "asset": "QQQ",
@@ -81,48 +136,26 @@
       "published_at": "2026-07-25T19:04:42Z"
     },
     {
+      "id": "2c3e8077-20ff-311c-a9bb-76d7cbfe04c8",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
+      "summary": "Every investor has a stock they simply refuse to own, despite the excitement surrounding it. One Reddit user wanted to know exactly that and asked fellow investors recently which company they’d never buy and why, “no matter how much others...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SD1WqnTS3he3L4bKLm2e3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/3b304c870156c577a4365b599a8b66c6",
+      "published_at": "2026-07-25T19:00:25Z"
+    },
+    {
       "id": "ed8e9f85-e4cf-31a5-aa1a-da8b93abf6c7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car.",
       "summary": "For Apple, a decade of work on a vehicle ended in 2024 when they shelved their rumored electric vehicle project. But the tech giant's technology is still finding its way into vehicles.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/07/25/ford-just-put-apple-maps-in-the-dashboard-of-a-300/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OpkFjGTVerxPegdluLjwDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/36df504fc97a644b318de60cf211bca8",
       "published_at": "2026-07-25T18:46:00Z"
-    },
-    {
-      "id": "45ba0c50-4ba8-3237-b781-1151cc9f2139",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Smartest Way to Invest $5,000 in a Trillion-Dollar Stock Over Private Space Rivals",
-      "summary": "Forget the private space race -- this trillion-dollar chipmaker may be the smartest way to invest in the future of space.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/the-smartest-way-to-invest-5000-in-a-trillion-doll/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZpOlcxABnt210y9QggBtKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33cceac2e689fff2db6e3ff836758c46",
-      "published_at": "2026-07-25T18:41:00Z"
-    },
-    {
-      "id": "3c2f6ca0-54ba-3f65-8a0c-46392862a705",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Micron, Nvidia, or SpaceX: Which Is the Best AI Stock to Put $1,000 in Right Now?",
-      "summary": "Each has its strengths, but one looks like a no-brainer buy.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/micron-nvidia-or-spacex-which-is-the-best-ai-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kN83vRHP5O1zR4j3SvmATQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2482980c2f367760f1c894788253bec0",
-      "published_at": "2026-07-25T18:20:00Z"
-    },
-    {
-      "id": "55d5fc29-da4d-3434-8e78-dcef1a23d5d6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Did Vertiv’s Expanded AI Cooling Builds And Higher EPS Guidance Just Shift Vertiv Holdings Co's (VRT) Investment Narrative?",
-      "summary": "In recent weeks, Vertiv has expanded AI-focused manufacturing capacity, highlighted new integrated power and liquid-cooling deployments such as its work on the Naval Postgraduate School’s NVIDIA DGX GB300 system, and entered the Q2 2026 earnings season with raised full-year adjusted EPS guidance amid robust AI infrastructure demand. These developments underscore Vertiv’s growing role as an infrastructure backbone for high-density AI data centers, even as management flags margin pressures and...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/did-vertiv-expanded-ai-cooling-180852414.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GRPjoIeyK4y9lfcsISybXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/8e5b7feff946a5236949391477b36a92",
-      "published_at": "2026-07-25T18:08:52Z"
     },
     {
       "id": "65d5923a-7466-3b43-9072-59bbf46c766c",
@@ -134,17 +167,6 @@
       "url": "https://beincrypto.com/kpler-hormuz-reopening-timeline-oil/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hGlqG07AvcGzX9DzxCdtOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/7fed17d3405c7cfaa77f35946dc9ae1f",
       "published_at": "2026-07-25T18:06:36Z"
-    },
-    {
-      "id": "ceeb7654-1cd8-37f3-9e5c-c7927e58ff57",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How a $25,000 Realty Income Investment Could Compound Into Real Retirement Income",
-      "summary": "Realty Income could turn $25,000 into a meaningful income stream in retirement.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/how-a-25000-realty-income-investment-could-compoun/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nD75XuHqqmZBqm56xmafig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6e156adad44011a4b61e78d12451b195",
-      "published_at": "2026-07-25T17:50:00Z"
     },
     {
       "id": "c76da705-6028-383d-9ec7-6cb80b19ad6d",
@@ -288,28 +310,6 @@
       "url": "https://www.thestreet.com/technology/mark-cuban-sees-a-problem-with-the-ai-spending-spree",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VG9_s67iOYqimLZvtAN79A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/62ee117bacd46aaf0e8775094fb81f6d",
       "published_at": "2026-07-25T15:17:00Z"
-    },
-    {
-      "id": "e70c59d4-55bf-3cea-81cb-08fbc9a3bf12",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Silver Range eyes deeper gold potential at East Goldfield - ICYMI",
-      "summary": "Silver Range Resources Ltd (TSX-V:SNG, OTC:SLRRF, FRA:8SR) earlier this week outlined encouraging early-stage gold indications from its East Goldfield project in central Nevada and detailed plans for a substantial geophysical programme intended to define deeper drill targets. CEO Mike Power...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096029/silver-range-eyes-deeper-gold-potential-at-east-goldfield-icymi-1096029.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2VUUpmis0MpWcTna3bGtCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/3d0bffa415b9b171c0ebfd90ab734fe4",
-      "published_at": "2026-07-25T15:06:00Z"
-    },
-    {
-      "id": "a7d6a922-9b3e-38f9-8e7b-32c8a6811ada",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla's Revenue Beat Hid The Number That Actually Sank The Stock",
-      "summary": "Revenue cleared the bar, but a profit running below half its usual level and cash turning to burn told owners what the company's future really costs.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/608801/teslas-revenue-beat-hid-the-number-that-actually-sank-the-stock/2026-07-25",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WARz5GO9yvXxEYAt0YVFVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/9a8a9989709217e39a58eb15d25381d6",
-      "published_at": "2026-07-25T14:43:56Z"
     }
   ]
 }
