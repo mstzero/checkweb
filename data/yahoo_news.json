@@ -1,18 +1,139 @@
 {
-  "last_updated": "2026-07-25 08:28 UTC",
+  "last_updated": "2026-07-25 10:09 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "b2537371-d268-3c3c-aeb1-69d37449592b",
+      "id": "942c4819-c3eb-3109-87ff-ab5b253fd3ff",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.",
+      "summary": "The second-biggest cryptocurrency isn't gaining much for the load it's now helping to carry.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/robinhoods-new-blockchain-has-been-a-smash-success/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oUNz.qKVM1iqI1hwfp2y1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8f18efbd63531c1c930fa5663c258c79",
+      "published_at": "2026-07-25T10:02:00Z"
+    },
+    {
+      "id": "02e696a7-2a3b-4f15-b099-77eaa5a2ffb6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled.",
+      "summary": "Oil markets are tighter than ever, so why are prices rangebound? The market has rebalanced, JPMorgan says.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/article/why-arent-oil-prices-higher-staggering-drop-in-energy-demand-leaves-strategists-puzzled-100000046.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gFuu0w_2hyCAgTRyBXvXsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-07/5876b380-9942-4397-8137-04f7bdef23e2",
+      "published_at": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "c4502b1e-0999-3933-aa40-4218aa2bf0e5",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Alphabet's Projected $205 Billion Capex Can Lift These 3 AI Stocks",
-      "summary": "Cipher Digital, Micron, and Broadcom all look poised to be big winners as Alphabet continues to boost its capex budget.",
+      "title": "Jensen Huang Signed Toyota, Fanuc, Kioxia, and 5 Other Japanese Industrial Giants Into Nvidia's Physical AI Coalition This Week. Nvidia Has $1 Trillion in Confirmed Demand Through 2027.",
+      "summary": "Huang is positioning Nvidia for the extension of AI into the manufacturing sector.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/alphabets-projected-205-billion-capex-can-lift-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wqKjXyXwFX3u4SYrKpIlGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eeb026a7c1ddca07a8e63a128035bbc8",
-      "published_at": "2026-07-25T08:03:00Z"
+      "url": "https://www.fool.com/investing/2026/07/25/huang-japanese-industrial-nvidia-ai-demand/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cdE.FOMUEv4oNNWiaiCNCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1f6ab85b6e4c4e7f8f70e92a93cd3aaa",
+      "published_at": "2026-07-25T09:59:00Z"
+    },
+    {
+      "id": "b351a742-e273-33cc-ac1f-f58ce679cad0",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin price falls below $64,000 as stablecoin inflows weaken",
+      "summary": "Investing.com -- Bitcoin fell below $64,000 on Saturday, extending its decline as weakening stablecoin inflows pointed to subdued demand for cryptocurrency assets. The token traded near $63,919, down about 2.3% over 24 hours, according to Binance market data.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-falls-below-64-092743128.html",
+      "thumbnail": "",
+      "published_at": "2026-07-25T09:27:43Z"
+    },
+    {
+      "id": "6cdd0959-0e90-372f-ab97-f1cf1bf74e09",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
+      "summary": "These stocks are capitalizing on the growth of the emerging neocloud industry.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/2-millionaire-maker-ai-stocks-to-hold-for-the-next/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MvV9TEt8IZsWAN6Eju1mNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5704ed0079214826f3abe5f83c487e78",
+      "published_at": "2026-07-25T09:25:00Z"
+    },
+    {
+      "id": "372e503c-a48c-33fa-9c2d-e7b18e36f232",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Forget SpaceX, Starlink, and Small Satellites? USAF Orders 2 Big Billion-Dollar Satellites From Boeing.",
+      "summary": "Are bigger satellites better? The U.S. Air Force is spending big for big.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/forget-spacex-starlink-and-small-satellites-usaf-o/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vwi3legfeHVI6kG2U7y5MQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fce2f249dca81ee992ec4c333422bce8",
+      "published_at": "2026-07-25T09:25:00Z"
+    },
+    {
+      "id": "cdc316b6-af56-3d7b-8793-753864edf976",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Nvidia Before Aug. 26? Here's What History Says.",
+      "summary": "History shows a very clear trend.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/should-you-buy-nvidia-before-aug-26-heres-what-his/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E8EAQeeUQ8zQJmaPB498aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e389fd4e3b22740026a15bdef09b99c9",
+      "published_at": "2026-07-25T09:22:00Z"
+    },
+    {
+      "id": "77fd1b16-6c66-3a20-a61f-3ed7ae5f1d4b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "JPMorgan CEO Jamie Dimon Just Sent an Ominous Warning to Wall Street: \"Close to as Good as It Gets\"",
+      "summary": "Dimon is one of the most closely followed CEOs on Wall Street.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/jpmorgan-ceo-jamie-dimon-just-sent-an-ominous-warn/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RiI9HoDpAc90DL_2Wrarmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/323ea39372071bbb08d6fc49fa6ddcb3",
+      "published_at": "2026-07-25T09:20:00Z"
+    },
+    {
+      "id": "56369836-a4bb-3a36-9db3-7adfed722df3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Worldcoin Crashes 10% After the Project Sells 217 Million Tokens for Funding",
+      "summary": "World Foundation raised $52.5 million in a locked WLD token sale led by Pantera Capital to scale World ID.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/worldcoin-token-sales-price-crash/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QRL.5k7ez72KGj1H6FJgJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/efea0dfdfc7b60b89c84d59a3d0d46c6",
+      "published_at": "2026-07-25T09:15:42Z"
+    },
+    {
+      "id": "9f432469-45d9-3dbb-8738-385cfa542669",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amkor Technology (AMKR) Lands Nvidia Deal As Investors Ask If The Stock Is Already Priced In",
+      "summary": "Amkor Technology (AMKR) is back in focus after announcing a multi-year, $1.5b partnership with NVIDIA, including a sizeable prepayment aimed at expanding Amkor’s advanced semiconductor packaging and testing capacity in the U.S. See our latest analysis for Amkor Technology. Amkor Technology’s share price has been choppy, with a 30 day share price return down 21.5% and a 90 day share price return down 16.8%. Yet year to date the share price return is up 51.35% and the 1 year total shareholder...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-lands-nvidia-091055217.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WSEIooIySC0v8cwU.bfMaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750",
+      "published_at": "2026-07-25T09:10:55Z"
+    },
+    {
+      "id": "d51de226-aef2-3007-8666-6188dbc2c6e0",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "GM displays Q2 growth in key areas Tesla would be jealous of",
+      "summary": "General Motors reported strong second-quarter results on Tuesday, July 21, but the stock was caught up in the broader automotive sell-off spurred by Tesla's own disappointing quarter. GM topped analyst estimates on every level, driven by strong sales from high-margin full-size pickup trucks in ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/gm-q2-margin-growth-pickup-trucks-tesla-misses",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6fhHOQXCo3GMJt0CywKl5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1b29839911fbdc47971c706ced02e311",
+      "published_at": "2026-07-25T09:03:00Z"
+    },
+    {
+      "id": "5beebece-81fc-36d3-bfe3-213461848837",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "1 Popular Cryptocurrency to Buy Before It Soars 1,125%, According to Cathie Wood's Ark Invest",
+      "summary": "The world's largest cryptocurrency has lost almost half its value over the past year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/25/1-cryptocurrency-buy-soars-1125-cathie-woods-ark/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h7IQ2F5Ow1bVWM6p12vhsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/659a91c8ad3abb5e56ac5d4e8a59a620",
+      "published_at": "2026-07-25T08:48:00Z"
     },
     {
       "id": "06d80772-e5a7-3d64-8657-cf0528e11983",
@@ -26,48 +147,15 @@
       "published_at": "2026-07-25T08:02:09Z"
     },
     {
-      "id": "46021fea-5bcb-3fd0-b6cc-1e97f9a80a64",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Samsung and SK Hynix unveil $950 billion US chip supply partnerships",
-      "summary": "Investing.com -- Samsung Electronics and SK Hynix will pursue memory-chip supply partnerships with major U.S. technology companies valued at a combined $950 billion, Reuters reported, citing South Korean presidential adviser Kim Yong-beom.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/samsung-sk-hynix-unveil-950-074847076.html",
-      "thumbnail": "",
-      "published_at": "2026-07-25T07:48:47Z"
-    },
-    {
-      "id": "3303480f-0afb-37c9-90f4-7a55f6322ee4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Now a Good Time to Buy Amazon Stock?",
-      "summary": "The stock is trading near new all-time highs but offers more value than it appears.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/is-now-a-good-time-to-buy-amazon-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sa40QnmYqxppfqjEQcenfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a7f863bfa4f8633c3e02195985d48104",
-      "published_at": "2026-07-25T07:40:00Z"
-    },
-    {
-      "id": "19d3c169-7254-30d5-8b24-3defcab39591",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should You Invest $3,000 in Nu Holdings Right Now?",
-      "summary": "With shares falling 24% from their all-time record, it's time to take a closer look at this Latin American fintech enterprise.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/should-you-invest-3000-in-nu-holdings-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QuIuHXfwnwOJTCr3x1Vz1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8e13119a705ce571cfe950c1844ecba3",
-      "published_at": "2026-07-25T07:25:00Z"
-    },
-    {
-      "id": "4927ebe1-d662-3973-9055-3b48a4840c68",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Samsung Elec, SK Group seal $950 billion deals as South Korea hosts AI powers",
-      "summary": "By Max A.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/south-korea-president-lee-looking-003232888.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XdyZ5ToEs8Ge3Ou.iMVO4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/229fadc2531093d2f155d739749a9264",
-      "published_at": "2026-07-25T07:23:29Z"
+      "id": "bceb5051-3b75-386a-ab33-9997d66e16d5",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Crypto Payments Firm Triple-A Hit by $9.7 Million Wallet Drain",
+      "summary": "Attackers reportedly drained $9.7M from Triple-A hot wallets across four chains and bridged the funds to Ethereum.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/triple-a-exploit-9m-wallet-drain/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oXCd0cNSOIxiCLe7d4DUtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0",
+      "published_at": "2026-07-25T07:47:39Z"
     },
     {
       "id": "1ed747c9-dfcf-394f-8d7b-c3a79c9df5c8",
@@ -101,28 +189,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eynCMH13AxFxV5NAL9fHfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ab6f878f3081ddfbe3cd231ff6eb130e",
       "published_at": "2026-07-25T06:55:04Z"
-    },
-    {
-      "id": "5f160707-26ef-3d90-813c-4e2c17ecf776",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Down 34% From Its Highs, Is Marvell Technology a Buy on the Dip?",
-      "summary": "Marvell is closely related to another AI giant.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/down-34-from-its-highs-is-marvell-technology-a-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k1yg4S6Wpm3psqI3iTa2CA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5ab086a47d287e21690389b319eb0923",
-      "published_at": "2026-07-25T06:50:00Z"
-    },
-    {
-      "id": "ffd1d0dc-8a91-3017-9604-7fb93bbd87bc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo?",
-      "summary": "The stock is now down 75% from all-time highs.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/25/openais-sam-altman-is-betting-big-on-nuclear-shoul/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v5_iLeTL7T2_YosrH5j6hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1cd7342d4cb0b0b9a16e24e4cd98ca3d",
-      "published_at": "2026-07-25T06:25:00Z"
     },
     {
       "id": "4407b773-3a8d-33b2-8198-cfd58c6f7f90",
@@ -244,72 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-ltd-wbo-rli-010025257.html",
       "thumbnail": "",
       "published_at": "2026-07-25T01:00:25Z"
-    },
-    {
-      "id": "05cba0bb-3cc7-3a01-8646-06fcf65afe6b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Trump Caught Between Apple and Micron in Fight Over Chinese Chips",
-      "summary": "Two of the president’s priorities—cutting prices for U.S. consumers and increasing domestic semiconductor production—come into conflict.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/trump-apple-micron-china-chips-784bbd3d?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dsxm_jrJaVh9UyvLGi0ErQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/86dd0c531ee95943b21b6963b7f024c6",
-      "published_at": "2026-07-25T01:00:00Z"
-    },
-    {
-      "id": "97aa5d75-1340-3e31-81c2-553ba67ca59c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Michael Saylor's Strategy Just Unveiled a New Bitcoin Banking Index. Here's What That Signals for MSTR Stock.",
-      "summary": "The largest Bitcoin holder is establishing a new standard in the industry.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/24/michael-saylor-strategy-bitcoin-banking-index/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QwwWNgybsH5bxZUnu3WdUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d0a59ceb6940c98f912f59c99b84661",
-      "published_at": "2026-07-25T00:50:00Z"
-    },
-    {
-      "id": "72fa92a1-535a-38cd-9092-2e7428c7eeb1",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk’s Boring Company Eyes $20 Billion Valuation in New Funding Round",
-      "summary": "Elon Musk’s  tunneling startup, the Boring Company, is in talks to raise new funding that would value it at around $20 billion, according to people familiar with the discussions.  The funding round hasn’t closed and the people cautioned that the terms could change.  Steve Davis, president of the Boring Company, didn’t respond to requests for comment.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZjtHfDIw9jd_FBzOCR9aQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/1bb2e120a524e7bed54a9a78bbfe11a8",
-      "published_at": "2026-07-25T00:45:00Z"
-    },
-    {
-      "id": "bacb34b2-2e6f-308b-93f4-37af3fd2f5c3",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Meta quits clean energy pledge amid gas-powered data center push",
-      "summary": "Meta has abandoned a global pledge by leading companies to source all of their electricity from renewable sources, the social media giant confirmed Friday.A Meta spokesperson told AFP the company is continuing to scale up investments in renewable energy, and that leaving RE100 does not change its goal of matching its electricity use with 100 percent clean energy.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/energy/articles/meta-quits-clean-energy-pledge-002139627.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6PC9x4bD0T3piJL.PyXBtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/3b172577f6ea9fe3d5df9f9016f8a443",
-      "published_at": "2026-07-25T00:21:39Z"
-    },
-    {
-      "id": "efbd00b7-9b65-3aa6-8cb7-2da273a1b1d1",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Basin rig count down one as prices rise",
-      "summary": "The rig count in the Permian Basin was down one this week, the latest count Friday by Baker Hughes shows, with 258 rigs active in the region. A year ago, 260 rigs were active in the region. Nationally, the oil and gas rig count is down one from last week at 587 rigs. A year ago, 542 rigs were active. The count shows that 450 rigs sought oil, down two from the previous week, and 127 explored ...",
-      "source": "Odessa American, Texas",
-      "url": "https://www.oaoa.com/?p=367323",
-      "thumbnail": "",
-      "published_at": "2026-07-25T00:01:00Z"
-    },
-    {
-      "id": "ba9510eb-24f0-3c0f-943f-f406171cd7fc",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Good News For Tesla Stock Fans",
-      "summary": "Tesla Avoids NHTSA Investigation as U.S. Eyes New Vehicle Safety Rules",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/good-news-tesla-stock-fans-000012156.html",
-      "thumbnail": "",
-      "published_at": "2026-07-25T00:00:12Z"
     }
   ]
 }
