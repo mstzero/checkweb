@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-07-26 21:27 UTC",
+  "last_updated": "2026-07-26 22:32 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "summary": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q7_6.6GCjQLb8xwzcQQirA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ea51fbcb43d5660ef8dcf5463ac0cf50",
+      "published_at": "2026-07-26T22:18:05Z"
+    },
+    {
+      "id": "a664fb8f-dc9a-3264-8023-bf45dad64360",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft's Next Earnings Report on July 29 Could Send the Stock Soaring. Here's Why.",
+      "summary": "Microsoft stock has struggled this year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/26/microsofts-next-earnings-report-on-july-29-could-send-the-stock-soaring-heres-why/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N3v094pnokXS7FhllrDFuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e1b34aeb5f4f2f8641a5e518b761f6c0",
+      "published_at": "2026-07-26T22:10:01Z"
+    },
+    {
+      "id": "3151c3cd-9f72-391b-8677-ba42ee934008",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
+      "summary": "Ford's revenue base remains larger, but Tesla's latest quarter shows a sharp rebound that narrows the gap.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/07/26/ford-motor-vs-tesla-what-the-revenue-trends-of-these-automotive-giants-tell-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z3f3Zjx972JPGHsBdz3B.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c06108aafe816e5eedcce689e2237a4d",
+      "published_at": "2026-07-26T21:46:01Z"
+    },
+    {
+      "id": "e44e8f4e-5d54-355f-9af7-0d40c5012219",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intelligence (AI) Stock Is the Best Quantum Computing Opportunity, and It's Currently Trading at a 7-Year Valuation Low.",
+      "summary": "Quantum computing pure plays may tempt investors, but the better stock pick may be the megacap that's providing a bridge between quantum systems and classical supercomputers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/26/forget-ionq-rigetti-computing-and-d-wave-quantum-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DjU2tP4lA_reytVbQsjNvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cfa1c31ab7d050edb8e93f8b11c4d2e1",
+      "published_at": "2026-07-26T21:43:00Z"
+    },
+    {
+      "id": "c401f000-112a-3643-904b-b35a2ce1a54b",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft just took sides in AI policy fight",
+      "summary": "Every powerful technology eventually reaches the same argument. Somebody has to decide whether the thing gets handed out or locked up. Encryption had that fight in the 1990s, when the federal government classified strong cryptography as a munition and tried to keep it away from ordinary people. ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/microsoft-just-took-sides-in-ai-policy-fight",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g0tQHSMJAjGY.VHVZD1oLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8019b6f6ad739f15d458c687dc4c7397",
+      "published_at": "2026-07-26T21:36:00Z"
+    },
+    {
+      "id": "c0713cc1-c4ad-3c2e-9976-0ad1972fefce",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "American Airlines Cut Its Full-Year Guidance. The Stock Rose 6.8% the Next Day.",
+      "summary": "The airline just posted the biggest quarter in its history and told investors it may lose money this year. Both are true.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/26/american-airlines-cut-its-full-year-guidance-the-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/seGGOs4G4AXxgf3sofT1Cw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d717209cf17b42f17e0283665b50b87c",
+      "published_at": "2026-07-26T21:32:00Z"
+    },
     {
       "id": "5d4fbf92-bc5d-34f3-88ac-112f8cd9c551",
       "asset": "NVDA",
@@ -15,17 +81,6 @@
       "published_at": "2026-07-26T21:20:00Z"
     },
     {
-      "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures Due, Iran News In focus; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "summary": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xMA.4iyBt4eHLqHAohBJ_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
-      "published_at": "2026-07-26T21:17:18Z"
-    },
-    {
       "id": "d0882c13-3ed1-3399-b62c-29337704e6ee",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -35,6 +90,17 @@
       "url": "https://www.thestreet.com/technology/nvidia-just-locked-down-a-deal-that-changes-the-ai-race-sk-hynix",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PmiDwy0rw06ZRI3xJOjLUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c56d7dabb02cd4b1ec3d8cd960fa24be",
       "published_at": "2026-07-26T21:07:00Z"
+    },
+    {
+      "id": "fb327291-70bc-3b1c-a8a2-d835d88563e5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+      "summary": "Higher fuel costs are likely to translate into more expensive airfares, as airlines absorb billions of dollars in additional fuel expenses.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/u-jet-fuel-costs-soar-210000933.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LaURjMl9tay59TOOwCRUKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/06f0980d7e96583f77e08f4b3f07eeb2",
+      "published_at": "2026-07-26T21:00:00Z"
     },
     {
       "id": "e511be61-964f-33e4-8b37-a4bffcc0f0b0",
@@ -123,39 +189,6 @@
       "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-bc878fbe?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lLu3tgKTm.W.c3xh82r5BQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e87f9c585987648b6ba033f1b83cc458",
       "published_at": "2026-07-26T20:00:00Z"
-    },
-    {
-      "id": "b1411ace-35f7-35d4-8900-3a568f852d6b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Plug Power Stock Jumped 83% in the First 5 Months of 2026 Only to Give up 100% of the Gains. Here's What to Expect From the Hydrogen Stock the Rest of the Year.",
-      "summary": "Plug Power shares have consistently struggled to hold onto their gains.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/plug-power-stock-jumped-expect-hydrogen/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fXbJv.w9YdP7cLJjgvlukQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3ff01c078dd0a857eaffdbccd0add1e8",
-      "published_at": "2026-07-26T19:50:00Z"
-    },
-    {
-      "id": "6a9ac6ab-25f1-34cb-9252-e3e1ce23b76e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
-      "summary": "Far from \"yield traps,\" these high-yield dividend stocks represent good value at current prices.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/absurdly-cheap-dividend-stocks-buy-before-august/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b4navBjp6hiF7tREh6FZmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/beab15a8d17ec8b935e3ebaad53a2fb9",
-      "published_at": "2026-07-26T19:37:00Z"
-    },
-    {
-      "id": "557ccdd8-7e22-3fa7-a1a9-8f0ec341be54",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Airbnb Is in the Spotlight for All the Right Reasons. Here's Why It's a Buy Now.",
-      "summary": "As one of the world's most disruptive businesses, this leading travel platform should be on every investor's radar.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/airbnb-is-in-the-spotlight-for-all-the-right-reaso/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kWRsCIo6wtkUJJtVFPIpiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/58f597737fde4d670220847e6a58e9a3",
-      "published_at": "2026-07-26T19:20:00Z"
     },
     {
       "id": "05c54443-6c05-3a4f-8417-4b80255af362",
@@ -277,39 +310,6 @@
       "url": "https://247wallst.com/investing/2026/07/26/bitcoins-40-decline-reveals-why-btcis-15-yield-may-not-last/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Oj8e3GqN6aQVRMIIfQUpRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a7247dbb0732a11f030bde878612c061",
       "published_at": "2026-07-26T16:12:35Z"
-    },
-    {
-      "id": "613d28a7-ca7b-3df7-b80c-3b22b054be03",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "TechCrunch Mobility: Uber bets on its former CEO",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q1_miP4K3jbwxrn5W3q97w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/6ad9d2c448c8a4483763fb57512ff349",
-      "published_at": "2026-07-26T16:03:00Z"
-    },
-    {
-      "id": "07e5b71f-f167-3468-b078-f5b134797187",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
-      "summary": "Tesla  just gave away the plans for its recently canceled Model S and X vehicles.  Is CEO Elon Musk pulling a power move, daring the industry to build his products?  “Just as Tesla made the original Roadster design and software open source, we plan to do the same with Model S & X,” tweeted Musk on Friday afternoon.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tesla-build-your-own-model-s-or-x-elon-musk-fbb23f65?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GUVDDGx7UbfHHNdcPmU0Nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0ca9095f0f26d4afa20e66fb41c46613",
-      "published_at": "2026-07-26T16:01:00Z"
-    },
-    {
-      "id": "6653e6d2-d80e-36c7-8360-f037eb9f8e3d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Bulls Are Pricing In An Iran Ceasefire That Hasn't Happened Yet",
-      "summary": "Shipping and commodity experts remain skeptical, warning that the Strait of Hormuz remains effectively constrained and a full reopening could still be months away.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bulls-are-pricing-in-iran-ceasefire/cZZHXn4R7zx",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/27OF6FPW9Joc1EMNrgKq2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ed1610efaff1ce54c976eabe61fdebb8",
-      "published_at": "2026-07-26T15:24:37Z"
     }
   ]
 }
