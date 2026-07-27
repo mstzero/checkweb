@@ -1,8 +1,162 @@
 {
-  "last_updated": "2026-07-27 21:36 UTC",
+  "last_updated": "2026-07-27 22:57 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "90c0ed31-2ea3-3315-8505-5e66cd71cc57",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 500 — ASML, MSFT, NVDA, AMZN, PSKY In Focus",
+      "summary": "China has begun developing deep ultraviolet lithography machines used to build semiconductors, according to media reports.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-ends-higher-on-support-from-weak-oil-but-ai-concerns-weigh-on-nasdaq/cZZxvPrR76H",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jA4qpfDIe56zvL1mL7XLzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/928255da52bcc5c5574792f39f801fdd",
+      "published_at": "2026-07-27T22:29:03Z"
+    },
+    {
+      "id": "f6a0377f-20ac-3aa0-a98d-a97312e14871",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+      "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Dmy1XFtk0dU5yCuXRO8HVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68",
+      "published_at": "2026-07-27T22:13:34Z"
+    },
+    {
+      "id": "24bf5816-8c17-3c94-9c56-a4af60d1d79a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Market Today, July 27: Bitcoin Steadies as Ahead of Fed Meeting",
+      "summary": "Easing geopolitical tensions and lower oil prices bolster sentiment, while corporate buying boosts Ethereum, today, July 27, 2026.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/crypto-market-today-july-27-bitcoin-steadies-as-ahead-of-fed-meeting/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qA_REWg.p70RJryy8kf.Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c1c6cc9d28a5e247d3dcd19989f5a82",
+      "published_at": "2026-07-27T22:11:17Z"
+    },
+    {
+      "id": "06a4f9be-bf96-3f53-974f-3784603ff1d4",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "What Wall Street Pushed GOOGL To Explain",
+      "summary": "The numbers were huge, but so were the costs, and analysts wanted to know if Alphabet's large AI spending is building a real moat or just digging a hole.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/608963/what-wall-street-pushed-googl-to-explain/2026-07-27",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bmo7Pc9WcWNO7RN85DAPJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/5142775f35a2dee0ee84932446a855c8",
+      "published_at": "2026-07-27T22:10:20Z"
+    },
+    {
+      "id": "6f70710c-978e-3532-a8aa-61f06164536a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Core Scientific Stock Stumbled Today",
+      "summary": "The crypto miner began the week by being slapped with an analyst's recommendation downgrade.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/why-core-scientific-stock-stumbled-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/O5zDBETfRoY36Sl0zLIuBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/31ab9c4defa1f9c43e24b05858bd83ba",
+      "published_at": "2026-07-27T22:03:03Z"
+    },
+    {
+      "id": "192a33a9-d2c4-3794-8ae0-defa4f6a452a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amkor Technology Q2 Earnings Call Highlights",
+      "summary": "Amkor Technology (NASDAQ:AMKR) reported record second-quarter revenue of $1.9 billion, up 13% sequentially and 26% from a year earlier, as growth in computing and automotive and industrial markets helped the semiconductor packaging and test company exceed the high end of its guidance. Chief Executi",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/amkor-technology-q2-earnings-call-highlights-2026-07-27/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JuaE.AU0A7fSrK4SNypyYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/0df54274d3539f2ac934203618db1039",
+      "published_at": "2026-07-27T22:02:43Z"
+    },
+    {
+      "id": "d4ad25cc-7e7a-35ba-b7d8-8b4b2e2366a9",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Tom Lee Says This Ethereum Project Could Be a Game-Changer",
+      "summary": "Tom Lee calls Lighter critical Ethereum infrastructure. LIT trades near $2.20 as quarterly revenue drops a third quarter.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/tom-lee-lighter-ethereum-infrastructure/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7cA0vHE9xiXG33ualvR_qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6bc853e80fa2268a922d0ec75ed8e3f0",
+      "published_at": "2026-07-27T22:00:00Z"
+    },
+    {
+      "id": "a5af80bd-7f5c-3fb4-b23c-b84a0595f5fd",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Jet Fuel Spike Blows a Hole in Airline Profit Forecasts",
+      "summary": "Jet fuel prices surged 20% in July, forcing major U.S. airlines to slash earnings guidance as Middle East tensions made fuel costs and profit forecasts increasingly unpredictable.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/jet-fuel-spike-blows-hole-220000997.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZcMOzkyVN3xMGuRm._XGNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/7c8f3b2c1506a70c888a06cd00407e67",
+      "published_at": "2026-07-27T22:00:00Z"
+    },
+    {
+      "id": "c18ebd31-9405-30c9-8382-7db13bee4cc4",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "How Much Union Pacific (UNP) Are You Really Betting On?",
+      "summary": "Your diversified ETF portfolio may be leaning heavily on a single railroad stock that has run far ahead of its trend.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/608962/how-much-union-pacific-unp-are-you-really-betting-on/2026-07-27",
+      "thumbnail": "",
+      "published_at": "2026-07-27T21:55:49Z"
+    },
+    {
+      "id": "0c7179a7-5a58-3e2a-bf5c-1eff8ddc7dc3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meet the Dividend Growth Stock That Warren Buffett Held for Decades, and Greg Abel Pegged as One of Berkshire Hathaway's Multidecade Compounders",
+      "summary": "American Express sold off after reporting earnings, but the company is at the top of its game.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/meet-the-dividend-growth-stock-that-warren-buffett/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5n7exPZ5ZuTxh9HMmdtUng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/877cd7554c8a0f44838c873bfd0c7409",
+      "published_at": "2026-07-27T21:50:00Z"
+    },
+    {
+      "id": "9062b44c-90dd-36af-8333-31d7dec8aef0",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft Plans $190 Billion of Capital Spending This Year. Wednesday Shows Whether Azure Is Keeping Up.",
+      "summary": "A 61% jump in capital spending only works if cloud demand keeps outrunning supply. The next test arrives this week.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/microsoft-plans-190-billion-of-capital-spending-th/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rxyiyWqtF9IzYMrb17UTeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84fa6b301d0e54f9a15996ad6cc082e5",
+      "published_at": "2026-07-27T21:43:00Z"
+    },
+    {
+      "id": "f91c069b-6373-312f-85a0-e9d060965db9",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Higher Fuel Prices Are Hurting Europe’s Budget Airlines; Is Ryanair or EasyJet Better Positioned?",
+      "summary": "The US-Iran conflict has come as a brutal shock to Europe’s budget airlines. EasyJet (LON:EZJ) recently revealed a 70% drop in profits, attributed primarily to increasing fuel costs and later bookings. The company reported a pre-tax profit of £85 million between April and June compared to £286 million during the prior year period. Ryanair (NASDAQ:RYAAY), […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/higher-fuel-prices-hurting-europe-213929081.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AEqwsij6nAFX9NSIa7tOzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/afc1355157b123bfd99554993dd575d9",
+      "published_at": "2026-07-27T21:39:29Z"
+    },
+    {
+      "id": "cfe8cc17-a52e-32d2-a506-e8fceac24f71",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Built Tesla and SpaceX While Working Over 100-Hour Weeks. He Says 'Vacations Will Kill You' and the Reasons Behind It Are as Chaotic as You'd Expect.",
+      "summary": "Elon Musk built SpaceX and helped turn Tesla Inc. into an electric-vehicle giant while repeatedly working more than 100 hours a week, a schedule he has linked to vacations that went spectacularly wrong. Musk Builds Companies Through Relentless Workweeks After...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/small-business/articles/elon-musk-built-tesla-spacex-213022857.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p.e1_hi4mktf8ScgQEX4KA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/7fe1b3819adc454ce3c143485d4d85b9",
+      "published_at": "2026-07-27T21:30:22Z"
+    },
+    {
+      "id": "3a7998b3-88a1-3fe9-8d6b-56f76a4b972f",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Why Bitmine Stock Popped Today",
+      "summary": "The crypto treasury leader has quietly amassed a significant share of Ethereum's total supply.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/why-bitmine-stock-bmnr-is-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6PO2zBwr11OOMcl0OffBMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/95dbbd3ac9747d54bedfa1e3bef72a2f",
+      "published_at": "2026-07-27T21:29:08Z"
+    },
     {
       "id": "ed1751df-af41-3c93-a7be-dc266386bbe1",
       "asset": "NVDA",
@@ -26,9 +180,20 @@
       "published_at": "2026-07-27T21:27:17Z"
     },
     {
-      "id": "8fa8b745-fd5c-3c9e-a968-fbdfd5d58125",
+      "id": "f7e9a8ab-5b96-38f9-92c3-d35ccafe4cbf",
       "asset": "NVDA",
       "asset_name": "Nvidia",
+      "title": "NVIDIA vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+      "summary": "NVIDIA's 55% net margin and $96.7B free cash flow contrast sharply with Snowflake's $1.3B net loss, but valuation gaps tell a different story.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/better-buy/2026/07/27/nvidia-vs-snowflake-which-ai-driven-stock-is-a-better-buy-in-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/teRxdXBaiolrEe1wJJLtxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7624f7b840ba197ec0e7f335fe35ec55",
+      "published_at": "2026-07-27T21:26:01Z"
+    },
+    {
+      "id": "8fa8b745-fd5c-3c9e-a968-fbdfd5d58125",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
       "summary": "Crude tumbled as geopolitical tensions eased, while semiconductor losses dragged the Nasdaq lower, today, July 27, 2026.",
       "source": "Motley Fool",
@@ -37,20 +202,20 @@
       "published_at": "2026-07-27T21:24:56Z"
     },
     {
-      "id": "d973bc3d-a936-3635-8cbe-8c8a86783f2f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Micron Stock Will Be Worth This Much by Late 2027 (Hint: The Time to Buy Is Now)",
-      "summary": "Micron stock has surged more than 700% over the past year, but its rally may not be over.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/27/prediction-micron-stock-will-be-worth-this-much-by/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aR_sxMtSW95KxXI4_BHQNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9e8b3dadd76df928e7f4c4aea86c6a05",
-      "published_at": "2026-07-27T21:20:00Z"
+      "id": "b2d1d54d-0f4c-3de1-ad6b-35d62c3fa4ec",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "What the Charts Are Saying About the Market Right Now",
+      "summary": "CNBC's \"Chart Master,\" Carter Worth, breaks down the charts behind the market and the WRTH ETF.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/charts-saying-market-now-212100228.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U4xO6huOri2Mp2yoLTwSJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/66fb66b1ce55d0c696403440da51d9d6",
+      "published_at": "2026-07-27T21:21:00Z"
     },
     {
       "id": "8f732fa4-7264-36fe-b150-159041b2232d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Update: US Equity Indexes Mixed as Chipmakers Drop, Pause in Iran Strikes Sinks Crude Oil",
       "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
       "source": "MT Newswires",
@@ -59,26 +224,26 @@
       "published_at": "2026-07-27T21:17:18Z"
     },
     {
-      "id": "ba9abd2e-0fd7-39b8-a4d1-129747f51bf2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Amazon.com's Next Earnings Report on July 30 Could Sink the Stock. Here's Why.",
-      "summary": "The market is already jittery about AI spending.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/27/amazon-com-s-next-earnings-report-on-july-30-could-sink-the-stock-heres-why/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7AAKJv6VSKonMM7cc3KYTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc938c883bfb8fcc474fe400981e101f",
-      "published_at": "2026-07-27T21:12:28Z"
+      "id": "6bc6a8c8-9581-3375-a92e-4dc8d433f068",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stocks to Watch Recap: Nvidia, Strategy, Cracker Barrel, LVMH",
+      "summary": "↘️ Nvidia (NVDA): The AI chip company is in talks to provide a $250 billion backstop to OpenAI to fund a massive data-center project, WSJ reported. Shares slid 5%. ↗️ CXMT (CN:688825): The memory-chip maker soared 466% in its stock-market debut to become mainland China’s most valuable company.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oA5jDlZh7z9VcDx2jDpjOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/cd7a24ac3eedb46ac3ec370200e38ce7",
+      "published_at": "2026-07-27T21:10:43Z"
     },
     {
-      "id": "9e92d950-5bf5-3978-808e-eaf8ac8286e7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil plunges, stocks 'n' bonds shrug",
-      "summary": "By Jamie McGeever ORLANDO, Florida, July 27 (Reuters) - Oil prices tumbled on Monday as the U.S. and Iran swapped attacks on each other for dialogue, while Wall Street and Treasuries traded in much",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-plunges-stocks-n-bonds-210923503.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8SUK4jq.om3upj3nySZgPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/189fbba99aab003fc138d20b88b4cefb",
-      "published_at": "2026-07-27T21:09:23Z"
+      "id": "8a90054c-2abc-3057-a551-9c3b623ddc82",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Nvidia Falls Behind Apple in Mixed Day for Stocks",
+      "summary": "Chip stocks declined, with a big week of tech earnings looming. The Nasdaq composite fell 0.2%, while the Dow industrials rose 0.5%.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-27-2026-f8e6f1a5?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5zSFMQMIUSPgB4.WgXGQBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/5596e2d0488561230ac007b703ebfdca",
+      "published_at": "2026-07-27T21:04:00Z"
     },
     {
       "id": "635117bf-4815-3f93-98c8-cf314ce01228",
@@ -92,15 +257,15 @@
       "published_at": "2026-07-27T21:00:29Z"
     },
     {
-      "id": "2927c6d7-f910-34fc-a8a0-6c273f60e8e5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny",
-      "summary": "SK Group partnership and OpenAI discussions deepen NVIDIA's role in funding global AI infrastructure.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pursues-750-billion-ai-205709197.html",
-      "thumbnail": "",
-      "published_at": "2026-07-27T20:57:09Z"
+      "id": "3be7f91c-901f-3a54-b32f-76ce8a7b9b97",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "Find insight on Microsoft, Shopify and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9bfbc0f3?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RG.ROFcURyITSw5LbBvYBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/b82bffb3b549bab635f20d9205977052",
+      "published_at": "2026-07-27T20:59:00Z"
     },
     {
       "id": "a827b576-3663-34d0-ba13-32126577537a",
@@ -112,28 +277,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-despite-major-205227482.html",
       "thumbnail": "",
       "published_at": "2026-07-27T20:52:27Z"
-    },
-    {
-      "id": "331edbbe-afb2-3e43-aa3f-63f9f5c4bf9c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Stock Plummets 50% Below Its Post-IPO High. History Says a $5,000 Investment Will Be Worth This Much by June 2027.",
-      "summary": "Shares of SpaceX have cratered by 50% from their all-time high.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/27/spacex-stock-plummets-50-below-its-post-ipo-high-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zHzcvAP1bsTkGpvqf.TK2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/87f1b0e243ec077d4bc99f0a7703ec4b",
-      "published_at": "2026-07-27T20:50:00Z"
-    },
-    {
-      "id": "3063c37b-1534-3a8f-8aae-1da11520b325",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Intel Just Secured a Huge Customer for Its Foundry Business",
-      "summary": "The tech company recently landed Fortinet as a customer of its foundry service.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/27/intel-just-secured-a-huge-customer-for-its-foundry/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dE5Z5qYURkonjku.qSfWAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/12410e41864c0db1e5a906132f0ee3f2",
-      "published_at": "2026-07-27T20:50:00Z"
     },
     {
       "id": "f3ffd401-f000-32a0-a96c-5b5b237ae2b2",
@@ -158,17 +301,6 @@
       "published_at": "2026-07-27T20:46:40Z"
     },
     {
-      "id": "f6a0377f-20ac-3aa0-a98d-a97312e14871",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
-      "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Dmy1XFtk0dU5yCuXRO8HVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68",
-      "published_at": "2026-07-27T20:45:34Z"
-    },
-    {
       "id": "b77c85ed-d6da-3e0f-92c8-9b28cc821d5e",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -178,138 +310,6 @@
       "url": "https://www.trefis.com/articles/608961/what-is-the-growth-in-qqq-actually-costing-you/2026-07-27",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
       "published_at": "2026-07-27T20:44:42Z"
-    },
-    {
-      "id": "6419fb14-d24c-390d-8353-4909937d409b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Memory-Chip Stocks Micron, SK Hynix Drop After China Rival's IPO",
-      "summary": "Memory-chip stocks Micron and SK Hynix fell Monday after Chinese rival CXMT rocketed in its IPO on the Shanghai Stock Exchange.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/memory-chip-stocks-micron-sk-hynix-cxmt-ipo/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RuRlv65oB7LlsWe8LonvZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ad5d62c1b672118d1ebd2b2f16d6b8d3",
-      "published_at": "2026-07-27T20:44:21Z"
-    },
-    {
-      "id": "765901a6-aae1-339f-9bbc-05e7d62c2bfc",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Trump Touts Tariffs in Midterm Pitch to GM Workers in Michigan",
-      "summary": "(Bloomberg) -- President Donald Trump championed his economic agenda, including tariffs and the rolling back of environmental regulations, saying they had revived US auto manufacturing, during a visit to a General Motors Co. facility in the midterm battleground of Michigan.Most Read from BloombergDeepSeek Suspends Fundraising After Viral US-China PostsNvidia’s $750 Billion in Deals Reignite Circular AI FearsS&P 500 Wobbles as AI Angst Offsets Oil Decline: Markets WrapChina Chipmaker CXMT Jumps 4",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-touts-tariffs-midterm-pitch-203601596.html",
-      "thumbnail": "",
-      "published_at": "2026-07-27T20:36:01Z"
-    },
-    {
-      "id": "de8b5436-c73d-31ce-a62f-9df4d32cb08d",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Stock Market Today: Dow Up As These Stocks Test Entries; This AI Play Fights Back Before Key Event (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index jumps on hopes of U.S.-Iran talks. Memory plays lag after CXMT IPO. A number of stocks clear entries.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DVJw3I519qSMAbmON0w6fA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e42644bd08e70d62e8134ea24b81ce14",
-      "published_at": "2026-07-27T20:34:28Z"
-    },
-    {
-      "id": "ef55b019-6581-3e29-9b40-c231f3048692",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "US Equity Markets Mixed as Oil Slides on Lull in US-Iran Strikes",
-      "summary": "US equity indexes were mixed Monday as crude oil declined on a lull in US strikes on Iran, while jit",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-oil-203403002.html",
-      "thumbnail": "",
-      "published_at": "2026-07-27T20:34:03Z"
-    },
-    {
-      "id": "f09a712f-e84a-3748-820c-83b5ac5f4f53",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Saylor's Strategy faces its toughest Q2 earnings as Bitcoin crashes 50% from all-time highs",
-      "summary": "Strategy reports its Q2 2026 earnings this week, and the numbers going in are not comfortable. Bitcoin is trading near $65,000, down roughly 50 percent from its October 2025 all-time high of $126,000. The company holds 843,775 BTC on its balance sheet, acquired at an average price of $75,476 per ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/saylors-strategy-faces-its-toughest-q2-earnings-as-bitcoin-crashes-50-from-all-time-highs",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/19Gn4pay66gS56nfry3bUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/23d1ed7f50890c5f1df119ad706a5f1b",
-      "published_at": "2026-07-27T20:33:17Z"
-    },
-    {
-      "id": "2252df30-aea5-324a-8202-f74b37fc73aa",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Stock Hits Record High Before Fiscal Q3 Earnings",
-      "summary": "Apple stock notched a record high on Monday, three days before its fiscal third-quarter earnings report.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/apple-stock-hits-record-high-before-fiscal-q3-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l.9IEGjJRC3GzvqsxhhZxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/34e37fca57d67701ae0c7f81453ffbf3",
-      "published_at": "2026-07-27T20:33:09Z"
-    },
-    {
-      "id": "b4ddbf97-ea72-3cb4-b115-00304a00b762",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Buying The SMH Dip Requires A Strong Stomach",
-      "summary": "The fund's past rebounds look great on paper, but the ride down was often far from over.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/608957/buying-the-smh-dip-requires-a-strong-stomach/2026-07-27",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NQkaffIFgkkzaCZDVMiY3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c",
-      "published_at": "2026-07-27T20:32:32Z"
-    },
-    {
-      "id": "2bcc6fd5-1e5e-353c-a66a-6765781f6fff",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "TSX Closer: The Index Closes Higher as a Tech Rally Offsets Energy Losses",
-      "summary": "The S&P/TSX Composite Index moved higher on Monday as gains in technology stocks outweighed weakness",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-closes-higher-202825711.html",
-      "thumbnail": "",
-      "published_at": "2026-07-27T20:28:25Z"
-    },
-    {
-      "id": "49d6d712-f61d-4053-a31f-61f80c24bfec",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",
-      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at how market capitalization changed in July for the top US stocks: SpaceX (SPCX), Tesla (TSLA), Alphabet (GOOG, GOOGL), and Apple (AAPL).",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/elon-musks-tesla-spacex-shed-12t-in-july-while-apple-sprints-ahead-chart-of-the-day-202410236.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VbZB5m.GJa_haZBdPSB1Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/f25a3299-aba3-4167-b390-25af0d7a5837_cc4fe76c2b87d5a531990ba43e12feb095e8a2493a05b1b720eaf25e1f64d3cd.jpg",
-      "published_at": "2026-07-27T20:24:10Z"
-    },
-    {
-      "id": "1a605da6-a901-3f22-91aa-c9a2cb91ec50",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Stock Just Erased a Year of Gains. Nothing Seems to Help.",
-      "summary": "Tesla  stock declined on Monday—again—and nothing seems to help.  Tesla stock dropped 18% last week, including a near-15% drop on Thursday after the company reported weaker-than-expected second-quarter results.  Tesla reported an operating profit of about $400 million.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-loses-year-gains-6acf48c3?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HFGta3XVdWlIt4JTAXlxrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a3f2736537605125e3f96024d9862e3c",
-      "published_at": "2026-07-27T20:23:00Z"
-    },
-    {
-      "id": "2729392e-4b9c-384b-8a04-c5883e92de0b",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Ford Wants to Build the Army’s New Tactical Truck. What the Push Into Defense Means for the Stock.",
-      "summary": "Ford wants to sell trucks to the U.S. Army. The news is just the latest example of Ford and GM trying to morph beyond cars.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ford-stock-price-army-tactical-truck-1d20d99a?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gn4Np6sNGux2JgXvpxE_LA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b38dbadaec152b753dcf3a1e58ab86e1",
-      "published_at": "2026-07-27T20:22:00Z"
-    },
-    {
-      "id": "bfd8942f-e166-34e4-ae0b-74d6bf2b3a58",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Shiba Inu rally sparks warning as wealthy traders book profits",
-      "summary": "Shiba Inu (SHIB) surged 36% on July 26, adding roughly $1 billion to its market capitalization in a single day before surrendering part of the gains hours later. The rally capped a strong week for the Ethereum-based memecoin. Memecoins are cryptocurrencies largely driven by internet culture ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/shiba-inu-rally-sparks-warning-as-wealthy-traders-book-profits",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/it.1IWM2.OCPD8qD3Aqh7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/cdf3784e6e69262e32a756fa1ecfe4ee",
-      "published_at": "2026-07-27T20:21:59Z"
     }
   ]
 }
