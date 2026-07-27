@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-27 03:19 UTC",
+  "last_updated": "2026-07-27 06:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "72f2edd7-ad21-3679-bda0-60b0ff2e2715",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices dip over 6% after US, Iran pause fighting over weekend",
+      "summary": "By Florence Tan and Trixie Yap SINGAPORE, July 27 (Reuters) - Oil prices tumbled more than 6% on Monday after the U.S. and Iran paused strikes over the weekend after two weeks of attacks, raising",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-slips-more-5-us-221044741.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V4RMDLdrwzT3MyZVJs0c0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f7cbb8c8801dafc1b99dc3a6c6201a3a",
+      "published_at": "2026-07-27T06:34:59Z"
+    },
+    {
+      "id": "e02e4ae0-1f98-3f01-b2cc-62288de1666e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should Nebius and CoreWeave Investors Be Worried About Meta's Latest AI Infrastructure Plans?",
+      "summary": "Is Meta a customer or a competitor? Or is it both?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/should-nebius-and-coreweave-investors-be-worried-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_yudIG6ISF1YSUazVQymkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/265f7c51e6316f324a3df28043b646d8",
+      "published_at": "2026-07-27T06:20:00Z"
+    },
+    {
+      "id": "fb8dd9e7-4948-3e64-ba4e-ca2b7be59dd2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "FTSE 100 Live: Strong start expected to busy week as AstraZeneca, Vodafone report results",
+      "summary": "FTSE 100 Live: Flying start expected to busy week The FTSE 100 is set to hit the ground running on Monday, starting what will be a busy week of corporate and central bank news on a bright note after a pause in US attacks on Iran sent oil prices sharply lower and lifted global equity...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096048/ftse-100-live-strong-start-expected-to-busy-week-as-astrazeneca-vodafone-report-results-1096048.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pXb8i_jruzvpZoDTYvZ_nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/5aacc9e1191ef818b9612fef2bbaafbd",
+      "published_at": "2026-07-27T06:16:00Z"
+    },
+    {
+      "id": "28c18108-c263-3a01-b8df-bd291985b172",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVDA Stock Rises Overnight: Chip Giant’s Deals With South Korea’s SK Hynix, Naver Revive ‘Breakout’ View",
+      "summary": "Nvidia is investing $1 billion in Naver, which is referred to as South Korea’s Google.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-rises-overnight-deals-with-south-korea-sk-hynix-naver-revive-breakout-view/cZZx3jGR7CB",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1hnzcp5jdb4EBRsenYqLBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/03163a1a50f92f47996e20c5f2e798c1",
+      "published_at": "2026-07-27T05:53:32Z"
+    },
+    {
+      "id": "12a376f2-a60f-34c5-b66e-6e295fb2fe19",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
+      "summary": "Intel has joined the AI infrastructure party, but that doesn't make its stock a buy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/is-intel-stock-a-buy-as-ai-reveneu-surges-nearly-6/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/__.sEwH.7hFWapgyGrxXXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/99d75ceacf1f549fc780f583cff17f11",
+      "published_at": "2026-07-27T05:50:00Z"
+    },
+    {
+      "id": "b85b85d4-ac63-3a1f-a413-f44230baa65f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices sink 4% while Asian shares gain as Chinese chipmaker CXMT soars in Shanghai trading debut",
+      "summary": "Shares were mostly higher Monday in Asia as oil prices slipped more than 4% after the U.S. and Iran refrained from fighting while discussing a possible resumption of negotiations on an interim ceasefire deal.  The company jumped to become China's most valuable listed company with an estimated market capitalization of 3.3 trillion yuan (nearly $490 billion).  The Pentagon did not respond to questions about the pause in attacks on Iranian coastal areas and infrastructure after nearly two weeks of escalating fighting sparked by Iran’s firing at ships trying to transit the Strait of Hormuz.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j7NfV3yrBXXwDHX7Q6YDRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/18cb4070b6e5fd30b060ad7ea278120a",
+      "published_at": "2026-07-27T05:35:06Z"
+    },
+    {
+      "id": "bdb3b73f-174d-3515-a44c-578169b8053e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices plunge as US and Iran pause strikes over Strait of Hormuz",
+      "summary": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the Persian Gulf.View on euronews",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/07/27/oil-prices-plunge-as-us-and-iran-pause-strikes-over-strait-of-hormuz",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4qGGSegjr_3BKa8DqcunAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/f5a02312deba98214ab9dd448d585e84",
+      "published_at": "2026-07-27T05:26:13Z"
+    },
+    {
+      "id": "a8cc4282-2de6-34b1-90d0-5692cd85ff01",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett's Favorite Stock Market Indicator Is Sounding the Alarm. History Suggests Investors Are \"Playing With Fire.\"",
+      "summary": "Investors may want to be careful.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/warren-buffetts-favorite-stock-market-indicator-is/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7KKQpkaaQtN5IOs4I6vsOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/56169f04cfd0240f4d208c1008276728",
+      "published_at": "2026-07-27T05:20:00Z"
+    },
+    {
+      "id": "713f8ea5-f284-3de4-b927-67299019887f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "S&P 500 On Track To Post Best Net Profit Margin Since 2009: Market Strategist Says Big Tech Is Driving An ‘Unprecedented Boom’",
+      "summary": "As per The Kobeissi Letter, the S&P 500's net profit margin is on track to surge to 15.7% for Q2 2026, the highest since 2009.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-on-track-to-post-best-net-profit-margin-since-2009-market-strategist-says-big-tech-is-driving-an-unprecedented-boom/cZZxdNHR7Ce",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OPmstBIpZr69nR7rufi38w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/29d652f0d4e51a9e44bf1fd7e7fdd5ab",
+      "published_at": "2026-07-27T05:18:50Z"
+    },
+    {
+      "id": "0ad6df5a-f488-3715-bd89-069c91c34d5d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Changpeng Zhao Warns Investors: You Can’t Get Rich Without Knowing This One Term",
+      "summary": "CZ gives advice on how to get rich, saying investors must understand dollar-cost averaging, or DCA, first.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/changpeng-zhao-how-to-get-rich-dca/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/74cUE61rtpAGgfHx43s7uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/849505749e7a32dcab8186e5698380cd",
+      "published_at": "2026-07-27T05:04:12Z"
+    },
     {
       "id": "56d0a8cb-a014-3c28-a929-8720c9c346e7",
       "asset": "TSLA",
@@ -12,18 +122,95 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q7_6.6GCjQLb8xwzcQQirA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ea51fbcb43d5660ef8dcf5463ac0cf50",
-      "published_at": "2026-07-27T03:07:28Z"
+      "published_at": "2026-07-27T05:00:30Z"
     },
     {
-      "id": "bf73e417-ff1d-37e7-bd6d-96806a70cc51",
+      "id": "51f9c875-918d-3711-b06a-9f7afce4dda1",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "IBM Fell 25% as Hardware Spending Dominated AI Budgets. Palantir Sells What Runs on Top.",
-      "summary": "The same infrastructure investments that stalled one tech giant's software deals could fuel another's.",
+      "title": "What's Next For Rigetti Computing Stock?",
+      "summary": "This company is completely dependent on its collaborations and milestone payments to survive.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/ibm-fell-25-as-hardware-spending-dominated-ai-budg/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3d3lxyXMKlkaOul6sI4b6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dfc1de663a2cbdd55408c0bf951b6b76",
-      "published_at": "2026-07-27T02:50:00Z"
+      "url": "https://www.fool.com/investing/2026/07/27/whats-next-for-rigetti-computing-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U6FZA31fdfX2GGeF34skgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/97e108fe24b467ec84f5f96ee349e053",
+      "published_at": "2026-07-27T04:50:00Z"
+    },
+    {
+      "id": "b066f69d-1d9c-3c65-8146-492de24276ba",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares rise as oil prices drop; earnings season adds to optimism",
+      "summary": "By Bharath Rajeswaran July 27 (Reuters) - Indian shares rose on Monday after five consecutive sessions of declines as a sharp fall in oil prices brought relief to the markets after the United States",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-rise-oil-prices-042629130.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6B2BeoYFvk6JkTUd8ROl9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f80c70a3c8f83911b61271b1e3da2473",
+      "published_at": "2026-07-27T04:26:29Z"
+    },
+    {
+      "id": "9760d22a-ccf8-3190-aebd-e28fade1fb6c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: CEO Andy Jassy Will Raise Amazon's Full-Year 2026 Capex Guide on July 30",
+      "summary": "Amazon has already guided for $200 billion of artificial intelligence (AI)-related capital expenditures in 2026.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/27/prediction-ceo-andy-jassy-will-raise-amazons-full/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Pb0dzqFCdDhOhz_PvylE0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/825b90adaae91ac5ffadc6727663dab4",
+      "published_at": "2026-07-27T04:20:00Z"
+    },
+    {
+      "id": "e0e5fc66-6ab7-3e7d-9e7b-d8844a4dc7e2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet, Amazon, and Meta Will Spend Over $500 Billion on AI in 2026. Nvidia Collects a Huge Share.",
+      "summary": "Three of the biggest AI budgets on Earth seem to just keep growing. The company selling the hardware fell anyway.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/26/alphabet-amazon-and-meta-will-spend-over-500-billi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p5i6Ost88X9MlzFGv3B6Zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2cb0d979190ce53575015bffd2265fc9",
+      "published_at": "2026-07-27T04:05:00Z"
+    },
+    {
+      "id": "78ee46bf-af55-3dbc-84fc-a39f53df7f2a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Quantum Stock Is a Key Nvidia Partner and Looks Like a Buy Near a 52-Week Low",
+      "summary": "Infleqtion is securing the right partnerships and customers that can set it up for a multiyear run when quantum computing is commercialized.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/26/this-quantum-stock-is-a-key-nvidia-partner-and-loo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YQz.D_p6zIqTp_8AuGnTSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/709ee4e6ffeba37a6b03f9a4c9af7ce3",
+      "published_at": "2026-07-27T03:50:00Z"
+    },
+    {
+      "id": "0d3e3c3c-559a-3442-b431-c5dd950485f6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Deepens South Korea AI Push With $1 Billion NAVER Investment",
+      "summary": "NVIDIA Corp (NASDAQ:NVDA) plans to invest about $1 billion in NAVER Corp as part of a broader effort to expand artificial intelligence datacenter infrastructure in South Korea. Announced Saturday during South Korean President Lee Jae Myung‘s visit to the AI Summit in San Francisco, the project would expand NAVER’s GAK Sejong AI datacenter from 55 megawatts to 200 megawatts by 2028, with Brookfield Asset Management Ltd (NYSE:BAM) proposing up to $9 billion to fund the AI infrastructure. NAVER To",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-deepens-south-korea-ai-034531806.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Dz8rYnrblovnqUoESSX.jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/82f6dd43b9f4672e9697d8ab7542828c",
+      "published_at": "2026-07-27T03:45:31Z"
+    },
+    {
+      "id": "b7c1e3f4-6dfd-30cc-84e2-d812d4b061a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SK Hynix, Samsung Ink $950 Billion AI Chip Deals, But Stocks Still Slide",
+      "summary": "SK Hynix and Samsung signed $950 billion in AI chip deals with Nvidia and Broadcom, yet both stocks fell Monday as investors booked profits.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/sk-hynix-samsung-ai-deals-stocks-fall/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DC6A6TZ1RCH_slX4czUrYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/7ad1a9cb8096767fb5ea59a9fb24a05f",
+      "published_at": "2026-07-27T03:36:45Z"
+    },
+    {
+      "id": "7cba8e69-7c48-3096-b5f5-7987c1163df6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Singapore Central Bank Tightens Again in Surprise Move",
+      "summary": "The Monetary Authority of Singapore moved to contain inflation risks despite recent softer-than-expected price readings.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FopJZD0oAmt98FKu6JMBsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ccb3b1ca381fbee038c45ef03a3972dc",
+      "published_at": "2026-07-27T03:26:00Z"
     },
     {
       "id": "12746bd3-fc09-34d2-8863-de33c3d228f9",
@@ -37,17 +224,6 @@
       "published_at": "2026-07-27T02:24:15Z"
     },
     {
-      "id": "2a579dd7-d716-343b-b184-f05bd3003463",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
-      "summary": "Demand for medical testing services is rising.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/why-quest-diagnostics-stock-climbed-this-past-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ql7lc6hY8cL0IXuBDeb9kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bfb019d986070e672e4555c5a3958ff3",
-      "published_at": "2026-07-27T02:22:30Z"
-    },
-    {
       "id": "192cfd23-abfd-331a-bfa1-37fbdc5ada8c",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -57,28 +233,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-rise-as-iran-pause-eases-oil-fears-ahead-of-big-tech-earnings-fed-meeting-orcl-nvda-vg-del-in-focus/cZZxGxcR7Cc",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MkBlKqmQ4xPyjBKYo98IaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/96e7e6fc4486bde93adecd31bdfef2a2",
       "published_at": "2026-07-27T02:22:28Z"
-    },
-    {
-      "id": "235a5256-2a73-3787-9c8a-1017a44736bd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "ORCL Stock Jumps Overnight: Nvidia Reportedly Puts $250B On Table For OpenAI’s Data Center Push",
-      "summary": "Nvidia was in talks to provide a roughly $250 billion backstop for OpenAI as part of a massive data-center project, The Wall Street Journal reported. The deal would help Oracle as well.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/orcl-nvidia-250b-openai-data-center-push/cZZxGDtR7CT",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7p00EfeolRXP23XmJ2ZxVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/33b9c73109745c6d1cb00fca122dabb0",
-      "published_at": "2026-07-27T02:22:11Z"
-    },
-    {
-      "id": "b22cabb9-0a2c-31ed-adf0-26b1947b69b3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Walmart Is at $108. Here's Why Investors Should Take Pause.",
-      "summary": "Shares in this dominant retailer have climbed faster than Amazon and Costco in the past five years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/walmart-is-at-108-heres-why-investors-should-take/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wBPkwM38KZzMPr5nI2VGNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4a878eb328d7e55340e6e9765328488e",
-      "published_at": "2026-07-27T02:20:00Z"
     },
     {
       "id": "6943ed79-9d2a-3d0a-9376-b6e7a5085293",
@@ -104,25 +258,14 @@
     },
     {
       "id": "45736107-ed75-3d0c-a8ab-5dcbb2ad5f03",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
       "summary": "Tech, AI and earnings drove a busy week across software and chips sectors.",
       "source": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-tsla-intc/cZZxG0NR7CR",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1hnzcp5jdb4EBRsenYqLBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/03163a1a50f92f47996e20c5f2e798c1",
       "published_at": "2026-07-27T02:05:25Z"
-    },
-    {
-      "id": "766c8b4e-3e6d-3826-b7f7-3b183bb01c42",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meta Slipped Back Below $600 Before Wednesday's Report. It Now Trades at About 22 Times Earnings. Here's What Investors Should Know.",
-      "summary": "The multiple has come down while the growth rate has gone up. Wednesday decides whether that gap is an opportunity or a warning.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/meta-slipped-back-below-600-before-wednesdays-repo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V.VGHEuGjdz.jnNynHu8xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/706e1240670de9c7f29c5f310f3d01a1",
-      "published_at": "2026-07-27T02:01:00Z"
     },
     {
       "id": "e0ef1078-dbcc-3088-82ef-f3bfefbd5d26",
@@ -147,17 +290,6 @@
       "published_at": "2026-07-27T01:51:45Z"
     },
     {
-      "id": "1f9d5b47-c72c-30bc-92d5-87e7db81f52f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Reportedly Moves to Backstop $250 Billion in OpenAI Data Center Financing, Michael Burry Says, 'Around and Around We Go'",
-      "summary": "Over the weekend, ‘Big Short’ investor Michael Burry and tech commentator Ed Zitron voiced concerns after a report said Nvidia Corp (NASDAQ:NVDA) is considering backing billions of dollars in financing to support OpenAI’s massive AI infrastructure expansion. Nvidia Reportedly Weighs Financing Guarantee For OpenAI Nvidia is in talks to provide a roughly $250 billion financial backstop for OpenAI as part of a massive data center project in southern Ohio that could ultimately cost more than $500 bi",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-moves-backstop-250-015059079.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s8Ll.WJ2yWl6b0Bj0gNXGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/c9cbae48e0c3ed22425b4e2eb990e05f",
-      "published_at": "2026-07-27T01:50:59Z"
-    },
-    {
       "id": "ea785673-0e96-3682-ade9-b3e0dc6046a8",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -169,147 +301,15 @@
       "published_at": "2026-07-27T01:44:48Z"
     },
     {
-      "id": "6e1a76f3-90a8-3056-b92f-e3b141d8c375",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's What Markets Are Now Saying About Fed Rate Hikes This Year",
-      "summary": "Both the futures market and the bond market expect multiple rate hikes by the end of this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/heres-what-markets-are-now-saying-about-fed-rate-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7rowEnnPV9QSnC4YAO2COg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/567e612b856a71c6269c3e43dbd5bf8b",
-      "published_at": "2026-07-27T01:30:00Z"
-    },
-    {
-      "id": "3f26eafc-1721-346b-abce-9029f9cd50ea",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Slides 7% as Iran Signals It Will Halt Attacks If US Pause Holds",
-      "summary": "Oil prices dropped after Iran said it would halt attacks if the US bombing pause holds, easing war-risk pricing.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/oil-slides-iran-halt-attacks-pause/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/POUDReHG.raDi5drilevWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/54a099d29640646710ce076674e96cd0",
-      "published_at": "2026-07-27T01:24:24Z"
-    },
-    {
-      "id": "9b89db91-4981-3e23-8608-e038a8fde63a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Tsakos Energy Navigation (TEN) Adds Third Shuttle Tanker With 10 Year Oil Major Contract",
-      "summary": "Tsakos Energy Navigation (NYSE:TEN) has taken delivery of the Anfield DP, its third DP2 Suezmax shuttle tanker. The vessel will operate in the Brazilian offshore market under a new long-term contract with a major US oil company. The contract is structured over a decade, adding visibility to NYSE:TEN’s future revenue stream. The Anfield DP extends Tsakos Energy Navigation’s footprint in shuttle tankers, a niche segment focused on transporting crude from offshore fields to onshore facilities...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/tsakos-energy-navigation-ten-adds-010922066.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XccCQTpKKhQzQZtpgcxJ8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/22763255fd07b4ca1afee2bfc46e643f",
-      "published_at": "2026-07-27T01:09:22Z"
-    },
-    {
-      "id": "1835a4b6-0972-3a7d-9e59-9150a4451211",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
-      "summary": "Oil prices fell more than 5% after the United States and Iran paused military attacks, easing immediate supply fears but leaving significant shipping risks in the Strait of Hormuz and Red Sea.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-plunge-5-u-010614129.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c6Kpu4iBINHN0FQ1r5Z1FA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/7f65c5b6819c0ba29649733948bdd252",
-      "published_at": "2026-07-27T01:06:14Z"
-    },
-    {
       "id": "66bb7c96-946b-3199-a19f-df800309d825",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "China’s Moonshot to Release Breakthrough AI Model for Download",
       "summary": "(Bloomberg) -- Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development.Most Read from BloombergDeepSeek Suspends Fundraising After Viral US-China PostsSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysUS, Iran Extend Pause in Strikes as Oman Holds Hormuz TalksTrump Seethes as Iran War Spirals A",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-release-breakthrough-ai-010035301.html",
       "thumbnail": "",
       "published_at": "2026-07-27T01:00:35Z"
-    },
-    {
-      "id": "fc2d4863-91de-3f84-867a-8a118aa29a84",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The ‘Unsettled’ Vibe That’s Creeping Through the Markets",
-      "summary": "This year’s stock rally has withstood war, inflation and uncertainty surrounding the tech sector’s massive artificial-intelligence investments.  The question now is: Have investors finally reached their limit?  Major stock indexes have posted healthy gains this year.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/the-unsettled-vibe-thats-creeping-through-the-markets-e3996676?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YuptvDEBuAPrYJYyvuP9nA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/8d9dcc3ceea5ae2f16ccfbf388e380f4",
-      "published_at": "2026-07-27T01:00:00Z"
-    },
-    {
-      "id": "444ed1fd-e032-3dd5-9aef-ca9e6f51fd57",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dollar pulls back as US-Iran attacks pause, oil drops",
-      "summary": "By Gregor Stuart Hunter SINGAPORE, July 27 (Reuters) - The dollar slumped against its major peers at the start of Asian trading on Monday after the U.S. paused its bombing campaign in Iran during the",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/dollar-pulls-back-us-iran-003224711.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FXQm1DalTKQPonkfM_htSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/50d9c638760a8f2e7dc28697e8bc2c4b",
-      "published_at": "2026-07-27T00:32:24Z"
-    },
-    {
-      "id": "58665e88-f4a4-32e8-85fc-5bc6d2b2aeb2",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk's Pitch for AI Firms To Peer Review Each Other's Models Surfaces Just as OpenAI's Own Agent Went Rogue: 'The Most Immediate Thing...'",
-      "summary": "Billionaire Elon Musk proposed that top AI firms would peer-review each other’s most advanced models before deployment to address growing AI safety concerns. “The most immediate thing that we could do is to have the leading AI companies … have...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musks-pitch-ai-firms-003013434.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y7LXUf.pk7HanAboIVtzGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/75281acb573ca9b0850b5c3f8c28afaf",
-      "published_at": "2026-07-27T00:30:13Z"
-    },
-    {
-      "id": "7cba8e69-7c48-3096-b5f5-7987c1163df6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Singapore Central Bank Delivers Surprise Back-to-Back Tightening",
-      "summary": "The MAS very slightly increased the rate of appreciation of the Singapore dollar nominal effective exchange-rate policy band while leaving its other parameters unchanged.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FopJZD0oAmt98FKu6JMBsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ccb3b1ca381fbee038c45ef03a3972dc",
-      "published_at": "2026-07-27T00:25:00Z"
-    },
-    {
-      "id": "3f2b859a-a0f3-337a-a7c1-4026bcebde1f",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
-      "summary": "Leveraged ETFs promise amplified gains, but SPXL hides a counterintuitive flaw that can turn a rising market into a losing trade. Understanding what actually happens inside this fund each day changes everything about how you should use it.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/26/why-this-leveraged-sp-500-etf-can-lose-money-even-when-stocks-rise/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ts5_wIu0OvGSoZ95rGyrdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bd8b3b8c2c3ddad288bb62950051255b",
-      "published_at": "2026-07-26T22:55:23Z"
-    },
-    {
-      "id": "9eeafabc-5c1a-3d9b-84f5-f6f24b2822a8",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now.",
-      "summary": "Both stocks are cheaper than the S&P 500.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/26/microsoft-and-meta-platforms-are-negative-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VSVLjwjToiGPuPZ5Fa9KBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/875714e345f121087229965c0900f6af",
-      "published_at": "2026-07-26T22:50:00Z"
-    },
-    {
-      "id": "673b30d6-a6b8-3f1d-b447-393ab57a3798",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
-      "summary": "Investor Ross Gerber of investment firm Gerber Kawasaki said Elon Musk could face a long road to turning Tesla Inc.‘s Optimus into a commercial success, saying humanoid robots remain difficult to build and are unlikely to generate revenue anytime soon....",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-questions-teslas-optimus-223020232.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OLGIyYaKki8HmDUNRfTL.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ce8f5621676bdeb1780e81d023ddb178",
-      "published_at": "2026-07-26T22:30:20Z"
-    },
-    {
-      "id": "fbcba7a0-28ed-3c76-95fd-a6fe4fdcb497",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Fed Rate Decision Pits 104 Economists Against a 36% Hike Bet",
-      "summary": "Economists say the Fed holds Wednesday. Traders bet 36% on a hike. What the Fed rate decision means for Bitcoin.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/fed-rate-decision-economists-traders-split/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tZwB30IPoH6_L0YJGNTpHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d4651451e984d8fbc9fa6ef8b3226426",
-      "published_at": "2026-07-26T22:13:21Z"
     }
   ]
 }
