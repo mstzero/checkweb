@@ -1,8 +1,173 @@
 {
-  "last_updated": "2026-07-31 21:36 UTC",
+  "last_updated": "2026-07-31 22:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "34f7d24a-3cfe-359b-a3b1-1f81e9d2829a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Wall Street ends higher as Amazon soothes AI jitters",
+      "summary": "<body><p>STORY: Wall Street ended higher on Friday, with the Dow adding more than half a percent, the S&P 500 gaining seven-tenths of a percent and the Nasdaq climbing one percent.</p><p>:: Amazon</p><p>Amazon surged more than 15% after the tech giant posted its biggest quarterly revenue growth in over four years. Its results, along with a similar report from Microsoft this week, alleviated investor concerns about potential overspending on AI data centers.</p><p>Meanwhile, shares of Apple tumbled more than 7% after a disappointing forecast showed that the iPhone maker was struggling to secure enough components, as the AI-driven data center boom strains global supply chains.</p><p>Friday marked the end of a bumpy week for stocks that included a Fed policy meeting in which the central bank left rates unchanged - but with three dissenters pushing for a 25 basis point hike.</p><p>Dean Smith is chief strategist & portfolio manager at FolioBeyond.</p><p>\"I think there was a decent case to be made that a hike is in order. Inflation, we had a slightly softer print on the most recent one, but inflation is now running well above Fed's 2% stated target. It's higher now than it was a year ago and it seems to be reaccelerating. [FLASH] So it was a close call probably, but I think, you know, if I had been on that voting committee, I would have voted for a rate hike as well.\"</p><p>:: Archive</p><p>Other stocks on the move Friday included Monolithic Power Systems, which rose more than 8% after forecasting third-quarter revenue above estimates.</p><p>But shares of GoDaddy slid nearly 17% after the domain registrar narrowed its annual revenue forecast.</p></body>",
+      "source": "Reuters Videos",
+      "url": "https://finance.yahoo.com/video/wall-street-ends-higher-amazon-224141562.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I2oNcEDCEKdARZjz.oCQVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/f47877c1-5979-472e-b2c2-4facef6a47e4/main/1280x720/54s293ms/match/image.jpg",
+      "published_at": "2026-07-31T22:41:41Z"
+    },
+    {
+      "id": "897925a0-382b-37db-8b84-31624241ce16",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Shell CEO's blunt message as gas and diesel face new squeeze",
+      "summary": "There is a specific sequence in energy markets that anyone who follows oil prices knows, and Shell CEO Wael Sawan just described it in plain language on CNBC's Squawk On The Street. First, the raw crude price spikes. Then the refineries pivot to produce whatever product commands the highest price. ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/shell-shel-ceo-warns-diesel-gasoline-shortage",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9KTC2lQV4LB4LxFvVkTSoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ce8905d12b36a6c5115ebd23ec44423f",
+      "published_at": "2026-07-31T22:33:00Z"
+    },
+    {
+      "id": "e9298a76-a749-3c6e-a34a-4a1f3997d71e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why SPS Commerce Stock Crushed it on Friday",
+      "summary": "It beat on the two most important metrics in its second quarter.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/why-sps-commerce-stock-crushed-it-on-friday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2PQRMYMjwYz.LxAz7k_9rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6ab99c88e1d91f31aa67dbf1c12b5d90",
+      "published_at": "2026-07-31T22:14:22Z"
+    },
+    {
+      "id": "6928b407-cf02-35aa-b761-d232f4298443",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Market Chatter: Musk's Fortune Falls Below Pre-SpaceX IPO Levels, Bloomberg Reports",
+      "summary": "Elon Musk's net worth has fallen below where it stood before SpaceX's initial public offering priced",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-musk-apos-fortune-220921323.html",
+      "thumbnail": "",
+      "published_at": "2026-07-31T22:09:21Z"
+    },
+    {
+      "id": "f3c28cc2-8fa3-313a-bfc9-9ea4609ea0de",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Worst Month In Over A Year — PSKY, BABA, RDDT, RIVN, AMZN In Focus",
+      "summary": "The benchmark 10-year Treasury yield topped 4.7% on the day, its highest level since January 2025.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/us-indices-end-week-higher-as-amazon-earnings-lift-sentiment/cZN4nG4RJ5b",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KeBoZ_Wg4EVeE_4kwWS4Mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c",
+      "published_at": "2026-07-31T22:02:55Z"
+    },
+    {
+      "id": "679bec0f-69e7-3170-8d3a-f4598cc9166a",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Forget IWM: SPSM Has Quietly Beaten It by 12.68 Points Over 10 Years",
+      "summary": "IWM is the default small-cap trade, liquid and familiar, but a quieter alternative has been compounding ahead of it for years thanks to two structural advantages most investors overlook completely.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/31/forget-iwm-spsm-has-quietly-beaten-it-by-12-68-points-over-10-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/safqcjLb6mPZQ4YIRBWGVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/63dd1e384ff7d5fed65700656fec4a1b",
+      "published_at": "2026-07-31T21:56:49Z"
+    },
+    {
+      "id": "b95cda9b-518c-332e-bac7-7a7a25951631",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Price to Sink? Fed Holds Rates at 3.50%-3.75%, Revives 'Higher for Longer' Warning",
+      "summary": "Schiff says Strategy's latest share sale diluted Bitcoin exposure, with BTC yield per share falling to 4.5%. Supporters argue MSTR still beats Bitcoin over the ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/bitcoin-price-crash-fed-holds-rates-higher-for-longer/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TYRFHE.ueWej8Rf6D1wuFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/f702ff7ec21313b54faa32d435e0403e",
+      "published_at": "2026-07-31T21:44:51Z"
+    },
+    {
+      "id": "8a7c9387-95a8-3de6-8325-b76e5035f05c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why CareDx Stock Jumped Today",
+      "summary": "The diagnostics leader is accelerating the trend toward precision medicine.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/why-caredx-stock-cdna-is-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hMmuLzzwOPPgSM1diC_8Dg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f7706e5f14014482851481d4d13b9090",
+      "published_at": "2026-07-31T21:44:23Z"
+    },
+    {
+      "id": "4a5dc9da-0610-3276-a6e5-cb423dad3658",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Teetering US stock market faces jobs report, big earnings week",
+      "summary": "By Lewis Krauskopf NEW YORK, July 31 (Reuters) - U.S. employment data and a batch of corporate results this coming week will keep equity investors on edge over the direction of the stock market, which",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OUb5NDf3DRRCRA3gUDWJzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3d86a697f6c787819b308e8b95332b8c",
+      "published_at": "2026-07-31T21:41:08Z"
+    },
+    {
+      "id": "c0be800a-731d-3368-b090-c67a1e655ac1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Fed Chair Kevin Warsh Plays the Hawk But May Have a Dove Up His Sleeve",
+      "summary": "The stock market has largely viewed new Fed Chair Kevin Warsh as hawkish during his first few months on the job.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/fed-chair-kevin-warsh-plays-the-hawk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YLDastbuqPRs6.3hxVpRVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b175d5ee43df03ffa46476a620e6ac40",
+      "published_at": "2026-07-31T21:41:00Z"
+    },
+    {
+      "id": "4397a458-3dc3-353d-9b66-62216ed60f3d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10%",
+      "summary": "Coinbase’s earnings miss further fueled risk-off sentiment in crypto markets as traders reassessed the likelihood of crypto legislation progression today, July 31, 2026.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/31/crypto-market-today-july-31-bitcoin-slides-below-usd63-000-and-coinbase-tumbles-10/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.Mph4aFGnHSwEnDNSY1wnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa",
+      "published_at": "2026-07-31T21:38:47Z"
+    },
+    {
+      "id": "2a1df4e2-d4f7-3df6-8d62-976455a7aa54",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock",
+      "summary": "Today, July 31, 2026, the EV maker beat expectations with $1.66 billion in quarterly sales, yet investors focused on profitability headwinds and sector weakness.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/31/stock-market-today-july-31-rivian-beats-q2-revenue-estimate-as-concerns-of-rising-costs-weigh-on-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HS.p98roqhMAhk1B_TlxGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460",
+      "published_at": "2026-07-31T21:34:57Z"
+    },
+    {
+      "id": "395bb51a-f23c-3d4b-b750-c8874568f227",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Amazon Stock Has Best Day Since 2012",
+      "summary": "Amazon rode to the rescue for the Nasdaq composite today. Shares in the tech giant jumped 15%, their best one-day performance since 2012. The gains helped Nasdaq end the week with a 1% boost. The company reported higher-than-expected revenue on Thursday from Amazon Web Services.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026/card/amazon-jumps-apple-drops-before-the-bell-qggOufDV3yiCm0Kg1WRT?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G7S0Yj7QMW7VLsFieD3wqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/595077057a16db1e2635db1d9cffab39",
+      "published_at": "2026-07-31T21:34:23Z"
+    },
+    {
+      "id": "64cfa265-6c3f-3d57-9ea8-093e2b882536",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
+      "summary": "Bitcoin (CRYPTO: $BTC) is pacing for a roughly 5% gain in July, although the largest cryptocurrency remains largely...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-stays-rangebound-amid-market-volatility-6311",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A.oJs40ewl2HrfRVOZVQ8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/dccbfef2a1426a0500803b5d58bc2b40",
+      "published_at": "2026-07-31T21:33:00Z"
+    },
+    {
+      "id": "54059e3a-de14-300c-96f2-21fcda3cabce",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
+      "summary": "Nvidia stock rose after Amazon raised its capital expenditure forecast and played down competition between its custom AI chips and Nvidia’s processors.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-amazon-2354d905?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q..OQ2QovWHrNaiCa98QOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/110abaebdf6c198d5af15165200f8d4e",
+      "published_at": "2026-07-31T21:30:00Z"
+    },
     {
       "id": "7288525e-677b-3631-a797-bdfd020f201e",
       "asset": "TSLA",
@@ -24,6 +189,17 @@
       "url": "https://finance.yahoo.com/video/ai-trade-combination-perception-reality-212136645.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ec.CEcvbwVM7aNmqme4OXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1785532730784_1248.jpg_588a9b54d4c1a18b9d71188a8d053e8883aec8da12e9822dd2c69f9913c6a9e5.jpg",
       "published_at": "2026-07-31T21:21:36Z"
+    },
+    {
+      "id": "cdf447f2-541b-3fcf-91e6-d1aead12c56b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The world’s most valuable companies are taking opposite paths in the AI race",
+      "summary": "Which is worth more: a company that’s sitting out Big Tech’s mega AI spending spree or a company that’s fueling it?",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/07/31/tech/apple-nvidia-ai-race",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i7RBpuk_T3L2s_6JR1NG7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/3b893a5011d29b2adff55d554cd38f1f",
+      "published_at": "2026-07-31T21:18:08Z"
     },
     {
       "id": "a198dbe9-c40e-37e4-b596-600c30aa7aed",
@@ -59,6 +235,17 @@
       "published_at": "2026-07-31T21:13:00Z"
     },
     {
+      "id": "e55c9baa-918b-3e70-a13c-6f67083daec7",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month",
+      "summary": "A surge in  Amazon  stock Friday gave the Nasdaq enough momentum to obscure  Apple  slump.  Beneath the surface of the Nasdaq composite’s 1% gain was a tug of war between Apple stock, which fell 7.4%, and Amazon’s which surged 15%.  The post-earnings slide, Apple’s largest since 2014, followed company forecasts for its September quarter that fell short of Wall Street’s expectations.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9GVKkAd1wVHWkfvMif331w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d8d0b365729a5fb8dd9923706c94d566",
+      "published_at": "2026-07-31T21:12:00Z"
+    },
+    {
       "id": "d84e05c8-18b9-3680-80e2-aa180bbb50ba",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -81,6 +268,17 @@
       "published_at": "2026-07-31T21:08:42Z"
     },
     {
+      "id": "d856a893-f1f5-35d1-b91b-585b79d36716",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on America’s scrap metal industry, Capstone Copper, Clariant, Perseus Mining and more in the latest Market Talks covering basic materials..",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-39b1ba36?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cubNoz_bbThE13Flgtzing--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4f53ec3dd26ff5d859a8e8075a7c5750",
+      "published_at": "2026-07-31T21:08:00Z"
+    },
+    {
       "id": "6b65cbae-d29b-3c0a-a832-d28f7d630bc5",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -92,224 +290,26 @@
       "published_at": "2026-07-31T21:07:57Z"
     },
     {
-      "id": "72e3c0c5-a12e-3b43-99a6-0cc643af996b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "WisdomTree, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of WisdomTree, Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-wisdomtree-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FL.kK6LgvMTyVf66dRZKpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/7b48d66c34d0b522891036f52e5a12e4",
-      "published_at": "2026-07-31T21:07:07Z"
+      "id": "d4cc4e8d-8b56-36c7-82d1-ccd86d5ce793",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on bitcoin ETFs, large private-equity firms and more in the latest Market Talks covering financial services.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-c712a670?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ul_CyBtGbzmgA8lDeAc4jA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/00e8446ed15530c56d43472596781ad3",
+      "published_at": "2026-07-31T21:06:00Z"
     },
     {
-      "id": "b1c7acb8-8108-32e2-95a2-8fe2b37a5422",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Oxford Square Capital Corp. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Oxford Square Capital Corp.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-oxford-square-capital-corp-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3NEhhxtCP6iPokzvvXNUng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/6943dd466ece66c996f9ea999f7cfde5",
-      "published_at": "2026-07-31T21:06:33Z"
-    },
-    {
-      "id": "a8a1fdae-476d-35a5-b972-0cb7925c51cb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "ArcelorMittal Q2 Earnings Call Highlights",
-      "summary": "ArcelorMittal (NYSE:MT) reported improving operating momentum in the second quarter and said it expects progress to continue through the second half of 2026, supported by stronger European order books, production restarts and strategic growth investments. Group CFO Genuino Christino said second-qua",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/arcelormittal-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3jcVjbeFcMoarXZDKUyZ0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/11466884c12945e94be94b38695808ff",
-      "published_at": "2026-07-31T21:03:55Z"
-    },
-    {
-      "id": "ed20a1a9-39ce-3eca-b77a-373aae25764e",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "DPM Metals Inc (DPMLF) (Q2 2026) Earnings Call Highlights: Record Revenue and Major Porphyry ...",
-      "summary": "DPM Metals Inc (DPMLF) posts 94% revenue surge to $362 million, unveils high-grade copper-gold discovery at Breveni South while advancing key projects.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-inc-dpmlf-q2-210212846.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T21:02:12Z"
-    },
-    {
-      "id": "5516e683-eda8-3f34-b371-df52a6a64443",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Anglogold Ashanti PLC (AU) (Q2 2026) Earnings Call Highlights: Record Cash Generation and $2 ...",
-      "summary": "EBITDA surges 46% to $2 billion as the miner boosts shareholder returns and outlines a low-capEx organic growth pipeline.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-q2-210032787.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T21:00:32Z"
-    },
-    {
-      "id": "2cb155b5-4f4f-3bff-b7a9-1cb04d0db3ea",
+      "id": "c7088c5b-b522-3124-b711-72c511e1146a",
       "asset": "MSFT",
       "asset_name": "Microsoft",
-      "title": "Stocks boosted by tech earnings; bond yields hit multi-year highs",
-      "summary": "By Karen Brettell July 31 (Reuters) - U.S. stocks rose on Friday as strong earnings from Amazon and Microsoft drew investors back into the AI trade, while longer-dated Treasury yields hit new multi-",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-yen-spotlight-013146618.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CyF9Ryi2GCStfKiUEgzoxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2736b60f6b665670120019071a7129d1",
-      "published_at": "2026-07-31T20:55:36Z"
-    },
-    {
-      "id": "bd0f0430-2ff7-3b11-baa7-88eb6ccfdebb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Market Talk: Apple sinks, Amazon soars in split verdict on AI winners",
-      "summary": "<body><p>STORY: :: Recorded on July 31</p><p>:: Lisa Bernhard, Reuters</p><p>:: Dean Smith, Portfolio Manager, FolioBeyond</p><p>Shares of Apple tumbled as much as 10% on Friday after a disappointing forecast showed that the iPhone maker was struggling to secure enough components as the AI-driven data center boom strains global supply chains.</p><p>The drop, if sustained, would erase nearly $500 billion from Apple's market capitalization and return the crown of the world's most valuable company to AI chip giant Nvidia, days after reclaiming it.</p><p>Meanwhile, shares of Amazon soared as much as 15% after the tech giant's solid cloud sales growth reinforced investor confidence in its massive AI bets.</p><p>\"There's two really different trends going on,\" said Smith. \"One is the hardware constraint, the [other is] cloud compute capacity, and those are going to continue to drive what we see in the AI investment thesis.\"</p><p>Next week, the focus will remain on AI when SpaceX delivers its first quarterly earnings results since going public.</p><p>\"There's no mystery about how many rockets they're firing off, we can see them,\" said Dean with a laugh. \"So what I'm looking for in SpaceX is to see what is their plan for the AI side of the business.\"</p></body>",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/market-talk-apple-sinks-amazon-205445179.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k23Sb6PTlJmJZfwN89VAjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/c5d4e1de-2db4-4a89-b612-1cf36c827cdc/main/1280x720/2m12s885ms/match/image.jpg",
-      "published_at": "2026-07-31T20:54:45Z"
-    },
-    {
-      "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "summary": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rebounds-now-watch-for-this-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CWHxIGChV6nk4vArDXJ0VQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/d384025368caf53205d16d6538420df0",
-      "published_at": "2026-07-31T20:53:08Z"
-    },
-    {
-      "id": "447e7bf9-097a-3044-a628-cebe4249eaca",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Balchem Corporation Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Balchem Corporation's Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-balchem-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vUwqjzuqX4FIYPOpmEHxRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/22e42a131fbaa71923755c671e58296d",
-      "published_at": "2026-07-31T20:50:23Z"
-    },
-    {
-      "id": "97048b71-05d6-3d42-8e6f-c0b86ae21ca6",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "summary": "The Standard & Poor's 500 index rose 1.1% this week as hyperscalers showed the mega spend on the art",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204514158.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T20:45:14Z"
-    },
-    {
-      "id": "d269d30c-38b8-3946-ad81-d1047015a34d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Amazon surges as US stocks shrug off bond yield worries",
-      "summary": "Wall Street stocks charged higher Friday behind strong earnings from Amazon that offset the drag from higher US Treasury yields.Markets continued to keep an eye on US Treasury yields, which remained elevated amid concerns that persistent inflation will compel the Federal Reserve to lift interest rates.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-rebound-fuels-record-breaking-031606933.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Nn4P.Zu.AcSHlnFh35hlIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/5b1e92256599f723879ce83a02a77445",
-      "published_at": "2026-07-31T20:41:19Z"
-    },
-    {
-      "id": "6ec11dff-c0be-3dbf-a268-76836122a7aa",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars",
-      "summary": "Stock Market Today: The Dow Jones index rises Friday even as Apple dives on a weak sales forecast. Amazon stock surges on earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-aapl-stock-amazon-stock-amzn/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2KQOYrE.QO1wXZzPjq9Ngg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bc0478b8636d6e3aeedc75f457559fb7",
-      "published_at": "2026-07-31T20:37:59Z"
-    },
-    {
-      "id": "202ba772-35d7-38be-8197-1d8c3ff9871a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Stock Tumbles, Wiping Out $359 Billion in Value",
-      "summary": "Apple stock tumbled 7.4% to $308.91 on Friday after its fiscal third-quarter earnings report left investors disappointed. The drop wiped out $359 billion in value, bringing Apple's market capitalization to $4.",
+      "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
+      "summary": "FEATURE  It shaped up to be a positive end to a bad month for stocks. The tech rebound continued, even as a big decline from Apple weighed on the major indexes.  Amazon gained 15% after second-quarter earnings and revenue comfortably beat expectations.",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/apple-earnings-stock-price-ai-iphones-tim-cook/card/apple-stock-tumbles-wiping-out-359-billion-in-value-TRb5cXKUmLRuGPvwQNAE?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L53vPoeo.gQSpl7g8UC5sA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/746a99437bee74620d4952a879fc7b41",
-      "published_at": "2026-07-31T20:29:47Z"
-    },
-    {
-      "id": "a61754b3-dc63-3ed9-97af-b6a6bdd82d78",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Cools Off Tesla-SpaceX Merger Speculation as SpaceX Stock Hits Record Low",
-      "summary": "The Wall Street Journal reports Tesla is considering selling its China business to facilitate a future merger with SpaceX.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tesla-spacex-elon-musk-4afac470?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vo5eL0tdFejsH0yxAbBkvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/fe62106e21347dfe6b3295e5a23b4804",
-      "published_at": "2026-07-31T20:29:00Z"
-    },
-    {
-      "id": "ddd8c8b7-b991-31d6-b242-6e842d4938f3",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "TSX Closer: Index Ends Lower as Telecom Weakness Offsets Gains in Battery Metals, Energy",
-      "summary": "The S&P/TSX Composite Index edged lower on Friday as a sharp decline in Telus weighed on telecom sto",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-ends-lower-202716291.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T20:27:16Z"
-    },
-    {
-      "id": "9793be59-acb7-363f-bc68-aaccec056153",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off.",
-      "summary": "Thursday, the EV maker reported a second-quarter gross profit of $170 million. Wall Street was looking for $71 million.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/rivian-earnings-stock-price-ba825004?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ll.LA6bnfpIEeRvEJ98x7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c509ce57a69d527e377bdfaea3c3818e",
-      "published_at": "2026-07-31T20:27:00Z"
-    },
-    {
-      "id": "960ac55c-dda1-36b4-9c2f-221169bcae25",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple's Supply Woes Likely to Continue Into Fiscal 2027, UBS Says",
-      "summary": "Apple's (AAPL) supply chain-related concerns could persist into fiscal 2027, UBS Securities said, af",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/news/apple-apos-supply-woes-likely-202634893.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6xotb_6QojCzcAKTVtkhsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/cbbe2bd7791489e81292ed0f9ebf5707",
-      "published_at": "2026-07-31T20:26:34Z"
-    },
-    {
-      "id": "6d2eca56-09d1-3108-b3ce-77eb5c77fe8e",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Wall Street ends higher as Amazon soothes AI jitters",
-      "summary": "By Noel Randewich July 31 (Reuters) - Wall Street ended higher on Friday, lifted by Amazon as the tech heavyweight's strong quarterly report bolstered investor confidence in AI-related stocks, while",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-climbs-amazon-soothes-183104054.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lf9qQ7kC6llPxIFfk7Ynqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/781beb94b089dc5ca2ec99c0dbe87561",
-      "published_at": "2026-07-31T20:23:51Z"
-    },
-    {
-      "id": "83e5e1b6-e120-362e-bfbb-a2fa9f5335dd",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "US Equity Indexes Rise This Week as AI Monetization Evidence in Big-Tech Quarterly Results Energizes Bulls",
-      "summary": "US equity indexes rose this week as investors selectively rewarded big tech for delivering evidence",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-week-202115125.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T20:21:15Z"
-    },
-    {
-      "id": "22fc5b04-7dbc-3982-80b7-8feb8fbf820d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Update: US Equity Indexes Rise as Amazon's Results Boost Consumer Discretionary, Crude Oil Trades Off Session Highs",
-      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-amazon-201942357.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T20:19:42Z"
+      "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hIKedwRz9pEmoC2QPseH.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2eef8481b71804d704a5581f3665b1a2",
+      "published_at": "2026-07-31T21:06:00Z"
     }
   ]
 }
