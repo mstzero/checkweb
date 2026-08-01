@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-01 21:23 UTC",
+  "last_updated": "2026-08-01 22:26 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3365d8e4-4089-3d9e-adef-b332a1ecf65b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+      "summary": "The company's cash position has ballooned to nearly $400 billion.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/warren-buffetts-berkshire-could-buy-almost-any-sp/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CUYTUaSnstv.61XjbVXYVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0bdc8748836435d9a8e9930a56e3078e",
+      "published_at": "2026-08-01T22:05:00Z"
+    },
+    {
+      "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "summary": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CWHxIGChV6nk4vArDXJ0VQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/d384025368caf53205d16d6538420df0",
+      "published_at": "2026-08-01T21:58:20Z"
+    },
+    {
+      "id": "133b3223-06ac-3e94-86a0-22541f07ead5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Middle East turmoil leaves gas prices exposed",
+      "summary": "Typically, oil and gasoline prices peak in July or early August. The summer vacation driving season has peaked or is about to peak. Families with children will start to head home to get ready for the new school year. Days are getting shorter. But the rest of 2026 is uncertain. Oil prices were up ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/oil-price-jump-in-july-pushes-fuel-prices-higher",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eYL.8LGMxvLwuCFp51kNjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b3a059f07854ac20a6f24bf190be22a4",
+      "published_at": "2026-08-01T21:47:00Z"
+    },
+    {
+      "id": "dfa6d612-a7c3-3831-a11b-6118b81408da",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+      "summary": "Suriname's Block 58 and Block 52 discoveries are pushing the country toward major oil producer status as GranMorgu nears its 2028 startup.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/surinames-26-billion-oil-bet-210000202.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0rxNdvD7kVakbTesdn.1lw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/40d9375b1f1b9711cd8f413e7eaffb7b",
+      "published_at": "2026-08-01T21:00:00Z"
+    },
     {
       "id": "5f1cd7be-7ad3-31f9-be3e-a3a4830b4128",
       "asset": "NVDA",
@@ -246,6 +290,17 @@
       "published_at": "2026-08-01T16:29:57Z"
     },
     {
+      "id": "bdc8d83f-8a16-38f8-aeb1-d1c69673689a",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+      "summary": "Microsoft is betting that AI-powered security tools can help organizations fight attacks faster.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3595382/microsofts-ai-cybersecurity-push-could-become-a-major-growth-driver-for-msft-stock",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7vx9foWirTWZYGjTcOUsbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c",
+      "published_at": "2026-08-01T16:09:12Z"
+    },
+    {
       "id": "4e3dcc6e-aace-347b-9aad-0a0c392a8fa4",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -255,61 +310,6 @@
       "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LXl8WhUPEsMDGkaQbLkOdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/59ea28feab96dbbe087640eda070d2fe",
       "published_at": "2026-08-01T16:01:17Z"
-    },
-    {
-      "id": "d11a7bf7-b42d-3a38-a73b-0262788ed1b6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Shell Says Oil Prices Are Headed Higher for Years. Here's the Case for Buying Oil Stocks.",
-      "summary": "Green energy is growing, but that doesn't mean that oil and natural gas are out of the picture.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/shell-says-oil-prices-are-headed-higher-for-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xxalxs5GzqkPpvXzD93DLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/729aa25e8853d360f11aadba05cb2711",
-      "published_at": "2026-08-01T15:35:00Z"
-    },
-    {
-      "id": "d31ff295-a306-3371-b1fa-fff04f2603f1",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Trump Family-Backed World Liberty Financial Token Lags Broader Crypto Rally After Billion-Dollar Crypto Income Disclosure",
-      "summary": "WLFI, the governance token of World Liberty Financial, lagged the broader cryptocurrency market in July, failing to match the upward move. WLFI Misses Crypto Rally The coin, currently available on Ethereum, Solana, and BNB Chain, has declined over 7% in...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-family-backed-world-liberty-153026769.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xARFS25OHn_7kP72uQw7tg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a1e179e83131425dcee8b86ccefab482",
-      "published_at": "2026-08-01T15:30:26Z"
-    },
-    {
-      "id": "a1ca2238-f459-3f4c-82f7-cb48fb5cedf3",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Just Announced Huge News for Nvidia Shareholders",
-      "summary": "Microsoft will spend more on data centers throughout fiscal 2027.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/microsoft-huge-news-for-nvidia-stock-data-center/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CKFwYLlKL2JtpUPZcy_HVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c6b72b4725c2c1924ee00e594f624267",
-      "published_at": "2026-08-01T15:07:00Z"
-    },
-    {
-      "id": "b98f56df-7c6e-3df8-9fac-2fd0806910d9",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Why Investors Shouldn’t Sweat the Dip in Qualcomm’s Handset Revenue, According to Experts",
-      "summary": "Qualcomm's handset business is under pressure. But experts say its expanding AI and connected-device ecosystem represent the bigger story.",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/3594866/why-investors-shouldnt-sweat-the-dip-in-qualcomms-handset-revenue-according-to-experts",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T_JMQgAQ21M8vP.PDx9FlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/27b39e34da255314cbc3461a206c09d1",
-      "published_at": "2026-08-01T15:00:02Z"
-    },
-    {
-      "id": "c871378c-6b2e-3973-9a66-98e576e44c98",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy lost $8.22 billion in Q2, but stock rose 4.4% anyway, here is why market is not worried",
-      "summary": "On July 30, 2026, Strategy reported an $8.22 billion net loss for Q2. The diluted loss per share came in at $24.45, against analyst estimates of $2.19 per share. That is not a miss. That is a miss by a factor of more than ten. And yet Strategy shares closed at $97.74 on the day, up 4.41 percent. ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/strategy-lost-8-22-billion-in-q2-but-stock-rose-4-4-anyway-here-is-why-market-is-not-worried",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wsdwSjQFmg9.tqmbK44Wbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/db9ece473b8ba0732fdbc9cd8fef35b8",
-      "published_at": "2026-08-01T14:30:00Z"
     }
   ]
 }
