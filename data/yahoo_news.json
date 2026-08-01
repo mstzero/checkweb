@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-07-31 22:56 UTC",
+  "last_updated": "2026-08-01 00:01 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "be75a539-d1e1-3704-b8db-4f79c605f419",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Forum Energy Technologies Stock Blasted Nearly 22% Higher on Friday",
+      "summary": "It posted a beat-and-raise second quarter.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/why-forum-energy-technologies-stock-blasted-nearly/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9AHT.gJamVzJms1o0pMF9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ca6b949c94b63ec8a494e6dc46f77fd5",
+      "published_at": "2026-07-31T23:36:47Z"
+    },
+    {
+      "id": "e8bc1231-e8d3-3bae-921a-961c44e70413",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nobody's Talking About It, But This Business Could Make Nvidia a $10 Trillion Company",
+      "summary": "Nvidia's physical AI business could be a juggernaut.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/nobodys-talking-about-it-but-this-business-could-m/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uKp73grpCNDVn2W44aHsxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0fc821c921f7f74aa0b4a55d47f24f15",
+      "published_at": "2026-07-31T23:20:00Z"
+    },
+    {
+      "id": "7af01335-fd5f-3bfa-aa5e-affd8bde3143",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why The Bancorp Stock Beat the Market on Friday",
+      "summary": "There's nothing like the combination of a bottom-line beat and a guidance raise.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/why-the-bancorp-stock-beat-the-market-on-friday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AsWEVZb56L.6Hc3iUJUs0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/260d568a5ed48fdd6288b07caeed6282",
+      "published_at": "2026-07-31T23:08:10Z"
+    },
+    {
+      "id": "8b7548e3-7a82-3c2f-9f9e-aa4bf608c0e6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "PBF Energy Q2 Earnings Call Highlights",
+      "summary": "PBF Energy (NYSE:PBF) reported second-quarter adjusted net income of $6.22 per share and adjusted EBITDA of $1.24 billion, as management pointed to strong refined-product markets, low inventories and global supply disruptions as key drivers of the quarter. Chief Executive Officer Matt Lucey said di",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/pbf-energy-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ap95CEtUoo4W_GQFIr_zgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/3cd748dacf4a3550eb01c0ef7fe43232",
+      "published_at": "2026-07-31T23:03:54Z"
+    },
+    {
+      "id": "54f6e54c-6081-367e-833a-a95936b68444",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Parex Resources Inc (PARXF) (Q2 2026) Earnings Call Highlights: Transformative Acquisitions ...",
+      "summary": "Parex Resources Inc (PARXF) becomes Colombia's largest independent E&P company, with reserves up over 80% and production surging to 83,000 BOE per day.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/parex-resources-inc-parxf-q2-230144708.html",
+      "thumbnail": "",
+      "published_at": "2026-07-31T23:01:44Z"
+    },
+    {
+      "id": "6674b6c3-e65b-3eb3-a0f2-32a5c8f4b119",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Compania De Minas Buenaventura SAA (BVN) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+      "summary": "Strong operational performance drives 43% revenue growth and 113% EBITDA increase, with the company achieving a net cash position despite ongoing challenges at San Gabriel.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/compania-minas-buenaventura-saa-bvn-230137105.html",
+      "thumbnail": "",
+      "published_at": "2026-07-31T23:01:37Z"
+    },
+    {
+      "id": "bc9bcc11-b6d3-3ac7-b1ce-cae765f6cd44",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Caterpillar Will Remain an Important AI Stock for a Long Time",
+      "summary": "Caterpillar's power generators have become a major catalyst for the AI boom.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/31/caterpillar-will-remain-an-important-ai-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BOsLz8Hybch1xluh.6LqoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c6b85e14ca358047dcf4a4eba65838c3",
+      "published_at": "2026-07-31T22:57:00Z"
+    },
     {
       "id": "34f7d24a-3cfe-359b-a3b1-1f81e9d2829a",
       "asset": "AAPL",
@@ -57,6 +134,17 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/us-indices-end-week-higher-as-amazon-earnings-lift-sentiment/cZN4nG4RJ5b",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KeBoZ_Wg4EVeE_4kwWS4Mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c",
       "published_at": "2026-07-31T22:02:55Z"
+    },
+    {
+      "id": "6bf34eda-803c-30ae-8575-e942405bb19d",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Stocks to Watch: Apple, Amazon, SK Hynix, Roblox",
+      "summary": "↗️ SK Hynix (KR:000660), Samsung (KR:005930): Shares of both chipmakers surged over 25% in Asian trading, staging a strong recovery after a turbulent week. ↘️ Apple (AAPL): Shares fell 7.4% after the iPhone maker's September-quarter outlook failed to impress investors.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026/card/stocks-to-watch-apple-amazon-sk-hynix-samsung-roblox-UVBiwSE6WbBhfL3eozHj?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vhxkuHz0xiV4yPgKjRhIlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6a5b86cc52965659abc0afd1cbaa903f",
+      "published_at": "2026-07-31T21:58:44Z"
     },
     {
       "id": "679bec0f-69e7-3170-8d3a-f4598cc9166a",
@@ -159,8 +247,8 @@
     },
     {
       "id": "54059e3a-de14-300c-96f2-21fcda3cabce",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
       "summary": "Nvidia stock rose after Amazon raised its capital expenditure forecast and played down competition between its custom AI chips and Nvidia’s processors.",
       "source": "Barrons.com",
@@ -192,25 +280,14 @@
     },
     {
       "id": "cdf447f2-541b-3fcf-91e6-d1aead12c56b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "The world’s most valuable companies are taking opposite paths in the AI race",
       "summary": "Which is worth more: a company that’s sitting out Big Tech’s mega AI spending spree or a company that’s fueling it?",
       "source": "CNN Business",
       "url": "https://www.cnn.com/2026/07/31/tech/apple-nvidia-ai-race",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i7RBpuk_T3L2s_6JR1NG7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/3b893a5011d29b2adff55d554cd38f1f",
       "published_at": "2026-07-31T21:18:08Z"
-    },
-    {
-      "id": "a198dbe9-c40e-37e4-b596-600c30aa7aed",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Novo Nordisk Shares Plunge After a Key Trial Fails. Should Investors Buy the Dip?",
-      "summary": "With the stock near a 5-year low, is it worth a look?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/31/novo-nordisk-shares-plunge-after-a-key-trial-fails-should-investors-buy-the-dip/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KQA4ay0trM07.pHN0ILeRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5a7dac0fe4608c324c48573ae7547b5b",
-      "published_at": "2026-07-31T21:15:01Z"
     },
     {
       "id": "1f264eda-7f74-3bd0-b79b-b64c21da1b03",
@@ -224,28 +301,6 @@
       "published_at": "2026-07-31T21:14:58Z"
     },
     {
-      "id": "72344879-456c-3042-8fbd-e4e281381561",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Coinbase Just Took a Record 10.3% of Global Crypto Trading. It Still Posted Its Third Straight Quarterly Loss.",
-      "summary": "The crypto exchange is taking share of a shrinking market -- and the loss is getting smaller each quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/31/coinbase-just-took-a-record-103-of-global-crypto-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G4Qz91a24VQMs9fDbbrFYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60a6cf566a5f4342d787884351994e1b",
-      "published_at": "2026-07-31T21:13:00Z"
-    },
-    {
-      "id": "e55c9baa-918b-3e70-a13c-6f67083daec7",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month",
-      "summary": "A surge in  Amazon  stock Friday gave the Nasdaq enough momentum to obscure  Apple  slump.  Beneath the surface of the Nasdaq composite’s 1% gain was a tug of war between Apple stock, which fell 7.4%, and Amazon’s which surged 15%.  The post-earnings slide, Apple’s largest since 2014, followed company forecasts for its September quarter that fell short of Wall Street’s expectations.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9GVKkAd1wVHWkfvMif331w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d8d0b365729a5fb8dd9923706c94d566",
-      "published_at": "2026-07-31T21:12:00Z"
-    },
-    {
       "id": "d84e05c8-18b9-3680-80e2-aa180bbb50ba",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/orezone-gold-tsx-ore-justify-211117882.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
       "published_at": "2026-07-31T21:11:17Z"
-    },
-    {
-      "id": "2783f926-9f61-3d1d-874d-940aa4c0f6b2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Perimeter Solutions Stock Is Crashing Today",
-      "summary": "July doesn't seem likely to end on a happy note for this specialty chemicals stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/31/why-perimeter-solutions-stock-is-crashing-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6REtNBvjRUPXHq__zxznOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b46b8dfea248f2892d9ec2d1bc47d3a3",
-      "published_at": "2026-07-31T21:08:42Z"
-    },
-    {
-      "id": "d856a893-f1f5-35d1-b91b-585b79d36716",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on America’s scrap metal industry, Capstone Copper, Clariant, Perseus Mining and more in the latest Market Talks covering basic materials..",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-39b1ba36?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cubNoz_bbThE13Flgtzing--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4f53ec3dd26ff5d859a8e8075a7c5750",
-      "published_at": "2026-07-31T21:08:00Z"
-    },
-    {
-      "id": "6b65cbae-d29b-3c0a-a832-d28f7d630bc5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "3 Energy Stocks We’re Skeptical Of",
-      "summary": "Even if they go mostly unnoticed, energy businesses are the backbone of our country, providing the energy we need to power our lives and businesses.Their momentum is also rising as lower interest rates, as well as AI energy needs, have incentivized higher capital spending. As a result, the industry has posted a 12.6% gain over the past six months, beating the S&P 500 by 7.7 percentage points.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-210757413.html",
-      "thumbnail": "",
-      "published_at": "2026-07-31T21:07:57Z"
-    },
-    {
-      "id": "d4cc4e8d-8b56-36c7-82d1-ccd86d5ce793",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Financial Services Roundup: Market Talk",
-      "summary": "Find insight on bitcoin ETFs, large private-equity firms and more in the latest Market Talks covering financial services.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-c712a670?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ul_CyBtGbzmgA8lDeAc4jA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/00e8446ed15530c56d43472596781ad3",
-      "published_at": "2026-07-31T21:06:00Z"
-    },
-    {
-      "id": "c7088c5b-b522-3124-b711-72c511e1146a",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
-      "summary": "FEATURE  It shaped up to be a positive end to a bad month for stocks. The tech rebound continued, even as a big decline from Apple weighed on the major indexes.  Amazon gained 15% after second-quarter earnings and revenue comfortably beat expectations.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hIKedwRz9pEmoC2QPseH.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2eef8481b71804d704a5581f3665b1a2",
-      "published_at": "2026-07-31T21:06:00Z"
     }
   ]
 }
