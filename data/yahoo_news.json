@@ -1,29 +1,161 @@
 {
-  "last_updated": "2026-08-01 14:05 UTC",
+  "last_updated": "2026-08-01 15:35 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "e94d6845-24c9-32b2-8306-114a8a6ccf44",
+      "id": "25fe4c69-5ba1-34d5-a085-49df91887efe",
       "asset": "NVDA",
       "asset_name": "Nvidia",
+      "title": "Prediction: Intel Posts a Profitable Year Before 2028. Here's How It Gets There.",
+      "summary": "The chipmaker lost $11 billion last quarter on paper. The math underneath points somewhere very different.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/prediction-intel-posts-a-profitable-year-before-20/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vdKX8IlTiyy1ienG3ZEn6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bbf2e57e0ef37427c3a3faba08a1d833",
+      "published_at": "2026-08-01T15:29:00Z"
+    },
+    {
+      "id": "aab7f9b8-580d-3cb9-9a64-f9d468a6d83a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Think Running Out of Money Is Your Biggest Retirement Risk? The Opposite Could Happen.",
+      "summary": "In an attempt to preserve your savings, you might limit your options.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/08/01/think-running-out-of-money-is-your-biggest-retirem/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DX27MyLEtZWwZsnlMi32nA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/06e38fc590d3ba528f1bbec94c9adb01",
+      "published_at": "2026-08-01T15:19:00Z"
+    },
+    {
+      "id": "a1ca2238-f459-3f4c-82f7-cb48fb5cedf3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft Just Announced Huge News for Nvidia Shareholders",
+      "summary": "Microsoft will spend more on data centers throughout fiscal 2027.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/microsoft-huge-news-for-nvidia-stock-data-center/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CKFwYLlKL2JtpUPZcy_HVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c6b72b4725c2c1924ee00e594f624267",
+      "published_at": "2026-08-01T15:07:00Z"
+    },
+    {
+      "id": "6fa1aaf7-53d0-3d8c-8950-d15ade44414d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why the Best May Be Yet to Come for NVIDIA, Micron, and SanDisk",
+      "summary": "NVIDIA, Micron, and SanDisk have already delivered jaw-dropping returns in 2026, but a surprising set of catalysts suggests the biggest gains for all three stocks may still be sitting on the table.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/01/why-the-best-may-be-yet-to-come-for-nvidia-micron-and-sandisk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LmbE5Faxb2P3XKh5y.141w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2cb3de75ceeb0ef0e45e381603258e4",
+      "published_at": "2026-08-01T15:00:13Z"
+    },
+    {
+      "id": "643fd01e-1903-3a00-8301-ee461a9bf55c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You Invest $1,000 in the Vanguard High Dividend Yield ETF Right Now and Never Add Another Dollar, Here's What History Says It Could Deliver in 20 Years",
+      "summary": "This ETF's focus on dividend stocks has paid off for investors over the years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/if-you-invest-1000-in-vanguard-high-dividend-yield/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jKjbfQk1mHOfFL3qT6NLlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bc34cfbbdc23fa637ca12925c3bd7feb",
+      "published_at": "2026-08-01T14:50:00Z"
+    },
+    {
+      "id": "b248eaa4-5004-3d0d-bee0-63f8cca161fd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "$5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now",
+      "summary": "GE's energy spin-off is still a great long-term play on the booming AI market.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/5000-in-ge-vernova-at-its-2024-low-would-be-worth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wbCjvJom8uPi.DgE7aIoyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d25593a2e5a2bb394bcdf3970f49ff5",
+      "published_at": "2026-08-01T14:44:44Z"
+    },
+    {
+      "id": "401d6d09-966a-3c07-9952-09abacfef876",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Market Now Says Palantir Technologies Is Just an LLM Wrapper. The Financials Disagree",
+      "summary": "Palantir's stock has cratered 40% from its peak and critics are calling it a glorified chatbot wrapper, but the company's own financials are moving in the opposite direction from the narrative.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/01/the-market-now-says-palantir-technologies-is-just-an-llm-wrapper-the-financials-disagree/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cRaigE9QmCZhFwEbFydo1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b40720e0d4952ee8877af7e472d25a4a",
+      "published_at": "2026-08-01T14:43:34Z"
+    },
+    {
+      "id": "86cab30f-45b5-328e-9cdc-6a00d8c43bf3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Passive Income Play: Own This Many Chevron Shares for $1,000 a Year",
+      "summary": "Chevron boasts an impressive track record of rewarding shareholders with a growing dividend payout.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/passive-income-play-own-chevron-stock-dividend/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HMPoB1.jS.b3p8TT0giF3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/caea332fcabc6d3045dab7045ec99c7c",
+      "published_at": "2026-08-01T14:35:00Z"
+    },
+    {
+      "id": "e7d7d87f-382f-3ace-b311-a220821c43d8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?",
+      "summary": "Billionaire Chase Coleman just stacked Tiger Global's top five positions directly on the AI infrastructure supercycle, and every single pick still shows double-digit upside potential heading into August. The question is whether the window to get in front of the next earnings wave is already closing.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/01/should-you-buy-billionaire-investor-chase-colemans-top-5-growth-stocks-in-august/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OkquM2zlCFLylfKLgddt3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987",
+      "published_at": "2026-08-01T14:30:36Z"
+    },
+    {
+      "id": "c871378c-6b2e-3973-9a66-98e576e44c98",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy lost $8.22 billion in Q2, but stock rose 4.4% anyway, here is why market is not worried",
+      "summary": "On July 30, 2026, Strategy reported an $8.22 billion net loss for Q2. The diluted loss per share came in at $24.45, against analyst estimates of $2.19 per share. That is not a miss. That is a miss by a factor of more than ten. And yet Strategy shares closed at $97.74 on the day, up 4.41 percent. ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/strategy-lost-8-22-billion-in-q2-but-stock-rose-4-4-anyway-here-is-why-market-is-not-worried",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wsdwSjQFmg9.tqmbK44Wbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/db9ece473b8ba0732fdbc9cd8fef35b8",
+      "published_at": "2026-08-01T14:30:00Z"
+    },
+    {
+      "id": "e592e342-73bd-3e1f-ba01-49b17911e801",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "JEPI vs JEPQ: After Comparing America’s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
+      "summary": "JPMorgan's two giant income ETFs share the same covered-call playbook yet deliver strikingly different results, and with the 10-year Treasury yield pushing near its 12-month high, choosing the wrong one for H2 2026 carries a real cost.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/01/jepi-vs-jepq-after-comparing-americas-two-biggest-income-etfs-one-is-the-better-buy-for-the-rest-of-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aLGBxfgItKyULgI9THvbYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/13241ce3c87a731112a89ad91f3413cd",
+      "published_at": "2026-08-01T14:23:57Z"
+    },
+    {
+      "id": "c52d0fd8-004f-33ba-8736-78d9b7e806f3",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
+      "summary": "Is the space stock finally a buy?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/spacex-is-down-19-from-its-ipo-price-teslas-histor/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yaXRBv4dtImoTUG71eQpdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f4d10b3ce3a1847953a48721ddfc743c",
+      "published_at": "2026-08-01T14:20:00Z"
+    },
+    {
+      "id": "38fe717f-eb4c-3b47-9be7-3d8bf34db97e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here",
+      "summary": "Should you buy Apple at a near-$5 trillion valuation?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/01/apple-did-something-stock-climb-higher/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g_wrBfBGt9_McHbophk4Ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2e8726fe2c2a009bd6d90c77d260a6bb",
+      "published_at": "2026-08-01T14:05:00Z"
+    },
+    {
+      "id": "e94d6845-24c9-32b2-8306-114a8a6ccf44",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
       "summary": "Alphabet and Microsoft both crushed Q2 earnings and doubled their infrastructure bets, yet the market punished one and rewarded the other. The answer comes down to a single question neither company has fully answered yet.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/01/the-real-ai-cost-question-that-defines-the-next-quarter-of-alphabet-vs-microsoft/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UhwcieM4avvQLWgh7es5Wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/dc26b17f5ae28f59e83209cbe0f6e669",
       "published_at": "2026-08-01T13:51:20Z"
-    },
-    {
-      "id": "4eff6f9f-d0fc-3cd2-a71a-c296bd40e374",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does",
-      "summary": "In bull and bear markets, or robust and adverse economic backdrops, this business maintains its commitment to shareholders.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/dividend-stock-raise-payout-no-matter-what-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x8M9zpAK65ecfv297wcnlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/64b288cb07746c0bf68ff95c56972026",
-      "published_at": "2026-08-01T13:45:00Z"
     },
     {
       "id": "0d338124-a091-31db-8c81-9a487e9cfdd8",
@@ -37,17 +169,6 @@
       "published_at": "2026-08-01T13:40:15Z"
     },
     {
-      "id": "b31396b0-326b-32e3-8bf0-8d78f950da9a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 High-Yield Dividend Stocks Worth Buying Before 2026 Ends",
-      "summary": "Investors looking for reliable income should examine these boring high-yield stocks to lock in attractive yields in a low-yield market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/x-high-yield-dividend-stocks-worth-buying-before-2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nzWEE2TP7OElejD_dbPUPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a276459af75a96c7ed4dfe89691b0ba9",
-      "published_at": "2026-08-01T13:35:00Z"
-    },
-    {
       "id": "156daabc-fc92-3c8a-91af-ada60a1baf57",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -57,17 +178,6 @@
       "url": "https://247wallst.com/investing/2026/08/01/state-streets-5-7-trillion-portfolio-chief-missed-bitcoin-at-500-but-she-saw-golds-3000-run-coming-years-earlier/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/llzKJcFgLbAkQtAEw.HuZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bae395d5f8493cec8e842276f1a79d3c",
       "published_at": "2026-08-01T13:30:41Z"
-    },
-    {
-      "id": "917098bc-e20b-351d-869e-3775307eb41d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates",
-      "summary": "Fed Chair Kevin Warsh and the Federal Open Market Committee (FOMC) are contending with elevated inflation, thanks in part to the president's policies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/donald-trump-threw-fed-under-bus-interest-rates/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W2DElOMtAUSL5vsA4pemBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c539ca494e48bf275e6aa022eb1645ef",
-      "published_at": "2026-08-01T13:26:00Z"
     },
     {
       "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
@@ -92,28 +202,6 @@
       "published_at": "2026-08-01T13:11:36Z"
     },
     {
-      "id": "79f170d7-a7a4-3d66-806a-22911bb19042",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Robinhood CEO Vlad Tenev Thinks AI Agents Could Transform the Crypto Market. Here's What That Means for Investors",
-      "summary": "An AI agent can trade on your behalf, but that's not necessarily a good thing.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/robinhood-ceo-vlad-tenev-thinks-ai-agents-could-tr/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jp5Q.CYzXkiQgUrmOkZfXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/23595223b8ba92652fd1ef3a721a7a80",
-      "published_at": "2026-08-01T13:08:00Z"
-    },
-    {
-      "id": "0af80bb1-100e-31ad-b9a4-61b12534f287",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "American Express Raised Its Revenue Guidance and Left Its Earnings Guidance Alone. Here's Where the Extra Money Is Going.",
-      "summary": "The disparity seems alarming, but there's a perfectly good reason for what won't become a long-term norm. In fact, there's a net upside for patient shareholders.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/american-express-raised-its-revenue-guidance-and-l/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/64f1ODJ3XDEas57LwdHfNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60d0dc07d59564accdc864c3c8ee6fb6",
-      "published_at": "2026-08-01T13:07:00Z"
-    },
-    {
       "id": "cbf2aeb1-9535-3d75-8e3b-6df7ab8b59b7",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -136,17 +224,6 @@
       "published_at": "2026-08-01T12:50:55Z"
     },
     {
-      "id": "a5f392c5-247c-3f7e-857d-b93b17ddfbf1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Both Berkshire Hathaway and Micron Stocks Look Cheap on the Surface. But I Like 1 Better Than the Other.",
-      "summary": "A conglomerate and a memory maker look similarly priced. But the earnings streams behind those two multiples could hardly be more different.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/both-berkshire-hathaway-and-micron-stocks-look-che/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/loU4g_lab3JosEqeUG1G_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/276ade28e1e3c91d39846ee2277323c1",
-      "published_at": "2026-08-01T12:43:00Z"
-    },
-    {
       "id": "5fc66bef-d7c0-3f5b-92ed-9e8209c7c64b",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -156,17 +233,6 @@
       "url": "https://www.coinspeaker.com/clarity-act-senate-bessent-satoshi-nakamoto/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/doQvNZQqU51ImxWoFPtH6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinspeaker_us_106/affa455e2b3b8f0ba388217f776cc30e",
       "published_at": "2026-08-01T12:37:14Z"
-    },
-    {
-      "id": "65c3a9ae-c24c-30cc-8301-dfa4d573f84c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The AI Infrastructure Market Is Shifting to Inference. 5 Stocks to Play This Future $1.3 Trillion Market Opportunity",
-      "summary": "The inference market is projected to double the size of the training market in the coming years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/01/ai-infrastructure-inference-stocks-future/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rCD3iGnpDM6Xk0xKPJv83w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f869dd33474059da67a4ea73e887a5bd",
-      "published_at": "2026-08-01T12:20:00Z"
     },
     {
       "id": "363bab4c-f84c-3639-b56a-5fbf98c09320",
@@ -244,72 +310,6 @@
       "url": "https://cryptonews.com/news/bhutan-bitcoin-treasury-3iq-institutional-manager/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M9pTuAngOQhkV.OL3LJ8kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/37e34e708709ddcb11e41205f7dc8621",
       "published_at": "2026-08-01T11:13:08Z"
-    },
-    {
-      "id": "78e80f75-b16d-3449-849a-86b0c0179fd0",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold crashes from $5,500 to $4,160 since the Iran conflict began, but experts see a massive buying opportunity",
-      "summary": "The Iran conflict may be a bonanza for U.S. defense manufacturers, but it’s been a downbeat experience for gold prices.",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-crashes-5-500-4-110500568.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QSFgJe.Y6j41EflGkmu95Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/6a4068648480056949bad5def5c44656",
-      "published_at": "2026-08-01T11:05:00Z"
-    },
-    {
-      "id": "7f2026f3-c0cf-3f11-a5e6-84d17e26e393",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Source Energy Services Q2 Earnings Call Highlights",
-      "summary": "Source Energy Services (TSE:SHLE) reported lower second-quarter revenue, volumes and adjusted EBITDA as weak Western Canadian natural gas prices reduced completion activity, while a sharp increase in U.S. mine-gate sales partly offset softer Canadian demand. Chief Executive Officer Scott Melbourn s",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/source-energy-services-q2-earnings-call-highlights-2026-08-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r1NKcYTCY8.L2sn1stMyaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/674a18eeff287436819e19a4d109c6a7",
-      "published_at": "2026-08-01T11:03:48Z"
-    },
-    {
-      "id": "b0bafc20-fff9-3c18-9a9f-5c1c4ea886e4",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Perseus Mining Q4 Earnings Call Highlights",
-      "summary": "Perseus Mining (TSE:PRU) closed its 2026 financial year with higher quarterly gold production, record annual notional operating cash flow and more than $1 billion in cash and bullion, while advancing its CMA Underground and Nyanzaga growth projects. The company produced 109,000 ounces of gold in th",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/perseus-mining-q4-earnings-call-highlights-2026-08-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F9woz5daTCZ_0xABjZz1IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/70d76f4f6a2ed04cd47adb7e19cfe422",
-      "published_at": "2026-08-01T11:03:47Z"
-    },
-    {
-      "id": "b24c7cf3-e21c-301f-8df2-c23cb754d23f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Why Google, Microsoft, And Meta Are Building In West Texas? According To Galaxy Digital Executive",
-      "summary": "Galaxy has already repurposed its Helios site from Bitcoin mining to AI infrastructure, with the first 200 MW of an 800 MW deal being delivered to CoreWeave.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/google-microsoft-meta-west-texas-galaxy-digital/cZ8xvbPRJ5e",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K2ViqdB6hr4bD84KHZ751A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/ace0aca037921d34e1b41c807738638f",
-      "published_at": "2026-08-01T10:42:32Z"
-    },
-    {
-      "id": "94df5302-f4ab-3014-b72e-aedd15f9d066",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Kinross Gold (TSX:K) Maps Out Lobo Marte As A Long Life Chile Growth Project",
-      "summary": "Kinross Gold (TSX:K) released a detailed update on its Lobo-Marte gold project in Chile. The company outlined project economics, long-life production potential and current progress in the permitting process. The update highlighted plans for substantial, low cost gold output that is expected to extend into the 2040s. Kinross Gold is a large, diversified gold producer, and Lobo-Marte sits at the center of its long term plan in Chile. For investors following the gold sector, this project...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-maps-100941398.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
-      "published_at": "2026-08-01T10:09:41Z"
-    },
-    {
-      "id": "63ffd78d-4993-32d6-95c2-c5d901c415bf",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "First Quantum Minerals Q2 Earnings Call Highlights",
-      "summary": "First Quantum Minerals (TSE:FM) reported higher second-quarter copper production, revenue and EBITDA as operations improved at its Zambian assets and the company began processing stockpiled ore at Cobre Panamá. Chief Executive Officer Tristan Pascall said total copper production rose 4% from the fi",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/first-quantum-minerals-q2-earnings-call-highlights-2026-08-01/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b_K.0q2nDJC0T82JozGxpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/69e8a47fdf710b345976b8fbeeae72e0",
-      "published_at": "2026-08-01T10:03:44Z"
     }
   ]
 }
