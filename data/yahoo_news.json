@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-08-02 16:54 UTC",
+  "last_updated": "2026-08-02 17:59 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "524f685c-689f-30c8-90eb-4499320da707",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
+      "summary": "Investors are increasingly nervous about the sustainability of the artificial intelligence spending boom.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/micron-technology-stock-plummeting-not-buying-dip/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xh.fJsLtMYIkY24dVuK3OQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b175ca592696c1a279e2cb4da6f621b0",
+      "published_at": "2026-08-02T17:45:00Z"
+    },
+    {
+      "id": "39982c66-b0da-36db-b822-3abc791ce6a3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What if I Have $2 Million Saved for Retirement? Is It Really Enough to Stop Working?",
+      "summary": "A $2 million nest egg may seem as if it will leave you with plenty of money, but that isn't necessarily the case.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/08/02/what-if-i-have-2-million-saved-for-retirement-is/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYKviZQ_kocB3V.TTR0.RA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/43c1ac6e6f9b7d9beb8d83b08271799d",
+      "published_at": "2026-08-02T17:35:00Z"
+    },
+    {
+      "id": "7d78edfb-96a5-3964-ba65-6e7649322a48",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.",
+      "summary": "The investment bank has quickly ramped up its crypto ETF offerings.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RynW7EMN8uSfGc6FoQ2T9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f77d53ba2ff01be04197e76b8ed99643",
+      "published_at": "2026-08-02T17:24:00Z"
+    },
+    {
+      "id": "35e03479-9555-3fae-b6ae-7d33a549aa44",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EU0gYg6DVkAsFGqwsDK8ug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/bbb73ff50e153f329c3ef2bbc71e2354",
+      "published_at": "2026-08-02T17:18:51Z"
+    },
+    {
+      "id": "c3fd7eaf-a54e-354e-aaae-ec7f3333a50d",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Bank of America doubles down on Apple stock for rest of 2026",
+      "summary": "Apple's June quarter produced numbers that looked solid on the surface but left investors with a question: Was September quarter guidance conservative, or was the business actually slowing? Bank of America published its answer on July 30. The firm says investors are misreading the results and that ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-apple-stock-for-rest-of-2026",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xRbY.KoTbA_3iPP3s5VIYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d6fa91902340aa6749879e9d06e9f82d",
+      "published_at": "2026-08-02T17:07:00Z"
+    },
+    {
+      "id": "75bfcbf9-fcf2-3bde-aef8-81cede8cb4fe",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Semiconductor Sell-Off: 1 Chip Stock to Buy, 1 to Hold, and 1 to Sell",
+      "summary": "Not all AI chips stocks are buys on this sell-off.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/1-chip-stock-to-buy-1-to-hold-and-1-to-sell/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AFv.Kbi6mUynvfgYZT0AJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91a0ae13c2873e5a3038fb784292bd96",
+      "published_at": "2026-08-02T17:05:00Z"
+    },
+    {
+      "id": "49829536-4ab2-36db-ba0b-4d1ed43e6fe2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Teva Pharmaceutical Stock Surged This Week",
+      "summary": "Teva reported its Q2 results this week, but the stock's big gains mostly stemmed from another catalyst.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/why-teva-pharmaceutical-stock-surged-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wyN553UQ51ExVCpdQvvkkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/05f49022ea3656c3875c2b27285e8453",
+      "published_at": "2026-08-02T17:04:19Z"
+    },
+    {
+      "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures Due As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+      "summary": "President Trump said he's holding off on massive new Iran attacks. SpaceX, AMD, Sandisk, Lilly earnings loom as market rally attempt begins.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6ifxKu5X_HVZQnwV0R9yGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/82b3f81c27f1c7a4099199dae86f4c38",
+      "published_at": "2026-08-02T16:56:50Z"
+    },
+    {
+      "id": "75fda795-93b2-3f89-8ed6-bec813782474",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Reasons Why Berkshire Hathaway Owns $29 Billion of Alphabet Stock",
+      "summary": "Even if Alphabet is worth $4.1 trillion, Berkshire's investments indicate it sees it as undervalued.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/3-reasons-why-berkshire-hathaway-owns-29-billion/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/asMFRkEQqqz5N0vZW_7hpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb89b67e903f786e5f53610bb30d36a8",
+      "published_at": "2026-08-02T16:50:00Z"
+    },
     {
       "id": "4c7d90be-8a07-3bc1-b0e2-695a5c15ca13",
       "asset": "NVDA",
@@ -48,28 +147,6 @@
       "published_at": "2026-08-02T16:05:00Z"
     },
     {
-      "id": "72785b71-0753-3506-8e94-4ce0840c5cfe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia vs. Alphabet: What Revenue Trends Reveal About the AI Leaders",
-      "summary": "NVIDIA and Alphabet both rode the AI wave to blockbuster quarters, but their financials tell two stories so different they raise a harder question: which business model actually wins when the buildout slows?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/02/nvidia-vs-alphabet-what-revenue-trends-reveal-about-the-ai-leaders/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OkjLNs9Cl9YgEDQDaeeHqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c28c33fd1d46ae94d005833cc94f53d3",
-      "published_at": "2026-08-02T16:00:12Z"
-    },
-    {
-      "id": "62b24885-05d9-3f4d-ada6-169520e92c7f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Vanguard's S&P 500 ETF Will Be Back Above $1 Trillion in Assets Before the Year Is Out. Here's the Math.",
-      "summary": "A 2% gain puts the fund back at a level no other ETF has ever reached. Here's how it gets there.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/prediction-vanguards-sp-500-etf-will-be-back-above/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gwln4h1iPKgx9iUgZgsZNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/07c830cab798ed7a735591eca1bc8d46",
-      "published_at": "2026-08-02T15:54:00Z"
-    },
-    {
       "id": "2ffac937-53d7-39e2-bfc2-9e1f0ebdc41c",
       "asset": "ETH",
       "asset_name": "Ethereum",
@@ -79,17 +156,6 @@
       "url": "https://www.fool.com/investing/2026/08/02/coinbase-ceo-brian-armstrong-continues-to-advocate/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k5MRPnFnc21USzziZHLkxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/72ffa834a32f186225ef8da53cd02a14",
       "published_at": "2026-08-02T15:50:00Z"
-    },
-    {
-      "id": "a1340930-3bea-3002-b18a-4201b76e4eb3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is a 53% Decline a Stopping Point for the SpaceX Stock Price? History Offers This Answer.",
-      "summary": "History suggests the upside from there could be more than worth it for long-term investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/decline-stopping-point-spacex-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/33NYWtpK4eQ3qEWUmpihOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1e4d38fc0e2e28f1dadbf91f34e633a0",
-      "published_at": "2026-08-02T15:46:00Z"
     },
     {
       "id": "ad328b83-a207-3ad9-af00-e1169b9ca8ea",
@@ -112,28 +178,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-satya-nadella-says-153026289.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WKAkah2RJb9NvIze54TDGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/00f9f019adec8fa655ed525d07ef6119",
       "published_at": "2026-08-02T15:30:26Z"
-    },
-    {
-      "id": "290a33c8-7c5c-30f8-91a1-a564dffe2075",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Costco Will Become a Trillion Dollar Company on This Date",
-      "summary": "Costco posts 45.5% earnings growth and a near-perfect renewal rate, yet its stock barely budges while trading at a premium multiple that makes Wall Street nervous. A specific date and share price target reveals exactly when that tension finally breaks in shareholders' favor.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/02/prediction-costco-will-become-a-trillion-dollar-company-on-this-date/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZVg.RKE.NB96tiEXljf78w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b58c09cccc6cc8a482903a522ea2aee9",
-      "published_at": "2026-08-02T15:30:16Z"
-    },
-    {
-      "id": "82a834c9-9b4d-33d4-b6cd-367904943a44",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is It Too Late to Buy Bloom Energy? My Honest Take.",
-      "summary": "Bloom Energy's stock price was cut in half. Now it might soar again.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/is-it-too-late-to-buy-bloom-energy-my-honest-take/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7cdtt7uaNa5erIGkPGr4kA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2bf3cd93619e410e0e707443d9753eee",
-      "published_at": "2026-08-02T15:20:00Z"
     },
     {
       "id": "fc86311d-42b0-3563-ab3f-7030cdc4eb36",
@@ -213,17 +257,6 @@
       "published_at": "2026-08-02T13:33:00Z"
     },
     {
-      "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "summary": "President Trump said he's holding off on massive new Iran attacks. SpaceX, AMD, Sandisk, Lilly earnings loom as market rally attempt begins.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6ifxKu5X_HVZQnwV0R9yGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/82b3f81c27f1c7a4099199dae86f4c38",
-      "published_at": "2026-08-02T13:32:52Z"
-    },
-    {
       "id": "9e362499-2c59-31b3-be72-eb9e593c6b1d",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -277,39 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/02/is-the-quantum-threat-to-bitcoin-real-or-not-galax/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BrrNbd_9fEC1GiLw2n3A8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3290a40a8e0670c086142e76e7ab6334",
       "published_at": "2026-08-02T12:52:00Z"
-    },
-    {
-      "id": "b7bd4d5f-aeae-3f11-a672-2af340bfd8cf",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
-      "summary": "One builds the chips; the other licenses the blueprint. Their vastly different business models and risk profiles demand different investor strategies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/better-buy/2026/08/02/advanced-micro-devices-vs-arm-which-tech-stock-is-a-better-buy-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ctHbEUJkXEBXAPHzAOBJnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0f2b1eedaa6cb7b7366b7b69c8c5bb24",
-      "published_at": "2026-08-02T12:50:01Z"
-    },
-    {
-      "id": "ad94b9cc-cfbd-37d9-a5bd-964199272277",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Top Financial Institutions and Crypto Companies Just Formed a New Bitcoin Security Consortium. What Does That Mean for Bitcoin?",
-      "summary": "For Bitcoin investors, there's now much less reason to worry about the \"quantum threat.\"",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/what-new-bitcoin-security-consortium-means/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BaG9EhUTJ_vrHqzbPp53JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b64342e15ab6f446d1d6353fde6f8f2b",
-      "published_at": "2026-08-02T12:41:00Z"
-    },
-    {
-      "id": "5bf711ca-881e-3efd-9c95-4e1783354b92",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Iran Denies Trump’s Hormuz Deal, Oil Jumps but Bitcoin Watches",
-      "summary": "Iran denied Trump's Strait of Hormuz deal claim. Oil rose 2.4%. Bitcoin held near $63,101 and barely moved.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/iran-denies-trump-hormuz-deal-claim/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n.mT_BuEo_.lvim6xdCquw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/ce24892b563a3c5497dda2c0bc14f393",
-      "published_at": "2026-08-02T12:39:21Z"
     }
   ]
 }
