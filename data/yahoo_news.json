@@ -1,18 +1,29 @@
 {
-  "last_updated": "2026-08-03 01:08 UTC",
+  "last_updated": "2026-08-03 05:01 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "c262b5c7-6c2e-32ad-aed8-d621ab0cecae",
+      "id": "32729ddc-4a17-3855-aa54-62612d14d253",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Weak June Jobs Data Lifted Bitcoin to $62,000. Will Friday Send BTC Tumbling?",
+      "summary": "June's weak jobs data lifted Bitcoin to $62,000. Here's why Friday's report could cut the other way this time.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/jobs-report-bitcoin-tumble-risk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0uC0t7STZpgdTohQMbu6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a",
+      "published_at": "2026-08-03T04:39:26Z"
+    },
+    {
+      "id": "196c3641-9e26-3340-be3b-4aa6d29c0839",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention",
-      "summary": "By Ankur Banerjee SINGAPORE, Aug 3 (Reuters) - Oil prices skidded and stocks wobbled on Monday as hopes of peace in the Middle East grew, while the yen jumped suddenly after the U.S. and Japan",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FdrUWux2plfho1udHeQQUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e6e48f84cbbe78a2be58bfc83e8cb378",
-      "published_at": "2026-08-03T01:05:51Z"
+      "title": "Asian stocks are mixed as yen jumps against the dollar, while oil prices slip",
+      "summary": "Asian shares were mixed Monday after the U.S. and Japan confirmed they had acted to prop up the value of the Japanese yen against the U.S. dollar, causing the yen to rise to its highest level since late last year.  Oil prices fell sharply after U.S. President Donald Trump said he would order U.S. forces to refrain from attacks against Iran, claiming a deal to end the fighting in the Middle East was close.  The dollar fell as low as 155.20 against the yen after Trump and Japanese officials confirmed they had intervened last week to curb the U.S. currency’s rise to 40-year highs against the yen.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-yen-jumps-042218113.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uKxZYWIQRe_4eBhxnyfdQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/60cf31749c5228bc20392ddb04dd1d75",
+      "published_at": "2026-08-03T04:22:18Z"
     },
     {
       "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
@@ -23,7 +34,216 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6ifxKu5X_HVZQnwV0R9yGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/82b3f81c27f1c7a4099199dae86f4c38",
-      "published_at": "2026-08-03T00:55:11Z"
+      "published_at": "2026-08-03T04:21:41Z"
+    },
+    {
+      "id": "0bf88a4a-f2c9-334c-b3cc-dd4691700173",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Down 48%, Is Oracle Stock a Buy Right Now?",
+      "summary": "AI spending is ramping up, but this tech stock looks like a good deal.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/03/down-48-is-oracle-stock-a-buy-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t6ZPj1eozqBXgwiSgjh34Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ced07567971a958c593534a01e6e6a40",
+      "published_at": "2026-08-03T04:20:00Z"
+    },
+    {
+      "id": "c75bfe75-a3b4-3857-b151-4f45ab076915",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Where Does Oil Go Next After the Hormuz Crisis?",
+      "summary": "Samantha Dart, Co-Head of Global Commodities Research at Goldman Sachs, discusses how oil prices may develop if the conflict in the Strait of Hormuz continues to escalate, and warns that a supply glut may pose a challenge even if the supply interruptions are resolved.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/where-does-oil-next-hormuz-040727237.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l0Gn.e43Je2jRJhBH0iiOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/3e7ebfe1b96e0c5ae418fcc4af66cd44",
+      "published_at": "2026-08-03T04:07:27Z"
+    },
+    {
+      "id": "c262b5c7-6c2e-32ad-aed8-d621ab0cecae",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil slumps on hopes of Iran deal, yen firms up after intervention",
+      "summary": "By Ankur Banerjee SINGAPORE, Aug 3 (Reuters) - Oil prices skidded and stocks wobbled on Monday as hopes of a peace deal in the Middle East grew, while the yen jumped suddenly again after the U.S. and",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V7FSdvqpjyYwqZ8TITPm2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f35d40900a5e28080bf6198d284a75e7",
+      "published_at": "2026-08-03T03:54:07Z"
+    },
+    {
+      "id": "638d141e-8166-35c9-8548-a03afc7782c6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Bond Market Is Doing Something for the First Time in Nearly 20 Years. Here's What It Means for Investors.",
+      "summary": "The Fed and inflation conditions are pushing long-term Treasury yields to multidecade highs.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/bond-market-doing-something-first-time-20-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jrc8un8LP_JUmy4J91H.IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f90b81ebe5f2e73bb4feafd75e058d48",
+      "published_at": "2026-08-03T03:50:00Z"
+    },
+    {
+      "id": "f2af95db-a8b3-3abf-8e68-47aabe5c5ca9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If Artificial Intelligence Is in a Bubble, These Are the Stocks That Could Benefit Most",
+      "summary": "Investors are already starting to show concerns about AI spending, and these stocks are seeing the benefit.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/if-artificial-intelligence-is-in-a-bubble-these-ar/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_Tr.SDxgsbbollWkj3T4JQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8128b7eb2f8dc3c281bd39f17ab33426",
+      "published_at": "2026-08-03T03:20:00Z"
+    },
+    {
+      "id": "2a000f66-2bbf-39f7-b430-4b3eeda9691e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Morgan Stanley sends cautious Apple stock message after earnings",
+      "summary": "Apple's earnings reminded investors that the company is not immune to the challenges of the AI race. Shares of Apple (AAPL) tumbled 7.35% on July 31, even after the company beat Wall Street's expectations for both earnings and revenue for the fiscal third quarter. Apple reported adjusted earnings ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-cautious-message-on-apple-stock-after-earnings-aapl",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dKWZ2UpDLNznM_PA5gaBFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7ef4c3d957ce27e8f32e6818d46167ed",
+      "published_at": "2026-08-03T03:06:00Z"
+    },
+    {
+      "id": "d153ef9d-2d9d-362b-b88b-40ca154395e8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
+      "summary": "Oil prices fell sharply after President Trump paused planned military action against Iran, boosting hopes for diplomacy and a reopening of the Strait of Hormuz while OPEC+ approved another production increase.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-plunge-5-trump-030500840.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bo0HsES9KA5FBDGKY_ISzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/b37b4c0416846e1f6660c0713a011c0a",
+      "published_at": "2026-08-03T03:05:00Z"
+    },
+    {
+      "id": "dd46c313-5b37-3d6e-b7cc-b11c26e40731",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Microsoft Stock Is Surging",
+      "summary": "The AI leader's sales and profits are expanding at a rapid pace.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/why-microsoft-stock-is-surging/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G2_9MNKibTmkPV7XJNFylg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/24668a83fd776c610b73658bfceaef58",
+      "published_at": "2026-08-03T02:35:19Z"
+    },
+    {
+      "id": "f1d42c3c-b857-38c4-86bf-6f53206a610e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "As Earnings Season Peaks, Jim Cramer Highlights These 10 Rules for Investing",
+      "summary": "Jim Cramer outlines his 10 rules for investing, from watching bonds to avoiding hope, as Q2 earnings season hits its peak.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/jim-cramer-10-rules-investing/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/chabEZgYwnPROjE_P30ewA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c66a0f9a62c09a310adfcd0e6d653d59",
+      "published_at": "2026-08-03T02:25:42Z"
+    },
+    {
+      "id": "5d9d61eb-07d8-3e06-86e5-393b64c0dd56",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+      "summary": "Stock futures today, stock market today, Nasdaq futures today, S&P 500 futures, Dow futures, S&P 500, Nasdaq, USO stock, PLTR stock, CRML stock, IONQ stock, stock, earnings week, oil prices, US-Iran war",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-markets-gear-up-for-another-key-earnings-week-uso-pltr-crml-ionq-stocks-in-focus/cZoRDH0RJ5Z",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jxR8265bMmXHW6zN6K0rrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1eb2865d09cfad4c33b2d14347851c75",
+      "published_at": "2026-08-03T02:17:28Z"
+    },
+    {
+      "id": "d1f39d0d-d699-32f7-8168-dff66be795d6",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "99% gold recovery strengthens Carnavale Resources' Kookynie development",
+      "summary": "Carnavale Resources Ltd managing director Humphrey Hale talked with Proactive about detailed metallurgical testwork from the Kookynie Gold Project in Western Australia, where gold recoveries reached as high as 99%. The Definitive Feasibility Study-level program returned gold recoveries of 98% from oxide and transitional material and 99% from fresh rock at a 106-micron grind size. Gravity gold recovery was also strong, ranging from 71% in oxide material to more than 81% in fresh rock. Hale said the results confirmed earlier metallurgical work while providing substantially more detail across the deposit’s main mineralogical domains. Carnavale intends to pursue a low-capital development model involving mining at Kookynie and processing the ore through a nearby third-party facility. Hale said the metallurgical data would support discussions around toll-treatment or ore-purchase arrangements. He added that the project’s technical work was complete, with reports being finalised ahead of the financial modelling and completion of the feasibility study. The company would then move towards permitting, project financing and development planning. Visit Proactive’s YouTube channel for more company interviews and market updates. Please like the video, subscribe to the channel and enable notifications for future content.",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/video/99-gold-recovery-strengthens-carnavale-021511574.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xsjd16b6Gm3lIA.sualq.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_video_751/ce10fa024ce983c31597e72437c77d37",
+      "published_at": "2026-08-03T02:15:11Z"
+    },
+    {
+      "id": "87a981c2-9a92-327b-9c7d-35f998344d3e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+      "summary": "Big Tech earnings showed AI spending faces a new test as investors weigh returns, cloud growth, and chip costs.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hsY5ObHVtaQvHW0hlU3L7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4bdc76b2413aceabe9678c2cf6bc1751",
+      "published_at": "2026-08-03T02:00:38Z"
+    },
+    {
+      "id": "94df5750-b049-3018-b6fc-0b3523811329",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Riversgold advances Northern Zone toward mining during June quarter",
+      "summary": "Riversgold Ltd (ASX:RGL, FRA:RGV, OTC:RVSGF) advanced its Northern Zone Gold Project near Kalgoorlie toward development during the June 2026 quarter, securing key tenure, progressing mine permitting studies and continuing to expand the shallow gold footprint through drilling. The company’s...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096403/riversgold-advances-northern-zone-toward-mining-during-june-quarter-1096403.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d19BKJiZVtAj5rNqCFCEHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/14123694a52cccd1fef80af75c7c7562",
+      "published_at": "2026-08-03T01:51:00Z"
+    },
+    {
+      "id": "a34f5a0c-0a4c-3762-8dd8-42162e41906d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next.",
+      "summary": "Signs point to a potential change that may need to be made in September.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/the-fed-held-interest-rates-steady-for-a-2nd-strai/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lkUMsxij48lOExy1vm.ZiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/504b428fbf20be8287bca6a4d4748d4a",
+      "published_at": "2026-08-03T01:50:00Z"
+    },
+    {
+      "id": "3a6f7341-7646-394b-b038-a2f004c29e39",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Greg Abel's Berkshire Hathaway: What the Next Decade Could Look Like",
+      "summary": "Berkshire Hathaway's new CEO tipped his hand, showing investors the kinds of changes he has in store for the giant conglomerate.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/greg-abels-berkshire-hathaway-what-the-next-decade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sHn5_ddBh9INTyXsSddipQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bd67129929a3fe30ebb68859de90fed2",
+      "published_at": "2026-08-03T01:35:00Z"
+    },
+    {
+      "id": "e051ec9e-3c7b-3f60-993c-64a5ab4a373d",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Dismisses Report Tesla Could Sell Chinese Business for SpaceX Merger: 'Absurdly Fake News'",
+      "summary": "Tesla Inc. CEO Elon Musk has dismissed reports of the EV giant mulling the sale of its Chinese arm that could have reportedly paved the way for a potential merger with Space Exploration Technologies Corp.. Elon Musk Says Sale Has...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-dismisses-report-tesla-013035405.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1ZpVFbfuT9J9uv61Z8A84g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/559ceb450b3fc118ee030f86e6649f2e",
+      "published_at": "2026-08-03T01:30:35Z"
+    },
+    {
+      "id": "5076e91d-b155-3a9b-81e7-f09be38b90d2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "IonQ Is Worth $13 Billion and Sits 58% Below Its High. Here's What Has to Go Right.",
+      "summary": "The stock's triple-digit growth is impressive -- but the valuation asks for years more of it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/ionq-is-worth-13-billion-and-sits-58-below-its-hig/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j60HSkigDlxgACr7eUWRwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4fcf4cbe595ba5f15aa95672b8d81a9e",
+      "published_at": "2026-08-03T01:13:00Z"
+    },
+    {
+      "id": "9377961c-384d-319d-afa7-8f2abb0c1e39",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
+      "summary": "Reports from tech giants drove big gains and losses, while the Fed-fueled bond selloff adds to market pressures.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SA6vLT9uP9F4j0JZUORG6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/580ae0e182079b2cabe37a4e277380b1",
+      "published_at": "2026-08-03T01:00:00Z"
+    },
+    {
+      "id": "6fed73db-0dd0-3a40-8a18-8016c1b64ef7",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Rises on Technical Rebound",
+      "summary": "Gold rose. The direction of the U.S. dollar, U.S. Treasury yields and incoming U.S. labor market data will affect gold’s trends over the next few sessions more than the traditional safe-haven narrative, said XS.com.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-technical-rebound-e221dd67?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-08-03T01:00:00Z"
     },
     {
       "id": "d2791b39-bc6a-3c87-a9c2-fcc6d28406c7",
@@ -35,6 +255,17 @@
       "url": "https://sg.finance.yahoo.com/news/gold-gains-oil-slumps-trump-004057719.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3MTUNojEbCB.1evpGFES4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4c9beab9f0629ce575827cb7ab556038",
       "published_at": "2026-08-03T00:40:57Z"
+    },
+    {
+      "id": "8a919e7a-8431-3380-a7d2-73741323adae",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Horizon Gold hits broad high-grade gold at Gum Creek prospects",
+      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF) has returned broad, high-grade gold intersections from drilling at the Kingfisher, Hawk and Swan prospects, highlighting potential resource growth near the proposed processing plant at its Gum Creek Gold Project in Western Australia. The strongest result...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096400/horizon-gold-hits-broad-high-grade-gold-at-gum-creek-prospects-1096400.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E8q3LzfOtyby6remzJZ5xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/dfc3a2d11975138c71d113e349111ae7",
+      "published_at": "2026-08-03T00:39:00Z"
     },
     {
       "id": "3a6764dc-36be-3e84-9415-5dfbe43dc199",
@@ -70,28 +301,6 @@
       "published_at": "2026-08-02T23:40:00Z"
     },
     {
-      "id": "215671c8-2520-3cf4-851e-5779b0368030",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Huntington Ingalls Industries Stock Is Heading Higher",
-      "summary": "Sea power is becoming even more vital.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/why-huntington-ingalls-industries-stock-is-up/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qRIl5kqhU6lcPSai3ROpOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d23c019df59749c84544d92c36567b05",
-      "published_at": "2026-08-02T23:34:05Z"
-    },
-    {
-      "id": "cd2c5c5f-f869-3fb6-9e2e-82669fbde60c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
-      "summary": "As the AI industry continues to grow, seemingly minor things are becoming serious stumbling blocks. CuspAI is addressing at least one of these industrywide impediments.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/jeff-bezos-backed-a-26-billion-ai-startup-thats-pa/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xw4XRrYjFUovzECafSlLkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6c1042106283a23769a15e516a84b03c",
-      "published_at": "2026-08-02T23:33:00Z"
-    },
-    {
       "id": "af6171d3-b1e6-3d59-8436-931ca3dc6ac9",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -101,215 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-prices-memory-chip-costs-233015289.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.QYjr4wwbO_9rnxMD6ND1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/fc13e5f89dbb7ad578dd3030df382c88",
       "published_at": "2026-08-02T23:30:15Z"
-    },
-    {
-      "id": "7fa3af56-c624-3e1b-95e7-d0de14ed1384",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Micron Stock Falls. Here’s What’s Overshadowing Big Tech Spending.",
-      "summary": "Micron stock was giving up some of its huge gains from the previous day even as Apple and Amazon confirmed there’s no end in sight to the memory-chip shortage.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/micron-stock-price-apple-cook-8ea028d6?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SnaWwef9qIYa3ieAZdqCYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c19226d27c3b00d7ab3eccba1ab136af",
-      "published_at": "2026-08-02T23:12:00Z"
-    },
-    {
-      "id": "34a21d5f-3dfb-33cc-b1cd-c96910b36d02",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "FireFly Metals delivers more high-grade Green Bay assays ahead of resource update and PEA",
-      "summary": "FireFly Metals Ltd (ASX:FFM, TSX:FFM, OTC:FFMFF) has reported another series of high-grade copper-gold drilling results from the Green Bay Project in Newfoundland, strengthening the planned early production profile for a potential restart of the Ming Mine. The latest intersections include...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096394/firefly-metals-delivers-more-high-grade-green-bay-assays-ahead-of-resource-update-and-pea-1096394.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/myIQtY3HJR82s6G4Ujr_Qg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/4a9f4f9109b835c887dbfc98edac21a8",
-      "published_at": "2026-08-02T23:10:00Z"
-    },
-    {
-      "id": "c4346d10-1244-34e0-a921-f201885bc80b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What a $10,000 Investment in Lam Research 10 Years Ago Would Be Worth Today",
-      "summary": "The chip-equipment maker just capped a record fiscal year with an 18% one-day jump in its stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/what-a-10000-investment-in-lam-research-10-years-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aEQERc4hNYNX2Iy8.onJPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d70fe04e1467b859d9306d1f593a2aea",
-      "published_at": "2026-08-02T23:01:00Z"
-    },
-    {
-      "id": "301fe505-c5b7-309b-ab12-037f5f43c01a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
-      "summary": "Saudi Arabia is increasingly running out of alternative export routes as Houthi attacks threaten the Red Sea and drone strikes near Egypt raise risks along its remaining corridor via the Suez Canal and SUMED pipeline.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/saudi-oil-reroutes-hit-capacity-230000490.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TDpf9PCW0XOs0sqaHBKBiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/60ed2fcb087396d13e5540a238bacdbc",
-      "published_at": "2026-08-02T23:00:00Z"
-    },
-    {
-      "id": "fa5ccea7-e0f9-3d88-a35a-16dc36cda630",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 AI Stocks to Buy as the Margin Unwind Calms Down",
-      "summary": "Margin unwind from South Korean investors and the massive Situational Awareness blowup do not affect the fundamentals of AI stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/3-ai-stocks-to-buy-as-the-margin-unwind-calms-down/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UEVZG.PE_ES68X6BO.IxcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/29169d5097990d2cb26daf0bda65e890",
-      "published_at": "2026-08-02T22:50:00Z"
-    },
-    {
-      "id": "7353c521-1fec-328d-adab-6f24d02b67b7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Futures Rise, Oil Drops to Begin a New Month",
-      "summary": "U.S. stock futures were rising on Sunday and oil prices were sinking as Wall Street kicks off a new month, with uncertainty around the Iran war clouding the horizon.  Shortly after 6 p.m. Eastern time on Sunday, S&P 500 futures were up 0.4%, while the Nasdaq 100 futures were up 0.7%, and Dow futures were up 0.4%.  Oil contracts were sinking more than 6%, with  WTI continuous contract  falling to around $79.29 a barrel, while  Brent crude continuous contract  was down to around $82.40 a barrel.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-oil-futures-trade-sunday-6acda480?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bvIYtEDM6Wsr8fhxf_mrbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3ddd37f87e9b7553c0e0bf25bff95022",
-      "published_at": "2026-08-02T22:13:00Z"
-    },
-    {
-      "id": "90b9cfe8-32ce-3912-861d-7fce338b8628",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
-      "summary": "RMDs can be a hassle. Having a strategy helps.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/retirement/2026/08/02/i-wont-let-rmds-ruin-my-retirement-heres-my-plan-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kWSBflhzLIfKKBXGfeLnBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/96ab1c8048b9cf4afac6f41c09625eff",
-      "published_at": "2026-08-02T21:47:00Z"
-    },
-    {
-      "id": "17d24a77-d943-3d03-a694-c15ff08259f3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-      "summary": "SoundHound AI stock has lost roughly 40% of its value so far this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on-aug-5-could-send-the-stock-soaring-heres-why/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bIuH1TUCGht_kjTn7xKuLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d92f6c41b4400755a7934bec4de6828",
-      "published_at": "2026-08-02T21:45:01Z"
-    },
-    {
-      "id": "22f9788d-ff7d-3c46-9bb0-b5731b15f076",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
-      "summary": "Apple just posted its strongest June quarter ever and surged double digits, yet one popular income ETF built around Nasdaq-100 giants moved in the opposite direction. Understanding why reveals a hidden cost that never appears on the fund's expense-ratio line.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2zUNTxdg3WkfU8JlZoOLLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d3c769f87a0d89177789f0f03bdf86a8",
-      "published_at": "2026-08-02T21:40:55Z"
-    },
-    {
-      "id": "8bc4a9fc-8497-36cd-9ff2-1dc399cb6e2f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
-      "summary": "The IPO stock was fast-tracked into the tech index on July 7.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tnalkrr69jPKxhRAi5DPaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7b4e1cd423cc6162292edb23490b24d9",
-      "published_at": "2026-08-02T21:39:00Z"
-    },
-    {
-      "id": "7a77acde-637b-3cac-8f02-a11800236e53",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "The global memory shortage hits the MacBook Air",
-      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/global-memory-shortage-hits-macbook-213359147.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e_W2xIVT0xQUcHsfEXU0pQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/83010048400aeb5cb3f54723f38a7135",
-      "published_at": "2026-08-02T21:33:59Z"
-    },
-    {
-      "id": "f7c2e09b-4089-3ebb-af6f-bf19430bebd6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges?",
-      "summary": "Meta's quarterly results were much better than some reports would have you believe.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/is-meta-platforms-stock-a-buy-on-dip-as-revenue/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n8syhaBouO3t1GFbw6SVVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bab0c0a64f05cd8cf75f49d9b2337e43",
-      "published_at": "2026-08-02T21:20:00Z"
-    },
-    {
-      "id": "24b2302f-4b94-3a2e-b7b6-8027c8f08016",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Why Morgan Stanley won’t call Rivian a buy despite upgrade",
-      "summary": "Nine years ago, Tesla nearly drained its cash reserves trying to scale a new vehicle line, a stretch of chaos Elon Musk later called production hell. Rivian (RIVN) is now running its own version of that gauntlet with the R2, the affordable SUV meant to turn a niche automaker into a mass-market one. ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/rivian-stock-morgan-stanley-rating",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t7hYu_n7Qy1FfGRUSWXJvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c07203df345ff6cf3cb6f6557f587da8",
-      "published_at": "2026-08-02T19:13:00Z"
-    },
-    {
-      "id": "bc0d1549-8f1a-3cb3-97bc-50b0049dd815",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "LinkedIn reports solid Q2 revenue growth",
-      "summary": "Owner Microsoft doesn’t release many performance details, but LinkedIn CEO Daniel Shapero said there was also double-digit member growth.",
-      "source": "Social Media Today",
-      "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aKE.xsZHB88SFJ4VJesplA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18",
-      "published_at": "2026-08-02T19:06:04Z"
-    },
-    {
-      "id": "9bb71c31-90c0-3be1-899d-aa72648b201d",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Big Tech’s $2 trillion AI shakeout just changed everything",
-      "summary": "Wall Street just drove a harsh line through the artificial intelligence trade. Amazon (AMZN), Microsoft (MSFT) and Alphabet (GOOGL)added nearly $1.5 trillion in combined market value during earnings week, according to CNBC. Microsoft gained more than $600 billion, while Amazon and Alphabet each ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/big-techs-2-trillion-ai-shakeout-just-changed-everything",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8O5B2SqMj84Sbz..pp0B_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8a41ec0d674670f228af738e897836b3",
-      "published_at": "2026-08-02T18:33:00Z"
-    },
-    {
-      "id": "930ee4a3-86d6-3f0c-be7c-8c97c8460934",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?",
-      "summary": "In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WSEIooIySC0v8cwU.bfMaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750",
-      "published_at": "2026-08-02T18:08:40Z"
-    },
-    {
-      "id": "4e963bdc-41bc-437a-a262-7ebd310a87e0",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
-      "summary": "Yahoo Finance's Josh Lipton takes a closer look at the biggest quarterly earnings reports for investors to keep an eye on this week, including McDonald's (MCD), SpaceX (SPCX), Disney (DIS), and AMD (AMD).",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8cOor1jDe_Ory9ToQMe0Mw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/spcx_3440.png",
-      "published_at": "2026-08-02T18:00:00Z"
-    },
-    {
-      "id": "d0c8ee40-4ebe-34bf-b706-b45579060e62",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
-      "summary": "Microsoft Q4 showed that its multibillion-dollar AI strategy is already paying off, and the best days may still be ahead.",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/3602955/3-reasons-microsoft-stock-soared-after-q4-earnings",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j88nvPaLdbhkqhuDccFekA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/91294aaacdd7339f5d87cfb430fbeba2",
-      "published_at": "2026-08-02T17:30:02Z"
-    },
-    {
-      "id": "7d78edfb-96a5-3964-ba65-6e7649322a48",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.",
-      "summary": "The investment bank has quickly ramped up its crypto ETF offerings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RynW7EMN8uSfGc6FoQ2T9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f77d53ba2ff01be04197e76b8ed99643",
-      "published_at": "2026-08-02T17:24:00Z"
     }
   ]
 }
