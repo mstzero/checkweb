@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-02 23:29 UTC",
+  "last_updated": "2026-08-03 01:08 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c262b5c7-6c2e-32ad-aed8-d621ab0cecae",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention",
+      "summary": "By Ankur Banerjee SINGAPORE, Aug 3 (Reuters) - Oil prices skidded and stocks wobbled on Monday as hopes of peace in the Middle East grew, while the yen jumped suddenly after the U.S. and Japan",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FdrUWux2plfho1udHeQQUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e6e48f84cbbe78a2be58bfc83e8cb378",
+      "published_at": "2026-08-03T01:05:51Z"
+    },
     {
       "id": "a6fd7cc1-160f-33be-9c9b-10601e0fcebe",
       "asset": "OIL",
@@ -12,7 +23,106 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6ifxKu5X_HVZQnwV0R9yGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/82b3f81c27f1c7a4099199dae86f4c38",
-      "published_at": "2026-08-02T23:11:31Z"
+      "published_at": "2026-08-03T00:55:11Z"
+    },
+    {
+      "id": "d2791b39-bc6a-3c87-a9c2-fcc6d28406c7",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold gains as oil slumps after Trump holds off on Iran attack",
+      "summary": "Aug 3 (Reuters) - Gold rose on Monday as oil prices tumbled after U.S.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-gains-oil-slumps-trump-004057719.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3MTUNojEbCB.1evpGFES4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4c9beab9f0629ce575827cb7ab556038",
+      "published_at": "2026-08-03T00:40:57Z"
+    },
+    {
+      "id": "3a6764dc-36be-3e84-9415-5dfbe43dc199",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
+      "summary": "Amazon's stock surged after a strong quarter and upbeat outlook from CEO Andy Jassy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/is-amazon-stock-a-buy-after-ceo-andy-jassys-1-tril/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8dYqwUoXVicxp6Ah.khp5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a78db4f4b39754c5c37153525033a959",
+      "published_at": "2026-08-03T00:20:00Z"
+    },
+    {
+      "id": "9cd3bd02-9c6a-3815-aca1-b07af0603c90",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Stocks Are Overvalued. Cryptocurrencies Are Cheap, and Are Stacking Revenue. Is Now a Good Time to Buy?",
+      "summary": "Buying crypto when everyone hates it has historically been a decent strategy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/stocks-are-overvalued-cryptocurrencies-are-cheap-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g6Acnh3ZrcWNJ3GaRXdwDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f26b5d58109b8e94ecada4d760032b15",
+      "published_at": "2026-08-02T23:50:00Z"
+    },
+    {
+      "id": "894f6658-b92e-3fc3-8abc-8f2ceb133b4a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Fall Amid Hopes of Possible U.S.-Iran Deal",
+      "summary": "Oil prices were lower in early Asian trade amid hopes of a possible U.S.-Iran deal that could ease supply disruptions.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-hopes-of-possible-u-s-iran-deal-9a3f0ff4?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "published_at": "2026-08-02T23:40:00Z"
+    },
+    {
+      "id": "215671c8-2520-3cf4-851e-5779b0368030",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Huntington Ingalls Industries Stock Is Heading Higher",
+      "summary": "Sea power is becoming even more vital.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/why-huntington-ingalls-industries-stock-is-up/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qRIl5kqhU6lcPSai3ROpOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d23c019df59749c84544d92c36567b05",
+      "published_at": "2026-08-02T23:34:05Z"
+    },
+    {
+      "id": "cd2c5c5f-f869-3fb6-9e2e-82669fbde60c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
+      "summary": "As the AI industry continues to grow, seemingly minor things are becoming serious stumbling blocks. CuspAI is addressing at least one of these industrywide impediments.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/02/jeff-bezos-backed-a-26-billion-ai-startup-thats-pa/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xw4XRrYjFUovzECafSlLkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6c1042106283a23769a15e516a84b03c",
+      "published_at": "2026-08-02T23:33:00Z"
+    },
+    {
+      "id": "af6171d3-b1e6-3d59-8436-931ca3dc6ac9",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
+      "summary": "Apple Inc. is facing rising memory chip costs that could pressure its business beyond the September quarter, with outgoing CEO Tim Cook saying the company is exploring ways to manage the impact without revealing whether higher costs could eventually affect...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-prices-memory-chip-costs-233015289.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.QYjr4wwbO_9rnxMD6ND1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/fc13e5f89dbb7ad578dd3030df382c88",
+      "published_at": "2026-08-02T23:30:15Z"
+    },
+    {
+      "id": "7fa3af56-c624-3e1b-95e7-d0de14ed1384",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Micron Stock Falls. Here’s What’s Overshadowing Big Tech Spending.",
+      "summary": "Micron stock was giving up some of its huge gains from the previous day even as Apple and Amazon confirmed there’s no end in sight to the memory-chip shortage.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/micron-stock-price-apple-cook-8ea028d6?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SnaWwef9qIYa3ieAZdqCYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c19226d27c3b00d7ab3eccba1ab136af",
+      "published_at": "2026-08-02T23:12:00Z"
+    },
+    {
+      "id": "34a21d5f-3dfb-33cc-b1cd-c96910b36d02",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "FireFly Metals delivers more high-grade Green Bay assays ahead of resource update and PEA",
+      "summary": "FireFly Metals Ltd (ASX:FFM, TSX:FFM, OTC:FFMFF) has reported another series of high-grade copper-gold drilling results from the Green Bay Project in Newfoundland, strengthening the planned early production profile for a potential restart of the Ming Mine. The latest intersections include...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096394/firefly-metals-delivers-more-high-grade-green-bay-assays-ahead-of-resource-update-and-pea-1096394.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/myIQtY3HJR82s6G4Ujr_Qg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/4a9f4f9109b835c887dbfc98edac21a8",
+      "published_at": "2026-08-02T23:10:00Z"
     },
     {
       "id": "c4346d10-1244-34e0-a921-f201885bc80b",
@@ -26,6 +136,17 @@
       "published_at": "2026-08-02T23:01:00Z"
     },
     {
+      "id": "301fe505-c5b7-309b-ab12-037f5f43c01a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+      "summary": "Saudi Arabia is increasingly running out of alternative export routes as Houthi attacks threaten the Red Sea and drone strikes near Egypt raise risks along its remaining corridor via the Suez Canal and SUMED pipeline.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/saudi-oil-reroutes-hit-capacity-230000490.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TDpf9PCW0XOs0sqaHBKBiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/60ed2fcb087396d13e5540a238bacdbc",
+      "published_at": "2026-08-02T23:00:00Z"
+    },
+    {
       "id": "fa5ccea7-e0f9-3d88-a35a-16dc36cda630",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -37,17 +158,6 @@
       "published_at": "2026-08-02T22:50:00Z"
     },
     {
-      "id": "7f5b3996-c615-34f4-b46e-2d9e977ed966",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Japan Could Trigger the Biggest Market Shock of 2026: How Might Bitcoin React?",
-      "summary": "Monday could mark a turning point for global markets from Japan. Here is how Bitcoin might react to the news.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/japan-market-shock-bitcoin-reaction/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P3dQuR9BGT0.vS7on8vpBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/9c107a361e9d3605aca66d3e653269e4",
-      "published_at": "2026-08-02T22:21:16Z"
-    },
-    {
       "id": "7353c521-1fec-328d-adab-6f24d02b67b7",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -57,17 +167,6 @@
       "url": "https://www.barrons.com/articles/stock-oil-futures-trade-sunday-6acda480?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bvIYtEDM6Wsr8fhxf_mrbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3ddd37f87e9b7553c0e0bf25bff95022",
       "published_at": "2026-08-02T22:13:00Z"
-    },
-    {
-      "id": "25c75fc1-10ec-35bb-bb08-42c5aa44505b",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy CEO Phong Le Reveals 'Biggest Lesson' the Bitcoin Treasury Company Learned in 2026: 'The Importance of Holding Liquid US Dollars'",
-      "summary": "Strategy Inc. CEO Phong Le said on Thursday that the firm realized in 2026 the importance of holding cash reserves over liquid Bitcoin for balance-sheet strength The Lessons from the 2026 Bear Market During the company’s second-quarter earnings call, Le...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-phong-le-reveals-220022843.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E9marFINc5lSswNUQNo8hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/0952e2c1c6bcc436e51c9790d11f61a0",
-      "published_at": "2026-08-02T22:00:22Z"
     },
     {
       "id": "90b9cfe8-32ce-3912-861d-7fce338b8628",
@@ -103,17 +202,6 @@
       "published_at": "2026-08-02T21:40:55Z"
     },
     {
-      "id": "4c4f0b45-c0cb-38a3-933e-387962feb4af",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price Prediction: What Price Will BTC Hit in August?",
-      "summary": "Bitcoin (CRYPTO:BTC) peaked at $126,000 in October 2025 and has lost half its value since then. It traded at $87,500 at the start of January and fell 34% in the first six months of the year, and bottomed at $58,000 on July 1, which is its lowest price in 21 months. Bitcoin then recovered 13% ... Bitcoin Price Prediction: What Price Will BTC Hit in August?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kv8agHAMrDzaJs6nMMoKhg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e08bc870efee64aee61bc0b68ce790d4",
-      "published_at": "2026-08-02T21:39:25Z"
-    },
-    {
       "id": "8bc4a9fc-8497-36cd-9ff2-1dc399cb6e2f",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -147,83 +235,6 @@
       "published_at": "2026-08-02T21:20:00Z"
     },
     {
-      "id": "35e91ae7-c08c-3cd0-a021-fcb44bfba5ec",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-      "summary": "NuScale Power could deliver a critical update during its next earnings call.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/nuscale-powers-next-earnings-report-on-aug-5-could-send-the-stock-soaring-heres-why/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dnT1iTXeTEJypiizb5s9dg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4a25bf4ff0ed45dfe872d436712546bb",
-      "published_at": "2026-08-02T21:09:01Z"
-    },
-    {
-      "id": "be643db7-7b43-3d70-adf4-48ca23a38b5b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could You Retire With Less Than $1 Million? Millions of People Do.",
-      "summary": "One study suggests that the typical retiree has only $126,000 in household savings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/retirement/2026/08/02/could-you-retire-with-less-than-1-million-millions/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mj0XC13YScUqZMvRgMAYEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/86bb7db9cf0a727bfe7828265eb409e6",
-      "published_at": "2026-08-02T21:05:00Z"
-    },
-    {
-      "id": "b08f9e6f-6af6-32b0-885a-5efd4086c98d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "This CEO Just Dared Anthropic to Hack His $6.3 Million Bitcoin Wallet",
-      "summary": "BitGo CEO Mike Belshe posted an Anthropic Bitcoin wallet challenge worth $6.3 million. The 100 BTC has not moved.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitgo-ceo-anthropic-bitcoin-wallet-challenge/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FEtS9i5NVrD9YTkhn_n3gg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/07984580890bc86638addaae8f20e1d3",
-      "published_at": "2026-08-02T20:52:26Z"
-    },
-    {
-      "id": "14b6d3f7-db54-301b-94df-5757066fe349",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "The Self-Proclaimed Satoshi Nakamoto Attacks Bitcoin Governance Model",
-      "summary": "The self-proclaimed Satoshi Nakamoto resurfaced to attack Bitcoin (BTC) governance. Here are his main arguments.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/craig-wright-satoshi-criticizes-bitcoin-governance-model/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ida28ZF4WYQ_UlpqKDTnRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/331b29b5c30d0090e79b68e58b0cad73",
-      "published_at": "2026-08-02T20:51:37Z"
-    },
-    {
-      "id": "a05d1a89-4d77-337f-be8e-e2b3c41e5a32",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stock Market, It's This",
-      "summary": "It's about time, not timing.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/if-i-could-tell-every-investor-1-thing-about-build/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8RTSdAnQu65uXaqEdTcO_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/504ad2d6b52473fe995e805913860a7b",
-      "published_at": "2026-08-02T20:50:00Z"
-    },
-    {
-      "id": "3e78563a-d029-345a-9a6b-f72adbe2830e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Where Will Mastercard Stock Be in 5 Years?",
-      "summary": "No hyperscaler-sized AI buildout, no capital-spending drama -- just a payments network compounding in the teens. What is that worth by 2031?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/02/where-will-mastercard-stock-be-in-5-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AvTfqsceOc_Knb.Ph3UMgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b9f801e11d93c07ef6959444a9eae882",
-      "published_at": "2026-08-02T20:42:00Z"
-    },
-    {
-      "id": "93e6e3b9-e405-395a-a4ba-b96256795edc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Michael Saylor Says Strategy's Next $1 Trillion Opportunity Isn't Bitcoin",
-      "summary": "Strategy Inc Executive Chairman Michael Saylor has spent years convincing investors that Bitcoin is the company’s biggest asset. Now, he says the next trillion-dollar opportunity isn’t owning more Bitcoin—it’s building a business on top of it. Speaking during Strategy’s second-quarter...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-strategys-next-193027108.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/58EZKFNb53LWS6bqkS19Cg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c7b1ee176852e5fc6358bd97e1b3a198",
-      "published_at": "2026-08-02T19:30:27Z"
-    },
-    {
       "id": "24b2302f-4b94-3a2e-b7b6-8027c8f08016",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -233,6 +244,17 @@
       "url": "https://www.thestreet.com/investing/stocks/rivian-stock-morgan-stanley-rating",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t7hYu_n7Qy1FfGRUSWXJvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c07203df345ff6cf3cb6f6557f587da8",
       "published_at": "2026-08-02T19:13:00Z"
+    },
+    {
+      "id": "bc0d1549-8f1a-3cb3-97bc-50b0049dd815",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "LinkedIn reports solid Q2 revenue growth",
+      "summary": "Owner Microsoft doesn’t release many performance details, but LinkedIn CEO Daniel Shapero said there was also double-digit member growth.",
+      "source": "Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aKE.xsZHB88SFJ4VJesplA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/social_media_today_432/79b4da66253bc868d3119407d79bec18",
+      "published_at": "2026-08-02T19:06:04Z"
     },
     {
       "id": "9bb71c31-90c0-3be1-899d-aa72648b201d",
@@ -246,37 +268,15 @@
       "published_at": "2026-08-02T18:33:00Z"
     },
     {
-      "id": "2b67a5e6-afaa-34df-89b6-6945dbb1dc02",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "BIP-110 Activation Frozen After Coldcard Exploit: Is the Soft Fork Dead?",
-      "summary": "BIP-110 activation is called off after the Coldcard wallet flaw, with miner support at just 2.53% against a 55% bar.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bip-110-activation-postponed-coldcard-exploit/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SYv2oMSLwuj9ZO6C8jFBCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1395177ca5aaa9c755362cbc5deeb89e",
-      "published_at": "2026-08-02T18:19:51Z"
-    },
-    {
       "id": "930ee4a3-86d6-3f0c-be7c-8c97c8460934",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?",
       "summary": "In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WSEIooIySC0v8cwU.bfMaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750",
       "published_at": "2026-08-02T18:08:40Z"
-    },
-    {
-      "id": "a6a68ea7-459f-4077-af8d-f686e44dfffe",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why the balance sheet can't be everything for bitcoin holders",
-      "summary": "Scott Melker dissects the balance sheets put out by crypto-holding companies and why investors should still value business fundamentals beyond digital assets. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/why-balance-sheet-cant-everything-180000542.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KSGlxnhkFYEiFsQCF8enjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0d03f770-c6fe-11ed-b5bc-47be0808dd65_b90cd025419295391a91273ed4021a833de9e27fb191065cffe825b57acf83d1.jpg",
-      "published_at": "2026-08-02T18:00:00Z"
     },
     {
       "id": "4e963bdc-41bc-437a-a262-7ebd310a87e0",
@@ -290,26 +290,26 @@
       "published_at": "2026-08-02T18:00:00Z"
     },
     {
+      "id": "d0c8ee40-4ebe-34bf-b706-b45579060e62",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
+      "summary": "Microsoft Q4 showed that its multibillion-dollar AI strategy is already paying off, and the best days may still be ahead.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3602955/3-reasons-microsoft-stock-soared-after-q4-earnings",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j88nvPaLdbhkqhuDccFekA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/91294aaacdd7339f5d87cfb430fbeba2",
+      "published_at": "2026-08-02T17:30:02Z"
+    },
+    {
       "id": "7d78edfb-96a5-3964-ba65-6e7649322a48",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.",
       "summary": "The investment bank has quickly ramped up its crypto ETF offerings.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RynW7EMN8uSfGc6FoQ2T9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f77d53ba2ff01be04197e76b8ed99643",
       "published_at": "2026-08-02T17:24:00Z"
-    },
-    {
-      "id": "c3fd7eaf-a54e-354e-aaae-ec7f3333a50d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Bank of America doubles down on Apple stock for rest of 2026",
-      "summary": "Apple's June quarter produced numbers that looked solid on the surface but left investors with a question: Was September quarter guidance conservative, or was the business actually slowing? Bank of America published its answer on July 30. The firm says investors are misreading the results and that ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-apple-stock-for-rest-of-2026",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xRbY.KoTbA_3iPP3s5VIYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d6fa91902340aa6749879e9d06e9f82d",
-      "published_at": "2026-08-02T17:07:00Z"
     }
   ]
 }
