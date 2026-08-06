@@ -1,18 +1,238 @@
 {
-  "last_updated": "2026-08-06 02:37 UTC",
+  "last_updated": "2026-08-06 05:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "23f39a0c-7e02-33c1-8c52-010f887f1807",
+      "id": "0a404a7e-a425-3505-a5d0-925ae8505f28",
       "asset": "NVDA",
       "asset_name": "Nvidia",
+      "title": "Billionaire Bill Ackman Built a $2.1 Billion Stake in Microsoft After the Stock Slid. Is It Still a Buy?",
+      "summary": "The investment is starting to pay off.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/06/billionaire-bill-ackman-built-a-21-billion-stake-i/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zhfVCTX_3evWBM3BX1MCWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6458c5c67fed8db2ee8799168e613126",
+      "published_at": "2026-08-06T05:20:00Z"
+    },
+    {
+      "id": "ae2d77db-a1b2-3490-8e75-b96616be6b13",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares are mostly lower as Kospi falls 4% and tech giants decline on Wall Street",
+      "summary": "Asian shares were mostly lower and South Korea’s Kospi dropped more than 4% on Thursday following declines for some Big Tech giants including memory chipmaker SK Hynix.  Oil prices held steady, with Brent crude trading near $79 a barrel.  Uncertainty about the direction of the U.S. war with Iran is still overhanging markets despite hopes for a reopening of the Strait of Hormuz.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-lower-kospi-050837691.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.DRNKYa.ZTW82xB_WEHhsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/c5aea55c98e88e4872f95ad8300f7735",
+      "published_at": "2026-08-06T05:08:37Z"
+    },
+    {
+      "id": "96c6fcd6-1325-331e-9e95-7b446dab8084",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Axon Just Delivered a Huge Beat-and-Raise. So Why Is the Stock Down?",
+      "summary": "Investors didn't seem to get a clear read on Axon's latest earnings report.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/06/axon-just-delivered-a-huge-beat-and-raise-so-why-i/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qlSJe7XaMXK.VAz7RwLTSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cad798936dfc7b7cd1ec469bdbb9e57b",
+      "published_at": "2026-08-06T04:44:41Z"
+    },
+    {
+      "id": "4cb12a5c-5a11-3405-95e7-5b6f30f54837",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
+      "summary": "Whether it's regulators or industry experts, the consensus about Lidar seems to be that Level 4 autonomous driving platforms are incomplete without it. Tesla is not part of that consensus, as CEO Elon Musk has called light detection and ranging driver-assistance an “expensive and unnecessary” ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/waymo-ceo-tesla-robotaxis-need-lidar-to-work",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xZPlFJyeZ3PyiGsi3VfB5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ac482a3ab30726c682ea9ed5e834b9b0",
+      "published_at": "2026-08-06T04:37:00Z"
+    },
+    {
+      "id": "1b29d28d-d57c-33b9-acae-ad424471d045",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
+      "summary": "Tesla (NasdaqGS: TSLA) CEO Elon Musk outlined a target of producing 1 million Optimus humanoid robots per year, tying the company's long term focus more tightly to robotics. Musk said Optimus could eventually account for about 80% of Tesla's value and suggested this shift could position Tesla as the world's most valuable company. He linked his own compensation to the successful large scale deployment of Optimus, signaling a focus on this project for Tesla's leadership. Tesla is not the only...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-targets-1-million-043212925.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+      "published_at": "2026-08-06T04:32:12Z"
+    },
+    {
+      "id": "198b4129-bcde-31dd-b283-6d84004176a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Analysis-Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
+      "summary": "Samsung Electronics and SK Hynix face growing calls from investors wanting a greater share of excess cash via dividends or buybacks, after the pair provided scant detail on capital returns when reporting AI-driven record profit.  The world's two largest memory chip makers are generating cash at an unprecedented pace due to robust demand ‌for chips used in AI applications, amassing reserves that exceed those of U.S. tech giants that are spending heavily on AI infrastructure.  Samsung and SK Hynix are set to hold a combined $263 billion ‌in net cash by year-end, more than double the estimated $102 billion of AI bellwether Nvidia and exceeding the combined cash of the other six \"Magnificent Seven\" U.S. technology companies, LSEG data and Reuters calculations showed.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-samsung-sk-hynix-shareholders-042824815.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KbCUCRx3ahQOI1bPOsuu4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/bd89576936e4f751d6d2fc6d2f680b5e",
+      "published_at": "2026-08-06T04:28:24Z"
+    },
+    {
+      "id": "74ec3180-ee8e-38a0-9384-18137d64deef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying",
+      "summary": "Hyperscalers are quietly ripping out the networking fabric of every major data center, and one overlooked chipmaker keeps landing the contracts that make that rebuild possible. Here is why every pullback in the stock has become another buying opportunity.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/06/marvell-is-positioned-to-absorb-a-disproportionate-amount-of-this-ai-capex-surge-so-i-keep-buying/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m2XuAOfuffYma9lhUv2zIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/58bdd82f9911013538b45a8044be319c",
+      "published_at": "2026-08-06T04:23:08Z"
+    },
+    {
+      "id": "c9b9fa62-6e67-3b94-983a-d15304f455c3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "One Massive AI Hardware Truth Keeps Me Loading Up On AMAT Ahead of Aug. 13 Earnings Print",
+      "summary": "Everyone racing to own AI chip stocks may be buying into the wrong part of the supply chain. The real toll booth sits one step behind the GPUs, and one company collects on every wafer that makes next-gen AI hardware possible.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/06/one-massive-ai-hardware-truth-keeps-me-loading-up-on-amat-ahead-of-aug-13-earnings-print/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7xl8hx6m0OkCsO6wk8m2bw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c0f23632539b5ea51d4e5104dc55f21b",
+      "published_at": "2026-08-06T04:19:50Z"
+    },
+    {
+      "id": "c9d73ab4-e572-396d-b0d3-499a93a6584b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI Electricity Demand: GE Vernova and Eaton Will Capture This Next Wave of Capex",
+      "summary": "GE Vernova and Eaton both reported blowout quarters fueled by AI power demand, but one company is collecting cash right now while the other is betting on a revenue wave that mostly arrives after 2028. Choosing between them means deciding how much patience you actually have.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/06/ai-electricity-demand-ge-vernova-and-eaton-will-capture-this-next-wave-of-capex/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m6iMOc.QqtzX79Db3Rn6_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/81e640587f70ba6b184851e229e0447b",
+      "published_at": "2026-08-06T04:16:41Z"
+    },
+    {
+      "id": "181cf655-c77c-3861-b980-446e3d35d91d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "How Vertiv is Becoming a Pure Play Digital Version of Schneider Electric for an AI-First World",
+      "summary": "Vertiv and Eaton both rode the AI infrastructure wave in Q2 2026, but one is sharpening itself into a pure-play weapon while the other is bulking up through billion-dollar bets. Which strategy wins when the capex cycle turns?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/06/how-vertiv-is-becoming-a-pure-play-digital-version-of-schneider-electric-for-an-ai-first-world/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h2N3IcpBXkIk1Bf0FineNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4674d73cefa467b4d874845447cd69a4",
+      "published_at": "2026-08-06T04:11:28Z"
+    },
+    {
+      "id": "f7b90282-6ad7-3903-9430-cec15060e0c0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Who Will Benefit Most From Amazon and Microsoft’s Hyperscaler Leading AI Capex This Quarter?",
+      "summary": "Amazon and Microsoft are burning through roughly $100 billion a quarter on AI infrastructure, and two companies sit directly in that cash flow's path. One just tripled its free cash flow and rallied hard. The other beat on every line and still dropped 12 percent.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/06/who-will-benefit-most-from-amazon-and-microsofts-hyperscaler-leading-ai-capex-this-quarter/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SPDzvRxOo3xkmZuE7B6EqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3762d40ae956cc767afbcb6aa7123d82",
+      "published_at": "2026-08-06T04:08:17Z"
+    },
+    {
+      "id": "16445c5d-df2e-3f7d-b2cb-2e13d044dbc6",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
+      "summary": "A grey divorce at 60 can cut your retirement savings in half and leave you with a compressed timeline that punishes the wrong investment choices. Here is how three ETFs can rebuild both the growth and the income you lost.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/06/divorced-at-60-with-half-the-savings-you-planned-on-these-3-etfs-help-rebuild-a-retirement/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RRGPBceR1_8TJUN57.3TUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/44ffb34ff30b107faf3a2d62ca22f40f",
+      "published_at": "2026-08-06T04:05:12Z"
+    },
+    {
+      "id": "b6a557cd-82d4-321b-bd9a-cd3fa1c7c469",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "APA Raises U.S. Oil Forecast as Second-Quarter Output Beats Guidance",
+      "summary": "APA Corporation raised its full-year U.S. oil production forecast after second-quarter output exceeded guidance and operating costs came in below expectations.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/apa-raises-u-oil-forecast-040126345.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hcHEBWxQB5iikj.UZBSuzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/dac8a47ba7701b9130954cbc6e67b9b4",
+      "published_at": "2026-08-06T04:01:26Z"
+    },
+    {
+      "id": "1c1d6bde-2f45-3bbb-a536-65e693c8a344",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "AI’s Volatile Power Demand Is Damaging Its Own Data Centers",
+      "summary": "(Bloomberg) -- Artificial intelligence’s tremendous hunger for electricity is already well known. What’s less familiar is how the rapid fluctuations in data centers’ appetites can break essential equipment at the facilities.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanGoogle AI Veterans Depart During Seismic Leadership ShiftSpaceX’s AI Splurge Puts a Damper on First Earnings After IPOMicrosoft’s AI Sales Mostly Come From OpenAI, Disclosures ShowSpaceX’s $101 Bi",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-volatile-power-demand-damaging-040019316.html",
+      "thumbnail": "",
+      "published_at": "2026-08-06T04:00:19Z"
+    },
+    {
+      "id": "2d411500-b088-3b72-aef1-42c85f76ee7b",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "What Determines Applied Materials’ Resilience on Aug 13 Earnings",
+      "summary": "Applied Materials has doubled in a year, analysts see another 18% upside, and the crowd gives a 92.5% chance of a beat. So why does history suggest the earnings day itself could turn into a trap?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/05/what-determines-applied-materials-resilience-on-aug-13-earnings/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mgJmfufmdlrNhRGO0MKxvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8cc6dbd4e0324e24d49235ce08a47c7d",
+      "published_at": "2026-08-06T03:58:32Z"
+    },
+    {
+      "id": "710d1eb5-7323-3f9f-8ee9-4b899c0679ea",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Alphabet Post-Earnings Rebound is On: Buy at $363?",
+      "summary": "Alphabet just delivered a 24% revenue surge and a 210% free cash flow collapse in the same quarter, and the stock is rallying anyway. The bull and bear cases have never been more directly at war with each other.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/05/alphabet-post-earnings-rebound-is-on-buy-at-363/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tqM9fqibvz2MKz.VmzSbgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9c8922133c8351a6c259997fb5eeb8b5",
+      "published_at": "2026-08-06T03:54:20Z"
+    },
+    {
+      "id": "1d0a9e91-f86f-3452-9b8a-c6e7e4dd11de",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here’s the Hidden Cost Nobody Talks About",
+      "summary": "VNQ's 0.13% expense ratio looks like a bargain until you see what the IRS quietly collects every quarter, and it has nothing to do with management fees.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/05/vnq-returned-62-61-in-10-years-spy-returned-253-49-heres-the-hidden-cost-nobody-talks-about/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SCIHVFSZrcQvYTQPvYXvHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a32270b7209b25bb3465ee2166736f87",
+      "published_at": "2026-08-06T03:45:46Z"
+    },
+    {
+      "id": "23f39a0c-7e02-33c1-8c52-010f887f1807",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
       "summary": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sMTDvQgTwTlSlStmfgwdXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c16522691213df77f7926cf2776f4017",
-      "published_at": "2026-08-06T02:19:13Z"
+      "published_at": "2026-08-06T03:09:13Z"
+    },
+    {
+      "id": "2124121b-3336-3308-afc2-aba52f2a0eac",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Occidental Profit Jumps on Higher Oil Prices and Midstream Gains",
+      "summary": "Occidental reported sharply higher second-quarter profit as realized crude prices rose and its midstream and marketing business returned to profitability.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/occidental-profit-jumps-higher-oil-030000628.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IaqQKhpstWyuCMkpWrxJmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/eae673f251fbd292ff346227ede22e0d",
+      "published_at": "2026-08-06T03:00:00Z"
+    },
+    {
+      "id": "b2d13170-8e53-3e4c-a12a-10026b609fc0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Michael Burry sends loud signal to stock market investors",
+      "summary": "Wall Street hit a milestone on Aug. 4 that would normally silence the skeptics. The S&P 500 closed at a record high for the first time since June, and the Nasdaq Composite followed. Both were powered by stronger-than-expected corporate earnings and falling oil prices tied to hopes the Strait of ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/michael-burry-loud-signal-to-stock-market-investors-sp500-semiconductors-nvidia-palantir",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7Qt1Yqf3PDraf8z8jtulmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e03bc1f97c3121e092b6e3106819d14e",
+      "published_at": "2026-08-06T02:33:00Z"
+    },
+    {
+      "id": "13a1d20a-a572-350a-8ba5-ab5389f95764",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'— Jim Cramer Says 'Gloves Off'",
+      "summary": "Apple Inc. has asked a U.S. judge to issue a preliminary injunction preventing two former employees and OpenAI from accessing, using, or disclosing alleged confidential information while its trade secrets lawsuit proceeds. Apple asked the court to require former employees...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-seeks-injunction-against-openai-023111508.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/90ZFdlOyYArQfGyo.MMvYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6fa5cecd7b2defa855cb325f8809885a",
+      "published_at": "2026-08-06T02:31:11Z"
     },
     {
       "id": "0e6e5746-7581-3969-847c-3512d2ea23f4",
@@ -24,17 +244,6 @@
       "url": "https://finance.yahoo.com/energy/articles/phillips-66-profit-jumps-refining-021800484.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o8vhH6Df9ge6tyvKUtu6eQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/107f8e4a99fa77e39595970dcf8ab32f",
       "published_at": "2026-08-06T02:18:00Z"
-    },
-    {
-      "id": "7c3af0b5-d5cd-3e6f-993f-3ca5b094ee32",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "From $100 to $2,021 in Five Years: How Daily-Reset Leverage Turns Trends Into Fortunes",
-      "summary": "A leveraged ETF promising twice NVIDIA's daily returns is somehow trailing the stock it tracks, yet a single $100 bet placed five years ago ballooned into something extraordinary. The math behind that contradiction will change how you think about leverage forever.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/05/from-100-to-2021-in-five-years-how-daily-reset-leverage-turns-trends-into-fortunes/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KPQ_pDyaV.LhessaxMm1CQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7317409b54b4e09ed1d3d866c2cdd588",
-      "published_at": "2026-08-06T02:17:31Z"
     },
     {
       "id": "86e3179c-3755-3d2c-8fff-a4d3e57fc3ed",
@@ -59,17 +268,6 @@
       "published_at": "2026-08-06T02:02:34Z"
     },
     {
-      "id": "0e33eed2-a7d3-3831-a63f-da15ef7e9a56",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Grew Revenue 71% and Still Costs 21 Times Forward Earnings. The Market Is Betting the Growth Stops.",
-      "summary": "That multiple only makes sense if the AI boom's best years are already behind it. Are they?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/05/nvidia-grew-revenue-71-and-still-costs-21-times-fo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/76iLpAIYEGjVhpiQMUXuCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5f16cdf62b9172ca00a1c69539f826e",
-      "published_at": "2026-08-06T01:54:00Z"
-    },
-    {
       "id": "009b1fb6-4bad-313f-9ba6-6e01004f3e6f",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -81,48 +279,15 @@
       "published_at": "2026-08-06T01:28:38Z"
     },
     {
-      "id": "d6e3afb1-d37f-3361-8592-c7608693ce2b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Stock Keeps Raising Its Dividend No Matter What the Market Does -- and Wall Street Thinks It's a Buy Right Now",
-      "summary": "There is no end in sight for the drugmaker's dividend growth streak.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/05/this-stock-keeps-raising-its-dividend-no-matter-wh/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ir0J7o1_vscux1xVyW0kVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9ff1cdd2dc0443eae1cf31f3d2251330",
-      "published_at": "2026-08-06T01:20:00Z"
-    },
-    {
       "id": "2da3fe52-2723-3a81-914f-ae334edc2750",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Should Henry Schein’s Raised 2026 Sales Growth Guidance Require Action From Henry Schein (HSIC) Investors?",
       "summary": "Henry Schein, Inc. reported past Q2 2026 results with sales rising to US$3,458 million and net income to US$94 million, alongside higher basic and diluted earnings per share from continuing operations versus a year earlier. Importantly for long-term watchers, management also raised its 2026 total sales growth guidance, signaling greater confidence in the company’s operating initiatives and demand trends. Now we’ll examine how Henry Schein’s raised 2026 sales outlook reshapes its existing...",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/henry-schein-raised-2026-sales-011252856.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oHEQBr1qYaMarFWFx7W51Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/abf9bc7490ca3451384b081e1af2015f",
       "published_at": "2026-08-06T01:12:52Z"
-    },
-    {
-      "id": "e96ed446-9bc3-384f-9e99-943d37a97f5c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "S-Oil Corp (XKRX:010950) (Q2 2026) Earnings Call Highlights: Record Lube Margins Offset by ...",
-      "summary": "Strong refining and lube performance driven by geopolitical supply disruptions, while petrochemical segment slips into the red amid inventory-related impacts.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/energy/articles/oil-corp-xkrx-010950-q2-010545548.html",
-      "thumbnail": "",
-      "published_at": "2026-08-06T01:05:45Z"
-    },
-    {
-      "id": "194fc565-1b23-3455-8210-6e3fe97d427c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Viper Energy Inc (VNOM) (Q2 2026) Earnings Call Highlights: Strategic Shift to High Base ...",
-      "summary": "Viper Energy Inc (VNOM) boosts base dividend by 32% and pivots to flexible capital allocation, targeting durable growth and market re-rating.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/energy/articles/viper-energy-inc-vnom-q2-010456828.html",
-      "thumbnail": "",
-      "published_at": "2026-08-06T01:04:56Z"
     },
     {
       "id": "98db0290-ed24-30b2-b7af-bb8b52320437",
@@ -145,171 +310,6 @@
       "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-markets-track-mideast-developments-rethink-rate-views-6c4f3d56?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
       "published_at": "2026-08-06T00:35:00Z"
-    },
-    {
-      "id": "91cd7650-e8af-3f51-a20f-67e720849fc2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Brilliant Growth Stocks That Just Hit All-Time Highs With Plenty of Room to Run",
-      "summary": "Amazon and Apple are two top stocks whose prices are on a tear.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/05/2-brilliant-growth-stocks-that-just-hit-all-time-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PfOjedqaFi7RNE0f0lr.rg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/538957c193a5cee17a88ade862ed1357",
-      "published_at": "2026-08-06T00:20:00Z"
-    },
-    {
-      "id": "6692e74d-e419-3336-b210-59e5211e5b0b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
-      "summary": "Extreme heat and drought are disrupting Europe's energy system, reducing refinery efficiency, forcing cuts to nuclear and hydropower generation, and driving diesel refining margins toward 20-year highs.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/europe-heatwave-hitting-refineries-power-000000731.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yEP8fNO4xuo2FQQ8iiv0iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/d2c6df3babc151c04141766897494664",
-      "published_at": "2026-08-06T00:00:00Z"
-    },
-    {
-      "id": "fbe192c8-7712-33ff-8c8f-1b3d03ab5884",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Review & Preview: The Dow’s Streak Survives",
-      "summary": "The Dow Jones Industrial Average weathered a slide in a handful of key stocks on Wednesday to notch its third closing high in a row.  The Nasdaq Composite dropped 0.8%.  While the S&P pulled back from its previous closing high, the Dow marked its 24th of the year and third in as many days.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-dow-continues-winning-streak-mag-7-falters-758afdaf?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Eugzn1_7mDocWpeqoc2fFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
-      "published_at": "2026-08-05T23:55:00Z"
-    },
-    {
-      "id": "65265246-9416-3528-a36f-3aecebb10cd5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here’s What Investors Need to Know.",
-      "summary": "The entertainment giant crushed analyst profitability estimates for its third quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/05/disney-reaffirms-double-digit-earnings-growth-targets-9-billion-in-buybacks-heres-what-investors-need-to-know/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Crle3.BJonoe3Ys9iWj1IQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a350ac8a0c5f980e6fbbc0fb605b8fa9",
-      "published_at": "2026-08-05T23:50:30Z"
-    },
-    {
-      "id": "6c4de1c3-c510-3145-87f7-bed9229cfa7f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus",
-      "summary": "911.5 million shares held by SpaceX employees and early investors become eligible for sale on Thursday.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-inch-higher-following-s-and-p-500-nasdaq-drop/cZoI4gdRJeV",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KeBoZ_Wg4EVeE_4kwWS4Mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c",
-      "published_at": "2026-08-05T23:40:54Z"
-    },
-    {
-      "id": "beac3ce6-ce83-3541-9380-00f84e0d5f7e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Miners are Leaving the Network. Will It Impact BTC Price?",
-      "summary": "Bitcoin's hash rate slump hits a record 9 months as miners pivot to AI. Difficulty goes negative for only the second time.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-miner-exit-hash-rate-slump/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0zWbPc8rAS4BLnq_ggZLLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/aa7cbf7752fafe5a1c87e6f0599c7eb6",
-      "published_at": "2026-08-05T23:20:19Z"
-    },
-    {
-      "id": "a189a316-ada9-3540-853b-133289f0ea17",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Devon Energy Corp (DVN) (Q2 2026) Earnings Call Highlights: Strong Results, Synergy Progress, ...",
-      "summary": "Devon Energy Corp (DVN) beats guidance on production and costs, advances Coterra integration, and outlines a disciplined approach to asset sales and capital allocation.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/energy/articles/devon-energy-corp-dvn-q2-230236527.html",
-      "thumbnail": "",
-      "published_at": "2026-08-05T23:02:36Z"
-    },
-    {
-      "id": "1532ced9-f30a-3c0f-a170-524a2e736d71",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Fortitude Gold Corp (FTCO) (Q2 2026) Earnings Call Highlights: Production Surges 210% as ...",
-      "summary": "Fortitude Gold Corp (FTCO) reports a 210% quarter-over-quarter production increase and completes $5.5 million private placement to fund growth initiatives.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/fortitude-gold-corp-ftco-q2-230030769.html",
-      "thumbnail": "",
-      "published_at": "2026-08-05T23:00:30Z"
-    },
-    {
-      "id": "70398de3-40dd-3d1e-ad68-572d593c6cf4",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Polymarket Gives 18% Odds to a Tesla-SpaceX Merger Announcement in 2026",
-      "summary": "Polymarket traders give just 18% odds to a Tesla-SpaceX merger in 2026. Here is why skepticism runs so deep.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/polymarket-odds-tesla-spacex-merger-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QgvfW5_NnHrsYM7G4kuuLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3349f95c1fe30e39199d9d62c1690819",
-      "published_at": "2026-08-05T22:50:26Z"
-    },
-    {
-      "id": "fbb7de39-8625-3051-a80b-3ff3ef1a1eab",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks",
-      "summary": "By Caroline Valetkevitch and Nell Mackenzie NEW YORK/LONDON, Aug 5 (Reuters) - Major stock indexes were mixed on Wednesday, with declines in shares of SpaceX and Advanced Micro Devices pushing down",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4ezPsxZUKBWVpjBcqdbHjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e4f988c42c7b08b4abb2dc78609d55d8",
-      "published_at": "2026-08-05T22:46:52Z"
-    },
-    {
-      "id": "a32d172e-a9dc-3d6d-a045-869dccc1e793",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Should You Forget Tesla Stock Near a 52-Week Low?",
-      "summary": "The EV maker's latest bounce-back could prove fleeting, but don't assume it shatters the long-term bull case.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/05/should-you-forget-tesla-stock-near-a-52-week-low/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zxond94IUNdstXrG1W8bTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d784ea7ff295fd4033f9c2e8421196d9",
-      "published_at": "2026-08-05T22:35:00Z"
-    },
-    {
-      "id": "e61b7e49-2e17-3699-8a95-2a4c1e3811d8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…",
-      "summary": "American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z8bhZrAmsWOWztUT_3ZUYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c7ccee82428d2596c1b2579eafd44edb",
-      "published_at": "2026-08-05T22:31:20Z"
-    },
-    {
-      "id": "114d7df5-ca32-354a-95c7-fe14bf525622",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Jim Cramer: SpaceX Could Reach $1 Trillion in Revenue by 2030, but “Short Term, Forget About It”",
-      "summary": "Jim Cramer just called SpaceX a trillion-dollar business while warning investors to brace for a brutal stretch ahead, and the reason behind that contradiction comes down to one date on the calendar.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/05/jim-cramer-spacex-could-reach-1-trillion-in-revenue-by-2030-but-short-term-forget-about-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xs68KVju2H3W5TGaCXKVXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b",
-      "published_at": "2026-08-05T22:09:58Z"
-    },
-    {
-      "id": "3ecfd8bb-199c-33ae-a1f3-6f9fd86e129d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Iren vs. AeroVironment: A Comparison of Recent Revenue Trajectories",
-      "summary": "Iren peaked in Q3 2025 before sliding back, while AeroVironment's revenue more than tripled over the same period.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/charts/2026/08/05/iren-vs-aerovironment-a-comparison-of-recent-revenue-trajectories/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rMJEww.94JhZ_m9DMRd53w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d9d202f5969e7aadadda5d61ac228585",
-      "published_at": "2026-08-05T22:09:01Z"
-    },
-    {
-      "id": "9c4aebde-3315-3fb7-925e-a0709dd455c4",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
-      "summary": "(Bloomberg) -- Stocks in Asia were poised to ease Thursday as investors digested gains in technology shares while watching for fresh signs of progress toward a deal to reopen the Strait of Hormuz.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanSpaceX’s AI Splurge Puts a Damper on First Earnings After IPOTrump Says Iran Talks Going Well as Hopes Rise for Hormuz DealChina’s AI Blitz Creates ‘Death Zone’ for Rival US Model MakersTaco Bell Met With Michigan on Parasit",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-set-declines-ai-220650572.html",
-      "thumbnail": "",
-      "published_at": "2026-08-05T22:06:50Z"
     }
   ]
 }
