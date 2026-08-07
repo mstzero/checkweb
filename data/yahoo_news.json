@@ -1,8 +1,129 @@
 {
-  "last_updated": "2026-08-07 19:27 UTC",
+  "last_updated": "2026-08-07 20:06 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "de8c697a-5c69-3c3d-8aeb-d7a42d27a9c2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Faces New Pressure From U.S. Government",
+      "summary": "A legal workaround could become the next regulatory target",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-pressure-u-government-194927746.html",
+      "thumbnail": "",
+      "published_at": "2026-08-07T19:49:27Z"
+    },
+    {
+      "id": "86693169-161a-3ce7-a427-981821402d3d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Pfizer's Next Weight-Loss Weapon: How Berobenatide Stacks Up Against Novo Nordisk's Wegovy and Eli Lilly's Zepbound",
+      "summary": "Berobenatide is one of the keys to Pfizer's future.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/07/pfizers-next-weight-loss-weapon-how-berobenatide-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.SZ6bI8aNSXhqNfh74gqCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f3ccf8d8f02c05889c7707638263385b",
+      "published_at": "2026-08-07T19:48:00Z"
+    },
+    {
+      "id": "af539075-1266-34dd-942e-09d3d27656ed",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Michael Burry Sounds Alarm on Major AI Stocks",
+      "summary": "Burry sees leverage building beneath soaring cloud demand",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sounds-alarm-major-194738677.html",
+      "thumbnail": "",
+      "published_at": "2026-08-07T19:47:38Z"
+    },
+    {
+      "id": "f177b9fa-87a6-3d84-b28d-8b2cbec1c998",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Thune Still Plans Clarity Act Cloture: What a Weekend Surprise Could Mean for Bitcoin",
+      "summary": "Thune plans Clarity Act cloture before recess, queuing a September Senate vote as yield and ethics fights drag on.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/thune-clarity-act-cloture-september-vote/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6uTxa0YV.UfNZAqTbLYtRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1cab8403625feb98cc05c79e148fc0dd",
+      "published_at": "2026-08-07T19:46:10Z"
+    },
+    {
+      "id": "95cbe037-b73a-3c05-8fa3-06cd0e988ac9",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "The 20 Most Actively Traded ETFs",
+      "summary": "<p>VOO is the only trillion-dollar ETF, but it barely cracks the top 10 by daily volume.</p>",
+      "source": "etf.com",
+      "url": "http://www.etf.com/sections/features/20-most-actively-traded-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fVFTYA2bNXgu31E5qTr7Eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/546c7d51af53eb0145ccb7c41a2f44e2",
+      "published_at": "2026-08-07T19:46:09Z"
+    },
+    {
+      "id": "6259cf43-b0a0-3a22-862f-bc42a1916278",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Fear & Greed Index Is Muted With Bitcoin Rangebound",
+      "summary": "The Crypto Fear & Greed Index has a current reading of 40 and has registered barely any movement in recent days...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/crypto-fear-greed-index-is-muted-with-bitcoin-rangebound-6363",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/alY_yAdYjFBeW8Jz69wVaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/291ecef25841ef8cffa1f941dfa483de",
+      "published_at": "2026-08-07T19:46:00Z"
+    },
+    {
+      "id": "d1dec4ce-cb86-3594-be8c-cc4ea923229d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Rocket Lab Stock Took Flight on Friday",
+      "summary": "The company completed another successful launch mission",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/07/why-rocket-lab-stock-took-flight-on-friday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YtDuG1sCZxiaXrWGaz5JsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/20da27130f1fee18029d941f7e6cc86c",
+      "published_at": "2026-08-07T19:42:40Z"
+    },
+    {
+      "id": "18285ab6-c898-3341-9bb2-0d8886d7f289",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "U.S. Economy Unexpectedly Lost 23,000 Jobs in July, Signaling a Weakening Labor Market",
+      "summary": "The July jobs report delivered a surprise loss, putting the Fed in a tough spot between fighting inflation and protecting workers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/07/us-economy-unexpectedly-lost-23000-jobs-in-july-signaling-a-weakening-labor-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ByCSM2.7ue86BWY0phxwsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4916a5fca804cad7aa6379501e808585",
+      "published_at": "2026-08-07T19:40:01Z"
+    },
+    {
+      "id": "f31b7dd5-5905-3ff6-bb6f-3918f4e33295",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Stock Market Today: Nasdaq Pops As Fed Rate-Hike Odds Fall; Sezzle Loses Its Sizzle (Live Coverage)",
+      "summary": "The Nasdaq composite was a standout among major indexes Friday, with technology stocks climbing after U.S. job losses cut the odds of the Federal Reserve raising interest rates.  On the stock market today, financial name Sezzle plummeted while a medical tests maker popped following earnings reports.  The Nasdaq composite forged ahead 1.1%.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eElO_30Hq7k9yi7degqgmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e782351d28363e0a32c6fffae91f2471",
+      "published_at": "2026-08-07T19:34:22Z"
+    },
+    {
+      "id": "733b6961-5011-376f-9224-fc11d8179794",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
+      "summary": "The Texas semiconductor complex could give Tesla and SpaceX greater control over the chips powering their most ambitious AI products.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-nearly-4-192926948.html",
+      "thumbnail": "",
+      "published_at": "2026-08-07T19:29:26Z"
+    },
+    {
+      "id": "e82a89bd-1f67-3608-9688-57050a02719f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 High-Yield Dividend Stocks Worth Buying Now",
+      "summary": "These three energy companies combine generous payouts with the cash flow, coverage, and discipline that can help make those distributions last.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/07/3-high-yield-dividend-stocks-worth-buying-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ptdtWvVPTCgJeM3MuXpUQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a83d2c758e45f25ae3a67e605b26eb16",
+      "published_at": "2026-08-07T19:25:00Z"
+    },
     {
       "id": "d3023955-339d-3447-b91f-545fe8622e76",
       "asset": "NVDA",
@@ -81,17 +202,6 @@
       "published_at": "2026-08-07T19:03:20Z"
     },
     {
-      "id": "d0dbac74-627f-3cbf-b602-2271c4d997fd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Greg Abel Reports Saturday Morning. Berkshire Stock Just Hit a 52-Week High and Is Still Behind the S&P 500 This Year.",
-      "summary": "Three lines in the weekend's filing will show how Buffett's successor is putting money to work.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/07/greg-abel-reports-saturday-morning-berkshire-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o_Adf9VDvzLghWPeK4N5pA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8a5dd214d552225ca30cc5dc50547d5",
-      "published_at": "2026-08-07T18:58:00Z"
-    },
-    {
       "id": "5b4b9700-7e5e-31d0-b1de-417f32562262",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -112,39 +222,6 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_gfFyc6B36pCJ6khh1Tw0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/8d0f49720750ad96c49838f33d1be34a",
       "published_at": "2026-08-07T18:50:00Z"
-    },
-    {
-      "id": "e5158559-46e0-3e32-90c4-0145d4f0a39e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI Stock Jumps After Unusual Nvidia Hedge Fund Deal",
-      "summary": "A new revenue model could lift returns on costly GPUs",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-jumps-unusual-nvidia-184956126.html",
-      "thumbnail": "",
-      "published_at": "2026-08-07T18:49:56Z"
-    },
-    {
-      "id": "5bf8f5c9-12c0-3e2b-854b-477d1a373f87",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market.",
-      "summary": "The July jobs report suggests the labor market is weaker than many thought.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/07/why-kevin-warsh-job-got-harder-means-stock-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cWynQ5M6oi5aJvFkuq1ajQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1b822f50fce1e2275a041c53aeee5475",
-      "published_at": "2026-08-07T18:42:43Z"
-    },
-    {
-      "id": "9d7b28f2-5c19-3706-9baa-7989d1302377",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Wix.com Stock Rebounded 21.3% in July",
-      "summary": "The website builder was on the opposite end of the AI trade, and finally saw some relief in its share price.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/07/why-wixcom-stock-rebounded-213-in-july/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AMfthmf6ykLDa5nXzj9owQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0a21b8b11a825b70e8c32588ccf38569",
-      "published_at": "2026-08-07T18:40:04Z"
     },
     {
       "id": "76290ae4-6b52-326e-a3b3-a03f37d45c54",
@@ -169,6 +246,17 @@
       "published_at": "2026-08-07T18:37:00Z"
     },
     {
+      "id": "0fa842af-6272-3000-983c-85a54a86950d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "CLARITY Act delayed: what it means for markets",
+      "summary": "With the CLARITY Act pushed to September and $130 million drained in the Coldcard exploit, Crypto Market Analyst Ray Salmond joins Jennifer Sanasie on Markets Outlook to unpack Fed rate odds, Bitcoin’s four-year cycle, and the key metrics to watch ahead of a potential CLARITY Act vote. Plus, in today’s Brand New Rails, we explore how Dinari is bringing U.S. stocks on-chain. - This episode is brought to you by RealFi, a smarter stablecoin, backed by real-world assets. RealFi is launching August 2026. Join the Testnet now at realfi.co.",
+      "source": "CoinDesk",
+      "url": "http://videos.coindesk.com/previews/Z7bFMJvE",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JAAo8CdO_d1gynzbViMAeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/634e8cce6891410d874d6d602cc9a959",
+      "published_at": "2026-08-07T18:31:11Z"
+    },
+    {
       "id": "7126aab4-816e-3ed6-8f92-f8b7cd1e732a",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -178,39 +266,6 @@
       "url": "https://www.credaily.com/briefs/spacexs-texas-terafab-could-become-worlds-largest-building/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LRsfeEc6pRFPBLNay6U82A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cre_daily_340/898327ff1306e9d5a9585f674fb1da58",
       "published_at": "2026-08-07T18:27:19Z"
-    },
-    {
-      "id": "4cd662f6-119a-323b-9bbb-0ba0c99868d6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)’s Shares Are Finally Rising",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is a stock that Jim Cramer continues to stand by with, even though it has struggled. While it’s unclear whether he’s as loyal to it as he is to Costco, throughout 2026, the CNBC TV host has continued to assert that the firm provides a great long-term opportunity. NVIDIA Corporation (NASDAQ:NVDA)’s shares […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-reasons-behind-182404118.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1YlUJhYmLscmbZq2_91pWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c",
-      "published_at": "2026-08-07T18:24:04Z"
-    },
-    {
-      "id": "2560dad7-0103-315e-96fd-a763693babe8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could 1 Tiny Biotech Topple Vertex Pharmaceuticals' Cystic Fibrosis Empire?",
-      "summary": "This risk is weighing on the stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/07/could-1-tiny-biotech-topple-vertex-pharmaceuticals/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XE2NBLVdH7XRUqW6apMy9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6701528a54045389c99320f2f228bbb3",
-      "published_at": "2026-08-07T18:20:00Z"
-    },
-    {
-      "id": "f31b7dd5-5905-3ff6-bb6f-3918f4e33295",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Stock Market Today: Nasdaq Jumps As Fed Rate-Hike Odds Slide; Atlassian Spikes After Earnings (Live Coverage)",
-      "summary": "Stock Market Today: The major indexes are climbing as the week nears an end. A gaming stock spikes 30%.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GLao5JXBIEY2fKAYXRhtkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/1fda8e75000516459142edfe1e3a80d2",
-      "published_at": "2026-08-07T18:19:17Z"
     },
     {
       "id": "62dc9fd2-39ca-368c-a94f-349cb4df4d37",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-175230398.html",
       "thumbnail": "",
       "published_at": "2026-08-07T17:52:30Z"
-    },
-    {
-      "id": "2cdd8a4e-02e6-326c-805d-d930f1f9c923",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Comex Gold Ends the Week 7.20% Higher at $4340.70",
-      "summary": "Gold settled up 2.3% Friday, and silver rose 3.1%, with both metals also posting gains for the week.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-focus-on-middle-east-progress-u-s-jobs-data-d4aef937?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
-      "published_at": "2026-08-07T17:49:00Z"
-    },
-    {
-      "id": "c5992c74-5b71-3d77-a965-11e38a22f0f1",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sector Update: Energy Stocks Decline Friday Afternoon",
-      "summary": "Energy stocks were lower Friday afternoon, with the NYSE Energy Sector Index decreasing 0.5% and the",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-friday-174624121.html",
-      "thumbnail": "",
-      "published_at": "2026-08-07T17:46:24Z"
-    },
-    {
-      "id": "646bc551-5075-3e24-a46c-6e18fb8c5074",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-      "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SWQuQgBMGlPdi8EscInfMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/c5f0cbd02591f75874c2286c22f2a2f9",
-      "published_at": "2026-08-07T17:36:41Z"
-    },
-    {
-      "id": "75018384-cc32-3cba-ac1a-8d6b2dcb1a26",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "AI Boom: Top Stocks to Consider for Your Portfolio",
-      "summary": "Here, we have picked three AI stocks, AMD, AMZN and KLAC, which are well-poised to benefit from AI's growing use and ability to solve complex problems.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-top-stocks-consider-172600854.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZOiWKOkYdnIgUT2QkjlFKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d43cb7b76527c97c59494165d3dffeae",
-      "published_at": "2026-08-07T17:26:00Z"
-    },
-    {
-      "id": "4e9442d9-47f2-3ea9-a80a-90dda19e5cfe",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Citi raises Q3 2026 Brent crude oil forecast to $80 a barrel",
-      "summary": "The bank kept its fourth-quarter and full-year 2027 Brent forecasts unchanged at $70 and $65 a barrel, respectively",
-      "source": "Quartz",
-      "url": "https://qz.com/citi-oil-price-forecast-iran-nuclear-talks-080726",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/upGzzL6OWdwNCyiRAu1.wA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/a8438ca8f42f480ce4ca648cbe0468d3",
-      "published_at": "2026-08-07T17:25:42Z"
     }
   ]
 }
