@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-08 05:39 UTC",
+  "last_updated": "2026-08-08 06:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3857cdfb-0a6e-3f4f-857c-908f157e96e4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
+      "summary": "Northern Oil and Gas (NYSE:NOG) reported Q2 2026 results that surpassed earnings and revenue estimates, with record natural gas production and strong free cash flow. Management highlighted capital discipline in the quarter and increased the company’s stock repurchase authorization. This was presented as a sign of confidence in Northern Oil and Gas’ current position. The latest report showed overall oil production declined, while natural gas volumes reached new highs and helped support the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CrhGr1TPlfgUUNII8gtApw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/da713992716ec87035eff27f58858a3e",
+      "published_at": "2026-08-08T06:12:59Z"
+    },
+    {
+      "id": "d6e9c9c8-156b-3aac-aac1-f043f04c227e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "EOG Resources Q2 Earnings Call Highlights",
+      "summary": "EOG Resources (NYSE:EOG) reported record second-quarter financial results for 2026, supported by higher oil prices, lower operating costs and production volumes above the midpoint of its guidance range. The company also highlighted early production results from its United Arab Emirates exploration p",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/eog-resources-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_3T5W.qCCTBIGy8vXZmlHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/52e1bf164ee9e4d976333aefd7529dc0",
+      "published_at": "2026-08-08T06:03:52Z"
+    },
+    {
+      "id": "0bd2a0f2-c0f4-3110-825f-6ddd284aed32",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "The Israeli oil pipeline that could solve the energy crisis",
+      "summary": "Saudi Arabia and the rest of the Gulf’s energy producers have a major problem.",
+      "source": "The Telegraph",
+      "url": "https://uk.finance.yahoo.com/news/israeli-oil-pipeline-could-solve-060000050.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kDGnHCOrM_9bjddj0QUaiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/ce789ec76053f5c2b3e34f0c98cc17bf",
+      "published_at": "2026-08-08T06:00:00Z"
+    },
+    {
+      "id": "9212604a-ed1d-3830-ab31-85f1a42185a9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Situational Awareness invested $500 million in chip startup Source Foundry",
+      "summary": "Investing.com -- Situational Awareness invested a total of $500 million in semiconductor manufacturing startup Source Foundry, Bloomberg reported, citing people familiar with the matter.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/situational-awareness-invested-500-million-052325217.html",
+      "thumbnail": "",
+      "published_at": "2026-08-08T05:23:25Z"
+    },
     {
       "id": "cc598d3a-20a6-3c76-a4b5-89d6722026ad",
       "asset": "NVDA",
@@ -257,17 +301,6 @@
       "published_at": "2026-08-08T00:01:00Z"
     },
     {
-      "id": "773b86ad-65a7-3bdd-a2cc-2b18ef623983",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "ELAM: Let’s make deal – not",
-      "summary": "Trump’s energy frustrations are not liable to be resolved this year. Tuesday, Trump told Fox News that the U.S. and Iran were close to a deal to open the Strait of Hormuz. He then leaped to the conclusion that would lower the price of gasoline from the current nationwide price of $4.06 to $2.50. Anyone with that much of a misunderstanding of the worldwide supply chain from crude oil to ...",
-      "source": "Odessa American, Texas",
-      "url": "https://www.oaoa.com/?p=368558",
-      "thumbnail": "",
-      "published_at": "2026-08-08T00:01:00Z"
-    },
-    {
       "id": "e015cb16-af70-3c52-afba-3439fa6e9191",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -277,39 +310,6 @@
       "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/microsoft-msft-q4-2026-earnings-call-transcript/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GLLDkBGnPusEHUUPHMcY8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
       "published_at": "2026-08-07T23:58:47Z"
-    },
-    {
-      "id": "e2ccb3ba-4906-358d-a810-249389e06b42",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Ethereum price today: August 7, 2026",
-      "summary": "The current price of Ethereum (ETH) is approximately $1,910 as of Friday, August 7, 2026. The second-largest cryptocurrency has firmed up alongside Bitcoin this week after Friday's much weaker-than-expected July jobs report cooled bets on additional Fed rate hikes, a shift that tends to ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S9c8TKY73nFYQhoAyOLVAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4c8bfaaebc976ae768c958815fa513eb",
-      "published_at": "2026-08-07T23:57:27Z"
-    },
-    {
-      "id": "9b4ea9b9-b435-32aa-87ad-175c0dabc33d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why QuinStreet Stock Crushed it on Friday",
-      "summary": "Its fiscal fourth quarter set new company records for revenue and net income.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/07/why-quinstreet-stock-crushed-it-on-friday/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uSFB3JTnBESPboyA_RXxfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0037005cc775b57f4a85cd457f1ae3a6",
-      "published_at": "2026-08-07T23:43:58Z"
-    },
-    {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett, Cisco, Lumentum Due",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire, Cisco, Lumentum are on tap.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
-      "published_at": "2026-08-07T23:41:13Z"
     }
   ]
 }
