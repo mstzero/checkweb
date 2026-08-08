@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 23:29 UTC",
+  "last_updated": "2026-08-08 23:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
@@ -13,6 +13,17 @@
       "url": "https://www.fool.com/coverage/charts/2026/08/08/nvidia-vs-navitas-semiconductor-here-s-what-their-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FBHaBIo0A9USr26L5gsVdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f22365804c50018a9edc31555e36d297",
       "published_at": "2026-08-08T23:01:01Z"
+    },
+    {
+      "id": "35a84ddf-9388-3210-a9eb-49cb67418a9d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
+      "summary": "The U.S. has helped cushion the global energy shock from the Hormuz disruption through record oil production, LNG exports, and fuel shipments, helping stabilize international markets.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/u-energy-helps-cushion-global-230000293.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qyxI3_0Ud46tzCxlJYRafQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/811b8393b351f1fa5627436fe4826b10",
+      "published_at": "2026-08-08T23:00:00Z"
     },
     {
       "id": "c83da820-4f16-3c66-97ae-7c4380a234f2",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/08/ai-is-hollowing-out-tech-sector-jobs-oracle-and-microsoft-help-push-layoff-rate-to-20-year-high/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/k8_4rpBtiXg0d33W2_LWXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a7320ae38e3e452fa9ccf2abe777bd2a",
       "published_at": "2026-08-08T15:38:36Z"
-    },
-    {
-      "id": "a924a007-dd0b-37c1-b4bb-362baeb268cf",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Bank of America revamps Apple stock price target after earnings",
-      "summary": "ChatGPT went from generating roughly $10 million a month on Apple's App Store in Jan. 2024 to more than $275 million in July 2026. Apple did not build ChatGPT. It does not train it, run it, or market it. But every time someone subscribes, Apple collects a commission. That dynamic is playing out ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-apple-aapl-stock-price-target-after-earnings",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uWs5HRLcbWT9U95x0aqB5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2f40202be6f5c8c45d6b19507ebb3297",
-      "published_at": "2026-08-08T15:17:00Z"
     }
   ]
 }
