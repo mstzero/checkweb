@@ -1,14 +1,36 @@
 {
-  "last_updated": "2026-08-08 22:24 UTC",
+  "last_updated": "2026-08-08 22:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c83da820-4f16-3c66-97ae-7c4380a234f2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why the Market Continues to Sleep on Micron's Growth Potential",
+      "summary": "A concerning historical pattern likely has weighed on Micron stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/why-the-market-continues-to-sleep-on-microns-growt/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ykLnHYhnJ0802_lAmjmviQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/917f1b46dcc2259811f22ca98d604837",
+      "published_at": "2026-08-08T22:35:00Z"
+    },
+    {
+      "id": "59fd4180-076c-3733-87b8-4c95a1ffb02d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+      "summary": "Here's how investors should prepare for potential volatility.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/warren-buffett-warned-about-the-dot-com-bubble-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Gcnpthv1m8t0Dliq1QQO3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/758dc861323678c663d9a0d6c6429c11",
+      "published_at": "2026-08-08T22:20:00Z"
+    },
     {
       "id": "a29deef1-a9a2-3fdf-a16f-01bf78ebbd62",
       "asset": "BTC",
       "asset_name": "Bitcoin",
       "title": "Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?",
-      "summary": "Investors pulled $8.26 billion out of US spot Bitcoin ETFs across eight straight weeks through the start of July, and the funds barely recovered any of it over the rest of the month. That has changed in the first week of August, as the funds took in $853.54 million and posted their best week since ... Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?",
+      "summary": "Just days after hackers drained thousands of self-custody wallets in the Coldcard exploit, Bitcoin ETFs suddenly snapped a months-long losing streak with their strongest week in months. The timing is hard to ignore, but the explanation turns out to be more complicated than it first appears.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/cryptocurrency/2026/08/08/bitcoin-etfs-are-having-their-best-week-since-april-did-the-coldcard-hack-push-853m-into-bitcoin-etfs/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mQH64sFoTWOka1kWqTir.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fa0a6c168d329d4e8fd4f0fd904ebf81",
@@ -93,25 +115,14 @@
     },
     {
       "id": "872c89e4-4d33-3c3f-94d6-0c5c5c570d52",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
       "summary": "As investors scrutinize the AI data center capital spending of the \"Magnificent Seven,\" the quarter's standout is Microsoft.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/08/microsoft-shows-the-magnificent-seven-what-ai-investment-looks-like/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4CiSOsdxGldv7Fg6_n3diQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1344521cb4ef7eb7c422ff0baa2e9aab",
       "published_at": "2026-08-08T21:01:02Z"
-    },
-    {
-      "id": "a1d6d760-cf45-3d28-9617-8974514bee37",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Where Will Dell Technologies Stock Be in 3 Years?",
-      "summary": "Its move into the artificial intelligence space has breathed new life into the iconic-but-aging technology outfit.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/where-will-dell-technologies-stock-be-in-3-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U03P2jY3961K2Hv26Uyp8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ede2583f2d9a6423816279cd3967d9d6",
-      "published_at": "2026-08-08T20:20:00Z"
     },
     {
       "id": "06e54832-88a3-303c-ba46-116f5ef5a183",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/article/rivians-make-or-break-r2-midsize-ev-delivers-road-test-143152026.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P46mU_7FU3d4hgEX_Eus8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/r2-exterior-june-26-12_8224.jpg",
       "published_at": "2026-08-08T14:31:52Z"
-    },
-    {
-      "id": "6bcc9818-adc8-3f5e-a657-a6be11c03592",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Star Bulk Carriers (SBLK) Declares A $0.90 Dividend, Is It Still A Bargain?",
-      "summary": "Star Bulk Carriers (SBLK) has drawn fresh attention after reporting second quarter 2026 results and declaring a quarterly cash dividend of $0.90 per share, with payment scheduled for early September. See our latest analysis for Star Bulk Carriers. Star Bulk Carriers’ latest earnings beat and higher dividend come as the stock trades at US$28.90, with a 30 day share price return of 9.22% and year to date share price return of 49.20%. The 1 year total shareholder return stands at 60.04% and 5...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/star-bulk-carriers-sblk-declares-141252154.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qesLkuaQ9d._ibhmfcepow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fc7f06d7d25d7885ecc5bcab2bbe16ae",
-      "published_at": "2026-08-08T14:12:52Z"
     }
   ]
 }
