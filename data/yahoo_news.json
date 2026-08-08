@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-08 14:28 UTC",
+  "last_updated": "2026-08-08 14:59 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "80d81d16-e42c-3265-87de-ec3aebcd1602",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets",
+      "summary": "Investing.com - U.S.-based AI cloud infrastructure provider Firebird officially launched the Commonwealth of Independent States (CIS) region’s largest AI Factory in Hrazdan, Armenia, on Saturday, marking the operational debut of a multi-billion-dollar global computing platform.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/firebird-opens-region-largest-ai-143555418.html",
+      "thumbnail": "",
+      "published_at": "2026-08-08T14:35:55Z"
+    },
+    {
+      "id": "cc3d48b6-c14e-4388-876f-640bcc7ec662",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+      "summary": "The Rivian R2 is, frankly, the most important vehicle Rivian has ever built. It's the car that's supposed to push Rivian over the edge on cost, scale, and profits.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/rivians-make-or-break-r2-midsize-ev-delivers-road-test-143152026.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P46mU_7FU3d4hgEX_Eus8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/r2-exterior-june-26-12_8224.jpg",
+      "published_at": "2026-08-08T14:31:52Z"
+    },
+    {
+      "id": "27841ea2-ca80-3157-a946-a5404fb30d1e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "eBay Slid This Past Month: Why a Leading Analyst Expects 32% Growth Ahead Anyway",
+      "summary": "eBay just delivered its strongest fundamentals in years, yet the stock slipped and Wall Street shrugged. One outlier analyst sees something the rest of the Street is missing, and the gap in price targets tells a story worth understanding.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/08/ebay-slid-this-past-month-why-a-leading-analyst-expects-32-growth-ahead-anyway/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EUUKxOgOm7cNw9gjn0QV4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c003ea31c86caacdf6dc77311c5e7b79",
+      "published_at": "2026-08-08T14:30:59Z"
+    },
+    {
+      "id": "b7ff845e-7867-32ea-bd14-5f55d519faef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI’s Biggest Opportunity by 2027: NVIDIA vs. Micron",
+      "summary": "NVIDIA and Micron both just shattered expectations, but they are winning the AI race in completely different ways. Which one belongs in your portfolio heading into 2027 depends entirely on what kind of risk you are willing to carry.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/08/ais-biggest-opportunity-by-2027-nvidia-vs-micron/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mfPZ.qXAKGsTN6qnV7SKkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1b4189ff9ff71552a74d5aa9ef1dae6f",
+      "published_at": "2026-08-08T14:30:00Z"
+    },
+    {
+      "id": "79de678a-85c9-3fe5-9cd5-2a470befef03",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.",
+      "summary": "Realty Income offers a safer way to invest in the data center boom.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/everyones-chasing-ai-data-center-stocks-this-5-yie/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ySbJn_NDx16WIxufwKjLeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3ad7c10d2695b10bd7a1dec39cdc092d",
+      "published_at": "2026-08-08T14:20:00Z"
+    },
+    {
+      "id": "6bcc9818-adc8-3f5e-a657-a6be11c03592",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Star Bulk Carriers (SBLK) Declares A $0.90 Dividend, Is It Still A Bargain?",
+      "summary": "Star Bulk Carriers (SBLK) has drawn fresh attention after reporting second quarter 2026 results and declaring a quarterly cash dividend of $0.90 per share, with payment scheduled for early September. See our latest analysis for Star Bulk Carriers. Star Bulk Carriers’ latest earnings beat and higher dividend come as the stock trades at US$28.90, with a 30 day share price return of 9.22% and year to date share price return of 49.20%. The 1 year total shareholder return stands at 60.04% and 5...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/star-bulk-carriers-sblk-declares-141252154.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qesLkuaQ9d._ibhmfcepow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fc7f06d7d25d7885ecc5bcab2bbe16ae",
+      "published_at": "2026-08-08T14:12:52Z"
+    },
+    {
+      "id": "cf91b8e2-925e-38ce-ad80-733990207323",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
+      "summary": "Broadcom (NasdaqGS:AVGO) has become a dominant supplier for hyperscale AI clusters used by major cloud and AI providers such as Anthropic, OpenAI, and Meta. Multi-year commitments from these customers are channeling significant capital expenditure into Broadcom's AI infrastructure hardware, even as some of that spend bypasses GPU market leader Nvidia. The agreements increase Broadcom's visibility on future AI related revenue tied to large scale data center buildouts. Broadcom is one of...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-now-lead-141116363.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fAtX1UcMD13NawIOD5fjUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/dfc5c49a1ab838a9c236bef742ffecf1",
+      "published_at": "2026-08-08T14:11:16Z"
+    },
     {
       "id": "6887b967-36b9-3b3b-be4b-d1c3344dd108",
       "asset": "ETH",
@@ -26,6 +103,17 @@
       "published_at": "2026-08-08T14:01:00Z"
     },
     {
+      "id": "29f5cd2d-dde8-3453-9e85-bb912e02b9a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Ron Paul: Trump’s New Policy Is ‘As Dangerous to Liberty and Prosperity’ as Mamdani’s",
+      "summary": "Ron Paul just compared a Republican president's signature economic policy to democratic socialism, and his argument targets a specific stock that has already surged over 400% in a year.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/08/ron-paul-trumps-new-policy-is-as-dangerous-to-liberty-and-prosperity-as-mamdanis-2/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OVOH3vfXvs0Lx7L1HxpnKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/221be2a860bdd3afebd822d40e39c1d7",
+      "published_at": "2026-08-08T14:00:08Z"
+    },
+    {
       "id": "c4e7c1e9-eab3-3fba-a79a-48aced64bd52",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -37,59 +125,15 @@
       "published_at": "2026-08-08T13:56:00Z"
     },
     {
-      "id": "0af30026-23d8-3673-9fd0-e18ce6fef681",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -- His Prophecy May Still Come True",
-      "summary": "Headwinds are mounting for a scorching-hot bull market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/trump-iran-war-drive-stock-market-down-20-to-25/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S_dfXl848c7Qigswd0E39Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c98de6e6ea9ac092fd20a1f3c1ac4f4b",
-      "published_at": "2026-08-08T13:26:00Z"
-    },
-    {
-      "id": "52fe2468-7ff1-3fd5-a195-5268d45db8ae",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
-      "summary": "The best robotics investments may lie deeper in the supply chain.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/wall-street-sees-a-multi-trillion-dollar-humanoid/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_7eHd1Fi6opZyKSm5uT_yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/589ac6a08c8974e47337d5b2ae9e4070",
-      "published_at": "2026-08-08T13:25:00Z"
-    },
-    {
-      "id": "98e94495-b947-3b75-85fd-e4b177173605",
+      "id": "41d71588-d462-3491-bff8-f1fc67a9f55d",
       "asset": "TSLA",
       "asset_name": "Tesla",
       "title": "Tesla UK sales drop as craze for Chinese rivals surges",
       "summary": "Tesla’s deliveries in the UK have fallen sharply as the popularity of the carmaker’s Chinese rivals surges.",
       "source": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/tesla-uk-sales-drop-craze-132334701.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tvt9oTwSEn7nlmcq_QAPOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/c505eb89e0184eeba02f57402956aefa",
+      "url": "https://www.telegraph.co.uk/business/2026/08/08/tesla-uk-sales-drop-as-craze-for-chinese-rivals-surges/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2q0u1zxCn221UmL3BWeU_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_258/c505eb89e0184eeba02f57402956aefa",
       "published_at": "2026-08-08T13:23:34Z"
-    },
-    {
-      "id": "78125c1c-554b-3aed-ac5a-aae4aadcc768",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should You Buy SpaceX Stock Below $125 per Share? Here's What History Says.",
-      "summary": "SpaceX is now well below its IPO price.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/should-you-buy-spacex-stock-below-110-per-share-he/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hUcUDfood6etes83OjqOFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bd600c62568f523281154ac99de7cc28",
-      "published_at": "2026-08-08T13:20:00Z"
-    },
-    {
-      "id": "37b03a6b-f439-32b5-8899-536a403730f1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Broadcom Vs. Nvidia: The Real Challenger and Champion Story in Chips",
-      "summary": "NVIDIA keeps shattering revenue records while Broadcom quietly builds the custom silicon that hyperscalers hope will free them from Jensen Huang's grip. One of these strategies carries far more upside asymmetry heading into 2027, and the answer may surprise you.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/08/broadcom-vs-nvidia-the-real-challenger-and-champion-story-in-chips/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K8BFVTc9vB38vOrOvauF1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cb15b45bd4875e8c5ef084219c37348d",
-      "published_at": "2026-08-08T13:10:04Z"
     },
     {
       "id": "eb526caf-ab20-33e2-80e3-d70e81d94ef3",
@@ -101,17 +145,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
       "published_at": "2026-08-08T13:07:21Z"
-    },
-    {
-      "id": "97156dad-94d7-382b-994c-2bd9ec683e66",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Israel Englander's Millennium Manages $240 Billion Across Thousands of Positions. Here's the Strategy Behind His Success.",
-      "summary": "This classic hedge fund employs strategies to nearly guarantee success.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/israel-englanders-millennium-manages-240-billion-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PMQDShHwUA3ReYbvnLRbTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/097f8f60b3d3903c0fdbd877e7be9138",
-      "published_at": "2026-08-08T13:05:00Z"
     },
     {
       "id": "af5a28a1-d35f-37da-83b8-8bc00e5cf34e",
@@ -134,17 +167,6 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1096753/1911-gold-ceo-discusses-underground-drill-success-icymi-1096753.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JXb_hNMr3KXJ9dzPf5RpEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/d20b4ad190b388218af338aa287560a5",
       "published_at": "2026-08-08T13:00:00Z"
-    },
-    {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett's Berkshire Beats Views",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
-      "published_at": "2026-08-08T12:58:00Z"
     },
     {
       "id": "3edc6986-75dd-3603-b18f-d77e4e25c22b",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CrhGr1TPlfgUUNII8gtApw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/da713992716ec87035eff27f58858a3e",
       "published_at": "2026-08-08T06:12:59Z"
-    },
-    {
-      "id": "0bd2a0f2-c0f4-3110-825f-6ddd284aed32",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Israeli oil pipeline that could solve the energy crisis",
-      "summary": "Saudi Arabia and the rest of the Gulf’s energy producers have a major problem.",
-      "source": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/israeli-oil-pipeline-could-solve-060000050.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kDGnHCOrM_9bjddj0QUaiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/ce789ec76053f5c2b3e34f0c98cc17bf",
-      "published_at": "2026-08-08T06:00:00Z"
-    },
-    {
-      "id": "4fcee102-95bf-3368-a649-f9776850be79",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Coeur Mining (CDE) Is Up 16.6% After Record Output And New Payout Plan Has The Bull Case Changed?",
-      "summary": "In early August 2026, Coeur Mining reported record quarterly gold output of 163,490 ounces and quarterly revenue of about US$1.09 billion, alongside revised 2026 production guidance across gold, silver and copper. The company paired these mixed operating and earnings results with its first dividend in three decades and a US$750 million share repurchase program, signaling a new approach to capital returns. With record gold production but lowered full-year guidance now on the table, we’ll...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-16-6-051310889.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
-      "published_at": "2026-08-08T05:13:10Z"
     }
   ]
 }
