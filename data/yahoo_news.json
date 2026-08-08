@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-08 08:35 UTC",
+  "last_updated": "2026-08-08 09:33 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "acc3e9e3-6a5b-3fcb-9a4c-4ef853051275",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin rises toward $65,000 as fresh security risks hit infrastructure",
+      "summary": "Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-toward-65-000-092116909.html",
+      "thumbnail": "",
+      "published_at": "2026-08-08T09:21:16Z"
+    },
+    {
+      "id": "00362cfb-a09f-3fa3-a786-aa5e4b17f5a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon's Stock Just Soared 15%. Here's Why Now Is Just the Beginning.",
+      "summary": "Amazon crushed second-quarter earnings, but its rally will extend for a long time.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/amazons-stock-just-soared-15-heres-why-now-is-just/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Wh9jKURwhJC32Dn9xgzcTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/49c707749042e5c065b321ea080e4d10",
+      "published_at": "2026-08-08T09:20:00Z"
+    },
+    {
+      "id": "5db4cd06-1ff1-3870-8c76-4af250a64a25",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.",
+      "summary": "Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/the-white-house-continues-to-promote-the-strategic/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zF8r2Ln6SUJh.RVht0Dhdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/16ed8974f95b34feb8fd789ab6110425",
+      "published_at": "2026-08-08T09:18:00Z"
+    },
+    {
+      "id": "d9d06ff3-15d0-3d3c-88e4-474ef57c8042",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
+      "summary": "Buying Nvidia on the dip in the past has always paid off. It could do so again.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/dan-ives-says-were-in-the-3rd-inning-of-the-ai-rev/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W7Rx6cnQqkst5JBxbA5tTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/31c6a4cd44ed5f76146d953bd53f8c46",
+      "published_at": "2026-08-08T09:04:00Z"
+    },
+    {
+      "id": "32a11d78-7475-3d81-a49d-b74cadccde07",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+      "summary": "President Donald Trump's policies, coupled with Wall Street's hottest trend, are a dangerous recipe for stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/inflation-quadruple-whammy-trumpflation-wall-st/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pnbw9SmS3_X.ySXktUjE1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b1d08858f17e3ed786ef4a75a74cdd25",
+      "published_at": "2026-08-08T08:26:00Z"
+    },
     {
       "id": "c153af11-22b6-3446-8e4f-539957fd8562",
       "asset": "NVDA",
@@ -125,17 +180,6 @@
       "published_at": "2026-08-08T05:23:25Z"
     },
     {
-      "id": "cc598d3a-20a6-3c76-a4b5-89d6722026ad",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
-      "summary": "Alphabet's quarter was boosted by huge SpaceX gains.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/alphabet-just-posted-a-jaw-dropping-112-billion-pr/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HagrUJBeyZ3Uli4z6nnsrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d805416cf38258a2c709f7309c5202e8",
-      "published_at": "2026-08-08T05:20:00Z"
-    },
-    {
       "id": "4fcee102-95bf-3368-a649-f9776850be79",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -178,17 +222,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/delek-logistics-partners-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aPCCue712I3DMGEx5zfjEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/45a91bdce5b6e6d4eb1df88aef3f847f",
       "published_at": "2026-08-08T04:03:56Z"
-    },
-    {
-      "id": "8124b151-1897-38b9-a8d7-abdcf3d6ec50",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVDL’s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
-      "summary": "Paying for double exposure sounds like a straightforward bet on NVIDIA, but the daily mechanics of leveraged ETFs can quietly work against you in ways the product factsheet does not spell out.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/07/nvdls-2x-promise-delivered-only-17-21-while-nvidia-soared-22-21-in-one-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VocQUDetmYS5.Ve50dXvTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/32e676eed3b42f93ff425209615ea86e",
-      "published_at": "2026-08-08T03:45:59Z"
     },
     {
       "id": "c4aa48b5-1dac-3103-b130-6c35cf136510",
@@ -235,17 +268,6 @@
       "published_at": "2026-08-08T03:04:51Z"
     },
     {
-      "id": "62bb2afc-591c-3ec7-8caf-e50a245061c8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
-      "summary": "Airbnb topped estimates in the second quarter as its investments in new products seem to be paying off.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/07/airbnb-just-hit-a-four-year-high-is-it-a-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qATjB6qRxAJynmnZtVQzog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5119f1c561b71dd878abaaf718111da7",
-      "published_at": "2026-08-08T02:20:00Z"
-    },
-    {
       "id": "4e1faefc-92c5-3ef5-8c34-5860727e20eb",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -288,28 +310,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/canadian-natural-resources-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fKkT3NM51WETCTQdsdF3vQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/e978aa2c7a4eeb6944f6af78c5024e1d",
       "published_at": "2026-08-08T02:03:54Z"
-    },
-    {
-      "id": "245ef330-4c1f-348d-ac29-89fb181f38be",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
-      "summary": "Nvidia  will invest up to $3 billion in power infrastructure developer Lancium, the company ‌behind the Stargate data center campus in Texas, ‌the Information reported on Friday.  • The chipmaker will invest an initial $2 ​billion for a stake of roughly 20% in Lancium, which is backed by Blackstone, according to the report.  • Nvidia could invest an additional $1 billion if the ‌company meets certain ⁠thresholds, including grid hookups, the report said, citing people familiar with the matter.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-invest-3-billion-lancium-014211358.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6LsjKEYV40CMAlXmF82Wdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/11902818b58954b6699d1d92bc319386",
-      "published_at": "2026-08-08T01:42:11Z"
-    },
-    {
-      "id": "aa957ff9-a94c-3bcd-b71a-d2fa6f899160",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
-      "summary": "iPhone revenue surged 22% as Apple navigates supply constraints and memory cost inflation.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/apple-aapl-q3-2026-earnings-call-transcript/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GLLDkBGnPusEHUUPHMcY8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "published_at": "2026-08-08T01:30:18Z"
     }
   ]
 }
