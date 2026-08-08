@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-08 20:57 UTC",
+  "last_updated": "2026-08-08 21:32 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "af9fbf8d-0efc-3593-89a8-aae79acd91f3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Doximity (DOCS) Is Up 31.0% After Raising Revenue Outlook On Clinical AI Adoption - Has The Bull Case Changed?",
+      "summary": "Doximity, Inc. recently reported fiscal first-quarter 2027 results, with revenue rising to US$156.62 million from US$145.91 million a year earlier, while net income and earnings per share declined year on year. Management emphasized rapid uptake and monetization of its clinical AI tools, updating guidance to US$170–171 million for second-quarter revenue and US$671–681 million for full-year revenue. We’ll now examine how Doximity’s raised revenue outlook, underpinned by accelerating adoption...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/doximity-docs-31-0-raising-211518315.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7EdvjGlyw.VRQRl5tsJrTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/67ac92a32c5f9073ba3559a3e119b22a",
+      "published_at": "2026-08-08T21:15:18Z"
+    },
+    {
+      "id": "696a1993-476e-38d6-96be-407bf8f6b068",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia’s $3 Billion Bet on Lancium Signals the Compute Landlord Thesis Has Reached the Power Layer",
+      "summary": "The bottleneck for AI has shifted from compute capacity to the electricity required to run it. Nvidia, which has spent the past two years underwriting the financial existence of its largest customers through vendor financing and credit substitution, is now crossing a different threshold entirely: equity ownership in the power infrastructure that sustains its hardware. […]",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-lancium-211209280.html",
+      "thumbnail": "",
+      "published_at": "2026-08-08T21:12:09Z"
+    },
+    {
+      "id": "872c89e4-4d33-3c3f-94d6-0c5c5c570d52",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
+      "summary": "As investors scrutinize the AI data center capital spending of the \"Magnificent Seven,\" the quarter's standout is Microsoft.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/microsoft-shows-the-magnificent-seven-what-ai-investment-looks-like/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4CiSOsdxGldv7Fg6_n3diQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1344521cb4ef7eb7c422ff0baa2e9aab",
+      "published_at": "2026-08-08T21:01:02Z"
+    },
     {
       "id": "a1d6d760-cf45-3d28-9617-8974514bee37",
       "asset": "NVDA",
@@ -125,17 +158,6 @@
       "published_at": "2026-08-08T18:59:44Z"
     },
     {
-      "id": "83802d4c-b04b-3583-8d58-d5145ff49319",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
-      "summary": "Druckenmiller only owns one \"Magnificent Seven\" stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/stanley-druckenmillers-portfolio-skips-megacap-tec/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yxKYxaiwvsTJ4Wvx5DoLqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8d22c40599a803955c4a0f583ebd67a2",
-      "published_at": "2026-08-08T18:35:00Z"
-    },
-    {
       "id": "cfc2c024-662b-34ee-896c-19b5be524ce5",
       "asset": "QQQ",
       "asset_name": "Nasdaq 100 ETF",
@@ -156,17 +178,6 @@
       "url": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lzh9H8t1Juf_sM47gNNKGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aead1c021de030fc594490c8b5b8a9e2",
       "published_at": "2026-08-08T18:30:04Z"
-    },
-    {
-      "id": "7e49a0df-a727-3e62-a045-3ec8057cf321",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why SpaceX Stock Just Gained 15.8%",
-      "summary": "SpaceX stock defied expectations Friday, climbing after a lockup expiration released over 900 million shares on Thursday.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/why-spacex-stock-just-jumped-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9LGA.B.vfbTZbNvMUJ3FCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/350470fccd24a311a55d3adf1ecf9845",
-      "published_at": "2026-08-08T18:20:33Z"
     },
     {
       "id": "cb6c49ea-5955-3455-a6a2-8bddb4021381",
@@ -299,17 +310,6 @@
       "url": "https://www.telegraph.co.uk/business/2026/08/08/tesla-uk-sales-drop-as-craze-for-chinese-rivals-surges/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2q0u1zxCn221UmL3BWeU_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_258/c505eb89e0184eeba02f57402956aefa",
       "published_at": "2026-08-08T13:23:34Z"
-    },
-    {
-      "id": "eb526caf-ab20-33e2-80e3-d70e81d94ef3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan",
-      "summary": "Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
-      "published_at": "2026-08-08T13:07:21Z"
     }
   ]
 }
