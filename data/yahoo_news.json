@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-08 06:44 UTC",
+  "last_updated": "2026-08-08 07:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a0e51d43-7bd3-3792-b276-e2087b68d6a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "CEO Elon Musk Says This Is the Most Underappreciated Part of SpaceX's Business",
+      "summary": "Musk recently addressed Wall Street analysts on SpaceX's second-quarter earnings call.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/08/ceo-elon-musk-says-this-is-the-most-underappreciat/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G3fVsx4MHiO4Zf4GAv768A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/72121d31fc3336b9ce27680a53e324dc",
+      "published_at": "2026-08-08T07:25:00Z"
+    },
+    {
+      "id": "0fc117e6-11ac-3830-83ee-2726178f5037",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Klesch becomes Germany’s second-largest oil refiner after BP deal",
+      "summary": "Investing.com -- Klesch Group has become Germany’s second-largest oil refiner after acquiring BP’s Gelsenkirchen facility, Bloomberg reported, raising fresh questions about European energy security and the transfer of critical infrastructure to private investors.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/energy/articles/klesch-becomes-germany-second-largest-072146991.html",
+      "thumbnail": "",
+      "published_at": "2026-08-08T07:21:46Z"
+    },
+    {
+      "id": "c600ca75-8f94-38b7-a227-57fbdb2bcb00",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Elemental Royalty (TSX:ELE) After Karlawinda Reserve Boost Leaves Valuation Questions Open",
+      "summary": "Elemental Royalty (TSX:ELE) is in focus after Capricorn Metals reported a 32% increase in Probable Mineral Reserves at the Karlawinda Gold Project, where Elemental holds an uncapped 2% net smelter return royalty. See our latest analysis for Elemental Royalty. Elemental Royalty’s recent Karlawinda update has landed against a backdrop of strong momentum, with a 7-day share price return of 22.21%, a year-to-date share price return of 23.17%, and a 3-year total shareholder return of 127.00%,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elemental-royalty-tsx-ele-karlawinda-071342696.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
+      "published_at": "2026-08-08T07:13:42Z"
+    },
+    {
+      "id": "42b45886-302e-3584-929e-72907b7e5059",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Ero Copper Q2 Earnings Call Highlights",
+      "summary": "Ero Copper (NYSE:ERO) reported stronger second-quarter operating and financial performance, supported by higher gold sales, solid copper output and commodity-price tailwinds, while continuing to reduce debt and advance expansion projects across its Brazilian operations. President and Chief Executiv",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ero-copper-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Fyz22xgnF.1eD1RHfnGkYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/319b7bd4e4b3325dcf39dcd31e135d1d",
+      "published_at": "2026-08-08T07:03:59Z"
+    },
     {
       "id": "3857cdfb-0a6e-3f4f-857c-908f157e96e4",
       "asset": "OIL",
@@ -13,17 +57,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/northern-oil-gas-nog-beat-061259260.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CrhGr1TPlfgUUNII8gtApw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/da713992716ec87035eff27f58858a3e",
       "published_at": "2026-08-08T06:12:59Z"
-    },
-    {
-      "id": "d6e9c9c8-156b-3aac-aac1-f043f04c227e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "EOG Resources Q2 Earnings Call Highlights",
-      "summary": "EOG Resources (NYSE:EOG) reported record second-quarter financial results for 2026, supported by higher oil prices, lower operating costs and production volumes above the midpoint of its guidance range. The company also highlighted early production results from its United Arab Emirates exploration p",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/eog-resources-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_3T5W.qCCTBIGy8vXZmlHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/52e1bf164ee9e4d976333aefd7529dc0",
-      "published_at": "2026-08-08T06:03:52Z"
     },
     {
       "id": "0bd2a0f2-c0f4-3110-825f-6ddd284aed32",
@@ -277,39 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/07/why-genius-sports-popped-by-almost-10-this-week/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jo7IVzl.3F_nB41fAtXtAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a8a65686ea8a034478509cc5ca8740fc",
       "published_at": "2026-08-08T00:14:58Z"
-    },
-    {
-      "id": "a4bd022b-1245-3c3f-84b5-3685a7982857",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Black Hills Q2 Earnings Call Highlights",
-      "summary": "Black Hills (NYSE:BKH) said it remains on track to meet its 2026 earnings guidance as new rates and rider recovery, large-load demand growth and ongoing capital investments supported second-quarter results. The utility reported second-quarter GAAP earnings per share of $0.50, including $0.04 per sh",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/black-hills-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ez5869B2OOBBiDUw.nTlBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/086582f29db918058f607a21b79c3969",
-      "published_at": "2026-08-08T00:04:09Z"
-    },
-    {
-      "id": "d9210901-b448-3970-a33a-737b8f4f45e5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Basin rig count up three as prices drop",
-      "summary": "The rig count in the Permian Basin was up three this week, the latest count Friday by Baker Hughes shows, with 263 rigs active in the region. A year ago, 256 rigs were active in the region. Nationally, the oil and gas rig count is unchanged from last week at 588 rigs. A year ago, 539 rigs were active. The count shows that 454 rigs sought oil, up three from the previous week, and 124 explored ...",
-      "source": "Odessa American, Texas",
-      "url": "https://www.oaoa.com/?p=368569",
-      "thumbnail": "",
-      "published_at": "2026-08-08T00:01:00Z"
-    },
-    {
-      "id": "e015cb16-af70-3c52-afba-3439fa6e9191",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft (MSFT) Q4 2026 Earnings Call Transcript",
-      "summary": "Azure revenue surged 43% as AI demand outpaced capacity, driving record quarterly results.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/microsoft-msft-q4-2026-earnings-call-transcript/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GLLDkBGnPusEHUUPHMcY8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73",
-      "published_at": "2026-08-07T23:58:47Z"
     }
   ]
 }
