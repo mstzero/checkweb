@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-08 22:56 UTC",
+  "last_updated": "2026-08-08 23:29 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "e2f389bf-8128-31a8-bb27-e23f2c933483",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "summary": "Nvidia has posted eight straight quarters of revenue growth while Navitas Semiconductor faces a downward spiral, widening the gap between the two chipmakers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/08/08/nvidia-vs-navitas-semiconductor-here-s-what-their-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FBHaBIo0A9USr26L5gsVdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f22365804c50018a9edc31555e36d297",
+      "published_at": "2026-08-08T23:01:01Z"
+    },
     {
       "id": "c83da820-4f16-3c66-97ae-7c4380a234f2",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://www.thestreet.com/investing/stocks/bank-of-america-apple-aapl-stock-price-target-after-earnings",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uWs5HRLcbWT9U95x0aqB5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2f40202be6f5c8c45d6b19507ebb3297",
       "published_at": "2026-08-08T15:17:00Z"
-    },
-    {
-      "id": "cc3d48b6-c14e-4388-876f-640bcc7ec662",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-      "summary": "The Rivian R2 is, frankly, the most important vehicle Rivian has ever built. It's the car that's supposed to push Rivian over the edge on cost, scale, and profits.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/rivians-make-or-break-r2-midsize-ev-delivers-road-test-143152026.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P46mU_7FU3d4hgEX_Eus8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/r2-exterior-june-26-12_8224.jpg",
-      "published_at": "2026-08-08T14:31:52Z"
     }
   ]
 }
