@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-09 20:42 UTC",
+  "last_updated": "2026-08-09 21:27 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1c01d697-2ae8-3aa3-bce0-8aa57239eb96",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
+      "summary": "A huge backlog plus massive spending equals incredible revenue growth.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/alphabets-cloud-computing-business-just-posted-82/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IX0RvfBZCsiQGbh6CaSrIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9ada170667729b1de132446972cc3670",
+      "published_at": "2026-08-09T21:05:00Z"
+    },
+    {
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
+      "published_at": "2026-08-09T20:58:45Z"
+    },
+    {
+      "id": "1e58bd3e-0e8a-36d8-aba4-3e8f6443327c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth.",
+      "summary": "A fifth straight quarterly revenue record is the bar -- and the stock climbed 9% on Friday heading into the report.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/rocket-lab-reports-monday-night-wall-street-wants/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GjEGqMt9Obt.6S4V9U11Jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/633da7a7137e05e04b4fc4a831bb11c9",
+      "published_at": "2026-08-09T20:38:00Z"
+    },
     {
       "id": "543aeb48-8bdd-36ff-a113-75f8cd6be35a",
       "asset": "OIL",
@@ -81,20 +114,9 @@
       "published_at": "2026-08-09T19:31:00Z"
     },
     {
-      "id": "d5b6b5d5-cbea-382e-a47b-3354686ecdfb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
-      "summary": "Zuckerberg’s confirmation of AI compute scarcity strengthens the case for Iren's strategy, positioning it for substantial long-term value.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/heres-why-iren-has-an-edge-in-the-neocloud-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7vAUF3c88bmJIkSaac8d2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f35bf130faf0d4308752a0e4ee045dcb",
-      "published_at": "2026-08-09T19:20:00Z"
-    },
-    {
       "id": "881e9ace-2abc-33e2-a360-4054e99b0779",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
       "summary": "You can't go anywhere today without hearing people talk about artificial intelligence. AI is seeping into every aspect of our daily lives, for better or worse. No matter what you think about this sea change, there's no denying its existence. It's being incorporated into everything from smartwatches ...",
       "source": "TheStreet",
@@ -104,8 +126,8 @@
     },
     {
       "id": "789030c7-c278-37ae-a676-b5a794fc80e7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
       "summary": "Google Cloud grew revenue 82% during the second quarter, with nearly 90% of the Fortune 100 using the platform.",
       "source": "Motley Fool",
@@ -288,28 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/09/130-million-hack-coldcard-money-flow-bitcoin-etf/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WVLXAjtEBBf7AtEtwr4opw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9378116e9898577384758953ea0b514d",
       "published_at": "2026-08-09T15:12:00Z"
-    },
-    {
-      "id": "7608cd77-37a3-303a-8471-3ce8ef2e3747",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Mach Natural Resources (MNR) Could Be 30% Below Fair Value Following Q2 Beat",
-      "summary": "Mach Natural Resources Q2 beat and capital shift Mach Natural Resources (MNR) recently reported second quarter 2026 results that came in ahead of revenue and earnings per share estimates, while also outlining changes to its drilling mix and cash allocation plans. See our latest analysis for Mach Natural Resources. At a share price of $12.96, Mach Natural Resources has seen a 1-day share price return that declined 2.70% and a 7-day share price return that declined 4.99%. Its year to date share...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mach-natural-resources-mnr-could-151039247.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0TmvAbrR8UwmJ968fBRtIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7",
-      "published_at": "2026-08-09T15:10:39Z"
-    },
-    {
-      "id": "5b727954-3d75-3fdc-b60e-fd32c723833b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why White House Sees Gasoline Prices Falling More",
-      "summary": "As of Thursday, the U.S. Navy has redirected 53 commercial vessels in the Strait of Hormuz, and disabled and boarded two each, according to U.S. Central Command's recent update as of Saturday.  It also said it has permitted more than 30 vessels to pass through the blockade for humanitarian aid.  Oil prices hovered at $83.55 a barrel for Brent crude and around $77 a barrel for WTI as of Friday, and gasoline prices at the retail pump are at about $4.01 a gallon, down from $4.09 a week ago but up from $3.15 a gallon a year ago.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/sunday0809/card/why-white-house-sees-gasoline-prices-falling-more-OlAkneP7WzkKlkwd2VMs?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RK2ajPCTMnBGuzCey1WA4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/53cc70b5f54cfb73c05c252dc7ba6b85",
-      "published_at": "2026-08-09T15:06:22Z"
     }
   ]
 }
