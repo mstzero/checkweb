@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-09 19:29 UTC",
+  "last_updated": "2026-08-09 19:59 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f242688d-7909-3034-897f-089770eaef33",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+      "summary": "Taiwan Semiconductor is a fantastic stock pick.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/a-10000-investment-in-taiwan-semiconductor-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eyYshvpxCJSiTz4X3SDW0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9bad285855eb7c9258ba02e3944a20b2",
+      "published_at": "2026-08-09T19:50:00Z"
+    },
+    {
+      "id": "0a4b871d-ec65-310c-86a6-028c0ca93ab2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever.",
+      "summary": "This consumer staples Dividend King is down nearly 20% since its 2024 high despite its industry-leading business.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/this-dividend-stocks-moat-is-as-wide-as-it-gets-3/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DA6q4YpvHN2XUxvYyxZV2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2cdadea722d0a99b605e6708a36bb100",
+      "published_at": "2026-08-09T19:35:00Z"
+    },
+    {
+      "id": "fd4132ad-ea20-3662-b87a-f5c6322dc0ae",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+      "summary": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mwqeUWwJS8im2Mcja79MAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/d587c4cf34772d205097ad85feb851ef",
+      "published_at": "2026-08-09T19:33:09Z"
+    },
+    {
+      "id": "6f69b113-5a3d-3d58-a70f-ac7183794829",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer Just Reminded Everyone About the Most Important Aspect of Investing in SpaceX",
+      "summary": "CNBC's Jim Cramer just offered his views about how to approach an investment in SpaceX.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/jim-cramer-just-reminded-everyone-about-spacex/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zEVe_9fEO_3jB3QMrvQ56A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c457f7dc7fef856317fa046b0a4e4601",
+      "published_at": "2026-08-09T19:31:00Z"
+    },
     {
       "id": "d5b6b5d5-cbea-382e-a47b-3354686ecdfb",
       "asset": "NVDA",
@@ -70,6 +114,17 @@
       "published_at": "2026-08-09T19:03:59Z"
     },
     {
+      "id": "2841d55d-6e61-32c3-8dd6-058bc8725ba7",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "$96 Billion Japan Bond Losses Put America Debt and Bitcoin on Alert",
+      "summary": "Japan's $96B bond losses are raising concerns over US Treasuries, the yen carry trade, and Bitcoin as the BOJ faces a difficult rate path.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/japan-bond-losses-america-debt-bitcoin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.BLWaZM.xGR_L0RfiABubQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3c4417f868072ce889a0d52ebe383a55",
+      "published_at": "2026-08-09T19:02:36Z"
+    },
+    {
       "id": "690f0a5c-cc93-35fe-bc6f-e30c50f86220",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -92,15 +147,15 @@
       "published_at": "2026-08-09T18:52:00Z"
     },
     {
-      "id": "a18c05f4-d3ac-3d8a-a3e2-829c35b6b787",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Wall Street Punishes Sandisk's Outlook: What Investors Are Missing",
-      "summary": "Sandisk stock has been a huge winner over the past year, but more recently has seen its share sink.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/wall-street-punish-sandisk-outlook-investor/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EWCRk8f1.uTIUzepDsHB_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5a707a6ff0a4e952325831b321f82b64",
-      "published_at": "2026-08-09T18:36:00Z"
+      "id": "47db0ade-f559-38df-9df0-a692c8b33103",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Billionaire investor shorting SpaceX says one possible fix won't work",
+      "summary": "The bearish case against SpaceX keeps finding new voices. I've now tracked short theses from Doug Kass, warnings from the former Nasdaq CEO, my colleague’s piece on Michael Burry walking away from the trade, and Jim Cramer urging patience before the lockup expiration. Now add Peter Andersen ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-andersen-capital-management-ceo-peter-andersen-says-tesla-spacex-merger-would-make-situation-more-confusing",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tZ1gpFZs4qlvDRS_2nUK4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/f73f28ccdf58f5586811b87687228753",
+      "published_at": "2026-08-09T18:33:00Z"
     },
     {
       "id": "77135615-328d-3070-b9bb-760d61df4d52",
@@ -112,28 +167,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TgjHLGnb5D68lpSIhTYqJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d3a68ae0910cb57336f1136cbc0d89d1",
       "published_at": "2026-08-09T18:24:31Z"
-    },
-    {
-      "id": "128d423d-4793-3c16-9478-70d048230086",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
-      "summary": "Is MRVL a good stock to buy? We came across a bullish thesis on Marvell Technology, Inc. on Compounding Your Wealth’s Substack by Sergey. In this article, we will summarize the bulls’ thesis on MRVL. Marvell Technology, Inc.’s share was trading at $211.02 as of August 6th 2026. MRVL’s trailing and forward P/E were 64.45 and 46.30 […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QHTdCkG5iu.7ozintGjK4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
-      "published_at": "2026-08-09T18:19:31Z"
-    },
-    {
-      "id": "cd93bb22-8931-39b6-9bd8-3bb1f4072965",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AppLovin Revenue Jumped 53%. So Why Did the Stock Just Plunge 20%?",
-      "summary": "The stock has been cut in half this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/applovin-revenue-jump-why-stock-plunge/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w2.Zl9HGo34lTYgz20HC5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/823d27653ce84308309a6c8225378075",
-      "published_at": "2026-08-09T18:03:00Z"
     },
     {
       "id": "d4b2fc78-3222-32a3-8225-f1b696dbd55a",
@@ -178,6 +211,17 @@
       "url": "https://www.marketbeat.com/instant-alerts/wt-offshore-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0HqYd7HweaFiqLHlMI.bTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/fca75bd63ea11dfb51aecf7df81c24a1",
       "published_at": "2026-08-09T17:03:57Z"
+    },
+    {
+      "id": "43f87359-4e0a-3c9a-a554-9b59db607122",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Kevin O'Leary Sat Out SpaceX's IPO— Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
+      "summary": "Investor and television personality Kevin O’Leary said he may begin buying SpaceX shares once post-IPO volatility settles, arguing that the bigger long-term opportunity lies in Elon Musk potentially connecting SpaceX with Tesla Inc., artificial intelligence, robotics and autonomous driving. O’Leary...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sat-spacexs-ipo-170142786.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jawl01Vy7Lp1AniBC.4VOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6ea3a72554f05436c4993433c5416977",
+      "published_at": "2026-08-09T17:01:42Z"
     },
     {
       "id": "c84c19e4-e060-3fab-9b2f-1c7adfcb594f",
@@ -257,59 +301,15 @@
       "published_at": "2026-08-09T14:43:00Z"
     },
     {
-      "id": "d0c6b630-ce13-3ca1-99a8-780ffbca41bd",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
-      "summary": "Tech stocks zip about on the latest AI expectations. Plus: A Financial Flashback to 55 years ago, when Nixon dropped the gold standard.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PeHm3ptqml8t4RBOcy8WtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/86cb862fa4924f2d95974974d2ec2050",
-      "published_at": "2026-08-09T13:00:00Z"
-    },
-    {
-      "id": "e8b87124-cebe-330b-b146-a153e89544c2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) vs BlackRock’s IBIT: Which Bitcoin Bet Has Held Up Better in 2026?",
-      "summary": "Both IBIT and MSTR promised Bitcoin exposure, but in 2026 they delivered very different kinds of pain. Before you decide which one deserves a spot in your portfolio, you need to understand what you are actually buying with each.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/09/strategy-mstr-vs-blackrocks-ibit-which-bitcoin-bet-has-held-up-better-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I.7vBS_uZNrEpDnjlS9rEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/93e5f8eeb442315421316cd613dc86cd",
-      "published_at": "2026-08-09T12:55:49Z"
-    },
-    {
-      "id": "4428b54d-94bd-4802-a53c-e5f0e8b6dfe9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How AI agents can power the S&P 500 higher",
-      "summary": "AI agents are only getting more powerful.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/O_4CZmtkb2IPYYMYHP8jTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/0f72d122-72f0-4533-a9f2-71bf7c7d5324",
-      "published_at": "2026-08-09T12:30:00Z"
-    },
-    {
-      "id": "71175552-77ba-3a3d-9a7b-f1a615ab809c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%",
-      "summary": "Within the next five years, Bitcoin could soar past the $1 million price level.",
+      "id": "801e8ebd-8d02-3b26-99e7-9111ca803103",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
+      "summary": "The Boring Company's valuation has nearly quadrupled in four years, but what exactly are investors getting?",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-cathie-woods-ark-invest/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LGbIt57Q6HVGMqdMlBjUVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/27cc1958eeca26d51fb9d2b1101823d5",
-      "published_at": "2026-08-09T12:13:00Z"
-    },
-    {
-      "id": "adc84f35-0451-3a94-8827-b2abd1a6d6b9",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
-      "summary": "Apple has been testing memory chips from China's ‌CXMT across product lines including ‌iPhones and MacBooks, to mitigate a component shortage ​fueled by the AI boom, the Wall Street Journal reported on Sunday.  Apple held early talks with CXMT, which ‌is China's ⁠largest chipmaker by market value, about supplying components with ⁠the goal of using them in some devices sold in China, the ​report said, ​citing people ​familiar with the ‌matter.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6yyj_CGGqlC9340kN0sN0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/f167040594dbe7d66910d45145175a5b",
-      "published_at": "2026-08-09T12:06:55Z"
+      "url": "https://www.fool.com/investing/2026/08/09/elon-musk-boring-company-raise-money-tesla/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_8U9Y_5r4_sa.9Ygp9_jAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/679241fce0830f760c83499ae2acffb9",
+      "published_at": "2026-08-09T13:05:00Z"
     }
   ]
 }
