@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-09 19:59 UTC",
+  "last_updated": "2026-08-09 20:42 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "543aeb48-8bdd-36ff-a113-75f8cd6be35a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stock Futures to Begin Another Week of Iran Uncertainty",
+      "summary": "This week brings the latest reading on consumer inflation plus earnings from artificial intelligence companies.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-0b7df51c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wBOcRFFBLCyCoJx5ssxd1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/448fa49060e57238aed65d6f21c5ada3",
+      "published_at": "2026-08-09T20:28:00Z"
+    },
+    {
+      "id": "5aa74010-26f4-3d73-aba2-25bb4a1fa985",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Unpacking the Latest Pullback in Micron Stock",
+      "summary": "AI spending worries spread like wildfire.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/unpacking-the-latest-pullback-in-micron-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cNMJZaMK4ezvcLfghWaRKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8d812ec655259ecc535963678dba987b",
+      "published_at": "2026-08-09T20:20:00Z"
+    },
+    {
+      "id": "68918e97-880a-3eb0-a37c-eff65b4061e2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why MercadoLibre Stock Jumped 11% in July",
+      "summary": "Investors were seizing the opportunity ahead of earnings.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/why-mercadolibre-stock-jumped-11-in-july/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4BDFtOWGg5EpBxDKPz8vzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8857e77abcf16050c38711dc278fd89",
+      "published_at": "2026-08-09T19:56:45Z"
+    },
     {
       "id": "f242688d-7909-3034-897f-089770eaef33",
       "asset": "NVDA",
@@ -126,25 +159,14 @@
     },
     {
       "id": "690f0a5c-cc93-35fe-bc6f-e30c50f86220",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
       "summary": "Tim Cook's 15-year tenure has proven to be one of the best in corporate history.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/09/if-bought-apple-stock-when-steve-jobs-tim-cook/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YXzqszoeNMsQGGzXBTZuTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ab076a1536876c404634d81150a916aa",
       "published_at": "2026-08-09T18:56:00Z"
-    },
-    {
-      "id": "c189706a-679b-3410-89ec-16640ddafb9b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Atlassian Jumped More Than 30% After Guiding Next Year's Growth Down to 18%. The Market Bought the Margins.",
-      "summary": "A slower forecast and a soaring stock look like a contradiction. The profit line resolves it.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/atlassian-jumped-more-than-30-after-guiding-next-y/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bbo5QVB66tVEFCM6N_TCgg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c75d58d6025271f112189af2537543e1",
-      "published_at": "2026-08-09T18:52:00Z"
     },
     {
       "id": "47db0ade-f559-38df-9df0-a692c8b33103",
@@ -288,28 +310,6 @@
       "url": "https://www.barrons.com/livecoverage/sunday0809/card/why-white-house-sees-gasoline-prices-falling-more-OlAkneP7WzkKlkwd2VMs?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RK2ajPCTMnBGuzCey1WA4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/53cc70b5f54cfb73c05c252dc7ba6b85",
       "published_at": "2026-08-09T15:06:22Z"
-    },
-    {
-      "id": "e67223ba-0efe-3cec-995f-64194fc96f0f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-      "summary": "Six days like it since February 2022. Their aftermaths don't agree.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/microsoft-sits-12-below-its-high-after-the-largest/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CVYkZTPR5z5sXsHhiOgvDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c0b03043229905b201a30db93f5c2e6b",
-      "published_at": "2026-08-09T14:43:00Z"
-    },
-    {
-      "id": "801e8ebd-8d02-3b26-99e7-9111ca803103",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
-      "summary": "The Boring Company's valuation has nearly quadrupled in four years, but what exactly are investors getting?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/elon-musk-boring-company-raise-money-tesla/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_8U9Y_5r4_sa.9Ygp9_jAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/679241fce0830f760c83499ae2acffb9",
-      "published_at": "2026-08-09T13:05:00Z"
     }
   ]
 }
