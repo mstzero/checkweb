@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-09 23:26 UTC",
+  "last_updated": "2026-08-09 23:58 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "fd5c3fff-c93f-3190-bc6a-55c6a7f54394",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors",
+      "summary": "This detail from their earnings reports could spell trouble for Micron's stock in the long run.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/sk-hynix-and-samsung-just-sent-a-major-warning-to/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gZ5r6vQtjao7Z93nVX9MMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b6dde3547ce7c89df9b66e2f112b1c8e",
+      "published_at": "2026-08-09T23:50:00Z"
+    },
+    {
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
+      "published_at": "2026-08-09T23:43:30Z"
+    },
+    {
+      "id": "37a22f5a-5124-39ce-981f-8b9f70fa1fe2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+      "summary": "The market is unclear whether the Fed will hike interest rates at its September meeting.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/federal-reserve-just-released-august-inflation/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GI2_.VYU.h9XOYlKdWHy1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af6a82929662e10f3bfa0bbdd6946ad5",
+      "published_at": "2026-08-09T23:28:24Z"
+    },
+    {
+      "id": "fbba41fe-e5c6-3cd1-88a9-fbf7150bca59",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why QXO, Inc. Fell Over 20% in July",
+      "summary": "The building materials distribution platform declined after closing a major acquisition, while interest rates and oil prices rose.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/why-qxo-inc-fell-over-20-in-july/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_N53T8dTh.L0Qqzb6wVCJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3f4ed71c929a16728e1d61c9bce10417",
+      "published_at": "2026-08-09T23:20:00Z"
+    },
     {
       "id": "656fdefd-2c7e-361b-92f1-a9b3a145ef8e",
       "asset": "NVDA",
@@ -26,15 +70,15 @@
       "published_at": "2026-08-09T23:01:00Z"
     },
     {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
-      "published_at": "2026-08-09T22:56:31Z"
+      "id": "c21f5725-0541-312a-92b2-f5c6fa7795ad",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why Trump’s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
+      "summary": "Trump is considering extending the Jones Act waiver as gasoline prices above $4 per gallon become a growing political risk ahead of the midterms.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/why-trump-waiver-jones-act-230000493.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F5V4Ln.GrpvxcRQIHb3WaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/723150307535fc082b56c9910abba4d6",
+      "published_at": "2026-08-09T23:00:00Z"
     },
     {
       "id": "0d6a53db-13a3-322a-bcfe-eb699d533b2c",
@@ -90,39 +134,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/canaccord-genuity-group-q1-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QvRdbfUtMkkD4WCtAQ7W7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/360f0c501c27a0aecfe1190c55d235f5",
       "published_at": "2026-08-09T22:03:47Z"
-    },
-    {
-      "id": "f656af4e-ee00-3d50-8847-ef893c9cab02",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 Billion of It.",
-      "summary": "The conglomerate's 16% jump looks impressive until you see which line did most of the lifting.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/berkshires-operating-earnings-rose-18-billion-last/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ngLLD8zk8YLgD199g_TPIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/18adcf32df5337a8a195ca3cddb7c191",
-      "published_at": "2026-08-09T21:49:00Z"
-    },
-    {
-      "id": "d1179cc0-1d95-3350-8e0e-32d88d1fbae0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Shopify Stock Soared This Week",
-      "summary": "Smaller merchants are benefiting disproportionately from AI agent-driven purchases.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/why-shopify-stock-soared-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ySJHKQJ0XeAmkFVLOTQSCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c7c814ff177b6ff40e831490fdb6b23",
-      "published_at": "2026-08-09T21:41:19Z"
-    },
-    {
-      "id": "7011131a-28d5-3e24-8fa8-012f3da798ae",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Big Mistakes IRA Savers Make -- and How to Fix Them",
-      "summary": "Any of these could derail your efforts.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/retirement/2026/08/09/3-big-mistakes-ira-savers-make-and-how-to-fix-them/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xe65zWfNo7QFQhw.xrdHkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3911302d75b0a5fb73486986b3fbfc0a",
-      "published_at": "2026-08-09T21:38:00Z"
     },
     {
       "id": "2f9e5fcb-0571-38b3-aa2d-4fec9ac8c66f",
@@ -299,17 +310,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/wt-offshore-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0HqYd7HweaFiqLHlMI.bTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/fca75bd63ea11dfb51aecf7df81c24a1",
       "published_at": "2026-08-09T17:03:57Z"
-    },
-    {
-      "id": "43f87359-4e0a-3c9a-a554-9b59db607122",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Kevin O'Leary Sat Out SpaceX's IPO— Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
-      "summary": "Investor and television personality Kevin O’Leary said he may begin buying SpaceX shares once post-IPO volatility settles, arguing that the bigger long-term opportunity lies in Elon Musk potentially connecting SpaceX with Tesla Inc., artificial intelligence, robotics and autonomous driving. O’Leary...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sat-spacexs-ipo-170142786.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jawl01Vy7Lp1AniBC.4VOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6ea3a72554f05436c4993433c5416977",
-      "published_at": "2026-08-09T17:01:42Z"
     }
   ]
 }
