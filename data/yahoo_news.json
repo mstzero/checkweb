@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-09 21:58 UTC",
+  "last_updated": "2026-08-09 22:36 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
+      "published_at": "2026-08-09T22:24:54Z"
+    },
+    {
+      "id": "87cc1f20-ef3c-36d7-9e79-488b138a7f78",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Apple CEO Tim Cook Just Passed His Successor a Mess",
+      "summary": "Rising memory chip prices could be a difficult challenge for new CEO John Ternus.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/apple-ceo-tim-cook-just-passed-his-successor-a-mes/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M4IiAFyYfYKjmvPXlgd1LA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c288470c0a2e68e641edfa9ea567d189",
+      "published_at": "2026-08-09T22:20:00Z"
+    },
+    {
+      "id": "543aeb48-8bdd-36ff-a113-75f8cd6be35a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stock Futures Little Changed to Begin Another Week of Iran Uncertainty",
+      "summary": "This week brings the latest reading on consumer inflation plus earnings from artificial intelligence companies.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-0b7df51c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wBOcRFFBLCyCoJx5ssxd1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/448fa49060e57238aed65d6f21c5ada3",
+      "published_at": "2026-08-09T22:11:00Z"
+    },
+    {
+      "id": "91ddff06-8374-34d9-bcf2-9e0134806c3d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: This Cryptocurrency Could Go Parabolic After the 2026 Midterm Elections",
+      "summary": "The Clarity Act could be a major unlock for XRP, if it passes and gets signed into law.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/prediction-this-cryptocurrency-could-go-parabolic/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6TJYXUIm3MuiPGWoHk_PLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f63a4299a74e2dba78d263d1ff4d405b",
+      "published_at": "2026-08-09T22:05:00Z"
+    },
+    {
+      "id": "5482a401-10eb-3b8a-8aea-a5b615176662",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Canaccord Genuity Group Q1 Earnings Call Highlights",
+      "summary": "Canaccord Genuity Group (TSE:CF) reported stronger fiscal 2027 first-quarter results as growth in wealth management and capital markets lifted revenue and profitability, supported by favorable equity markets, higher client activity and expense discipline. Firm-wide revenue rose 29% from a year earl",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/canaccord-genuity-group-q1-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QvRdbfUtMkkD4WCtAQ7W7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/360f0c501c27a0aecfe1190c55d235f5",
+      "published_at": "2026-08-09T22:03:47Z"
+    },
     {
       "id": "f656af4e-ee00-3d50-8847-ef893c9cab02",
       "asset": "NVDA",
@@ -68,50 +123,6 @@
       "url": "https://www.fool.com/investing/2026/08/09/alphabets-cloud-computing-business-just-posted-82/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IX0RvfBZCsiQGbh6CaSrIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9ada170667729b1de132446972cc3670",
       "published_at": "2026-08-09T21:05:00Z"
-    },
-    {
-      "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FYWTrNQ9sMa_jEgHDCDnBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e",
-      "published_at": "2026-08-09T20:58:45Z"
-    },
-    {
-      "id": "1e58bd3e-0e8a-36d8-aba4-3e8f6443327c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth.",
-      "summary": "A fifth straight quarterly revenue record is the bar -- and the stock climbed 9% on Friday heading into the report.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/rocket-lab-reports-monday-night-wall-street-wants/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GjEGqMt9Obt.6S4V9U11Jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/633da7a7137e05e04b4fc4a831bb11c9",
-      "published_at": "2026-08-09T20:38:00Z"
-    },
-    {
-      "id": "543aeb48-8bdd-36ff-a113-75f8cd6be35a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Futures to Begin Another Week of Iran Uncertainty",
-      "summary": "This week brings the latest reading on consumer inflation plus earnings from artificial intelligence companies.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-0b7df51c?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wBOcRFFBLCyCoJx5ssxd1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/448fa49060e57238aed65d6f21c5ada3",
-      "published_at": "2026-08-09T20:28:00Z"
-    },
-    {
-      "id": "5aa74010-26f4-3d73-aba2-25bb4a1fa985",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Unpacking the Latest Pullback in Micron Stock",
-      "summary": "AI spending worries spread like wildfire.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/unpacking-the-latest-pullback-in-micron-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cNMJZaMK4ezvcLfghWaRKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8d812ec655259ecc535963678dba987b",
-      "published_at": "2026-08-09T20:20:00Z"
     },
     {
       "id": "fd4132ad-ea20-3662-b87a-f5c6322dc0ae",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/09/forget-vfiax-vanguard-sells-you-the-same-sp-500-fund-without-the-3000-toll-or-the-75-fee-fidelity-charges-to-buy-it/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SLSmJ5INnElTFuDN46.W1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31bcfdd909aa21239f30255897bf0b34",
       "published_at": "2026-08-09T16:04:46Z"
-    },
-    {
-      "id": "8e1dc660-e412-3e89-a8f5-c58e215fca27",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "European Stock ETFs Post First Positive Month Since the Iran War Started",
-      "summary": "European stock ETFs saw their first positive month since February as banks turned bullish on the Stoxx 600 rally.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/european-stock-etfs-july-inflows-return/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/chabEZgYwnPROjE_P30ewA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c66a0f9a62c09a310adfcd0e6d653d59",
-      "published_at": "2026-08-09T16:00:00Z"
     }
   ]
 }
