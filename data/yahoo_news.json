@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-09 21:27 UTC",
+  "last_updated": "2026-08-09 21:58 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f656af4e-ee00-3d50-8847-ef893c9cab02",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Berkshire's Operating Earnings Rose $1.8 Billion Last Quarter. A Currency Swing Was $1.2 Billion of It.",
+      "summary": "The conglomerate's 16% jump looks impressive until you see which line did most of the lifting.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/berkshires-operating-earnings-rose-18-billion-last/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ngLLD8zk8YLgD199g_TPIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/18adcf32df5337a8a195ca3cddb7c191",
+      "published_at": "2026-08-09T21:49:00Z"
+    },
+    {
+      "id": "d1179cc0-1d95-3350-8e0e-32d88d1fbae0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Shopify Stock Soared This Week",
+      "summary": "Smaller merchants are benefiting disproportionately from AI agent-driven purchases.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/why-shopify-stock-soared-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ySJHKQJ0XeAmkFVLOTQSCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3c7c814ff177b6ff40e831490fdb6b23",
+      "published_at": "2026-08-09T21:41:19Z"
+    },
+    {
+      "id": "7011131a-28d5-3e24-8fa8-012f3da798ae",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Big Mistakes IRA Savers Make -- and How to Fix Them",
+      "summary": "Any of these could derail your efforts.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/08/09/3-big-mistakes-ira-savers-make-and-how-to-fix-them/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xe65zWfNo7QFQhw.xrdHkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3911302d75b0a5fb73486986b3fbfc0a",
+      "published_at": "2026-08-09T21:38:00Z"
+    },
+    {
+      "id": "a3fabbb2-6a05-3fb1-a199-1d7348d632c9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Upstart Stock Plunged 23% in July",
+      "summary": "The market sees too many risks right now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/why-upstart-stock-plunged-23-in-july/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YmFegAgI.Ivs9CrpDAQNgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/606cbd8f3630fdbc9c2c77650b630699",
+      "published_at": "2026-08-09T21:31:30Z"
+    },
+    {
+      "id": "7895d29a-0d85-3dce-b919-d58f2aa503f2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is IREN (IREN) Expensive On Its AI Cloud Pivot Or Still Worth A Look?",
+      "summary": "IREN (NasdaqGS:IREN) is drawing fresh attention after management outlined a pivot toward AI-focused cloud computing, highlighting plans for large scale GPU deployments and data center build outs alongside a reduced emphasis on Bitcoin mining. See our latest analysis for IREN. IREN's 1-day share price return of 8.70% and 7-day share price return of 12.04% suggest investors are reacting to the AI cloud shift, even though the 90-day share price return is down 25.24%. At the same time, the 1-year...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-expensive-ai-cloud-210908714.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-08-09T21:09:08Z"
+    },
     {
       "id": "1c01d697-2ae8-3aa3-bce0-8aa57239eb96",
       "asset": "NVDA",
@@ -59,39 +114,6 @@
       "published_at": "2026-08-09T20:20:00Z"
     },
     {
-      "id": "68918e97-880a-3eb0-a37c-eff65b4061e2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why MercadoLibre Stock Jumped 11% in July",
-      "summary": "Investors were seizing the opportunity ahead of earnings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/why-mercadolibre-stock-jumped-11-in-july/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4BDFtOWGg5EpBxDKPz8vzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e8857e77abcf16050c38711dc278fd89",
-      "published_at": "2026-08-09T19:56:45Z"
-    },
-    {
-      "id": "f242688d-7909-3034-897f-089770eaef33",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
-      "summary": "Taiwan Semiconductor is a fantastic stock pick.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/a-10000-investment-in-taiwan-semiconductor-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eyYshvpxCJSiTz4X3SDW0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9bad285855eb7c9258ba02e3944a20b2",
-      "published_at": "2026-08-09T19:50:00Z"
-    },
-    {
-      "id": "0a4b871d-ec65-310c-86a6-028c0ca93ab2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold Forever.",
-      "summary": "This consumer staples Dividend King is down nearly 20% since its 2024 high despite its industry-leading business.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/this-dividend-stocks-moat-is-as-wide-as-it-gets-3/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DA6q4YpvHN2XUxvYyxZV2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2cdadea722d0a99b605e6708a36bb100",
-      "published_at": "2026-08-09T19:35:00Z"
-    },
-    {
       "id": "fd4132ad-ea20-3662-b87a-f5c6322dc0ae",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -101,17 +123,6 @@
       "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mwqeUWwJS8im2Mcja79MAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/d587c4cf34772d205097ad85feb851ef",
       "published_at": "2026-08-09T19:33:09Z"
-    },
-    {
-      "id": "6f69b113-5a3d-3d58-a70f-ac7183794829",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jim Cramer Just Reminded Everyone About the Most Important Aspect of Investing in SpaceX",
-      "summary": "CNBC's Jim Cramer just offered his views about how to approach an investment in SpaceX.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/jim-cramer-just-reminded-everyone-about-spacex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zEVe_9fEO_3jB3QMrvQ56A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c457f7dc7fef856317fa046b0a4e4601",
-      "published_at": "2026-08-09T19:31:00Z"
     },
     {
       "id": "881e9ace-2abc-33e2-a360-4054e99b0779",
@@ -299,17 +310,6 @@
       "url": "https://beincrypto.com/european-stock-etfs-july-inflows-return/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/chabEZgYwnPROjE_P30ewA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c66a0f9a62c09a310adfcd0e6d653d59",
       "published_at": "2026-08-09T16:00:00Z"
-    },
-    {
-      "id": "dfbe6e4c-3949-389e-90de-cb6d49be3423",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.",
-      "summary": "Institutions might start to win more trust from investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/130-million-hack-coldcard-money-flow-bitcoin-etf/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WVLXAjtEBBf7AtEtwr4opw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9378116e9898577384758953ea0b514d",
-      "published_at": "2026-08-09T15:12:00Z"
     }
   ]
 }
