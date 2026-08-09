@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-08-09 11:03 UTC",
+  "last_updated": "2026-08-09 11:54 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "084b4a84-90a5-4048-a133-f1491e945f56",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+      "summary": "The latest monthly jobs report could take the pressure off the Fed to hike rates.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hSRcB5Y7Fgq6.BSST66bCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/cd9906b7-88c3-4edf-9c8d-27e4ed1ab468",
+      "published_at": "2026-08-09T11:35:29Z"
+    },
+    {
+      "id": "9f345f7f-bb9d-48bf-be0d-adcd82ca65cd",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold's breakout could force investors back in: Chart of the Day",
+      "summary": "Gold just had its best week since February — the investors who once crowded the trade are mostly gone.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/golds-breakout-could-force-investors-back-in-chart-of-the-day-113004349.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AL1BSgRauDpDlrPKykf09Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/1a0c48d6-a6c7-426c-aa09-f7d509f4e2c6",
+      "published_at": "2026-08-09T11:30:04Z"
+    },
+    {
+      "id": "51ab5930-786d-36fc-bb3a-4384bea80f82",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's How Many Shares of Realty Income (O) Stock You'd Need for $1,000 in Monthly Dividends",
+      "summary": "This stock should be especially attractive to some for its monthly dividend. (It recently yielded 5.12%, too.)",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/heres-how-many-shares-of-realty-income-o-stock-you/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rmVL.aLHOpS4Ngci98prWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f8ec3445474c9deeffcc7848d09e768f",
+      "published_at": "2026-08-09T11:25:00Z"
+    },
+    {
+      "id": "91de9f92-b383-3aa4-92f6-47b1e96925aa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Hidden Cost of International ETFs: How Much Currency Risk Actually Ate Into Returns Over the Last Decade",
+      "summary": "Hedging out currency exposure in an international stock ETF over the past decade would have saved thousands of dollars.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/hidden-cost-international-etfs-currency-risk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6GpxSdL63ErAzVmPg48fPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b4d0748084c1b9fb8d87eb4653a7841b",
+      "published_at": "2026-08-09T11:20:00Z"
+    },
+    {
+      "id": "9d082304-567f-3d20-8f7b-7eebe4f3bfaa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
+      "summary": "Huang's stock advice could become even more valuable in 2027.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/nvidia-ceo-jensen-huang-ai-stock-sell-off/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V_IVQbxgo3JTBvbv20QmAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6f8803d7954824b9bbab17ed670114ce",
+      "published_at": "2026-08-09T11:15:00Z"
+    },
+    {
+      "id": "71390720-0e5e-3009-a745-7c067cabb2e0",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "3 Crypto Earnings to Watch This Week After Q1 Losses",
+      "summary": "Bitdeer, Forward, and Bit Digital report this week after sharp Q1 losses. Bitdeer stock jumped 83% in Q2. Here's what to watch.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/crypto-earnings-to-watch-in-august/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TPvm6eM_V0sucUfIAlXxsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1c02a1328f988ff3d2b37774f1397d8c",
+      "published_at": "2026-08-09T11:14:38Z"
+    },
+    {
+      "id": "95e4eaae-71f7-364a-a50e-54f36307a62f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If the SpaceX Stock Price Falls to $63, Here's What History Suggests Could Happen Next",
+      "summary": "If the SpaceX stock price drops to $63, history suggests that would be a buying opportunity.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/09/if-the-spacex-stock-price-falls-to-63-heres-what-h/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AGXBUVod2XsG1RQmHND33g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/674b8547a142236be6f3bc76253bd5eb",
+      "published_at": "2026-08-09T11:05:00Z"
+    },
+    {
+      "id": "d0f89ead-912f-3dc7-9dae-28be0f0048c3",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Texas Pacific Land Q2 Earnings Call Highlights",
+      "summary": "Texas Pacific Land (NYSE:TPL) reported record quarterly revenue, net income and free cash flow for the second quarter of 2026, supported by higher oil and gas royalty production, produced-water royalty volumes and surface-related revenue. Chief Executive Officer Ty Glover said the company generated",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/texas-pacific-land-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bhp0IyVRM2zU_mo2V9Zs1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/adbc2b834a0d79bd16332b3dc96927af",
+      "published_at": "2026-08-09T11:03:52Z"
+    },
     {
       "id": "60139b72-baa1-3ecb-af99-84ef3a1c1061",
       "asset": "NVDA",
@@ -13,6 +101,17 @@
       "url": "https://www.fool.com/investing/2026/08/09/stock-market-do-something-4-times-1997-wall-street/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vXBeK6SEM2SSUU9a5M5t8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/05df2a55282e185e220d7699e802f96c",
       "published_at": "2026-08-09T10:56:00Z"
+    },
+    {
+      "id": "448a2617-3aeb-371c-ba7a-96a99f54282b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites",
+      "summary": "The iPhone maker has held early talks with China’s CXMT, but any deal would be politically sensitive.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.vfuuzSq5tK_2fLg6rladg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2b10d573703dbae4f28a6596702ffd21",
+      "published_at": "2026-08-09T10:54:00Z"
     },
     {
       "id": "e85ceab2-1574-3af0-88f6-d67c19db2b2f",
@@ -70,20 +169,9 @@
       "published_at": "2026-08-09T10:31:26Z"
     },
     {
-      "id": "3aac514a-cb10-3cc6-9a43-84ad7eff5cfa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Elon Musk's SpaceX Just Delivered Its First Earnings Report as a Public Company. Here's the 1 Number That Matters Most.",
-      "summary": "The market is zooming in on SpaceX's high level of artificial intelligence-related spending.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/elon-musk-spacex-first-earning-report/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LgPyESt_H9MzTANeZziNkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bbb341279e5dd257b6cc1ad613241a48",
-      "published_at": "2026-08-09T10:25:00Z"
-    },
-    {
       "id": "9eafa493-1791-3f40-b05a-98f0e1700603",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
       "summary": "Micron and Sandisk are primed to cash in on huge growth.",
       "source": "Motley Fool",
@@ -114,17 +202,6 @@
       "published_at": "2026-08-09T10:12:00Z"
     },
     {
-      "id": "7c39b447-d865-3f94-988e-9895e5a9b9bb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "There's a 58% Chance of a Fed Rate Hike in October. These Are Stocks to Buy Anyway.",
-      "summary": "The odds are pretty good that higher rates are ahead. But some stocks can still flourish.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/theres-a-58-chance-of-a-fed-rate-hike-in-october-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6B2XH2MDHAQDzI4F74segg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1a29b0875a93f1eb4aa5b7ed3736d2d8",
-      "published_at": "2026-08-09T10:01:00Z"
-    },
-    {
       "id": "03006b14-d833-3463-8aff-1da3e9794b22",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -134,17 +211,6 @@
       "url": "https://beincrypto.com/grayscale-crypto-advance-without-clarity-act/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A2C0ZWQfXKF8XtkRLJ4pNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/fad7f6ce3a5f7ee8e2ba3e9c14f665dd",
       "published_at": "2026-08-09T09:57:31Z"
-    },
-    {
-      "id": "d6893482-fc9c-39dd-ae84-de811a8ea283",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
-      "summary": "Concerns over order quality, stock dilution, and ongoing investigations are keeping Supermicro stock under pressure.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/super-micro-computer-landed-60-billion-in-orders/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PFe60uMrTOCq4Vy4vB4NuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7346522d00a6edf156e0355cbf99847d",
-      "published_at": "2026-08-09T09:50:00Z"
     },
     {
       "id": "876b70c7-c057-34b4-ba6a-335ad22db5ca",
@@ -244,72 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/09/moonshot-ais-28-trillion-parameter-model-just-beca/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hz1R5A2Eyl6q4f3pVkoNHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2972fbf85bec450c4023663cfa8422b1",
       "published_at": "2026-08-09T05:20:00Z"
-    },
-    {
-      "id": "f64a47ee-e405-39e9-b911-9752a0bb2f5e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Iran sets sweeping U.S. conditions for reopening Strait of Hormuz",
-      "summary": "Investing.com -- Iran said reopening the Strait of Hormuz would require compensation from the United States, an end to sanctions and the naval blockade of Iranian ports, the release of frozen assets and the withdrawal of U.S. forces from around the country, Bloomberg reported.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/energy/articles/fire-saudi-aramco-jazan-refinery-043350430.html",
-      "thumbnail": "",
-      "published_at": "2026-08-09T04:33:50Z"
-    },
-    {
-      "id": "1bcb3552-4634-36b0-9f9a-a46a6d0f49ab",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Brightstar Resources (ASX:BTR) Heads To Diggers And Dealers, Is It Fully Priced?",
-      "summary": "Brightstar Resources (ASX:BTR) is in focus after confirming its slot at the Diggers & Dealers Mining Forum in Kalgoorlie, where Managing Director Alexander Bevington Rovira is set to outline the company’s gold portfolio. See our latest analysis for Brightstar Resources. Brightstar Resources’ A$0.425 share price comes after a sharp 7 day share price return of 32.81% and a 30 day share price return of 28.79%. However, the year to date share price return is down 15.84% and the 5 year total...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/brightstar-resources-asx-btr-heads-042620443.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
-      "published_at": "2026-08-09T04:26:20Z"
-    },
-    {
-      "id": "450f2898-5d3c-3ffa-a995-61bc6e5b6f80",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "What Does Take Two Interactive Software (TTWO) Confirming GTA VI Mean Now?",
-      "summary": "Take-Two Interactive Software (NasdaqGS:TTWO) confirmed the official Grand Theft Auto VI launch date and reported unprecedented pre-order demand. The company released first quarter financial results that exceeded analyst revenue expectations and outlined current performance priorities. Management highlighted Grand Theft Auto VI as a key product focus, alongside broader portfolio and cost discipline plans. For readers watching Take-Two and looking for more ideas in related areas, the next...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-interactive-software-ttwo-020710440.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/467eqZ0FwkqocQqENGo76A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f03d17bfb9bd39baa89c6655dcfb03d3",
-      "published_at": "2026-08-09T02:07:10Z"
-    },
-    {
-      "id": "a705a76a-7a00-33df-9390-7eb7c13c0ab5",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-      "summary": "Elon Musk is a polarizing figure, and buying Tesla means you are deferring to his management decisions.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/08/elon-musk-owns-20-of-tesla-a-stake-worth-roughly-2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YSUScEobdCAzVmtCRPi.OA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ef2b19795b23ab13762354affa19de84",
-      "published_at": "2026-08-09T01:35:00Z"
-    },
-    {
-      "id": "cee5605c-5f1b-3105-b5fc-4a15fdc76624",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Permian Resources Q2 Earnings Call Highlights",
-      "summary": "Permian Resources (NYSE:PR) reported record second-quarter free cash flow of $751 million, or $0.88 per share, as higher oil production, increased working interests in completed wells and a rapid response to commodity-price movements supported results. Co-Chief Executive Officer Will Hickey said fr",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/permian-resources-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w6YFKSTf.30I.ShWbQ.jhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/5ae8827c83f073f31fb9a2a480eefe9f",
-      "published_at": "2026-08-09T01:03:59Z"
-    },
-    {
-      "id": "d90d5d9f-28d5-3331-a482-58a90e7452b1",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Petroleo Brasileiro S.A.- Petrobras Q2 Earnings Call Highlights",
-      "summary": "Petroleo Brasileiro S.A.- Petrobras (NYSE:PBR) reported record operating and financial performance for the second quarter of 2026, supported by higher oil production, refinery utilization, exports and Brent crude prices, executives said during the company’s webcast with analysts and investors. Pres",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/petroleo-brasileiro-sa-petrobras-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VKGnXkuimAnVuvx6QqVFsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/da6dc73f2cd20eae408b29d939d2286e",
-      "published_at": "2026-08-09T01:03:58Z"
     }
   ]
 }
