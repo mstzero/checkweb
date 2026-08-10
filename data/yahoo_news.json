@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-08-10 05:54 UTC",
+  "last_updated": "2026-08-10 07:24 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "d3b59b39-b749-3429-99f0-034817f58803",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla (TSLA) Rumors Swirl Over China Split Ahead Of Possible Merger",
+      "summary": "Tesla (NasdaqGS:TSLA) is at the center of new market rumors that it may separate its China business and prepare for a potential merger with SpaceX. Unconfirmed options reported for Tesla's China operations include a possible sale, spinoff, or closure ahead of any combination with SpaceX. CEO Elon Musk and Tesla representatives have publicly denied that such merger and separation talks are taking place. The speculation focuses investor attention on Tesla's access to China-based supply chains,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-rumors-swirl-over-070951483.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+      "published_at": "2026-08-10T07:09:51Z"
+    },
+    {
+      "id": "5e655aa9-b9a5-33d3-adc1-daf4605db16d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil steady as Iran tempers hopes for swift Hormuz reopening",
+      "summary": "By Sethuraman N R and Helen Clark NEW DELHI/PERTH, Aug 10 (Reuters) - Oil prices were little changed on Monday after surrendering earlier gains, as optimism over talks to reopen the Strait of Hormuz",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-rises-uncertainty-over-reopening-005834869.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XP.vPZoJe3i0OZ5GYvQlbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d4af57f4253c7db5bc4acfed3567bc32",
+      "published_at": "2026-08-10T06:55:07Z"
+    },
+    {
+      "id": "b1bc81b3-6537-3754-bfa8-01f426737d77",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "BKV Q2 Deep Dive: Power, Upstream, and Carbon Capture Drive Integrated Growth",
+      "summary": "Natural gas producer BKV (NYSE:BKV) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 44.6% year on year to $465.5 million. Its GAAP profit of $0.67 per share was significantly above analysts’ consensus estimates.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/energy/articles/bkv-q2-deep-dive-power-064522519.html",
+      "thumbnail": "",
+      "published_at": "2026-08-10T06:45:22Z"
+    },
+    {
+      "id": "291812b5-4620-3f8e-bdfa-4862462bad10",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
+      "summary": "Shares were mixed in Asia on Monday, with Japan’s Nikkei 225 leading advances after stocks rose on Wall Street, ending last week with gains.  Oil prices rose and U.S. futures were little changed.  In Tokyo, the benchmark Nikkei 225 jumped 2% to 66,890.02, pulled higher by strong gains for technology companies.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3Nv.gQoYAHQipc7o3NRYcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/7a627380b45dcbead020541d5aa8a85a",
+      "published_at": "2026-08-10T06:26:49Z"
+    },
+    {
+      "id": "3084ea0e-0d7a-3785-8507-7826a17221eb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
+      "summary": "Sandisk overdelivered from its guidance and is down sharply because of it. That doesn't make much sense.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/10/prediction-sandisk-will-reclaim-its-all-time-high/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bgIuGmFMWg0wrnz3bX.pkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a47872903aa33c508ec284f89d441f61",
+      "published_at": "2026-08-10T06:20:00Z"
+    },
+    {
+      "id": "6d3eff1c-4fff-3d70-ae02-53edb5363bb9",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Coinsbuy Faces Reported $7.9 Million Crypto Hack Amid Rising 2026 Attacks",
+      "summary": "Coinsbuy reportedly lost $7.9 million in a crypto hack, with attackers laundering stolen funds into Monero (XMR).",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/coinsbuy-hack-crypto-august/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/myMYWsOjKzmxdsV4ysTMTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/0edc739ac17d2908b731297a99b99006",
+      "published_at": "2026-08-10T05:54:03Z"
+    },
+    {
+      "id": "bb48b4f9-6291-3f28-9aeb-5584546af1e2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+      "summary": "Rising tensions around Iran aren't just moving oil markets; they're reshaping the investment case for the defense companies building tomorrow's battlefield.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/10/iran-tensions-highlight-defense-supply-gaps-poised/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gtME0Y4ifRbzBVIHO1By.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9b574ea32675f07fa9f0b2a06b1498fc",
+      "published_at": "2026-08-10T05:50:00Z"
+    },
+    {
+      "id": "8ac96855-9c43-30ff-a106-848e2cc16d23",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal",
+      "summary": "Crude gains as traders watch for progress in US-Iran talks that could pave the way for a deal to secure passage through the Strait of Hormuz.View on euronews",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vXy7H60Ap_ldR1Sar7YqNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/50c039647526434586ba167616761103",
+      "published_at": "2026-08-10T05:43:49Z"
+    },
     {
       "id": "a3a84219-32b3-38ea-b775-ded44ec110e9",
       "asset": "NVDA",
@@ -13,6 +101,17 @@
       "url": "https://www.fool.com/investing/2026/08/10/new-fed-chair-kevin-warsh-has-refused-to-give-forw/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZsrkkVlUhzfQ2Vrp6DDkeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c17780fcc03cde563cc155f25d869ea8",
       "published_at": "2026-08-10T05:35:00Z"
+    },
+    {
+      "id": "a8246f4a-997c-3495-b5c0-c50939db9403",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Rise as Iran Hardens Hormuz Demands",
+      "summary": "Oil prices rose as Iran imposed stringent conditions for reopening the Strait of Hormuz and Houthi attacks intensified threats to Saudi energy infrastructure.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-rise-iran-hardens-053000723.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f569flFcWKbSCvEBhEQBcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/ec354296d1a163b2e798b0af7d8a384a",
+      "published_at": "2026-08-10T05:30:00Z"
     },
     {
       "id": "ef2320b9-e915-3cd9-8d19-119739556513",
@@ -59,6 +158,17 @@
       "published_at": "2026-08-10T05:10:41Z"
     },
     {
+      "id": "148642c6-ac9e-34b2-9ff4-2a5ef09466cc",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.A.E.’s Adnoc Gas to Invest More Than $8 Billion in Expansion Push",
+      "summary": "Plan to boost production comes after OPEC exit earlier this year frees state-owned Adnoc of cartel’s restrictions.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/u-a-e-s-adnoc-gas-to-invest-more-than-8-billion-in-expansion-push-cceb572d?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J1RFVxTjefAhdLITeJWvvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/21a57f70f9c9112bb5f5620caa450299",
+      "published_at": "2026-08-10T05:07:00Z"
+    },
+    {
       "id": "5370ced4-3293-33ea-9126-5e7c3143534e",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -68,17 +178,6 @@
       "url": "https://www.fool.com/investing/2026/08/10/forget-chips-ai-is-now-a-power-trade-these-2-divid/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B_y0ZvmvSMFydcWgJbrE.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/294101011899b685265322d8f39a4a74",
       "published_at": "2026-08-10T05:05:00Z"
-    },
-    {
-      "id": "148642c6-ac9e-34b2-9ff4-2a5ef09466cc",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "U.A.E.’s Adnoc Gas to Invest More Than $8 Billion in Expansion Push",
-      "summary": "Plan to boost production comes after OPEC exit earlier this year frees state-owned Adnoc of cartel’s restrictions.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/u-a-e-s-adnoc-gas-to-invest-more-than-8-billion-in-expansion-push-cceb572d?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J1RFVxTjefAhdLITeJWvvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/21a57f70f9c9112bb5f5620caa450299",
-      "published_at": "2026-08-10T05:02:00Z"
     },
     {
       "id": "bd14b29c-18a2-3bb0-930e-e50923390400",
@@ -147,17 +246,6 @@
       "published_at": "2026-08-10T04:29:42Z"
     },
     {
-      "id": "e7fadff4-90fb-3420-a94a-c1abe0e6fca2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Emerging-Market Stocks, Currencies Gain After Soft US Jobs Data",
-      "summary": "(Bloomberg) -- Emerging-market stocks and currencies climbed at the start of a new week as expectations for Federal Reserve rate hikes eased following Friday’s unexpectedly weak US employment report.Most Read from BloombergIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’Trump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaChina Unleashes $28 Trillion Capital Markets to Challenge US in AIGlobal Stock Rally Extends, Oil Advances on Iran: Markets WrapIran Says Hormuz Deal",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/emerging-market-stocks-currencies-gain-042549202.html",
-      "thumbnail": "",
-      "published_at": "2026-08-10T04:25:49Z"
-    },
-    {
       "id": "6bf0da8a-faae-33c1-af5a-bcc389ef390c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -191,17 +279,6 @@
       "published_at": "2026-08-10T04:15:47Z"
     },
     {
-      "id": "3519f6e8-213a-3c62-9b06-12a502032bc3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "US Export Control Meant to Cripple China’s AI. But They Created Its Most Valuable Company",
-      "summary": "US chip export controls were meant to weaken China's AI. CXMT's 466% debut shows the strategy may have backfired.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/us-chip-export-controls-cxmt-china-ai/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.BLWaZM.xGR_L0RfiABubQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3c4417f868072ce889a0d52ebe383a55",
-      "published_at": "2026-08-10T03:43:00Z"
-    },
-    {
       "id": "e9ba7743-13e2-350e-89fe-dc59d15fe662",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -211,17 +288,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-backs-study-showing-bot-traffic-will-be-1-000-x-human-traffic-michael-burry-wants-to-know-who-s-actually-paying/cZojOsgRJan",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3VG5VGQSJyHC7NHT2VFoMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/fb052b7b09b4c9811a3cb03e509bbd5d",
       "published_at": "2026-08-10T03:29:31Z"
-    },
-    {
-      "id": "24e986f1-29ad-36db-8635-6832ad84f39f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Solana Could Boost Its Token Burns by 14X. Would That Make It a Better Buy?",
-      "summary": "Burning more coins would tamp down supply inflation, but it might not be enough.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/09/solana-could-boost-its-token-burns-by-14x-would-th/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_J3zHuFrmOG66EdhFMYdqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2e575f128e3f8257b1f92de02a096c6b",
-      "published_at": "2026-08-10T03:20:00Z"
     },
     {
       "id": "0d55bd00-a4d7-3434-8d0d-fbaf20399b08",
@@ -235,17 +301,6 @@
       "published_at": "2026-08-10T02:36:33Z"
     },
     {
-      "id": "090c98b3-850a-369f-9602-0f2c501eab9f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian shares set to gain as soft US jobs data offsets oil worries",
-      "summary": "Aug 10 (Reuters) - Indian shares are on track to open higher on Monday, tracking Asian peers after a weaker-than-expected U.S. jobs report eased fears of a near-term Federal Reserve rate hike, while a",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-gain-soft-022456319.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eGKqy9Py5kCZEKZQqvCUzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a3c4503ed58a1e0882276fbe5de82ee0",
-      "published_at": "2026-08-10T02:24:56Z"
-    },
-    {
       "id": "1d5a4d76-23af-3b4d-b763-4d8d2c97864f",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-gold-consolidated-tsx-021000023.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6_l04CVRDpuO8rGBs.Zfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8",
       "published_at": "2026-08-10T02:10:00Z"
-    },
-    {
-      "id": "8d972bde-7597-3e4c-9d39-c935097a2a9e",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Barrick Mining (TSX:ABX) Could Be 7% Undervalued As Leadership Changes Draw Focus",
-      "summary": "Barrick Mining (TSX:ABX) has drawn fresh investor attention after appointing Sarah Ball Teslik as Chief Corporate Affairs Officer and Daniel Wilner as Senior Vice President, Corporate Affairs and Capital Markets on 7 August 2026. See our latest analysis for Barrick Mining. Barrick Mining shares have reacted strongly to the recent executive changes and plans to float North American mines, with a 7 day share price return of 18.48% and a 1 year total shareholder return of 93.52%. This suggests...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-tsx-abx-could-020859342.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L_JYKq_L1tuqPSvUG2qJmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5",
-      "published_at": "2026-08-10T02:08:59Z"
-    },
-    {
-      "id": "f45e5c88-b693-3bad-a88b-75571035397e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Nasdaq, S&P 500, Dow Futures Are Edging Lower Overnight After Markets Closed Up Last Week",
-      "summary": "All three benchmark indexes closed last week higher, notching best weekly gains since April.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-s-and-p-500-dow-futures-are-edging-lower-overnight-after-markets-closed-up-last-week/cZoj7BqRJak",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BXkOaE1Wv9iKjk06fWPouw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/36527a4debfa05ac714ca5f77ef92087",
-      "published_at": "2026-08-10T01:17:49Z"
-    },
-    {
-      "id": "e7bd6882-76b9-3c63-9ba4-5e0debe78a82",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Barrick Mining (B) Rallies As Low P E Keeps Valuation In Focus",
-      "summary": "Recent share performance puts Barrick Mining in focus Barrick Mining (NYSE:B) has moved sharply in recent sessions, with the stock up about 5.6% over the past day and close to 19% over the past month, drawing fresh investor attention. See our latest analysis for Barrick Mining. The recent 7 day share price return of 18.9% for Barrick Mining comes after a weaker 90 day share price return that declined 7.1%. However, the 1 year total shareholder return of 90.7% and 3 year total shareholder...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-rallies-low-011357946.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L_JYKq_L1tuqPSvUG2qJmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5",
-      "published_at": "2026-08-10T01:13:57Z"
-    },
-    {
-      "id": "dc15b59f-630d-3d91-921a-80064a4f38cb",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "OceanaGold Q2 Earnings Call Highlights",
-      "summary": "OceanaGold (TSE:OGC) reported second-quarter 2026 gold production of about 139,000 ounces and copper production of 2,700 tonnes, with management saying results were in line with plan and kept the company on track to meet full-year guidance. President and Chief Executive Officer Gerard Bond said qua",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/oceanagold-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gmZvcfsmugrvji2bOthSwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/400ba5c3bd18f6ee5a5aa71acae18a3f",
-      "published_at": "2026-08-10T01:03:57Z"
-    },
-    {
-      "id": "146db296-db54-393f-a251-9c06d5b90220",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Lundin Mining Q2 Earnings Call Highlights",
-      "summary": "Lundin Mining (TSE:LUN) reported second-quarter 2026 revenue of more than $1.2 billion, adjusted EBITDA of $658 million and free cash flow from operations of $360 million, supported by higher realized copper and gold prices and consistent production across its three operating mines. President and C",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/lundin-mining-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GWsOayn8L9duNIWZp8oSzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/7f762db6335dca68d6cb421c3375ca90",
-      "published_at": "2026-08-10T01:03:56Z"
     }
   ]
 }
