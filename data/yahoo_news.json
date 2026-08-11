@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-11 03:17 UTC",
+  "last_updated": "2026-08-11 04:48 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f178bdde-0125-3132-9d5f-9e9a3d262915",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cramer’s Analyst Says Eli Lilly’s GLP-1 Stock Rally Has Years Left to Run",
+      "summary": "Jeff Marks and Jim Cramer say Eli Lilly's GLP-1 stock rally has years left, backed by surging global demand.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/eli-lilly-glp1-stock-cramer/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P3dQuR9BGT0.vS7on8vpBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/9c107a361e9d3605aca66d3e653269e4",
+      "published_at": "2026-08-11T04:13:00Z"
+    },
+    {
+      "id": "4b32bdc5-6675-375b-a8dd-5c274e5be2e3",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares open tad lower on caution over rising crude prices",
+      "summary": "Aug 11 (Reuters) - Indian shares opened marginally lower on Tuesday as firmer crude oil prices curbed risk appetite, outweighing support from stronger corporate earnings and renewed foreign buying.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-022527723.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yymnmeR33.2f2_ymOVvEcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/089d43d10ce5fe7970ecedb3bc8641d7",
+      "published_at": "2026-08-11T03:52:09Z"
+    },
+    {
+      "id": "258e79dc-dd6b-3ba0-8258-5e3e1db4d12e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
+      "summary": "The AI server maker preannounced nearly everything three weeks ago -- except the number that frames its next fiscal year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/10/super-micro-already-told-us-its-revenue-its-margin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vm2zciYJwgyEwtqpDr330Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/59e83e9f00a8426c2451066e9cef6ac8",
+      "published_at": "2026-08-11T03:49:00Z"
+    },
+    {
+      "id": "7057bd43-2ca0-311f-901e-480cf56197d3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Arthur Hayes Says Fed’s Japan Yen Plan Will Pump Bitcoin",
+      "summary": "In a recent newsletter, Hayes explains how a Fed plan to defend the yen could send new liquidity into the Bitcoin price.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/arthur-hayes-yen-bitcoin-pump-call/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tZwB30IPoH6_L0YJGNTpHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d4651451e984d8fbc9fa6ef8b3226426",
+      "published_at": "2026-08-11T03:24:32Z"
+    },
+    {
+      "id": "1eda206c-ca17-38ea-9864-764a4aca410a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Trump Media Expands Bitcoin Holdings to $900 Million While Reporting H1 Unrealized Losses — What to Know About Truth Social Owner's BTC Stash",
+      "summary": "Trump Media & Technology Group Corp. (NASDAQ:DJT) reported Monday that it held more than $900 million worth of Bitcoin (CRYPTO: BTC) at the end of July. ‘Exciting’ Unlock For Square Sellers The disclosure appeared in the \"Subsequent Events\" section of Trump Media’s earnings report. The company behind Truth Social held 9,477.16 BTC on its balance sheet as of June 30, valued at $557.094 million—down 33% from the amount reported for the six months ended Dec. 31, 2025. Overall, the company recorded",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-expands-bitcoin-holdings-032108738.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E7Mv81YFVB3OoBTdzUvv8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/eb70aad3d52925ce96e3d7d9bce06f5b",
+      "published_at": "2026-08-11T03:21:08Z"
+    },
+    {
+      "id": "2916f8cb-c0c8-371a-82c8-5fcffccf3bfb",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "What Strategy (MSTR)'s Pivot From Bitcoin Hoarding to Balance-Sheet Repair Means For Shareholders",
+      "summary": "Strategy Inc. recently reported second-quarter 2026 results showing revenue of US$122.37 million but a very large net loss of US$8,219.63 million, driven largely by Bitcoin-related unrealized losses, and has begun selling Bitcoin and issuing stock to repurchase preferred shares and build its US dollar reserve. The shift from relentless Bitcoin accumulation to using Bitcoin sales and equity issuance for capital management marks a new phase in Strategy’s attempt to support its preferred...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-pivot-bitcoin-hoarding-031939763.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+      "published_at": "2026-08-11T03:19:39Z"
+    },
+    {
+      "id": "f4df4593-78f1-345e-88d5-946bcfaa2450",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia CEO Calls AI Data Centers 'Investable Assets' After Partnership With Wall Street Firms For $500B Financing Venture",
+      "summary": "Nvidia announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to funnel $500 billion towards the buildout of AI infrastructure over time.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-ceo-calls-ai-data-centers-investable-assets-after-partnership-with-wall-street-firms-for-500-b-financing-venture/cZoZSVKRJfp",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tCtcSnFaWSrlT37IX2Dyzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/cad6ec2abe4337276eb63d6d98199f43",
+      "published_at": "2026-08-11T03:17:57Z"
+    },
     {
       "id": "7d6e7354-14a3-390e-bb95-14003a203162",
       "asset": "OIL",
@@ -180,17 +257,6 @@
       "published_at": "2026-08-11T01:07:52Z"
     },
     {
-      "id": "922fd15f-0765-31ae-9911-fcb8885cbdf6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Rumble Q2 Earnings Call Highlights",
-      "summary": "Rumble (NASDAQ:RUM) reported second-quarter revenue of $40.4 million, up 61% from $25.1 million a year earlier, as the company completed its acquisition of Northern Data and reorganized under the new parent-company name RUM Group Inc. Founder, Chairman and CEO Chris Pavlovski said the June 17 closi",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/rumble-q2-earnings-call-highlights-2026-08-10/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dyt55pIvuztoPms4y3kObQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/f0d22ab35202053411bd44104f60f21c",
-      "published_at": "2026-08-11T01:04:08Z"
-    },
-    {
       "id": "65bdecd8-5222-3166-b923-6332543ef4dd",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -200,17 +266,6 @@
       "url": "https://finance.yahoo.com/markets/commodities/articles/heliostar-metals-ltd-hstxf-q2-010149989.html",
       "thumbnail": "",
       "published_at": "2026-08-11T01:01:49Z"
-    },
-    {
-      "id": "70bf8e09-64ea-3316-866f-e80cc5191333",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "California Resources Corp (CRC) (Q2 2026) Earnings Call Highlights: Strategic Midstream ...",
-      "summary": "CRC delivers solid Q2 results with over 100% of Berry synergy targets achieved, while announcing the accretive Crimson midstream acquisition to strengthen its integrated California energy platform.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/energy/articles/california-resources-corp-crc-q2-010148667.html",
-      "thumbnail": "",
-      "published_at": "2026-08-11T01:01:48Z"
     },
     {
       "id": "5c16d89a-4f65-37a1-889d-8c7a74656926",
@@ -225,8 +280,8 @@
     },
     {
       "id": "fee16c14-79fb-3146-8343-68c186c42698",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
       "summary": "These might be the two best chip stocks, period.",
       "source": "Motley Fool",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/technology/articles/tesla-just-found-another-way-003110177.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ck9Z9oF73Yn3ndR1zGR7XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/d87d791b1c52aae1a32b91ab0133cda4",
       "published_at": "2026-08-11T00:31:10Z"
-    },
-    {
-      "id": "093c3797-fe83-3af2-944a-7b81cfe718d0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Oklo a Millionaire Maker, or Is the Hype Overdone?",
-      "summary": "Oklo just reported its first-ever quarterly revenue.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/10/is-oklo-a-millionaire-maker-or-is-the-hype-o/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x9VqIf.Xyn.3lvuCyM_log--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c92cfae6fcfcfd31e80d7c5ed97a16e2",
-      "published_at": "2026-08-11T00:25:00Z"
-    },
-    {
-      "id": "c2641777-ae0a-3742-9287-d540066b8d85",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Solana's stablecoin supply has grown 11x in three years",
-      "summary": "Solana has become one of the busiest homes for stablecoins, with the value of these tokens on the network climbing sharply over the past three years. Solana is a blockchain built for fast, low-cost transactions, qualities that make it well suited to stablecoins, digital tokens pegged to a currency ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/solanas-stablecoin-supply-has-grown-11x-in-three-years",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Js7Ho.kpq2iLWMoWrSJXyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b1b5cfcb4dc36a225df5a7390c0961ed",
-      "published_at": "2026-08-10T23:54:00Z"
-    },
-    {
-      "id": "d9ee0b71-eca1-3e14-9fc7-1ae9433fcf86",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-      "summary": "Intel’s stock dropped 4%, weighing on the Nasdaq after announcing a $15 billion stock offering.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5i8oY4F8hwfilIsGQA0Ohw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4b1cfd1cebb08709ce989ad97de7d87f",
-      "published_at": "2026-08-10T23:02:45Z"
-    },
-    {
-      "id": "7b210e9b-60fd-32b4-ac1c-088b4a362edc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bad news for the economy just became great news for Bitcoin",
-      "summary": "Friday's US jobs report landed like a surprise. Economists surveyed by Bloomberg had forecast 80,000 new jobs created in July. The actual number was negative 23,000, meaning the economy shed jobs rather than added them. According to the U.S. Bureau of Labor Statistics, the unemployment rate ticked ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/bad-news-for-the-economy-just-became-great-news-for-bitcoin",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hBqCISeoGQsnDadk0IMA2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/3988aeaf2ab635d31da55c4aac0e4e8f",
-      "published_at": "2026-08-10T23:02:00Z"
-    },
-    {
-      "id": "829bb324-7971-3ab1-8fd9-7cc97f9a6e30",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Barrick Mining Corp (B) (Q2 2026) Earnings Call Highlights: Record Gold Production and ...",
-      "summary": "Barrick Mining Corp (B) delivers strong Q2 results with gold production beating guidance, a $4 billion Newmont agreement, and $1.5 billion returned to shareholders.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/barrick-mining-corp-b-q2-230041888.html",
-      "thumbnail": "",
-      "published_at": "2026-08-10T23:00:41Z"
     }
   ]
 }
