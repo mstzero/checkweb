@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 00:06 UTC",
+  "last_updated": "2026-08-12 03:03 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
@@ -7,12 +7,243 @@
       "id": "7170c7f6-3bd3-35bf-bee2-a691a7f3afbd",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Stocks Pause Before CPI Inflation; 3 Nvidia Partners Lead Earnings Movers Late",
+      "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
       "summary": "The major market indexes pulled back amid higher oil prices and upcoming CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro reported late.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oDsgQVzOqhryPrDK2wGQ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/900ebd097ac67cb752ad0a04001cac81.jpg",
-      "published_at": "2026-08-11T23:52:29Z"
+      "published_at": "2026-08-12T02:55:39Z"
+    },
+    {
+      "id": "aa1daff7-84e0-3ed5-94e6-a1db5ee055a6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices rise, stocks mixed ahead of crucial US inflation data",
+      "summary": "Oil prices rose again Wednesday and stock markets were mixed, with eyes on the release of key US inflation data that could guide the Federal Reserve on its plans for interest rates.Both main crude contracts rose Wednesday, and have risen around 14 percent in the past week.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/articles/oil-prices-rise-stocks-mixed-022830134.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZL25gCBGXNdgQq6DOvJtQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/f18513b9c665c7d389d791646f192f2a.jpg",
+      "published_at": "2026-08-12T02:28:30Z"
+    },
+    {
+      "id": "aec55396-ddbf-3f0e-8cd4-aa59ff95720b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Want to Read the Market Like Cramer? Ask These 3 Questions",
+      "summary": "Jim Cramer outlined 3 questions on bonds, oil, and Nvidia show investors how to read the market right now.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/cramer-3-questions-read-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qpo___ZKJHx3j0zeu55aeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/042f2d67c0b128b27b2bb45eeea1dcfb.jpg",
+      "published_at": "2026-08-12T02:25:00Z"
+    },
+    {
+      "id": "d508463b-e08f-30e3-a3af-b15c7aa644a8",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "3 Cash-Producing Stocks We Approach with Caution",
+      "summary": "Generating cash is essential for any business, but not all cash-rich companies are great investments. Some produce plenty of cash but fail to allocate it effectively, leading to missed opportunities.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-approach-022122208.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sCV1tzgMFFJeLm_9lgygkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/8b8aa47a91c1b447d02015ba1c717e2f.jpg",
+      "published_at": "2026-08-12T02:21:22Z"
+    },
+    {
+      "id": "56c59b87-6e08-3114-93f4-9f75f2d1c83e",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Oil, gold prices rise as geopolitical tensions mount before CPI",
+      "summary": "By Rocky Swift TOKYO, Aug 12 (Reuters) - Oil and gold prices climbed while regional shares edged nervously higher on Wednesday as geopolitical tensions ratcheted up ahead of key U.S. inflation data.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-gold-prices-rise-geopolitical-021926510.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9urxZIK4yJwHHZu6S1pO5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2ccc89eaa59d9f05727cedc9d4bb7999.jpg",
+      "published_at": "2026-08-12T02:19:26Z"
+    },
+    {
+      "id": "cf5f7c63-e0f2-3bfe-b3cd-ac17796b2f1e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "The 5 Most Interesting Analyst Questions From Black Stone Minerals’s Q2 Earnings Call",
+      "summary": "Black Stone Minerals’ second quarter saw revenue top Wall Street expectations despite a year-over-year decline, as resilient oil production and favorable pricing in the Permian and Bakken helped offset softer natural gas volumes. Management attributed the result to strong leasing activity and continued progress in its Shelby Trough and Haynesville expansion, while also noting that development timelines and well completions led to variability in production. Vice President Taylor DeWalch emphasize",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-015722118.html",
+      "thumbnail": "",
+      "published_at": "2026-08-12T01:57:22Z"
+    },
+    {
+      "id": "5107e730-e33b-3cfa-940c-d5f92820635f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Plug Power Stock Popped Today",
+      "summary": "The green hydrogen pioneer is advancing toward its profitability goals.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/11/why-plug-power-stock-popped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5hrPileu8psbz0U1VwBJIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ef3eda668afeb978a89419b3c7441318.png",
+      "published_at": "2026-08-12T01:51:14Z"
+    },
+    {
+      "id": "f637737d-04b5-3994-9d70-7f1dee38db7c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cathie Wood Has Been Selling Palantir Into Every Rally Since Its 29% Earnings Pop",
+      "summary": "Her funds' daily trade files show the same response to each leg higher in the AI software stock -- while $26.6 million went somewhere much cheaper.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/11/cathie-wood-has-been-selling-palantir-into-every-r/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KGV1zHcXs3zIATWzdkpRFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e5e47ca6ff1ef24de11f8dc212181358.jpg",
+      "published_at": "2026-08-12T01:27:00Z"
+    },
+    {
+      "id": "a13d540a-9f07-3d80-99e7-8e5b65ec1bd8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Riot’s Anthropic Deal Lifts Bitcoin Miner Stocks, But It’s Bad News For BTC",
+      "summary": "Riot's Anthropic lease lifted miner stocks, but the sell-down funding it hints at a new source of Bitcoin sell pressure.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/riot-anthropic-deal-bad-for-bitcoin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SteKas4TIAGEGm_PirRauA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/938a7b54d371d53838e8ca8d4d869a16.png",
+      "published_at": "2026-08-12T01:22:45Z"
+    },
+    {
+      "id": "6493a3d5-2cc5-3e8e-8ced-0fd9c282be81",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
+      "summary": "Executives involved are hailing it as a new asset class, but critics have concerns about using chips as collateral.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xJlQrHLW8VVeyhsg9qqenw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/198683334c8df3e2305903bc59046166.jpg",
+      "published_at": "2026-08-12T01:17:00Z"
+    },
+    {
+      "id": "3a8bf00f-46d4-3cf1-8311-a26962e5777f",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "TransAct Technologies Q2 Earnings Call Highlights",
+      "summary": "TransAct Technologies (NASDAQ:TACT) reported second-quarter net sales of $13.9 million, up slightly from $13.8 million a year earlier, as growth in its food service technology business was partially offset by tariff-related customer refund adjustments and lower reported casino and gaming revenue. T",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/transact-technologies-q2-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NEHehRo0bU3HZr_2P3yVuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/ad710fb81f08adf573e1f66758020084.png",
+      "published_at": "2026-08-12T01:04:12Z"
+    },
+    {
+      "id": "690d0deb-f18e-3566-9b96-cce2a585535f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Edges Higher Ahead of U.S. Inflation Data",
+      "summary": "Gold edged higher in early Asian trade, as investors await U.S. inflation data for cues on the Federal Reserve’s policy path.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-inflation-data-11bb4f20?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-12T01:00:00Z"
+    },
+    {
+      "id": "94a1cac3-1592-35bf-86aa-f39b19205188",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Mark Zuckerberg Published His Superintelligence Manifesto Monday Morning. Meta Still Trades at 18 Times Forward Earnings.",
+      "summary": "The company is giving its most powerful AI models away while spending as much as $145 billion this year. How does that add up for shareholders?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/11/mark-zuckerberg-published-his-superintelligence-ma/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GIHZj10sKWMSxZyKNDKfJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/778c93ed1ecf755b4c461f7f3d98fc44.png",
+      "published_at": "2026-08-12T00:54:00Z"
+    },
+    {
+      "id": "9aa84654-4aa7-3b2e-b1ec-efa37fd2d407",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Nikkei Flat, Supported by Energy, Financial Stocks",
+      "summary": "Japan’s Nikkei Stock Average was flat at 66988.82 as gains in financial and energy shares help offset losses in electronics and pharmaceutical stocks.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-energy-financial-stocks-75d78a24?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-12T00:33:00Z"
+    },
+    {
+      "id": "9be75ffa-dfa8-3883-b0e7-9bebe6f76793",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "5 Revealing Analyst Questions From Vitesse Energy’s Q2 Earnings Call",
+      "summary": "Vitesse Energy’s second quarter results outperformed Wall Street’s expectations, driven by effective capital allocation and the integration of recent acquisitions, despite a year-on-year decline in oil production. Management emphasized the resilience of its dividend strategy, supported by disciplined reinvestment and hedging programs. CEO Jamie Benard highlighted that the company’s approach to dividend sustainability remains unchanged, stating, “Our priorities are what they've always been, pay a",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-vitesse-002922403.html",
+      "thumbnail": "",
+      "published_at": "2026-08-12T00:29:22Z"
+    },
+    {
+      "id": "48aa52e4-83ba-370f-a920-f4f43486ddba",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "CoreWeave Reports Solid Earnings. The Stock Jumps.",
+      "summary": "CoreWeave’s rapid sales growth is fueled by a growing backlog, now up to $130 billion from $99 billion at the end of March.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/coreweave-earnings-stock-price-066fec34?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7yUosf3tWJT0PsH4TyQC7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/6d77d5640df72d7c25cf3d672d7d44c9.jpg",
+      "published_at": "2026-08-12T00:28:00Z"
+    },
+    {
+      "id": "5e113199-d873-3acd-871a-c02babf3338d",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Get Paid 16% To Wait For INTU Stock To Go On Sale",
+      "summary": "Bank an upfront income you keep unconditionally, plus the chance to buy the stock for less if its price tumbles.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/610935/get-paid-16-to-wait-for-intu-stock-to-go-on-sale/2026-08-11",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sohSOeIpiIqM1nJJnkLHFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/282b2de041f61e72e2e65f389df3ed54.jpg",
+      "published_at": "2026-08-12T00:24:50Z"
+    },
+    {
+      "id": "370dc558-48be-32b0-8d67-d651c9ad6e5c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Better Buy: Eli Lilly vs. Novo Nordisk",
+      "summary": "Novo Nordisk is playing catch-up in the GLP-1 race.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/11/better-buy-eli-lilly-vs-novo-nordisk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zH7BoT2gGCj4GHdWsc.12Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5d6aa0dcbfc0c75345bf95bb263b8af2.png",
+      "published_at": "2026-08-12T00:20:00Z"
+    },
+    {
+      "id": "a7ea2276-88c5-322a-9bde-cc8bace854de",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AvePoint (AVPT) Unveiled Kinetic Classification For Cloud Data Protection",
+      "summary": "AvePoint (NasdaqGS: AVPT) introduced Kinetic Classification, a new data sensitivity and recovery solution for Microsoft 365, Google Workspace, and other business apps. The product uses AI to continuously assess data sensitivity and adjust protection policies across connected cloud services. Kinetic Classification integrates automated recovery tools aimed at improving incident response for security and data governance teams. For investors tracking how AI is reshaping core enterprise...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/avepoint-avpt-unveiled-kinetic-classification-001702198.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ql4CdP5e9aQ9CqJuGung8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72.jpg",
+      "published_at": "2026-08-12T00:17:02Z"
+    },
+    {
+      "id": "5d3a54fc-4e63-3df4-8f22-baf713dab995",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Tencent Music Entertainment Stock Dived by Nearly 12% Today",
+      "summary": "The Asia-based company posted its second-quarter results early Tuesday.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/11/why-tencent-music-entertainment-stock-dived-by-nea/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0y4RkFMitxnkplyis8CgIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/51a4fcf533d1343312fba98bb97a3125.jpg",
+      "published_at": "2026-08-12T00:08:04Z"
+    },
+    {
+      "id": "521f7284-425c-3aa8-9565-a60cd1fb83c0",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities  — ORCL, AAPL, NVDA, CURLF In Focus",
+      "summary": "Investors await the July consumer price index that’s due at 8:30 a.m. ET on Wednesday.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JCvo65TurCbamAIH6IxjLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c.jpg",
+      "published_at": "2026-08-12T00:07:19Z"
+    },
+    {
+      "id": "b67b0d33-d4b4-3b46-8533-3db49d37e6ea",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Holders Get 96% Cheaper Entry Into BlackRock’s ETF Without Selling",
+      "summary": "BlackRock's Bitcoin ETF now accepts in-kind BTC conversions from $1 million, opening a tax-deferred path for large holders.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/blackrock-bitcoin-etf-conversion-minimum/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6MXKACkksoNifBCB.toLUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/30f81599932c611dc18fb2714309adc9.jpg",
+      "published_at": "2026-08-11T23:50:00Z"
     },
     {
       "id": "dd4eec68-abc5-302f-b828-6c603d77c22f",
@@ -26,31 +257,9 @@
       "published_at": "2026-08-11T23:41:22Z"
     },
     {
-      "id": "68bc5c81-d014-3ca0-b1a8-918aa3db44e3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The 5 Most Interesting Analyst Questions From Kosmos Energy’s Q2 Earnings Call",
-      "summary": "Kosmos Energy’s second quarter was marked by a mix of operational progress and lingering production challenges, as reflected in the market’s negative reaction to the results. While management pointed to strong performance from the Jubilee field and cost reductions driven by asset sales and efficiency initiatives, oil production declined year over year. CEO Andrew Inglis highlighted that, “J76, in particular, came in at the top end of our expectations and based on performance so far, is the best",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/energy/articles/5-most-interesting-analyst-questions-233322731.html",
-      "thumbnail": "",
-      "published_at": "2026-08-11T23:33:22Z"
-    },
-    {
-      "id": "5172bab8-fc5e-30d5-bb6c-e42978ecaf57",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NuScale Power Looks Like a Generational Wealth-Building Opportunity Right Now",
-      "summary": "NuScale Power could become a much larger company if rising power demand translates into a repeatable commercial business.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/11/nuscale-power-looks-like-a-generational-wealth-bui/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wbBIz_43oylIjYP.DG4tYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/222727fe523e2aa5e10cd5926106cdcc.jpg",
-      "published_at": "2026-08-11T23:25:00Z"
-    },
-    {
       "id": "4bb28765-e084-3f7b-939a-b9b1cd0fb9ee",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "CoreWeave Shares Jump as Revenue Doubles From Year Earlier",
       "summary": "A mounting sales backlog of $104 billion shows strong demand for cloud computing despite infrastructure challenges and AI-bubble fears.",
       "source": "The Wall Street Journal",
@@ -70,17 +279,6 @@
       "published_at": "2026-08-11T23:19:34Z"
     },
     {
-      "id": "14f21ec3-1457-3e2d-b3d9-27c19718421e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "MPLX (MPLX) Completes $2 Billion Debt Offering And Eyes More Acquisitions",
-      "summary": "MPLX (NYSE:MPLX) completes fixed-income offerings totaling more than US$2b across multiple maturities. The new debt issues adjust the company’s capital structure and funding mix for upcoming needs. MPLX states it is continuing to seek inorganic growth opportunities alongside existing organic projects. This kind of funding move and acquisition appetite highlights a wider trend in income focused infrastructure stocks that you may want to compare through 9 dividend fortresses. NYSE:MPLX 1-Year...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/mplx-mplx-completes-2-billion-231742750.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9t9K0gbukGn3PpCVQBVTMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/22763255fd07b4ca1afee2bfc46e643f.jpg",
-      "published_at": "2026-08-11T23:17:42Z"
-    },
-    {
       "id": "e0c6379c-0f9d-39d9-b0a5-5291bc0b5125",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -90,17 +288,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-earnings-231737949.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ENdePc9lvnRwsh92fSNwfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8.jpg",
       "published_at": "2026-08-11T23:17:37Z"
-    },
-    {
-      "id": "4fcfbe1f-42b9-30e3-ae32-d0f0fcd8e9d4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why OppFi Stock Swooned by Almost 25% Today",
-      "summary": "The specialty lender posted a displeasing quarterly earnings report.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/11/why-oppfi-stock-swooned-by-almost-25-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cDGEYQ14bykSfOdo2uoS0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6a12bfbb9bfee6312d3e95675a358031.jpg",
-      "published_at": "2026-08-11T23:15:00Z"
     },
     {
       "id": "6f35816e-1641-3bce-90b2-6727e3bbd234",
@@ -114,72 +301,6 @@
       "published_at": "2026-08-11T22:56:18Z"
     },
     {
-      "id": "2788575a-988a-3474-9499-db1ce9d2fe74",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "5 Must-Read Analyst Questions From Viper Energy’s Q2 Earnings Call",
-      "summary": "Viper Energy’s second quarter was marked by robust revenue growth and operational progress. Management attributed performance to strong organic production growth and the impact of recent acquisitions, with CEO Kaes Van't Hof emphasizing continued steady development activity across Viper’s asset base. Additionally, a substantial increase in oil production was driven by both Diamondback and third-party operators, contributing to the company’s record operational performance. However, management als",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-225322756.html",
-      "thumbnail": "",
-      "published_at": "2026-08-11T22:53:22Z"
-    },
-    {
-      "id": "7d1991df-059c-3418-86b0-806e06218da6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Michael Burry Adds To NVDA, PLTR, ORCL Shorts — Why He’s Thinking About 2005 Again",
-      "summary": "The “Big Short” investor is betting against AI-linked names while adding to his position in Molina Healthcare.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-adds-to-nvda-pltr-orcl-shorts-why-he-is-thinking-about-2005-again/cZoNOyZRJXV",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GD4RK76IYHh9IVDtvKryow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/a7f71426633005faf70e39da631e68eb",
-      "published_at": "2026-08-11T22:52:04Z"
-    },
-    {
-      "id": "a5949cb1-fdc2-32eb-8f7e-b802f3422bb5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Wall Street ends down as US-Iran peace optimism fades",
-      "summary": "<body><p>STORY: U.S. stocks ended lower on Tuesday, with the Dow and S&P 500 each dropping about a third of a percent, and the Nasdaq shedding six-tenths of a percent.</p><p>Investors became more pessimistic about a peace deal with Iran after one of its top officials said the Strait of Hormuz will remain closed as long as the U.S. does not change its behavior and accept Iran's conditions to end the war.</p><p>That kept Brent&nbsp;crude futures near one-week highs.</p><p>Liz Miller is founder and president of Summit Place Financial Advisors.</p><p>\"I think investors are certainly frustrated at the back-and-forth communication flow and expectations out of our conflict with Iran. But they're also starting to try to look through this. For the longest time, investors have been saying, 'Even if there was a quick end, we knew that the effects on oil would take many months to unfold.' And so it was always about the, you know, the famous words, you know, the duration and the depth of the conflict. And what we're finding out is the depth may not be the problem, but the duration is.”</p><p>Among the day's movers, tech stocks dragged, with Amazon dipping about 2% and Alphabet and SpaceX each dropping almost 4%.</p><p>:: Nvidia</p><p>Alternative asset managers rose, with Apollo Global up more than 6% and Blackstone rallying almost 4%. They were among the financial institutions that recently partnered with Nvidia to establish compute-financing platforms aimed at ‌raising over $500 billion in third-party capital for AI infrastructure.</p><p>And shares of Super Micro Computer rose about 9% in extended trading after the server maker forecast fiscal 2027 revenue above Wall Street expectations, betting that strong demand for its AI-optimized servers would fuel another year of growth.</p><p>Investors now turn their attention to inflation readings, due over the next two days, which could be crucial in shaping market expectations on the Federal Reserve's policy path.</p></body>",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/wall-street-ends-down-us-224853021.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tNF.nIxHzBOY8Owu71NJbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/83952419-aabb-41d2-b4c5-22be89600be7/main/1280x720/1m7s72ms/match/image.jpg",
-      "published_at": "2026-08-11T22:48:53Z"
-    },
-    {
-      "id": "f7083b8e-e908-3279-86bd-34fd1610061b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Top 5 Analyst Questions From Crescent Energy’s Q2 Earnings Call",
-      "summary": "Crescent Energy’s second quarter results reflected strong operational execution and meaningful improvements across its core basins. Management attributed the outperformance to higher oil production, significant cost reductions, and enhanced free cash flow generation, particularly following the integration of recent Permian acquisitions. CEO David Rockecharlie highlighted that “consistent execution across the portfolio drove another quarter of outperformance and supports an enhanced full year out",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-crescent-224522027.html",
-      "thumbnail": "",
-      "published_at": "2026-08-11T22:45:22Z"
-    },
-    {
-      "id": "57f517da-3e06-39a6-8f3e-3a8530c422fa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why AppLovin Stock Slumped by 6% Today",
-      "summary": "The beaten-down adtech took another hit, this time from an analyst's recommendation downgrade.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/11/why-applovin-stock-slumped-by-6-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r8V7lN2q_Hcj6z5Vmp3fpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/378a410bfb1daf3766122fcdbe6bece5.jpg",
-      "published_at": "2026-08-11T22:43:58Z"
-    },
-    {
-      "id": "20540da6-59b1-33d2-89e4-0ada1a1344dc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Just Recruited Wall Street to Help Fund $500 Billion in AI Infrastructure. Here’s the Catch.",
-      "summary": "Nvidia just lined up Wall Street's biggest names to funnel $500 billion into AI data centers. It sounds bullish -- but dig deeper, and this deal may reveal more about the sustainability of the AI boom than Jensen Huang would hope.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/11/nvidia-just-recruited-wall-street-to-help-fund-usd500-billion-in-ai-infrastructure-here-s-the-catch/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/peadRwS1Vb1qvWD_qmusbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5e88c6e139cef75d2d82d09254171c75.jpg",
-      "published_at": "2026-08-11T22:42:01Z"
-    },
-    {
       "id": "9dbe06f6-c81d-3718-89a8-bdceefa835c9",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -189,127 +310,6 @@
       "url": "https://www.thestreet.com/crypto/markets/elon-musks-ai-warning-about-the-dollar-is-starting-to-come-true",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zzeGTMsGNHfjtjFgvjcaig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7fe6157eff51320c3ad41721b5bb4459.jpg",
       "published_at": "2026-08-11T22:30:00Z"
-    },
-    {
-      "id": "34f13941-1232-331e-8c44-fa856d203c5b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "MSFT Vs Its Peers: The Return Does Not Match The Rank",
-      "summary": "Microsoft's business is firing on all cylinders, yet its stock has lagged its peers. The market is either seeing a problem ahead or offering a rare opportunity.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/610939/msft-vs-its-peers-the-return-does-not-match-the-rank/2026-08-11",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hmpd3EmvZhAiMwZ2Y.xrFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/524450f7ee6a2f998ba76846ff85679b.jpg",
-      "published_at": "2026-08-11T22:27:42Z"
-    },
-    {
-      "id": "75b854bf-2cda-3c0f-8a7b-524d191814f0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Data Doesn't Lie: Trumpflation Is Becoming More Entrenched, Which Is Bad News for the Fed and Wall Street",
-      "summary": "The Iran war isn't just an energy supply issue any longer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/11/trumpflation-becoming-entrenched-bad-news-wall-st/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/arsKmlWlKzhcP6WWcTbQew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ad2effd1a2bb9a7c62fdcf893a182364.jpg",
-      "published_at": "2026-08-11T22:26:00Z"
-    },
-    {
-      "id": "b02b4c75-5c6f-315a-a4bd-c2c588e5024c",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The Wreckage And The Cash Register At ADBE",
-      "summary": "The market has punished this software giant’s stock as if its business model were cracking, yet its financial engine continues to run with remarkable efficiency.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/610938/the-wreckage-and-the-cash-register-at-adbe/2026-08-11",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0G5NBSzNt3s0N1WimkQVQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg",
-      "published_at": "2026-08-11T22:18:26Z"
-    },
-    {
-      "id": "ee553e4c-508d-38d5-b933-aa9647edd22a",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Should Microsoft’s Expanding AI Cloud Ecosystem and Regulatory Scrutiny Require Action From MSFT Investors?",
-      "summary": "Over the past two weeks, Microsoft reported strong quarterly results, continued heavy AI and data‑center investment, and advanced its custom Maia AI chips and sovereign cloud offerings, while also facing new regulatory scrutiny over Microsoft 365 Copilot-related subscription changes in the UK, Australia, and Italy. Together with a wave of partners embedding Microsoft 365 Copilot and Azure capabilities into their own products, these developments underline how deeply Microsoft’s AI and cloud...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-expanding-ai-cloud-ecosystem-221703362.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPWopoFekEfw2LKiJEwh1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
-      "published_at": "2026-08-11T22:17:03Z"
-    },
-    {
-      "id": "c8abde58-a7ed-3432-9d56-bb8e49afddf5",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Cybercab Wins Endorsement From Florida Governor Desantis — ‘Clearly These Things Could Be Very Beneficial’",
-      "summary": "Florida Governor Ron DeSantis rode in a robotaxi at the SunTrax testing facility and highlighted the vehicle’s ability to navigate \"all hazards.\"",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-wins-endorsement-from-florida-governor-desantis-clearly-these-things-could-be-very-beneficial/cZoNazvRJXN",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tmdNch5TplI19s_mervhJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/b53dcb36f269e90f7e39efe04c41290c",
-      "published_at": "2026-08-11T22:14:39Z"
-    },
-    {
-      "id": "c1554414-d24f-3973-9a71-f26ca496a91a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Crypto Market Today, Aug. 11: Macro Worries Pull Bitcoin Below $64,000 and the SEC May Have a Regulatory Plan",
-      "summary": "On Aug. 11, 2026, oil's rebound stoked fresh inflation concerns ahead of Wednesday's inflation data, keeping risk assets subdued.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/11/crypto-market-today-aug-11-macro-worries-pull-bitcoin-below-usd64-000-and-the-sec-may-have-a-regulatory-plan/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q6MZpqYtt8irylshqlci4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png",
-      "published_at": "2026-08-11T22:14:27Z"
-    },
-    {
-      "id": "1b43c793-b0e8-3677-98f0-0e98737cb139",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Agnico Eagle Mines (AEM) Is Up 20.7% After EPS Jumps Despite Lower Gold Output And Buybacks",
-      "summary": "In late July 2026, Agnico Eagle Mines reported second-quarter results showing slightly lower gold production year over year but a sharp increase in net income and earnings per share, while also guiding full-year 2026 output toward the lower end of its 3.3–3.5 million-ounce range and maintaining its quarterly dividend at US$0.45 per share. The company paired this earnings jump with a completed US$377.48 million share repurchase of 2,110,462 shares and ongoing project updates, signaling a...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-20-221422377.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ENdePc9lvnRwsh92fSNwfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8.jpg",
-      "published_at": "2026-08-11T22:14:22Z"
-    },
-    {
-      "id": "e25b34a2-6327-3756-9f27-c5dee4229fff",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "National Bank Of Canada Discloses Stakes In Crypto ETFs",
-      "summary": "National Bank of Canada (TSX: $NA) has disclosed significant stakes in several cryptocurrency exchange-traded funds...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/national-bank-of-canada-discloses-stakes-in-crypto-etfs-6393",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wDizK0rBHiWECeb2AHlAlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/3e978af6962822349546c1d058c4512a.jpg",
-      "published_at": "2026-08-11T22:11:00Z"
-    },
-    {
-      "id": "4f6647a2-cc56-3fd9-b85d-dc717163d884",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "What Could Push AMZN Stock Higher From Here?",
-      "summary": "Beyond the familiar retail storefront, a massive custom silicon operation is quietly compounding. This internal chips business now has an annual revenue run rate of over twenty-five billion dollars. The company's AI services have also crossed this threshold, creating two new growth engines inside the larger machine.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/610927/what-could-push-amzn-stock-higher-from-here/2026-08-11",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jOGujlCtujsCmj6fj7vo0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/49da1ad6423dea0d83b745e655a85849.jpg",
-      "published_at": "2026-08-11T22:10:05Z"
-    },
-    {
-      "id": "b463ad5b-b9c8-36ec-bffb-604381a0407b",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy CEO Says Bitcoin Holdings Will Grow By Year’s End",
-      "summary": "Strategy (NASDAQ: $MSTR) CEO Phong Le is seeking to reassure investors that the company’s Bitcoin (CRYPTO: $B...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/strategy-ceo-says-bitcoin-holdings-will-grow-by-years-end-6392",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S7QXDFlV1aiwn.3EwOEGdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/63237ad213bf73d32f7c0e168ce84051.jpg",
-      "published_at": "2026-08-11T22:09:00Z"
-    },
-    {
-      "id": "ca9089c4-3fd6-324b-9bd3-75100d2a0d62",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "JEPQ’s 10.9% Yield Hides $2,900 Annual Tax Bill Most Retirees Never See",
-      "summary": "JEPQ's monthly distributions look like a retirement dream until the IRS opens its cut, and most holders collecting that 10.9% yield have never calculated what the tax treatment on those payments actually costs them each year.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/11/jepqs-10-9-yield-hides-2900-annual-tax-bill-most-retirees-never-see/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6Ac_8tHroOy3LMpYxMQdug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e780ea826248f3a10781c76d8ad76e27.jpg",
-      "published_at": "2026-08-11T22:05:23Z"
     }
   ]
 }
