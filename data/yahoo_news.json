@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-13 04:08 UTC",
+  "last_updated": "2026-08-13 05:54 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "82669a3f-cca5-3a66-93ab-4227440104c8",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Adyen lifts 2026 revenue outlook after strong first half",
+      "summary": "Adyen, the Dutch ‌firm that ‌handles payments for ​Spotify and Microsoft, raised its annual revenue ‌growth ⁠forecast on Thursday as it ⁠continued to win ​more customers ​and ​invest in ‌its payments technology. Adyen now expects net revenue to grow between ‌21% and ​23% ​in ​2026, ‌compared with a ​previous ​range of 20% and ​22%. (Reporting ‌by Gianluca Lo ​Nostro and Leo ​Marchandon;)",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adyen-lifts-2026-revenue-outlook-054128944.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oFDUQ5Y_dkiG1Rk5Bl.J1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/2880db22a087b9a3acb36183ba52e5de.jpg",
+      "published_at": "2026-08-13T05:41:28Z"
+    },
+    {
+      "id": "842fa230-61aa-390a-a22f-6e175692370a",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "What Is Western Union (WU) Betting On With Its Stablecard Launch?",
+      "summary": "Western Union (NYSE:WU) launched Stablecard, a digital wallet and USDPT-backed Visa card, expanding its cross-border payments offering. The product combines a stablecoin-backed wallet with global card acceptance to support money movement across more than 37 markets. Stablecard is aimed at customers seeking digital money transfers and access to stable currency options in markets with currency instability. For readers looking to explore more ways to position around trends in global money...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/western-union-wu-betting-stablecard-051246002.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/88jLkrBcUrY6WKmfWNHATg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/deae7123c305ae121db80b585a5fb9dd.jpg",
+      "published_at": "2026-08-13T05:12:46Z"
+    },
+    {
+      "id": "1f0e8d50-8808-3834-ba8a-d5c5f9c141b8",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Orezone Gold Corp (ORZCF) (Q2 2026) Earnings Call Highlights: Record Multi-Mine Production and ...",
+      "summary": "Orezone Gold Corp (ORZCF) delivers a step-change quarter with 60,654 ounces sold, robust adjusted EBITDA of $134.4 million, and key expansion projects on track.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/orezone-gold-corp-orzcf-q2-050146648.html",
+      "thumbnail": "",
+      "published_at": "2026-08-13T05:01:46Z"
+    },
+    {
+      "id": "a94a3a42-4aab-3658-a01f-5d040af1b001",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Trump Reverts to Economic Squeeze of Iranian Regime",
+      "summary": "The US military campaign against Iran has failed to force the regime to capitulate, so the Trump administration is relying on economic sanctions and a naval blockade to stifle oil exports. Bloomberg's Onur Ant explains what the challenges are, with some arguing that the regime is entrenched and that sanctions are unlikely to convince Iran to give up their nuclear program.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/trump-reverts-economic-squeeze-iranian-043953425.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MWCX56tNoGUX3AoM2_nrCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/5e2ea44ac5c9d130f4bc358063bac83c.jpg",
+      "published_at": "2026-08-13T04:39:53Z"
+    },
+    {
+      "id": "a5deac42-eaf6-3d85-bcb1-ad98045e368a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
+      "summary": "Apple is facing a new chapter as Tim Cook steps down.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/13/tim-cook-warned-of-a-100-year-flood-in-memory-chip/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GlKVIBtdARlsaUynbl09Hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f0549b48586e7b8a63d9c29c8117e54f.jpg",
+      "published_at": "2026-08-13T04:20:00Z"
+    },
     {
       "id": "14b57b48-b19c-3151-b280-4905c7091629",
       "asset": "GOLD",
@@ -46,6 +101,17 @@
       "url": "https://www.fool.com/investing/2026/08/12/super-micro-guided-fiscal-2027-revenue-16-billion/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P2BYWRpkUE2cTcOcdVXLug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/03cbc0df9d6de9b9df41ef54194c3f2c.png",
       "published_at": "2026-08-13T03:39:00Z"
+    },
+    {
+      "id": "7908a6cd-163e-3257-af46-c121485c7e5b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares mostly rise after buying of AI-related shares leads a rally on Wall Street",
+      "summary": "Asian shares were mostly higher on Thursday, powered by gains for AI-related stocks including computer chips as regional markets tracked a rally on Wall Street.  U.S. futures were little changed and oil prices were slightly lower.  In South Korea, the Kospi jumped 4%, climbing to 6,844.65, as shares in Samsung Electronics surged 5.4%.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-033327003.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d95zHVKu9yZ6HXtX9M4qrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/dacdd3f81ea6a3efdcf51433b1559178.jpg",
+      "published_at": "2026-08-13T03:33:27Z"
     },
     {
       "id": "55b0db5c-2929-3973-97ed-b0192c2c1a43",
@@ -224,17 +290,6 @@
       "published_at": "2026-08-13T01:28:28Z"
     },
     {
-      "id": "517fcacb-64a9-32c8-ab28-f3e049ef2540",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Nebius Stock Skyrocketed Today",
-      "summary": "Demand for artificial intelligence computing capacity is rising exponentially, according to CEO Arkady Volozh.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/12/why-nebius-stock-skyrocketed-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SyzmwMPK58hyJmvjLnazFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a07f2f8c367b0159d40907f5cad401fe.png",
-      "published_at": "2026-08-13T01:25:10Z"
-    },
-    {
       "id": "310b33a5-fe44-3517-8387-f1b1016ae482",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/senco-gold-ltd-nse-senco-011057710.html",
       "thumbnail": "",
       "published_at": "2026-08-13T01:10:57Z"
-    },
-    {
-      "id": "c14251ba-3ae0-3548-9ae8-01dc1ab280a8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Bikaji Foods International Ltd (BOM:543653) (Q1 2027) Earnings Call Highlights: Strong Recovery ...",
-      "summary": "Despite a slow start, Bikaji Foods posts a robust 20% growth in the latter half of Q1, with EBITDA margins expanding to 13.5% and a clear roadmap for festive season success.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bikaji-foods-international-ltd-bom-010533400.html",
-      "thumbnail": "",
-      "published_at": "2026-08-13T01:05:33Z"
-    },
-    {
-      "id": "f8f4a52a-7f4b-35b4-ab3c-fbcc8807d356",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Asian stocks rise as US inflation data dents September Fed hike bets",
-      "summary": "By Satoshi Sugiyama TOKYO, Aug 13 (Reuters) - Asian stocks rose on Thursday after U.S. inflation data came in as expected, dampening expectations of further near-term Federal Reserve rate hikes, while",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-us-inflation-010444910.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nxhkH8gSz3l4v_KBkqwwAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/96d156f5ee477d6b21d5af8f120214e2.jpg",
-      "published_at": "2026-08-13T01:04:44Z"
-    },
-    {
-      "id": "a757a285-e30b-3ec2-9589-ad69abff4eb5",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Gains on Reduced Fed Rate Hike Expectations",
-      "summary": "Gold rose in early Asian trade. Expectations of a Federal Reserve rate hike were pared back following the U.S. inflation data, as July consumer prices rose only marginally from June, ANZ said.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-13T01:03:00Z"
-    },
-    {
-      "id": "b1e3d565-2caa-31cd-84e9-27c4e7bbcf4e",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "GBM Resources extends prospective gold host 700 metres south of 309 deposit at Twin Hills",
-      "summary": "GBM Resources Ltd (ASX:GBM, OTC:GBMRF, FRA:36G0) has confirmed that the key gold-hosting breccia sequence at its Twin Hills Gold Project in Queensland extends at least 700 metres south of the existing 309 mineral resource, expanding the area considered prospective for further gold...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096971/gbm-resources-extends-prospective-gold-host-700-metres-south-of-309-deposit-at-twin-hills-1096971.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GRYnh1plrAYXOuY876mypA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/7cf90ec063bf821b067013942486a62a.jpg",
-      "published_at": "2026-08-13T01:03:00Z"
-    },
-    {
-      "id": "5605f34d-1c07-38bf-827f-73061024876e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Nikkei Rises 1.8%, Led by Chip, Electronics Stocks",
-      "summary": "Japanese stocks were higher due to eased fears about the Fed’s potential rate increases and gains in U.S. technology stocks overnight.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-electronics-stocks-c3e841b8?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-13T00:59:00Z"
     }
   ]
 }
