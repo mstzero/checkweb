@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-08-14 05:53 UTC",
+  "last_updated": "2026-08-14 07:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "170c4607-d8d3-352f-a73c-01080655a5fd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Are Innovative Beverages Enough to Turn McDonald's Around?",
+      "summary": "Part of the company's growth strategy is to add interesting menu items while simplifying operations.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/are-innovative-beverages-enough-to-turn-mcdonalds/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VLev5trkXct7Fp3hKyqXOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c555bb1875f749fd343ae97f5564f87b.png",
+      "published_at": "2026-08-14T07:05:00Z"
+    },
+    {
+      "id": "13ebe563-0077-3617-9e4b-0bcb2a26f435",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil rises after US threatens indefinite blockade of Iran",
+      "summary": "By Mohi Narayan and Helen Clark NEW DELHI, Aug 14 (Reuters) - Oil prices gained on Friday after the United States threatened an indefinite naval blockade of Iran, reviving concerns about supply of",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q2.EVQ8BpThfd87yRrdsnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/b0e158378b1122f37b5a9bdb1d65532d.jpg",
+      "published_at": "2026-08-14T07:02:27Z"
+    },
+    {
+      "id": "f9f6d0c5-b781-344f-a7c1-0b65987f9a6f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "London BTC Company targets antimony potential across Nevada exploration portfolio",
+      "summary": "London BTC Company Ltd (LSE:BTC, OTCQB: VINZF) is expanding the scope of its Nevada exploration strategy to include antimony, adding exposure to the US-designated critical mineral alongside the gold and silver potential already identified across its growing project portfolio. The company's...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097046/london-btc-company-targets-antimony-potential-across-nevada-exploration-portfolio-1097046.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tL1GGrrsRdAWdZoLPfuFCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/861ab1b3e042940efe283bea9b10155c.jpg",
+      "published_at": "2026-08-14T06:36:00Z"
+    },
+    {
+      "id": "5d8341f2-a17f-3d11-9e2f-e2ac57fc2405",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
+      "summary": "Commercial success still separates these two companies.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/mp-materials-vs-the-metals-company-which-critical/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R2hVd6iCiwWxSECFlZi8hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b7f32c3283394749f6f135be436e4d27.jpg",
+      "published_at": "2026-08-14T06:25:00Z"
+    },
+    {
+      "id": "9ba9264a-0d7b-3c33-9e9e-c7e5cada327a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "FTSE 100 Live: Blue-chips set to open higher as soft US inflation cools rate rise bets",
+      "summary": "Ahead of the open London's blue chips are tipped to open around 27 points higher on Friday, riding a wave of overnight optimism. The tone was set on Wall Street, where the S&P 500 closed at a record and the Nasdaq hit a two-month high. The trigger was July's producer price index, a...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097041/ftse-100-live-blue-chips-set-to-open-higher-as-soft-us-inflation-cools-rate-rise-bets-1097041.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N_NT7TAEF6hLl3EozofqqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/508238cc29211688fc336a35f59683b1.jpg",
+      "published_at": "2026-08-14T06:15:00Z"
+    },
+    {
+      "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Is The Crypto Market Down Today?",
+      "summary": "The crypto market slipped as two days of Bitcoin ETF outflows and a rotation into stocks pulled money away despite a cooler PPI.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yjSkL4PPHiN.x1VdTNeJiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6.png",
+      "published_at": "2026-08-14T06:05:31Z"
+    },
+    {
+      "id": "5e73ee84-8885-3e38-adf3-0a0908259cb7",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Pershing Square Q2 Earnings Call Highlights",
+      "summary": "Pershing Square (NYSE:PS) held its first earnings call as a public company, with Chairman and CEO Bill Ackman emphasizing the firm’s strategy of generating growth through the compounding value of its existing investment portfolios while selectively launching new vehicles. Ackman said the firm’s per",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/pershing-square-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YFJfJnhA0cGh0MaQn1lN7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/3048be314b5e2cb6b618ac36a7bbef04.jpg",
+      "published_at": "2026-08-14T06:04:22Z"
+    },
+    {
+      "id": "5bade3d0-e24c-315a-96a9-ee1f9d7487e7",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Pan American Silver Q2 Earnings Call Highlights",
+      "summary": "Pan American Silver (NYSE:PAAS) reported second-quarter 2026 attributable free cash flow of $344 million and returned a record $300 million to shareholders through share repurchases and dividends, while maintaining its full-year operating outlook for silver and gold production and costs. President",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/pan-american-silver-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_QXOTzejZgwyPhiB0YLtxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/46cf1739306d5c9bfadadf9bb2b80b3a.png",
+      "published_at": "2026-08-14T06:04:21Z"
+    },
+    {
+      "id": "15cdfb6b-d5e2-376e-af90-fd7c82e6e560",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
+      "summary": "Shares mostly declined Friday in Asia and U.S. futures were little changed after U.S. inflation data showed a better-than-expected improvement in July.  Oil prices were holding steady after slipping in recent days.  Tokyo's Nikkei 225 index gained 0.3% to 68,533.85, while the Kospi in South Korea rose 1.3%, to 6,924.74.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-fall-us-055846864.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UkXfjsEC66UK43qJLuElXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/55fa0e65c0e8349aaac9eb2e7cc3340a.jpg",
+      "published_at": "2026-08-14T05:58:46Z"
+    },
+    {
+      "id": "394a544f-ede4-37b1-a401-4b29b9a38e23",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Investors Were Cold on Bitdeer Technologies Stock This Week",
+      "summary": "The company had a busy Monday, announcing both its latest quarterly results and plans to sell more equity.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/why-investors-were-cold-on-bitdeer-technologies-st/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oNGK357M_dHb2JbgTeh5YQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c7a89b144bfa5d1528623d2e6dea5e75.jpg",
+      "published_at": "2026-08-14T05:57:26Z"
+    },
+    {
+      "id": "4b7fb599-2d61-3fea-ae5d-750a8c535b94",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold heads for weekly loss as investors unwind inflation-fuelled rally",
+      "summary": "By Pablo Sinha and Swati Verma Aug 14 (Reuters) - Gold prices slipped on Friday and were headed for a weekly loss as investors locked in profits after mild U.S. inflation data propelled bullion to its",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-heads-weekly-loss-investors-055257076.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gDNwVUNuP4GWt40GcNByWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/20a9d92f2e5b703ebc80f8518fbc00a6.jpg",
+      "published_at": "2026-08-14T05:52:57Z"
+    },
+    {
+      "id": "5ce9c249-0f9b-3af5-b724-c1410f6c1159",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Head for 4% Weekly Gain as U.S.-Iran Deadlock Drags On",
+      "summary": "Oil prices are heading for a roughly 4% weekly gain as prolonged U.S.-Iran tensions and restricted Hormuz traffic outweigh bearish demand forecasts and a sharp rise in U.S. crude inventories.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-head-4-weekly-054000881.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IgGazsD3I8oJ19qvCl_ILw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/941c528e536d52336f8b7c9f4118601b.jpg",
+      "published_at": "2026-08-14T05:40:00Z"
+    },
     {
       "id": "c34b8123-cb29-3b50-9bfd-26cb6f8912d7",
       "asset": "NVDA",
@@ -24,6 +156,17 @@
       "url": "https://www.barrons.com/articles/stock-market-bulls-c0d2fe25?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HQq8kHXNDzBP7H9g7C5QqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9fe0eb9e88942b3a19949b8466c1218d.jpg",
       "published_at": "2026-08-14T05:30:00Z"
+    },
+    {
+      "id": "9a731d06-205b-3b49-a185-fb1f4a5aeaff",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "SpaceX Ownership: How Much of the $2 Trillion Company Does Musk Own?",
+      "summary": "Elon Musk owns 48.4% of SpaceX and over 82% of its votes, a new SEC filing shows. His stake tops $900 billion.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/spacex-ownership-musk-stake-voting-power/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MumBHvcjwOS6g37kf.fydw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3349f95c1fe30e39199d9d62c1690819.jpg",
+      "published_at": "2026-08-14T05:19:10Z"
     },
     {
       "id": "27830bc0-26b4-36b2-8861-87a1f7a47f29",
@@ -137,36 +280,14 @@
     },
     {
       "id": "cf247389-9eac-3925-b238-e9b3de25301a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
       "summary": "In recent weeks, a stream of partner announcements has brought new exclusive products and wellness offerings to Walmart stores and Walmart.com, while the retailer also prepares to report its second-quarter earnings on August 20, 2026. These launches, alongside expanding health, frozen meals, pet treats, and safety categories, highlight Walmart’s effort to broaden its appeal to families across both physical and digital channels. We’ll examine how this earnings countdown, coupled with...",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-walmart-wmt-031601378.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/95g0vlRJRlqskXhgAItunA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4559202443400de02cb22c3c39f33e03.jpg",
       "published_at": "2026-08-14T03:16:01Z"
-    },
-    {
-      "id": "372484bd-8970-379d-a2fc-2861d09d3194",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
-      "summary": "The networking giant's new outlook calls for 15% growth -- so why did shares drop more than 8%?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/13/chuck-robbins-says-ai-is-fueling-a-networking-supe/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/067JiAkhx9BpGJ52_Y_DRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2bd0a9264754af14d1577362ecc11c43.png",
-      "published_at": "2026-08-14T03:13:00Z"
-    },
-    {
-      "id": "13ebe563-0077-3617-9e4b-0bcb2a26f435",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil steadies after US threatens indefinite blockade of Iran",
-      "summary": "By Mohi Narayan and Helen Clark NEW DELHI, Aug 14 (Reuters) - Oil prices inched up on Friday after the United States threatened an indefinite naval blockade of Iran, reviving concerns about supply of",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8kWDbDsyvw5vE5kvwrq8Ow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/045f22c3da47b3d9e525549b39c6d62f.jpg",
-      "published_at": "2026-08-14T03:11:17Z"
     },
     {
       "id": "d77ca588-1019-36e1-8065-a36ae0ce7b6c",
@@ -189,127 +310,6 @@
       "url": "https://sg.finance.yahoo.com/news/rupees-rbi-cushioned-weakness-may-030159749.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YBAGe58y4hq7cxmwJh7thQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/47b76976a8b7c35c7e676a9fa474ba3b.jpg",
       "published_at": "2026-08-14T03:01:59Z"
-    },
-    {
-      "id": "4e9b3947-b566-31fb-8794-6dc75959ec40",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Most Asian stocks track Wall St record as US data ease rate fears",
-      "summary": "Most Asian stocks rose Friday as another soft US inflation reading solidified expectations the Federal Reserve will hold off hiking interest rates, while a further drop in oil prices added to the upbeat mood.Investors are now pricing in a less than 40 percent chance of a September rate hike, compared with 50 percent last week.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WEL2f.2.QhM1uRBEW5tRtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/304c4857306432e8629046e248468446.jpg",
-      "published_at": "2026-08-14T02:48:50Z"
-    },
-    {
-      "id": "7bfc769b-fb33-3782-a736-a96ece94048e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian shares set for muted start as Middle East risks weigh",
-      "summary": "Aug 14 (Reuters) - Indian shares are expected to open little changed on Friday as reduced possibilities of a U.S.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-022759830.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f8gIIkk5uOGJm6fqY5j6aw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5be251025751ffa92c54566e7f511a65.jpg",
-      "published_at": "2026-08-14T02:27:59Z"
-    },
-    {
-      "id": "91f748f1-8d4e-370d-affc-52b82d6be9d3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen?",
-      "summary": "There's a good reason why AstraZeneca tanked when merger rumors hit the Street.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/13/is-the-reported-400-billion-astrazeneca-bristol-my/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DX0s6ecRDj_lIgrb7qzX5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b770cb5d90ed47b35e57651f76457a9.jpg",
-      "published_at": "2026-08-14T02:20:00Z"
-    },
-    {
-      "id": "0603cb2d-d8c2-3a4f-bb98-14d0cfed91e0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-      "summary": "On Thursday, Apple Inc. (NASDAQ:AAPL) CEO Tim Cook was joined by U.S. Commerce Secretary Howard Lutnick and others at the opening of the new Advanced Manufacturing Center in Houston, Texas, where Cupertino will begin making Mac mini computers later this year. Apple Opens Houston Manufacturing Center The 20,000-square-foot center will provide free training to small and midsized businesses, workers and students on advanced manufacturing techniques, including machine-learning-powered quality contro",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/trump-wanted-advanced-tech-made-020749304.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/abIgV695Gv0_2WFeaB0ZKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/ede74d0c5bc88ca0887d4f7b7e6c7688.jpg",
-      "published_at": "2026-08-14T02:07:49Z"
-    },
-    {
-      "id": "104cdb02-0f56-3e0f-be8b-252f29a7ef9b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple’s next iPhone battle just got more complicated",
-      "summary": "Apple (AAPL) is preparing to undertake a pretty unpleasant AI test. Google has unveiled the Pixel 11 series. With Gemini Intelligence incorporated much more deeply into the smartphone experience, it offers customers an AI assistant that can comprehend what they're doing across messaging, calendars, ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/apple-next-iphone-battle-google-pixel-11",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IKLB_9oRzX1FlHBCoP0adQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a35225e1c1e59766e46c9a223608b7d9.jpg",
-      "published_at": "2026-08-14T01:17:00Z"
-    },
-    {
-      "id": "0daa1171-6383-3fc2-a847-a9bb4d82ae6a",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "SharpLink Deploys $200M in Ethereum Through Lido to Expand DeFi Yield Strategy",
-      "summary": "SharpLink Inc. (NASDAQ: $SBET) is putting another $200 million of its Ethereum treasury to work, this time through ...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/sharplink-deploys-200m-in-ethereum-through-lido-to-expand-defi-yield-strategy-6420",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9SbOLHkIcZc0fGSPuoNcEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/cbb53a365bf40ffb688d8920832f56a1.jpg",
-      "published_at": "2026-08-14T01:15:00Z"
-    },
-    {
-      "id": "da84c9b6-e37b-34ec-a46f-d4e977f37fc7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil markets look calm on top, but underneath shows a big toll",
-      "summary": "It was a nice lull in gasoline prices, wasn't it? Alas, a deal between the United States and Iran to reopen the Strait of Hormuz fell apart yet again, and oil prices turned up more than $5 a barrel and have pulled up U.S. pump prices as well. Nationally, the average U.S. price of gasoline was above ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/slow-resolution-of-war-with-iran-is-exacting-growing-costs",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rKcexRHLQP9ck8knX.fWJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0ffef731c0cf145081eaf4046eddc6e8.jpg",
-      "published_at": "2026-08-14T01:14:46Z"
-    },
-    {
-      "id": "2002f1f7-8cc3-337f-baf0-2db43a2a6845",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "StoneX Group (SNEX) Acquires Banco Travelex To Grow Brazil FX And Payments",
-      "summary": "StoneX Group (NasdaqGS:SNEX) announced the acquisition of Banco Travelex to expand its payments and foreign exchange capabilities in Brazil. The deal is aimed at increasing StoneX's presence in the Latin American FX and payments market and broadening services for clients in the region. Management highlighted the acquisition as a material move for the company and its stakeholders, with a focus on Brazil as a key geographic market. Consider looking at other companies in related segments to...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/stonex-group-snex-acquires-banco-011106829.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ly2aDAj73cTuDVKSap7nNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/297a096e5743176fa71b67c7278a433d.jpg",
-      "published_at": "2026-08-14T01:11:06Z"
-    },
-    {
-      "id": "01a4c651-89a0-3ed4-8f08-e9be04ef5e5f",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
-      "summary": "Investors don't care as much about spending with a clear return on investment in sight.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/13/microsoft-and-tesla-share-a-common-concern-but-her/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KHliTOwSMcyfKARDUwLIxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b24ba53fe1d66d8da3c61f0499a7ca7a.png",
-      "published_at": "2026-08-14T00:20:00Z"
-    },
-    {
-      "id": "b071375b-d892-3c86-a878-529a8e307ae5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Iranian war politics keep oil market in an uproar",
-      "summary": "Odessa oilman Kirk Edwards says the war with Iran and the politics surrounding it are keeping the energy industry in a bind. “Iran is now making demands of the United States,” Edwards said. “How did we get here? “Iran is now reportedly demanding compensation, sanctions relief, changes to the American military presence in the Gulf and greater control over passage through the Strait of Hormuz. ...",
-      "source": "Odessa American, Texas",
-      "url": "https://www.oaoa.com/?p=369056",
-      "thumbnail": "",
-      "published_at": "2026-08-14T00:02:00Z"
-    },
-    {
-      "id": "97f637ba-4da2-3c89-bd34-6aedf3b863c4",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Use This Zacks Tool to Find Strong Cloud Stocks",
-      "summary": "Cloud computing refers to the on-demand seamless access of computing resources such as servers, storage, databases, networking, software, analytics, and intelligence over the Internet (the cloud) on a pay-per-use pricing model.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/zacks-tool-strong-cloud-stocks-234800020.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V8isbpn1GGF4soQLHgknnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/493c3feda6e0e15fef3a8f66cc933696.jpg",
-      "published_at": "2026-08-13T23:48:00Z"
     }
   ]
 }
