@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-14 23:17 UTC",
+  "last_updated": "2026-08-14 23:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c983d71a-fc10-3c0d-b9be-d91244f0d0c0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center",
+      "summary": "Nvidia  and OpenAI are nearing a deal to finance a large-scale data-center campus in Ohio, but have reworked the deal structure so that Nvidia would initially guarantee only half of the planned multi-hundred-billion-dollar buildout rather than all of it, according to people familiar with the deal.  The revised plan would lower the size of Nvidia’s financial guarantee from $250 billion to less than $120 billion, a change made to address investors’ concerns about the chipmaker’s risk exposure as it wields its balance sheet to bolster demand for its artificial-intelligence chips, some of the people said.  Nvidia shares fell 5% after the Journal first reported the discussions of the $250 billion backstop.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YdLqrhOndUpZZ1QihIWUTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d24b46247be47ffe67dc59e3b67c1d0e.jpg",
+      "published_at": "2026-08-14T23:29:00Z"
+    },
+    {
+      "id": "80941763-242e-3a5e-85df-5f7ea52f22ab",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "JFrog (FROG) Is Up 7.4% After Raising Guidance On AI-Fueled Cloud Security Demand - Has The Bull Case Changed?",
+      "summary": "In August 2026, JFrog reported Q2 results showing revenue rising to US$163.77 million with a sharply smaller net loss, while also issuing higher full-year revenue guidance and highlighting accelerating demand for its cloud and security offerings amid AI-driven software development. JFrog’s upcoming swampUP 2026 conference in New York, featuring security and AI leaders from Anthropic, Microsoft, NVIDIA and others, underlines its push to position the platform at the center of securing AI-era...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jfrog-frog-7-4-raising-231159451.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Npo6PyG59vU32pz5CnuVOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/36ca5b522ba2e0a30acf16e5282f313b.jpg",
+      "published_at": "2026-08-14T23:11:59Z"
+    },
     {
       "id": "f398e201-15cd-31ac-a431-03cfdbd9c452",
       "asset": "AAPL",
@@ -101,6 +123,17 @@
       "url": "https://finance.yahoo.com/video/former-boston-fed-pres-investment-221642451.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V7e9fB95yoYGw_8f6wwWVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/b5891d692ab9f04ea10346d54f84a573.jpg",
       "published_at": "2026-08-14T22:16:42Z"
+    },
+    {
+      "id": "ea4f74a2-d87f-3bac-9b4d-d19e836acad1",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AI Infrastructure Stocks: Billions of Reasons to Stay Bullish",
+      "summary": "Investors have hundreds of billions ($) of reasons why to remain bullish on the AI buildout, particularly for companies like Vertiv (VRT) and Broadcom (AVGO), as companies continue to invest heavily in their AI futures.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-billions-reasons-221200697.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c5XvPOrzPQnWPIL7SSW1lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/66aab1b6882a9874a6ec7e76752bb0ed.jpg",
+      "published_at": "2026-08-14T22:12:00Z"
     },
     {
       "id": "73198b96-74b2-356c-8733-54fd547a5c48",
@@ -258,25 +291,14 @@
     },
     {
       "id": "00339b32-5e9a-331a-9223-dd02518723a7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
       "summary": "Stock Market Today: The Dow Jones index falls Friday on soft economic data. AI chip equipment giant Applied Materials dives on earnings.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GWvWpN1gtUPF56HD9gZvqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
       "published_at": "2026-08-14T21:05:08Z"
-    },
-    {
-      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
-      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lzRIMUw1zXpzy7uLd1995Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7a71877e6fdc59a577000e45ca772655.jpg",
-      "published_at": "2026-08-14T21:04:48Z"
     },
     {
       "id": "dedc5312-6f46-3d57-aa24-6ae0d8e1ae91",
@@ -288,28 +310,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/contango-ore-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yFGlZzlI_JugnB_mZtTApA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3.jpg",
       "published_at": "2026-08-14T21:02:18Z"
-    },
-    {
-      "id": "e7268442-8e70-4f82-81e0-ac3ce6964b12",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Databricks vs Snowflake: Analyst explains key differences in AI platforms",
-      "summary": "Clear Street Managing Director Owen Lau compares Databricks to Android as an open-source alternative to Snowflake, while outlining the margin pressures and ROI debates surrounding its serverless AI model following a $190 billion valuation.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/databricks-vs-snowflake-analyst-explains-210015938.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9NBQO_nHs7sxN4.lt57XUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/eed1ec38-b556-475a-98a2-5dd4904b7697_fb4e497440bf5c41b699fc6710831504bc3c3dcf7ea85a5c6c550cf2aaca51de.jpg",
-      "published_at": "2026-08-14T21:00:15Z"
-    },
-    {
-      "id": "90285fc6-acc0-39ce-9b64-7b59b81772b6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on oil futures ,E.ON, Korea Electric Power and more in the latest Market Talks covering energy and utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-67496cf5?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4zPnx0vk9WD.QhBPJRPSmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/48c2fd3db267a8768e856d8127991766.jpg",
-      "published_at": "2026-08-14T21:00:00Z"
     }
   ]
 }
