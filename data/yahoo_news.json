@@ -1,18 +1,172 @@
 {
-  "last_updated": "2026-08-14 20:54 UTC",
+  "last_updated": "2026-08-14 21:20 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "27830bc0-26b4-36b2-8861-87a1f7a47f29",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Oil prices rally, US data dents chances of Fed rate hike",
+      "summary": "By Chris Prentice and Amanda Cooper NEW YORK/LONDON, Aug 14 (Reuters) - U.S. and European shares fell on Friday and oil prices rose more than $1 a barrel as markets monitored tense U.S.-Iran talks and",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4gvA5rTRFQItp8Ugksh0uA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6c094cd9d24d3e236ed664d51a7172f2.jpg",
+      "published_at": "2026-08-14T21:12:15Z"
+    },
+    {
+      "id": "6c814ebd-7c1a-3f35-8f67-2ac0ffe7c1d3",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Waymo Scales Toward 1 Million Weekly Rides After California Approval For Expansion",
+      "summary": "CPUC approved the expansion of Waymo’s fully autonomous ride-hailing service across the San Francisco Bay Area and Los Angeles, plus launches in Sacramento and San Diego.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/waymo-scales-toward-1-million-weekly-rides-after-california-approval-for-expansion/cZotHVjRJKb",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OTjOjLJo_PPp1Or1l6GvJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2a16fe6c34fb92ce1888a7099eac4619.jpg",
+      "published_at": "2026-08-14T21:07:48Z"
+    },
+    {
+      "id": "898124d0-52a1-33be-ab91-ea573626ed4f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.",
+      "summary": "The SEC postponed its Friday meeting, which would consider whether to propose new crypto rules amid the Clarity Act limbo.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0mIcsI2iXga.q97N4RbCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5eef8d1ee94cfa474d93c19efce42cb9.jpg",
+      "published_at": "2026-08-14T21:05:52Z"
+    },
+    {
+      "id": "00339b32-5e9a-331a-9223-dd02518723a7",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
+      "summary": "Stock Market Today: The Dow Jones index falls Friday on soft economic data. AI chip equipment giant Applied Materials dives on earnings.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GWvWpN1gtUPF56HD9gZvqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
+      "published_at": "2026-08-14T21:05:08Z"
+    },
+    {
       "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Market Ready To Run? Sandisk Skyrockets, But Must Do This; Walmart, Target Due",
+      "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
       "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lzRIMUw1zXpzy7uLd1995Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7a71877e6fdc59a577000e45ca772655.jpg",
-      "published_at": "2026-08-14T20:46:14Z"
+      "published_at": "2026-08-14T21:04:48Z"
+    },
+    {
+      "id": "dedc5312-6f46-3d57-aa24-6ae0d8e1ae91",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Contango ORE Q2 Earnings Call Highlights",
+      "summary": "Contango ORE (NYSEAMERICAN:CTGO), which management referred to during its quarterly update as Contango Silver & Gold, said it expects stronger production, lower costs and increased cash distributions in the second half of 2026 as mining advances into higher-grade material at the Manh Choh joint",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/contango-ore-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yFGlZzlI_JugnB_mZtTApA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3.jpg",
+      "published_at": "2026-08-14T21:02:18Z"
+    },
+    {
+      "id": "c1368b93-0311-3c22-97d4-3af19742f28e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Super League Enterprise, Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Super League Enterprise, Inc.'s Q2 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-super-league-enterprise-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QUiYRLw_CdGYprHXqBeYjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/b9c57ef571561025784f2558c093dd58.png",
+      "published_at": "2026-08-14T21:01:48Z"
+    },
+    {
+      "id": "e7268442-8e70-4f82-81e0-ac3ce6964b12",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Databricks vs Snowflake: Analyst explains key differences in AI platforms",
+      "summary": "Clear Street Managing Director Owen Lau compares Databricks to Android as an open-source alternative to Snowflake, while outlining the margin pressures and ROI debates surrounding its serverless AI model following a $190 billion valuation.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/databricks-vs-snowflake-analyst-explains-210015938.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9NBQO_nHs7sxN4.lt57XUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/eed1ec38-b556-475a-98a2-5dd4904b7697_fb4e497440bf5c41b699fc6710831504bc3c3dcf7ea85a5c6c550cf2aaca51de.jpg",
+      "published_at": "2026-08-14T21:00:15Z"
+    },
+    {
+      "id": "1912f9a2-d066-3d49-a9b5-29a9518e0557",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "ADBE Stock: Collect 12% While Setting A 30%-Off Buy Price",
+      "summary": "Here is a way to collect a steady income stream from Adobe stock right now, which you keep no matter what, while lining up a chance to buy this creative software giant at a deep discount if its turnaround stumbles.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/611479/adbe-stock-collect-12-while-setting-a-30-off-buy-price/2026-08-14",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NPrfdkpqdHrzhBlCvoKorw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/5a244008120629ff6da292a0e3ab9a6e.jpg",
+      "published_at": "2026-08-14T20:59:53Z"
+    },
+    {
+      "id": "b759612b-af9b-39e4-b504-6a29122db2c8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "PAVmed Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of PAVmed Inc.'s Q2 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pavmed-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VI7Ao8uwpiQgyBPtgC2uKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/1ca3184c9e0f09e919296268e9cfe948.png",
+      "published_at": "2026-08-14T20:59:46Z"
+    },
+    {
+      "id": "64801a7e-6949-32b1-922a-8dedb0a76756",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Amapa Minerals Produces About 500 Ounces of Gold in Q2",
+      "summary": "Amapa Minerals Holdings (AMAP.TO) after the close on Friday said it produced approximately 500 ounce",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amapa-minerals-produces-500-ounces-205247958.html",
+      "thumbnail": "",
+      "published_at": "2026-08-14T20:52:47Z"
+    },
+    {
+      "id": "ca52bbdb-3f28-3012-8559-f40d7ac5fea7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Creative Media & Community Trust Corporation Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Creative Media & Community Trust Corporation's Q2 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-creative-media-community-trust-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vYrkxQ_PhITukVjYUzO4ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/1f10c9b08827affc9c60bce086abe58d.png",
+      "published_at": "2026-08-14T20:52:09Z"
+    },
+    {
+      "id": "f5581628-0fb5-3887-8b19-1310c4ff445e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Digi Power X Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Digi Power X Inc.'s Q2 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-digi-power-x-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "",
+      "published_at": "2026-08-14T20:50:51Z"
+    },
+    {
+      "id": "7503fecd-2ac2-31a2-815e-9b18f394e8d3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Americas Gold and Silver Corporation Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Americas Gold and Silver Corporation's Q2 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-americas-gold-and-silver-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bib_QqERE_KPSHjSnhxb8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a.png",
+      "published_at": "2026-08-14T20:50:47Z"
+    },
+    {
+      "id": "8a16d84e-eefd-3065-83cf-78faad91d2f3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Edible Garden AG Incorporated Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Edible Garden AG Incorporated's Q2 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-edible-garden-ag-incorporated-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KhTGW513gmpinglZgZLBhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/a98a16c78c3785ded75c0086a2a051f4.png",
+      "published_at": "2026-08-14T20:47:37Z"
     },
     {
       "id": "4e9b3947-b566-31fb-8794-6dc75959ec40",
@@ -48,39 +202,6 @@
       "published_at": "2026-08-14T20:31:10Z"
     },
     {
-      "id": "1a2c421b-310b-3c16-b4ca-61cf82ce88c2",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Stocks Are Finally Pulling Back and These Buffer ETFs Still Promise 100 Percent Downside Protection",
-      "summary": "With volatility sitting near historic lows and year-to-date gains piling up, three buffer ETFs are competing for nervous investors' attention, but the one promising total downside protection comes with a catch that changes everything.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/14/stocks-are-finally-pulling-back-and-these-buffer-etfs-still-promise-100-percent-downside-protection/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1rpsOgrkQfUgARc4WiihQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fded941da7cfb559cc2eb4adc2e7c66e.jpg",
-      "published_at": "2026-08-14T20:26:26Z"
-    },
-    {
-      "id": "18df11da-ed36-32c3-a315-9f1e23317050",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-      "summary": "The market is punishing a chip giant's stock while it offers a cash return that most blue chips can't match, forcing a hard look at the engine inside.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/611499/qcom-a-cash-gusher-at-a-marked-down-price-2/2026-08-14",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Et.jMiWN31n9pjLKgQVSEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/b873e06c110baeb7d29ba6df6ec3cafb.jpg",
-      "published_at": "2026-08-14T20:25:37Z"
-    },
-    {
-      "id": "dcc57ffd-57f2-3865-8724-8259aed87a8c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Vertex Pharmaceuticals Just Hit an All-Time High. Here's Why the Biotech Stock Could Soar Even More",
-      "summary": "The drugmaker should significantly mitigate its most important risk as it develops new products.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/14/vertex-pharmaceuticals-just-hit-an-all-time-high-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D5Qd5nkDeNCgZFFkUIOzHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b89b767925e72c26f4688e3591f13c59.png",
-      "published_at": "2026-08-14T20:20:00Z"
-    },
-    {
       "id": "f9153e83-1fd9-399e-92dd-6d28cf0b0b33",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -92,17 +213,6 @@
       "published_at": "2026-08-14T20:19:26Z"
     },
     {
-      "id": "6ebcd7ae-17a5-38f0-b869-8d45f43fba9a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
-      "summary": "Why Nvidia wants Wall Street to treat AI as more than just technology infrastructure",
-      "source": "Coinage Coop",
-      "url": "https://www.coinage.media/2026/nvidia-ceo-jensen-huang-sells-wall-street-on-compute-as-a-commodity",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EU6Hgt8dv5UYE5FxMg2A1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinage_coop_399/839edfae6842c8d954e4506a9e35e86a.png",
-      "published_at": "2026-08-14T20:18:00Z"
-    },
-    {
       "id": "998f561d-4ba4-3646-9375-3206f7985348",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -112,6 +222,17 @@
       "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-retreats-record-201716808.html",
       "thumbnail": "",
       "published_at": "2026-08-14T20:17:16Z"
+    },
+    {
+      "id": "582d7c43-0c25-3f49-9c25-540e81996d6e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
+      "summary": "Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-treads-water-as-summer-doldrums-grip-markets-6434",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9A3pQzK.fiS5FUbLkbNlQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/80a3c6958634409ffc4b1d746efb7c7a.jpg",
+      "published_at": "2026-08-14T20:15:00Z"
     },
     {
       "id": "522cb2d9-eab3-35c2-b116-b80818a672e7",
@@ -126,8 +247,8 @@
     },
     {
       "id": "405cb06b-564e-37c6-aa7b-22b9186ace82",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "US Equity Markets End Lower Amid Weak Retail Sales Data, Rise in Crude Oil Prices",
       "summary": "US equity indexes ended lower Friday amid a drop in retail sales and after crude oil prices rose fol",
       "source": "MT Newswires",
@@ -189,127 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-lower-195659801.html",
       "thumbnail": "",
       "published_at": "2026-08-14T19:56:59Z"
-    },
-    {
-      "id": "36aa6bb8-5c9b-3328-835a-2d94396dddd2",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "summary": "Consumer stocks were mixed late Friday afternoon, with the State Street Consumer Staples Select Sect",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194726434.html",
-      "thumbnail": "",
-      "published_at": "2026-08-14T19:47:26Z"
-    },
-    {
-      "id": "9ac3a2c8-8407-3fe8-adee-7b8c8b484de7",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Just Ripped Higher on an Ugly Jobs Report, and It’s Still Well Off Its Record. Buy GLDM Now?",
-      "summary": "Gold surged after a bruising jobs report, but GLDM still sits well below its 2026 record, and that gap creates a very different conversation than buying bullion at a peak.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/14/gold-just-ripped-higher-on-an-ugly-jobs-report-and-its-still-well-off-its-record-buy-gldm-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zEaOWsmVM1q.YvkBnevTCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/31d2ef481947249c472924f1c2bc35a5.jpg",
-      "published_at": "2026-08-14T19:45:48Z"
-    },
-    {
-      "id": "34dc49b1-65e2-380b-9e80-c66f295e8820",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after a wave of upbeat earnings reports and bullish forecasts from key industry players signaled robust and sustained demand for artificial intelligence technology.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YH34A.kscQPjee4qJLhRlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/f93ef77b4a164f0cdf8fd8a11ec77a6d.jpg",
-      "published_at": "2026-08-14T19:41:00Z"
-    },
-    {
-      "id": "295d562d-53bd-301e-931e-666d3a46c6c7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Worried About Outliving Your Retirement Savings? 4 Key Moves to Lower the Odds.",
-      "summary": "It's a legitimate fear, but you can take steps to protect yourself.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/retirement/2026/08/14/worried-about-outliving-your-retirement-savings-4/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ArNitU6Hpy.hYQCekkXy3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9e859cd499532fe65728e2fca1f0c5b3.jpg",
-      "published_at": "2026-08-14T19:38:00Z"
-    },
-    {
-      "id": "57ddadc3-9501-3707-a554-9d6688a8480c",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Waymo doubles down on the cars America won’t let you buy",
-      "summary": "Trade barriers are supposed to be simple machines. You raise the price of a thing until buying it stops making sense, and the buying stops. Washington built one of the tallest of those walls in modern trade policy around Chinese electric vehicles, and by the only measure most people can see, it ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/waymo-doubles-down-on-chinese-evs-america-wont-let-you-buy",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/53kGzhchre3CMPnmMn9VSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a2a1716f03653cd730a79c0164ce98f9.jpg",
-      "published_at": "2026-08-14T19:37:00Z"
-    },
-    {
-      "id": "378f9ee3-1634-3482-8368-6be3f6d9f0b8",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Cash Pays 3.8% and the Fed May Hike. This T-Bill Fund Pays the Same but Sends No Tax Bill Until You Sell",
-      "summary": "Two funds chase the same short-Treasury yield, but one sends a tax bill every single month while the other lets gains sit untouched until you decide to sell. For high-bracket investors with taxable accounts, that timing difference is worth more than it looks.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/14/cash-pays-3-8-and-the-fed-may-hike-this-t-bill-fund-pays-the-same-but-sends-no-tax-bill-until-you-sell/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a6orhHaQToR.4n8JEtGL2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7084e7bfde4c9b36061e5c4bd608b6f8.jpg",
-      "published_at": "2026-08-14T19:34:15Z"
-    },
-    {
-      "id": "00339b32-5e9a-331a-9223-dd02518723a7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: Nasdaq Sinks On Retail Sales Gloom; Nvidia Eyes Robotics Wave (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index falls Friday on soft economic data. AI chip equipment giant Applied Materials dives on earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GWvWpN1gtUPF56HD9gZvqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
-      "published_at": "2026-08-14T19:33:56Z"
-    },
-    {
-      "id": "c7de196b-bbe7-366a-a133-051df59b681d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Israel’s Largest Bank Partners With Galaxy Digital To Offer Crypto Trading",
-      "summary": "Bank Leumi ($LUMI), Israel’s biggest lender, is partnering with Galaxy Digital (NASDAQ: $GLXY) to offer crypt...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/israels-largest-bank-partners-with-galaxy-digital-to-offer-crypto-trading-6432",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W6wN4dLz0jgCTpwaGIiMDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/dccbfef2a1426a0500803b5d58bc2b40.jpg",
-      "published_at": "2026-08-14T19:30:00Z"
-    },
-    {
-      "id": "0d704a97-ae8d-3c54-9c69-37837cf4540b",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The Best House On The Block Costs The Most: PLTR",
-      "summary": "This data-software powerhouse is delivering leading growth, but the market is already charging a leading price for the privilege.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/611491/the-best-house-on-the-block-costs-the-most-pltr/2026-08-14",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wIXMMcpC6KPbSVcdREudJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/9d7431dffa0e017dcd7019c5587504cb.jpg",
-      "published_at": "2026-08-14T19:28:16Z"
-    },
-    {
-      "id": "78f96790-0151-398c-ac7c-7c81fe305b0f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Tiger Global Management cuts stakes in Big Tech, buys into SpaceX",
-      "summary": "Tiger Global Management trimmed several of its Big Tech stakes, exited Netflix, and took positions in Advanced ‌Micro Devices and SpaceX during the second quarter, according to ‌regulatory disclosures filed Friday.  • The hedge fund cut its Alphabet holdings by 45.4% to 5.81 million shares as of June 30 from the end of March, and its Nvidia stake by 6.8% to 11.20 million shares.  • ‌It trimmed its Microsoft ⁠stake by 9.3% to 2.27 million shares and its Amazon position by 3.2% to 9.68 million shares.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-management-cuts-stakes-192754927.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xBT7XOODX9_8GO9bKNeBXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b7a648e444593d979c65750b5e76c673.jpg",
-      "published_at": "2026-08-14T19:27:54Z"
-    },
-    {
-      "id": "c3c5bb8f-1338-31a5-acd1-93fa55ecbc91",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Stock Jumps 2.7% After Fresh Roadster Reveal Signal",
-      "summary": "Tesla's chief designer indicated that the repeatedly delayed electric sports car could finally be approaching its production-form debut.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-jumps-2-7-192139233.html",
-      "thumbnail": "",
-      "published_at": "2026-08-14T19:21:39Z"
     }
   ]
 }
