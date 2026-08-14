@@ -1,18 +1,73 @@
 {
-  "last_updated": "2026-08-14 21:48 UTC",
+  "last_updated": "2026-08-14 22:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "ff06f4ab-7846-3961-85a7-0c7b47797988",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Two Funds Promise 20% Income From the S&P 500. One Caps Your Upside, One Doesn’t, and It Charges Less",
-      "summary": "Two ETFs are racing to deliver 20% annual income from the S&P 500, but they take fundamentally different bets to get there, and the gap between them is costing some investors real money.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/14/two-funds-promise-20-income-from-the-sp-500-one-caps-your-upside-one-doesnt-and-it-charges-less/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VKZWIk_i0fa2mHCJaBObuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3092373a1cb88529d67da5f55017dc88.jpg",
-      "published_at": "2026-08-14T21:35:08Z"
+      "id": "a01b419f-6ec5-3f33-8f0d-bbc73a44f2aa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Oracle Stock Got Trounced Today",
+      "summary": "The company's major plans for its data center future suffered a setback.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/why-oracle-stock-got-trounced-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/URxcVPziGcCAhqmz4m0prA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bfd5ac90615a615fcf2ca321dc7b4c7a.jpg",
+      "published_at": "2026-08-14T22:02:45Z"
+    },
+    {
+      "id": "78d9728d-82ab-31a6-adc2-88a2ba6f0971",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why REalloys Stock Soared Today",
+      "summary": "Investors are mining below the headline numbers, and they dig what they discovered.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/why-realloys-stock-is-soaring-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/puNv8CbnGxTMcaJYKLtkFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/76b0b49eb9df3b42ffa50b815efd5fcf.jpg",
+      "published_at": "2026-08-14T21:57:59Z"
+    },
+    {
+      "id": "671f0efd-6227-3825-8b85-42157d5015e5",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+      "summary": "Institutional investors pulled back slightly from key stock market segments such as semiconductors, AI infrastructure and megacap technology companies during the second quarter, with few big bets in either direction, U.S. Securities and Exchange Commission filings show.  A Reuters analysis of quarterly 13F filings from 6,371 pension ‌funds, hedge funds, wealth managers and other institutional investors reveals a narrow gap between the number of investors increasing their positions and those reducing them, but in many cases the gap ‌swung slightly negative.  Nearly 44% of filers reviewed trimmed their holdings of the Magnificent Seven group of megacap tech firms such as Microsoft and Meta Platforms, while 42% initiated or expanded their holdings of this group.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZMJaI0awe37x5NwdTtHdYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
+      "published_at": "2026-08-14T21:54:16Z"
+    },
+    {
+      "id": "41aa00bd-2bc8-3705-9d89-9084c4fa7ac3",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Berkshire Boosted Alphabet, Delta Stakes in 2nd Quarter, Sold Bank of America",
+      "summary": "Berkshire’s Alphabet stake—consisting of the search giant’s voting and nonvoting shares—rose about 80% in the quarter to 106 million shares, reflecting a purchase directly from Alphabet in June and open-market buys, based on a 13-F report with the Securities and Exchange Commission late Friday.  Berkshire was a seller of part of its sizable stake in  Bank of America  cutting it by 30 million shares to 483 million shares now worth about $31 billion.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/berkshire-hathaway-alphabet-delta-3bfd1c16?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sqjspJLkgDHnhxyQZr_v4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/800b95f6dd9fabe4de6544426368fc33.jpg",
+      "published_at": "2026-08-14T21:46:00Z"
+    },
+    {
+      "id": "5b1882c1-07b9-3a10-82cc-b05f5990728d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet Just Borrowed $25 Billion, and $2.5 Billion of It Isn't Due Until 2066",
+      "summary": "Some of this money doesn't have to be paid back for 40 years. The servers the search giant is buying are depreciated over about six years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/alphabet-just-borrowed-25-billion-and-25-billion-o/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cTTg7kag19xmZ_1K1U7KFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cda817c3310b9724617efaf2ecd86408.jpg",
+      "published_at": "2026-08-14T21:43:00Z"
+    },
+    {
+      "id": "f64aebbb-5596-394c-a75e-aa0d24d49ebc",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Robert Kiyosaki Links Bitcoin and AI to an Old Prediction: Who Made It?",
+      "summary": "Robert Kiyosaki linked futurist Buckminster Fuller's predictions to the emergence of Bitcoin and artificial intelligence.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/robert-kiyosaki-bitcoin-ai-old-prediction/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vq2fvaSLx8izRmw1Ie4OnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/97d54de46a5d853d2508e54ece67eda3.png",
+      "published_at": "2026-08-14T21:32:04Z"
     },
     {
       "id": "3236935d-fbd3-39bf-bba8-85b9441aa6db",
@@ -191,39 +246,6 @@
       "published_at": "2026-08-14T20:52:47Z"
     },
     {
-      "id": "ca52bbdb-3f28-3012-8559-f40d7ac5fea7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Creative Media & Community Trust Corporation Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Creative Media & Community Trust Corporation's Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-creative-media-community-trust-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vYrkxQ_PhITukVjYUzO4ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/1f10c9b08827affc9c60bce086abe58d.png",
-      "published_at": "2026-08-14T20:52:09Z"
-    },
-    {
-      "id": "f5581628-0fb5-3887-8b19-1310c4ff445e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Digi Power X Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Digi Power X Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-digi-power-x-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "",
-      "published_at": "2026-08-14T20:50:51Z"
-    },
-    {
-      "id": "7503fecd-2ac2-31a2-815e-9b18f394e8d3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Americas Gold and Silver Corporation Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Americas Gold and Silver Corporation's Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-americas-gold-and-silver-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bib_QqERE_KPSHjSnhxb8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a.png",
-      "published_at": "2026-08-14T20:50:47Z"
-    },
-    {
       "id": "4e9b3947-b566-31fb-8794-6dc75959ec40",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -288,28 +310,6 @@
       "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-treads-water-as-summer-doldrums-grip-markets-6434",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9A3pQzK.fiS5FUbLkbNlQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/80a3c6958634409ffc4b1d746efb7c7a.jpg",
       "published_at": "2026-08-14T20:15:00Z"
-    },
-    {
-      "id": "b3cf218f-41d0-3d4b-881c-ae96a01071a0",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Treasury Yield Curve Steepens Ahead of Fed Minutes",
-      "summary": "Signs of cooling inflation and growth bolstered odds of another Fed hold in September, weighing on shorter-term yields, while long-term yields rose on fiscal concerns.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-52148278?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-14T20:10:00Z"
-    },
-    {
-      "id": "522cb2d9-eab3-35c2-b116-b80818a672e7",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Virgin Galactic Holdings (SPCE) Pushes First Commercial Spaceflight Launch To February 2027",
-      "summary": "Virgin Galactic Holdings (NYSE: SPCE) has pushed its first commercial spaceflight launch target to February 2027. The company cited growth plans and strong customer demand as key reasons for the revised timetable. The updated schedule reshapes expectations for when Virgin Galactic may begin generating revenue from space tourism operations. Consider broadening your watchlist to other companies exposed to space, aerospace, and related infrastructure through 30 elite gold producer...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-holdings-spce-pushes-200851047.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HgGCfm24xxlonLdgJYbOlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/4a39ac79965dbdc4c586d12ea5141f62.jpg",
-      "published_at": "2026-08-14T20:08:51Z"
     }
   ]
 }
