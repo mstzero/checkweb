@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-14 22:48 UTC",
+  "last_updated": "2026-08-14 23:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f398e201-15cd-31ac-a431-03cfdbd9c452",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",
+      "summary": "A Maryland state tax court has struck down the state’s first-in-the-nation tax on digital advertising and ordered state officials to repay the tax money already collected from big tech firms.  The Maryland Tax Court said the tax violates the federal Internet Tax Freedom Act as well as the First Amendment and the commerce and due process clauses of the U.S. Constitution.  Maryland estimated the tax, approved in 2021, could raise about $250 million a year to help pay for a sweeping K-12 education measure.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/media-advertising/articles/maryland-tax-court-voids-digital-230625946.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I7LwO__P4kxVId1a_b0D3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/4601d05df5644b78cc3fd168ef8dedd7.jpg",
+      "published_at": "2026-08-14T23:06:25Z"
+    },
+    {
+      "id": "98c89780-072c-38a3-8a55-130815aa5f74",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "PowerCompute Inc (PWCM) (Q2 2026) Earnings Call Highlights: Strategic Pivot to AI ...",
+      "summary": "PowerCompute Inc (PWCM) reports flat revenue and a net loss as it transitions from Bitcoin mining to AI and HPC hosting, leveraging its 26 megawatts of low-cost power.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/powercompute-inc-pwcm-q2-2026-230150828.html",
+      "thumbnail": "",
+      "published_at": "2026-08-14T23:01:50Z"
+    },
+    {
+      "id": "baa8fa27-078a-3005-aa06-408b1b577d3d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Intel’s stock buybacks: History & investor impact explained",
+      "summary": "Intel once was the biggest chipmaker in the world. During the 1990s through the mid-2010s, Intel’s semiconductor powered most of the personal computers in businesses and homes worldwide. Nowadays, the company is playing catch-up, competing with other powerful players in the semiconductor industry — ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/intel-stock-buybacks",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HaWTZtC1OgPRnxqcJJLtlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4a2dec4d478a4c9e7925852b30aed9ea.jpg",
+      "published_at": "2026-08-14T22:50:04Z"
+    },
+    {
+      "id": "69526502-fef2-3b5a-b97e-4bb4a4823130",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "GLP-1 Demand Is Soaring. 2 Stocks That Could Benefit From This (Hint: Not Eli Lilly or Novo Nordisk)",
+      "summary": "They are way more than just GLP-1 stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/glp-1-demand-is-soaring-2-stocks-that-could-benefi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YFhpJ9HoMlXiEiawbu4Nfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2282c7518fea56c9ec009486e7510775.png",
+      "published_at": "2026-08-14T22:50:00Z"
+    },
+    {
+      "id": "323ab38a-4e86-3224-81a5-a70d30d5d657",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dell Stock Is Daring You To Believe Its Numbers",
+      "summary": "Management put a number on the board so big it forces a question, and the market is paying up as if it's a sure thing.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/611492/dell-stock-is-daring-you-to-believe-its-numbers/2026-08-14",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ThGFgCoUlxPxqMfVUQVFWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/7231c41968d5c1d2df6af2c8e2b066bf.jpg",
+      "published_at": "2026-08-14T22:24:55Z"
+    },
     {
       "id": "c6565ebe-755a-3776-97d8-7021d81e7fc9",
       "asset": "BTC",
@@ -35,6 +90,17 @@
       "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-hails-legendary-futurists-radical-predictions",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Oj6_FU8qq3PGFQdXtd9k3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/54a6a41e83ecf58dc5042d145ab72ea9.jpg",
       "published_at": "2026-08-14T22:17:08Z"
+    },
+    {
+      "id": "858584a0-e136-338d-99b8-4acad3eda803",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Former Boston Fed Pres.: Investment spend a catalyst",
+      "summary": "Former Boston Federal Reserve President Eric Rosengren isn't surprised by a weaker retail sales number with the American consumer dealing with higher oil prices while AI and tech investment drive a large portion of investment spending. He speaks to Romaine Bostick and Isabelle Lee on Bloomberg's 'The Close.'",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/former-boston-fed-pres-investment-221642451.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V7e9fB95yoYGw_8f6wwWVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/b5891d692ab9f04ea10346d54f84a573.jpg",
+      "published_at": "2026-08-14T22:16:42Z"
     },
     {
       "id": "73198b96-74b2-356c-8733-54fd547a5c48",
@@ -192,8 +258,8 @@
     },
     {
       "id": "00339b32-5e9a-331a-9223-dd02518723a7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
       "summary": "Stock Market Today: The Dow Jones index falls Friday on soft economic data. AI chip equipment giant Applied Materials dives on earnings.",
       "source": "Investor's Business Daily",
@@ -224,17 +290,6 @@
       "published_at": "2026-08-14T21:02:18Z"
     },
     {
-      "id": "c1368b93-0311-3c22-97d4-3af19742f28e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Super League Enterprise, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Super League Enterprise, Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-super-league-enterprise-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QUiYRLw_CdGYprHXqBeYjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/b9c57ef571561025784f2558c093dd58.png",
-      "published_at": "2026-08-14T21:01:48Z"
-    },
-    {
       "id": "e7268442-8e70-4f82-81e0-ac3ce6964b12",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -255,61 +310,6 @@
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-67496cf5?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4zPnx0vk9WD.QhBPJRPSmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/48c2fd3db267a8768e856d8127991766.jpg",
       "published_at": "2026-08-14T21:00:00Z"
-    },
-    {
-      "id": "1912f9a2-d066-3d49-a9b5-29a9518e0557",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "ADBE Stock: Collect 12% While Setting A 30%-Off Buy Price",
-      "summary": "Here is a way to collect a steady income stream from Adobe stock right now, which you keep no matter what, while lining up a chance to buy this creative software giant at a deep discount if its turnaround stumbles.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/611479/adbe-stock-collect-12-while-setting-a-30-off-buy-price/2026-08-14",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NPrfdkpqdHrzhBlCvoKorw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/5a244008120629ff6da292a0e3ab9a6e.jpg",
-      "published_at": "2026-08-14T20:59:53Z"
-    },
-    {
-      "id": "b759612b-af9b-39e4-b504-6a29122db2c8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "PAVmed Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of PAVmed Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pavmed-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VI7Ao8uwpiQgyBPtgC2uKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/1ca3184c9e0f09e919296268e9cfe948.png",
-      "published_at": "2026-08-14T20:59:46Z"
-    },
-    {
-      "id": "64801a7e-6949-32b1-922a-8dedb0a76756",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Amapa Minerals Produces About 500 Ounces of Gold in Q2",
-      "summary": "Amapa Minerals Holdings (AMAP.TO) after the close on Friday said it produced approximately 500 ounce",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amapa-minerals-produces-500-ounces-205247958.html",
-      "thumbnail": "",
-      "published_at": "2026-08-14T20:52:47Z"
-    },
-    {
-      "id": "4e9b3947-b566-31fb-8794-6dc75959ec40",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks slip in cautious trading after weak US retail sales data",
-      "summary": "Stock markets retreated in sparse summer trading Friday, with the uncertain outlook for the Middle East war and the US economy prompting investor caution ahead of the weekend.\"We continue to monitor oil prices and developments in the Middle East as well as Treasury behavior after the weak auction\" earlier this week, said Cresset Capital's Jack Ablin, who noted that trading volumes were light on a Friday in the middle of vacation season.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.DCID83e0jkyo1NnOEayBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/e7ac5bf08baf9ce7470f4dbf456382e9.jpg",
-      "published_at": "2026-08-14T20:37:02Z"
-    },
-    {
-      "id": "1b6cfee2-0069-35dc-aded-fce36aab6c84",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Reportedly Will Demo Flying Roadster",
-      "summary": "Tesla is working on a prototype for a flying version of its long-awaited new Roadster built using special SpaceX-designed thrusters.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/tesla-roadster-flying-car-elon-musk-spacex/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N1aI_noYxEkT4.VOou8POg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6f163d92e31d11b8e64d8bc6edc5ac57.jpg",
-      "published_at": "2026-08-14T20:32:03Z"
     }
   ]
 }
