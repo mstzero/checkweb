@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-15 09:48 UTC",
+  "last_updated": "2026-08-15 10:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1e837b01-7239-3879-94a2-b9c380f9c41b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jeff Bezos Is Selling $4 Billion of His Amazon Stock. Should You Follow Suit?",
+      "summary": "Is the recent sale a sign that Amazon could be near its peak?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/jeff-bezos-selling-billion-amazon-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KwWfPew.qkjKJKV_foW3nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e19c12400c234382bad0436dfbbe3eb8.jpg",
+      "published_at": "2026-08-15T10:00:00Z"
+    },
+    {
+      "id": "4bed5435-af3f-37c4-a776-26e58de43c9c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "This Is the Best Way to Invest $1,000 in Crypto Right Now",
+      "summary": "Despite extreme volatility, the emerging asset class is known to produce big winners.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/the-best-way-to-invest-1000-in-crypto-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HVIUCDUq7fH.WW68maKwhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2cf0b0f6f94895a50ecc0bb8f4a2c059.jpg",
+      "published_at": "2026-08-15T09:54:00Z"
+    },
+    {
+      "id": "514369c2-e9b8-3d81-9dac-9d2b46e44e82",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Greg Abel's $6.8 Billion Acquisition Could Be Good News for This ETF",
+      "summary": "For investors who want to bet on a future rebound in the U.S. housing market, this homebuilder ETF could be a good buy today.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/greg-abel-berkshire-acquisition-good-xhb-etf/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/si1._UYtIYgPlykjcPNuqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f5a8ba7a2ea0541bc8d547e498ad73b6.jpg",
+      "published_at": "2026-08-15T09:36:00Z"
+    },
     {
       "id": "6e0b1a83-60ec-3711-b672-6bc5395221e6",
       "asset": "NVDA",
@@ -68,28 +101,6 @@
       "url": "https://www.fool.com/investing/2026/08/15/nvidia-stock-investors-got-good-news-from-spacex/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rvY.VMsrd47BlEDdEw.dYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f37130b8590ffc47a33301d31b8b77e6.png",
       "published_at": "2026-08-15T09:08:00Z"
-    },
-    {
-      "id": "7c24f58a-ff1a-3fda-956f-66e25bd7509e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Demand for Chips Shows No Signs of Slowing. Is Taiwan Semiconductor Too Expensive Now?",
-      "summary": "With TSMC controlling 70% of the global foundry market, its stock has risen dramatically throughout the AI chip craze.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/demand-for-chips-shows-no-signs-of-slowing-is-taiw/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t9s4HSchDHa7B7aqgYjNEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3286eaa3989fa1d051053665d0f7e09b.png",
-      "published_at": "2026-08-15T09:06:00Z"
-    },
-    {
-      "id": "ae3be51f-0495-3c3c-b715-00291653746f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
-      "summary": "The company's second-quarter results caused a major rally in the stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/up-over-35-since-aug-3-is-it-too-late-to-buy-palan/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/onVVQUf4puTGGAyghH8YEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5c043e1c0e84b7f45ac2ca4c6695feda.png",
-      "published_at": "2026-08-15T09:05:00Z"
     },
     {
       "id": "9aed4a10-1c8c-320d-a03d-aa53e97e5a3e",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/powercompute-inc-pwcm-q2-2026-230150828.html",
       "thumbnail": "",
       "published_at": "2026-08-14T23:01:50Z"
-    },
-    {
-      "id": "323ab38a-4e86-3224-81a5-a70d30d5d657",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dell Stock Is Daring You To Believe Its Numbers",
-      "summary": "Management put a number on the board so big it forces a question, and the market is paying up as if it's a sure thing.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/611492/dell-stock-is-daring-you-to-believe-its-numbers/2026-08-14",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ThGFgCoUlxPxqMfVUQVFWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/7231c41968d5c1d2df6af2c8e2b066bf.jpg",
-      "published_at": "2026-08-14T22:24:55Z"
     }
   ]
 }
