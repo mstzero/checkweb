@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 22:16 UTC",
+  "last_updated": "2026-08-15 22:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "97f8e463-cfda-3e8b-94ce-6a28f0ee8e29",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
+      "summary": "Autonomous driving might be the biggest financial opportunity in Uber's history.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/dara-khosrowshahi-just-delivered-fantastic-news-fo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yrbmKTtn6C0alqxVYTd3NA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c210e95b42fbdaf5e36c941ee53a2b28.jpg",
+      "published_at": "2026-08-15T22:20:00Z"
+    },
     {
       "id": "6b9e356e-3fd1-33c7-99f0-2f4bd39dc30a",
       "asset": "NVDA",
@@ -192,8 +203,8 @@
     },
     {
       "id": "0eceb63b-4297-3660-abed-57fb8ffd4fcb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery",
       "summary": "Iren is starting to make money from its Microsoft deal, and that will make it less reliant on issuing corporate bonds.",
       "source": "Motley Fool",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/15/meet-the-dividend-stock-that-warren-buffett-backed/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NsI_sRNfDFk6508HBLBCzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e6ea846f8230ae71bf7eda1ed346890f.png",
       "published_at": "2026-08-15T15:47:00Z"
-    },
-    {
-      "id": "1fc47861-d3cd-31d8-94f7-014fae5fd483",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Top 5 Analyst Questions From ConocoPhillips’s Q2 Earnings Call",
-      "summary": "ConocoPhillips delivered second-quarter results that exceeded Wall Street’s expectations, driven by a mix of operational achievements and strategic portfolio actions. Management highlighted record production in the Permian Basin and strong execution on asset sales, which contributed to robust free cash flow and increased shareholder distributions. CEO Ryan Lance, in his final quarter before retirement, emphasized progress on the company’s cost reduction program and the successful completion of i",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html",
-      "thumbnail": "",
-      "published_at": "2026-08-15T14:53:00Z"
     }
   ]
 }
