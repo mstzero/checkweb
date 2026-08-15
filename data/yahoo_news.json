@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-15 16:19 UTC",
+  "last_updated": "2026-08-15 16:48 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "0ebe8395-270f-3f7f-9503-f738040ff322",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold's wild 2026 ride might not be over yet",
+      "summary": "Gold traders have had a hard time getting this year right. The metal has swung from record highs to steep drops and back again. Most of the people who trade it are still trying to figure out which move to trust. A shift in Federal Reserve expectations, paired with a fresh round of buying, is now ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/golds-wild-2026-ride-might-not-be-over-yet",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2pEBXWXVUTZI8TSanaPVJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a07be4baa48f25d9d81aaefb2dc14311.jpg",
+      "published_at": "2026-08-15T16:37:00Z"
+    },
+    {
+      "id": "54a3275e-255b-3f9b-80b9-82ff079dc7a6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust.",
+      "summary": "History shows that investors cannot rule out an AI bust, but with the technology likely here to stay, selling everything is probably not the answer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/worried-about-an-ai-bubble-these-tech-stocks-are/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aEzmUN5glPGA_YdZkYhxYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/08886c179237818ace29021812b4f076.jpg",
+      "published_at": "2026-08-15T16:35:00Z"
+    },
+    {
+      "id": "c74aa7ea-ed94-3544-a37f-e6c6053fa0d5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.",
+      "summary": "Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/jim-cramer-is-selling-his-bitcoin-citing-the-quant/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5MbNQYunNQIg8havDjl29A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4347e78ff1a86e8fefad0ab84449cfb3.jpg",
+      "published_at": "2026-08-15T16:12:00Z"
+    },
+    {
+      "id": "e6f4f900-6b30-3c08-bfd3-c93dedcedc71",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
+      "summary": "AMD stock has significantly outperformed Nvidia over the last year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/prediction-amd-stock-wont-split-soon/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_VhzsDMNsp8eHZTr7Lni8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/122165d1eb393637a995918770709d46.png",
+      "published_at": "2026-08-15T16:11:00Z"
+    },
     {
       "id": "339ca821-d3e7-3376-97ab-d5a10b526c98",
       "asset": "BTC",
@@ -70,17 +114,6 @@
       "published_at": "2026-08-15T15:05:00Z"
     },
     {
-      "id": "1b64f7b1-f21f-3d29-8c82-65a0d01b38bb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.",
-      "summary": "Shares of the social media company jumped double digits on the news. Decades of research say the pop is usually the whole prize.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/reddit-joins-the-sp-500-tuesday-heres-what-history/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9yroxEonZ2JB_rUPu3wRRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/46e3ad943cefa2b492c4faee57ab9132.png",
-      "published_at": "2026-08-15T14:54:00Z"
-    },
-    {
       "id": "1fc47861-d3cd-31d8-94f7-014fae5fd483",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -90,28 +123,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html",
       "thumbnail": "",
       "published_at": "2026-08-15T14:53:00Z"
-    },
-    {
-      "id": "77165eda-3171-38ab-8d29-2c3240b8a10b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "CEO Elon Musk Just Announced Great News for SpaceX Stock Investors",
-      "summary": "The CEO of SpaceX is never shy about making projections.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/ceo-elon-musk-just-announced-great-news-to-spacex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yHGq3E4Yltbhy9DJRyx3vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/50690b0e0ec3bb65616da45837a07c54.jpg",
-      "published_at": "2026-08-15T14:50:00Z"
-    },
-    {
-      "id": "9e41fce7-6926-3eee-b11d-2f449eefbf53",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Social Media Went Negative on Memory Stocks like SanDisk & Micron Last Weekend. Then They Rallied.",
-      "summary": "Social media turned sharply bearish on memory stocks like SanDisk and Micron last weekend, and some analysts were calling time on the sector. Then something happened that flipped the entire trade on its head.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/social-media-went-negative-on-memory-stocks-like-sandisk-micron-last-weekend-then-they-rallied/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KdAs_.NWgC02kZrK3VeBsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8f4f2a4ef9ffd24869a793f5da2e0441.jpg",
-      "published_at": "2026-08-15T14:43:38Z"
     },
     {
       "id": "e56e3fa8-c6df-3ac3-84db-bf8f5a748566",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/15/3-cloud-computing-stocks-to-buy-in-august/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RrIM.m34SwZcftONmQ3Lqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/94b90e19878f8100e5e1b86438f18e51",
       "published_at": "2026-08-15T11:00:26Z"
-    },
-    {
-      "id": "176e0757-df08-3ac3-9cc3-b87914e6fec6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?",
-      "summary": "The world's largest corporate holder of Ether continues to buy more tokens.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FcqLhvnvK7SMsUT9QbezxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bea362233ecbdbc31dcb5c4eb49fa3fc.jpg",
-      "published_at": "2026-08-15T10:40:00Z"
     }
   ]
 }
