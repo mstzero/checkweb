@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-15 15:43 UTC",
+  "last_updated": "2026-08-15 16:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "339ca821-d3e7-3376-97ab-d5a10b526c98",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "209-year-old bank reveals XRP holdings",
+      "summary": "After the National Bank of Canada, another major Canadian bank has revealed XRP holdings. The Bank of Montreal (NYSE: BMO) is a Canadian multinational investment bank and financial services company. It was founded in Montreal, Quebec, in 1817 as Montreal Bank. With 209 years of history, the ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/209-year-old-bank-reveals-xrp-holdings",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A.UQQW9nHVzBL.RYUG4p1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/092cb1d3777e5d92605c0603c519f7df.jpg",
+      "published_at": "2026-08-15T16:00:00Z"
+    },
+    {
+      "id": "c4dd0eea-5b89-30cd-908c-7c92a49307c1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: This Is What a $1,000 Investment in Sandisk Will Be Worth by 2030",
+      "summary": "Sandisk can still deliver a multibagger performance over the next five years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/prediction-this-is-what-a-1000-investment-in-sandi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AMHbsEcur8m9aVn52SL1gA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ac3cf352065f11c70d6e49796bed7a3a.jpg",
+      "published_at": "2026-08-15T15:59:00Z"
+    },
+    {
+      "id": "40a168cb-5a0d-3660-8e1a-8d085419822c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet Is Facing Thousands of Lawsuits. History Says This Is What May Happen",
+      "summary": "Can the company navigate these legal troubles?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/alphabet-is-facing-thousands-of-lawsuits-history-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NJkLRXGwq_8pEvmNhjNAwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/869d46d501edb27271add3e0c0a36995.png",
+      "published_at": "2026-08-15T15:50:00Z"
+    },
+    {
+      "id": "3e341ef6-117e-36ad-9046-cad17968fd2d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why It Just Hit an All-Time High Under Greg Abel.",
+      "summary": "The reasons Buffett loves it are the same reasons the market is loving it right now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/meet-the-dividend-stock-that-warren-buffett-backed/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NsI_sRNfDFk6508HBLBCzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e6ea846f8230ae71bf7eda1ed346890f.png",
+      "published_at": "2026-08-15T15:47:00Z"
+    },
+    {
+      "id": "4cbea178-aa98-3d54-ac1b-b9063ac0f5f5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AMD’s $566 Million SpaceX Stake Raises a Bigger Question Than AI Chip Orders",
+      "summary": "SpaceX just told the world it will build its AI infrastructure exclusively on Nvidia chips, yet AMD quietly poured more than half a billion dollars into Elon Musk's company anyway. The reason has nothing to do with GPU contracts, and everything to do with where SpaceX is actually headed.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/amds-566-million-spacex-stake-raises-a-bigger-question-than-ai-chip-orders/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fyLsWb5Cq89FUqGpx5V5gQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d267a7eead9d746f11fb821f27f43302.png",
+      "published_at": "2026-08-15T15:41:13Z"
+    },
     {
       "id": "e3fff7db-2587-3d2c-be20-b93cbb415a6b",
       "asset": "NVDA",
@@ -57,28 +112,6 @@
       "url": "https://247wallst.com/investing/2026/08/15/social-media-went-negative-on-memory-stocks-like-sandisk-micron-last-weekend-then-they-rallied/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KdAs_.NWgC02kZrK3VeBsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8f4f2a4ef9ffd24869a793f5da2e0441.jpg",
       "published_at": "2026-08-15T14:43:38Z"
-    },
-    {
-      "id": "52daecb0-af0b-3ab1-a8d2-98a818521b67",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Is Looking to Own Another Layer of the AI Ecosystem",
-      "summary": "Nvidia just moved beyond selling processors and seized control of the invisible infrastructure that every AI cluster depends on, and the companies supplying that buildout are already reporting explosive growth.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/nvidia-is-looking-to-own-another-layer-of-the-ai-ecosystem/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RnZRlpFisVHB5rCi0XmuJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg",
-      "published_at": "2026-08-15T14:36:02Z"
-    },
-    {
-      "id": "39a5709b-8cad-3807-866e-7980d0caf157",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX vs. Micron: Which High-Growth Titan Is the Better Buy?",
-      "summary": "SpaceX and Micron each have unique characteristics.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/spacex-vs-micron-which-high-growth-titan-is-the-be/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IZVyuLqooLEefsLnkpJEcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cdf00c7e7a8777bd85c5e7770b35aec7.jpg",
-      "published_at": "2026-08-15T14:35:00Z"
     },
     {
       "id": "e56e3fa8-c6df-3ac3-84db-bf8f5a748566",
@@ -136,20 +169,9 @@
       "published_at": "2026-08-15T14:04:00Z"
     },
     {
-      "id": "aa8b7dfa-512f-3ee8-85d6-2c7b063043ac",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is NVIDIA’s $500 Billion Fund Jensen Huang’s Best Chess Move Yet or a Red Flag?",
-      "summary": "Jensen Huang just structured a $500 billion compute fund with a design that one Wall Street CEO compared to the invention of mortgage-backed securities, and that reference alone should make every AI investor stop and think carefully about what comes next.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/is-nvidias-500-billion-fund-jensen-huangs-best-chess-move-yet-or-a-red-flag/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sLx97dMwsTwkoltnM2Zqjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/353e3e611ba952f7b94ccbe35a737fbe.jpg",
-      "published_at": "2026-08-15T14:03:55Z"
-    },
-    {
       "id": "6565b8e8-2c85-3932-b981-90adc7a3eae4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
       "summary": "Larry Fink sees oil potentially collapsing to $40 a barrel, and that geopolitical shift could trigger a massive rotation in the stock market. One tech giant is already positioned to absorb that capital, and its valuation tells a story Wall Street has quietly overlooked.",
       "source": "24/7 Wall St.",
@@ -288,28 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FcqLhvnvK7SMsUT9QbezxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bea362233ecbdbc31dcb5c4eb49fa3fc.jpg",
       "published_at": "2026-08-15T10:40:00Z"
-    },
-    {
-      "id": "ef84e718-54a8-36ef-b484-a43c8e80432e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress",
-      "summary": "Investing.com -- Bitcoin traded slightly under $63,000 on Saturday, little changed over the past 24 hours as corporate selling, delayed US regulatory action, and weakening technical signals outweighed strength across equity markets.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-holds-below-63-101111750.html",
-      "thumbnail": "",
-      "published_at": "2026-08-15T10:11:11Z"
-    },
-    {
-      "id": "0f608cc1-142c-373a-a73b-5bbdea6ab665",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price Below $10,000? ChatGPT Issues Warning as ‘Crypto Is Dead’ Chatter Surges",
-      "summary": "Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-price-10000-chatgpt-issues-warning-crypto-dead/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Z_YgQRYfixgZYB1FQGSNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/a28424a9a85add2c89569866d6ca79d5",
-      "published_at": "2026-08-15T10:01:00Z"
     }
   ]
 }
