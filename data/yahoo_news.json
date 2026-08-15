@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 20:18 UTC",
+  "last_updated": "2026-08-15 20:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "bd82c23b-8c4f-3d75-a618-e10adaa405ee",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL) Launches Ads On Maps While Pursuing Siri AI Content Deals",
+      "summary": "Apple (NasdaqGS:AAPL) has formally launched its 'Ads on Maps' platform, entering the local digital advertising market alongside Google and Meta. The new product allows businesses to buy promoted placements inside Apple Maps to reach nearby users searching for places and services. Apple is also negotiating content deals with news publishers to use their material in training its AI models that power Siri while addressing copyright and payment terms. These steps mark a material shift in Apple's...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-launches-ads-maps-200858734.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A1UhkEWeucEIDGFQFO0hwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8.jpg",
+      "published_at": "2026-08-15T20:08:58Z"
+    },
     {
       "id": "41436372-f099-3fef-9618-d10258f740cd",
       "asset": "NVDA",
@@ -29,8 +40,8 @@
       "id": "b19239b0-9b09-3ba0-be3f-a8327f5b279a",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
-      "summary": "Nvidia is in talks ‌to invest as ‌much as $3 billion in SB ​Energy, a subsidiary of SoftBank Group and developer of a massive ‌planned ⁠Ohio data center project for OpenAI, ⁠the Information reported on Saturday, citing people ​familiar with ​the ​discussions.  The investment ‌is being discussed as part of Nvidia’s negotiations with OpenAI and SB Energy over the ‌chip company ​providing around $100 ​billion ​in credit support ‌for the planned ​Ohio ​data center campus, the report said.",
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
+      "summary": "Nvidia is in talks to invest as much as $3 billion in SB Energy, a ‌SoftBank Group subsidiary developing a massive planned Ohio data ‌center project for OpenAI, the Information reported on Saturday, citing people familiar ​with the discussions.  • The proposed investment is part of Nvidia's talks with OpenAI and SB Energy on providing around $100 billion in credit support for the planned Ohio ‌data center campus, the ⁠report said.  • Nvidia has discussed investing half of the $3 billion when the Ohio project deal ⁠is signed and the other half as part of SB Energy's planned initial public offering, according to the Information.",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/whYEBiKdOm3WKJm40stmyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8d07bb37049efa93ef61c4edc7f7cdc6.jpg",
@@ -203,8 +214,8 @@
     },
     {
       "id": "ddd5f6e3-7943-3526-b7b7-93a697e92730",
-      "asset": "AAPL",
-      "asset_name": "Apple",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "summary": "Five monthly paying ETFs are pulling income from covered calls, preferred stock, and junk bond coupons at yields that dwarf the 10-year Treasury, but the engine behind each payout changes everything about which one belongs in your portfolio.",
       "source": "24/7 Wall St.",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-tsx-abx-creates-140804684.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
       "published_at": "2026-08-15T14:08:04Z"
-    },
-    {
-      "id": "529cd438-4056-3060-a56f-de3c7532c505",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "What Does Bristol Myers Squibb (BMY) Risk From The Revived $6.7 Billion Lawsuit?",
-      "summary": "Bristol Myers Squibb (NYSE:BMY) is facing a revived US$6.7b lawsuit after a federal appeals court reinstated claims tied to its Celgene acquisition. Plaintiffs allege the company deliberately delayed FDA approval of certain drugs to avoid paying contingent value rights owed to former Celgene shareholders. The appeals court decision brings renewed legal and financial uncertainty related to how the Celgene transaction was structured. For more context on how legal and regulatory risks can...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-140731477.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_4KcB1.TKTYwt2rpBCbh2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5a13d347387951add3c978a1a10a0331.jpg",
-      "published_at": "2026-08-15T14:07:31Z"
     }
   ]
 }
