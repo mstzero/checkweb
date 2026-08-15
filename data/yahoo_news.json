@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-15 08:22 UTC",
+  "last_updated": "2026-08-15 08:54 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9aed4a10-1c8c-320d-a03d-aa53e97e5a3e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Where Could Bitcoin and XRP End the Year?",
+      "summary": "Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/15/where-could-bitcoin-and-xrp-end-the-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HsHp9dkpCjo_QWSf3gd63g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/904c54f7b786d10796d9b4f58e8860be.jpg",
+      "published_at": "2026-08-15T08:43:33Z"
+    },
+    {
+      "id": "e3f56794-9841-3b40-a928-4f1d9345a748",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Micron Technology Stock Below $920 per Share? Wall Street Thinks It's Heading to $1,500.",
+      "summary": "If Wall Street is right, it's a no-brainer buy now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/should-you-buy-micron-technology-stock-below-920-p/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UPy869f_74kpY4MwAutz5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60affe1ea3deafdfa384166d053d4f2a.png",
+      "published_at": "2026-08-15T08:35:00Z"
+    },
+    {
+      "id": "33c4f90d-0eb8-3d3d-98ca-9cf99c2555fd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise",
+      "summary": "History has an uncanny ability to forecast the future on Wall Street.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/trump-claims-stock-market-will-double-history-says/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mKVa6XEiE2zCMao4Q72rvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0e34361128e438fc36be86d57dcc543b.jpg",
+      "published_at": "2026-08-15T08:26:00Z"
+    },
     {
       "id": "2f8f7251-7496-3a16-a2ce-09740cc9e494",
       "asset": "NVDA",
@@ -81,17 +114,6 @@
       "published_at": "2026-08-15T05:20:00Z"
     },
     {
-      "id": "5fd9e566-20d8-3b18-ad95-42faed612254",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Market Is Doing Something It's Only Done Once Before. Here's What History Says Happens Next.",
-      "summary": "You might be disappointed to find out, but there's a silver lining.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/the-market-is-doing-something-its-only-done-once-b/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j8ntIJHSH.LTidI.2waUNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/757f86379edbd5ee4086cefbf9c66fff.png",
-      "published_at": "2026-08-15T04:35:00Z"
-    },
-    {
       "id": "9065c924-f4bb-35f6-8d40-858ab0b53907",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -101,17 +123,6 @@
       "url": "https://www.barrons.com/articles/newmont-stock-pick-still-glitters-after-66-gains-stay-bullish-30cfc217?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ICNHrdUJoojTnKC6I_P7qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e7b937209beb9385031f391e1a424dde.jpg",
       "published_at": "2026-08-15T04:26:00Z"
-    },
-    {
-      "id": "684d9700-c668-3301-a9fa-45da112a27ea",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Amkor (AMKR) Stock Looks Cheap On Cash Flow But Less So On Earnings",
-      "summary": "Amkor Technology stock has delivered strong long term returns over the past five years, yet current checks suggest the market price may still sit below an estimate of intrinsic value based on a Discounted Cash Flow (DCF) approach and earnings multiples. Amkor Technology has returned 153.7% over five years, which puts the recent pullback into context for longer term holders. The expanded advanced packaging work with partners such as Nvidia can support expectations for future cash flows. At...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-amkr-stock-looks-cheap-042034874.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
-      "published_at": "2026-08-15T04:20:34Z"
     },
     {
       "id": "9a0cfc96-238f-3e75-85cf-a153353c22a1",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/crypto-market-today-aug-14-bitcoin-slips-as-tokenization-regulation-stalls/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ej5apAx66qZHfw4DEy8yhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c725e380a362ed46d20e0a5dd798ee91.png",
       "published_at": "2026-08-14T22:17:59Z"
-    },
-    {
-      "id": "e6dfad42-9906-3e3d-b197-9078aa78e086",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "'Rich Dad Poor Dad' author hails legendary futurist's radical predictions",
-      "summary": "\"Rich Dad Poor Dad\" author Robert Kiyosaki is well-known for his criticism of the federal banking system and advocacy of cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH). He recently wrote a long post on X, reflecting on his transforming turn from working with rock bands to finding wisdom ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-hails-legendary-futurists-radical-predictions",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Oj6_FU8qq3PGFQdXtd9k3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/54a6a41e83ecf58dc5042d145ab72ea9.jpg",
-      "published_at": "2026-08-14T22:17:08Z"
     }
   ]
 }
