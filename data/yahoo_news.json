@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 05:23 UTC",
+  "last_updated": "2026-08-15 05:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a2580210-667b-387e-a6a1-6b73075ac275",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
+      "summary": "The AI rocket ship is turning into a fruitful partnership with Amazon.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/elon-musk-admits-he-underestimated-anthropics-ai-w/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YA8LaX8zeugR4Gc3We367g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4e9c69b83d840bf1e9d7a72eeddfe49d.jpg",
+      "published_at": "2026-08-15T05:20:00Z"
+    },
     {
       "id": "5fd9e566-20d8-3b18-ad95-42faed612254",
       "asset": "NVDA",
@@ -156,17 +167,6 @@
       "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
       "published_at": "2026-08-14T23:55:00Z"
-    },
-    {
-      "id": "9f8fbcdd-199c-301c-8a90-d3030d662407",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVDA Discloses $21B Stake In SpaceX — Elon Musk’s Rocket Firm Becomes Nvidia’s No. 2 Holding",
-      "summary": "Nvidia owns 122.8 million SpaceX shares, giving it a major stake in Musk’s space and AI empire as the two companies deepen their data-center partnership.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-discloses-21-billion-stake-in-spacex-elon-musks-rocket-firm-becomes-nvidias-no-2-holding/cZotyxyRJKP",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kKkvFgYxFKBEXhfp_lTN6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/439825bf97802dfc7f1e29435fedbbcd.jpg",
-      "published_at": "2026-08-14T23:49:54Z"
     },
     {
       "id": "f0b9af5c-5fd0-3bd0-973e-e0a8de88b3a6",
