@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-15 19:43 UTC",
+  "last_updated": "2026-08-15 20:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "41436372-f099-3fef-9618-d10258f740cd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
+      "summary": "The same investor just bought all three -- but only one of the charts looks like something went wrong.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/bill-ackmans-new-stock-picks-are-interesting-sp-gl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HEt2jLZqS9.dOyEKgj9XMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7b5290c5682f4140705a18524c38f558.jpg",
+      "published_at": "2026-08-15T20:07:00Z"
+    },
+    {
+      "id": "f9e60880-6bca-3392-9453-903621e1a3b2",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "XMAG Is Outperforming the S&P 500 in 2026 as the Magnificent Seven Stall",
+      "summary": "The fund that was supposed to track the market's most powerful stocks is getting beaten by a fund built specifically to avoid them, and the reason comes down to how MAGS actually works under the hood.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/xmag-is-outperforming-the-sp-500-in-2026-as-the-magnificent-seven-stall/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VKZWIk_i0fa2mHCJaBObuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3092373a1cb88529d67da5f55017dc88.jpg",
+      "published_at": "2026-08-15T20:05:04Z"
+    },
     {
       "id": "b19239b0-9b09-3ba0-be3f-a8327f5b279a",
       "asset": "NVDA",
@@ -70,6 +92,17 @@
       "published_at": "2026-08-15T19:07:25Z"
     },
     {
+      "id": "fb9c0c70-7865-316d-8dec-34052d756c15",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+      "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets, but could materialize at the worst possible time.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.6KQvFT0eXFzwn2E5OpSWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/0688883c1e30e70e235e132023879535.jpg",
+      "published_at": "2026-08-15T19:00:00Z"
+    },
+    {
       "id": "06c31dec-2463-338d-a3e4-8c72d1fe2bf9",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -79,6 +112,17 @@
       "url": "https://www.fool.com/investing/2026/08/15/xrp-is-trading-near-a-52-week-low-of-1-heres-what/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ca2lpT8jbT9NcsK8pg.2DQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/306aa66e570126c6dcee8934ea55fa1b.jpg",
       "published_at": "2026-08-15T18:57:16Z"
+    },
+    {
+      "id": "a1a79012-f9e6-304e-be7c-9b8fe35ee3d1",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Republican States Race to Cut Property Taxes Ahead of November Elections as Homeowners Demand Relief",
+      "summary": "Republican-led states are racing to cut or cap property taxes ahead of the November elections, as homeowners squeezed by years of rising home values push for relief. North Carolina, Wyoming, Florida and Oklahoma all have some form of property-tax limit...",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/news/politics/articles/republican-states-race-cut-property-183112529.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3LR.z.G_KdnyAsXtI4MPog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6d4a839edc124c9cdf8a5b246433b5a4.jpg",
+      "published_at": "2026-08-15T18:31:12Z"
     },
     {
       "id": "5a6de3bb-7e0f-3e17-814d-a093647a3e81",
@@ -159,25 +203,14 @@
     },
     {
       "id": "ddd5f6e3-7943-3526-b7b7-93a697e92730",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "summary": "Five monthly paying ETFs are pulling income from covered calls, preferred stock, and junk bond coupons at yields that dwarf the 10-year Treasury, but the engine behind each payout changes everything about which one belongs in your portfolio.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/15/5-monthly-dividend-etfs-paying-7-to-14-percent-to-ride-into-2027/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EhrcvDMu7nnJqojPqoT4Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8dd01345e006e289daf079046927180f.jpg",
       "published_at": "2026-08-15T17:11:48Z"
-    },
-    {
-      "id": "760bef4c-626d-3349-ad85-a67d4d06a5d5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
-      "summary": "GE Vernova is quietly building embedded value with its long-term SMR investments.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/everyones-watching-oklo-and-nuscale-for-nuclear-ex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.OFKhw.dbZgYk1PHKPuG_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44d6a01e363f76304d9fc8319ed5d987.png",
-      "published_at": "2026-08-15T17:05:00Z"
     },
     {
       "id": "0ebe8395-270f-3f7f-9503-f738040ff322",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-140731477.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_4KcB1.TKTYwt2rpBCbh2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5a13d347387951add3c978a1a10a0331.jpg",
       "published_at": "2026-08-15T14:07:31Z"
-    },
-    {
-      "id": "727e95dd-c39b-303c-a6a0-8393ab523203",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Warren Buffett named these 3 stocks as favorites for a reason",
-      "summary": "Warren Buffett spent 60 years building one of the greatest investing records in history, not by chasing whatever was popular, but by finding businesses he never wanted to sell. He said it himself in his 1988 shareholder letter, the year he first bought Coca-Cola: \"Our favorite holding period is ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/warren-buffett-named-these-3-stocks-as-his-favorites-for-a-reason-alphabet-apple-coca-cola",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dHBqz1ykhWkqrIOfDuA8TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4ff4d6864d98ee9383bd9db79dadcd07.jpg",
-      "published_at": "2026-08-15T14:04:00Z"
-    },
-    {
-      "id": "6565b8e8-2c85-3932-b981-90adc7a3eae4",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
-      "summary": "Larry Fink sees oil potentially collapsing to $40 a barrel, and that geopolitical shift could trigger a massive rotation in the stock market. One tech giant is already positioned to absorb that capital, and its valuation tells a story Wall Street has quietly overlooked.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/larry-fink-says-oil-could-be-cut-in-half-if-so-this-tech-stock-could-explode-higher/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zfdg6rOI3px.mbR.Ttv5fw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0bc196f57e98e85d923fa9763032fad6.jpg",
-      "published_at": "2026-08-15T14:00:51Z"
-    },
-    {
-      "id": "a19aa616-e84a-3a68-aff2-0cd64362cc5d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "The YieldMax Fund That Doesn’t Blow Up: A Target 12% From 50 Blue Chips",
-      "summary": "MSTY promised triple-digit yields and delivered a 68% price collapse instead, but a covered-call fund built on 50 blue chips has been quietly printing gains while sending monthly cash. The structure is nearly identical, so why have the outcomes been so radically different?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/the-yieldmax-fund-that-doesnt-blow-up-a-target-12-from-50-blue-chips/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/knupHYh_19WpB.fig188pQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2cf4fde60d720ad5c6007c7aa1c5234.jpg",
-      "published_at": "2026-08-15T13:51:10Z"
     }
   ]
 }
