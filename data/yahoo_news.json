@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 03:34 UTC",
+  "last_updated": "2026-08-15 04:25 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9a0cfc96-238f-3e75-85cf-a153353c22a1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "BP (LSE:BP.) Returns To Venezuela To Run Loran Phase 2 Gas Project",
+      "summary": "BP (LSE:BP.) has agreed to return to Venezuela as operator of the offshore Loran Phase 2 gas project, partnering with XRG and UCC. The move follows recent energy reforms in Venezuela and a relaxation of US sanctions that had limited foreign participation in the sector. BP's role in Loran Phase 2 marks a fresh opening for international capital and technical expertise in Venezuelan offshore gas. This renewed presence in Venezuela highlights how BP is only one of several energy companies tied...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/bp-lse-bp-returns-venezuela-031831897.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PhEJJiOYfhBoDBtHaeYOUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/44c9711f530c84540d3fa258ea9e1029.jpg",
+      "published_at": "2026-08-15T03:18:31Z"
+    },
     {
       "id": "60c4fa3f-bb0d-311b-bf91-d37163545d4f",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://www.barrons.com/articles/carl-icahn-jetblue-american-electric-power-2460aac8?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.W.YJqJ6ar_q3z8oRSNkkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/25cd2dffe6282b7ec8a81d0c17a22b9a.jpg",
       "published_at": "2026-08-14T22:04:00Z"
-    },
-    {
-      "id": "671f0efd-6227-3825-8b85-42157d5015e5",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-      "summary": "Institutional investors pulled back slightly from key stock market segments such as semiconductors, AI infrastructure and megacap technology companies during the second quarter, with few big bets in either direction, U.S. Securities and Exchange Commission filings show.  A Reuters analysis of quarterly 13F filings from 6,371 pension ‌funds, hedge funds, wealth managers and other institutional investors reveals a narrow gap between the number of investors increasing their positions and those reducing them, but in many cases the gap ‌swung slightly negative.  Nearly 44% of filers reviewed trimmed their holdings of the Magnificent Seven group of megacap tech firms such as Microsoft and Meta Platforms, while 42% initiated or expanded their holdings of this group.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZMJaI0awe37x5NwdTtHdYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
-      "published_at": "2026-08-14T21:54:16Z"
     }
   ]
 }
