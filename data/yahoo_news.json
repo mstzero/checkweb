@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 05:50 UTC",
+  "last_updated": "2026-08-15 06:31 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "6798e833-687d-3bad-b73c-a5383183ef7d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
+      "summary": "Northern Oil and Gas delivered Q2 results that were met with a positive market reaction, driven largely by strong execution of its diversified asset strategy. Management attributed the quarter’s performance to resilience in its non-operated model, which allowed other basins to offset production curtailments in the Permian. CEO Nick O’Grady emphasized that, despite short-term fluctuations in certain regions, overall production benefited from record natural gas volumes and improved unhedged realiz",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html",
+      "thumbnail": "",
+      "published_at": "2026-08-15T06:13:00Z"
+    },
     {
       "id": "a2580210-667b-387e-a6a1-6b73075ac275",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/video/former-boston-fed-pres-investment-221642451.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V7e9fB95yoYGw_8f6wwWVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/b5891d692ab9f04ea10346d54f84a573.jpg",
       "published_at": "2026-08-14T22:16:42Z"
-    },
-    {
-      "id": "ea4f74a2-d87f-3bac-9b4d-d19e836acad1",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "AI Infrastructure Stocks: Billions of Reasons to Stay Bullish",
-      "summary": "Investors have hundreds of billions ($) of reasons why to remain bullish on the AI buildout, particularly for companies like Vertiv (VRT) and Broadcom (AVGO), as companies continue to invest heavily in their AI futures.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-billions-reasons-221200697.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c5XvPOrzPQnWPIL7SSW1lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/66aab1b6882a9874a6ec7e76752bb0ed.jpg",
-      "published_at": "2026-08-14T22:12:00Z"
     }
   ]
 }
