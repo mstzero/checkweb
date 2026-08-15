@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 17:44 UTC",
+  "last_updated": "2026-08-15 18:22 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5e309acf-8128-3140-8209-ab7278bad2bb",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?",
+      "summary": "QQQ delivered higher returns while SPY sports lower fees and a higher dividend yield.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/15/which-is-the-better-etf-state-street-s-broad-market-exposure-through-spy-or-invesco-s-tech-focused-qqq/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WCkqXe9boy3ntE.J5HDXrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a234cc3da6368ebdb72ccddb0152e6dd.png",
+      "published_at": "2026-08-15T17:41:47Z"
+    },
     {
       "id": "da53b8ef-d619-3b5f-8ef8-09f12ec94333",
       "asset": "SPY",
@@ -299,17 +310,6 @@
       "url": "https://beincrypto.com/chainlink-bull-market-link-price-prediction/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pX0DDdcWP6c1VFNdF0psaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/59d0f1689a58fcc0ed02a0efddd4e00e.jpg",
       "published_at": "2026-08-15T12:19:16Z"
-    },
-    {
-      "id": "52cd3998-c529-3980-8053-228676001fcf",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
-      "summary": "SCHG, VUG, and QQQ each take a different structural approach to large-cap growth, and those differences compound into a significant performance gap over ten years. One fund has a defensible claim as the best vehicle for the AI era, but the case involves real tradeoffs most investors overlook.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/schg-vs-qqq-vs-vug-we-compared-the-three-biggest-growth-etfs-and-one-is-the-clear-winner-for-the-next-decade/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cNfQ5ZLhYo6eS1ixSlJLAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3bf531c9ce1499e87b74aa2052b25dc4.jpg",
-      "published_at": "2026-08-15T12:17:11Z"
     }
   ]
 }
