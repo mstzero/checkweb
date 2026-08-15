@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 21:17 UTC",
+  "last_updated": "2026-08-15 21:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9e4721df-c85d-3674-bf95-f083c755871e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+      "summary": "Space Exploration Technologies' outlook for rising revenues could give the stock plenty of room to run even if the market doesn't give it a richer valuation multiple.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/spacex-is-poised-to-hit-220-by-june-2027-hint-its/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_mQUWMPmX_dbNsrTuDVHAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6a8e5bca2519b5d1125284001048fa26.jpg",
+      "published_at": "2026-08-15T21:35:00Z"
+    },
     {
       "id": "bd82c23b-8c4f-3d75-a618-e10adaa405ee",
       "asset": "AAPL",
@@ -279,6 +290,17 @@
       "published_at": "2026-08-15T15:47:00Z"
     },
     {
+      "id": "1d4063bf-e350-3f68-ae93-82ef66f30f63",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger",
+      "summary": "The $515 price target for Alphabet stock represents a significant upside potential from its recent closing price.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3869911/alphabet-stock-to-515-3-reasons-the-bull-case-is-getting-stronger",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dlC6Rq9WRDLfFPuHB1mXqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/92ef183c42026825f0de825fd26975b4.jpg",
+      "published_at": "2026-08-15T15:30:02Z"
+    },
+    {
       "id": "1fc47861-d3cd-31d8-94f7-014fae5fd483",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html",
       "thumbnail": "",
       "published_at": "2026-08-15T14:53:00Z"
-    },
-    {
-      "id": "e56e3fa8-c6df-3ac3-84db-bf8f5a748566",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Wall Street Only Looked Like This in 1929 and 2000: What It Means for Bitcoin?",
-      "summary": "The S&P 500 CAPE ratio nears historic highs. Here is what stretched equity valuations could mean for Bitcoin.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/sp500-shiller-cape-ratio-bitcoin-impact/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oBPNEQSd6s.wwh_q1eThXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/7dd52e52ca37217c61ae434802cde791.jpg",
-      "published_at": "2026-08-15T14:31:34Z"
-    },
-    {
-      "id": "a555bef6-4392-3bbc-9fad-358fd80a393d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The 5 Most Interesting Analyst Questions From BKV’s Q2 Earnings Call",
-      "summary": "BKV’s second quarter was marked by strong operational execution across its integrated natural gas, power, and carbon capture platform. The market responded positively to results that exceeded Wall Street’s revenue expectations, underpinned by higher upstream production, disciplined capital efficiency, and new carbon capture projects coming online. CEO Christopher Kalnin highlighted that “production was at the high end of guidance, development capital at the low end, [and] two carbon capture proj",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-141300653.html",
-      "thumbnail": "",
-      "published_at": "2026-08-15T14:13:00Z"
     }
   ]
 }
