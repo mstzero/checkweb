@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 15:16 UTC",
+  "last_updated": "2026-08-15 15:43 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "e3fff7db-2587-3d2c-be20-b93cbb415a6b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Under 35? Here's the Average Retirement Savings for People Your Age",
+      "summary": "They may be young, but many of them are off to a solid start. Even if you're not keeping pace, however, there's plenty of time to do something about it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/08/15/under-35-heres-the-average-retirement-savings-for/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oKSJGSOU_rTzDu_EgbfaKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/57eb0ae0d740ab4535784a81570c1e7b.jpg",
+      "published_at": "2026-08-15T15:05:00Z"
+    },
     {
       "id": "1b64f7b1-f21f-3d29-8c82-65a0d01b38bb",
       "asset": "NVDA",
@@ -147,20 +158,9 @@
       "published_at": "2026-08-15T14:00:51Z"
     },
     {
-      "id": "15ab6d29-345a-3545-901e-76a59a6fd166",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Home Depot and Lowe's Have Both Raised Their Dividends for 17 Straight Years. Which Stock Is the Smarter Buy Heading Into Earnings?",
-      "summary": "The rapid growth days of each company are probably over, but each stock remains an excellent choice for income investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/home-depot-lowes-raised-dividend-stock-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tHHVuUMCuDe0YJZYqIV77A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7c017aded9e66e4bc06608d6d6d2caa4.jpg",
-      "published_at": "2026-08-15T13:55:00Z"
-    },
-    {
       "id": "a19aa616-e84a-3a68-aff2-0cd64362cc5d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "The YieldMax Fund That Doesn’t Blow Up: A Target 12% From 50 Blue Chips",
       "summary": "MSTY promised triple-digit yields and delivered a 68% price collapse instead, but a covered-call fund built on 50 blue chips has been quietly printing gains while sending monthly cash. The structure is nearly identical, so why have the outcomes been so radically different?",
       "source": "24/7 Wall St.",
