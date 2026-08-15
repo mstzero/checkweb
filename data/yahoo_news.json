@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-15 01:00 UTC",
+  "last_updated": "2026-08-15 02:32 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "92c5d27a-03f8-3904-844d-255352a5ef32",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "‘Big Short’ investor warns AI boom has quiet weak spot",
+      "summary": "The artificial-intelligence boom is sold to investors as one of the broadest technology shifts in decades. And a shockingly substantial part of the answer may lie with just two corporations, says Steve Eisman. The investor best known for betting against the U.S. housing market before the financial ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/big-short-investor-warns-ai-boom-has-quiet-weak-spot",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dbxaeh4aI_pHg7DU681uLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6c77252dacab2c8644f41611ec49ad88.jpg",
+      "published_at": "2026-08-15T02:03:00Z"
+    },
+    {
+      "id": "b6f978fb-ec7a-333e-8295-780d5ebb05d8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amkor Technology (AMKR) Is Up 6.7% After Dividend Approval And Advanced-Packaging Pipeline Updates",
+      "summary": "Earlier this week, Amkor Technology’s board approved a quarterly cash dividend of US$0.08352 per share, payable on September 22, 2026 to shareholders of record as of September 2, 2026. Beyond the income payout, investors are closely watching Amkor’s growing advanced-packaging pipeline, underpinned by partnerships with TSMC and NVIDIA in AI and high-performance computing. We’ll now examine how Amkor’s expanding advanced-packaging opportunities could shape its investment narrative following...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-6-7-011056792.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
+      "published_at": "2026-08-15T01:10:56Z"
+    },
+    {
+      "id": "213d6d57-7c02-399b-b3e0-29c50a3a50ae",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Pershing Square Holdings Ltd (LSE:PSH) (Q2 2026) Earnings Call Highlights: Strategic Leverage ...",
+      "summary": "CEO Bill Ackman outlines plans for investment-grade debt, a new venture vehicle, and potential upside from Fannie Mae and Freddie Mac to drive long-term shareholder value.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-holdings-ltd-lse-010734806.html",
+      "thumbnail": "",
+      "published_at": "2026-08-15T01:07:34Z"
+    },
+    {
+      "id": "88fda506-3568-330b-a102-09cfe068a21e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "U.S. Urges Apple Not to Buy Chinese Memory Chips",
+      "summary": "Commerce Secretary Howard Lutnick urged the iPhone maker to find other solutions to the artificial-intelligence-driven chip supply crunch.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f_2bY1aJcYuwNyw_gPvAEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4a59bb290e762b621e406919145b9068.jpg",
+      "published_at": "2026-08-15T01:00:00Z"
+    },
+    {
+      "id": "beeada98-873d-38c0-8ab0-f6f7ef449f58",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "One October 2025 Crypto Black Friday Catalyst is Back: Is Bitcoin in Danger?",
+      "summary": "A Crypto Black Friday catalyst just returned. Here is how the new MSCI rules could affect Bitcoin treasuries.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-risk-msci-rule-august-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lQdsD7rgqN9hXSQa72GiNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/784554d226753216ebc5654d8ebe1d35.jpg",
+      "published_at": "2026-08-15T00:58:18Z"
+    },
     {
       "id": "67e0545c-4b82-3000-bbf0-08384f4d0e82",
       "asset": "NVDA",
@@ -35,6 +90,17 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a59IfJfKKClO2i.iZfvCHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
       "published_at": "2026-08-14T23:58:46Z"
+    },
+    {
+      "id": "e8636703-b88f-3346-ba95-c1d74a6e7577",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Review & Preview: Headline Fatigue",
+      "summary": "REVIEW PREVIEW NEWSLETTER Zen. The S&P 500 pulled back a touch from its record high today, but the index still wrapped a third-straight week of gains. The market benchmark dipped 0.2%, while the Nasdaq Composite fell 0.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-14T23:55:00Z"
     },
     {
       "id": "9f8fbcdd-199c-301c-8a90-d3030d662407",
@@ -81,17 +147,6 @@
       "published_at": "2026-08-14T23:43:56Z"
     },
     {
-      "id": "6fa28ba0-935e-30fe-9803-bd56f827641c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Gemini Space Station Stock Plummeted to Earth Today",
-      "summary": "The crypto exchange operator was affected by relatively weak trading in such assets.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/14/why-gemini-space-station-stock-plummeted-to-earth/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VyBX4xT7csA7cvwcon4c8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b108e4b9773f6df3e0a28277f8e7419.jpg",
-      "published_at": "2026-08-14T23:43:05Z"
-    },
-    {
       "id": "60691771-bd29-3b34-a33e-fb646bbeb150",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -134,6 +189,17 @@
       "url": "https://finance.yahoo.com/media-advertising/articles/maryland-tax-court-voids-digital-230625946.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I7LwO__P4kxVId1a_b0D3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/4601d05df5644b78cc3fd168ef8dedd7.jpg",
       "published_at": "2026-08-14T23:06:25Z"
+    },
+    {
+      "id": "6d8ee1c0-bdad-389e-9ac8-fce2a85c5424",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "All the Stocks Berkshire Hathaway Bought and Sold in Q2",
+      "summary": "Berkshire was busy buying stocks in the second quarter. Here are all the stocks that Greg Abel & Co. added to the portfolio — and the ones they sold, too.",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q2-2026",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LR2.XrC_VqiQZ59P8qHo4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/f49a116a0a2e0f6a232bd0f39a9bc683.jpg",
+      "published_at": "2026-08-14T23:02:33Z"
     },
     {
       "id": "98c89780-072c-38a3-8a55-130815aa5f74",
@@ -244,72 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-investors-reveal-cautious-approach-215416925.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZMJaI0awe37x5NwdTtHdYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7bab38a91b8780fc72012c172d48b4c0.jpg",
       "published_at": "2026-08-14T21:54:16Z"
-    },
-    {
-      "id": "41aa00bd-2bc8-3705-9d89-9084c4fa7ac3",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Berkshire Hathaway Boosted Alphabet, Delta Stakes in 2nd Quarter, Sold Bank of America",
-      "summary": "Berkshire’s Alphabet stake—consisting of the search giant’s voting and nonvoting shares—rose about 80% in the quarter to 106 million shares, reflecting a purchase directly from Alphabet in June and open-market buys, based on a 13-F report with the Securities and Exchange Commission late Friday.  Berkshire was a seller of part of its sizable stake in  Bank of America  cutting it by 30 million shares to 483 million shares now worth about $31 billion.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/berkshire-hathaway-alphabet-delta-3bfd1c16?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sqjspJLkgDHnhxyQZr_v4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/800b95f6dd9fabe4de6544426368fc33.jpg",
-      "published_at": "2026-08-14T21:46:00Z"
-    },
-    {
-      "id": "f64aebbb-5596-394c-a75e-aa0d24d49ebc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Robert Kiyosaki Links Bitcoin and AI to an Old Prediction: Who Made It?",
-      "summary": "Robert Kiyosaki linked futurist Buckminster Fuller's predictions to the emergence of Bitcoin and artificial intelligence.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/robert-kiyosaki-bitcoin-ai-old-prediction/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vq2fvaSLx8izRmw1Ie4OnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/97d54de46a5d853d2508e54ece67eda3.png",
-      "published_at": "2026-08-14T21:32:04Z"
-    },
-    {
-      "id": "3236935d-fbd3-39bf-bba8-85b9441aa6db",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%",
-      "summary": "On Aug. 14, 2026, disappointing retail spending and consumer confidence data pulled markets back from record highs, with chipmakers leading declines.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-stocks-slip-as-consumer-data-disappoints-broadcom-falls-6/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RHoLDFvlsRRo8z2_mqfuVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460.png",
-      "published_at": "2026-08-14T21:30:18Z"
-    },
-    {
-      "id": "4f1fbdaa-72b8-4e7f-848b-8da2e42fd39e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
-      "summary": "Berkshire Hathaway (BRK-A, BRK-B), under new CEO Greg Abel, increased its Alphabet position, making the Google parent its third-largest U.S.-listed equity holding by market value, behind Apple (AAPL) and American Express (AXP). According to a new filing, Berkshire held roughly 106 million Alphabet shares, valued at $37.9 billion, as of the end of June. Recent reporting confirms Berkshire invested about $10 billion in Alphabet during the second quarter.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bvRpOlHgngMpQbmQk0hKVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/d5fd25a1-542f-45cd-b91c-b2f3c64cf700",
-      "published_at": "2026-08-14T21:29:00Z"
-    },
-    {
-      "id": "62693af7-5ead-326e-b7d8-22de8bc2de5c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy has realized over $102 million in losses from 2026 Bitcoin sales. Here is the full report",
-      "summary": "Michael Saylor spent years making the same promise. Never sell your Bitcoin. Not one satoshi. Strategy, the company he built around that conviction, held 843,775 Bitcoin through bull markets, bear markets, exchange collapses, and regulatory crackdowns, and never sold a single coin for four years ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/strategy-has-realized-over-102-million-in-losses-from-2026-bitcoin-sales-here-is-the-full-report",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ILmWtIEgbxDKKqZwzaAsRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c26df0cf8d407382df25b3e086ab15cf.jpg",
-      "published_at": "2026-08-14T21:19:19Z"
-    },
-    {
-      "id": "f380c3a3-7b4d-3f40-86ba-733be6aeae2d",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Stock Market Today, Aug. 14: Tesla Gains on TD Cowen Buy Reiteration and $460 Target",
-      "summary": "On Aug. 14, 2026, analyst support helped the stock climb, adding to a two-week rally.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-tesla-gains-on-td-cowen-buy-reiteration-and-460-target/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bw3yO9KfdwQZHAa1v99Tpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6470a161c4402c855b3eb26dbc820806.png",
-      "published_at": "2026-08-14T21:16:47Z"
     }
   ]
 }
