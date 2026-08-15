@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-15 17:17 UTC",
+  "last_updated": "2026-08-15 17:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "da53b8ef-d619-3b5f-8ef8-09f12ec94333",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Social Security Pays the Average Couple $3,120 a Month. Here’s the Portfolio It Takes to Match It.",
+      "summary": "Most retirement plans treat Social Security as a bonus, but pricing out what it actually takes to replace that monthly check from a private portfolio reveals just how much government backing most households are quietly depending on.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/08/15/social-security-pays-the-average-couple-3120-a-month-heres-the-portfolio-it-takes-to-match-it-2/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/63o.60qx6H3JlVf_VaXCdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ed560f1d0379e87d90fd160739646df0.jpg",
+      "published_at": "2026-08-15T17:32:41Z"
+    },
+    {
+      "id": "18a3b468-c17b-3497-af31-47ad57348928",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is Bitcoin a Buy at $63,000? We Asked 3 AI Models",
+      "summary": "ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/15/is-bitcoin-a-buy-at-63000-we-asked-3-ai-models/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UpBr_4sbYcRJnK018rMyyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/939eeb2e5d2e3fa396036bb3691eec70.jpg",
+      "published_at": "2026-08-15T17:14:25Z"
+    },
+    {
+      "id": "ddd5f6e3-7943-3526-b7b7-93a697e92730",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
+      "summary": "Five monthly paying ETFs are pulling income from covered calls, preferred stock, and junk bond coupons at yields that dwarf the 10-year Treasury, but the engine behind each payout changes everything about which one belongs in your portfolio.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/5-monthly-dividend-etfs-paying-7-to-14-percent-to-ride-into-2027/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EhrcvDMu7nnJqojPqoT4Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8dd01345e006e289daf079046927180f.jpg",
+      "published_at": "2026-08-15T17:11:48Z"
+    },
+    {
+      "id": "760bef4c-626d-3349-ad85-a67d4d06a5d5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+      "summary": "GE Vernova is quietly building embedded value with its long-term SMR investments.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/everyones-watching-oklo-and-nuscale-for-nuclear-ex/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.OFKhw.dbZgYk1PHKPuG_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44d6a01e363f76304d9fc8319ed5d987.png",
+      "published_at": "2026-08-15T17:05:00Z"
+    },
     {
       "id": "91881155-547f-3bbb-a982-72f3929ff1af",
       "asset": "NVDA",
@@ -93,25 +137,14 @@
     },
     {
       "id": "3e341ef6-117e-36ad-9046-cad17968fd2d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why It Just Hit an All-Time High Under Greg Abel.",
       "summary": "The reasons Buffett loves it are the same reasons the market is loving it right now.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/15/meet-the-dividend-stock-that-warren-buffett-backed/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NsI_sRNfDFk6508HBLBCzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e6ea846f8230ae71bf7eda1ed346890f.png",
       "published_at": "2026-08-15T15:47:00Z"
-    },
-    {
-      "id": "4cbea178-aa98-3d54-ac1b-b9063ac0f5f5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD’s $566 Million SpaceX Stake Raises a Bigger Question Than AI Chip Orders",
-      "summary": "SpaceX just told the world it will build its AI infrastructure exclusively on Nvidia chips, yet AMD quietly poured more than half a billion dollars into Elon Musk's company anyway. The reason has nothing to do with GPU contracts, and everything to do with where SpaceX is actually headed.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/amds-566-million-spacex-stake-raises-a-bigger-question-than-ai-chip-orders/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fyLsWb5Cq89FUqGpx5V5gQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d267a7eead9d746f11fb821f27f43302.png",
-      "published_at": "2026-08-15T15:41:13Z"
     },
     {
       "id": "1fc47861-d3cd-31d8-94f7-014fae5fd483",
@@ -277,39 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/15/schg-vs-qqq-vs-vug-we-compared-the-three-biggest-growth-etfs-and-one-is-the-clear-winner-for-the-next-decade/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cNfQ5ZLhYo6eS1ixSlJLAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3bf531c9ce1499e87b74aa2052b25dc4.jpg",
       "published_at": "2026-08-15T12:17:11Z"
-    },
-    {
-      "id": "a42e77f0-609a-3cca-a90b-e1aae1f792a0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Alphabet Is Berkshire Hathaway’s New Favorite Stock After Buying 48 Million Shares",
-      "summary": "After three years of selling more than he bought, new Berkshire CEO Greg Abel just broke the streak in dramatic fashion, pouring billions into a single tech giant that Warren Buffett himself quietly identified as the target.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/alphabet-is-berkshire-hathaways-new-favorite-stock-after-buying-48-million-shares/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rcaRMcMgA2hXsPBZ8.2X9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9c8922133c8351a6c259997fb5eeb8b5.jpg",
-      "published_at": "2026-08-15T12:05:51Z"
-    },
-    {
-      "id": "1593e1f8-f846-35d3-925d-700f773eb13f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
-      "summary": "Bitcoin's Q2 slide wiped $118 million off Abu Dhabi's IBIT stake, yet both sovereign funds kept every single share.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-abu-dhabi-etf-holdings-q2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MpATTDf7R1DipFpNYZ7.Og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e7417d1ae552682013f6e94d8925235b.jpg",
-      "published_at": "2026-08-15T11:05:06Z"
-    },
-    {
-      "id": "937892ea-0787-3208-9ba8-470167c729f1",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "3 Cloud Computing Stocks to Buy in August",
-      "summary": "The August earnings cycle just revealed something unusual about the three hyperscalers: their backlogs are growing faster than their revenue, and one trades at a valuation that makes the other two look expensive by comparison.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/3-cloud-computing-stocks-to-buy-in-august/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RrIM.m34SwZcftONmQ3Lqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/94b90e19878f8100e5e1b86438f18e51",
-      "published_at": "2026-08-15T11:00:26Z"
     }
   ]
 }
