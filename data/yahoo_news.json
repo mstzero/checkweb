@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-08-15 13:50 UTC",
+  "last_updated": "2026-08-15 14:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a555bef6-4392-3bbc-9fad-358fd80a393d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "The 5 Most Interesting Analyst Questions From BKV’s Q2 Earnings Call",
+      "summary": "BKV’s second quarter was marked by strong operational execution across its integrated natural gas, power, and carbon capture platform. The market responded positively to results that exceeded Wall Street’s revenue expectations, underpinned by higher upstream production, disciplined capital efficiency, and new carbon capture projects coming online. CEO Christopher Kalnin highlighted that “production was at the high end of guidance, development capital at the low end, [and] two carbon capture proj",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-141300653.html",
+      "thumbnail": "",
+      "published_at": "2026-08-15T14:13:00Z"
+    },
+    {
+      "id": "727e95dd-c39b-303c-a6a0-8393ab523203",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Warren Buffett named these 3 stocks as favorites for a reason",
+      "summary": "Warren Buffett spent 60 years building one of the greatest investing records in history, not by chasing whatever was popular, but by finding businesses he never wanted to sell. He said it himself in his 1988 shareholder letter, the year he first bought Coca-Cola: \"Our favorite holding period is ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/warren-buffett-named-these-3-stocks-as-his-favorites-for-a-reason-alphabet-apple-coca-cola",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dHBqz1ykhWkqrIOfDuA8TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4ff4d6864d98ee9383bd9db79dadcd07.jpg",
+      "published_at": "2026-08-15T14:04:00Z"
+    },
+    {
+      "id": "6565b8e8-2c85-3932-b981-90adc7a3eae4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
+      "summary": "Larry Fink sees oil potentially collapsing to $40 a barrel, and that geopolitical shift could trigger a massive rotation in the stock market. One tech giant is already positioned to absorb that capital, and its valuation tells a story Wall Street has quietly overlooked.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/larry-fink-says-oil-could-be-cut-in-half-if-so-this-tech-stock-could-explode-higher/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zfdg6rOI3px.mbR.Ttv5fw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0bc196f57e98e85d923fa9763032fad6.jpg",
+      "published_at": "2026-08-15T14:00:51Z"
+    },
+    {
+      "id": "15ab6d29-345a-3545-901e-76a59a6fd166",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Home Depot and Lowe's Have Both Raised Their Dividends for 17 Straight Years. Which Stock Is the Smarter Buy Heading Into Earnings?",
+      "summary": "The rapid growth days of each company are probably over, but each stock remains an excellent choice for income investors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/home-depot-lowes-raised-dividend-stock-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tHHVuUMCuDe0YJZYqIV77A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7c017aded9e66e4bc06608d6d6d2caa4.jpg",
+      "published_at": "2026-08-15T13:55:00Z"
+    },
+    {
+      "id": "a19aa616-e84a-3a68-aff2-0cd64362cc5d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The YieldMax Fund That Doesn’t Blow Up: A Target 12% From 50 Blue Chips",
+      "summary": "MSTY promised triple-digit yields and delivered a 68% price collapse instead, but a covered-call fund built on 50 blue chips has been quietly printing gains while sending monthly cash. The structure is nearly identical, so why have the outcomes been so radically different?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/the-yieldmax-fund-that-doesnt-blow-up-a-target-12-from-50-blue-chips/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/knupHYh_19WpB.fig188pQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2cf4fde60d720ad5c6007c7aa1c5234.jpg",
+      "published_at": "2026-08-15T13:51:10Z"
+    },
+    {
+      "id": "2e7c3cc1-079b-32e5-a2d2-8f43b59c4736",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom",
+      "summary": "Investors looking to make the most of the AI-driven chip boom will do well to take a closer look at this foundry giant before it doubles over the next three years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/not-nvidia-not-amd-this-chip-stock-will-be-the-big/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HXWt6di4Z5WDxaPOHUHWNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e18368a06041fcd751b2c171cca17e17.jpg",
+      "published_at": "2026-08-15T13:43:00Z"
+    },
+    {
+      "id": "3b0f5198-d645-3c1e-9f17-16ede61618e2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Greg Abel Just Plowed $4.2 Billion Into Warren Buffett's All-Time Favorite Stock",
+      "summary": "Warren Buffett bought a whopping $77.8 billion worth of this stock between 2018 and 2024, and it isn't Apple.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/greg-abel-plowed-42-billion-warren-buffetts-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ohuij.me.uZqq4c8GWm3Pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ae70958d4f8dcce779c892564e0c41ef.jpg",
+      "published_at": "2026-08-15T13:43:00Z"
+    },
+    {
+      "id": "9f7a7ac7-0c70-3bd9-963c-24c0fe9ad6f9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia’s Secret $21 Billion SpaceX Windfall — How One Chip Deal Turned Into a Rocket Fortune",
+      "summary": "Nvidia cut a check for an AI startup and woke up owning a massive stake in Elon Musk's rocket empire. The chain of events that turned a chip deal into one of the most unusual positions on any tech company's balance sheet raises a question shareholders probably never thought to ask.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/nvidias-secret-21-billion-spacex-windfall-how-one-chip-deal-turned-into-a-rocket-fortune/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/89cSJi6UNTLOLQL8qfunCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/062ac1c532fed8f28de38a4982008034.jpg",
+      "published_at": "2026-08-15T13:41:48Z"
+    },
     {
       "id": "5572c1b1-8265-3eb8-81af-3d9da0c086a4",
       "asset": "NVDA",
@@ -48,20 +136,9 @@
       "published_at": "2026-08-15T13:01:00Z"
     },
     {
-      "id": "68dfb30a-cd2d-3843-a2d4-f1ec4e3a6428",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The AI Platforms Are Real. The People Who Built Them Are Leaving.",
-      "summary": "The leading AI systems of the next decade may be developed by private companies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/the-ai-platforms-are-real-the-people-who-built-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/15VdkMgQ80cWUaC0JQOU8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e54679b15c8dc693e6e01bb4fee4eb13.jpg",
-      "published_at": "2026-08-15T13:00:00Z"
-    },
-    {
       "id": "f62db4ed-6fcd-3546-8145-639dbd7b1490",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "The 5 Biggest Risks Americans Don’t Think About Behind the Data Center Boom",
       "summary": "Half a trillion dollars in AI infrastructure spending looks like a Wall Street windfall, but the hidden costs are landing somewhere else entirely, and most Americans have no idea they are already on the hook.",
       "source": "24/7 Wall St.",
@@ -70,48 +147,15 @@
       "published_at": "2026-08-15T13:00:00Z"
     },
     {
-      "id": "cea3b7f3-dd48-3fb6-8dae-e9b5c102df78",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Block Stock Slumps Despite Earnings Rising by 65%",
-      "summary": "AI-driven efficiencies are an underappreciated catalyst for the fintech company.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/block-stock-slumps-despite-earnings-rising-by-65/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jmJ7Nthi3Ppd8.0lgbDnRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/73023c9dbf953598fab36a4ebeeab28b.jpg",
-      "published_at": "2026-08-15T12:41:00Z"
-    },
-    {
-      "id": "61c0df70-1df1-3aa0-9d10-e53c48f105ea",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nu Holdings Banks More Than Half the Adults in Brazil",
-      "summary": "The digital bank just topped $1 billion in quarterly profit for the first time. So where does growth come from when most of a country already banks with you?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/nu-holdings-banks-more-than-half-the-adults-in-bra/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a2JXcJ9sn3xVLGIa_KTbIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1876da8608a6437fd88b113ee583a436.jpg",
-      "published_at": "2026-08-15T12:37:00Z"
-    },
-    {
       "id": "066fe5c7-080b-3eeb-b71c-c13c9a20b0ba",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders.",
       "summary": "Everything depends on creating long-term shareholder value.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/15/elon-musk-trillion-pay-package-tesla-market-cap/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jrgTeWnw4UhkEvriR7ZyIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f23ce33da95098cbd954390cd5bdf57a.jpg",
       "published_at": "2026-08-15T12:35:00Z"
-    },
-    {
-      "id": "b7002a29-ccd1-3780-9339-3b9b3134ba34",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Tencent Music Stock Sank This Week",
-      "summary": "Tencent Music served up solid Q2 results, but that wasn't enough for investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/why-tencent-music-stock-sank-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/On7sQbv6HEiAMzUdBLMaYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3267843afbed9ab89cc9754f24d2b8a4.jpg",
-      "published_at": "2026-08-15T12:33:49Z"
     },
     {
       "id": "93902af3-98e0-3dcd-b306-c6dbe394cc7c",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-fortuna-mining-tsx-fvi-071005161.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eROQvDwNuvxYwS6G928d7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/34f63b3b22c8329a2cc9c9a2287c3708.jpg",
       "published_at": "2026-08-15T07:10:05Z"
-    },
-    {
-      "id": "6798e833-687d-3bad-b73c-a5383183ef7d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Top 5 Analyst Questions From Northern Oil and Gas’s Q2 Earnings Call",
-      "summary": "Northern Oil and Gas delivered Q2 results that were met with a positive market reaction, driven largely by strong execution of its diversified asset strategy. Management attributed the quarter’s performance to resilience in its non-operated model, which allowed other basins to offset production curtailments in the Permian. CEO Nick O’Grady emphasized that, despite short-term fluctuations in certain regions, overall production benefited from record natural gas volumes and improved unhedged realiz",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-northern-061300597.html",
-      "thumbnail": "",
-      "published_at": "2026-08-15T06:13:00Z"
-    },
-    {
-      "id": "a2580210-667b-387e-a6a1-6b73075ac275",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
-      "summary": "The AI rocket ship is turning into a fruitful partnership with Amazon.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/elon-musk-admits-he-underestimated-anthropics-ai-w/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YA8LaX8zeugR4Gc3We367g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4e9c69b83d840bf1e9d7a72eeddfe49d.jpg",
-      "published_at": "2026-08-15T05:20:00Z"
-    },
-    {
-      "id": "9065c924-f4bb-35f6-8d40-858ab0b53907",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Our Newmont Stock Pick Still Glitters After 66% Gains. Stay Bullish.",
-      "summary": "Newmont Corp  has returned 66% in the year since we recommended it as a Barron’s stock pick, handily beating out the 30% increase in the  over the period.  For Newmont, the historic rally in precious metals has certainly helped, as the price of gold climbed to a record $5,589 an ounce earlier this year.  Newmont is positioned to continue capitalizing on its sector-leading position with elevated metals prices driving record cash flow and earnings.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/newmont-stock-pick-still-glitters-after-66-gains-stay-bullish-30cfc217?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ICNHrdUJoojTnKC6I_P7qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e7b937209beb9385031f391e1a424dde.jpg",
-      "published_at": "2026-08-15T04:26:00Z"
-    },
-    {
-      "id": "9a0cfc96-238f-3e75-85cf-a153353c22a1",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "BP (LSE:BP.) Returns To Venezuela To Run Loran Phase 2 Gas Project",
-      "summary": "BP (LSE:BP.) has agreed to return to Venezuela as operator of the offshore Loran Phase 2 gas project, partnering with XRG and UCC. The move follows recent energy reforms in Venezuela and a relaxation of US sanctions that had limited foreign participation in the sector. BP's role in Loran Phase 2 marks a fresh opening for international capital and technical expertise in Venezuelan offshore gas. This renewed presence in Venezuela highlights how BP is only one of several energy companies tied...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/bp-lse-bp-returns-venezuela-031831897.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PhEJJiOYfhBoDBtHaeYOUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/44c9711f530c84540d3fa258ea9e1029.jpg",
-      "published_at": "2026-08-15T03:18:31Z"
     }
   ]
 }
