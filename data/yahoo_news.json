@@ -1,23 +1,122 @@
 {
-  "last_updated": "2026-08-14 23:46 UTC",
+  "last_updated": "2026-08-15 01:00 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "c983d71a-fc10-3c0d-b9be-d91244f0d0c0",
+      "id": "67e0545c-4b82-3000-bbf0-08384f4d0e82",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center",
-      "summary": "Nvidia  and OpenAI are nearing a deal to finance a large-scale data-center campus in Ohio, but have reworked the deal structure so that Nvidia would initially guarantee only half of the planned multi-hundred-billion-dollar buildout rather than all of it, according to people familiar with the deal.  The revised plan would lower the size of Nvidia’s financial guarantee from $250 billion to less than $120 billion, a change made to address investors’ concerns about the chipmaker’s risk exposure as it wields its balance sheet to bolster demand for its artificial-intelligence chips, some of the people said.  Nvidia shares fell 5% after the Journal first reported the discussions of the $250 billion backstop.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YdLqrhOndUpZZ1QihIWUTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d24b46247be47ffe67dc59e3b67c1d0e.jpg",
-      "published_at": "2026-08-14T23:29:00Z"
+      "title": "Warren Buffett's Successor, Greg Abel, Pared Down Bank of America, and Piled Into a Virtual Monopoly That's Now Berkshire's 3rd-Largest Holding",
+      "summary": "Greg Abel's overhaul of Berkshire Hathaway's $358 billion investment portfolio continued in his second quarter at the helm.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/warren-buffett-greg-abel-pared-down-bac-buy-googl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vGIIc3fLI2axfpjuy0Ot.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/424d33c9ff5fc264b419eb95f23a50f3.jpg",
+      "published_at": "2026-08-15T00:17:00Z"
+    },
+    {
+      "id": "b9513926-f9c8-3b65-9040-62e77059d569",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US rig count up five as prices rise",
+      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 265 rigs active in the region. A year ago, 255 rigs were active in the region. Nationally, the oil and gas rig count is up five from last week at 593 rigs. A year ago, 539 rigs were active. The count shows that 455 rigs sought oil, up one from the previous week, and 128 explored for ...",
+      "source": "Odessa American, Texas",
+      "url": "https://www.oaoa.com/?p=369184",
+      "thumbnail": "",
+      "published_at": "2026-08-15T00:01:00Z"
+    },
+    {
+      "id": "9aee8e69-5cd0-39cb-9869-e913d2ada571",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
+      "summary": "NVIDIA Corp. (NASDAQ:NVDA) was mentioned during the August 12 episode of Mad Money, as host Jim Cramer detailed the expansion across artificial intelligence infrastructure, as he said: Then today, aided by a benign consumer price index number, the data center stocks couldn’t be contained. Lumentum, which makes fiber optics, told a terrific tale… And finally, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a59IfJfKKClO2i.iZfvCHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+      "published_at": "2026-08-14T23:58:46Z"
+    },
+    {
+      "id": "9f8fbcdd-199c-301c-8a90-d3030d662407",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVDA Discloses $21B Stake In SpaceX — Elon Musk’s Rocket Firm Becomes Nvidia’s No. 2 Holding",
+      "summary": "Nvidia owns 122.8 million SpaceX shares, giving it a major stake in Musk’s space and AI empire as the two companies deepen their data-center partnership.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-discloses-21-billion-stake-in-spacex-elon-musks-rocket-firm-becomes-nvidias-no-2-holding/cZotyxyRJKP",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kKkvFgYxFKBEXhfp_lTN6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/439825bf97802dfc7f1e29435fedbbcd.jpg",
+      "published_at": "2026-08-14T23:49:54Z"
+    },
+    {
+      "id": "f0b9af5c-5fd0-3bd0-973e-e0a8de88b3a6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Is Tether Looking Like a Central Bank?",
+      "summary": "Gold  recent rally is mostly due to five big buyers: four central banks and Tether, a company that deals in cryptocurrency.  Tether is buying for the very reasons that central banks are—to diversify its holdings and hedge against inflation and significant dollar weakness, which Tether’s crypto stablecoin  USDT  is pegged to.  In the first half, Tether bought more than 27 metric tons of gold—matching Kazakhstan.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/why-is-tether-looking-like-a-central-bank-d9abebb7?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m5otZNNY50BCn0gM5TXA8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e1139fce46e97b1918ec7246ae8ca901.jpg",
+      "published_at": "2026-08-14T23:49:00Z"
+    },
+    {
+      "id": "7535684e-88dd-391f-ae24-a1e5d5cc9033",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Heartflow Stock Soared Today",
+      "summary": "The healthcare technology leader is using artificial intelligence to detect coronary artery disease early.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/why-heartflow-stock-soared-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cpzIgT9PiJQgIQ6efQ6Aeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d2cf26e633ea3cf24df43f28a028b47d.jpg",
+      "published_at": "2026-08-14T23:44:06Z"
+    },
+    {
+      "id": "342cc9f0-8ce8-3157-957e-6da0f5e7ad24",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+      "summary": "Nvidia has revised its plans to support a proposed OpenAI data center project in ‌Ohio and is now expected to initially guarantee less ‌than $120 billion, down from the $250 billion previously discussed, the Wall Street Journal ​reported on Friday, citing people familiar with the matter.  • The Journal said Nvidia and OpenAI are nearing an agreement, with the chipmaker expected to provide a financial backstop only for the ‌first phase of the ⁠project.  • ⁠The change was made after investors raised concerns about Nvidia's risk exposure tied to large financing commitments, the newspaper said.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q7pn.r5Dm_9Ak96ZAmCNLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b3f9ec0f5742e905c4a5a6761ca1f765.jpg",
+      "published_at": "2026-08-14T23:43:56Z"
+    },
+    {
+      "id": "6fa28ba0-935e-30fe-9803-bd56f827641c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Gemini Space Station Stock Plummeted to Earth Today",
+      "summary": "The crypto exchange operator was affected by relatively weak trading in such assets.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/why-gemini-space-station-stock-plummeted-to-earth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VyBX4xT7csA7cvwcon4c8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b108e4b9773f6df3e0a28277f8e7419.jpg",
+      "published_at": "2026-08-14T23:43:05Z"
+    },
+    {
+      "id": "60691771-bd29-3b34-a33e-fb646bbeb150",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Why AI is unlikely to be an apocalypse for jobs",
+      "summary": "Investing.com -- Artificial intelligence is more likely to replace individual tasks than entire occupations, limiting the risk of widespread job destruction, BofA Global Research said in a report examining employment across 206 US industries.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-ai-unlikely-apocalypse-jobs-234216568.html",
+      "thumbnail": "",
+      "published_at": "2026-08-14T23:42:16Z"
+    },
+    {
+      "id": "782cf1d8-31e9-3a85-94e1-6beca7a0c5b4",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
+      "summary": "According to the firm’s filing with the Securities and Exchange Commission, Berkshire lifted the combined GOOGL and GOOG position to about 106 million shares.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/berkshire-hathaway-makes-alphabet-its-no-3-holding-after-48m-share-buy/cZotygTRJK2",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RBRYZpJI3AgNiHqXLAIs9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/e166ddad2492ab381289fef0dd4cb8a4",
+      "published_at": "2026-08-14T23:28:53Z"
     },
     {
       "id": "80941763-242e-3a5e-85df-5f7ea52f22ab",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "JFrog (FROG) Is Up 7.4% After Raising Guidance On AI-Fueled Cloud Security Demand - Has The Bull Case Changed?",
       "summary": "In August 2026, JFrog reported Q2 results showing revenue rising to US$163.77 million with a sharply smaller net loss, while also issuing higher full-year revenue guidance and highlighting accelerating demand for its cloud and security offerings amid AI-driven software development. JFrog’s upcoming swampUP 2026 conference in New York, featuring security and AI leaders from Anthropic, Microsoft, NVIDIA and others, underlines its push to position the platform at the center of securing AI-era...",
       "source": "Simply Wall St.",
@@ -46,28 +145,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/powercompute-inc-pwcm-q2-2026-230150828.html",
       "thumbnail": "",
       "published_at": "2026-08-14T23:01:50Z"
-    },
-    {
-      "id": "baa8fa27-078a-3005-aa06-408b1b577d3d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Intel’s stock buybacks: History & investor impact explained",
-      "summary": "Intel once was the biggest chipmaker in the world. During the 1990s through the mid-2010s, Intel’s semiconductor powered most of the personal computers in businesses and homes worldwide. Nowadays, the company is playing catch-up, competing with other powerful players in the semiconductor industry — ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/intel-stock-buybacks",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HaWTZtC1OgPRnxqcJJLtlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4a2dec4d478a4c9e7925852b30aed9ea.jpg",
-      "published_at": "2026-08-14T22:50:04Z"
-    },
-    {
-      "id": "69526502-fef2-3b5a-b97e-4bb4a4823130",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "GLP-1 Demand Is Soaring. 2 Stocks That Could Benefit From This (Hint: Not Eli Lilly or Novo Nordisk)",
-      "summary": "They are way more than just GLP-1 stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/14/glp-1-demand-is-soaring-2-stocks-that-could-benefi/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YFhpJ9HoMlXiEiawbu4Nfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2282c7518fea56c9ec009486e7510775.png",
-      "published_at": "2026-08-14T22:50:00Z"
     },
     {
       "id": "323ab38a-4e86-3224-81a5-a70d30d5d657",
@@ -147,26 +224,15 @@
       "published_at": "2026-08-14T22:06:16Z"
     },
     {
-      "id": "a01b419f-6ec5-3f33-8f0d-bbc73a44f2aa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Oracle Stock Got Trounced Today",
-      "summary": "The company's major plans for its data center future suffered a setback.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/14/why-oracle-stock-got-trounced-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/URxcVPziGcCAhqmz4m0prA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bfd5ac90615a615fcf2ca321dc7b4c7a.jpg",
-      "published_at": "2026-08-14T22:02:45Z"
-    },
-    {
-      "id": "78d9728d-82ab-31a6-adc2-88a2ba6f0971",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why REalloys Stock Soared Today",
-      "summary": "Investors are mining below the headline numbers, and they dig what they discovered.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/14/why-realloys-stock-is-soaring-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/puNv8CbnGxTMcaJYKLtkFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/76b0b49eb9df3b42ffa50b815efd5fcf.jpg",
-      "published_at": "2026-08-14T21:57:59Z"
+      "id": "cf7eb2dd-3b27-3378-ad9e-48917e140439",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Carl Icahn Trims Stakes in JetBlue and American Electric Power",
+      "summary": "The activist investor’s largest stockholding, CVR Energy, lost nearly 20% of its value in the second quarter.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/carl-icahn-jetblue-american-electric-power-2460aac8?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.W.YJqJ6ar_q3z8oRSNkkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/25cd2dffe6282b7ec8a81d0c17a22b9a.jpg",
+      "published_at": "2026-08-14T22:04:00Z"
     },
     {
       "id": "671f0efd-6227-3825-8b85-42157d5015e5",
@@ -183,23 +249,12 @@
       "id": "41aa00bd-2bc8-3705-9d89-9084c4fa7ac3",
       "asset": "AAPL",
       "asset_name": "Apple",
-      "title": "Berkshire Boosted Alphabet, Delta Stakes in 2nd Quarter, Sold Bank of America",
+      "title": "Berkshire Hathaway Boosted Alphabet, Delta Stakes in 2nd Quarter, Sold Bank of America",
       "summary": "Berkshire’s Alphabet stake—consisting of the search giant’s voting and nonvoting shares—rose about 80% in the quarter to 106 million shares, reflecting a purchase directly from Alphabet in June and open-market buys, based on a 13-F report with the Securities and Exchange Commission late Friday.  Berkshire was a seller of part of its sizable stake in  Bank of America  cutting it by 30 million shares to 483 million shares now worth about $31 billion.",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/berkshire-hathaway-alphabet-delta-3bfd1c16?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sqjspJLkgDHnhxyQZr_v4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/800b95f6dd9fabe4de6544426368fc33.jpg",
       "published_at": "2026-08-14T21:46:00Z"
-    },
-    {
-      "id": "5b1882c1-07b9-3a10-82cc-b05f5990728d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Alphabet Just Borrowed $25 Billion, and $2.5 Billion of It Isn't Due Until 2066",
-      "summary": "Some of this money doesn't have to be paid back for 40 years. The servers the search giant is buying are depreciated over about six years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/14/alphabet-just-borrowed-25-billion-and-25-billion-o/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cTTg7kag19xmZ_1K1U7KFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cda817c3310b9724617efaf2ecd86408.jpg",
-      "published_at": "2026-08-14T21:43:00Z"
     },
     {
       "id": "f64aebbb-5596-394c-a75e-aa0d24d49ebc",
@@ -255,61 +310,6 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-tesla-gains-on-td-cowen-buy-reiteration-and-460-target/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bw3yO9KfdwQZHAa1v99Tpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6470a161c4402c855b3eb26dbc820806.png",
       "published_at": "2026-08-14T21:16:47Z"
-    },
-    {
-      "id": "27830bc0-26b4-36b2-8861-87a1f7a47f29",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Oil prices rally, US data dents chances of Fed rate hike",
-      "summary": "By Chris Prentice and Amanda Cooper NEW YORK/LONDON, Aug 14 (Reuters) - U.S. and European shares fell on Friday and oil prices rose more than $1 a barrel as markets monitored tense U.S.-Iran talks and",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/asian-stocks-set-weekly-gain-023234921.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4gvA5rTRFQItp8Ugksh0uA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6c094cd9d24d3e236ed664d51a7172f2.jpg",
-      "published_at": "2026-08-14T21:12:15Z"
-    },
-    {
-      "id": "6c814ebd-7c1a-3f35-8f67-2ac0ffe7c1d3",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Waymo Scales Toward 1 Million Weekly Rides After California Approval For Expansion",
-      "summary": "CPUC approved the expansion of Waymo’s fully autonomous ride-hailing service across the San Francisco Bay Area and Los Angeles, plus launches in Sacramento and San Diego.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/waymo-scales-toward-1-million-weekly-rides-after-california-approval-for-expansion/cZotHVjRJKb",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OTjOjLJo_PPp1Or1l6GvJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2a16fe6c34fb92ce1888a7099eac4619.jpg",
-      "published_at": "2026-08-14T21:07:48Z"
-    },
-    {
-      "id": "898124d0-52a1-33be-ab91-ea573626ed4f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.",
-      "summary": "The SEC postponed its Friday meeting, which would consider whether to propose new crypto rules amid the Clarity Act limbo.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0mIcsI2iXga.q97N4RbCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5eef8d1ee94cfa474d93c19efce42cb9.jpg",
-      "published_at": "2026-08-14T21:05:52Z"
-    },
-    {
-      "id": "00339b32-5e9a-331a-9223-dd02518723a7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave",
-      "summary": "Stock Market Today: The Dow Jones index falls Friday on soft economic data. AI chip equipment giant Applied Materials dives on earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GWvWpN1gtUPF56HD9gZvqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5.jpg",
-      "published_at": "2026-08-14T21:05:08Z"
-    },
-    {
-      "id": "dedc5312-6f46-3d57-aa24-6ae0d8e1ae91",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Contango ORE Q2 Earnings Call Highlights",
-      "summary": "Contango ORE (NYSEAMERICAN:CTGO), which management referred to during its quarterly update as Contango Silver & Gold, said it expects stronger production, lower costs and increased cash distributions in the second half of 2026 as mining advances into higher-grade material at the Manh Choh joint",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/contango-ore-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yFGlZzlI_JugnB_mZtTApA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/a8daab31bfd417e0e865646e3f07afe3.jpg",
-      "published_at": "2026-08-14T21:02:18Z"
     }
   ]
 }
