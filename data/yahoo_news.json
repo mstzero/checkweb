@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-15 10:18 UTC",
+  "last_updated": "2026-08-15 10:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "176e0757-df08-3ac3-9cc3-b87914e6fec6",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?",
+      "summary": "The world's largest corporate holder of Ether continues to buy more tokens.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FcqLhvnvK7SMsUT9QbezxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bea362233ecbdbc31dcb5c4eb49fa3fc.jpg",
+      "published_at": "2026-08-15T10:40:00Z"
+    },
+    {
+      "id": "b35c677a-47be-3ab4-838b-988af347cd83",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dividend Stocks Usually Beat Non-Payers. Berkshire Hathaway Is the Exception.",
+      "summary": "Berkshire Hathaway has been an outlier.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/dividend-stocks-usually-beat-non-payers-berkshire/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yk6xP0w03EoKcDtmt1_0XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f8a01a2ab57af457c68495138e465cce.png",
+      "published_at": "2026-08-15T10:35:00Z"
+    },
+    {
+      "id": "0f608cc1-142c-373a-a73b-5bbdea6ab665",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Price Below $10,000? ChatGPT Issues Warning as ‘Crypto Is Dead’ Chatter Surges",
+      "summary": "Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/bitcoin-price-10000-chatgpt-issues-warning-crypto-dead/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Z_YgQRYfixgZYB1FQGSNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/a28424a9a85add2c89569866d6ca79d5",
+      "published_at": "2026-08-15T10:01:00Z"
+    },
     {
       "id": "1e837b01-7239-3879-94a2-b9c380f9c41b",
       "asset": "NVDA",
@@ -79,28 +112,6 @@
       "url": "https://www.fool.com/investing/2026/08/15/2-tech-dividend-stocks-that-offer-high-yields-and/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bw0YsTl241dHgM2dn4tVAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8a2a4939abf0f2ec1e2578a04bb775e0.jpg",
       "published_at": "2026-08-15T09:25:00Z"
-    },
-    {
-      "id": "6d9823ea-2f54-327d-9e0b-53d37bd5d6b5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Mark Zuckerberg Just Wrote a 6,500-Word Manifesto on the Future of AI, and Did Not Mention Crypto Once. Here's What He's Missing.",
-      "summary": "The AI future includes crypto as well. Here's why.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/mark-zuckerberg-just-wrote-a-6500-word-manifesto-o/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YcUYiUUotJMDcC3vncS5qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/983f25e3019b0f610fd72aaa64c8aff2.jpg",
-      "published_at": "2026-08-15T09:20:00Z"
-    },
-    {
-      "id": "51758d4b-9c3f-3191-954f-0d824629ac1f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Stock Investors Just Got Good News From SpaceX. Wall Street Says It's Time to Buy.",
-      "summary": "Elon Musk's SpaceX will build its AI services exclusively on Nvidia system.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/nvidia-stock-investors-got-good-news-from-spacex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rvY.VMsrd47BlEDdEw.dYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f37130b8590ffc47a33301d31b8b77e6.png",
-      "published_at": "2026-08-15T09:08:00Z"
     },
     {
       "id": "9aed4a10-1c8c-320d-a03d-aa53e97e5a3e",
@@ -299,17 +310,6 @@
       "url": "https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q2-2026",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LR2.XrC_VqiQZ59P8qHo4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/f49a116a0a2e0f6a232bd0f39a9bc683.jpg",
       "published_at": "2026-08-14T23:02:33Z"
-    },
-    {
-      "id": "98c89780-072c-38a3-8a55-130815aa5f74",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "PowerCompute Inc (PWCM) (Q2 2026) Earnings Call Highlights: Strategic Pivot to AI ...",
-      "summary": "PowerCompute Inc (PWCM) reports flat revenue and a net loss as it transitions from Bitcoin mining to AI and HPC hosting, leveraging its 26 megawatts of low-cost power.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/powercompute-inc-pwcm-q2-2026-230150828.html",
-      "thumbnail": "",
-      "published_at": "2026-08-14T23:01:50Z"
     }
   ]
 }
