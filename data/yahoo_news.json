@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 02:32 UTC",
+  "last_updated": "2026-08-15 03:34 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "60c4fa3f-bb0d-311b-bf91-d37163545d4f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why H&R Block Stock Jumped This Week",
+      "summary": "Shareowners have larger dividends headed their way.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/14/why-hr-block-stock-is-up-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/67fA5isGfSKuypVqP1K77A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/528dab19cfe8109298671f8923e1c487.jpg",
+      "published_at": "2026-08-15T02:22:56Z"
+    },
     {
       "id": "92c5d27a-03f8-3904-844d-255352a5ef32",
       "asset": "MSFT",
@@ -41,7 +52,7 @@
       "asset": "AAPL",
       "asset_name": "Apple",
       "title": "U.S. Urges Apple Not to Buy Chinese Memory Chips",
-      "summary": "Commerce Secretary Howard Lutnick urged the iPhone maker to find other solutions to the artificial-intelligence-driven chip supply crunch.",
+      "summary": "Commerce Secretary Howard Lutnick urged the iPhone maker to find other solutions to the AI-driven chip supply crunch.",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f_2bY1aJcYuwNyw_gPvAEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4a59bb290e762b621e406919145b9068.jpg",
@@ -134,17 +145,6 @@
       "url": "https://www.fool.com/investing/2026/08/14/why-heartflow-stock-soared-today/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cpzIgT9PiJQgIQ6efQ6Aeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d2cf26e633ea3cf24df43f28a028b47d.jpg",
       "published_at": "2026-08-14T23:44:06Z"
-    },
-    {
-      "id": "342cc9f0-8ce8-3157-957e-6da0f5e7ad24",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
-      "summary": "Nvidia has revised its plans to support a proposed OpenAI data center project in ‌Ohio and is now expected to initially guarantee less ‌than $120 billion, down from the $250 billion previously discussed, the Wall Street Journal ​reported on Friday, citing people familiar with the matter.  • The Journal said Nvidia and OpenAI are nearing an agreement, with the chipmaker expected to provide a financial backstop only for the ‌first phase of the ⁠project.  • ⁠The change was made after investors raised concerns about Nvidia's risk exposure tied to large financing commitments, the newspaper said.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q7pn.r5Dm_9Ak96ZAmCNLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b3f9ec0f5742e905c4a5a6761ca1f765.jpg",
-      "published_at": "2026-08-14T23:43:56Z"
     },
     {
       "id": "60691771-bd29-3b34-a33e-fb646bbeb150",
