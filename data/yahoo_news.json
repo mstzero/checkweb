@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-15 11:16 UTC",
+  "last_updated": "2026-08-15 11:43 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "b6ff08a1-a52e-3258-adc9-17c392f3a1ad",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Hasbro Exec Rolled a \"1\" on Video Games -- and Lost His Job",
+      "summary": "World of Warcraft and Star Wars are coming to a Dungeons & Dragons table near you.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/hasbro-exec-rolled-a-1-on-video-games-and-lost-job/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/acAAzMhdVqtIyA_EYoIlFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5535f5ea849f4d91c6beff269b5c643c.jpg",
+      "published_at": "2026-08-15T11:27:00Z"
+    },
+    {
+      "id": "f8a2c219-97d7-3466-a0c5-2eeb30d33e9c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Will SpaceX Be the First Company to Hit $1 Trillion in Revenue? Here's What the Math Says.",
+      "summary": "Elon Musk, as always, has an ambitious plan for his company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/will-spacex-be-the-first-company-to-hit-1-trillion/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SlWjvhef40n10gv4y2qVyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7785f5b1e277e72f73fc8c1b43ee55a9.jpg",
+      "published_at": "2026-08-15T11:20:00Z"
+    },
+    {
+      "id": "a6e601bd-e140-3da1-915a-9c6e01b582f1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AMD, Intel and NVIDIA All Rally as Super Micro’s Blowout Numbers Reignite the AI Trade",
+      "summary": "Three of the biggest names in logic chips closed higher on August 12, following a strong earnings report deep in the AI server supply chain. Advanced Micro Devices, Inc. (NASDAQ:AMD) up 1.8% at $483, Intel Corporation (NASDAQ:INTC) up 3.3% to $101, and NVIDIA Corporation (NASDAQ:NVDA) up 3% to $224, in a broad rally sparked not […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ECJIs.1skTwk40_IqMj0UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8.jpg",
+      "published_at": "2026-08-15T11:07:38Z"
+    },
+    {
+      "id": "1593e1f8-f846-35d3-925d-700f773eb13f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
+      "summary": "Bitcoin's Q2 slide wiped $118 million off Abu Dhabi's IBIT stake, yet both sovereign funds kept every single share.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-abu-dhabi-etf-holdings-q2/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MpATTDf7R1DipFpNYZ7.Og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e7417d1ae552682013f6e94d8925235b.jpg",
+      "published_at": "2026-08-15T11:05:06Z"
+    },
     {
       "id": "785e4378-40b3-3fcd-bec4-2494302c1ded",
       "asset": "NVDA",
@@ -81,17 +125,6 @@
       "published_at": "2026-08-15T10:40:00Z"
     },
     {
-      "id": "b35c677a-47be-3ab4-838b-988af347cd83",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dividend Stocks Usually Beat Non-Payers. Berkshire Hathaway Is the Exception.",
-      "summary": "Berkshire Hathaway has been an outlier.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/dividend-stocks-usually-beat-non-payers-berkshire/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yk6xP0w03EoKcDtmt1_0XA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f8a01a2ab57af457c68495138e465cce.png",
-      "published_at": "2026-08-15T10:35:00Z"
-    },
-    {
       "id": "ef84e718-54a8-36ef-b484-a43c8e80432e",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -112,17 +145,6 @@
       "url": "https://www.ccn.com/news/crypto/bitcoin-price-10000-chatgpt-issues-warning-crypto-dead/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Z_YgQRYfixgZYB1FQGSNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/a28424a9a85add2c89569866d6ca79d5",
       "published_at": "2026-08-15T10:01:00Z"
-    },
-    {
-      "id": "1e837b01-7239-3879-94a2-b9c380f9c41b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jeff Bezos Is Selling $4 Billion of His Amazon Stock. Should You Follow Suit?",
-      "summary": "Is the recent sale a sign that Amazon could be near its peak?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/jeff-bezos-selling-billion-amazon-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KwWfPew.qkjKJKV_foW3nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e19c12400c234382bad0436dfbbe3eb8.jpg",
-      "published_at": "2026-08-15T10:00:00Z"
     },
     {
       "id": "4bed5435-af3f-37c4-a776-26e58de43c9c",
@@ -288,28 +310,6 @@
       "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
       "published_at": "2026-08-14T23:55:00Z"
-    },
-    {
-      "id": "f0b9af5c-5fd0-3bd0-973e-e0a8de88b3a6",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Why Is Tether Looking Like a Central Bank?",
-      "summary": "Gold  recent rally is mostly due to five big buyers: four central banks and Tether, a company that deals in cryptocurrency.  Tether is buying for the very reasons that central banks are—to diversify its holdings and hedge against inflation and significant dollar weakness, which Tether’s crypto stablecoin  USDT  is pegged to.  In the first half, Tether bought more than 27 metric tons of gold—matching Kazakhstan.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/why-is-tether-looking-like-a-central-bank-d9abebb7?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m5otZNNY50BCn0gM5TXA8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e1139fce46e97b1918ec7246ae8ca901.jpg",
-      "published_at": "2026-08-14T23:49:00Z"
-    },
-    {
-      "id": "60691771-bd29-3b34-a33e-fb646bbeb150",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Why AI is unlikely to be an apocalypse for jobs",
-      "summary": "Investing.com -- Artificial intelligence is more likely to replace individual tasks than entire occupations, limiting the risk of widespread job destruction, BofA Global Research said in a report examining employment across 206 US industries.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-ai-unlikely-apocalypse-jobs-234216568.html",
-      "thumbnail": "",
-      "published_at": "2026-08-14T23:42:16Z"
     }
   ]
 }
