@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-15 19:18 UTC",
+  "last_updated": "2026-08-15 19:43 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "b19239b0-9b09-3ba0-be3f-a8327f5b279a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
+      "summary": "Nvidia is in talks ‌to invest as ‌much as $3 billion in SB ​Energy, a subsidiary of SoftBank Group and developer of a massive ‌planned ⁠Ohio data center project for OpenAI, ⁠the Information reported on Saturday, citing people ​familiar with ​the ​discussions.  The investment ‌is being discussed as part of Nvidia’s negotiations with OpenAI and SB Energy over the ‌chip company ​providing around $100 ​billion ​in credit support ‌for the planned ​Ohio ​data center campus, the report said.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/whYEBiKdOm3WKJm40stmyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/8d07bb37049efa93ef61c4edc7f7cdc6.jpg",
+      "published_at": "2026-08-15T19:38:26Z"
+    },
+    {
+      "id": "7cc165f8-8482-3f6f-b17e-612f20d6d410",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners",
+      "summary": "A new ETF built on diesel engines, truck fleets, and air conditioners is pitching itself as a refuge from software-heavy portfolios, but its biggest holding may already be cashing in on the very trend it claims to avoid.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/15/the-anti-ai-etf-is-here-and-its-biggest-holdings-are-engines-trucks-and-air-conditioners/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QIbUbUN2z7.GCdH9rVU35g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/69bee639f084ddf91d6f25d1b1ea2f70.jpg",
+      "published_at": "2026-08-15T19:35:56Z"
+    },
+    {
+      "id": "e1bceb7d-0c91-3467-972f-84383fd5192e",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
+      "summary": "Musk's bold claim suggests SpaceX could spend huge sums on data centers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/elon-musk-says-spacex-has-a-massive-competitive-ad/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/76NZcC.aHyxS6g9YqoBq2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/22a28696d57d6f21e0891964216e1930.jpg",
+      "published_at": "2026-08-15T19:23:00Z"
+    },
+    {
+      "id": "78783a02-4329-3f86-829e-8194d914cd03",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The AI Problem at Law Firms Isn't Hallucination. It's Honesty.",
+      "summary": "Generic AI chatbots have a specific problem inside law firms: They answer honestly, even when the person asking isn't allowed to know the answer. Intapp's Celeste is built to say \"no comment\" when it has to.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/the-ai-problem-at-law-firms-isnt-hallucination-its/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AbBPj3UpsiCTInO7Q9hU6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a87b6296bb20ceef7fc4db807ef1368f.jpg",
+      "published_at": "2026-08-15T19:17:00Z"
+    },
+    {
+      "id": "3e6dc5e3-b9ed-330b-9c36-3fb714153a83",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Are Mega-Mergers Back?",
+      "summary": "Companies try to get deals done while regulators allow them. But are buyouts always a good idea?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/are-mega-mergers-back/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kw82NpqZgxAy7FVXs3ri9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/660b5fde3264c31f3a9b67528e2ed69d.jpg",
+      "published_at": "2026-08-15T19:14:28Z"
+    },
+    {
+      "id": "e4265acf-8f4e-3bb3-9453-6bbe6cf28a87",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Could Bitcoin Ever Break the 21 Million Cap? Adam Back Says It’s a Trap",
+      "summary": "Adam Back rejects Peter Todd's call to lift Bitcoin's 21 million supply cap, calling the case a false narrative.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-21-million-cap-adam-back/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S_rxlqMcoQtYhek.gYOe_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/84ef548b4bbc392f9fdac438c0467100.png",
+      "published_at": "2026-08-15T19:07:25Z"
+    },
     {
       "id": "06c31dec-2463-338d-a3e4-8c72d1fe2bf9",
       "asset": "NVDA",
@@ -114,17 +180,6 @@
       "published_at": "2026-08-15T17:05:00Z"
     },
     {
-      "id": "91881155-547f-3bbb-a982-72f3929ff1af",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Costco Will Beat the S&P 500 Again",
-      "summary": "Costco's membership model and consistent growth make it a strong investment candidate, but its high valuation leaves little room for disappointment.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/prediction-costco-will-beat-the-sp-500-again/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BaU7qnA_diKtndN1rtFSNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cd0b286625bc181a88189fad5654b925.jpg",
-      "published_at": "2026-08-15T16:50:00Z"
-    },
-    {
       "id": "0ebe8395-270f-3f7f-9503-f738040ff322",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -134,17 +189,6 @@
       "url": "https://www.thestreet.com/investing/golds-wild-2026-ride-might-not-be-over-yet",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2pEBXWXVUTZI8TSanaPVJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a07be4baa48f25d9d81aaefb2dc14311.jpg",
       "published_at": "2026-08-15T16:37:00Z"
-    },
-    {
-      "id": "54a3275e-255b-3f9b-80b9-82ff079dc7a6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust.",
-      "summary": "History shows that investors cannot rule out an AI bust, but with the technology likely here to stay, selling everything is probably not the answer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/worried-about-an-ai-bubble-these-tech-stocks-are/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aEzmUN5glPGA_YdZkYhxYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/08886c179237818ace29021812b4f076.jpg",
-      "published_at": "2026-08-15T16:35:00Z"
     },
     {
       "id": "c74aa7ea-ed94-3544-a37f-e6c6053fa0d5",
@@ -266,50 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/15/the-yieldmax-fund-that-doesnt-blow-up-a-target-12-from-50-blue-chips/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/knupHYh_19WpB.fig188pQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2cf4fde60d720ad5c6007c7aa1c5234.jpg",
       "published_at": "2026-08-15T13:51:10Z"
-    },
-    {
-      "id": "9f7a7ac7-0c70-3bd9-963c-24c0fe9ad6f9",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia’s Secret $21 Billion SpaceX Windfall — How One Chip Deal Turned Into a Rocket Fortune",
-      "summary": "Nvidia cut a check for an AI startup and woke up owning a massive stake in Elon Musk's rocket empire. The chain of events that turned a chip deal into one of the most unusual positions on any tech company's balance sheet raises a question shareholders probably never thought to ask.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/nvidias-secret-21-billion-spacex-windfall-how-one-chip-deal-turned-into-a-rocket-fortune/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/89cSJi6UNTLOLQL8qfunCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/062ac1c532fed8f28de38a4982008034.jpg",
-      "published_at": "2026-08-15T13:41:48Z"
-    },
-    {
-      "id": "4125151d-f6ad-339c-b059-4e464e435527",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Arizona Gold & Silver reports strong Perry Zone results – ICYMI",
-      "summary": "Arizona Gold & Silver Inc (TSX-V:AZS, OTCQB:AZASF, FRA:A9J0) earlier this week highlighted new diamond drilling results from the Perry Zone at its Philadelphia Gold-Silver Project in the Oatman District of northwest Arizona, with senior vice president of exploration Lex Lambeck pointing to...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097075/arizona-gold-silver-reports-strong-perry-zone-results-icymi-1097075.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LbHYRJng63NNyMINDP4OVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/53d5f87ead019598e359697b509925b0.jpg",
-      "published_at": "2026-08-15T13:01:00Z"
-    },
-    {
-      "id": "f62db4ed-6fcd-3546-8145-639dbd7b1490",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The 5 Biggest Risks Americans Don’t Think About Behind the Data Center Boom",
-      "summary": "Half a trillion dollars in AI infrastructure spending looks like a Wall Street windfall, but the hidden costs are landing somewhere else entirely, and most Americans have no idea they are already on the hook.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/15/the-5-biggest-risks-americans-dont-think-about-behind-the-data-center-boom/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/C3SVO5SC3QRXKXlTExB.7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4e5801942adf37b47805b32793ceff8e.jpg",
-      "published_at": "2026-08-15T13:00:00Z"
-    },
-    {
-      "id": "066fe5c7-080b-3eeb-b71c-c13c9a20b0ba",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders.",
-      "summary": "Everything depends on creating long-term shareholder value.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/elon-musk-trillion-pay-package-tesla-market-cap/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jrgTeWnw4UhkEvriR7ZyIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f23ce33da95098cbd954390cd5bdf57a.jpg",
-      "published_at": "2026-08-15T12:35:00Z"
     }
   ]
 }
