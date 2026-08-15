@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-15 14:17 UTC",
+  "last_updated": "2026-08-15 14:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "52daecb0-af0b-3ab1-a8d2-98a818521b67",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Is Looking to Own Another Layer of the AI Ecosystem",
+      "summary": "Nvidia just moved beyond selling processors and seized control of the invisible infrastructure that every AI cluster depends on, and the companies supplying that buildout are already reporting explosive growth.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/nvidia-is-looking-to-own-another-layer-of-the-ai-ecosystem/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RnZRlpFisVHB5rCi0XmuJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg",
+      "published_at": "2026-08-15T14:36:02Z"
+    },
     {
       "id": "a555bef6-4392-3bbc-9fad-358fd80a393d",
       "asset": "OIL",
@@ -15,6 +26,28 @@
       "published_at": "2026-08-15T14:13:00Z"
     },
     {
+      "id": "0df2c0e6-14db-3abe-9ed1-19bc5a3af9e4",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Barrick Mining (TSX:ABX) Creates New Rest Of World CEO Role",
+      "summary": "Barrick Mining (TSX:ABX) has appointed Sebastiaan Bock as Chief Executive Officer, Rest of World, to oversee all operations outside North America. The new role consolidates leadership for Barrick’s international gold and copper assets under a single executive. Bock’s responsibilities include operational execution, portfolio delivery and engagement with regional stakeholders across multiple jurisdictions. The appointment comes during a period of portfolio changes and a pending North American...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-tsx-abx-creates-140804684.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
+      "published_at": "2026-08-15T14:08:04Z"
+    },
+    {
+      "id": "529cd438-4056-3060-a56f-de3c7532c505",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "What Does Bristol Myers Squibb (BMY) Risk From The Revived $6.7 Billion Lawsuit?",
+      "summary": "Bristol Myers Squibb (NYSE:BMY) is facing a revived US$6.7b lawsuit after a federal appeals court reinstated claims tied to its Celgene acquisition. Plaintiffs allege the company deliberately delayed FDA approval of certain drugs to avoid paying contingent value rights owed to former Celgene shareholders. The appeals court decision brings renewed legal and financial uncertainty related to how the Celgene transaction was structured. For more context on how legal and regulatory risks can...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-140731477.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_4KcB1.TKTYwt2rpBCbh2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5a13d347387951add3c978a1a10a0331.jpg",
+      "published_at": "2026-08-15T14:07:31Z"
+    },
+    {
       "id": "727e95dd-c39b-303c-a6a0-8393ab523203",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -24,6 +57,17 @@
       "url": "https://www.thestreet.com/investing/warren-buffett-named-these-3-stocks-as-his-favorites-for-a-reason-alphabet-apple-coca-cola",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dHBqz1ykhWkqrIOfDuA8TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4ff4d6864d98ee9383bd9db79dadcd07.jpg",
       "published_at": "2026-08-15T14:04:00Z"
+    },
+    {
+      "id": "aa8b7dfa-512f-3ee8-85d6-2c7b063043ac",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is NVIDIA’s $500 Billion Fund Jensen Huang’s Best Chess Move Yet or a Red Flag?",
+      "summary": "Jensen Huang just structured a $500 billion compute fund with a design that one Wall Street CEO compared to the invention of mortgage-backed securities, and that reference alone should make every AI investor stop and think carefully about what comes next.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/is-nvidias-500-billion-fund-jensen-huangs-best-chess-move-yet-or-a-red-flag/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sLx97dMwsTwkoltnM2Zqjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/353e3e611ba952f7b94ccbe35a737fbe.jpg",
+      "published_at": "2026-08-15T14:03:55Z"
     },
     {
       "id": "6565b8e8-2c85-3932-b981-90adc7a3eae4",
@@ -101,28 +145,6 @@
       "url": "https://www.fool.com/investing/2026/08/15/prediction-nvidia-stock-will-hit-300-before-2026-i/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sK7VLUk0yFKYhMeUm1ViHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/92257830da1dff7e1a0e6d04cce00efc.png",
       "published_at": "2026-08-15T13:35:00Z"
-    },
-    {
-      "id": "41d6a3c1-2c02-3cff-8c48-fec83d64cd43",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's Why Middleby Stock Is an Opportunity After This Week's Drop",
-      "summary": "Middleby stock looks like a good buy after a big spin-off.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/heres-why-middleby-stock-is-an-opportunity/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WjlqkkcBXSVRvC.0.dceKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/78533a7934538606903c81a05c4b2ea0.png",
-      "published_at": "2026-08-15T13:29:37Z"
-    },
-    {
-      "id": "8d096aff-163f-37dc-9425-b39162f696fe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street",
-      "summary": "Reforming the Federal Reserve comes at a potentially steep cost to an already expensive stock market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/fed-kevin-warsh-reforms-unintended-consequences/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ituEhpIuBtH.GMIHHZuwZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3184ed83feb161f1d4cc66fd7a6641cf.jpg",
-      "published_at": "2026-08-15T13:26:00Z"
     },
     {
       "id": "4125151d-f6ad-339c-b059-4e464e435527",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html",
       "thumbnail": "",
       "published_at": "2026-08-15T09:25:22Z"
-    },
-    {
-      "id": "9aed4a10-1c8c-320d-a03d-aa53e97e5a3e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Where Could Bitcoin and XRP End the Year?",
-      "summary": "Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/15/where-could-bitcoin-and-xrp-end-the-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HsHp9dkpCjo_QWSf3gd63g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/904c54f7b786d10796d9b4f58e8860be.jpg",
-      "published_at": "2026-08-15T08:43:33Z"
-    },
-    {
-      "id": "d6f3e380-233a-36b8-9764-c42f88ee7cc9",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "What Does Fortuna Mining (TSX:FVI) Gain From Its Bambadji Deal And Leadership Reset?",
-      "summary": "Fortuna Mining (TSX:FVI) announced the acquisition of the Bambadji gold project in Senegal, consolidating its position along a major regional gold corridor. The Bambadji deal expands Fortuna Mining's footprint in a premier gold producing region, adding a large scale exploration and development asset to its portfolio. The company reported executive changes, with Luis Dario Ganoza promoted to President and Kevin O’Reilly appointed as Chief Financial Officer. Fortuna Mining is far from the...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-fortuna-mining-tsx-fvi-071005161.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eROQvDwNuvxYwS6G928d7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/34f63b3b22c8329a2cc9c9a2287c3708.jpg",
-      "published_at": "2026-08-15T07:10:05Z"
     }
   ]
 }
