@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-16 15:17 UTC",
+  "last_updated": "2026-08-16 15:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "4ab48e8f-83ae-3316-a50f-ca4867262a61",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
+      "summary": "Delek Logistics Partners is a consistent dividend raiser, and its pullback on news of a share offering may be an opportunity to get involved.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/oil-dividend-got-raise-what-means-delek-dkl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WlMLpdvULxgGtd5JUP4LnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d65b815ed64f5ab15d0a160368bf20c.jpg",
+      "published_at": "2026-08-16T15:34:00Z"
+    },
+    {
+      "id": "e4a17318-f0d1-30e0-a2ab-27aa2390c12a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
+      "summary": "This ETF focuses on a specific type of dividend stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/i-checked-vigs-top-holdings-theyre-not-what-youd-e/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pH9R.AKrfHibMS9Fp4opOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d9616d76c926b6e3f4af80a3abd3a0b.jpg",
+      "published_at": "2026-08-16T15:20:00Z"
+    },
     {
       "id": "ea141f48-db82-4c66-9cbb-caf82c258755",
       "asset": "MSFT",
@@ -125,6 +147,17 @@
       "published_at": "2026-08-16T14:08:30Z"
     },
     {
+      "id": "de531756-0844-3466-ac64-08317294f00a",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "EXCLUSIVE: Ross Gerber Says Tesla Could ‘Double’ Sales Without Elon Musk, Warns Investors on SpaceX Merger",
+      "summary": "While much of the conversation in the news cycles about Elon Musk today centers around Space Exploration Technologies Corp (NASDAQ:SPCX), EV giant Tesla Inc. (NASDAQ:TSLA) still remains an integral part of the billionaire’s business strategy. While Tesla has increasingly emphasized AI, autonomous driving and humanoid robots like Optimus, investor Ross Gerber, the co-founder of investment firm Gerber Kawasaki and one of the early backers of the company, has publicly voiced his criticism of the pi",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-140813250.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MPn_u_WN5pLFmIpEFzY8UA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/2cb3ab961ffe1a3b0fe258b73bde03f5.jpg",
+      "published_at": "2026-08-16T14:08:13Z"
+    },
+    {
       "id": "ea6ee772-9c4f-3af3-936d-ff55ca32a02f",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -145,28 +178,6 @@
       "url": "https://www.thestreet.com/technology/google-is-using-a-29-gadget-to-tighten-its-grip-on-android-users",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hm9dqZcGwbost.nQP4n4mQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d1232b8d770498eeedfc1e65f4089e70.jpg",
       "published_at": "2026-08-16T14:07:00Z"
-    },
-    {
-      "id": "ca1ecdec-8fee-3caf-821a-05af9e11ff53",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Smithfield Foods Stock Sank This Week",
-      "summary": "Smithfield's Q2 results beat expectations, but the company's updated guidance brought bad news for investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/why-smithfield-foods-stock-sank-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RxYu36mHYGvKrcfQ13qrhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a577a4969de1f92e949c00b48618de74.jpg",
-      "published_at": "2026-08-16T14:03:02Z"
-    },
-    {
-      "id": "8385facd-d397-39bd-ac22-2d67e6724ece",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stanley Druckenmiller’s Big Bet: New Broadcom, Intel and Arm Stakes in One Quarter",
-      "summary": "Stanley Druckenmiller opened three brand-new semiconductor positions in a single quarter, and the names he chose reveal a calculated bet that the AI infrastructure boom has room to grow far beyond the obvious winner.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/16/stanley-druckenmillers-big-bet-new-broadcom-intel-and-arm-stakes-in-one-quarter/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I1lIXCwzA1nvq_AuTYZ33Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d43752c93d73f07fa4c9e5722ef5b13f.jpg",
-      "published_at": "2026-08-16T14:00:36Z"
     },
     {
       "id": "ca41f793-ce40-388d-a916-920e4ca1f060",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/16/bitcoin-miner-riot-platforms-just-signed-a-9-billi/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hrvlfpN_shWSl2pWkGTN6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3c7867f7c396fd0c846dbafc0d81664.jpg",
       "published_at": "2026-08-16T10:50:00Z"
-    },
-    {
-      "id": "055a47a9-2465-3b30-ae78-46382b9501f2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "The Cavs' Tristan Thompson Told Teammates to Long Bitcoin: 'Stack Digital Gold, Buy it Every Day'",
-      "summary": "NBA champion Tristan Thompson on Tuesday said he shorted HYPE at $61 and exited with a profit, while telling teammates to buy Bitcoin every single day. Why Thompson Is Buying Bitcoin Daily? Thompson appeared on Anthony Pompliano’s podcast, saying he...",
-      "source": "Benzinga",
-      "url": "https://sports.yahoo.com/articles/cavs-tristan-thompson-told-teammates-104603994.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gIZJ_yg4c9mcKccddZvung--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ad41eb5b55d5f4b1ffc4c188bd3c596e.jpg",
-      "published_at": "2026-08-16T10:46:03Z"
     }
   ]
 }
