@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-16 02:39 UTC",
+  "last_updated": "2026-08-16 03:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f7a93409-6527-3115-9fa8-a90312b88f57",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AMD Just Borrowed $4.75 Billion, More Than Triple Its Last Bond Sale",
+      "summary": "The chipmaker is sitting on $13 billion in cash and investments. Why the biggest debt sale in its history?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/amd-just-borrowed-475-billion-more-than-triple-its/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nChFlkwFDeXt6Qk7GzQWTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1940e7e529613306738094ef425bed61.jpg",
+      "published_at": "2026-08-16T02:39:00Z"
+    },
     {
       "id": "9565d1f5-f783-3d70-bc29-f306a4de3a17",
       "asset": "OIL",
@@ -236,8 +247,8 @@
     },
     {
       "id": "25791265-129e-3ccc-9aca-68ee1b85b4ec",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Elon Musk's Tesla Is Ending Sweden's Longest Strike by Buying Out Every Worker Still on It",
       "summary": "After 1,021 days, the union has no striking members left. The automaker never signed a collective agreement.",
       "source": "Motley Fool",
@@ -299,17 +310,6 @@
       "url": "https://www.barchart.com/story/news/3871544/elon-musk-said-tesla-short-sellers-would-be-obliterated-even-bill-gates-yet-theyve-made-9-billion-this-year-shorting-the-stock",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VqSTmIuf9Xfri6C.mm1Jew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/edd29daae0e8a51bd699481d40d3f403.jpg",
       "published_at": "2026-08-15T19:30:02Z"
-    },
-    {
-      "id": "e1bceb7d-0c91-3467-972f-84383fd5192e",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
-      "summary": "Musk's bold claim suggests SpaceX could spend huge sums on data centers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/elon-musk-says-spacex-has-a-massive-competitive-ad/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/76NZcC.aHyxS6g9YqoBq2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/22a28696d57d6f21e0891964216e1930.jpg",
-      "published_at": "2026-08-15T19:23:00Z"
     }
   ]
 }
