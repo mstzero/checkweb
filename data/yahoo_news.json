@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-16 09:25 UTC",
+  "last_updated": "2026-08-16 09:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9f58bfbe-f002-3949-b9e3-77c211db640d",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
+      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002869.html",
+      "thumbnail": "",
+      "published_at": "2026-08-16T09:30:02Z"
+    },
+    {
+      "id": "01d98123-8ba9-3986-af52-fe8e79bac896",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
+      "summary": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5rF6WhuFQPitFRCWT0g1dQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ac11f4210ee14b0c60bfe4398f666584.jpg",
+      "published_at": "2026-08-16T09:30:00Z"
+    },
+    {
+      "id": "12b9a86f-ce94-3b81-80d0-c4e9a8ab6270",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Apple: For Investors, the 3 Things That Matter Now Are AI, Growth, and Valuation (NASDAQ: AAPL)",
+      "summary": "Investors who are interested in this dominant consumer tech business should pay close attention to the factors that matter most to its investment thesis.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/apple-ai-growth-and-valuation-nasdaq-aapl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ue0oyHgQrlBXsgtHP_Ef.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ad7a08ab2bad45c6e089a49bcdfc3933.png",
+      "published_at": "2026-08-16T09:27:00Z"
+    },
+    {
+      "id": "11a1cdf3-d91d-37db-9f75-9e675bb77219",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Peloton Just Posted Its First Full Year of Profits. Here's Why I'm Still Not Buying the Stock.",
+      "summary": "Cost savings boosted net income and free cash flow, but revenue remained flat last quarter.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/peloton-first-year-profits-why-im-not-buying-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cDHPvHkxQudIHEtnUopcCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/07af16e612d3f5646ccfe90e9beab47b.png",
+      "published_at": "2026-08-16T09:20:00Z"
+    },
     {
       "id": "065e0eb0-2ef0-372c-85b9-53b7b15de196",
       "asset": "BTC",
@@ -92,37 +136,15 @@
       "published_at": "2026-08-16T08:05:00Z"
     },
     {
-      "id": "2af430da-876d-3d37-839d-2ebd21ac29b9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "IonQ Paid $1.8 Billion for a Chip Foundry. Here's What Investors Should Know.",
-      "summary": "The quantum computing specialist now owns a chip factory that generates nearly twice its own revenue.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/ionq-paid-18-billion-for-a-chip-foundry-heres-what/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M.v1gUdDE7EzUy94x3mUmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/39017b1ff920bccee8a4d46afba113d5.png",
-      "published_at": "2026-08-16T08:01:00Z"
-    },
-    {
-      "id": "9f324266-d565-3502-af2e-4f133ecb8402",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's What a $10,000 Palantir Investment Could Be Worth by 2028",
-      "summary": "If Palantir can continue its success, the sky is the limit.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/heres-what-a-10000-palantir-investment-could-be-wo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V8q6InsGQRNwgGEQDMTRog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d00f10b2f23c7f8b30cba42a08f663be.jpg",
-      "published_at": "2026-08-16T07:20:00Z"
-    },
-    {
-      "id": "47d65e14-9f25-3e45-932c-2ac7ac6bc513",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "These 2 Potential Stock Splits Look Like Screaming Deals Right Now",
-      "summary": "Micron and Sandisk have a solid outlook for the next year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/these-2-potential-stock-splits-look-like-screaming/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R9w.AAiO4.5gwTyq9gStNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d239d6a3b477371c045c68191d03029b.jpg",
-      "published_at": "2026-08-16T06:50:00Z"
+      "id": "2d666c97-d8f7-3878-958a-0caf3df3af6b",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft exec on Southern Europe’s big AI moment: skills — not technology — will determine who leads the region’s AI future",
+      "summary": "“I see Greece as more than a market; I see it as an innovation hub,” Charles Calestroupat, Microsoft’s VP for Southern Europe, told Fortune Greece.",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-exec-southern-europe-big-073000075.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DRNNM0_BQzqejg6kriFq.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/b68e668921983ff0a812760272c5779c.png",
+      "published_at": "2026-08-16T07:30:00Z"
     },
     {
       "id": "90cc3385-5c2b-3b17-9da4-33b9e2cbb699",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-tsx-bn-deepens-reach-230850460.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/REd6s5hJoNEPS5mhjt9kJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f88d3d8c5618aa88ce2627c2a1cda340.jpg",
       "published_at": "2026-08-15T23:08:50Z"
-    },
-    {
-      "id": "4aabe180-b83c-3e5d-910b-e84c0f70f42e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
-      "summary": "Jet fuel will remain essential for long-haul aviation for years because batteries still carry a severe energy-density penalty. But on short routes, electric propulsion offers an efficiency, noise and operating-cost proposition that liquid fuels may struggle to match.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/electric-aviation-wont-kill-jet-230000198.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nLVadKkiiShmLvf9jRVXPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/8ddc88824c76dee4acdba26240d5593c.jpg",
-      "published_at": "2026-08-15T23:00:00Z"
-    },
-    {
-      "id": "25791265-129e-3ccc-9aca-68ee1b85b4ec",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk's Tesla Is Ending Sweden's Longest Strike by Buying Out Every Worker Still on It",
-      "summary": "After 1,021 days, the union has no striking members left. The automaker never signed a collective agreement.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/elon-musks-tesla-is-ending-swedens-longest-strike/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vLDx8msUAc2djf.4lFRDJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0a0d23a580268c5af17d897c77520315.jpg",
-      "published_at": "2026-08-15T22:46:00Z"
     }
   ]
 }
