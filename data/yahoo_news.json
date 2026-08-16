@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-16 19:43 UTC",
+  "last_updated": "2026-08-16 20:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "58146bc1-3641-3c5b-bb0c-e43e69e502b4",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple may finally have a $2,000 reason to enter foldables",
+      "summary": "The foldable smartphone used to resemble an expensive technical experiment. Now they’re starting to appear more like something Apple can sell. That change is significant since Apple (AAPL) has spent years ignoring a category that competitors, including Samsung, Google, Motorola, Huawei, and others, ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/apple-may-finally-have-a-2000-reason-to-enter-foldables",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YuxgjzzfpKx9dEDrQK4MJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1257902b1a16c08cc946602cedb51f3b.jpg",
+      "published_at": "2026-08-16T20:07:00Z"
+    },
     {
       "id": "24fccc9d-57d5-31bb-af65-1d13567ea8c5",
       "asset": "NVDA",
@@ -24,6 +35,28 @@
       "url": "https://www.fool.com/investing/2026/08/16/elon-musk-cant-sell-spacex-stock-until-june-2027-b/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j15QIk_M6ac7FpIUaVnprA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3cd0456135aed8612fe404c1a86afb13.jpg",
       "published_at": "2026-08-16T19:20:00Z"
+    },
+    {
+      "id": "7e478c17-a654-3e7f-a161-7b8a8c086b5d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+      "summary": "Eight major oil companies earned nearly $93 billion in the second quarter as the Iran war and disruption to shipping through the Strait of Hormuz drove energy prices sharply higher.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K9C_CsEfC_CUCHKNZZ9jlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/e9d3f7510b7047dd27a51cdabd6a1f6f.jpg",
+      "published_at": "2026-08-16T19:00:00Z"
+    },
+    {
+      "id": "315a9b3b-2fb0-3ff7-a147-fda57404b198",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Has Never Faced Global Bond Yields This High Since It Was Born",
+      "summary": "Global bond yields hit 2008 highs, a level Bitcoin never traded through. Gold gained 32% while BTC lost 46%.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-global-bond-yields-since-2008/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MpATTDf7R1DipFpNYZ7.Og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e7417d1ae552682013f6e94d8925235b.jpg",
+      "published_at": "2026-08-16T18:58:54Z"
     },
     {
       "id": "b1290d26-bd4a-3624-a23a-cae3ed029785",
@@ -235,6 +268,17 @@
       "published_at": "2026-08-16T14:07:00Z"
     },
     {
+      "id": "74b9e689-1ddc-3bb2-a7ea-e29c91adaa4d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "This ETF Is the Most Important in the Market. You Probably Haven’t Heard of It.",
+      "summary": "Monitoring the 20 largest S&P 500 stocks closely, as a unit through this ETF and individually, is an essential part of being a conscious modern equity investor or trader.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3875975/this-etf-is-the-most-important-in-the-market-you-probably-havent-heard-of-it",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YdkxS8Ya1Qv3.Fhg0lkRSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/7459f8f135569884694c9e7ba0dc00e7.jpg",
+      "published_at": "2026-08-16T14:00:02Z"
+    },
+    {
       "id": "ca41f793-ce40-388d-a916-920e4ca1f060",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -266,50 +310,6 @@
       "url": "https://www.barchart.com/story/news/3875820/investors-in-microsoft-love-shorting-out-of-the-money-msft-puts",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eOZaZpL.nvndY.1iO3_aNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/bc247c7d783ef717bd9c3975fcb4842e.jpg",
       "published_at": "2026-08-16T13:15:02Z"
-    },
-    {
-      "id": "ce39629e-c862-3cc2-a28b-68c257b6c95a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Jim Cramer Says Tim Cook Built Something No Other CEO Has: A Device People Think Is Their Friend",
-      "summary": "Jim Cramer credits Tim Cook with pulling off something no hardware company has managed before, and the financial case he makes reframes why Apple's valuation looks less like a tech stock and more like something stranger.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/16/jim-cramer-says-tim-cook-built-something-no-other-ceo-has-a-device-people-think-is-their-friend-2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/555VnoG1L5EtoyQF2GlS0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/250816b3ab5a31e4c17aa9c265ea1a41.jpg",
-      "published_at": "2026-08-16T13:00:01Z"
-    },
-    {
-      "id": "0494dd68-73f9-3752-920f-0f3930d741eb",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-      "summary": "Enthusiasm for Big Tech and its huge investments in artificial intelligence is powering the stock market to record highs again. With a resilient economy and scorching demand, there’s seemingly only one obstacle that can derail this ride: higher interest rates.",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4ap4dygdWZHvFLWbiupGgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/509840bc17679d4e8e7e5df704f406f4.jpg",
-      "published_at": "2026-08-16T12:30:00Z"
-    },
-    {
-      "id": "ed80b9a3-fd69-368e-9fb1-234be9d556d1",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) Could Be Dropped From Global Indexes In Bitcoin Treasury Review",
-      "summary": "MSCI is reviewing whether to remove Strategy Inc (NasdaqGS:MSTR) and other Bitcoin treasury stocks from its global equity indexes, reopening a consultation that had been paused after a prior attempt last year. The proposal would treat Strategy more like a Bitcoin holding vehicle than a technology operating company, which could affect how index providers classify the stock. Potential exclusion from MSCI indexes may trigger forced selling by index funds that track those benchmarks and could...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-could-dropped-global-120810249.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
-      "published_at": "2026-08-16T12:08:10Z"
-    },
-    {
-      "id": "3a7fb47d-68e7-3ce7-916e-8f13209f4c7b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple's cheap-chip plan just hit a wall in Washington",
-      "summary": "Every company eventually learns that the cheapest solution and the acceptable solution are two different things. That gap is where corporate strategy actually lives. You find the efficient answer, you run it past the people who can veto it, and you discover efficiency was never the only variable. ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/apples-cheap-chip-plan-just-hit-a-wall-in-washington",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yb5wX.u8V_GQItvKSra1jA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8138571dc459f0cb2d8c95648158aa6a.jpg",
-      "published_at": "2026-08-16T12:03:00Z"
     }
   ]
 }
