@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-16 03:44 UTC",
+  "last_updated": "2026-08-16 04:31 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "54ed399c-8884-399d-a6e4-ba45d43e7d4f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+      "summary": "Both Amazon and Microsoft are benefiting from the AI arms race.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/amazon-vs-microsoft-which-cloud-computing-behemoth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vhoFmmeRT4S6xcbGGWhaFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2310248a3c01187ca796ae4ba4451aa0.jpg",
+      "published_at": "2026-08-16T04:20:00Z"
+    },
+    {
+      "id": "5852d2c0-697b-37cf-b43f-81ae81480ceb",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
+      "summary": "Investing.com -- The U.S. Treasury has accused the refining business of China’s Hengli Group of buying billions of dollars in Iranian petroleum, placing it at the centre of Washington’s campaign against Tehran’s oil exports, the Wall Street Journal reported.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/energy/articles/chinese-refiner-hengli-accused-funding-035225931.html",
+      "thumbnail": "",
+      "published_at": "2026-08-16T03:52:25Z"
+    },
+    {
+      "id": "ae155f21-c3aa-31eb-b1b9-5cc9861a0f5c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
+      "summary": "The famed investor is back four years later. What he's buying looks almost nothing like what he sold.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/15/bill-ackman-put-49-of-pershing-square-usa-into-the/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mwb4XFskwGVQur_UZhmmNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d15a2eed04f5b90026cfab7bddad219d.jpg",
+      "published_at": "2026-08-16T03:39:00Z"
+    },
     {
       "id": "f7a93409-6527-3115-9fa8-a90312b88f57",
       "asset": "NVDA",
@@ -202,17 +235,6 @@
       "published_at": "2026-08-15T23:52:36Z"
     },
     {
-      "id": "f887771f-e96f-3526-bb77-5bbfc5a3cef7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Stock Is Down 33% From Its High. Elon Musk Expects Revenue to Rise 53-Fold to $1 Trillion by 2030.",
-      "summary": "The company is pursuing massive goals for data center compute, both on Earth and in orbit.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/15/spacex-stock-is-down-35-from-its-high-elon-musk-ex/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EyJp0ASi_PujwQ7nZb98Qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/46c8f1d46d3348b271ea3eaf34adaa62.jpg",
-      "published_at": "2026-08-15T23:50:00Z"
-    },
-    {
       "id": "e9214a1d-15d1-33ce-8b13-80f595b54136",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -225,8 +247,8 @@
     },
     {
       "id": "80eb8611-f28c-3e4e-9550-b966aed3b5d4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Brookfield (TSX:BN) Deepens Its Reach In Insurance And AI Infrastructure",
       "summary": "Brookfield Corporation (TSX:BN) expands its global insurance footprint through recently completed acquisitions that add scale to its life and annuity operations. The company announces a major partnership with NVIDIA and other financial institutions to finance large AI infrastructure projects worldwide. Both moves mark a significant broadening of Brookfield's operating scope across insurance and digital infrastructure financing. For readers interested in more ways to get exposure to hard...",
       "source": "Simply Wall St.",
@@ -288,28 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/15/xmag-is-outperforming-the-sp-500-in-2026-as-the-magnificent-seven-stall/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VKZWIk_i0fa2mHCJaBObuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3092373a1cb88529d67da5f55017dc88.jpg",
       "published_at": "2026-08-15T20:05:04Z"
-    },
-    {
-      "id": "7cc165f8-8482-3f6f-b17e-612f20d6d410",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners",
-      "summary": "A new ETF built on diesel engines, truck fleets, and air conditioners is pitching itself as a refuge from software-heavy portfolios, but its biggest holding may already be cashing in on the very trend it claims to avoid.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/15/the-anti-ai-etf-is-here-and-its-biggest-holdings-are-engines-trucks-and-air-conditioners/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QIbUbUN2z7.GCdH9rVU35g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/69bee639f084ddf91d6f25d1b1ea2f70.jpg",
-      "published_at": "2026-08-15T19:35:56Z"
-    },
-    {
-      "id": "bd2f52d9-68ae-3655-a710-a5a266e5f599",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Said Tesla Short Sellers Would Be ‘Obliterated’ Even Bill Gates — Yet They’ve Made $9 Billion This Year Shorting the Stock",
-      "summary": "Tesla short sellers have made roughly $9 billion in paper gains in 2026, two years after Elon Musk warned they’d be “obliterated” once autonomy and Optimus hit key milestones.",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/3871544/elon-musk-said-tesla-short-sellers-would-be-obliterated-even-bill-gates-yet-theyve-made-9-billion-this-year-shorting-the-stock",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VqSTmIuf9Xfri6C.mm1Jew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/edd29daae0e8a51bd699481d40d3f403.jpg",
-      "published_at": "2026-08-15T19:30:02Z"
     }
   ]
 }
