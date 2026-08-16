@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-16 22:16 UTC",
+  "last_updated": "2026-08-16 22:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5e318eda-1c87-3c1f-929e-9df5d1d7b611",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
+      "summary": "HIVE Digital Technologies reported sharply higher revenue for its fiscal first quarter of 2027, though a large one-time charge tied to a tax dispute in Sweden pushed the company to a net loss. HIVE (Nasdaq: HIVE), founded in 2017, mines Bitcoin using renewable energy and runs a growing ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/hive-reports-74-revenue-jump-in-fiscal-q1-2027-earnings",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7Rc._6AuM_NFIWZ3lmlE3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/828f53076102f6e26917c2cb1ead54c4.jpg",
+      "published_at": "2026-08-16T22:38:13Z"
+    },
+    {
+      "id": "eea02a14-828a-3387-8104-217d34c6f717",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Hong Kong’s Stablecoin Bifurcation: Two Paths for Tokenized Money",
+      "summary": "The arrival of regulated stablecoins in Hong Kong is less a singular race for market share and more a structural bifurcation of how tokenized money will function in the regional economy. With the Hong Kong Monetary Authority granting its first two licenses on April 10, 2026, to Anchorpoint Financial and HSBC, the market has been […]",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-stablecoin-bifurcation-two-223713655.html",
+      "thumbnail": "",
+      "published_at": "2026-08-16T22:37:13Z"
+    },
+    {
+      "id": "fbbefb37-3a82-34b7-b436-f497c1424cfc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
+      "summary": "Taiwan Semiconductor has its fingerprints all over the modern data center.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/amazon-alphabet-and-microsoft-are-dropping-nearly/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jxjUIzNK0UnsoYCcRi31Pw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d10bfb3a5b0d24691642a3ff3e83ccd3.jpg",
+      "published_at": "2026-08-16T22:27:00Z"
+    },
     {
       "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
       "asset": "NVDA",
@@ -12,7 +45,18 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lzRIMUw1zXpzy7uLd1995Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7a71877e6fdc59a577000e45ca772655.jpg",
-      "published_at": "2026-08-16T22:04:06Z"
+      "published_at": "2026-08-16T22:14:56Z"
+    },
+    {
+      "id": "cc0a7ff2-8b78-3980-8e25-a5b7451294b7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’",
+      "summary": "Top hedge funds quietly rotated out of one chip giant and piled into another last quarter, and the price action since then suggests they knew something. Here is what Druckenmiller, Loeb, and Tepper actually did with their semiconductor books.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3097XBBP4GAln5VGBg6ixg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ba8f275e43b774e895051671f68a4efe.jpg",
+      "published_at": "2026-08-16T22:13:14Z"
     },
     {
       "id": "130c1ba2-572e-375d-abe2-3af9c8e07a78",
@@ -147,17 +191,6 @@
       "published_at": "2026-08-16T19:28:00Z"
     },
     {
-      "id": "4574c884-0923-378a-80a5-9a7a37dc7bdf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Elon Musk Can't Sell SpaceX Stock Until June 2027 -- But 6 Billion More Shares Could Flood the Market Before Then",
-      "summary": "SpaceX went public with an unusually tiny float available for trading. That's about to change in a big way.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/elon-musk-cant-sell-spacex-stock-until-june-2027-b/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j15QIk_M6ac7FpIUaVnprA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3cd0456135aed8612fe404c1a86afb13.jpg",
-      "published_at": "2026-08-16T19:20:00Z"
-    },
-    {
       "id": "7e478c17-a654-3e7f-a161-7b8a8c086b5d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -181,8 +214,8 @@
     },
     {
       "id": "b1290d26-bd4a-3624-a23a-cae3ed029785",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
       "summary": "Microsoft's successful AI strategy has legs.",
       "source": "Motley Fool",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oitd.wRBqiNyZe89Lu7buw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/91bd5574-a8f7-4997-898c-29fb0354bb0e",
       "published_at": "2026-08-16T15:16:10Z"
-    },
-    {
-      "id": "67c33cf3-5837-35f9-bea2-bcb15c885a06",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "High Dividend ETFs Are Beating the S&P 500 by 9 Points in 2026 and These 3 Pay Up to 4 Percent While Doing It",
-      "summary": "After a decade of chasing growth, dividend investors are finally having their moment in 2026, but not all high-yield ETFs are winning the same way or for the same reasons.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-beating-the-sp-500-by-9-points-in-2026-and-these-3-pay-up-to-4-percent-while-doing-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZJIJ._iKCcIFV6BLO3qeyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d981dd810eaeb413015369ebbce09ae6.jpg",
-      "published_at": "2026-08-16T14:46:47Z"
-    },
-    {
-      "id": "ae2f6567-528f-3c69-9313-c9c360b6ea34",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Just Hit $4,400 and the Miners Are Finally Catching Up",
-      "summary": "Gold miners spent years trailing bullion even as prices surged, but something shifted in July and the gap is closing fast. Whether that catch-up trade has legs depends on a handful of cost and macro variables that could flip the story overnight.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/16/gold-just-hit-4400-and-the-miners-are-finally-catching-up/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wNgiOt0hdwOPI50IC0nqHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/746099a98ea4ad2f32a80a3743140def.jpg",
-      "published_at": "2026-08-16T14:21:44Z"
-    },
-    {
-      "id": "de531756-0844-3466-ac64-08317294f00a",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "EXCLUSIVE: Ross Gerber Says Tesla Could ‘Double’ Sales Without Elon Musk, Warns Investors on SpaceX Merger",
-      "summary": "While much of the conversation in the news cycles about Elon Musk today centers around Space Exploration Technologies Corp (NASDAQ:SPCX), EV giant Tesla Inc. (NASDAQ:TSLA) still remains an integral part of the billionaire’s business strategy. While Tesla has increasingly emphasized AI, autonomous driving and humanoid robots like Optimus, investor Ross Gerber, the co-founder of investment firm Gerber Kawasaki and one of the early backers of the company, has publicly voiced his criticism of the pi",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-140813250.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MPn_u_WN5pLFmIpEFzY8UA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/2cb3ab961ffe1a3b0fe258b73bde03f5.jpg",
-      "published_at": "2026-08-16T14:08:13Z"
     }
   ]
 }
