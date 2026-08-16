@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-16 23:15 UTC",
+  "last_updated": "2026-08-16 23:42 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "7da3e9e2-f2a4-312c-ac61-efff8ebfe2bb",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Small Cap Watch: D3 Energy, Astral Resources, Surefire and Dalaroo advance company programs",
+      "summary": "The S&P/ASX Small Ordinaries (ASX: XSO) finished Friday at 3,517.10 points, down 24.30 points or 0.69% for the session. Over the past five trading days, the small-cap benchmark has lost 27.00 points, or 0.76%, leaving the index at 3,517.10. Against the softer small-cap market backdrop,...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097077/small-cap-watch-d3-energy-astral-resources-surefire-and-dalaroo-advance-company-programs-1097077.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wOtUaat.pOXXTWjbnoxlNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/b9972a95319be3957055a9dae6c8cbb6.jpg",
+      "published_at": "2026-08-16T23:19:00Z"
+    },
     {
       "id": "b94480b0-a424-374d-8de4-cbe0d88d870e",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/16/i-checked-vigs-top-holdings-theyre-not-what-youd-e/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pH9R.AKrfHibMS9Fp4opOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d9616d76c926b6e3f4af80a3abd3a0b.jpg",
       "published_at": "2026-08-16T15:20:00Z"
-    },
-    {
-      "id": "ea141f48-db82-4c66-9cbb-caf82c258755",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment",
-      "summary": "Wall Street sees booming cloud growth as a sign that AI spending is giving a return on investment.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oitd.wRBqiNyZe89Lu7buw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/91bd5574-a8f7-4997-898c-29fb0354bb0e",
-      "published_at": "2026-08-16T15:16:10Z"
     }
   ]
 }
