@@ -1,14 +1,168 @@
 {
-  "last_updated": "2026-08-17 15:48 UTC",
+  "last_updated": "2026-08-17 16:22 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9786cac4-6023-4b8f-9268-bd8ffee800de",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy raised $334M and bought $0 in bitcoin, but this shouldn't worry investors",
+      "summary": "Strategy (MSTR) recently raised $334 million but didn't buy or sell any bitcoin (BTC-USD). Scott Melker discusses the details in the video above.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/strategy-raised-334m-bought-0-162000062.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GGsL0zv_U6AMTG8ek.am_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/00d57df0-21ea-11ef-abd9-0a435ec1a8f2_4cbeda01903323a36305bc09bb37a2dc0a5493d6658ed602db9a34219d0d537d.jpg",
+      "published_at": "2026-08-17T16:20:00Z"
+    },
+    {
+      "id": "80e797f7-5e16-3bae-84f8-5fc01dd5cbb3",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Morgan Stanley Drops Stark Stock Market Warning",
+      "summary": "The next AI bottleneck may have little to do with chips",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-drops-stark-stock-161452067.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T16:14:52Z"
+    },
+    {
+      "id": "255cd5d8-0cbb-3b6f-a7be-31cc85f3678f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Two Positions Make Up 80% of Nvidia's $63.4 Billion Portfolio",
+      "summary": "Eight positions worth $63.4 billion, with Intel its top position",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-positions-80-nvidias-63-161205999.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T16:12:05Z"
+    },
+    {
+      "id": "1580c76d-0c32-3378-b693-663e0b754cd0",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft Vs. Alphabet: How and Why They Stand Head-and-Shoulders Above Other Hyperscalers",
+      "summary": "Azure just crossed a historic revenue milestone and Google Cloud is accelerating at a pace few predicted, yet both hyperscalers are spending so aggressively that only one of them still generates positive free cash flow. The gap between these two and every other cloud rival is widening fast, and the reasons why may reshape how investors think about AI infrastructure bets.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/microsoft-vs-alphabet-how-and-why-they-stand-head-and-shoulders-above-other-hyperscalers/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2eUPkj4jyM3mcbpD8RysiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/dc26b17f5ae28f59e83209cbe0f6e669.jpg",
+      "published_at": "2026-08-17T16:07:40Z"
+    },
+    {
+      "id": "cf7c62c7-4054-364a-a984-baf0d6c73c30",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices",
+      "summary": "Trump’s crypto summit may signal that the administration plans to advance crypto policy before Congress passes the CLARITY Act. DTCC and Ripple’s expected attendance has ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CBxXbQN6H9MgY2YInpXnmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/aa14f6a802083600a540676645b3c377",
+      "published_at": "2026-08-17T16:03:42Z"
+    },
+    {
+      "id": "f3fa8104-8dc4-33de-a174-7283812b0d3e",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Erdene Resource Development Q2 Earnings Call Highlights",
+      "summary": "Erdene Resource Development (TSE:ERD) reported higher second-quarter gold production and lower unit costs as the Bayan Khundii Gold Mine in southwestern Mongolia continued its ramp-up toward steadier operations. The Bayan Khundii mine, held through the 50/50 Erdene Mongol joint venture with Mongoli",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/erdene-resource-development-q2-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/whGi_.xMDsloB8p4TKrZqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/007ced57025e667502f96d6475537932.png",
+      "published_at": "2026-08-17T16:02:33Z"
+    },
+    {
+      "id": "16cd06b8-2938-3844-99cf-bd307997d9ca",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia’s Circular Financing Web Gets Even Wider",
+      "summary": "Nvidia just cut a $1.5 billion check to fund the very data center that will buy its own chips, and that circular loop is getting harder to ignore as off-balance-sheet obligations across Big Tech quietly balloon toward $3 trillion.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/nvidias-circular-financing-web-gets-even-wider/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sLx97dMwsTwkoltnM2Zqjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/353e3e611ba952f7b94ccbe35a737fbe.jpg",
+      "published_at": "2026-08-17T16:01:03Z"
+    },
+    {
+      "id": "17358015-3ad5-35f1-8b3b-80ec62cd3149",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Wall St mixed as Middle East tensions eclipse tech strength",
+      "summary": "By Avinash P and Purvi Agarwal Aug 17 (Reuters) - The S&P 500 and the Dow inched lower on Monday as U.S.-Iran tensions dented sentiment, while some technology stocks rose after the report of a strong",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-mixed-middle-east-160028177.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dSfl9o.w3MpC0U5Ke0cBeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/b7d5c39dadf2f390e87c72c0687f7203.jpg",
+      "published_at": "2026-08-17T16:00:28Z"
+    },
+    {
+      "id": "5ced7dbc-0d99-3b76-92c3-3e1c13d3928c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Could Become the ‘Federal Reserve Of AI,’ Gavin Baker Says: Will ‘Dark GPUs’ Become Its First Test?",
+      "summary": "Nvidia (NASDAQ:NVDA) is building what could become the “Federal Reserve of AI,” Atreides Management CIO Gavin Baker said on Friday’s All-In Podcast.The investor says CEO Jensen Huang is transforming Nvidia’s chips into a financeable asset class, opening the door for...",
+      "source": "Benzinga Prediction Markets",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61252856/nvidia-federal-reserve-of-ai?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f.OrCUhyIbR.p_9eahOk9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/01a3551dacbee095e6adbddf4203ec63.jpg",
+      "published_at": "2026-08-17T15:52:06Z"
+    },
+    {
+      "id": "b16d236e-3b28-3a09-9182-ba6036e2c92c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Why Western Digital Stock Popped Today",
+      "summary": "President Trump just gave Western Digital stock a big boost.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/why-western-digital-stock-popped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jQi4fOqGNPyolbls78V3tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/607222d046c50c6ddb0bd3c684a7680b.jpg",
+      "published_at": "2026-08-17T15:51:08Z"
+    },
+    {
+      "id": "949aba85-78ef-3124-a695-aa5c484ef595",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks lower as Hormuz concerns and high oil prices persist",
+      "summary": "Global stocks mostly slipped Monday as lack of progress on opening the Straits of Hormuz outweighed expectations that the Federal Reserve will not raise US interest rates anytime soon.Still, fading expectations that the Federal Reserve will raise rates and confidence that the United States and Iran will step back from the brink have kept a floor under equity prices, which have largely risen so far this August.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JqM3NjPpRydEIsQpHZivdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/15e62df7b51353e822b988b6ab60af85.jpg",
+      "published_at": "2026-08-17T15:48:59Z"
+    },
+    {
+      "id": "419d36d4-6d2b-3b03-add7-ed39599bb6db",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Top Midday Stories: Nvidia Investing $1.5 Billion in SB Energy; L3Harris Names Sam Mehta as CEO, Replacing Christopher Kubasik",
+      "summary": "The Nasdaq Composite was up, while the Dow Jones Industrial Average and S&P 500 Index were down in l",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-investing-154830059.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T15:48:30Z"
+    },
+    {
+      "id": "b6246139-aa92-3b41-ae20-9063b5efeec6",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+      "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sLfz7Uxs2ssffbd1W8K6nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/a0780072c989e0792375e74c1841ae7f.jpg",
+      "published_at": "2026-08-17T15:47:59Z"
+    },
+    {
+      "id": "08926166-015a-3658-ac72-5c1d18ee5eb9",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin May Have One More Drop Before the Next Bull Run: Fundstrat",
+      "summary": "The crypto tides are turning despite record apathy, says Fundstrat's Sean Farrell",
+      "source": "Coinage Coop",
+      "url": "https://www.coinage.media/2026/bitcoin-may-have-one-more-drop-before-the-next-bull-run-fundstrat",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P8us8kS.hi9QFnvthNVJTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinage_coop_399/1fb2e1358ac5678bb3fece7c34b8ca90.png",
+      "published_at": "2026-08-17T15:46:00Z"
+    },
     {
       "id": "87bb246e-b75f-3971-880d-7698af9ce9b7",
       "asset": "BTC",
       "asset_name": "Bitcoin",
       "title": "HIVE Digital Technologies Soars 11% on $350M GPU Cloud Contract, Cipher Mining Ticks Up",
-      "summary": "HIVE Digital Technologies (NASDAQ:HIVE) shares are up 11% to $2.98 in midday trading Monday, jumping from Friday’s $2.69 close after the bitcoin miner unveiled its largest AI contract to date. The catalyst is company-specific, keeping peer names and the broader miner group largely flat. HIVE stock remains down 16% for the month, though it’s still ... HIVE Digital Technologies Soars 11% on $350M GPU Cloud Contract, Cipher Mining Ticks Up",
+      "summary": "HIVE Digital Technologies just landed a contract that could redefine whether it belongs in conversations about AI infrastructure or bitcoin mining, and the market is only beginning to price in what execution actually requires.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/17/hive-digital-technologies-soars-11-on-350m-gpu-cloud-contract-cipher-mining-ticks-up/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kj5BVzYya4BYaUKtwrxaGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/dc53c7c0f3887854b27b8d1f70df16c0.jpg",
@@ -147,39 +301,6 @@
       "published_at": "2026-08-17T15:17:33Z"
     },
     {
-      "id": "0a8bc32e-53e4-3821-96ad-e1ad7ee781cb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-1-5b-softbank-151624715.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PMPxZNAkIl4ybrv4D_qQ2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/9aa20e1961e2fdf19c8767e23d9284c5.jpg",
-      "published_at": "2026-08-17T15:16:24Z"
-    },
-    {
-      "id": "1147ab7e-a99f-30d5-8d23-569a4aed33ba",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What Quadrupled Intel Stock Was Not Foundry Customers",
-      "summary": "Demand for its server chips runs ahead of what Intel can make, and the price now carries a build-out that is still years from finished.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/611684/what-quadrupled-intel-stock-was-not-foundry-customers/2026-08-17",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sRxNR3IN5TUolmP2SEX60A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/1941b9b7e581dafb8c56e93dda3be756.jpg",
-      "published_at": "2026-08-17T15:14:28Z"
-    },
-    {
-      "id": "53e35bc4-7f87-3c5a-8dc4-8f6b01a57320",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2026 Stock-Split Watch: Is United Rentals on Deck?",
-      "summary": "As it trades near a 52-week high, the management team may still want to hold off on conducting a stock split.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/2026-stock-split-watch-is-united-rentals-on-deck/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qkOVpC.8tGYmiJWY5AKDLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47c75bce4f779c20edc81ba45a9d77bb.jpg",
-      "published_at": "2026-08-17T15:14:00Z"
-    },
-    {
       "id": "fa732c4f-1b25-3e66-97eb-ed146c964297",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -189,127 +310,6 @@
       "url": "https://www.thestreet.com/investing/schwab-single-stock-futures-launch-cme",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nOJNi3Kte611r3crAhEsMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/547477a90167baa7cf8fd97414c128b3.jpg",
       "published_at": "2026-08-17T15:07:00Z"
-    },
-    {
-      "id": "20280345-568b-4f86-b360-a22aa492d481",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX shareholders include Google, Nvidia, BlackRock: Tracking the stock's volatility",
-      "summary": "A 13F filing has uncovered notable corporate ownership of SpaceX (SPCX) shares. Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at SpaceX's shareholder makeup and stock volatility since the IPO.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/spacex-shareholders-google-nvidia-blackrock-150348057.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N1bwaYbLqqXocXnRNx8qOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9e5154a7-e0b2-4fb8-b4bd-014deefbb5b7_b58953879ca831271dd4b72c808397e5dcd0bad2c19e5a4ce8e335887fc3d056.jpg",
-      "published_at": "2026-08-17T15:03:48Z"
-    },
-    {
-      "id": "7ad26fa6-19ac-304f-ac72-4b9bc22b8556",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "HIVE Digital Technologies Q1 Earnings Call Highlights",
-      "summary": "HIVE Digital Technologies (NASDAQ:HIVE) reported fiscal first-quarter 2027 revenue of $79.1 million, up 73% from $45.6 million a year earlier and 10% sequentially, as the company expanded its Bitcoin mining operations and continued building its high-performance computing, or HPC, and artificial inte",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/hive-digital-technologies-q1-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CZ0fSt6bHPImqutgXQgbxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/dea7f2ccc1c99f247c3e632ee902aae8.png",
-      "published_at": "2026-08-17T15:02:15Z"
-    },
-    {
-      "id": "9e02b71c-7dbd-3ce8-9137-50d320d82a39",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Tiger Global Just Swapped Big Tech for This Chip Stock. Should You Follow?",
-      "summary": "Chase Coleman's Tiger Global just dumped Nvidia and Alphabet to load up on AMD, a move that either signals a major shift in AI investing logic or a costly bet on a stock already priced for perfection.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/tiger-global-just-swapped-big-tech-for-this-chip-stock-should-you-follow/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XrKbWd76Ed_zYwXnIH8eUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b3c965d12227c8238bfac19f415aef37.jpg",
-      "published_at": "2026-08-17T15:00:57Z"
-    },
-    {
-      "id": "40b8b3ce-3614-3d2a-88c9-bc493825acb7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "AI Debt Lifts 30-Year Treasury Yield to 5.27%: Can Bitcoin Compete?",
-      "summary": "AI bond sales pushed the 30-year Treasury yield to 5.27% in 2026. Bitcoin fell 46% while gold gained 33%. Here's why",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/ai-debt-treasury-yields-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xBPdxfm.RrBL2UH4mJLz_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/efea0dfdfc7b60b89c84d59a3d0d46c6.jpg",
-      "published_at": "2026-08-17T15:00:20Z"
-    },
-    {
-      "id": "a365c1a5-67c6-3c1e-b9e7-062ebbcd85d1",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order",
-      "summary": "Chevron targets 420,000 bpd by 2028 as Venezuela ramps up oil output.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/venezuela-oil-revival-accelerates-u-150000465.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8T2dDjMs5mP.TfJIyTnweA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/9364cae5fa756c4497037dbb080443c4.jpg",
-      "published_at": "2026-08-17T15:00:00Z"
-    },
-    {
-      "id": "39bcf7b6-6f3a-3fec-beef-45673cbe3d5b",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
-      "summary": "A series filings disclose the massive stakes tech giants Nvidia and Alphabet and mega investors Peter Thiel have in SpaceX.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A0RSFsuTuE4Dd7n.Mpg.JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f.jpg",
-      "published_at": "2026-08-17T14:58:57Z"
-    },
-    {
-      "id": "b9a5a1ee-756c-3a52-8f82-deedad89c815",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Corning’s Tariff Immunity Comes Down to One Strategic Choice, CEO Says",
-      "summary": "Corning's CEO went on national television and told investors that tariffs are essentially a non-issue for the company, citing two specific figures about its U.S. manufacturing footprint. The explanation traces back to a philosophy Corning adopted long before trade wars became a boardroom concern.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/cornings-tariff-immunity-comes-down-to-one-strategic-choice-ceo-says/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bR.wb6yfB3l28P45Lt.nZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a43a7162468b252b5ce73dc7dc009f5c.jpg",
-      "published_at": "2026-08-17T14:45:26Z"
-    },
-    {
-      "id": "81cdeea5-09b2-3a48-872a-30bda653bea9",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Why SK Hynix Stock Popped Today",
-      "summary": "Did President Trump accidentally start a rally in a Korean memory chip stock?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/why-sk-hynix-stock-popped-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WOOvBqvFCsnThuKxDTa3tQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0bc5d1a2fc6e137c141eab6d4cf5fa41.jpg",
-      "published_at": "2026-08-17T14:41:32Z"
-    },
-    {
-      "id": "8ee4c58b-006b-3d70-9412-d97f819595f3",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Nvidia Strikes Deal With OpenAI As Tenant; Is Nvidia A Buy Now?",
-      "summary": "Nvidia stock is in a base headed into earnings next week. Shares are above an early buy point of 224.76.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/nvidia-nvda-stock-august-2026-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AEtrOetQzPWVSh.xlYhfRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/51f1a643ba1b088e6bfc7916b3a0d6a2.jpg",
-      "published_at": "2026-08-17T14:38:24Z"
-    },
-    {
-      "id": "c6f75d50-27d1-3c3a-a66d-202983f584eb",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Northern Oil and Gas Q2 Earnings Beat Estimates, Decline Y/Y",
-      "summary": "NOG beats Q2 earnings and sales estimates as natural gas production surges, despite weaker gas prices weighing on profits.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/northern-oil-gas-q2-earnings-143500075.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YBQBLbcLa1wL3B0HXz7ZHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f2cab89bf2cbad1966358e04258e202.jpg",
-      "published_at": "2026-08-17T14:35:00Z"
-    },
-    {
-      "id": "db6484af-bec4-36dd-ba07-8f7302901f7b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Treasury Yields Increase as Markets Focus on Fed Minutes, Jackson Hole",
-      "summary": "Treasury yields rise while the U.S.-Iran standoff remains unresolved and crude prices edge higher. In coming days, investors will be awaiting Fed minutes Wednesday and Chairman Warsh's first Jackson Hole speech later this month.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/treasury-yields-increase-as-markets-focus-on-fed-minutes-jackson-hole-xSlJq2UQsKJec0yGKqhU?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-17T14:33:38Z"
     }
   ]
 }
