@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-08-17 02:39 UTC",
+  "last_updated": "2026-08-17 03:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "bde3c951-56af-3570-ac36-b547ad6fff27",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian central bank likely steps in to defend rupee, traders say",
+      "summary": "MUMBAI, Aug 17 (Reuters) - The Reserve Bank of India likely intervened in the foreign exchange market on Monday, four traders told Reuters, as uncertainty over the Middle East conflict kept oil prices",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-central-bank-likely-steps-034059655.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_3qPYK4e.3fffnNtnHzgBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1c0f678d4f534c5a46f57b89f5d713fe.jpg",
+      "published_at": "2026-08-17T03:40:59Z"
+    },
+    {
+      "id": "2874a0c7-f1a9-3c57-a8b5-701ac49b7ae0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Japan’s Economy Keeps Growing, But Weakness Could Vex BOJ",
+      "summary": "Japan’s economy managed to notch a third straight quarter of growth, but weaker spending slowed the pace of expansion, potentially complicating matters for the central bank.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/economy/japans-economy-stays-on-growth-path-but-headwinds-loom-6abb9a34?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e_tNdGVR6kUjmSwxtPiZJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ea2e8141869d747c67036cd20a19f00c.jpg",
+      "published_at": "2026-08-17T03:24:00Z"
+    },
+    {
+      "id": "84ba8985-f615-3f49-9594-d30e848629b5",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold gains on weaker dollar, reduced Fed rate-hike bets",
+      "summary": "By Sukanya Mitra Aug 17 (Reuters) - Gold drifted higher on Monday, supported by a weaker dollar and recent soft economic data that reduced expectations for a U.S. interest rate hike next month.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-gains-weaker-dollar-reduced-032340501.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PuKmWEKxtW0W3HjQjROz0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/0097fa0e3c6b674cf102379ef18a38e5.jpg",
+      "published_at": "2026-08-17T03:23:40Z"
+    },
+    {
+      "id": "0d3e054b-206c-3fb4-ae79-547dc5327786",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation.",
+      "summary": "Jensen Huang has a unique ability to drive investment in his industry.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/jensen-huang-doubled-nvidias-own-sales-forecast-to/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yOZIS1u2_LjoKvoGVXFhiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/aabd534ca5610b8e8fb2715d36ab17f8.jpg",
+      "published_at": "2026-08-17T03:20:00Z"
+    },
+    {
+      "id": "46d8672e-51bb-33b7-84ab-8d2cb1ef9ccc",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "3 Reasons to Sell MSTR and 1 Stock to Buy Instead",
+      "summary": "What a brutal six months it’s been for Strategy. The stock has dropped 24.5% and now trades at $97.08, rattling many shareholders. This was partly due to its softer quarterly results and might have investors contemplating their next move.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-mstr-1-030900476.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3sDc8lzOA2PIl..QAGRCiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/4940b84d40152508fb68c66cd42708e7.jpg",
+      "published_at": "2026-08-17T03:09:00Z"
+    },
+    {
+      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
+      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lzRIMUw1zXpzy7uLd1995Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7a71877e6fdc59a577000e45ca772655.jpg",
+      "published_at": "2026-08-17T03:06:02Z"
+    },
+    {
+      "id": "dd4f9440-3143-3612-99d9-28e8eaaa06d6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. West Texas Intermediate (WTI) crude, the U.S. benchmark, rose to over $81 per barrel, while Brent crude, the international standard, neared $90. The gains follow reports of stalled ceasefire talks and a U.S. threat to maintain an indefinite naval blockade on Iran. These developments heighten fears of a wider conflict that",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/energy/articles/peabody-energy-borr-drilling-texas-030100646.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T03:01:00Z"
+    },
+    {
+      "id": "c4bb630f-ece4-33eb-a572-569996c1dd36",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Valaris, Kodiak Gas Services, SM Energy, Patterson-UTI, and Solaris Energy Infrastructure Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. West Texas Intermediate (WTI) crude, the U.S. benchmark, rose to over $81 per barrel, while Brent crude, the international standard, neared $90. The gains follow reports of stalled ceasefire talks and a U.S. threat to maintain an indefinite naval blockade on Iran. These developments heighten fears of a wider conflict that",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/valaris-kodiak-gas-services-sm-025300798.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T02:53:00Z"
+    },
+    {
+      "id": "d3f9fe72-5d60-3aaf-9efc-a43768c30160",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Best Nuclear Power Stocks Right Now",
+      "summary": "Constellation Energy represents a great, stable utility that uses nuclear power, while Cameco Corporation is a North America-based uranium miner that supplies nuclear facilities.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/16/2-best-nuclear-power-stocks-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c.zpdBYnTCWOrWHrBzlUZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/107694c4c5c96061dce272c90a02958c.jpg",
+      "published_at": "2026-08-17T02:50:00Z"
+    },
+    {
+      "id": "4ad02f1b-0400-3072-97de-623891369393",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Coinbase (COIN) Stock Is Falling Today",
+      "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) fell 3.1% in the morning session after a broad crypto market downturn prompted by a hawkish monetary outlook from the Bank of Japan and escalating geopolitical risks. The crypto market came under pressure following reports that Japan's central bank was planning to raise interest rates. At the same time, rising tensions between the U.S. and Iran reduced investor demand for riskier assets. This sentiment was reflected in Bitcoin's",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/why-coinbase-coin-stock-falling-023700907.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_isUHi78lP36Gl58h.yt9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/0853feacc1714816055c5fd627257ffb.jpg",
+      "published_at": "2026-08-17T02:37:00Z"
+    },
+    {
+      "id": "0f60f812-6316-3f92-8c66-d98d8ad2214a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Micron Nears $1,000 – And Apple Could Be The Next Catalyst",
+      "summary": "Gains in KOSPI could push Micron shares on Monday, retail traders said.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/micron-nears-1-000-and-apple-could-be-the-next-catalyst/cZo6Ff1RJKh",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UMaPQDoZiMrC9Xi7j.wpEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1fb77d419540c99bbe2e42e9c0a8a7cf",
+      "published_at": "2026-08-17T02:34:38Z"
+    },
+    {
+      "id": "0f6495cc-db23-37b6-bf95-39598728b476",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Kincora Copper advances NSW drilling and partner strategy with A$12 million cash balance",
+      "summary": "Kincora Copper Ltd (TSX-V:KCC, ASX:KCC, OTC:BZDLF) advanced drilling across two New South Wales projects during the June 2026 quarter while progressing new exploration targets, partnership discussions and the divestment of its Mongolian assets, leaving the company with approximately A$12 million...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097092/kincora-copper-advances-nsw-drilling-and-partner-strategy-with-a-12-million-cash-balance-1097092.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KrA3vgJC.ZtYgpRXUht_vQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/dcf4516fc4730f087d808b2bd9efd783.jpg",
+      "published_at": "2026-08-17T02:33:00Z"
+    },
     {
       "id": "c6bbf9ae-0ddc-3c58-a032-764e1a9abf8e",
       "asset": "OIL",
@@ -15,17 +147,6 @@
       "published_at": "2026-08-17T02:32:30Z"
     },
     {
-      "id": "79b73c1c-e364-315f-8433-18e9ae96269d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
-      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lzRIMUw1zXpzy7uLd1995Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7a71877e6fdc59a577000e45ca772655.jpg",
-      "published_at": "2026-08-17T02:30:00Z"
-    },
-    {
       "id": "2d5fc2d7-04ff-3798-804e-5562216d2513",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -35,6 +156,17 @@
       "url": "https://www.fool.com/investing/2026/08/16/sk-hynixs-stock-trades-at-around-5-times-next-year/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RuxSjD6.THkNbDaNCcim_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/550936f11fc279b0f979e739ff0c1bc2.png",
       "published_at": "2026-08-17T02:20:00Z"
+    },
+    {
+      "id": "b875d902-bebe-327f-b547-4d840c3f4ec9",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Berkshire Piles $17 Billion More into Google: Why Is Michael Burry Worried?",
+      "summary": "Berkshire boosted its Alphabet stake by $17 billion in Q2, but Michael Burry says Greg Abel lacks Buffett's discipline.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/berkshire-alphabet-stake-burry-warning/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MH21XIFIAi3X1CF3guXwkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/9c107a361e9d3605aca66d3e653269e4.jpg",
+      "published_at": "2026-08-17T02:16:27Z"
     },
     {
       "id": "5ace40e7-85eb-3337-8d8b-b346b7fba17b",
@@ -125,28 +257,6 @@
       "published_at": "2026-08-17T00:48:24Z"
     },
     {
-      "id": "d8146598-66b2-3c46-8912-ef88a2c758a2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Mastercard CEO: Cybersecurity Is Our Fastest-Growing Business",
-      "summary": "As cybersecurity threats increase, Mastercard is focusing on prevention and defense for its 3.7 billion cardholders.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/mastercard-ceo-cybersecurity-is-our-fastest-growing-business/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.TWhm7Oj_1kk.rJRk0.hqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a88c052bd8134bf4c722e89e2cda8da4.jpg",
-      "published_at": "2026-08-17T00:34:37Z"
-    },
-    {
-      "id": "2874a0c7-f1a9-3c57-a8b5-701ac49b7ae0",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Japan’s Economy Stays on Growth Path, But Headwinds Loom",
-      "summary": "The Japanese economy notched a third consecutive quarter of growth, but at a slower pace as household and corporate spending weakened.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/japans-economy-stays-on-growth-path-but-headwinds-loom-6abb9a34?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e_tNdGVR6kUjmSwxtPiZJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ea2e8141869d747c67036cd20a19f00c.jpg",
-      "published_at": "2026-08-17T00:33:00Z"
-    },
-    {
       "id": "fe5b1499-100d-337c-bf2b-d5427cdd0349",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -167,17 +277,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/u-shale-e-p-stocks-002900661.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YoeoIZiaAk7yKudNJQ9atA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/b0ea3dc4a3c23291b9661c508145f79a.png",
       "published_at": "2026-08-17T00:29:00Z"
-    },
-    {
-      "id": "526e5997-4906-358d-8b0f-286b5e97c903",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NuScale's Potential TVA Deal Could Be 6 to 8 Gigawatts. Here's Why the CEO Calls It the Largest Nuclear Build-Out in U.S. History.",
-      "summary": "The opportunity could redefine nuclear power.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/nuscales-potential-tva-deal-could-be-6-to-8-gigawa/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aXfvcRjuvoy2AmcT63sItA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7dac2d10ae0f1b0310d0a378f7f669c1.jpg",
-      "published_at": "2026-08-17T00:20:00Z"
     },
     {
       "id": "e5c96d90-75bc-3fab-a91d-a525d24a5b6c",
@@ -211,105 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JKGdX0Xt6sMlIn2OKvI7Bw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1491bf719316a4e4a1c7252e86ffb1ac.jpg",
       "published_at": "2026-08-16T22:57:48Z"
-    },
-    {
-      "id": "5e318eda-1c87-3c1f-929e-9df5d1d7b611",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
-      "summary": "HIVE Digital Technologies reported sharply higher revenue for its fiscal first quarter of 2027, though a large one-time charge tied to a tax dispute in Sweden pushed the company to a net loss. HIVE (Nasdaq: HIVE), founded in 2017, mines Bitcoin using renewable energy and runs a growing ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/hive-reports-74-revenue-jump-in-fiscal-q1-2027-earnings",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7Rc._6AuM_NFIWZ3lmlE3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/828f53076102f6e26917c2cb1ead54c4.jpg",
-      "published_at": "2026-08-16T22:38:13Z"
-    },
-    {
-      "id": "eea02a14-828a-3387-8104-217d34c6f717",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Hong Kong’s Stablecoin Bifurcation: Two Paths for Tokenized Money",
-      "summary": "The arrival of regulated stablecoins in Hong Kong is less a singular race for market share and more a structural bifurcation of how tokenized money will function in the regional economy. With the Hong Kong Monetary Authority granting its first two licenses on April 10, 2026, to Anchorpoint Financial and HSBC, the market has been […]",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-stablecoin-bifurcation-two-223713655.html",
-      "thumbnail": "",
-      "published_at": "2026-08-16T22:37:13Z"
-    },
-    {
-      "id": "fbbefb37-3a82-34b7-b436-f497c1424cfc",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
-      "summary": "Taiwan Semiconductor has its fingerprints all over the modern data center.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/amazon-alphabet-and-microsoft-are-dropping-nearly/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jxjUIzNK0UnsoYCcRi31Pw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d10bfb3a5b0d24691642a3ff3e83ccd3.jpg",
-      "published_at": "2026-08-16T22:27:00Z"
-    },
-    {
-      "id": "1ead95cc-4d44-3bf5-a8c3-4ec5966ac32e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?",
-      "summary": "Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/16/bitcoin-xrp-ethereum-and-solana-drop-will-crypto-recover-by-the-end-of-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Ucn46OVn_FhywfNBxF6Jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2348b0aadb22d3837dc9b66ba4a2ca75.jpg",
-      "published_at": "2026-08-16T21:45:47Z"
-    },
-    {
-      "id": "e954887e-a87a-3b91-9c93-576e1bc88425",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
-      "summary": "Appaloosa Management just walked away from 12 stocks, and the pattern hiding beneath the list suggests David Tepper is betting everything on a very short list of survivors.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/16/billionaire-investor-david-tepper-just-exited-12-stocks-these-5-are-the-most-surprising/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y.9T_5gAAcSIye8hwdS88Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
-      "published_at": "2026-08-16T21:43:51Z"
-    },
-    {
-      "id": "31922665-0a06-30b4-a7b9-effabc269f31",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP",
-      "summary": "Trump meets crypto leaders, Fed minutes land, and Japan tests the carry trade. Four catalysts that could move Bitcoin and XRP.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/4-reasons-bitcoin-xrp-august-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/btV5QYn6Rsv7W5AYJokaWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/a5f33d73cfad0c1703f723b5aa02d200.png",
-      "published_at": "2026-08-16T21:03:27Z"
-    },
-    {
-      "id": "b08b0c8b-dd69-3735-8011-d19d9b4697aa",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "20-Year Tech Veteran Spent 15,000 Hours Trying to Kill Bitcoin, What Did He Find?",
-      "summary": "Jeff Booth spent 15,000 hours trying to kill Bitcoin. The attacks failed, and the research changed how he invests.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/jeff-booth-15000-hours-kill-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
-      "published_at": "2026-08-16T20:29:14Z"
-    },
-    {
-      "id": "58146bc1-3641-3c5b-bb0c-e43e69e502b4",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple may finally have a $2,000 reason to enter foldables",
-      "summary": "The foldable smartphone used to resemble an expensive technical experiment. Now they’re starting to appear more like something Apple can sell. That change is significant since Apple (AAPL) has spent years ignoring a category that competitors, including Samsung, Google, Motorola, Huawei, and others, ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/apple-may-finally-have-a-2000-reason-to-enter-foldables",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YuxgjzzfpKx9dEDrQK4MJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1257902b1a16c08cc946602cedb51f3b.jpg",
-      "published_at": "2026-08-16T20:07:00Z"
-    },
-    {
-      "id": "a952e4c2-948c-3e8f-8250-874a4b254090",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "2 Major Catalysts Are Lifting IREN Stock. How to Play It Here.",
-      "summary": "Microsoft's acceptance and Nvidia's grant of Exemplar Cloud status have added to the stock's upmove.",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/3877364/2-major-catalysts-are-lifting-iren-stock-how-to-play-it-here",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F3YCTv6ylX9lLQhCudTbjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d.jpg",
-      "published_at": "2026-08-16T19:30:02Z"
     }
   ]
 }
