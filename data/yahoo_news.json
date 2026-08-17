@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-17 21:49 UTC",
+  "last_updated": "2026-08-17 22:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "8aac21ce-5f02-3c6b-a336-14c976f4ae56",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "QQQI’s 14% Yield Erases a $500,000 Cost Basis in Seven Years, Then the Tax Bill Lands",
+      "summary": "QQQI's 14% yield sends monthly checks that feel like income, but the math hiding inside your annual 1099 could turn years of distributions into a tax liability that blindsides you at the worst possible moment.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/17/qqqis-14-yield-erases-a-500000-cost-basis-in-seven-years-then-the-tax-bill-lands/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H6xvGmqXDXGdAe03JvP80w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/728e36131a3df88a78b0d9dd13b36428.jpg",
+      "published_at": "2026-08-17T22:05:17Z"
+    },
+    {
+      "id": "5008965d-f0b4-3ed1-a92b-faf92aaf3543",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Biosig Technologies Q2 Earnings Call Highlights",
+      "summary": "Biosig Technologies (NASDAQ:STEX) provided a second-quarter update on its Streamex tokenization platform, reporting its first gold lease income while outlining plans to expand distribution for its yield-bearing gold token, GLDY, and launch a permissionless token, GLDC. Chief Executive Officer and c",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/biosig-technologies-q2-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UZGgENOnidcydbSTkyST4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/4ee6c50760953531e6cf6ce00b9e390f.png",
+      "published_at": "2026-08-17T22:02:38Z"
+    },
+    {
+      "id": "e80d6b4c-88c2-36af-bc2f-b4aa86b29096",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
+      "summary": "Nvidia is betting big on OpenAI's future -- to the tune of $105 billion in financing guarantees.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/nvidia-lines-up-105-billion-for-openai-heres-what-it-means-for-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hvmRkafUG_9G2YFXkA9z_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c4f2aa927fcff9c9f1ca045d8a8eb39f.jpg",
+      "published_at": "2026-08-17T21:50:01Z"
+    },
+    {
+      "id": "fa7380e4-db7e-3df7-afa2-5c96c9ebab6f",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Situational Awareness’ 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
+      "summary": "Leopold Aschenbrenner built one of the most concentrated AI bets in hedge fund history, and then watched it come apart in under a month in ways that forced a fire sale to a rival firm.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fKbUnWaC_Opy3qvEQZdk3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/53160dee00cf48aca65affcdbf1ea611",
+      "published_at": "2026-08-17T21:48:19Z"
+    },
+    {
+      "id": "a7037492-737a-33e6-9bfa-60dbe7964b56",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus",
+      "summary": "Brent crude prices settled near $91 a barrel.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-drop-geopolitics-and-oil-price-risk-take-center-stage/cZYG0TMRJSc",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NqR_6SI0.MrTW_OMjlGfBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4b1cfd1cebb08709ce989ad97de7d87f.jpg",
+      "published_at": "2026-08-17T21:46:04Z"
+    },
     {
       "id": "1aec5e50-83ad-33cf-b22b-7f6081b0fc3e",
       "asset": "AAPL",
@@ -81,6 +136,17 @@
       "published_at": "2026-08-17T21:04:50Z"
     },
     {
+      "id": "6597f13d-e281-3adf-8557-0f4004e15b9d",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "TSLA Stock In Focus As Tesla Reportedly Preps Cybercab Public Launch In Austin This Month",
+      "summary": "Tesla’s regulatory status for commercial Cybercab service, however, is unclear.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-in-focus-as-tesla-reportedly-preps-cybercab-public-launch-in-austin-this-month/cZYGLCSRJST",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j4wNKkZBUYoFK_wwrR70Cw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f5db9c9bb7cfcd5ed35fd2674e1da73f.jpg",
+      "published_at": "2026-08-17T21:04:31Z"
+    },
+    {
       "id": "05087d5a-0c2c-3cfb-ad1a-888a8617c91b",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -123,6 +189,17 @@
       "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-invesco-registers-inflows-373m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H_DXloducZG7SpdsyxpYAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/685c6a7e1fcae476c06ee752a956ffca.png",
       "published_at": "2026-08-17T21:00:04Z"
+    },
+    {
+      "id": "493ec193-bd5f-34c7-8051-d91f1f60ba69",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
+      "summary": "Libya and Egypt are reviving an 800-km oil pipeline linking Tobruk to Alexandria, likely starting at 150,000–250,000 bpd.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/why-libya-next-oil-pipeline-210000945.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UzdjVgn2TPkmv_kgEDIv1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/d853f820fae5cd3de27ea209da0b8cc5.jpg",
+      "published_at": "2026-08-17T21:00:00Z"
     },
     {
       "id": "382f7be0-c464-30cb-b28f-ba43f05b461b",
@@ -214,25 +291,14 @@
     },
     {
       "id": "18201e98-c8c4-34b5-9b0a-bbbac3f3e495",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Gold and Silver Prices Are Rising. Here's Which Precious Metal May Have More Upside",
       "summary": "The gold-silver ratio can provide clues as to which metal may do better in a market downturn.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/17/gold-and-silver-prices-are-rising-heres-which-prec/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rzDTf0J0MqeE7mkk1l3Myw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/83b3ff93bde96a8f84fd469b80d661f2.jpg",
       "published_at": "2026-08-17T20:48:22Z"
-    },
-    {
-      "id": "3ca8e65d-bedb-32e6-ab70-b0a6fe0323ef",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia’s Huang Says OpenAI Data Center Could Generate $600 Billion in Revenue",
-      "summary": "Shareholders looked to be cautiously welcoming the chip maker’s plan to support OpenAI’s huge data-center investment.  Nvidia confirmed Monday it will provide a financial guarantee for OpenAI’s large data-center campus in Ohio—named the PORTS-Pike Technology Campus.  Nvidia is now set to guarantee less than $120 billion of the project investment, down from $250 billion previously, The Wall Street Journal reported late Friday, citing people familiar with the matter.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-openai-4466ab53?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VkE68ZccOAN6tinWMQDwGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4ad58ca8f70aeb9a9d6e15de6785eac7.jpg",
-      "published_at": "2026-08-17T20:47:00Z"
     },
     {
       "id": "7654dd66-1194-303a-af9a-35b802d06b78",
@@ -244,72 +310,6 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JogoriU1oOfqkY9FuQi.XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/67ad590aa7ed16f6cc4a4bd4cdfcd09f.jpg",
       "published_at": "2026-08-17T20:41:54Z"
-    },
-    {
-      "id": "84b75d9b-ebbe-343f-8ade-270def1ea215",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Fed's Next Rate Move Just Got More Complicated",
-      "summary": "One decision could quickly reshape the market's rate outlook",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-next-rate-move-just-203716877.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:37:16Z"
-    },
-    {
-      "id": "4a202cb9-5ed1-3a14-bbff-9ab740415606",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Trump Pushes For More Crypto Clarity, White House To Host Meeting With Industry Leaders",
-      "summary": "President Trump may attend a White House meeting of crypto, prediction market leaders in lieu of Clarity Act. CFTC event scheduled.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/cryptocurrency-regulation-trump-white-house-meeting-crypto-prediction-market-executives-sec-cftc/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gylShDNo1K4hO35NavEJuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7ce28bec18543f106667383a39791b73.jpg",
-      "published_at": "2026-08-17T20:36:50Z"
-    },
-    {
-      "id": "947ed9d9-6b6f-45e9-ae72-87e9fe6dc904",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem",
-      "summary": "US Secretary of Commerce Howard Lutnick says the Trump administration does not want Apple (AAPL) to purchase memory chips from China. Yahoo Finance Technology Editor Dan Howley explains why this presents issues for Apple.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/trump-admin-urges-apple-not-203543932.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dmzLJkuCrP5wpd7Pgx3FJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3cf227b6-0d4c-4794-a6c3-7e1f7b98fec6_3c6aed47e7cdb17afc2f0f55589e99c661b3dd7e1649a6a82058b5cbfba2b040.jpg",
-      "published_at": "2026-08-17T20:35:43Z"
-    },
-    {
-      "id": "3207d0e3-3282-376c-bdfa-9bf56e9d5c3e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: Equities Fall, Oil Rallies as US-Iran Ceasefire Expires",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) Stocks on Wall Stre",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/articles/equities-fall-oil-rallies-us-203511790.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JFLHVYQKb8tLFlrfC14Hag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/2475a8618428bf41d7b045240805a142.jpg",
-      "published_at": "2026-08-17T20:35:11Z"
-    },
-    {
-      "id": "17358015-3ad5-35f1-8b3b-80ec62cd3149",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
-      "summary": "By Sinéad Carew and Avinash P Aug 17 (Reuters) - Wall Street's three major indexes finished lower on Monday as investors waited for quarterly reports from large retailers to provide insights into U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-mixed-middle-east-160028177.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A9.sz8f_jlMkGGTcFHef4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4808297efbe828bfef45c9ccdb538f17.jpg",
-      "published_at": "2026-08-17T20:35:00Z"
-    },
-    {
-      "id": "0cf3b950-96bf-3d87-9fa1-ca49646732a5",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "BYD Keeps Global EV Lead as Tesla Sales Rebound",
-      "summary": "Tesla grew faster, but BYD still sold more EVs.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/byd-keeps-global-ev-lead-203216285.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:32:16Z"
     }
   ]
 }
