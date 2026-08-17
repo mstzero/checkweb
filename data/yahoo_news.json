@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-17 21:21 UTC",
+  "last_updated": "2026-08-17 21:49 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1aec5e50-83ad-33cf-b22b-7f6081b0fc3e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Financial Advisors Love Warren Buffett, but They Don’t Always Agree With Him",
+      "summary": "Money pros explain when they embrace the Oracle of Omaha’s investing wisdom and when they encourage clients to take a different approach.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/advisor/articles/warren-buffett-wisdom-financial-advisors-ec4db144?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2yF.Y1MBJC8_qSORd7KYkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b0bdb56e3e81f8ee0e8d006047f197d4.jpg",
+      "published_at": "2026-08-17T21:42:00Z"
+    },
+    {
+      "id": "9bcc6887-58a7-3244-ada5-166749d91ec1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock’s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI",
+      "summary": "BlackRock, Inc. (NYSE:BLK) CEO Larry Fink joined the CNBC panel this week and laid out the scale of what’s needed to power the AI boom. “We’re gonna need over 70 gigawatts of power,” he said, just for the US. Why This Matters Fink compared this moment to the birth of the mortgage-backed securities market in […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-blk-nvidia-corporation-nvda-213145577.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
+      "published_at": "2026-08-17T21:31:45Z"
+    },
+    {
+      "id": "c40d72b1-1193-34c1-b148-cd952e438849",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings",
+      "summary": "On Aug. 17, 2026, bond yields climbed while major indices drifted near record levels ahead of pivotal retail earnings reports.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/17/stock-market-today-aug-17-markets-inch-lower-and-treasury-yields-rise-as-investors-wait-for-retail-earnings/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q6MZpqYtt8irylshqlci4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png",
+      "published_at": "2026-08-17T21:30:24Z"
+    },
+    {
+      "id": "fa8d80bf-8dca-303e-b153-8392c8151aeb",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "How Heavy AI Spending Can Pay Off for Amazon and Meta",
+      "summary": "Mark Mahaney sees growing signs that internet behemoths will get a return on their soaring capital expenditures.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amazon-meta-stocks-ai-a973fab2?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d6HZouAe1oXK6zwh9oqatQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8500bf3d84c42e4f62c08c2d5a7b422e.jpg",
+      "published_at": "2026-08-17T21:16:00Z"
+    },
+    {
+      "id": "675901a9-a343-3174-8a5b-c26caea59112",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Update: US Equity Indexes Slide After Trump's Threats to Bomb Oman Lifts Crude Oil, 30-Year Treasury Yield Touches 19-Year High",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-trump-211106690.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T21:11:06Z"
+    },
     {
       "id": "1f67d75b-415b-3ad3-b39f-6d43828eb394",
       "asset": "SPY",
@@ -24,6 +79,17 @@
       "url": "https://finance.yahoo.com/markets/articles/trading-day-bonds-play-blues-210450520.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YUraielPo2oed16mKZHiBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6345113b89ba395aa00328a3034f6950.jpg",
       "published_at": "2026-08-17T21:04:50Z"
+    },
+    {
+      "id": "05087d5a-0c2c-3cfb-ad1a-888a8617c91b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "30-Year Yield Rises to Highest Level Since 2007 as Oil and Treasury Supply Bite Bonds",
+      "summary": "The Treasury selloff has intensified, driving the  30-Year U.S. Treasury  yield to its highest level in over 19 years.  Generally, higher oil prices will cause shorter-duration yields to rise, in response to market expectations that the Federal Reserve will raise interest rates (or delay cutting them) in order to tackle inflation.  WTI and the 30-year yield have a 10-day correlation coefficient of 0.85 as of Friday—a very close relationship, given that a correlation of one would mean they they have been moving in lockstep.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/30-year-yield-level-oil-d97d62f8?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a.0c2WUFfsdevuAO7RVSZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f4edb8996d38b54059f8cd598500d1b3.jpg",
+      "published_at": "2026-08-17T21:04:00Z"
     },
     {
       "id": "161621c8-7f5e-35ac-89ec-13480079526c",
@@ -70,6 +136,17 @@
       "published_at": "2026-08-17T20:59:13Z"
     },
     {
+      "id": "91303a01-c30a-32ed-80bc-3608651417c8",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "SpaceX Matters More for Telsa Stock Than Cybercab These Days",
+      "summary": "Shares of Tesla are becoming closely linked with shares of SpaceX. One reason is the growing belief on Wall Street the companies will merge.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VIHpV_wbYx6w9OrOp1jM3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
+      "published_at": "2026-08-17T20:59:00Z"
+    },
+    {
       "id": "f5f6c948-8fd1-3d3e-9843-7617958a7e93",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -103,6 +180,28 @@
       "published_at": "2026-08-17T20:55:04Z"
     },
     {
+      "id": "363bbe4f-050a-33c1-844f-713671cb08e9",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "summary": "Find insight on JetBlue, MDA Space, Maersk and more in the latest Market Talks covering the auto and transport sector.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EGW2ZGC3xI7SC8T1fjMIGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2a284e983b7f955de7dcde33f43d45cc.jpg",
+      "published_at": "2026-08-17T20:55:00Z"
+    },
+    {
+      "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today’s Market",
+      "summary": "Coherent is the best-performing stock in the S&P 500 on Monday. Sandisk, Micron, Marvell, and other AI stocks also rise.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/quz2mgyE5RGWDL_qjCOCaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+      "published_at": "2026-08-17T20:52:00Z"
+    },
+    {
       "id": "18edd440-095c-3487-9cd5-4d6b714e0414",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -125,6 +224,17 @@
       "published_at": "2026-08-17T20:48:22Z"
     },
     {
+      "id": "3ca8e65d-bedb-32e6-ab70-b0a6fe0323ef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia’s Huang Says OpenAI Data Center Could Generate $600 Billion in Revenue",
+      "summary": "Shareholders looked to be cautiously welcoming the chip maker’s plan to support OpenAI’s huge data-center investment.  Nvidia confirmed Monday it will provide a financial guarantee for OpenAI’s large data-center campus in Ohio—named the PORTS-Pike Technology Campus.  Nvidia is now set to guarantee less than $120 billion of the project investment, down from $250 billion previously, The Wall Street Journal reported late Friday, citing people familiar with the matter.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-openai-4466ab53?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VkE68ZccOAN6tinWMQDwGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4ad58ca8f70aeb9a9d6e15de6785eac7.jpg",
+      "published_at": "2026-08-17T20:47:00Z"
+    },
+    {
       "id": "7654dd66-1194-303a-af9a-35b802d06b78",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -134,17 +244,6 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JogoriU1oOfqkY9FuQi.XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/67ad590aa7ed16f6cc4a4bd4cdfcd09f.jpg",
       "published_at": "2026-08-17T20:41:54Z"
-    },
-    {
-      "id": "768a9fb8-d923-3d84-a42f-a46c2f75167b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Morgan Stanley Delivers a Bullish Message for Nvidia Stock Investors",
-      "summary": "Morgan Stanley Spots a $500 Billion Nvidia Opportunity: NVDA Could Unlock New Revenue Stream",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bullish-message-204121851.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:41:21Z"
     },
     {
       "id": "84b75d9b-ebbe-343f-8ade-270def1ea215",
@@ -158,17 +257,6 @@
       "published_at": "2026-08-17T20:37:16Z"
     },
     {
-      "id": "47ca7ae8-1ed5-3462-a3db-ecec6fb56390",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
-      "summary": "The number rattling the market is a modeled ceiling on future deals. The number the chipmaker has actually signed is much smaller — for now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/broadcom-s-ai-financing-could-reach-usd370-billion-but-it-s-not-as-bad-as-it-sounds/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ye1papuDzS3Ea_Mi00ZjOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/97bbc330a030e8005ad61772102e4f30.jpg",
-      "published_at": "2026-08-17T20:37:01Z"
-    },
-    {
       "id": "4a202cb9-5ed1-3a14-bbff-9ab740415606",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -178,17 +266,6 @@
       "url": "https://www.investors.com/news/cryptocurrency-regulation-trump-white-house-meeting-crypto-prediction-market-executives-sec-cftc/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gylShDNo1K4hO35NavEJuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7ce28bec18543f106667383a39791b73.jpg",
       "published_at": "2026-08-17T20:36:50Z"
-    },
-    {
-      "id": "1fbeb269-65b2-3da4-980a-3879c9bb1e44",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia's Next AI Infrastructure Bet Is Scaling Fast",
-      "summary": "The next infrastructure wave may extend far beyond GPUs.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-next-ai-infrastructure-bet-203610188.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:36:10Z"
     },
     {
       "id": "947ed9d9-6b6f-45e9-ae72-87e9fe6dc904",
@@ -233,83 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/byd-keeps-global-ev-lead-203216285.html",
       "thumbnail": "",
       "published_at": "2026-08-17T20:32:16Z"
-    },
-    {
-      "id": "3369702a-e376-4893-a7d0-024eaaf6666b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia to finance $105B for an OpenAI data center: What to know",
-      "summary": "Nvidia (NVDA) is reportedly providing $105 billion for an OpenAI (OPAI.PVT) data center. Yahoo Finance Technology Editor Dan Howley breaks down the details.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nvidia-finance-105b-openai-data-202533699.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6Tfwq7cHhazD672DP_upXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/722794a5-dac4-4565-993b-d4bea23c2a22_cde88ac9a12fc5b415ac413ef662de5d269883e584ca94b0a52796984242aef5.jpg",
-      "published_at": "2026-08-17T20:25:33Z"
-    },
-    {
-      "id": "4694f706-e51b-3bae-ae42-8d59449711c4",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "TSX Closer: The Index Closes Lower as Technology Weighs, Canadian Inflation Accelerates to 3.0%",
-      "summary": "The S&P/TSX Composite Index closed lower on Monday as weakness in technology stocks outweighed gains",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/articles/tsx-closer-index-closes-lower-202055412.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:20:55Z"
-    },
-    {
-      "id": "bdd2abeb-29a3-3871-8077-e3eb92f64f83",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Markets End Lower Amid Rise in Crude Oil Prices Following Trump's Threat to Attack Oman",
-      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201950619.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:19:50Z"
-    },
-    {
-      "id": "20bf077e-a8b3-3062-8473-81df740dc128",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Changes App Tracking Rules in Europe",
-      "summary": "The move could help Meta and other advertisers.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:14:38Z"
-    },
-    {
-      "id": "dd02ac74-1803-33b3-9235-19a143f0a844",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla to launch Cybercab in Austin this month - report",
-      "summary": "Investing.com -- Tesla Inc. has informed staff it is preparing for a public launch of the Cybercab, its first vehicle built without a steering wheel or brake pedal, in Austin, Texas, as soon as this month, The Information reported on Monday.",
-      "source": "Investing.com",
-      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-launch-cybercab-austin-month-201352516.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:13:52Z"
-    },
-    {
-      "id": "badd95c3-60f3-3400-b02b-19b6385bb030",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now",
-      "summary": "Collaborating with tech giants like Nvidia, AMD and Apple, Teradyne stock etches a new buy point as these clues bode well.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/teradyne-stock-eyes-breakout-semiconductor-partners-nvidia-taiwan-semi-apple-tech-markets/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FpBjHlxJ5jNg5HRkeyI5jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
-      "published_at": "2026-08-17T20:07:13Z"
-    },
-    {
-      "id": "39bcf7b6-6f3a-3fec-beef-45673cbe3d5b",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
-      "summary": "A series filings disclose the massive stakes tech giants Nvidia and Alphabet and mega investors Peter Thiel have in SpaceX.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A0RSFsuTuE4Dd7n.Mpg.JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f.jpg",
-      "published_at": "2026-08-17T20:04:09Z"
     }
   ]
 }
