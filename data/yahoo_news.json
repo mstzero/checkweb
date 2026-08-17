@@ -1,62 +1,205 @@
 {
-  "last_updated": "2026-08-17 19:50 UTC",
+  "last_updated": "2026-08-17 20:21 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "3a772f82-6405-3752-b0d4-0ece1c2f19da",
+      "id": "20bf077e-a8b3-3062-8473-81df740dc128",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Changes App Tracking Rules in Europe",
+      "summary": "The move could help Meta and other advertisers.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T20:14:38Z"
+    },
+    {
+      "id": "dd02ac74-1803-33b3-9235-19a143f0a844",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla to launch Cybercab in Austin this month - report",
+      "summary": "Investing.com -- Tesla Inc. has informed staff it is preparing for a public launch of the Cybercab, its first vehicle built without a steering wheel or brake pedal, in Austin, Texas, as soon as this month, The Information reported on Monday.",
+      "source": "Investing.com",
+      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-launch-cybercab-austin-month-201352516.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T20:13:52Z"
+    },
+    {
+      "id": "907332b2-04e1-3ec4-b87d-11d402dcc169",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "If You Invest $100 a Month in SCHD, Here's the Passive Income It Could Deliver in 20 Years",
-      "summary": "This top dividend ETF is still a reliable long-term income investment.",
+      "title": "Groq Gets Brutal Valuation Reset After Nvidia Deal",
+      "summary": "The AI startup is emerging from a dramatic transformation",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/groq-gets-brutal-valuation-reset-201134337.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T20:11:34Z"
+    },
+    {
+      "id": "67a388ae-72d5-3cb7-8c78-c7d242bb387b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A $1.5 Billion Reason Why Nvidia Stock In Focus",
+      "summary": "Nvidia will provide the AI computing infrastructure for OpenAI's Ohio campus while investing $1.5 billion in SB Energy.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/1-5-billion-reason-why-201015267.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T20:10:15Z"
+    },
+    {
+      "id": "17358015-3ad5-35f1-8b3b-80ec62cd3149",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
+      "summary": "(Removes first bullet point which contained old information) By Sinéad Carew and Avinash P Aug 17 (Reuters) - Wall Street's three major indexes fell on Monday as investors waited for quarterly reports",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-mixed-middle-east-160028177.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IfENv8avHtBN9cXSQqYTmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/ba56d8e8a63c5287bc8e8ebc7e4ceb06.jpg",
+      "published_at": "2026-08-17T20:08:37Z"
+    },
+    {
+      "id": "0bd0635c-a0f1-309b-a83a-59688884b8a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Intuitive Machines Stock Popped Today",
+      "summary": "Intuitive Machines has a new customer -- but NASA is probably still its favorite.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/if-you-invest-100-a-month-in-schd-heres-the-passiv/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KC9cm1.a.CVByZSLJE1djw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e6ff2b77c3505c7d4d25a127e80f3b27.jpg",
-      "published_at": "2026-08-17T19:35:33Z"
+      "url": "https://www.fool.com/investing/2026/08/17/why-intuitive-machines-stock-popped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YPNL60N57sxuLR8O9fNljg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/95510d4b8e4b1dac6684bf10528a1663.png",
+      "published_at": "2026-08-17T20:07:22Z"
     },
     {
-      "id": "b36e808c-bee9-3e0b-94bb-38868171a8ee",
+      "id": "badd95c3-60f3-3400-b02b-19b6385bb030",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Meta Platforms Drops 4%, Pinterest Falls 4% as Social Media Legal Risk Resurfaces",
-      "summary": "A child safety trial opening Tuesday in federal court is hammering Meta Platforms stock and pulling Pinterest and Snap down with it, even though neither faces the bench, as potential damages the company itself has flagged approach its entire market cap.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/meta-platforms-drops-4-pinterest-falls-4-as-social-media-legal-risk-resurfaces/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2RjRI0NghfNMf6OxfH66rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92.jpg",
-      "published_at": "2026-08-17T19:30:04Z"
-    },
-    {
-      "id": "43ffb8aa-8fa0-32a6-996e-b32ebee22d35",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why L3Harris Stock Is Falling Today",
-      "summary": "Investors hate uncertainty, and there's a whiff of it around this defense stock today.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/why-l3harris-stock-is-falling-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/69rUv0hmg16BSy4s6AFO4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f2a7f2160fb26a0d30d25c580b1dc8f5.jpg",
-      "published_at": "2026-08-17T19:25:43Z"
-    },
-    {
-      "id": "cd7217b5-d3da-364e-93aa-992f30c3cbc4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth",
-      "summary": "Three out of the five top stocks should more than double annual earnings. Nvidia is seen nearly doubling earnings this year.",
+      "title": "Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now",
+      "summary": "Collaborating with tech giants like Nvidia, AMD and Apple, Teradyne stock etches a new buy point as these clues bode well.",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/nvidia-stock-asml-avnet-cve-nue-buy-points-bulls-take-charge/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rRfjs7FezNovZpXCO7tCHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6ed93cc55e5d093dc817fdc2831992c3.jpg",
-      "published_at": "2026-08-17T19:20:46Z"
+      "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/teradyne-stock-eyes-breakout-semiconductor-partners-nvidia-taiwan-semi-apple-tech-markets/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FpBjHlxJ5jNg5HRkeyI5jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
+      "published_at": "2026-08-17T20:07:13Z"
     },
     {
-      "id": "4bd6003d-1eae-3c59-9c6e-cb09983062c8",
+      "id": "bbaad033-6fc9-33be-b45e-11ff9d73add6",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
-      "summary": "Ray Dalio warns that the current exuberance propelling the stock market is unsustainable.",
+      "title": "Cathie Wood Pours $27 Million Into Major AI Stock",
+      "summary": "Wood's latest trades reveal where conviction is building",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T20:05:18Z"
+    },
+    {
+      "id": "39bcf7b6-6f3a-3fec-beef-45673cbe3d5b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
+      "summary": "A series filings disclose the massive stakes tech giants Nvidia and Alphabet and mega investors Peter Thiel have in SpaceX.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A0RSFsuTuE4Dd7n.Mpg.JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2e6d2c6f0584a931028b00b36f4f162f.jpg",
+      "published_at": "2026-08-17T20:04:09Z"
+    },
+    {
+      "id": "41b06f10-c8f7-3df2-ac50-09b5d36b0b62",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Last Memory Boom Ended With Micron Losing $5.8 Billion in a Single Year",
+      "summary": "The memory maker is earning more in a quarter than it once did in its best full years. Its own income statement shows what has happened after every peak like this.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/billionaire-ray-dalio-says-todays-ai-market-echoes/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZSHx1oGDZui_AdZRcVMzKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/267757bb2a2ea0874379a8e985c72a95.jpg",
-      "published_at": "2026-08-17T19:20:00Z"
+      "url": "https://www.fool.com/investing/2026/08/17/the-last-memory-boom-ended-with-micron-losing-58-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SAlhiGq7MpvOiSLHnKtJ4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52cc1a49c4a4603e20da4445fed772b2.jpg",
+      "published_at": "2026-08-17T20:04:00Z"
+    },
+    {
+      "id": "eeac96e9-2c40-4cd4-b7bd-1ddc31c7f7f0",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund",
+      "summary": "Spot Bitcoin and Ethereum ETFs make crypto investing easy, but how do they compare to owning the coin directly? Learn the pros, cons, and key differences.",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/spot-bitcoin-etfs-200144120.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y8OJsE4lo4hAIOraygYmcw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2024-09/af5f1f90-8458-11ef-bf39-d593aac269c4",
+      "published_at": "2026-08-17T20:01:44Z"
+    },
+    {
+      "id": "f6bdc21f-594e-3c6c-9642-ce4d0f878999",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet $900M SpaceX Bet Surges 100-Fold Since 2015",
+      "summary": "Alphabet's SpaceX Gamble Pays Off Big as Stake Hits $94B After IPO",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-900m-spacex-bet-surges-195904529.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T19:59:04Z"
+    },
+    {
+      "id": "b746abe8-598f-3456-99bf-db997fabb64c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Update: US Equity Indexes Decline, Crude Oil Jumps After Trump Threatens to Bomb Oman",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/articles/us-equity-indexes-decline-crude-195613628.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T19:56:13Z"
+    },
+    {
+      "id": "17aa67f8-20a7-3595-ab08-e6261f575aa4",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "summary": "Financial stocks fell in late Monday afternoon trading with the NYSE Financial Index dropping 0.8% a",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195353964.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T19:53:53Z"
+    },
+    {
+      "id": "cb2977b0-ae0c-3c8b-ab9d-dd149e0eceac",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "summary": "Energy stocks were higher late Monday afternoon, with the NYSE Energy Sector Index rising 1.1% and t",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195324148.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T19:53:24Z"
+    },
+    {
+      "id": "679bc745-9ca6-36c5-b4f3-70b207e01940",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Breaks Out of the $63,000 Zombie Zone, But Will It Hold?",
+      "summary": "Bitcoin broke above $63K as Fed hike expectations fell, but weak spot demand and momentum signals raise doubts over whether the rally can hold.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-price-breaks-63k-rally-hold/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UDDCvoFMZTFUEwCid6yWOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1806c0da2a5a78790467470de854956a.jpg",
+      "published_at": "2026-08-17T19:51:56Z"
+    },
+    {
+      "id": "847540f4-c060-3d4d-a346-fa9a6a338920",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Why Microsoft Stock Dropped Today",
+      "summary": "Morgan Stanley sounds the alarm on hyperscaler creditworthiness. Should Microsoft investors be worried?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/why-microsoft-stock-dropped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2QSeDcckIwmEIndBsueH_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9237a211924bd58c1d17a27f469cb4c5.jpg",
+      "published_at": "2026-08-17T19:48:52Z"
+    },
+    {
+      "id": "e5e49776-ce78-3f18-bae0-ea4d0dc733ba",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Warren Buffett Is Still Making Big Bets at Berkshire",
+      "summary": "Berkshire Hathaway’s second-quarter portfolio moves show Warren Buffett remains a major force behind its investments even as Greg Abel settles in as CEO.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/berkshire-hathaway-buffett-stock-portfolio-alphabet-3c26151d?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ylPVg416cBvWRLO_xiqy5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/6fd52c780f96c5fca7a0d7e7b5fa31db.jpg",
+      "published_at": "2026-08-17T19:24:00Z"
     },
     {
       "id": "e548ed5e-0b47-3c54-8b7e-c2bf0f571aef",
@@ -70,17 +213,6 @@
       "published_at": "2026-08-17T19:19:21Z"
     },
     {
-      "id": "de027953-99e6-3d09-81f5-0d22fbfa7730",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "DigitalOcean Climbs 5% on Managed AI Agents Launch, Fastly Falls 4%",
-      "summary": "DigitalOcean is surging while the rest of cloud infrastructure slides lower, and the catalyst is a product launch built entirely on software the company did not write. Whether that distinction matters to investors depends on a question the press release does not answer.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/digitalocean-climbs-5-on-managed-ai-agents-launch-fastly-falls-4/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ag1RmBWssz.pHJDe3VDgjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/375afa8102af3ef20bad4be991a9b92b.jpg",
-      "published_at": "2026-08-17T19:19:10Z"
-    },
-    {
       "id": "c799ab0a-9b95-3ce6-81c5-d75867f388c1",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -92,20 +224,9 @@
       "published_at": "2026-08-17T19:14:00Z"
     },
     {
-      "id": "38cca3e6-5d4b-3b82-aec7-20e0173c0a5b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Trade Desk Falls 6%, AppLovin Slips as Demand-Side Ad Tech Keeps Breaking",
-      "summary": "Something is splitting the ad tech world in two this year, with buy-side platforms bleeding out while sell-side names surge, and The Trade Desk keeps falling even on days when nothing specific happens to it.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/the-trade-desk-falls-6-applovin-slips-as-demand-side-ad-tech-keeps-breaking/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UAPCM90GvvLyL_ouTimuIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8ba6f45e692019c1a567afd22d58f5cb.jpg",
-      "published_at": "2026-08-17T19:12:33Z"
-    },
-    {
       "id": "f906d4b2-e97b-3815-aa32-9a205d066061",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Here’s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
       "summary": "The S&P 500 has delivered roughly 13% annualized returns over the past decade, one of the strongest bull runs in modern history. Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B), long the gold standard for patient capital, has matched that pace with about 13% annually over the same stretch. Impressive numbers for most investors. Yet both look like amateur hour next to the woman still serving out her final term in Congress: Nancy Pelosi.",
       "source": "24/7 Wall St.",
@@ -123,6 +244,17 @@
       "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-discovers-oil-gas-190928592.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sPiPXel4_8LsQNU8pUBAeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e629b5955390014615f0bd890cb3e1dc.jpg",
       "published_at": "2026-08-17T19:09:28Z"
+    },
+    {
+      "id": "f1a24dec-5f59-3508-a0b2-e93c621660f6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Futures Rise as Hormuz Shipping Remains Constrained",
+      "summary": "Oil futures settled higher as the U.S. and Iran vied for control over the Strait of Hormuz and President Trump said he’s in no hurry to resolve the conflict.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-may-be-buoyed-amid-deadlock-in-u-s-iran-talks-384320a7?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DJMqVquhN8CkpprEEkqX3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/223952f633b535af7968ca254a0c9108.jpg",
+      "published_at": "2026-08-17T19:07:00Z"
     },
     {
       "id": "6a727046-5824-4eff-9dd8-172ba7aed050",
@@ -147,15 +279,15 @@
       "published_at": "2026-08-17T19:02:01Z"
     },
     {
-      "id": "17358015-3ad5-35f1-8b3b-80ec62cd3149",
+      "id": "1eea0c67-5f22-3884-bcc6-511582f7541a",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Wall Street indexes slip with Iran, retail results in focus",
-      "summary": "By Sinéad Carew and Avinash P Aug 17 (Reuters) - The S&P 500 fell on Monday as investors waited for quarterly reports from large retailers to give information about the health of the U.S. consumer,",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-mixed-middle-east-160028177.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xTJPhTalisR04xwGMJ1MiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/cbace7e4d7f966ca478988c8c0ca407c.jpg",
-      "published_at": "2026-08-17T18:58:28Z"
+      "title": "Dow Falls 300 Points. Energy and Chips Are the Only Winners.",
+      "summary": "Stock market selling accelerated after a spike in oil prices. The Dow Jones Industrial Average fell 300 points, or 0.6%. The S&P 500 dropped 0.4%. The Nasdaq Composite, which was up earlier in the afternoon, was down 0.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/dow-falls-300-points-energy-and-chips-are-the-only-winners--cym7IZfObauui3mneTzO?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-17T18:58:33Z"
     },
     {
       "id": "7654dd66-1194-303a-af9a-35b802d06b78",
@@ -178,138 +310,6 @@
       "url": "https://www.thestreet.com/crypto/markets/billionaire-hedge-fund-manager-makes-surprising-bitcoin-move",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KmzsoVFxyoVFkRXOrMY_1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8af3001a1225fde37c153add235abf6e.jpg",
       "published_at": "2026-08-17T18:50:00Z"
-    },
-    {
-      "id": "3e96e6c1-ded4-3c65-b1f7-5b09baa39548",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Peter Schiff Links 1971 Gold Decision to Today’s Dollar Crisis: Will XAU Hit $5,000?",
-      "summary": "Peter Schiff says Nixon's 1971 gold decision built today's dollar crisis. The data backs half his case. What to know.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/peter-schiff-1971-gold-dollar-crisis/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/73fP5LAAERbx8xt78OTbVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e57780964a09789e56b4f57ad2e0f8b4.png",
-      "published_at": "2026-08-17T18:43:05Z"
-    },
-    {
-      "id": "b576be14-71f4-3f04-b592-2ab8fea98862",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Makes Major AI Strategy Shift in China, Develops Own LLM With Alibaba’s Support in Bid to Counter Huawei: Report",
-      "summary": "Apple Inc. has reportedly partnered with Alibaba Group Holding Ltd. to create an AI model specifically designed for the Chinese market. The AI model will fuel Apple’s AI toolkit, Apple Intelligence, which is slated to debut in China in the...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-strategy-183019538.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CbssLu_zAEeoxnoDrWL0TA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/009806f25bbbc96148a9acf25c55abf8.jpg",
-      "published_at": "2026-08-17T18:30:19Z"
-    },
-    {
-      "id": "0a554f1b-b6c4-3694-914c-0ae54afdf3c3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "How IREN Is Cashing In on the AI Data Center Boom",
-      "summary": "This Bitcoin miner became one of the market's highest-growth neocloud companies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/how-hot-ticker-is-cashing-in-on-the-data-center-bo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6fGQxp_hWVTs_4uTqBB57A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9c34977cbe7cbd757ee436266f55a2f9.jpg",
-      "published_at": "2026-08-17T18:30:00Z"
-    },
-    {
-      "id": "815a03fa-ea6d-3e18-ad44-0658747a2553",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-      "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cqQjEPvPnmsAgPnQM0izpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/469460533c171b05b3e86210c10c3226.jpg",
-      "published_at": "2026-08-17T18:29:56Z"
-    },
-    {
-      "id": "e0894659-bc3c-3667-ada3-cb45c866ac35",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Stellantis Recalls Almost 1 Million Cars; Stock Falls To All-Time Low",
-      "summary": "Stellantis stock tumbled to a new low on Monday after it announced a recall of almost 1 million vehicles worldwide.  The recall is a software issue in the radio systems of Jeep, Dodge and Chrysler brand cars.  The glitch interferes with their rear view cameras, the company said, but will be fixed via an over-the-air software update.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/stellantis-recall-dodge-jeep-chrysler-ford-general-motors/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e7MwjSnbbID78L67dk7cIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9830f2194f763a1aff61c2b2436bd9fa.jpg",
-      "published_at": "2026-08-17T18:23:40Z"
-    },
-    {
-      "id": "5e52f5f9-e32d-3639-b4cb-3ea7ca2b587a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy Sinks 39% in 2026, Trailing the Bitcoin ETF It Was Built to Beat",
-      "summary": "Strategy built its entire identity around outperforming Bitcoin, but something unexpected is happening to that promise in 2026, and the gap between the company's pitch and its performance is raising uncomfortable questions for anyone holding shares.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/strategy-sinks-39-in-2026-trailing-the-bitcoin-etf-it-was-built-to-beat/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7QPBWb.TlQxRZ45wKzfZ7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/725cbb7cc81d0b5ff4b7ddbdea5b52bb.jpg",
-      "published_at": "2026-08-17T18:23:26Z"
-    },
-    {
-      "id": "9d3e913f-82c1-34f2-a3a4-775d458f1d8a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "How Shipping Chokepoints Like Hormuz Could Strangle Economies Worldwide",
-      "summary": "In the years to come, other crucial waterways besides the Strait of Hormuz could similarly become household names and sway economic fates.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/how-shipping-chokepoints-like-hormuz-could-strangle-economies-worldwide-12059382",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IR5BHXPX8NPm.w76EaKazg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/31a21823530906f2ff689f6127d9ece6.jpg",
-      "published_at": "2026-08-17T18:23:20Z"
-    },
-    {
-      "id": "e79f71f9-d1d5-33eb-9895-52630536c6bb",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Rivian Drops 25% This Year With $164M of Credits Vanishing in the Second Half",
-      "summary": "Rivian raised its delivery outlook and posted improving margins, yet a quiet detail buried in the CFO's remarks on the last earnings call could make the second half look far worse than the headline numbers suggest.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/rivian-drops-25-this-year-with-164m-of-credits-vanishing-in-the-second-half/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vdvu01MldDtDp020io6aWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5a3d42e230f11287cc6155e49ac6480a.jpg",
-      "published_at": "2026-08-17T18:14:33Z"
-    },
-    {
-      "id": "495d937f-087e-327d-a4b7-d69abcc2be91",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Bad News For Apple Stock Fans",
-      "summary": "Trump Administration Warns Apple Over Chinese Memory Chips as Supply Crunch Deepens",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bad-news-apple-stock-fans-181009001.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T18:10:09Z"
-    },
-    {
-      "id": "85b79f1c-cc4e-4fac-a56e-98b02e9594b5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Strategic Petroleum Reserve hasn't been this low since Reagan was filling it in 1982. Critics wonder: How low is too low?",
-      "summary": "Withdrawals from the US government's Strategic Petroleum Reserve continued apace last week, with the energy backstop dropping by 5.3 million barrels of crude oil to the lowest levels since 1982.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/article/the-strategic-petroleum-reserve-hasnt-been-this-low-since-reagan-was-filling-it-in-1982-critics-wonder-how-low-is-too-low-180740733.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RgOKB4WzNW8PFSZ2pk3yyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-10/b8875ec0-4ff3-11ed-bfdd-b62913100c1f",
-      "published_at": "2026-08-17T18:07:40Z"
-    },
-    {
-      "id": "0d7e69c0-b951-3b17-91f2-0818a03b7e5f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: Equity Markets Fall Intraday, Oil Rises Amid Middle East Tensions",
-      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were lower int",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-fall-intraday-oil-180131943.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fb0LtwKui2R9tggqdGl7Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
-      "published_at": "2026-08-17T18:01:31Z"
-    },
-    {
-      "id": "badd95c3-60f3-3400-b02b-19b6385bb030",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Four Reasons To Put This Nvidia, AMD Partner On Your Watchlist Right Now",
-      "summary": "Collaborating with tech giants like Nvidia, AMD and Apple, Teradyne stock etches a new buy point as these clues bode well.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/teradyne-stock-eyes-breakout-semiconductor-partners-nvidia-taiwan-semi-apple-tech-markets/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FpBjHlxJ5jNg5HRkeyI5jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
-      "published_at": "2026-08-17T18:00:28Z"
     }
   ]
 }
