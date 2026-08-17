@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-08-17 19:24 UTC",
+  "last_updated": "2026-08-17 19:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3a772f82-6405-3752-b0d4-0ece1c2f19da",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You Invest $100 a Month in SCHD, Here's the Passive Income It Could Deliver in 20 Years",
+      "summary": "This top dividend ETF is still a reliable long-term income investment.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/if-you-invest-100-a-month-in-schd-heres-the-passiv/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KC9cm1.a.CVByZSLJE1djw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e6ff2b77c3505c7d4d25a127e80f3b27.jpg",
+      "published_at": "2026-08-17T19:35:33Z"
+    },
+    {
+      "id": "b36e808c-bee9-3e0b-94bb-38868171a8ee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meta Platforms Drops 4%, Pinterest Falls 4% as Social Media Legal Risk Resurfaces",
+      "summary": "A child safety trial opening Tuesday in federal court is hammering Meta Platforms stock and pulling Pinterest and Snap down with it, even though neither faces the bench, as potential damages the company itself has flagged approach its entire market cap.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/meta-platforms-drops-4-pinterest-falls-4-as-social-media-legal-risk-resurfaces/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2RjRI0NghfNMf6OxfH66rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/10593b666236fbeee6605d63dcb27c92.jpg",
+      "published_at": "2026-08-17T19:30:04Z"
+    },
+    {
+      "id": "43ffb8aa-8fa0-32a6-996e-b32ebee22d35",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why L3Harris Stock Is Falling Today",
+      "summary": "Investors hate uncertainty, and there's a whiff of it around this defense stock today.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/why-l3harris-stock-is-falling-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/69rUv0hmg16BSy4s6AFO4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f2a7f2160fb26a0d30d25c580b1dc8f5.jpg",
+      "published_at": "2026-08-17T19:25:43Z"
+    },
+    {
+      "id": "cd7217b5-d3da-364e-93aa-992f30c3cbc4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth",
+      "summary": "Three out of the five top stocks should more than double annual earnings. Nvidia is seen nearly doubling earnings this year.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/nvidia-stock-asml-avnet-cve-nue-buy-points-bulls-take-charge/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rRfjs7FezNovZpXCO7tCHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6ed93cc55e5d093dc817fdc2831992c3.jpg",
+      "published_at": "2026-08-17T19:20:46Z"
+    },
+    {
+      "id": "4bd6003d-1eae-3c59-9c6e-cb09983062c8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
+      "summary": "Ray Dalio warns that the current exuberance propelling the stock market is unsustainable.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/billionaire-ray-dalio-says-todays-ai-market-echoes/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZSHx1oGDZui_AdZRcVMzKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/267757bb2a2ea0874379a8e985c72a95.jpg",
+      "published_at": "2026-08-17T19:20:00Z"
+    },
+    {
+      "id": "e548ed5e-0b47-3c54-8b7e-c2bf0f571aef",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Top Tesla investor says gold beats Bitcoin but he isn't selling like Saylor",
+      "summary": "Ross Gerber is asking questions about Bitcoin that most holders would rather not answer right now, and doing it while making clear he isn't heading for the exit himself. The Gerber Kawasaki CEO and wealth manager posted on X questioning Bitcoin's practical utility in a world where its use cases ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/top-tesla-investor-says-gold-beats-bitcoin-but-he-isnt-selling-like-saylor",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m6_ExPJp1FVoZJxLSsDnuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/29e5bb09c60e77e57aaba7e880758f98.jpg",
+      "published_at": "2026-08-17T19:19:21Z"
+    },
+    {
+      "id": "de027953-99e6-3d09-81f5-0d22fbfa7730",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "DigitalOcean Climbs 5% on Managed AI Agents Launch, Fastly Falls 4%",
+      "summary": "DigitalOcean is surging while the rest of cloud infrastructure slides lower, and the catalyst is a product launch built entirely on software the company did not write. Whether that distinction matters to investors depends on a question the press release does not answer.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/digitalocean-climbs-5-on-managed-ai-agents-launch-fastly-falls-4/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ag1RmBWssz.pHJDe3VDgjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/375afa8102af3ef20bad4be991a9b92b.jpg",
+      "published_at": "2026-08-17T19:19:10Z"
+    },
+    {
+      "id": "c799ab0a-9b95-3ce6-81c5-d75867f388c1",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitmine Purchases Nearly 10,000 Ethereum",
+      "summary": "Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/bitmine-purchases-nearly-10000-ethereum-6449",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K7MnIvFhgI4hJsgtRZRtHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/f34cc26bcce388b1fde474eda15f2f8f.jpg",
+      "published_at": "2026-08-17T19:14:00Z"
+    },
     {
       "id": "38cca3e6-5d4b-3b82-aec7-20e0173c0a5b",
       "asset": "NVDA",
       "asset_name": "Nvidia",
       "title": "The Trade Desk Falls 6%, AppLovin Slips as Demand-Side Ad Tech Keeps Breaking",
-      "summary": "Shares of The Trade Desk (NASDAQ:TTD) are falling again on Monday afternoon, extending what has already been one of the worst runs in large-cap software this year. TTD stock is down 6% to $13.33, with the decline arriving on a session where no company-specific news, guidance change, or analyst action has been disclosed. The move ... The Trade Desk Falls 6%, AppLovin Slips as Demand-Side Ad Tech Keeps Breaking",
+      "summary": "Something is splitting the ad tech world in two this year, with buy-side platforms bleeding out while sell-side names surge, and The Trade Desk keeps falling even on days when nothing specific happens to it.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/17/the-trade-desk-falls-6-applovin-slips-as-demand-side-ad-tech-keeps-breaking/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UAPCM90GvvLyL_ouTimuIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8ba6f45e692019c1a567afd22d58f5cb.jpg",
@@ -26,26 +114,15 @@
       "published_at": "2026-08-17T19:12:28Z"
     },
     {
-      "id": "0358238e-a69f-357e-92ee-a8abf723bb19",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What's Wrong With AppLovin Stock?",
-      "summary": "AppLovin shares are down more than 50% this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/whats-wrong-with-applovin-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YhkNuMDaFvNTB1shx8TXeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b2c4f608d13783cd80e10f82b21e9cba.jpg",
-      "published_at": "2026-08-17T19:09:39Z"
-    },
-    {
-      "id": "3406fd24-3dfd-3655-a2f4-20abbe88c13e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Meta Platforms Stock Is Falling Today",
-      "summary": "Could this be big tech's \"big tobacco\" moment?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/why-meta-stock-is-falling-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UBqvgaLQjVV.dJDDb.YIBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2e260917a7482132676c0035a1d9cabb.jpg",
-      "published_at": "2026-08-17T19:08:57Z"
+      "id": "610a9035-60cf-3ec4-8d91-e7117f672e98",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Chevron (CVX) Discovers New Oil And Gas Condensate In Angola Block 0",
+      "summary": "Chevron (NYSE:CVX) reports a new oil and gas condensate discovery at the 105-4X well in Angola's Block 0 as part of its Sub-Saharan Africa exploration program. The find marks a fresh addition to Chevron's resource base in a region the company has identified as important for long term production sustainability. The Block 0 discovery supports Chevron's broader goal of maintaining its operational footprint in Sub-Saharan Africa through continued exploration activity. This discovery is one...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-discovers-oil-gas-190928592.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sPiPXel4_8LsQNU8pUBAeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e629b5955390014615f0bd890cb3e1dc.jpg",
+      "published_at": "2026-08-17T19:09:28Z"
     },
     {
       "id": "6a727046-5824-4eff-9dd8-172ba7aed050",
@@ -70,17 +147,6 @@
       "published_at": "2026-08-17T19:02:01Z"
     },
     {
-      "id": "6b3f7038-5547-37b4-8d68-47dd95d83f08",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Top Investors See Value in AMZN: “Amazon Has Built One of the Largest Chip Businesses in the World and Barely Anyone Has Noticed”",
-      "summary": "Amazon has quietly built a chip business that top investors say rivals the biggest names in semiconductors, yet the stock has barely moved while peers soar. What they found inside AWS could change how you think about the AI trade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/top-investors-see-value-in-amzn-amazon-has-built-one-of-the-largest-chip-businesses-in-the-world-and-barely-anyone-has-noticed/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UhF5RjG94EYFBwSWvTqvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
-      "published_at": "2026-08-17T19:00:28Z"
-    },
-    {
       "id": "17358015-3ad5-35f1-8b3b-80ec62cd3149",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -90,17 +156,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-mixed-middle-east-160028177.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xTJPhTalisR04xwGMJ1MiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/cbace7e4d7f966ca478988c8c0ca407c.jpg",
       "published_at": "2026-08-17T18:58:28Z"
-    },
-    {
-      "id": "e196a4d2-cabe-3bb7-af4f-d538d65d8396",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why The Trade Desk Stock Plunged to (Another) 7-Year Low Today",
-      "summary": "Wall Street is increasingly bearish on the adtech specialist.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/why-the-trade-desk-stock-plunged-to-another-7-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yydI6fpMiq17BVqAsI_tHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2215faa880d3d03fbf4726ecc2792ec2.png",
-      "published_at": "2026-08-17T18:55:11Z"
     },
     {
       "id": "7654dd66-1194-303a-af9a-35b802d06b78",
@@ -136,15 +191,15 @@
       "published_at": "2026-08-17T18:43:05Z"
     },
     {
-      "id": "9ef4352c-5a76-38df-ab15-0d320250d542",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Is Spending Big on AI. The Biggest Winner From That Could Be Nvidia",
-      "summary": "The space company is going to exclusively rely on Nvidia's artificial intelligence chips for its tech infrastructure.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/spacex-is-spending-big-on-ai-the-biggest-winner-fr/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3_8B3Q6pjFBJxXT_rgl3Yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5ee805644773c758bfe23b748361d664.jpg",
-      "published_at": "2026-08-17T18:41:23Z"
+      "id": "b576be14-71f4-3f04-b592-2ab8fea98862",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Makes Major AI Strategy Shift in China, Develops Own LLM With Alibaba’s Support in Bid to Counter Huawei: Report",
+      "summary": "Apple Inc. has reportedly partnered with Alibaba Group Holding Ltd. to create an AI model specifically designed for the Chinese market. The AI model will fuel Apple’s AI toolkit, Apple Intelligence, which is slated to debut in China in the...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-strategy-183019538.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CbssLu_zAEeoxnoDrWL0TA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/009806f25bbbc96148a9acf25c55abf8.jpg",
+      "published_at": "2026-08-17T18:30:19Z"
     },
     {
       "id": "0a554f1b-b6c4-3694-914c-0ae54afdf3c3",
@@ -189,6 +244,17 @@
       "url": "https://247wallst.com/investing/2026/08/17/strategy-sinks-39-in-2026-trailing-the-bitcoin-etf-it-was-built-to-beat/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7QPBWb.TlQxRZ45wKzfZ7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/725cbb7cc81d0b5ff4b7ddbdea5b52bb.jpg",
       "published_at": "2026-08-17T18:23:26Z"
+    },
+    {
+      "id": "9d3e913f-82c1-34f2-a3a4-775d458f1d8a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "How Shipping Chokepoints Like Hormuz Could Strangle Economies Worldwide",
+      "summary": "In the years to come, other crucial waterways besides the Strait of Hormuz could similarly become household names and sway economic fates.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/how-shipping-chokepoints-like-hormuz-could-strangle-economies-worldwide-12059382",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IR5BHXPX8NPm.w76EaKazg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/31a21823530906f2ff689f6127d9ece6.jpg",
+      "published_at": "2026-08-17T18:23:20Z"
     },
     {
       "id": "e79f71f9-d1d5-33eb-9895-52630536c6bb",
@@ -244,72 +310,6 @@
       "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/teradyne-stock-eyes-breakout-semiconductor-partners-nvidia-taiwan-semi-apple-tech-markets/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FpBjHlxJ5jNg5HRkeyI5jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/e007bdf83c41746c6c55a810c8af9744.jpg",
       "published_at": "2026-08-17T18:00:28Z"
-    },
-    {
-      "id": "d7ca5835-9f78-34ca-90f6-48f2b4c7f277",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Wells Fargo Says Okta's AI Upside Will Be Obvious Too Late",
-      "summary": "Identity is now the second-highest spending priority among partners, up from fourth last quarter",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-says-oktas-ai-180023375.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T18:00:23Z"
-    },
-    {
-      "id": "4de7adc3-1e8c-4e14-b50f-47cc2fbd57c6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "HIVE's $350M AI cloud deal: A closer look at bitcoin mining's big AI pivot",
-      "summary": "Bitcoin (BTC-USD) miner HIVE Digital Technologies (HIVE) inked a $350 million AI cloud services agreement with an unnamed enterprise customer. Scott Melker takes a closer look in the video above.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/hives-350m-ai-cloud-deal-180000406.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mUd03oMWghAU86AzlolfgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0509e0a1-888e-49b6-b1ed-8cf01b7fe399_b70607b0fec49dbcb65aa4c62443551a443a07ef29d7a68e16dab3784b9653df.jpg",
-      "published_at": "2026-08-17T18:00:00Z"
-    },
-    {
-      "id": "dcfe9e19-95f6-3668-aead-06f1bfc9e93c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "SECZ down 26%: Why one analyst sees 3X upside",
-      "summary": "On this episode of CoinDesk's Public Keys from the New York Stock Exchange, host Jennifer Sanasie is joined by Citizens' Devin Ryan to break down Securitize's first earnings report, its 26% selloff, and why he sees significant upside as tokenization grows. Pantera Capital General Partner Cosmo Jiang explains why AI and blockchain are converging, Solana's lead in AI agent activity, and the new S&P Pantera Digital Asset Index. Plus, a look at Bitcoin and Ethereum ETF flows and Robinhood's new fund giving retail investors access to early-stage Y Combinator startups. - Learn more at bullish.com. - Register now for CoinDesk's Policy and Regulation event on September 22, 2026: policy-regulation.coindesk.com. - To get market moving news delivered daily, download CoinDesk’s mobile app: linktr.ee/coindeskapp.",
-      "source": "CoinDesk",
-      "url": "http://videos.coindesk.com/previews/fjR9otaG",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bDi6.9u4R1GrKdQ1Jl7How--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c82ff5feb2e57cf15ad0f0238e5852bb.jpg",
-      "published_at": "2026-08-17T17:55:22Z"
-    },
-    {
-      "id": "f1c8b158-adfc-36e4-a063-be2fdc17a615",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Batters Rivian in Self-Driving Test",
-      "summary": "A major TV network put Tesla's FSD head-to-head against Rivian's new Autonomy+ system on real roads, and the gap between them revealed something unsettling about where the entire self-driving industry actually stands.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/tesla-batters-rivian-in-self-driving-test/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dZefqH24.yAJXgAUdf3iOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/24bc032c3fdd40b5b11eb6116883e8a4.jpg",
-      "published_at": "2026-08-17T17:53:02Z"
-    },
-    {
-      "id": "7f639fbc-782a-3d9e-b0ad-73025a4d50fe",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Decline Monday Afternoon",
-      "summary": "Financial stocks were lower in Monday afternoon trading, with the NYSE Financial Index and the State",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-monday-174944766.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T17:49:44Z"
-    },
-    {
-      "id": "2f7c2f6f-4ca0-3918-814b-b5cf2e7b2b25",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Berkshire Hathaway Boosted Its Alphabet Stake 83%—Buffett Said the Investment Was His Idea",
-      "summary": "The Google Parent Is Now Berkshire’s 3rd Biggest Stock Holding",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/berkshire-hathaway-boosted-its-alphabet-stake-83-percent-buffett-said-it-was-his-idea-googl-goog-google-stock-q2-holdings-13f-12061004",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Gs9.7OzZ2aC2wXcZnIizHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/572f55a637e606dde7e64f12f9c61ba3.jpg",
-      "published_at": "2026-08-17T17:46:30Z"
     }
   ]
 }
