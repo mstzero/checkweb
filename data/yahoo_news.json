@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-17 04:36 UTC",
+  "last_updated": "2026-08-17 05:31 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "67c47217-81a6-31ea-948f-30748092ad93",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why This Memory Chip Boom May Have More Staying Power Than History Suggests",
+      "summary": "AI is boosting memory demand while making it harder to expand supply.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/why-this-memory-chip-boom-may-have-more-staying-po/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/slBHMR4JT7iIt.gBmk82mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fde9ee7b76e7c9baadc0f864dc7014bc.jpg",
+      "published_at": "2026-08-17T05:20:00Z"
+    },
+    {
+      "id": "959a7642-85d8-3060-ab1c-32e5f0be14b7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares are mostly higher while US futures and oil prices hold steady",
+      "summary": "U.S. futures were little changed and oil prices were mixed.  Tokyo’s Nikkei 225 index gained 0.3% to 68,929.33 after the Japanese government reported the economy grew slightly faster than forecast in the April-June quarter, expanding at a 1.1% annual pace even as private spending and investment stayed flat and export growth slowed.  In Hong Kong, the Hang Seng picked up 1.6% to 25,521.99, while the Shanghai Composite index rose 0.8% to 3,960.19.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-while-051542671.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BtI2NrqSylhMfBfcTE3hpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/1981a7ae686e4d4a79d464f1516cfc81.jpg",
+      "published_at": "2026-08-17T05:15:42Z"
+    },
     {
       "id": "6495e7f9-2a59-3a91-9c8f-d80df37f4b2b",
       "asset": "OIL",
@@ -13,6 +35,17 @@
       "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-022114059.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0FhK4KW43L8mWh559c2j4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9992e6a5cf25d433b36a8b561b842e3d.jpg",
       "published_at": "2026-08-17T04:14:13Z"
+    },
+    {
+      "id": "e5a1bf5d-a498-3813-bb0e-a77d0e4775ec",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Says Tesla Is ‘Most Made in America’ Car Brand as Trump Tariffs Shake Up Auto Industry",
+      "summary": "Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk has backed the automaker’s domestic manufacturing prowess amid President Donald Trump‘s tariffs on the auto industry. Domestic Assembly, Domestic Parts On Saturday, podcast host Katie Miller took to the social media platform X, sharing a screenshot of a Wall Street Journal article outlining Ford Motor Co. (NYSE:F) and General Motors Co.‘s (NYSE:GM) domestic manufacturing push. “Every Tesla sold in the United States is assembled in the United States,” she sa",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-most-035929356.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OIXWl24Rp0cLdiH.iaU66A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/4c58d4b75686719961b0b471f93b5b5c.jpg",
+      "published_at": "2026-08-17T03:59:29Z"
     },
     {
       "id": "b237b798-d204-33ec-bb0d-52bd5a72299e",
@@ -35,6 +68,17 @@
       "url": "https://sg.finance.yahoo.com/news/indian-central-bank-likely-steps-034059655.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p2EkTJryDCzO._Vyu0YFfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/18daffd830cf144902e1c498f8840f41.jpg",
       "published_at": "2026-08-17T03:40:59Z"
+    },
+    {
+      "id": "171110ad-9e57-32dd-b480-163620eb7a07",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "'The US Is in Trouble' and Bitcoin Will Reap the Benefits, Macro Guru Says—But How?",
+      "summary": "Macro investor Jordi Visser on Wednesday said the U.S.’ yen intervention signals the government is in financial trouble—and Bitcoin is his top bet to capture the money printing that follows. Why Visser Calls Bitcoin The Purest AI Trade? Visser outlined...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/us-trouble-bitcoin-reap-benefits-033115975.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jvgb_tWTDf.uY_m9AEDZHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/e1534065dd19851d47dcbc59f890eb8c.jpg",
+      "published_at": "2026-08-17T03:31:15Z"
     },
     {
       "id": "2874a0c7-f1a9-3c57-a8b5-701ac49b7ae0",
@@ -246,26 +290,15 @@
       "published_at": "2026-08-17T01:15:00Z"
     },
     {
-      "id": "76181c3c-76c8-3528-b6f4-8c6a962b7ecc",
+      "id": "11abf844-c8b5-32b5-8072-f9d70b819728",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "RocketLab’s Neutron Update, On Holdings Earnings, and the eVTOL Rivalry Heats Up",
-      "summary": "Whenever RocketLab reports earnings these days, investors and analysts are far more interested in Neutron rocket updates.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/rocketlabs-neutron-update-on-holdings-earnings-and-the-evtol-rivalry-heats-up/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rI0JsRdYzFqawTNwcgKRsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c11948de9a8937567661a9a5dd216b6f.jpg",
-      "published_at": "2026-08-17T01:06:51Z"
-    },
-    {
-      "id": "95340ac7-971b-3822-b5ea-d1593fef82ae",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
-      "summary": "Despite rapid growth, shares of this AI-fueled software company are cheap.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/16/this-software-stock-just-produced-a-rule-of-40-sco/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tC_yYEsI06o_3VJxWAuncQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44e318a89814fcd087ebb3e27c08b9bc.jpg",
-      "published_at": "2026-08-17T00:50:00Z"
+      "title": "CXMT’s Rise to China’s Most Valuable Firm Heralds New Tech Era",
+      "summary": "CXMT Corp.’s ascent to the pinnacle of Chinese markets heralds a potentially consequential shift away from private-sector giants toward a new generation of hardware companies more closely aligned with Beijing’s strategic ambitions.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/articles/cxmt-rise-china-most-valuable-010738048.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sH66uoNI_zUloiBB0XpBDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/47d1a143f5c7801ae6b6da6ad52aff67.jpg",
+      "published_at": "2026-08-17T01:07:38Z"
     },
     {
       "id": "fe5b1499-100d-337c-bf2b-d5427cdd0349",
@@ -277,39 +310,6 @@
       "url": "https://sg.finance.yahoo.com/news/oil-treads-water-us-iran-003130721.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/It0iP5DT3NwkH6Z4oSS_Pw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2877a0caf499167d976bb452cead2eba.jpg",
       "published_at": "2026-08-17T00:31:30Z"
-    },
-    {
-      "id": "2d82ba26-dc23-3596-8e66-f398d1fb0a7d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "U.S. Shale E&P Stocks Q2 Results: Benchmarking Permian Resources (NYSE:PR)",
-      "summary": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let’s take a look at how Permian Resources (NYSE:PR) and the rest of the u.s. shale e&p stocks fared in Q2.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-shale-e-p-stocks-002900661.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YoeoIZiaAk7yKudNJQ9atA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/b0ea3dc4a3c23291b9661c508145f79a.png",
-      "published_at": "2026-08-17T00:29:00Z"
-    },
-    {
-      "id": "e5c96d90-75bc-3fab-a91d-a525d24a5b6c",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "“That Ain’t Okay:” Dave Ramsey Blasts Couple With $150,000 in Cash and a $60,000 Car Loan",
-      "summary": "A caller with a paid-off house, a six-figure salary, and six figures in savings thought he was doing everything right. Dave Ramsey told him that kind of financial comfort can quietly cost a fortune.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/08/16/that-aint-okay-dave-ramsey-blasts-couple-with-150000-in-cash-and-a-60000-car-loan/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fucMA1D8VjdFbpo_XlN8Ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0ff995049f14f3773fe3514a17579612.jpg",
-      "published_at": "2026-08-16T23:57:15Z"
-    },
-    {
-      "id": "7da3e9e2-f2a4-312c-ac61-efff8ebfe2bb",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Small Cap Watch: D3 Energy, Astral Resources, Surefire and Dalaroo advance company programs",
-      "summary": "The S&P/ASX Small Ordinaries (ASX: XSO) finished Friday at 3,517.10 points, down 24.30 points or 0.69% for the session. Over the past five trading days, the small-cap benchmark has lost 27.00 points, or 0.76%, leaving the index at 3,517.10. Against the softer small-cap market backdrop,...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097077/small-cap-watch-d3-energy-astral-resources-surefire-and-dalaroo-advance-company-programs-1097077.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wOtUaat.pOXXTWjbnoxlNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/b9972a95319be3957055a9dae6c8cbb6.jpg",
-      "published_at": "2026-08-16T23:19:00Z"
     }
   ]
 }
