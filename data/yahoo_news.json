@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-17 11:26 UTC",
+  "last_updated": "2026-08-17 11:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3b44c661-701f-380c-8c6a-5750a8356e5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI Chips Today - Fort Technology Expands Amid Record Revenue and Strategic Acquisitions",
+      "summary": "Recent developments in the AI Chips sector highlight significant growth and strategic expansions. Fort Technology Inc., a subsidiary of Nexera Technologies, reported a record 49% increase in revenue and a 145% rise in gross profit for the first half of 2026. This growth is attributed to a substantial increase in units sold through the Amazon Marketplace and the expansion into new European markets. Additionally, Fort Technology is expanding its focus into data center solutions through the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-fort-technology-113704087.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XH0UPdUadzYtU0WXFiMcgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e.jpg",
+      "published_at": "2026-08-17T11:37:04Z"
+    },
+    {
+      "id": "77404d38-b8db-3aaf-8ee0-2c9ebe1724d8",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Why this Wall Street strategist says the \"trade is long gold\"",
+      "summary": "Investing.com -- Bank of America strategist Michael Hartnett told investors in a note on Monday that gold remains his preferred hedge against a weakening dollar, pointing to the biggest inflows into the metal since January.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/why-wall-street-strategist-says-113012320.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T11:30:12Z"
+    },
+    {
+      "id": "d3ffeffc-6813-38c2-9fb6-262396ec3986",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Update: Apple Changes App Tracking Rules Following German Competition Authority Review",
+      "summary": "(Updates to include additional details in the third paragraph) Apple (AAPL) will modify its App T",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/media-advertising/articles/apple-changes-app-tracking-rules-112818846.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T11:28:18Z"
+    },
+    {
+      "id": "1aa4e79f-e66f-33b2-be99-e81e9ad2ad97",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "I've More Than Tripled My Stake in This Historically Cheap, High-Octane Dividend Stock That's Yielding 13.2%",
+      "summary": "While things aren't picture-perfect for this supercharged dividend stock, its 26% discount to net asset value (NAV) is impossible to ignore.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/tripled-my-stake-in-cheap-dividend-stock-132-yield/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kBuXktnIY9yVD5eHFn6nmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/11ca14f3016acbd214c05d09ab8493ba.jpg",
+      "published_at": "2026-08-17T11:26:00Z"
+    },
+    {
+      "id": "f3790499-e603-304f-b4e8-6a8cbcb85731",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Stock Is Climbing Again and These 6 Catalysts Could Push It Higher",
+      "summary": "Six catalysts are pushing Tesla shares higher after a brutal stretch, but a glaring profitability problem lurking beneath the momentum could stop any rally cold before it starts.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/tesla-stock-is-climbing-again-and-these-6-catalysts-could-push-it-higher/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FDzisuUApmUeR6fNZRC_dA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eb3924ee1dcebe001be936954210853e.jpg",
+      "published_at": "2026-08-17T11:20:45Z"
+    },
     {
       "id": "bcd3bc1a-1960-3b60-8462-0120ec277562",
       "asset": "OIL",
@@ -255,61 +310,6 @@
       "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Fdb_YGKc9P43AIThRouJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/5e07a17450b517f8f14a2ad4f556f049.jpg",
       "published_at": "2026-08-17T10:33:00Z"
-    },
-    {
-      "id": "4fa8e7aa-2d23-330a-aa41-d6088621db92",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-      "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WYGGdRZ_2aqhna5MD9g_RQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/4f4098ff59cb707dd1b135dea69420b3.png",
-      "published_at": "2026-08-17T10:31:04Z"
-    },
-    {
-      "id": "c3cc2b63-8e56-3859-98f4-e3867e9c7f47",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "His Company Joined the S&P 500. His 401(k) Started Buying More of It Without Asking Him.",
-      "summary": "When Reddit joined the S&P 500, index funds started buying shares on behalf of employees who never placed a trade. For workers already holding RSUs, ESPP shares, and a company paycheck, that quiet rebalancing can reveal a concentration problem big enough to reshape when they retire.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/08/17/his-company-joined-the-sp-500-his-401k-started-buying-more-of-it-without-asking-him/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8TfFSKqTz7bYy2yX6u3r1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/aca68e9edbc50408ee49d49784eaefab",
-      "published_at": "2026-08-17T10:30:23Z"
-    },
-    {
-      "id": "92bd4551-460f-32d2-aabd-4d5cbfaeb627",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why the Copper Squeeze May Reward This Mining Stock More Than Nvidia",
-      "summary": "Copper stocks are outrunning the metal as an AI-driven squeeze bites, and one miner leads the pack heading into the next leg.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/copper-stocks-ai-squeeze-mining-winner/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oBPNEQSd6s.wwh_q1eThXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/7dd52e52ca37217c61ae434802cde791.jpg",
-      "published_at": "2026-08-17T10:29:49Z"
-    },
-    {
-      "id": "5fb27962-26ab-321a-af70-2fc04770591e",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Tether Completes First Big Four Audit as KPMG Signs Off on 2025 Financials",
-      "summary": "Tether International, S.A. de C.V. announced on August 13 that KPMG U.S. issued an unqualified opinion on its 2025 financial statements — the first time a Big Four accounting firm has audited the company behind the world’s largest stablecoin. The audit, conducted under AICPA standards and U.S. GAAP, confirmed that as of December 31, 2025, […]",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/tether-completes-first-big-four-102903470.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T10:29:03Z"
-    },
-    {
-      "id": "4791f855-c20c-3f9d-a113-7585114d2b31",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple to change app data consent rules, German regulator says",
-      "summary": "Apple will change rules governing how app developers can use personal ‌data for targeted advertising on iPhones and iPads, ‌Germany's competition authority said on Monday, closing a years-long investigation. The Federal ​Cartel Office found that Apple's App Tracking Transparency framework gave its own apps more favourable consent prompts than those of third-party developers, potentially breaching competition rules. Apple has ‌four months to implement ⁠the changes after the decision is served.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/media-advertising/articles/apple-change-app-data-consent-101905201.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dBLNC0IEFWV8xv8VsJ5Q_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/3e457f13948ec6dc65519b782a686ce0.jpg",
-      "published_at": "2026-08-17T10:19:05Z"
     }
   ]
 }
