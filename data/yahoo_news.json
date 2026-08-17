@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-17 22:48 UTC",
+  "last_updated": "2026-08-17 23:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1c4afe77-6ac0-3ac5-8871-752ecd9fdab4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
+      "summary": "Most of that loss was paper. Still, today's premium price assumes profits that haven't arrived yet.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xy1O8eaN7T3DfklGotcPXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/14ede491aceb7b2cbc951cdb484bb4d4.jpg",
+      "published_at": "2026-08-17T22:56:01Z"
+    },
     {
       "id": "2e274392-8f53-3aac-be8a-c830feee7207",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uqSDzLuRUHrbGDQLHPn8hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/e4ecfaf1b9394aacb8e38ff4450d64ee.jpg",
       "published_at": "2026-08-17T20:55:04Z"
-    },
-    {
-      "id": "363bbe4f-050a-33c1-844f-713671cb08e9",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "summary": "Find insight on JetBlue, MDA Space, Maersk and more in the latest Market Talks covering the auto and transport sector.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EGW2ZGC3xI7SC8T1fjMIGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2a284e983b7f955de7dcde33f43d45cc.jpg",
-      "published_at": "2026-08-17T20:55:00Z"
     }
   ]
 }
