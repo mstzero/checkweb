@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-17 23:18 UTC",
+  "last_updated": "2026-08-17 23:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f065e371-1a69-324b-9f79-881b725316cb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
+      "summary": "Meta is back in court facing 29 states over allegations it designed addictive products for kids -- and the stakes extend far beyond one company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/meta-faces-29-states-in-court-tuesday-the-case-could-be-big-techs-big-tobacco-moment/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0n72d2NEKKvsI158_bmB_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb31741709b2921caba3b42c1cc4b699.jpg",
+      "published_at": "2026-08-17T23:15:01Z"
+    },
+    {
+      "id": "9ff2d590-5a98-3083-b1cb-3b5796968f59",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "5% Treasury Yields Won’t Crush Record-High Stocks. Can Bitcoin Say the Same?",
+      "summary": "Wall Street says 5% Treasury yields won't break stocks, but Bitcoin has fallen 46% as gold surged on the same yields.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/treasury-yields-5-percent-bitcoin-price/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
+      "published_at": "2026-08-17T23:03:53Z"
+    },
     {
       "id": "1c4afe77-6ac0-3ac5-8871-752ecd9fdab4",
       "asset": "NVDA",
@@ -206,9 +228,9 @@
       "asset": "OIL",
       "asset_name": "WTI Crude",
       "title": "30-Year Yield Rises to Highest Level Since 2007 as Oil and Treasury Supply Bite Bonds",
-      "summary": "The Treasury selloff has intensified, driving the  30-Year U.S. Treasury  yield to its highest level in over 19 years.  Generally, higher oil prices will cause shorter-duration yields to rise, in response to market expectations that the Federal Reserve will raise interest rates (or delay cutting them) in order to tackle inflation.  WTI and the 30-year yield have a 10-day correlation coefficient of 0.85 as of Friday—a very close relationship, given that a correlation of one would mean they they have been moving in lockstep.",
+      "summary": "In addition to oil, another bearish driver for bonds could be supply. Investors had to digest $125 billion in medium- and long-term Treasury debt last week.",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/30-year-yield-level-oil-d97d62f8?siteid=yhoof2&yptr=yahoo",
+      "url": "https://www.barrons.com/articles/30-year-treasury-yield-high-d97d62f8?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a.0c2WUFfsdevuAO7RVSZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f4edb8996d38b54059f8cd598500d1b3.jpg",
       "published_at": "2026-08-17T21:04:00Z"
     },
@@ -257,21 +279,10 @@
       "published_at": "2026-08-17T21:00:00Z"
     },
     {
-      "id": "382f7be0-c464-30cb-b28f-ba43f05b461b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia",
-      "summary": "ChatGPT-maker OpenAI will lease a massive new data center in the United States for 20 years, backed by a $105 billion financing commitment from Nvidia, according to a regulatory filing published Monday.Last year, OpenAI, Nvidia and SoftBank – alongside other partners including Oracle – also announced a $500 billion, multiyear data center project called Stargate, in which they've committed to building out 10 GW of capacity across multiple sites.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-lease-massive-ai-data-205913179.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wL80WQhPUox5iU_EG1O6Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/71391ad805d66a477247581776cc2839.jpg",
-      "published_at": "2026-08-17T20:59:13Z"
-    },
-    {
       "id": "91303a01-c30a-32ed-80bc-3608651417c8",
       "asset": "TSLA",
       "asset_name": "Tesla",
-      "title": "SpaceX Matters More for Telsa Stock Than Cybercab These Days",
+      "title": "SpaceX Matters More for Tesla Stock Than Cybercab These Days",
       "summary": "Shares of Tesla are becoming closely linked with shares of SpaceX. One reason is the growing belief on Wall Street the companies will merge.",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/cryptocurrency/2026/08/17/will-bitcoin-drop-below-60k-as-btc-etfs-see-biggest-outflow-in-6-weeks/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LJZ9L5VuqQy8sjclGjxpjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eb8a0ab8da91c974723d941899af96fb.jpg",
       "published_at": "2026-08-17T20:55:55Z"
-    },
-    {
-      "id": "949aba85-78ef-3124-a695-aa5c484ef595",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US stocks fall on spiking bond yields, higher oil prices",
-      "summary": "Wall Street stocks retreated Monday as oil prices advanced on the lack of progress on opening the Strait of Hormuz and a jump in US Treasury yields discouraged equity purchases.While oil prices jumped more than two percent, the yield on the 30-year US Treasury bond climbed to 5.31 percent, its highest level since June 2007.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uqSDzLuRUHrbGDQLHPn8hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/e4ecfaf1b9394aacb8e38ff4450d64ee.jpg",
-      "published_at": "2026-08-17T20:55:04Z"
     }
   ]
 }
