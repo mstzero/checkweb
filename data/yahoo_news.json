@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-17 22:19 UTC",
+  "last_updated": "2026-08-17 22:48 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "2e274392-8f53-3aac-be8a-c830feee7207",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Top Market Strategist Warns Anthropic’s 40-50x Revenue Multiple for IPO Could Be “Dangerous”",
+      "summary": "A top market strategist just called out the biggest risk hiding inside Anthropic's upcoming IPO, and it has nothing to do with the quality of the company or its technology.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/top-market-strategist-warns-anthropics-40-50x-revenue-multiple-for-ipo-could-be-dangerous/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/73sRYiSRgvBvUHLN3vVfUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/92fabb2a2a8204edc81ce6f5d4531e38.jpg",
+      "published_at": "2026-08-17T22:28:31Z"
+    },
+    {
+      "id": "bf01f292-f3ec-338b-9898-586027a1aa77",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "JPMorgan lifts Bitcoin miner's price target after $9.1B Anthropic deal",
+      "summary": "JPMorgan Chase has raised its price target on Riot Platforms (Nasdaq: RIOT), a Bitcoin miner increasingly moving into AI infrastructure, to $22 from $20, while keeping its Overweight rating. The bank said in an Aug. 17 research note that Riot is \"building momentum,\" pointing to a ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/jpmorgan-lifts-bitcoin-miners-price-target-after-9-1b-anthropic-deal",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o.zTk0iYhsR78Dr0kpZgDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c0de944fba0b574a4e4be2314761c15d.jpg",
+      "published_at": "2026-08-17T22:21:09Z"
+    },
+    {
+      "id": "2555c812-079c-30a7-9368-42967cbef146",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Nike Stock Hits 12-Year Low: Riskier Than Bitcoin?",
+      "summary": "Nike stock hit a 12-year low, down 78% since 2021. Bitcoin fell half as far. See what broke the swoosh in this report.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/nike-stock-12-year-low-bitcoin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxNvtDTlokPkydtvMLQuZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/ffcefd61dbbadd84302bc92df22cb68f.png",
+      "published_at": "2026-08-17T22:18:36Z"
+    },
+    {
+      "id": "f1560394-d73e-3f74-b64f-4e79fc36a9cb",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
+      "summary": "<body><p>VIDEO SHOWS: n/a</p><p>STORY: U.S. stocks fell on Monday, with the Dow and S&P 500 each shedding roughly half a percent, and the Nasdaq dropping about a third of a percent.</p><p>:: Home Depot</p><p>With July's weak retail sales and jobs data fresh in their minds, investors were cautious as they waited for quarterly results from retailers. Home Depot is due to report on Tuesday, TJ Maxx's parent company on Wednesday, and retail bellwether Walmart on Thursday.</p><p>Anna Rathbun is founder and CEO of Grenadilla Advisory.</p><p>\"I'll be looking for more of the K-shaped economy narrative for the consumers, especially from companies like Walmart, TJ Maxx, and to a certain degree, Target as well. And what these companies are doing really to help the lower leg of the K-shaped economy, as well as trying to capture market share of people who are trying to stretch the dollar a little bit further coming from the middle class.\"</p><p>Among individual stock moves,&nbsp;Microsoft and Meta Platforms provided the biggest drags on the S&P 500, with both declining more than 3%.</p><p>Chip stocks provided a boost with Micron Technology adding 4% and Applied Materials climbing 5.5%.</p><p>Meanwhile, oil futures settled up more than $2 per barrel as investor pessimism about diplomatic efforts to resolve the Iran war fanned global supply worries. That provided a boost to stocks of energy companies.</p><p>Energy was the sole gainer among the S&P 500's 11 major sectors.</p></body>",
+      "source": "Reuters Videos",
+      "url": "https://finance.yahoo.com/video/wall-street-indexes-slip-oil-221542467.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hKZ4a.j7QGf_L8bNEfzltg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/b95cd8b5-5c48-4f87-a7b2-12604cacd42f/main/1280x720/48s/match/image.jpg",
+      "published_at": "2026-08-17T22:15:42Z"
+    },
     {
       "id": "8aac21ce-5f02-3c6b-a336-14c976f4ae56",
       "asset": "QQQ",
@@ -49,8 +93,8 @@
     },
     {
       "id": "a7037492-737a-33e6-9bfa-60dbe7964b56",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
       "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus",
       "summary": "Brent crude prices settled near $91 a barrel.",
       "source": "Stocktwits",
@@ -266,50 +310,6 @@
       "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EGW2ZGC3xI7SC8T1fjMIGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2a284e983b7f955de7dcde33f43d45cc.jpg",
       "published_at": "2026-08-17T20:55:00Z"
-    },
-    {
-      "id": "e16a2ee6-9fad-362d-ac29-c796aa9fd1b0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today’s Market",
-      "summary": "Coherent is the best-performing stock in the S&P 500 on Monday. Sandisk, Micron, Marvell, and other AI stocks also rise.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/quz2mgyE5RGWDL_qjCOCaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
-      "published_at": "2026-08-17T20:52:00Z"
-    },
-    {
-      "id": "18edd440-095c-3487-9cd5-4d6b714e0414",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Matador Technologies Amends Note Facility to Commit Share of Proceeds to Bitcoin",
-      "summary": "Matador Technologies (MATA.V) said Monday after-trade a second amendment to a $100 million convertib",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/matador-technologies-amends-note-facility-205058948.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T20:50:58Z"
-    },
-    {
-      "id": "18201e98-c8c4-34b5-9b0a-bbbac3f3e495",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold and Silver Prices Are Rising. Here's Which Precious Metal May Have More Upside",
-      "summary": "The gold-silver ratio can provide clues as to which metal may do better in a market downturn.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/gold-and-silver-prices-are-rising-heres-which-prec/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rzDTf0J0MqeE7mkk1l3Myw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/83b3ff93bde96a8f84fd469b80d661f2.jpg",
-      "published_at": "2026-08-17T20:48:22Z"
-    },
-    {
-      "id": "7654dd66-1194-303a-af9a-35b802d06b78",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index drops as memory-chip stocks Micron and Sandisk rally. Trump threatens Oman.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JogoriU1oOfqkY9FuQi.XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/67ad590aa7ed16f6cc4a4bd4cdfcd09f.jpg",
-      "published_at": "2026-08-17T20:41:54Z"
     }
   ]
 }
