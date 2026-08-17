@@ -1,18 +1,172 @@
 {
-  "last_updated": "2026-08-17 17:23 UTC",
+  "last_updated": "2026-08-17 17:54 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "cb1c3bb0-b67a-3891-9248-1cb1060679d8",
+      "id": "44657c93-71cd-3a71-8c3d-b23e5afdb8a5",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Wins Major Relief in Antitrust Battle",
+      "summary": "The deal could reshape a highly profitable part of Apple",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/apple-wins-major-relief-antitrust-174439477.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T17:44:39Z"
+    },
+    {
+      "id": "bc3f99d4-f03f-311a-90f0-98465b6423ed",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Michael Saylor Says ‘Fixing The Credit’ Takes Priority Over MSTR Stock Buybacks",
+      "summary": "During the Q2 earnings call, Saylor said a stronger credit business could ultimately support a higher equity premium for MSTR shareholders.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/michael-saylor-says-fixing-the-credit-takes-priority-over-mstr-stock-buybacks/cZYG9NzRJ1M",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XTmcgtEBq2J1xjRon2I7SA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8329e3ebd3e82ae05eb5d8fb6fe22309.jpg",
+      "published_at": "2026-08-17T17:44:37Z"
+    },
+    {
+      "id": "d7807ef9-5774-37d4-ae4b-1a92e0caef27",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Sector Update: Energy Stocks Gain Monday Afternoon",
+      "summary": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 0.7% and the St",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-monday-174425303.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T17:44:25Z"
+    },
+    {
+      "id": "f70dfeb7-450f-3e9b-993e-9eb862c75e2b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Western Digital Stock Jumps Over 6% as Memory Rally Accelerates",
+      "summary": "Western Digital's expanding margins and forecast-beating outlook gave investors fundamental support beyond Monday's broader storage rally.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-jumps-over-174310099.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T17:43:10Z"
+    },
+    {
+      "id": "339b7079-fd4c-3219-ba95-d0d89f9f97fc",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals",
-      "summary": "Power semiconductor stocks are pushing higher in Monday trading, with Wolfspeed (NYSE:WOLF) up 5.74% to $33.61, STMicroelectronics (NYSE:STM) up 4.17% to $56.56, and ON Semiconductor (NASDAQ:ON) up 2.96% to $85.11. The move follows a weekend Mizuho research note flagging a stronger and faster NVIDIA Vera Rubin ramp than the market had been positioned for. Vera ... Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals",
+      "title": "Top Midday Gainers",
+      "summary": "OmniAb (OABI) unveiled a partnership with Eli Lilly (LLY) on a new ion-channel drug discovery progra",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-174029108.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T17:40:29Z"
+    },
+    {
+      "id": "e445682f-0dc4-3850-a161-c481078667d9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nestlé Wants to Turn the GLP-1 Threat into an Opportunity",
+      "summary": "No one’s reaching for Nesquik and KitKats anymore in our GLP-1 addled-world, so Nestlé is turning to new products.",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/news/news-nestl-wants-to-turn-the-glp-1-threat-into-an-opportunity?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bT9Y6c92f99stleZogBjRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/de2a959a90aef0b792cafab7a18c0bda.jpg",
+      "published_at": "2026-08-17T17:40:21Z"
+    },
+    {
+      "id": "9cb9ee04-8755-3174-bb46-5b400cf9eba5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Nu Holdings' Mexico Business Finally Carrying Its Own Weight?",
+      "summary": "Nu's Mexican expansion is paying off ahead of schedule.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/is-nu-holdings-mexico-business-finally-carrying-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8D5pZ9wMA1Xrjbes7DGL9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/87c4440b3397bbc569bde8ceb0f22089.jpg",
+      "published_at": "2026-08-17T17:40:00Z"
+    },
+    {
+      "id": "d1e2931d-9855-3c96-96f5-453a1f0cb886",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Falls 0.3% While Memory Chip Stocks Keep the Nasdaq Afloat",
+      "summary": "Why is the Dow down 200 points while the Nasdaq holds flat? Two chipmakers are doing a lot of heavy lifting for the tech-heavy index.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/dow-falls-03-while-memory-chip-stocks-keep-the-nas/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vAf7dr5gGNtcnriH5ru40g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b63fdb79eefccc62eb86ccf6cdcad25d.png",
+      "published_at": "2026-08-17T17:39:17Z"
+    },
+    {
+      "id": "85b02bce-13e0-35d2-9adb-6b285df3943b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Vistra Is Under $150. Here's Why I Think It Won't Stay That Way.",
+      "summary": "Vistra's stock is down 32% from its 52-week high. Here's why I think the energy stock has upside potential from here.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/vistra-is-under-150-heres-why-i-think-it-wont-stay/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BtrXIVjXlbHyVCxfyMDvng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/56339628b063f96b4f749f949a2b1850.jpg",
+      "published_at": "2026-08-17T17:35:00Z"
+    },
+    {
+      "id": "cd27ca7c-29db-3aea-9b9a-b1660059578a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Klarna Group Drops 7% Before Q2 Earnings, Sezzle Falls 5% as BNPL Names Diverge",
+      "summary": "Klarna shares are shedding gains right before the BNPL firm's most watched earnings release since its IPO, and the moves rippling through Sezzle, Affirm, and PayPal tell very different stories about where investor conviction actually sits.",
       "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/power-semis-soar-monday-wolfspeed-stmicro-and-on-semiconductor-rally-on-vera-rubin-ramp-signals/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KxFDG6nJzhhDrWEAzpEFGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
-      "published_at": "2026-08-17T17:18:05Z"
+      "url": "https://247wallst.com/investing/2026/08/17/klarna-group-drops-7-before-q2-earnings-sezzle-falls-5-as-bnpl-names-diverge/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/khKqjQVd.XH9dsq.kJs2lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/742061599f0a3b6d3ab6af28426c15ca.jpg",
+      "published_at": "2026-08-17T17:34:16Z"
+    },
+    {
+      "id": "7654dd66-1194-303a-af9a-35b802d06b78",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; Energy Stock Clears Entry (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index drops as memory-chip stocks Micron and Sandisk rally. Trump threatens Oman.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mVBgAyaAImS_l6pUjIY0IA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/901174f85b11eefb9adcb0755063a152.jpg",
+      "published_at": "2026-08-17T17:32:39Z"
+    },
+    {
+      "id": "21fd9df4-f2cd-3063-86e6-ba890b475be5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sector Update: Tech Stocks Rise Monday Afternoon",
+      "summary": "Tech stocks were higher Monday afternoon, with the State Street Technology Select Sector SPDR ETF (X",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-monday-173150965.html",
+      "thumbnail": "",
+      "published_at": "2026-08-17T17:31:50Z"
+    },
+    {
+      "id": "e6498dc6-60c5-3f5b-882f-b87c49232f8a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SEC guidance removes risk rules from Nvidia $500B AI financing push",
+      "summary": "A staff opinion from the SEC exempts some data center debt from Dodd-Frank risk retention rules, making AI infrastructure financing more attractive to sponsors",
+      "source": "Quartz",
+      "url": "https://qz.com/sec-guidance-nvidia-ai-data-center-financing-500-billion-081726",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kApnVt7oi66sRPfqAmga5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/594a653483070a859b2482f1eb35333d.jpg",
+      "published_at": "2026-08-17T17:31:41Z"
+    },
+    {
+      "id": "5e71d2d7-6c3f-35ee-9820-501948441d52",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nike Falls 3% to a Fresh 52-Week Low as China Weakness Overshadows Its Wholesale Rebound",
+      "summary": "Nike just hit a fresh 52-week low even as its wholesale numbers are actually improving, and the contradiction at the heart of that gap reveals why Wall Street analysts are split further apart on this stock than almost any other name in retail.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/nike-falls-3-to-a-fresh-52-week-low-as-china-weakness-overshadows-its-wholesale-rebound/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x1qa1w6olB1hJlaggFBd1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2397003074b0a5462ebc370e58e5d58d.jpg",
+      "published_at": "2026-08-17T17:28:16Z"
+    },
+    {
+      "id": "82259c14-9462-34ff-85d9-a2dcd92cb331",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Could Hit $400, But AI Is Coming for Its Most Profitable Business",
+      "summary": "Apple Inc. (NASDAQ:AAPL) received a major vote of confidence from Rothschild Redburn today, with the firm upgrading the stock from Neutral to “Buy” and raising its price target to $400 from $260. The upgrade rests on two major catalysts for Apple: its entry into premium foldables and a strategic reset to the Apple Intelligence platform. The […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-could-hit-400-ai-172109457.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/guI8jCREpGNRSpogsdXpuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84.jpg",
+      "published_at": "2026-08-17T17:21:09Z"
     },
     {
       "id": "3f688256-5d50-3e8e-8c9f-77153e45e553",
@@ -48,28 +202,6 @@
       "published_at": "2026-08-17T17:12:29Z"
     },
     {
-      "id": "5c06e15c-8a18-3e64-af34-22b7197bcc02",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly",
-      "summary": "A Wedbush note linking Cerebras to OpenAI's fastest inference tier sent shares surging after last week's brutal selloff, and the 13F filings landing Monday reveal exactly which major funds are quietly betting billions on the AI chip race.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/cerebras-shares-skyrocket-monday-intel-gains-while-amd-is-down-slightly/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jAuzZ8NDKxMDzzP7ggt6JQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9ea81997db58c0efd8c2f3934ec83862.jpg",
-      "published_at": "2026-08-17T17:12:15Z"
-    },
-    {
-      "id": "1dcd10f2-f432-37bf-82ab-3177eda54904",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI Networking Stocks Are Rallying on Monday. Marvell Up 8%, Credo Up 8%, Ciena Joins the Move",
-      "summary": "A Sunday research note on a single chip ramp sent the entire AI networking layer surging Monday morning, and institutional positioning already hiding in plain sight suggests the move may have had more fuel than most realized.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/ai-networking-stocks-are-rallying-on-monday-marvell-up-8-credo-up-8-ciena-joins-the-move/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yNgru4S35rg1R.Yh9Jt41Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8cee8647c5a50eef7f083221adcd07a2.jpg",
-      "published_at": "2026-08-17T17:06:58Z"
-    },
-    {
       "id": "0a8d9e6b-24df-3874-b539-34cdd4743385",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -81,39 +213,6 @@
       "published_at": "2026-08-17T16:59:19Z"
     },
     {
-      "id": "46cb7e22-c85a-3f0c-815f-2c7a8c9985f8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nebius's Revenue Is Forecast to Roughly Quadruple Year Over Year. Here's Why Analysts Are Still Debating Whether That's Enough to Justify the Stock.",
-      "summary": "Nebius is one of the fastest-growing businesses in AI infrastructure, but it's pricey.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/nebiuss-revenue-is-expected-to-roughly-quadruple-y/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Dzb29Dpxn0aM0T4Hps4PbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ca969f1b5cfea87f8102af9aefa9e4ab.jpg",
-      "published_at": "2026-08-17T16:58:09Z"
-    },
-    {
-      "id": "7d57bf43-aa9e-31cc-b21e-8467fc392f00",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia's $105 Billion AI Backstop Changes the Risk Equation",
-      "summary": "The chipmaker is financing demand while locking OpenAI into its computing stack.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-105-billion-ai-backstop-165724240.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T16:57:24Z"
-    },
-    {
-      "id": "3153257d-4d85-33a8-9413-a80afd122622",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meet the Newest Stock in the S&P 500. It Soared 424% Since Its 2024 IPO, and It's a Buy Right Now, According to Wall Street",
-      "summary": "This company's human-powered platform bucks the artificial intelligence (AI) trend.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/meet-the-newest-stock-in-the-s-and-p-500-it-soared-424-since-its-2024-ipo-and-it-s-a-buy-right-now-according-to-wall-street/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EpgRwX8WmL8_Io3bT019AA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a54313c3bf627a70d9bf4d7db9a806f0.png",
-      "published_at": "2026-08-17T16:55:37Z"
-    },
-    {
       "id": "cdca3cef-5086-3262-8cf3-f34264239392",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -123,39 +222,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jetblue-balance-sheet-risks-could-165423658.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uiQWq_DzqncSezt.Xd9ycA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/326d5977864c000c593d09c8a9cc7b97.jpg",
       "published_at": "2026-08-17T16:54:23Z"
-    },
-    {
-      "id": "1bdb2c1e-21e8-35eb-abe1-873f64da1e76",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Freightos Limited Ordinary shares Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Freightos Limited Ordinary shares's Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-freightos-limited-ordinary-shares-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6zHyluZxMTd3H11gEyHEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/59933828bc11811ff2617023f72ed825.png",
-      "published_at": "2026-08-17T16:51:15Z"
-    },
-    {
-      "id": "1ab4b970-2519-37ce-90ce-d6f8d38b949b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "InspireMD, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of InspireMD, Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-inspiremd-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9eurcb4RpuA_MIVrPMxgcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/ea597688672ed5af758099b5bfdfd7ab.png",
-      "published_at": "2026-08-17T16:51:07Z"
-    },
-    {
-      "id": "c9a8f734-1e4f-35f7-b2c1-d2f0f30b9d4e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Flexsteel Industries, Inc. Q4 2026 Earnings Call Summary",
-      "summary": "Moby summary of Flexsteel Industries, Inc.'s Q4 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-flexsteel-industries-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aCFKHCauzMd1cjmveiG3oQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/bc531c3f065d93e1e883ca85ee68971c.png",
-      "published_at": "2026-08-17T16:50:34Z"
     },
     {
       "id": "790ff3f4-505a-39d1-ab9c-9fb26dd4e4e1",
@@ -213,6 +279,17 @@
       "published_at": "2026-08-17T16:33:00Z"
     },
     {
+      "id": "404ff858-319c-3caa-b1cb-f36bb2f07c33",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
+      "summary": "Bill Ackman and Pershing Square Capital (NYSE:PS) have unveiled their portfolio for the second quarter, which includes several new stocks added. The quarter also included major changes to Ackman’s growing bets on the Magnificent Seven stocks. Bill Ackman Keeps Betting on Magnificent Seven Since 2023, the Pershing Square USA (NYSE:PSUS) investment portfolio, now publicly traded under the ticker PSUS, has been adding Magnificent Seven stocks to its investment ideas. This started with Alphabet Inc",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-bets-big-magnificent-163036627.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZB2NDBGpWkyazoxjZYeBdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/27279daad0f20a0efca6b10660229f28.jpg",
+      "published_at": "2026-08-17T16:30:36Z"
+    },
+    {
       "id": "742abe6f-24fd-3d3c-8940-993ed819d43e",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -233,83 +310,6 @@
       "url": "https://finance.yahoo.com/video/rbcs-lori-calvasina-sees-p-162709730.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xUXrloN5c0zl7epmc8Cv2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/4d032da054b410bfbd69090003aa9e0f.jpg",
       "published_at": "2026-08-17T16:27:09Z"
-    },
-    {
-      "id": "2821e55e-b1c5-4e1c-a00b-4da61ec1dbb8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Saylor's Strategy is managing capital, not buying BTC",
-      "summary": "Scott Melker analyzes key crypto headlines, including Strategy’s (MSTR) capital management, World Liberty Financial’s bank charter, HIVE’s pivot to AI, White House crypto meetings, institutional 13F holdings, and widespread security data breaches.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/saylors-strategy-managing-capital-not-162550616.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f5cmvyRGtARfKBvdEjQ1zQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dailywolf-thumbnail-website-0817_9297.png",
-      "published_at": "2026-08-17T16:25:50Z"
-    },
-    {
-      "id": "b52f000a-86e2-3278-a5fa-3adf8221a7c1",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Rivian Closes the Self-Driving Gap With Tesla",
-      "summary": "Autonomy+ is improving, but Tesla still leads.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rivian-closes-self-driving-gap-162217297.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T16:22:17Z"
-    },
-    {
-      "id": "cf597623-def3-3374-a04a-29a4714cba5b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Profits Have More Than Doubled. Here’s What Trump Escalating the Iran War Could Mean for XOM and CVX",
-      "summary": "With the Strait of Hormuz still choked off and Trump now threatening to bomb a U.S. ally mediating the peace talks, the Iran war is about to test exactly how much further Big Oil's windfall can stretch before the whole situation unravels.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/oil-profits-have-more-than-doubled-heres-what-trump-escalating-the-iran-war-could-mean-for-xom-and-cvx/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/52Mi8bP3b74mGkdkkhyvzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/27060e3a065ea9ac3856664e59704940.jpg",
-      "published_at": "2026-08-17T16:21:52Z"
-    },
-    {
-      "id": "173d0b95-5eaa-384a-83de-a68709d3955e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "FTSE 100 drifts lower as oil price pushes higher",
-      "summary": "The FTSE 100 index closed down 29.81 points, 0.3%, at 10,720.30.",
-      "source": "PA Media: Money",
-      "url": "https://uk.finance.yahoo.com/news/ftse-100-drifts-lower-oil-161837390.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M5MxU1GicFIhb52Ecrwh0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/snappa.ukfinance/3d894f709c6fef334670927487901a34.jpg",
-      "published_at": "2026-08-17T16:18:37Z"
-    },
-    {
-      "id": "80e797f7-5e16-3bae-84f8-5fc01dd5cbb3",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Morgan Stanley Drops Stark Stock Market Warning",
-      "summary": "The next AI bottleneck may have little to do with chips",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-drops-stark-stock-161452067.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T16:14:52Z"
-    },
-    {
-      "id": "fa2dee76-0129-399e-a96f-c006daaef282",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Microsoft's Cloud Pitch Moved From Migrations To Meters",
-      "summary": "Management no longer opens on cloud migrations, and what replaced them is billed in a different way.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/611680/microsofts-cloud-pitch-moved-from-migrations-to-meters/2026-08-17",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jqe0dFfcyAeKrB4A7ZiNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-      "published_at": "2026-08-17T16:11:45Z"
-    },
-    {
-      "id": "700a59ee-07b3-3dd6-9054-46eb81354b76",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "PAAS Q2 Earnings Miss Estimates, Revenues Rise Y/Y on Metal Prices",
-      "summary": "Pan American Silver posts a 38.4% y/y revenue gain in Q2 as higher metal prices and silver production growth boost results, while earnings miss estimates.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paas-q2-earnings-miss-estimates-161000398.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QkQKlwte9uU5q73BiXm68Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/65e398d5905bf2e9de9e38b472b569cd.png",
-      "published_at": "2026-08-17T16:10:00Z"
     }
   ]
 }
