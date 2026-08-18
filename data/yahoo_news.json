@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-18 06:36 UTC",
+  "last_updated": "2026-08-18 07:34 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9336d237-650d-3ef8-b2d0-7739cd1499a7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester",
+      "summary": "By Ankur Banerjee SINGAPORE, Aug 18 (Reuters) - U.S. 30-year Treasury yields rose to their highest level since 2007 on Tuesday as stalled talks to end the U.S.-Iran war and worries of an imminent",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-30-yields-hit-highest-070949167.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1vIPb0GgIdKLurF72_ruAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/39462ce637d23170be65fc9e50b9a860.jpg",
+      "published_at": "2026-08-18T07:09:49Z"
+    },
+    {
+      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Bond yields rise, oil extends gains as US-Iran ceasefire expires",
+      "summary": "By Gregor Stuart Hunter SINGAPORE, Aug 18 (Reuters) - Bond yields climbed on Tuesday to their highest in decades, with oil prices rising for a third day and stocks under pressure in Asian trade as a",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r0jLdQIob9qCOn4T2mvbKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8e9c4634f66ce51496510601056fb79a.jpg",
+      "published_at": "2026-08-18T07:00:48Z"
+    },
+    {
+      "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why Is The Crypto Market Down Today?",
+      "summary": "The crypto market fell today as an Iran oil threat and a 2007-high bond yield drove a risk-off wave out of tokens.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yjSkL4PPHiN.x1VdTNeJiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6.png",
+      "published_at": "2026-08-18T06:30:31Z"
+    },
+    {
+      "id": "a5e5258b-9d3e-3480-9315-ad9b94a811c1",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd",
+      "summary": "Libya is seeking tens of billions of dollars in investment as it aims to raise crude production to 2 million barrels per day by 2030.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/libya-seeks-40-billion-boost-063000121.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jj.7YrfEWcRnJBhDY0QfhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/41666027a999ee7cc975470216b3e4dc.jpg",
+      "published_at": "2026-08-18T06:30:00Z"
+    },
     {
       "id": "783de2cb-a025-320b-8665-782af2713d19",
       "asset": "NVDA",
@@ -26,6 +70,17 @@
       "published_at": "2026-08-18T06:12:35Z"
     },
     {
+      "id": "92416f0a-a7cf-3009-aa89-c58089a130ff",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "CRWV vs NBIS vs IREN: Which Neocloud Operator To Bet On Right Now?",
+      "summary": "Neocloud operators are adding new capacity to meet surging cloud demand, but costs are rising in tandem.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/crwv-vs-nbis-vs-iren-which-neocloud-operator-to-bet-on-right-now/cZYcGJzRJSl",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kXfo2PyOirZoKoM2dgTnCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/d8e7a7c5032d253da0ff13a4862c277e.jpg",
+      "published_at": "2026-08-18T06:10:37Z"
+    },
+    {
       "id": "0eff4c63-600e-3f39-8cb5-5acbd487a23d",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -35,6 +90,17 @@
       "url": "https://www.fool.com/investing/2026/08/18/bloom-energy-says-it-has-visibility-on-25-gigawatt/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0CoSQadjMH0D3G6ptUXH3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5508e7b7c6a72e31fd373381b1342278.jpg",
       "published_at": "2026-08-18T05:50:00Z"
+    },
+    {
+      "id": "52180e5d-d632-3d1e-90c8-6f2af3dc07ea",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. 30-Year Treasury Yield Rises to Highest Since 2007",
+      "summary": "The 30-year Treasury yield extended its rise, reaching the highest level since 2007, while the 10-year yield also rose to its highest level since the end of July.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/jgbs-fall-amid-expectations-for-faster-pace-of-boj-rate-increases-1895b06c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-18T05:49:00Z"
     },
     {
       "id": "049106a0-55a4-3fe3-bfe1-4f8e14b7fa2b",
@@ -125,17 +191,6 @@
       "published_at": "2026-08-18T04:37:48Z"
     },
     {
-      "id": "5db051e0-afa8-3f86-87b7-fb0c545abc03",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records",
-      "summary": "Oil prices rose as U.S.-Iran tensions escalated while refinery disruptions drove diesel margins to historic highs.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/u-iran-tensions-push-oil-043544035.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_CA3gliVoczGM5iJvUlxHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/1b49fd70d3f16fdc0b72d8f33d64c46b.jpg",
-      "published_at": "2026-08-18T04:35:44Z"
-    },
-    {
       "id": "2dfcb58b-b29e-34d6-a849-b7dc092d9847",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -202,17 +257,6 @@
       "published_at": "2026-08-18T03:58:00Z"
     },
     {
-      "id": "929b5400-4fe1-3747-83be-ebfe7514ac12",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Dow, S&P 500, Nasdaq Futures Are Slipping Overnight: SNDK, MSTR, NBIS, NKE Stocks Are In Focus",
-      "summary": "Dow futures were down 0.03%, while the S&P 500 futures fell 0.25% and the Nasdaq-100 futures slumped 0.60% at 10:54 PM EDT.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/why-dow-s-and-p-500-nasdaq-futures-are-slipping-overnight-sndk-mstr-nbis-nke-stocks-are-in-focus/cZYTDFfRJSW",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LsPNGgFVwKGnLHO6yO6Ftg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c798d3985bb404e9c34d814c2b9d15e1",
-      "published_at": "2026-08-18T03:56:40Z"
-    },
-    {
       "id": "7de6037e-54d5-3e55-8d06-39417c6364f8",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -222,17 +266,6 @@
       "url": "https://www.fool.com/coverage/charts/2026/08/17/apple-vs-coreweave-comparing-revenue-trends-between-a-stable-tech-giant-and-a-rapidly-growing-ai-neocloud/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/axSG_9fQ8Nqv9pH2vxUoMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60c526515eae9b8ca9cfa80325ca3cb1.png",
       "published_at": "2026-08-18T03:55:17Z"
-    },
-    {
-      "id": "c7cc7bb5-1ef9-363c-88e9-3d66c8b03a7e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian central bank keeps up interventions to cushion rupee from oil strain, traders say",
-      "summary": "MUMBAI, Aug 18 (Reuters) - The Reserve Bank of India likely intervened in the foreign exchange market for an eighth consecutive session on Tuesday, four traders told Reuters, as elevated oil prices",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-central-bank-keeps-interventions-033627222.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N4K2MH_OHLDq.i9.ybTYgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/32c5059f0f3eecbf4e4aa91de7822104.jpg",
-      "published_at": "2026-08-18T03:36:27Z"
     },
     {
       "id": "bc1cf5d3-e00b-39a5-91a7-48a49371d0db",
@@ -257,28 +290,6 @@
       "published_at": "2026-08-18T03:25:04Z"
     },
     {
-      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
-      "summary": "By Gregor Stuart Hunter SINGAPORE, Aug 18 (Reuters) - Bond yields climbed on Tuesday to their highest in decades, with oil prices rising for a third day, while stocks gave up early gains in Asian",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XXEt160N4ATfqn6Wlf1iHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dbd8024fd185bcef9d31d2da5b23c584.jpg",
-      "published_at": "2026-08-18T03:24:08Z"
-    },
-    {
-      "id": "4438a395-0fe2-3028-9443-a33505659dd5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Asia shares decline as worries about rising oil prices outweigh boost from strong earnings",
-      "summary": "Asian shares declined in early Tuesday trading, as rising oil prices and worries about inflation worked as a dampener on some markets, countering the optimism that had come from robust corporate earnings reports.  Japan's benchmark Nikkei 225 dipped 1.6% to 68,098.54.  Analysts said robust earnings reports in Asia, following those from the U.S., are helping counter worries about what the war in Iran will do to the global flow of crude and its impact on energy prices.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-decline-worries-rising-031952157.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8DucITkEfCeWfvZyBSkfoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/06becc01228d51c432f326dfa2858c7a.jpg",
-      "published_at": "2026-08-18T03:19:52Z"
-    },
-    {
       "id": "5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/technology/articles/tesla-cybercab-launch-could-begin-030549909.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z5qK_aARWzamFcRLQvji0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/834ee8e9a5e4b512d44b3dacf1dba282.jpg",
       "published_at": "2026-08-18T03:05:49Z"
-    },
-    {
-      "id": "161621c8-7f5e-35ac-89ec-13480079526c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
-      "summary": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
-      "published_at": "2026-08-18T02:08:51Z"
     }
   ]
 }
