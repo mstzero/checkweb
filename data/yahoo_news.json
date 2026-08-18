@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-18 22:49 UTC",
+  "last_updated": "2026-08-18 23:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
+      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
+      "published_at": "2026-08-18T22:48:06Z"
+    },
     {
       "id": "b15bc7e6-d9ad-3672-b6ac-6b23e137badc",
       "asset": "NVDA",
@@ -13,17 +24,6 @@
       "url": "https://www.fool.com/investing/2026/08/18/broadcom-artificial-intelligence-ai-revenues-forec/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rXiyNU.bHBvmanc06pDAmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d911de8b2d3fbbf98e7618b2203b9d7.png",
       "published_at": "2026-08-18T22:41:00Z"
-    },
-    {
-      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
-      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-18T22:38:24Z"
     },
     {
       "id": "3572e936-df55-3036-81c7-a87c7ce2ccdf",
@@ -49,14 +49,36 @@
     },
     {
       "id": "d8254a4e-fcd3-30c2-9891-a50029a4523d",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "A 4X S&P 500 ETN Now Exists. A 10% Market Drop Cuts It Nearly in Half and Investors Are Buying Anyway",
       "summary": "A four-times leveraged S&P 500 product now trades on a major exchange, and it can vaporize nearly half your money before the market even finishes a bad week. What kind of investor buys it anyway, and how big has it gotten?",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/etf/2026/08/18/a-4x-sp-500-etn-now-exists-a-10-market-drop-cuts-it-nearly-in-half-and-investors-are-buying-anyway/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RA86CZI6nrS_favT5qXlQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e75be598e36ff0dae9edf8a8e5cedec2.jpg",
       "published_at": "2026-08-18T22:25:07Z"
+    },
+    {
+      "id": "0b0b8282-1a14-3d68-90bb-6f8d3c88387a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "$40 Trillion US Debt: Could Americans Even Afford Bitcoin and Crypto Right Now?",
+      "summary": "$40 trillion US debt is near. See how rising borrowing costs squeeze Americans buying Bitcoin and crypto right now.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/40-trillion-us-debt-bitcoin-crypto/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kApuES8j7riAcLrD5vc44A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2f61ff689b6ffcd045a6f772384c2147.png",
+      "published_at": "2026-08-18T22:24:59Z"
+    },
+    {
+      "id": "e996cfd5-8ecd-34d8-8e8e-5ee78e8b5d2d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What’s Driving the Worldwide Bond Selloff?",
+      "summary": "In developed economies around the world, long-term government bond yields have climbed to levels not seen in decades.  Traditionally that’s been a warning sign that investors are worried about nations’ fiscal health.  In the U.S., the 30-year Treasury yield traded as high as 5.337% earlier today, its highest intraday level since 2007, though it moderated later and closed the day slightly lower at 5.284%.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/what-s-driving-the-worldwide-bond-selloff-sLKr2W77rjTT9NsXoBlK?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-18T22:22:00Z"
     },
     {
       "id": "15569390-70d4-3ab4-8ffc-55015ef74183",
@@ -123,6 +145,17 @@
       "url": "https://247wallst.com/investing/etf/2026/08/18/qyld-holders-left-56700-per-10000-on-the-table-chasing-twelve-years-of-monthly-income/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.N8vZvQC5pem_vRScakydA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c9cfa10451434b794c1335a07a8778c.jpg",
       "published_at": "2026-08-18T21:45:59Z"
+    },
+    {
+      "id": "c35dd1b9-cfb9-358f-b396-91872e215d8e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's Why Nvidia (NVDA) Fell More Than Broader Market",
+      "summary": "In the closing of the recent trading day, Nvidia (NVDA) stood at $219.82, denoting a -2.31% move from the preceding trading day.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-nvidia-nvda-fell-214503878.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wHVtJxHFlXanHHauddebmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9.jpg",
+      "published_at": "2026-08-18T21:45:03Z"
     },
     {
       "id": "5f0620b6-e83f-3ef1-ac60-2b258d5c6a79",
@@ -213,17 +246,6 @@
       "published_at": "2026-08-18T21:11:07Z"
     },
     {
-      "id": "138552fa-9487-3f86-9242-567b9775e89d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD’s $1.3 Billion Portfolio Reveals Its Biggest Investments and Where AI Demand Lands Next",
-      "summary": "AMD just filed its first-ever 13F, and buried inside a $1.31 billion portfolio are five positions that trace exactly where the company believes AI infrastructure spending lands next, including one ticker most investors will never think to check.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/amds-1-3-billion-portfolio-reveals-its-biggest-investments-and-where-ai-demand-lands-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7k0wBLpsfeGEvLD3MspzLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9e40f597277507681c7c12d292912987.jpg",
-      "published_at": "2026-08-18T21:07:59Z"
-    },
-    {
       "id": "a6204b80-c12e-3846-a439-3757e64db7f1",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -244,17 +266,6 @@
       "url": "https://finance.yahoo.com/video/kavita-gupta-comments-bitcoin-whales-210536883.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0gOoFOX.HVdgN.izJ7m2xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/304faf7dd888a2cdb9050c831a92ec2f.jpg",
       "published_at": "2026-08-18T21:05:36Z"
-    },
-    {
-      "id": "85a7c88c-29e1-3063-89ba-6c05c5a07960",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "China’s Favorite Budget Meal? Burgers",
-      "summary": "Burgers are cheap, fast, and can cover the macros. What more could food delivery fiends want?",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/news/news-chinas-favorite-balanced-budget-meals-are-burgers?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kPDls2_ZC7cP7DbLu31uHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/bb701170de73c24b9438bdb4ba3b66cf.jpg",
-      "published_at": "2026-08-18T21:04:31Z"
     },
     {
       "id": "245791fc-7be6-393f-a9fb-45b85de5c517",
@@ -290,26 +301,15 @@
       "published_at": "2026-08-18T21:03:10Z"
     },
     {
-      "id": "36e6646c-81c3-3e96-9f00-07cd2bcf4793",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Berkshire Boosts Alphabet Stake 83% as Buffett Makes Major AI Bet",
-      "summary": "Berkshire increased its Alphabet holding to nearly 106 million shares worth $37.8 billion.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/berkshire-boosts-alphabet-stake-83-210009667.html",
-      "thumbnail": "",
-      "published_at": "2026-08-18T21:00:09Z"
-    },
-    {
-      "id": "35f2275d-f788-308d-b917-545936319ff5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Crypto industry hit by 3 hacks in 15 days",
-      "summary": "Coldcard. Trezor. Bits of Gold. Three separate attacks in 15 days, each hitting a different layer of the crypto security stack. Here is what they have in common.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/crypto-has-been-hacked-three-times-in-15-days-here-is-whether-you-are-at-risk",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3KvpVmKm4IsRqntEr1qx1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4b557216086faa4437646a636164f7c5.jpg",
-      "published_at": "2026-08-18T21:00:00Z"
+      "id": "0bd24f79-32ba-3546-9e25-e6363b3483ce",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on gold futures, BHP, Zijin Gold International and more in the latest Market Talks covering basic materials.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-38252cec?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5klTtB46_h2rTvu2q1j8vA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4f53ec3dd26ff5d859a8e8075a7c5750.jpg",
+      "published_at": "2026-08-18T21:01:00Z"
     }
   ]
 }
