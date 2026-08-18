@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-08-18 01:00 UTC",
+  "last_updated": "2026-08-18 02:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "161621c8-7f5e-35ac-89ec-13480079526c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
+      "summary": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
+      "published_at": "2026-08-18T02:08:51Z"
+    },
+    {
+      "id": "c2924be3-f6ee-3dde-913e-535a37a294a8",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Upland Software, The Trade Desk, and SoundHound AI Shares Are Falling, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after Bloomberg reported that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/upland-software-trade-desk-soundhound-015820312.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SwNJFAGcVentnQn6o8Z0hQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/faee6ecf688cfc9aa99f62bcb325e118.jpg",
+      "published_at": "2026-08-18T01:58:20Z"
+    },
+    {
+      "id": "61fbe317-96ae-3126-ad0a-2894c0d76f56",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Rapid7, ServiceNow, and monday.com Shares Are Falling, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after Bloomberg reported that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-servicenow-monday-com-shares-015020414.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ICKJ2rXxOK2A0JvKwzj4Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/a2833a194993942c2627bcbb1f56e310.jpg",
+      "published_at": "2026-08-18T01:50:20Z"
+    },
+    {
+      "id": "ccc95124-28ad-3fbb-b210-f2307eef39be",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Health Catalyst, GitLab, Elastic, and Marqeta Shares Plummet, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after Bloomberg reported that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/health-catalyst-gitlab-elastic-marqeta-014220126.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xVV0ffcFYn6lnq4OwkcwgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/814457ef24852010d0ffb300343f065d.jpg",
+      "published_at": "2026-08-18T01:42:20Z"
+    },
+    {
+      "id": "4e66f331-b61d-3093-9233-5d3b86c37120",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why HIVE Stock Popped Today",
+      "summary": "The data center developer's AI cloud business just received a major boost.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/why-hive-stock-popped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UJkAHHIPXgoqe1xyH5KY9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8de478ee932c0471af61cf8b778fea4e.jpg",
+      "published_at": "2026-08-18T01:41:35Z"
+    },
+    {
+      "id": "b53ffe31-0beb-31ef-9210-904b4d5d578d",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold standard is reborn amid central bank surge",
+      "summary": "For the first 40 years after President Nixon closed the gold window in 1971, central banks mostly unloaded their gold to exercise their faith in fiat money. In 2011, however, Congress passed the Budget Control Act of 2011, which raised the debt ceiling by $2.4 trillion through 2012. As a direct ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/gold-standard-central-bank-buying",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WkDAGRivQzm2bxOZA4MzDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/44287f935e3eb84025882493450b05e0.jpg",
+      "published_at": "2026-08-18T01:37:00Z"
+    },
+    {
+      "id": "a875f19a-537f-3c63-ba5d-a22144624231",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Backs 8-GW Ohio AI Campus for OpenAI With $1.5 Billion Investment",
+      "summary": "Nvidia has agreed to secure infrastructure for a planned 8-GW AI computing campus in Ohio that will serve OpenAI, while investing $1.5 billion in developer SB Energy.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-8-gw-ohio-013000089.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YNrc1LVtBvXmYwI90Ckxbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/28494a1ab756c6cfb7a21d3bcf54f647.jpg",
+      "published_at": "2026-08-18T01:30:00Z"
+    },
+    {
+      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
+      "summary": "By Gregor Stuart Hunter SINGAPORE, Aug 18 (Reuters) - Oil prices crept higher and bond yields rose, blunting paltry gains for stocks at the start of Asian trading on Tuesday as a U.S.-Iran truce",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m9n2veH.yf8lY2vDti8wIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/84bf3557da1fa82e4d7052249f1f3071.jpg",
+      "published_at": "2026-08-18T01:16:55Z"
+    },
+    {
+      "id": "f9be097c-dcc9-3fdc-8171-6f91c9a2c380",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Does Take-Two’s Shift To Modest Profit Guidance Reframe The Bull Case For TTWO?",
+      "summary": "Take-Two Interactive Software, Inc. has reported past first-quarter 2026 results, with sales of US$1,422.8 million, revenue of US$1,533.9 million and a wider net loss of US$34.1 million, while also issuing guidance for a second-quarter net revenue range of US$1,420 million to US$1,470 million and a full-year 2027 outlook that now includes a small net profit. The combination of rising top-line revenue alongside a guided shift from quarterly losses to modest full-year profitability gives...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-shift-modest-profit-010748760.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4URSdzbev9caDoK.vSXVlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f03d17bfb9bd39baa89c6655dcfb03d3.jpg",
+      "published_at": "2026-08-18T01:07:48Z"
+    },
+    {
+      "id": "c1e21c10-1b5d-3351-8044-5130b05335a2",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "RTX (RTX) Lands $22.9 Billion Tomahawk Deal With Seven Year Production Ramp",
+      "summary": "RTX (NYSE:RTX) unit Raytheon has secured a US$22.9b Tomahawk cruise missile contract with the U.S. Navy spanning seven years. The agreement calls for a production ramp to more than 1,000 Tomahawk missiles per year and coordination with hundreds of suppliers. The contract is structured as a long term deal that provides visibility on Raytheon’s missile manufacturing pipeline for the Navy. For readers tracking how large defense deals can influence demand for key materials and suppliers, it can...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-lands-22-9-010728674.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6bTpS6bHtwNX31V57z8rxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/44f59cf0caf7002605650b387ad96f3a.jpg",
+      "published_at": "2026-08-18T01:07:28Z"
+    },
+    {
+      "id": "ff6e49f9-619c-3033-a213-5cab1e4800be",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Gains as Easing Fed Hike Expectations Pressure Dollar",
+      "summary": "Gold rose in early Asian trade. Easing expectations of Federal Reserve rate hikes were likely placing downward pressure on the dollar, ANZ said.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-18T01:03:00Z"
+    },
+    {
+      "id": "911cd23f-247f-32a3-83e2-f5e6b65a820c",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Deccan Gold Mines Ltd (BOM:512068) (Q1 2027) Earnings Call Highlights: Transition to Gold ...",
+      "summary": "Deccan Gold Mines Ltd (BOM:512068) reports INR87 crore revenue from gold sales, achieves 1 kilo per day production rate, and secures INR137 crore in funding to fuel its diversified growth pipeline.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/deccan-gold-mines-ltd-bom-010200228.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T01:02:00Z"
+    },
     {
       "id": "96351552-40ac-3e3e-9a2c-01efcf604698",
       "asset": "AAPL",
@@ -13,17 +145,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-soaring-004620344.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nRReeeAmxAlZ5ETp8CAqUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/dcf057c27655d03a050775ca9f19c022.jpg",
       "published_at": "2026-08-18T00:46:20Z"
-    },
-    {
-      "id": "161621c8-7f5e-35ac-89ec-13480079526c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
-      "summary": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
-      "published_at": "2026-08-18T00:20:43Z"
     },
     {
       "id": "b7693fb0-2702-30c4-a023-b62229c0fa79",
@@ -57,6 +178,17 @@
       "url": "https://www.fool.com/investing/2026/08/17/chevron-struck-oil-off-angola-here-s-what-cvx-investors-need-to-know/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qNF0LJk49DZS22n6xIi0rQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8d5334edd7a98d34c7cd3905b84142dc.png",
       "published_at": "2026-08-18T00:15:01Z"
+    },
+    {
+      "id": "fc5643f9-a7a4-3fdf-b877-278d44482173",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Review & Preview: Chips Aren’t Enough",
+      "summary": "Another quiet day on Wall Street led to a rally in chips and energy stocks, but the rest of market languished in the August sun.  The Dow Jones Industrial Average fell 272 points, or 0.5%, on Monday.  The S&P 500 dropped 0.5%.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stockstoday-chip-rally-not-enough-lift-stocks-indexes-down-d5f5352c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-17T23:55:00Z"
     },
     {
       "id": "c5ed5288-1591-3a54-bccf-0a9ebae15f0d",
@@ -112,17 +244,6 @@
       "url": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xy1O8eaN7T3DfklGotcPXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/14ede491aceb7b2cbc951cdb484bb4d4.jpg",
       "published_at": "2026-08-17T22:56:01Z"
-    },
-    {
-      "id": "2e274392-8f53-3aac-be8a-c830feee7207",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Top Market Strategist Warns Anthropic’s 40-50x Revenue Multiple for IPO Could Be “Dangerous”",
-      "summary": "A top market strategist just called out the biggest risk hiding inside Anthropic's upcoming IPO, and it has nothing to do with the quality of the company or its technology.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/top-market-strategist-warns-anthropics-40-50x-revenue-multiple-for-ipo-could-be-dangerous/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/73sRYiSRgvBvUHLN3vVfUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/92fabb2a2a8204edc81ce6f5d4531e38.jpg",
-      "published_at": "2026-08-17T22:28:31Z"
     },
     {
       "id": "bf01f292-f3ec-338b-9898-586027a1aa77",
@@ -189,127 +310,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/biosig-technologies-q2-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UZGgENOnidcydbSTkyST4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/4ee6c50760953531e6cf6ce00b9e390f.png",
       "published_at": "2026-08-17T22:02:38Z"
-    },
-    {
-      "id": "e80d6b4c-88c2-36af-bc2f-b4aa86b29096",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
-      "summary": "Nvidia is betting big on OpenAI's future -- to the tune of $105 billion in financing guarantees.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/nvidia-lines-up-105-billion-for-openai-heres-what-it-means-for-investors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hvmRkafUG_9G2YFXkA9z_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c4f2aa927fcff9c9f1ca045d8a8eb39f.jpg",
-      "published_at": "2026-08-17T21:50:01Z"
-    },
-    {
-      "id": "fa7380e4-db7e-3df7-afa2-5c96c9ebab6f",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Situational Awareness’ 13F Reveals an $11 Billion AI Bet That Unraveled in Under a Month",
-      "summary": "Leopold Aschenbrenner built one of the most concentrated AI bets in hedge fund history, and then watched it come apart in under a month in ways that forced a fire sale to a rival firm.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fKbUnWaC_Opy3qvEQZdk3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/53160dee00cf48aca65affcdbf1ea611",
-      "published_at": "2026-08-17T21:48:19Z"
-    },
-    {
-      "id": "a7037492-737a-33e6-9bfa-60dbe7964b56",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus",
-      "summary": "Brent crude prices settled near $91 a barrel.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-drop-geopolitics-and-oil-price-risk-take-center-stage/cZYG0TMRJSc",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NqR_6SI0.MrTW_OMjlGfBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4b1cfd1cebb08709ce989ad97de7d87f.jpg",
-      "published_at": "2026-08-17T21:46:04Z"
-    },
-    {
-      "id": "1aec5e50-83ad-33cf-b22b-7f6081b0fc3e",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Financial Advisors Love Warren Buffett, but They Don’t Always Agree With Him",
-      "summary": "Money pros explain when they embrace the Oracle of Omaha’s investing wisdom and when they encourage clients to take a different approach.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/warren-buffett-wisdom-financial-advisors-ec4db144?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2yF.Y1MBJC8_qSORd7KYkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b0bdb56e3e81f8ee0e8d006047f197d4.jpg",
-      "published_at": "2026-08-17T21:42:00Z"
-    },
-    {
-      "id": "c40d72b1-1193-34c1-b148-cd952e438849",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings",
-      "summary": "On Aug. 17, 2026, bond yields climbed while major indices drifted near record levels ahead of pivotal retail earnings reports.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/17/stock-market-today-aug-17-markets-inch-lower-and-treasury-yields-rise-as-investors-wait-for-retail-earnings/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q6MZpqYtt8irylshqlci4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png",
-      "published_at": "2026-08-17T21:30:24Z"
-    },
-    {
-      "id": "fa8d80bf-8dca-303e-b153-8392c8151aeb",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "How Heavy AI Spending Can Pay Off for Amazon and Meta",
-      "summary": "Mark Mahaney sees growing signs that internet behemoths will get a return on their soaring capital expenditures.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/amazon-meta-stocks-ai-a973fab2?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d6HZouAe1oXK6zwh9oqatQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8500bf3d84c42e4f62c08c2d5a7b422e.jpg",
-      "published_at": "2026-08-17T21:16:00Z"
-    },
-    {
-      "id": "675901a9-a343-3174-8a5b-c26caea59112",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: US Equity Indexes Slide After Trump's Threats to Bomb Oman Lifts Crude Oil, 30-Year Treasury Yield Touches 19-Year High",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-trump-211106690.html",
-      "thumbnail": "",
-      "published_at": "2026-08-17T21:11:06Z"
-    },
-    {
-      "id": "1f67d75b-415b-3ad3-b39f-6d43828eb394",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "FactSet’s Kashner: Active Investors Prefer Performance to Cost",
-      "summary": "<p>As the ETF fee war kicks up again in new categories, cost still wins with vanilla investors. However, in active categories, FactSet’s Elisabeth Kashner breaks down a growing preference for performance in this midyear ETF flow look back. </p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/advisor-center/factsets-kashner-active-investors-prefer-performance-cost?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ScuNVDHKmvMuhJXwnUctYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/887428d1fadf4084621e5df550942bd1.png",
-      "published_at": "2026-08-17T21:06:17Z"
-    },
-    {
-      "id": "9220b446-384d-3f09-abd2-277280fdc280",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trading Day: Bonds play the blues",
-      "summary": "By Jamie McGeever ORLANDO, Florida, Aug 17 (Reuters) - Long-dated government bond yields around the world rose on Monday to levels not seen in decades.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/articles/trading-day-bonds-play-blues-210450520.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YUraielPo2oed16mKZHiBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6345113b89ba395aa00328a3034f6950.jpg",
-      "published_at": "2026-08-17T21:04:50Z"
-    },
-    {
-      "id": "6597f13d-e281-3adf-8557-0f4004e15b9d",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "TSLA Stock In Focus As Tesla Reportedly Preps Cybercab Public Launch In Austin This Month",
-      "summary": "Tesla’s regulatory status for commercial Cybercab service, however, is unclear.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-in-focus-as-tesla-reportedly-preps-cybercab-public-launch-in-austin-this-month/cZYGLCSRJST",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j4wNKkZBUYoFK_wwrR70Cw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f5db9c9bb7cfcd5ed35fd2674e1da73f.jpg",
-      "published_at": "2026-08-17T21:04:31Z"
-    },
-    {
-      "id": "05087d5a-0c2c-3cfb-ad1a-888a8617c91b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "30-Year Yield Rises to Highest Level Since 2007 as Oil and Treasury Supply Bite Bonds",
-      "summary": "In addition to oil, another bearish driver for bonds could be supply. Investors had to digest $125 billion in medium- and long-term Treasury debt last week.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/30-year-treasury-yield-high-d97d62f8?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a.0c2WUFfsdevuAO7RVSZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f4edb8996d38b54059f8cd598500d1b3.jpg",
-      "published_at": "2026-08-17T21:04:00Z"
     }
   ]
 }
