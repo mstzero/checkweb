@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-18 02:18 UTC",
+  "last_updated": "2026-08-18 03:22 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "5-star analyst sets alarming SpaceX stock price target",
+      "summary": "SpaceX(SPCX) stock is back trading near $140, up nearly 5% over the past week, as investors find new reasons to bet on Tesla (TSLA) CEO Elon Musk’s newest public-market heavyweight. Also, the latest 13F filings are only adding to the fuel. AI behemoth Nvidia(NVDA) disclosed 122.76 million ...",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/5-star-analyst-sets-alarming-spacex-stock-price-target",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p4qjvaVWdMwICl7w_t_zAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/43b47effccc97351b3ecac3d3f2eeb3f.jpg",
+      "published_at": "2026-08-18T03:07:00Z"
+    },
+    {
+      "id": "69a88062-d690-393e-beb4-36a72e0e723d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Rising oil, US yields add to rupee pressure after RBI move",
+      "summary": "By Nimesh Vora MUMBAI, Aug 18 (Reuters) - The rupee is poised to open weaker on Tuesday, with rising oil prices and U.S. bond yields adding to pressure on the currency from the central bank bringing",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/rising-oil-us-yields-add-025240717.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/auVlf.U2xtQxA67Noymxuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/fc0dbb0dbd5c19135e0ff20b50ba9429.jpg",
+      "published_at": "2026-08-18T02:52:40Z"
+    },
+    {
+      "id": "52180e5d-d632-3d1e-90c8-6f2af3dc07ea",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "JGB Yield Curve Steepens Amid Inflation, Fiscal Concerns",
+      "summary": "0210 GMT — The Japanese government bond yield curve steepens in Tokyo’s morning session amid concerns about higher inflation in Japan stemming from rising crude oil prices.  Worries also persist over how the Japanese government will finance its planned reduction in the food consumption tax to 1% from 8% for two years starting next April.  “In a world where people are fretting about the size of government budget deficits [and] ongoing inflationary pressures, what we are seeing is sort of a nasty bear steepening of yield curves at the moment,” says NAB chief economist  Sally Auld  in a podcast.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/jgbs-fall-amid-expectations-for-faster-pace-of-boj-rate-increases-1895b06c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-18T02:50:00Z"
+    },
+    {
+      "id": "70d14d7a-65b2-3b42-9db6-1ad0cfe6489b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares set for muted open as oil tops $91, US-Iran ceasefire expires",
+      "summary": "Aug 18 (Reuters) - Indian equities are likely to open largely unchanged on Tuesday, with the temporary U.S.-Iran ceasefire expiring and hopes of a deal to end the conflict fading, keeping oil prices",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-open-022143171.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XViX5ElQN56nXHIm_RxpxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/428b8e57bacae0e49ab59085b62956d8.jpg",
+      "published_at": "2026-08-18T02:21:43Z"
+    },
+    {
+      "id": "bf409f7b-8c40-3075-841b-b365b2ef817f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "ProPetro, Patterson-UTI, and HighPeak Energy Stocks Trade Up, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after Iran ruled out extending a 60-day memorandum of understanding with the United States.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/energy/articles/propetro-patterson-uti-highpeak-energy-021420383.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T02:14:20Z"
+    },
     {
       "id": "161621c8-7f5e-35ac-89ec-13480079526c",
       "asset": "NVDA",
@@ -13,6 +68,17 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
       "published_at": "2026-08-18T02:08:51Z"
+    },
+    {
+      "id": "f338191e-ff3f-3b81-bb04-a22eed6a0055",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Micron Reclaims $1,000 Amid Fresh Memory Momentum: Jim Cramer Says MU Stock Can ‘Double Again’",
+      "summary": "Strong cloud growth and continued record data-center spending from Big Tech are fueling strength in the memory trade.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/micron-reclaims-1-000-amid-fresh-memory-momentum-jim-cramer-says-mu-stock-can-double-again/cZYTMjsRJSe",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hNwoPsqTFeaK6D1jXMZ.wQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/26907f1a262eec3f88eb9971f21cd763.jpg",
+      "published_at": "2026-08-18T01:59:52Z"
     },
     {
       "id": "c2924be3-f6ee-3dde-913e-535a37a294a8",
@@ -244,72 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xy1O8eaN7T3DfklGotcPXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/14ede491aceb7b2cbc951cdb484bb4d4.jpg",
       "published_at": "2026-08-17T22:56:01Z"
-    },
-    {
-      "id": "bf01f292-f3ec-338b-9898-586027a1aa77",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "JPMorgan lifts Bitcoin miner's price target after $9.1B Anthropic deal",
-      "summary": "JPMorgan Chase has raised its price target on Riot Platforms (Nasdaq: RIOT), a Bitcoin miner increasingly moving into AI infrastructure, to $22 from $20, while keeping its Overweight rating. The bank said in an Aug. 17 research note that Riot is \"building momentum,\" pointing to a ...",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/jpmorgan-lifts-bitcoin-miners-price-target-after-9-1b-anthropic-deal",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o.zTk0iYhsR78Dr0kpZgDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c0de944fba0b574a4e4be2314761c15d.jpg",
-      "published_at": "2026-08-17T22:21:09Z"
-    },
-    {
-      "id": "2555c812-079c-30a7-9368-42967cbef146",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Nike Stock Hits 12-Year Low: Riskier Than Bitcoin?",
-      "summary": "Nike stock hit a 12-year low, down 78% since 2021. Bitcoin fell half as far. See what broke the swoosh in this report.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/nike-stock-12-year-low-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxNvtDTlokPkydtvMLQuZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/ffcefd61dbbadd84302bc92df22cb68f.png",
-      "published_at": "2026-08-17T22:18:36Z"
-    },
-    {
-      "id": "f1560394-d73e-3f74-b64f-4e79fc36a9cb",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
-      "summary": "<body><p>VIDEO SHOWS: n/a</p><p>STORY: U.S. stocks fell on Monday, with the Dow and S&P 500 each shedding roughly half a percent, and the Nasdaq dropping about a third of a percent.</p><p>:: Home Depot</p><p>With July's weak retail sales and jobs data fresh in their minds, investors were cautious as they waited for quarterly results from retailers. Home Depot is due to report on Tuesday, TJ Maxx's parent company on Wednesday, and retail bellwether Walmart on Thursday.</p><p>Anna Rathbun is founder and CEO of Grenadilla Advisory.</p><p>\"I'll be looking for more of the K-shaped economy narrative for the consumers, especially from companies like Walmart, TJ Maxx, and to a certain degree, Target as well. And what these companies are doing really to help the lower leg of the K-shaped economy, as well as trying to capture market share of people who are trying to stretch the dollar a little bit further coming from the middle class.\"</p><p>Among individual stock moves,&nbsp;Microsoft and Meta Platforms provided the biggest drags on the S&P 500, with both declining more than 3%.</p><p>Chip stocks provided a boost with Micron Technology adding 4% and Applied Materials climbing 5.5%.</p><p>Meanwhile, oil futures settled up more than $2 per barrel as investor pessimism about diplomatic efforts to resolve the Iran war fanned global supply worries. That provided a boost to stocks of energy companies.</p><p>Energy was the sole gainer among the S&P 500's 11 major sectors.</p></body>",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/wall-street-indexes-slip-oil-221542467.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hKZ4a.j7QGf_L8bNEfzltg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/b95cd8b5-5c48-4f87-a7b2-12604cacd42f/main/1280x720/48s/match/image.jpg",
-      "published_at": "2026-08-17T22:15:42Z"
-    },
-    {
-      "id": "2f711951-0401-3401-b88a-e766c5c190bf",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "The Cheapest Gold ETFs to Buy for Diversification",
-      "summary": "Gold ETFs can provide diversification benefits and serve as long-term stores of value, without the hassle of holding physical bullion.",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/commodities/gold/22000/7-gold-etfs-with-low-costs",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JJYPl.98JXTcS8mSTsiH1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/35a673f38fb3645f952363babd98c27d.jpg",
-      "published_at": "2026-08-17T22:14:02Z"
-    },
-    {
-      "id": "8aac21ce-5f02-3c6b-a336-14c976f4ae56",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "QQQI’s 14% Yield Erases a $500,000 Cost Basis in Seven Years, Then the Tax Bill Lands",
-      "summary": "QQQI's 14% yield sends monthly checks that feel like income, but the math hiding inside your annual 1099 could turn years of distributions into a tax liability that blindsides you at the worst possible moment.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/17/qqqis-14-yield-erases-a-500000-cost-basis-in-seven-years-then-the-tax-bill-lands/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H6xvGmqXDXGdAe03JvP80w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/728e36131a3df88a78b0d9dd13b36428.jpg",
-      "published_at": "2026-08-17T22:05:17Z"
-    },
-    {
-      "id": "5008965d-f0b4-3ed1-a92b-faf92aaf3543",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Biosig Technologies Q2 Earnings Call Highlights",
-      "summary": "Biosig Technologies (NASDAQ:STEX) provided a second-quarter update on its Streamex tokenization platform, reporting its first gold lease income while outlining plans to expand distribution for its yield-bearing gold token, GLDY, and launch a permissionless token, GLDC. Chief Executive Officer and c",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/biosig-technologies-q2-earnings-call-highlights-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UZGgENOnidcydbSTkyST4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/4ee6c50760953531e6cf6ce00b9e390f.png",
-      "published_at": "2026-08-17T22:02:38Z"
     }
   ]
 }
