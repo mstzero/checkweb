@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-18 05:54 UTC",
+  "last_updated": "2026-08-18 06:36 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "783de2cb-a025-320b-8665-782af2713d19",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sandisk Stock Is Down 30% From Its Peak: Is the Memory Winner Still a Screaming Buy Before September?",
+      "summary": "Sandisk's future is out of its hands.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/sandisk-stock-is-down-30-from-its-peak-is-the-memo/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MELIQBh6oilpKI1linXOxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7dcffcbfc268abaf64b42e11281c0e4b.png",
+      "published_at": "2026-08-18T06:20:00Z"
+    },
+    {
+      "id": "7f174efd-6396-320d-8a81-fa8da4e3458c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "ExxonMobil Holdings (XOM) Awards $1.1 Billion To Start Mozambique LNG Work",
+      "summary": "ExxonMobil Holdings (NYSE:XOM) and partners awarded US$1.1b in contracts to launch early work on the Mozambique Rovuma LNG Phase 1 project. The contracts support initial development activities ahead of a final investment decision on the large liquefied natural gas project. The move aims to address supply chain constraints early and prepare for potential acceleration of construction once full approval is secured. For readers looking to explore more ideas connected to large scale energy...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-awards-1-061235796.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GQ4TPTc.TeC2eRjirnXiPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/d0e83f1986544c84469d81df07bf81f3.jpg",
+      "published_at": "2026-08-18T06:12:35Z"
+    },
+    {
+      "id": "0eff4c63-600e-3f39-8cb5-5acbd487a23d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
+      "summary": "Management thinks AI's growing electricity needs can turn its fuel-cell technology into a multibillion-dollar power platform.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/bloom-energy-says-it-has-visibility-on-25-gigawatt/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0CoSQadjMH0D3G6ptUXH3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5508e7b7c6a72e31fd373381b1342278.jpg",
+      "published_at": "2026-08-18T05:50:00Z"
+    },
     {
       "id": "049106a0-55a4-3fe3-bfe1-4f8e14b7fa2b",
       "asset": "OIL",
@@ -268,17 +301,6 @@
       "published_at": "2026-08-18T03:05:49Z"
     },
     {
-      "id": "69a88062-d690-393e-beb4-36a72e0e723d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Rising oil, US yields add to rupee pressure after RBI move",
-      "summary": "By Nimesh Vora MUMBAI, Aug 18 (Reuters) - The rupee is poised to open weaker on Tuesday, with rising oil prices and U.S. bond yields adding to pressure on the currency from the central bank bringing",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/rising-oil-us-yields-add-025240717.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/auVlf.U2xtQxA67Noymxuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/fc0dbb0dbd5c19135e0ff20b50ba9429.jpg",
-      "published_at": "2026-08-18T02:52:40Z"
-    },
-    {
       "id": "161621c8-7f5e-35ac-89ec-13480079526c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -288,28 +310,6 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
       "published_at": "2026-08-18T02:08:51Z"
-    },
-    {
-      "id": "f338191e-ff3f-3b81-bb04-a22eed6a0055",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Micron Reclaims $1,000 Amid Fresh Memory Momentum: Jim Cramer Says MU Stock Can ‘Double Again’",
-      "summary": "Strong cloud growth and continued record data-center spending from Big Tech are fueling strength in the memory trade.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/micron-reclaims-1-000-amid-fresh-memory-momentum-jim-cramer-says-mu-stock-can-double-again/cZYTMjsRJSe",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hNwoPsqTFeaK6D1jXMZ.wQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/26907f1a262eec3f88eb9971f21cd763.jpg",
-      "published_at": "2026-08-18T01:59:52Z"
-    },
-    {
-      "id": "c2924be3-f6ee-3dde-913e-535a37a294a8",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Upland Software, The Trade Desk, and SoundHound AI Shares Are Falling, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after Bloomberg reported that Anthropic’s preliminary second-quarter revenue topped $11.5 billion.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/upland-software-trade-desk-soundhound-015820312.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SwNJFAGcVentnQn6o8Z0hQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/faee6ecf688cfc9aa99f62bcb325e118.jpg",
-      "published_at": "2026-08-18T01:58:20Z"
     }
   ]
 }
