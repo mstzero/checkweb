@@ -1,18 +1,194 @@
 {
-  "last_updated": "2026-08-18 14:28 UTC",
+  "last_updated": "2026-08-18 15:02 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "2fe2034e-428f-3799-8a1d-1d453451056f",
+      "id": "ea616d31-d198-43af-a1c8-8934944f1de2",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla's new partnership: Swedish company Einride to deploy 500 Tesla semi-truck EVs",
+      "summary": "Tesla (TSLA) is partnering with Swedish trucking company Einride (ENRD), which is deploying 500 of Tesla's electric semi-trucks. Yahoo Finance's Julie Hyman explains the details.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/teslas-new-partnership-swedish-company-einride-to-deploy-500-tesla-semi-truck-evs-145522754.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.Vua4GLf6xtck_OvD0K0DA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0b25e310-2497-11f1-9e7f-a46509636004_8ae1bc1f975dcf9d51a9a94893a74e661f177affca35dd81c062745d9e40aef2.jpg",
+      "published_at": "2026-08-18T14:55:22Z"
+    },
+    {
+      "id": "ded3cb02-2ed0-3549-a483-59d5f50957a6",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Will Micron Stock Jump Another 200% By 2027? History Has a Clear Answer",
-      "summary": "The primary catalyst fueling Micron's impressive growth over the past year is sustainable for the next 18 months.",
+      "title": "There Is Now a Way to Collect 6.25% From Google. It Stops Paying in 2029",
+      "summary": "Alphabet quietly buried a listed income security inside its record-breaking equity raise, and most GOOGL shareholders have no idea it exists. The catch is that this yield has an expiration date written directly into the contract.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/there-is-now-a-way-to-collect-6-25-from-google-it-stops-paying-in-2029/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6hTRv.m1jduXmfzs16jtDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8274df207a028328213f884821359454.jpg",
+      "published_at": "2026-08-18T14:50:16Z"
+    },
+    {
+      "id": "9066afa3-5fd1-3eff-9179-3eba58fb75e8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What's Going On With The Metals Company Stock?",
+      "summary": "The tide of bullish enthusiasm for this deep-sea mining stock has ebbed since the year began.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/will-micron-stock-jump-another-200-by-2027-history-has-a-clear-answer/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m9UHa_iX02c8c1U2cCMpyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2eae65056a9f27ddb4f036a858da46d9.jpg",
-      "published_at": "2026-08-18T14:20:01Z"
+      "url": "https://www.fool.com/investing/2026/08/18/whats-going-on-with-the-metals-company-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ip.OooN4rfFh9USxmB88iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9f17a81c2a68d91d86c1329da3126185.jpg",
+      "published_at": "2026-08-18T14:50:00Z"
+    },
+    {
+      "id": "e90b63af-4b6c-35bc-8008-ee665957e544",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Huang Says the $105 Billion OpenAI Deal Isn't Circular Financing",
+      "summary": "OpenAI pays only as capacity becomes available, with 800 megawatts due online by 2028",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/huang-says-105-billion-openai-144632036.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T14:46:32Z"
+    },
+    {
+      "id": "87a1a761-b4a8-3387-bdcb-5547b0a1e789",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "10-Year Treasury Yield Near Breakout; What You Need To Know",
+      "summary": "Higher oil prices risk stoking inflation pressures at a bad time for the S&P 500 bull market, which has been fueled in part by a wave of debt issuance to finance the AI data center buildout.  Higher yields on government debt also push up rates for corporate debt and suggest that the bond market's appetite for both is running into limits that may require still-higher rates to grease the wheels for additional borrowing.  Wall Street strategist Ed Yardeni coined the term \"bond vigilantes\" in the 1980s to personify the community of bond traders who punished Washington for fiscal excess by driving up Treasury yields.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/10-year-treasury-yield-near-breakout-why-it-matters/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7c6G10T1.wZG3V2XztTPWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/af6accb33c69638c41629aff8b596b48.jpg",
+      "published_at": "2026-08-18T14:45:49Z"
+    },
+    {
+      "id": "c7f9f511-b803-3557-b680-f8aad6d1e0b6",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple's Foldable Could Lift iPhone Prices 11%, Redburn Says",
+      "summary": "Redburn models 14 million foldable units at $2,199",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-foldable-could-lift-iphone-144502334.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T14:45:02Z"
+    },
+    {
+      "id": "46dedc7f-6f21-3845-8b72-c09a15c2cf4e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Backs OpenAI's Ohio AI Hub With $100 Billion",
+      "summary": "The chipmaker is taking a bigger role in AI infrastructure.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-openais-ohio-ai-144319382.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T14:43:19Z"
+    },
+    {
+      "id": "39a8b2af-7915-3c7c-a6a1-30bd9f2b30d8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Is Cutting Rubin Ultra’s Memory. Is Micron’s HBM Boom in Danger?",
+      "summary": "Nvidia is quietly testing stripped-down memory configurations for its next flagship AI chip, and the ripple effects could hit Micron shareholders before most of them even see it coming.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/nvidia-is-cutting-rubin-ultras-memory-is-microns-hbm-boom-in-danger/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7mo6pK4TlMSXr_J312Hl.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/afc23c40a0b3692cf73891f6468642af.jpg",
+      "published_at": "2026-08-18T14:40:37Z"
+    },
+    {
+      "id": "64488a3b-74ee-3bcd-8629-deb25f4c12de",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "4 Famous Billionaire Investors Just Bought This Little Known Semiconductor Stock",
+      "summary": "Four of Wall Street's most closely watched hedge fund managers quietly built massive stakes in the same obscure semiconductor name, while one legendary contrarian investor just walked away entirely. The disagreement at the top reveals a high-stakes bet with very different outcomes depending on who is right.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/4-famous-billionaire-investors-just-bought-this-little-known-semiconductor-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KxFDG6nJzhhDrWEAzpEFGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/be73378afef9b3d5bafa336e66fc5306.jpg",
+      "published_at": "2026-08-18T14:40:17Z"
+    },
+    {
+      "id": "0d831b50-35f8-3594-8191-4c8c6fca7358",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Is on Track to Beat the S&P 500 for the 4th Straight Year. Should Its $500 Billion AI Infrastructure Financing Plan Give Investors Pause?",
+      "summary": "The chipmaker's partnership with six financial institutions will help diversify its customer base beyond hyperscalers and neoclouds.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/nvidia-is-on-track-to-beat-the-sp-500-for-the-4th/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wMZpfPFVJbMgwQvCbYJ_oQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5460cbeb056f86e8d410b1a55d28e4cd.png",
+      "published_at": "2026-08-18T14:40:00Z"
+    },
+    {
+      "id": "48c2c3b6-eedb-3e4f-818d-26b73040ea4a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Ken Griffin Threatened to Walk Away From NYC Amid a Feud With Mamdani. Citadel Just Committed $4.5 Billion Instead",
+      "summary": "Ken Griffin went to Oslo, called the New York mayor's video creepy, and threatened to take Citadel's jobs to Miami. Then the demolition crews showed up anyway.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/ken-griffin-threatened-to-walk-away-from-nyc-amid-a-feud-with-mamdani-citadel-just-committed-4-5-billion-instead/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rxM20meb9se9Y_H65dmuoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eb69e4bb8586c15ef2c97cb83eccf99a",
+      "published_at": "2026-08-18T14:39:35Z"
+    },
+    {
+      "id": "b4a5c0c7-1b25-33db-a844-4c32b7d5dd56",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin’s Rebound to $64K a ‘Liquidity Illusion’ as Trading Volume Falls",
+      "summary": "Bitcoin (CRYPTO: $BTC) has climbed above $64,000, but the rebound is taking place in thin trading conditions, raisi...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/bitcoins-rebound-to-64k-a-liquidity-illusion-as-trading-volume-falls-6457",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oaiyOL9ju.jwmMF_TNY.1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/0ffd80591401a9444f795ffd8ef1086a.jpg",
+      "published_at": "2026-08-18T14:37:00Z"
+    },
+    {
+      "id": "5bba3f94-1f65-36ca-b767-b452f3d93857",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Vineland, New Jersey city council approves DataOne expansion for Nebius AI data center",
+      "summary": "The 587,980-square-foot approval advances a 300 MW New Jersey site tied to Nebius’ multibillion-dollar Microsoft infrastructure agreement, despite resident opposition and unresolved permitting questions around its on-site power system.",
+      "source": "Blockspace",
+      "url": "https://blockspace.media/insight/vineland-approves-dataone-ai-data-center-expansion/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xEYrpYKbBQIxyI8ezMrT0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/blockspace_702/2762a0fb45d817500d211c120e7b2442.jpg",
+      "published_at": "2026-08-18T14:30:44Z"
+    },
+    {
+      "id": "95283d2b-24dd-39be-86fb-9f8520d58b72",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Price Prediction: One Number Could Decide How High Microsoft Goes in 2027",
+      "summary": "Azure just crossed $100 billion and Copilot is scaling fast, yet Microsoft shares sit flat on the year. One overlooked number buried in the earnings report could determine whether this stock doubles Wall Street's expected upside by 2027.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/price-prediction-one-number-could-decide-how-high-microsoft-goes-in-2027/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ndbIWsL72e.pQbgh1HQDyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a9b6eaceacee3162ebaf9d46429dfa7e.jpg",
+      "published_at": "2026-08-18T14:30:27Z"
+    },
+    {
+      "id": "4f162894-27b1-3518-a5f9-c3e05379ec5a",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Lands 500-Truck Order From Einride in World's Largest Tesla Semi Deployment",
+      "summary": "Tesla Inc. (NASDAQ:TSLA) has landed an order for 500 Semi electric trucks from Einride AB (NASDAQ:ENRD), in what the Swedish freight company calls the largest Tesla Semi deployment announced to date. The deal comes just months after the first Semi...",
+      "source": "Benzinga Prediction Markets",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61276080/tesla-semi-order-einride-500-trucks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BIIdGfG.fOLG2Vd.nG50Iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/e56f7e7dc079bb80f909d25ccde4f44c.jpg",
+      "published_at": "2026-08-18T14:28:28Z"
+    },
+    {
+      "id": "fdb8b55e-c80b-38c5-bab0-70133d76c05f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Today: Nasdaq Falls As Treasury Yields Rise; Micron, Sandisk And Fabrinet All Slide (Live Coverage)",
+      "summary": "Stock Market Today: The Nasdaq tumbles Tuesday as Treasury yields jump. Nvidia stock, Micron and Sandisk fall Tuesday morning.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GfjsFqSrwJIqjQJ2wWUduw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b.jpg",
+      "published_at": "2026-08-18T14:21:08Z"
+    },
+    {
+      "id": "c28ea3d4-f829-397a-9218-4909ccb1bec6",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Bezos Quietly Leases 100,000 Square Feet In Oakland For Start-Up That Could Drive “Civilizational Wealth”",
+      "summary": "Jeff Bezos just signed a quiet lease on a massive Oakland warehouse for a secretive AI venture he says will reshape civilizational wealth, and nobody at the company is talking about what gets built inside.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/bezos-quietly-leases-100000-square-feet-in-oakland-for-start-up-that-could-drive-civilizational-wealth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gpzH9lN2Yyvc9cfRwAdeuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3a4c4146a5954f7fc6d7c952c844d78d.jpg",
+      "published_at": "2026-08-18T14:20:10Z"
     },
     {
       "id": "7adf7450-36fe-3a96-86c7-ff965c2a4450",
@@ -48,26 +224,15 @@
       "published_at": "2026-08-18T14:14:00Z"
     },
     {
-      "id": "0a8b4c08-d486-3a71-9d3d-c8a052e04472",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
-      "summary": "Kailera Therapeutics raised one of the biggest obesity biotech IPOs in recent memory, then watched its stock drop nearly 30%. Now several of the world's largest drugmakers have a compelling reason to make a move before pivotal trial data arrives.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/kailera-therapeutics-the-record-breaking-obesity-ipo-big-pharma-cannot-ignore/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.CA18ityzPZ94UqK7_Si3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/88670fd6fc2f28f3f34c89efb8932281.jpg",
-      "published_at": "2026-08-18T14:10:23Z"
-    },
-    {
-      "id": "c0dcda8c-b4cb-3d85-a545-a5d50c9270df",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
-      "summary": "Novo Nordisk, CVS Health, and Bristol Myers are top dividend stocks that are trading at modest valuations.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/3-absurdly-cheap-dividend-stocks-to-buy-for-under-usd100-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PPEuZ.cjqpm48Q2WcigNyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4c8937099e75ba4df926aa335acdde8d.jpg",
-      "published_at": "2026-08-18T14:08:08Z"
+      "id": "bbbf9ebf-e06d-310d-ac6c-03852ad48376",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Home Depot (HD) Puts Express Delivery Nationwide And Raises The Stakes Online",
+      "summary": "Home Depot (NYSE:HD) has rolled out Express Delivery nationwide, offering rapid fulfillment for Pro and DIY customers across its U.S. store network. The service uses Home Depot stores as local fulfillment hubs to shorten delivery times for a wide range of home improvement products. The nationwide expansion supports the company’s omni channel growth plans by tightening the link between online ordering and in store inventory. The move may influence customer retention, order frequency, and how...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-puts-express-141351486.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rSBTygoca5KPbNgcvv7KKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fea73d9c579c9c3e17ad19b3ebe1b73c.jpg",
+      "published_at": "2026-08-18T14:13:51Z"
     },
     {
       "id": "f2eec254-91dc-3bc3-bc73-0ca495f80fcc",
@@ -93,8 +258,8 @@
     },
     {
       "id": "9bdb5865-4862-3d0a-b332-7571732b5958",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "I Own Enbridge for the Yield, Not the Growth Story. Here's Why This Quarter Didn't Change My Mind.",
       "summary": "Enbridge's solid history of dependable dividends has made it a favorite of income-oriented investors.",
       "source": "Motley Fool",
@@ -114,17 +279,6 @@
       "published_at": "2026-08-18T14:03:34Z"
     },
     {
-      "id": "e970332d-e50b-36a1-97a8-b33149b0d394",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Massive AI Data Center Demand Will Make This Infrastructure Stock a Multibagger in Just 3 Years",
-      "summary": "Nebius' phenomenal revenue growth potential suggests it can continue to skyrocket.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/prediction-massive-ai-data-center-demand-will-make-this-infrastructure-stock-a-multibagger-in-just-3-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.g8vCDhFw882ueFKo8W_WQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dad850562ba48170b0b4230251afaa0e.png",
-      "published_at": "2026-08-18T14:03:01Z"
-    },
-    {
       "id": "a46d53d5-ab0d-3674-b08c-242205931ac9",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -134,17 +288,6 @@
       "url": "https://247wallst.com/investing/2026/08/18/amazons-zoox-is-expanding-its-robotaxi-to-san-francisco-and-las-vegas-tesla-should-be-worried-2/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F1i4c8R4ioJ4FdpIrPSpfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b03f9c11afb4414f7deef15e92c57fb5.jpg",
       "published_at": "2026-08-18T14:00:12Z"
-    },
-    {
-      "id": "3aa5a277-2943-379c-a5fb-1bd98fc81752",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Intel Owns Just 2 Stocks Worth $620 Million: Here’s What That Concentrated Bet Reveals",
-      "summary": "Intel sits on roughly $30 billion in cash, yet its entire disclosed stock portfolio fits inside just two struggling companies tied to autonomous flight and self-driving cars. The reasoning behind that concentrated bet says more about CEO Lip-Bu Tan's grand vision than any earnings call ever could.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/intel-owns-just-2-stocks-worth-620-million-heres-what-that-concentrated-bet-reveals/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F99T8.hDAAXrZTKpaKKUjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/325cbbcfead0abf416fd4e9bb50db0fe.jpg",
-      "published_at": "2026-08-18T14:00:02Z"
     },
     {
       "id": "2b7fac3b-9545-3112-b029-d348f8551088",
@@ -159,157 +302,14 @@
     },
     {
       "id": "e223093e-d617-3c70-9a22-5dc3a13ddff7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Microsoft Is Owed Billions It Hasn’t Collected. One Analyst Says That Line Tells You Who Holds the Power",
       "summary": "A line buried in Microsoft's cash flow statement that most investors skim past may reveal more about who holds power in the AI buildout than any revenue growth figure the company chooses to announce.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/18/microsoft-is-owed-billions-it-hasnt-collected-one-analyst-says-that-line-tells-you-who-holds-the-power/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cEMoz.SO_bGWo1sQ9eUlFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/488057af4aea60be04b281b5dcd14b08.jpg",
       "published_at": "2026-08-18T13:59:13Z"
-    },
-    {
-      "id": "119e42b0-023b-30b5-b302-d9d94e0096d6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin on Alert as 30-Year Treasury Yield Hits Level Last Seen Before 2008 Crash",
-      "summary": "The 30-year US Treasury yield climbed to around 5.29%, its highest level since 2007, increasing pressure on Bitcoin and other risk-sensitive assets. Elevated risk-free ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-alert-30-year-treasury-yield-2007-high/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sMr1.YLCHKEKlPgWl3CH3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/36b0ecef0a5d4a753e665d8ef3f36cad.png",
-      "published_at": "2026-08-18T13:58:56Z"
-    },
-    {
-      "id": "525819b3-3bdf-3534-bc00-5464e1acce35",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Metaplanet Invades Saylor’s Home Turf. Couldn’t Japan Fund Its Bitcoin Ambitions?",
-      "summary": "Metaplanet puts 2,100 Bitcoin into Nasdaq's Superplanet, invading the US preferred market Saylor's Strategy built.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/metaplanet-superplanet-bitcoin-saylor-preferred/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l4A9A90nxaAflFiLyqZS.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/b95d519ffc7c27522cd773aecfffb1b0.png",
-      "published_at": "2026-08-18T13:58:50Z"
-    },
-    {
-      "id": "75060215-e14d-3981-ae27-64c27df7be5d",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Billionaire David Tepper’s Top 5 Holdings Just Revealed",
-      "summary": "Billionaire David Tepper just filed his Q2 13F, and the moves he made inside his AI mega-cap positions tell a more complicated story than the headline holdings suggest.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/billionaire-david-teppers-top-5-holdings-just-revealed-2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y.9T_5gAAcSIye8hwdS88Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/814b6ac5816e4a61c081dede58fc3060.jpg",
-      "published_at": "2026-08-18T13:58:22Z"
-    },
-    {
-      "id": "cbd06751-ce7c-3122-9990-0270ca9e93b8",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "This Stock Is Jumping on Its Big Plans for the Tesla Semi Truck",
-      "summary": "FEATURE  Shares of small-capitalization, Swedish trucking firm Einride soared early Tuesday after the company announced plans for “the world’s largest Tesla Semi deployment.”  The Tesla Semi truck was introduced back in 2017.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/einride-stock-price-tesla-semi-truck-c4e436e9?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/agOxb6DkpTfbM0AF.IZEtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/9d7f3fdcada28c86546228900700698f.jpg",
-      "published_at": "2026-08-18T13:58:00Z"
-    },
-    {
-      "id": "063a2978-daec-368b-8347-993b685ffe58",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "SpaceX Stock Drops After Spending $60 Billion to Bolster Musk’s AI Ambitions",
-      "summary": "SpaceX  doesn’t waste any time developing rockets, launching satellites, or making big moves to build its AI business.  The purchased company is essentially an AI software development tool.  A user can tell Cursor to develop, say, a touch screen-based user interface.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-ai-musk-cursor-e773d2aa?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dnLGX8MpyK80k7cbvhcqAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d7199b25ebe0101f86803221db884091.jpg",
-      "published_at": "2026-08-18T13:56:00Z"
-    },
-    {
-      "id": "cc04d059-7a46-3ebe-9106-d47570f27ffc",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "DA Davidson Reverses Course on Nebius Target Cut in Just 1 Week. What Is Going On?",
-      "summary": "A Wall Street analyst slashed his Nebius price target by 30% and then reversed the entire cut just seven days later, and the reason has nothing to do with earnings. It all comes down to a single data center in New Jersey.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/da-davidson-reverses-course-on-nebius-target-cut-in-just-1-week-what-is-going-on/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iqgWL0eQVomPLntfuyBo_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e7943ef22c498cabe69ce14ba6d41039.jpg",
-      "published_at": "2026-08-18T13:52:51Z"
-    },
-    {
-      "id": "daa30a4d-b15a-36c0-a80c-a841300f14f8",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Top Analyst Sees the S&P 500 at 10,000. He Says He Can’t Find a Reason It Won’t Happen",
-      "summary": "A top Wall Street analyst sees the S&P 500 hitting 10,000 within 18 months and says he cannot find a single reason it will not happen. The earnings data actually backs part of his case, but the part that matters most for your portfolio is the part he left out.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/top-analyst-sees-the-sp-500-at-10000-he-says-he-cant-find-a-reason-it-wont-happen/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S0tG2X2TZfHMCDJ6xObhLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2735f2220d54d5fc5123c2555af0ab20.jpg",
-      "published_at": "2026-08-18T13:50:19Z"
-    },
-    {
-      "id": "e16f43ac-e11e-411f-ab90-50a766666e97",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Global bond sell-off pressures stocks: AlphaCheck",
-      "summary": "Tech stocks took a leg lower amid concerns about rising borrowing costs.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rTALqc9Q7MiBV0HYpF_M_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/bf5b1758-b014-495c-9b2b-4fdff6e4718c",
-      "published_at": "2026-08-18T13:50:11Z"
-    },
-    {
-      "id": "8d2636ad-8bf0-37fb-9b7d-41964df4365e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks mostly drop as Mideast hopes dim, interest rates rise",
-      "summary": "Stock markets mostly fell on Tuesday after a US-Iran truce expired with no progress towards reopening the Strait of Hormuz, adding to fears that higher energy prices will drive up inflation. European equities mostly fell in afternoon trading, with Frankfurt and Paris both lower while London -- which has more major energy companies in its indexes -- was supported by higher oil prices.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-extends-gains-most-stocks-082408030.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rQiXrVSCZ3hAj6q6KWJs2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/cdbf33a16b10ad94d979a0db89749505.jpg",
-      "published_at": "2026-08-18T13:47:59Z"
-    },
-    {
-      "id": "ddc7a9cc-77f9-310d-9de0-eab508d01b6e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Nvidia Stock Is in for Cathie Wood’s ARK and This AI Play Is Out",
-      "summary": "Nvidia  stock was slipping early Tuesday amid headwinds for the entire semiconductor sector.  Nvidia shares were down around 2% in early trading.  Meanwhile, Wood sold 25,917 shares of AMD across largely the same funds.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-amd-cathie-wood-c0694a5b?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/blH3BVcsCK8KkYbRPEABzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8b8ff1ecb127e7d18766f89de607ab0c.jpg",
-      "published_at": "2026-08-18T13:47:00Z"
-    },
-    {
-      "id": "31d4a6d3-b1ac-3c10-9499-ab7cae8fed2c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Extends Gains As Hormuz Solution Appears Distant",
-      "summary": "Fading hopes for an agreement anytime soon to resolve the U.S.-Iran conflict kept oil futures buoyant with both sides claiming to have control of the Strait of Hormuz.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-lack-of-progress-in-u-s-iran-talks-to-reopen-strait-of-hormuz-df55d861?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gsmIWXKGboYHxIzjVor89g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6328aaa8d09d8ca50280f64765d606e8.jpg",
-      "published_at": "2026-08-18T13:47:00Z"
-    },
-    {
-      "id": "95fa8c65-9306-30a1-ad66-a8b665dfe700",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Musk Calls It “Absurdly Fake News,” But Signs Suggest That Tesla Execs Are Already Preparing To Walk Away From China",
-      "summary": "Elon Musk called the reports absurdly fake, but the operational architecture Tesla quietly built in China over the past two years tells a more complicated story.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/musk-calls-it-absurdly-fake-news-but-signs-suggest-that-tesla-execs-are-already-preparing-to-walk-away-from-china/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o4fWJFXqbrQSmuEMYlXX6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e0de225f12c0750f9eb606500440a97c.jpg",
-      "published_at": "2026-08-18T13:46:57Z"
-    },
-    {
-      "id": "2e28fb44-2f81-34c5-9b08-5e50f81b9346",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Marvell Technology Drops 6% as Rising Treasury Yields Swamp a Bullish UBS AI Note",
-      "summary": "A bullish UBS note on Marvell's AI business landed Tuesday morning, and the stock still cratered 6%. The reason has nothing to do with silicon and everything to do with what happened in the bond market.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/marvell-technology-drops-6-as-rising-treasury-yields-swamp-a-bullish-ubs-ai-note/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s65STbSPcWzD1vdAFWFacw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cea68a742de1a11b87124a4f3a44d8ac.jpg",
-      "published_at": "2026-08-18T13:46:02Z"
     }
   ]
 }
