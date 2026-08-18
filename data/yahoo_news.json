@@ -1,8 +1,184 @@
 {
-  "last_updated": "2026-08-18 19:48 UTC",
+  "last_updated": "2026-08-18 20:18 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "7eedd81a-bcdf-3188-8afb-c7f347377fa7",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin selling pressure is mounting, analyst warns of $54,000 if key support breaks",
+      "summary": "Ali Martinez flags miners, ETFs, and Strategy all selling simultaneously as exchange balances swell by $1.59 billion in ten days.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-selling-pressure-is-mounting-analyst-warns-of-54000-if-key-support-breaks",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ySoAtR1OMwhGT.tLVbJQXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a92822a07b5edc2634b08ca6bf7b4c9c.jpg",
+      "published_at": "2026-08-18T20:10:00Z"
+    },
+    {
+      "id": "f8849558-ea7a-3772-9382-c6dade48544e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Intuitive Surgical Stock Is Having Its Worst Year Since 2008. What's Behind the Sell-Off?",
+      "summary": "Investors appear to be second-guessing the company's long-term growth prospects in light of its recent earnings numbers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/intuitive-surgical-stock-is-having-its-worst-year-since-2008-what-s-behind-the-sell-off/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E6ISHJEijCcZNyWw4LQAEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ff5da1a991b955ab126132ed40dac4ee.jpg",
+      "published_at": "2026-08-18T20:09:51Z"
+    },
+    {
+      "id": "b8489bec-383e-36b1-b526-427fec05169e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why The Direxion Daily Semiconductor Bull 3X ETF Plunged Nearly 20% Today",
+      "summary": "It was a bad day for chip stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/why-the-direxion-daily-semiconductor-bull-3x-etf-p/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bitK5wjPenEP9Bjt0BIKng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c94aa83a5e092715397d6123da50fa27.jpg",
+      "published_at": "2026-08-18T20:07:59Z"
+    },
+    {
+      "id": "bbf906ef-bd00-3d99-a5bc-2a139bb8894f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Reveals a $21 Billion Position in SpaceX. Here's How That Could Impact Its Earnings",
+      "summary": "The chipmaker recently released its 13F holdings report, revealing a large stake in the space stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/nvidia-reveals-a-21-billion-position-in-spacex-her/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xPVBOHWuQ0r5As9RAXYjkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f90de1208b439ebb72b78b65c4eddb11.jpg",
+      "published_at": "2026-08-18T20:06:01Z"
+    },
+    {
+      "id": "619be0a5-a79c-35c4-8575-e17d87ca34e5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Berkshire Hathaway's Insurance Float Reached $177.5 Billion, While Underwriting Profit Fell 13%",
+      "summary": "Berkshire's insurance float has been a key long-term growth driver and reached a record level in the second quarter. Here's what that means for investors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/berkshire-hathaways-insurance-float-reached-1775-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GeueOdMdXKUy1cGbifyRDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/28b36f63c87bff5195dec7306d937a23.png",
+      "published_at": "2026-08-18T20:05:00Z"
+    },
+    {
+      "id": "d42fd524-a30e-32c9-b651-2c5fafc3e1dd",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Plans Cybercab Launch As Soon As This Month: Report",
+      "summary": "Tesla could begin offering robotaxi rides in Cybercabs by the end of the month, according to The Information. The stock is down 11.5% since last month's earnings call, which showed little progress on robotaxi expansion.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/tesla-cybercab-robotaxi-waymo-zoox/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqkn_usNC6ePw5o1mKFI5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ca986aa08e08ecfcd083b05dc285560d.jpg",
+      "published_at": "2026-08-18T20:02:22Z"
+    },
+    {
+      "id": "7adf7450-36fe-3a96-86c7-ff965c2a4450",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Swedish Trucking Company Inks Deal For Tesla Semi Truck Rollout",
+      "summary": "On Tuesday, Swedish logistics company Einride bought several hundred Tesla Semi trucks that will be used by Amazon and other customers in North America. Einride stock shot up, before falling about 4%.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/tesla-semi-amazon-einride-ev-trucking-shipping-electric-vehicle/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t8jxj4X4AExNNqi4cHCT1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/60cfed55265e882f501701a5aa110891.jpg",
+      "published_at": "2026-08-18T20:01:28Z"
+    },
+    {
+      "id": "0ca36cbe-77e8-3409-af8b-c15341aec1c2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Home Depot a Buy After Its Latest Report?",
+      "summary": "The retailer delivered solid second-quarter results, but the housing market remains sluggish.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/is-home-depot-a-buy-after-its-latest-report/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vwVlkia6px3_Hn3FAVow6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/00751f0d5a268a6f6e7849c6285097d1.jpg",
+      "published_at": "2026-08-18T20:01:13Z"
+    },
+    {
+      "id": "430f8b66-6b72-30de-88d4-7ca1e0508115",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Why Does the JEPI ETF Pay Less Than It Did in January When Its Sister Fund Pays More?",
+      "summary": "JEPI and JEPQ share the same manager, the same strategy, and the same market conditions, yet their monthly payouts have moved in opposite directions all year. The reason has nothing to do with JPMorgan and everything to do with what the options market thinks will happen next.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/18/why-does-the-jepi-etf-pay-less-than-it-did-in-january-when-its-sister-fund-pays-more/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6J.QCKJ5hGvoqrElURUXvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/13241ce3c87a731112a89ad91f3413cd.jpg",
+      "published_at": "2026-08-18T20:00:19Z"
+    },
+    {
+      "id": "7b53d7b2-e678-3f30-9389-141aad2b728b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Exxon Stock Surges 2.3% as Oil Breaks Above $91",
+      "summary": "Exxon gains as crude prices rise amid Iran tensions while record production and $17.2 billion free cash flow support results.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/exxon-stock-surges-2-3-200008899.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T20:00:08Z"
+    },
+    {
+      "id": "9cab75c8-3f56-3a9f-bf2b-09982f7f8cd4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Sector Update: Energy Stocks Higher Late Afternoon",
+      "summary": "Energy stocks gained late Tuesday afternoon, with the NYSE Energy Sector Index rising 1.1% and the S",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195911556.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T19:59:11Z"
+    },
+    {
+      "id": "c7383d14-7310-33c1-b04c-4460a94e0531",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Weave Communications Stock Soared Today",
+      "summary": "The AI software specialist received an attractive takeover bid.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/why-weave-communications-stock-soared-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KUszJoVDKdQDCXV7xELd1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed9dd13a5942a7d5677bf819f9cacfff.jpg",
+      "published_at": "2026-08-18T19:58:25Z"
+    },
+    {
+      "id": "02a6bfeb-f7f2-34dc-810f-b3f8559244b2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Salesforce Stock Rallied Today",
+      "summary": "The customer relationship manager is getting a little love from Wall Street.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/why-salesforce-stock-rallied-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/03tnDsDkv7obCAszT6rP7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/17f9b943cb61986ee01c5e3f066920c9.png",
+      "published_at": "2026-08-18T19:57:12Z"
+    },
+    {
+      "id": "8d9399dc-6676-332c-9440-c6f9c08e5e54",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Update: US Equity Indexes Fall as 30-Year Yield Hits 19-Year High, Crude Oil Advances",
+      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-30-195215372.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T19:52:15Z"
+    },
+    {
+      "id": "11301c8f-25f6-3b8a-b21d-2186f5c40b92",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Cuts EU App Fees to 5% Outside the App Store",
+      "summary": "The new structure takes effect Oct. 1.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/apple-cuts-eu-app-fees-195212178.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T19:52:12Z"
+    },
+    {
+      "id": "7d255928-439b-36d3-96c3-a614c854e9c2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "BlackRock updates its Bitcoin outlook after historic selloff",
+      "summary": "The world’s largest asset manager takes a fresh look at Bitcoin after its biggest test in months.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/blackrock-updates-its-bitcoin-outlook-after-historic-selloff",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sLhLEENREUSjoVZTio_8uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/04133e7215ae08fe2e8bf47d54132f63.jpg",
+      "published_at": "2026-08-18T19:42:47Z"
+    },
     {
       "id": "4a8e884e-0077-33c5-94a0-bbfa0df5041b",
       "asset": "NVDA",
@@ -13,28 +189,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193526211.html",
       "thumbnail": "",
       "published_at": "2026-08-18T19:35:26Z"
-    },
-    {
-      "id": "3b520a64-7b5f-3967-91e5-882fd5ea85cf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Opendoor Is Down 42% in 2026: How Does It Compare to Housing Competitors Like Offerpad and Compass?",
-      "summary": "Multi-decade highs in Treasury yields have carved a brutal divide through housing stocks in 2026, and not every real estate name is bleeding. One iBuyer is somehow up 246% while another sits near the bottom of the market.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/opendoor-is-down-42-in-2026-how-does-it-compare-to-housing-competitors-like-offerpad-and-compass/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kkm0BY3XjsuHENy3t3xnZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/16b9b24fb864989bc0a577f62a25bc62.jpg",
-      "published_at": "2026-08-18T19:30:21Z"
-    },
-    {
-      "id": "9de42ee6-d8fd-3e1f-abc7-70dad0c241a8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Bank of America Thinks Nvidia Stock Could Go 50% Higher",
-      "summary": "BofA analyst Vivek Arya says Nvidia stock trades at up to a 50% discount and keeps a $350 target ahead of earnings.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/nvidia-stock-bofa-350-target/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3o6MY5L12qkY8touZbRnCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/f7a1d9e4810fc46108da2b625e18eb38.jpg",
-      "published_at": "2026-08-18T19:29:15Z"
     },
     {
       "id": "65ccf154-300d-3925-8a1b-1a4a58efceb2",
@@ -81,17 +235,6 @@
       "published_at": "2026-08-18T19:22:38Z"
     },
     {
-      "id": "d27f7cd9-8a9e-3d7f-9137-57abd76ec234",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Thinking About Buying SpaceX? These 2 Stocks Should Be Better Bets",
-      "summary": "The space company is popular right now, but these other corporations look more attractive.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/thinking-about-buying-spacex-these-2-stocks-should/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M0de1s0GOmyb1MaTk0T5mw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0a816de3089a2ddd6e71be866be871ca.png",
-      "published_at": "2026-08-18T19:20:00Z"
-    },
-    {
       "id": "583efb93-e37e-3b4c-8187-b6f6aabb121c",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -112,17 +255,6 @@
       "url": "https://247wallst.com/investing/2026/08/18/tesla-is-down-25-in-2026-how-does-it-compare-to-ev-competitors-like-rivian-lucid-and-general-motors/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l8dXcxBwmSh0Lr_uWJazBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e37d471590480bd41452a76d350ba908.jpg",
       "published_at": "2026-08-18T19:15:06Z"
-    },
-    {
-      "id": "ad458c80-8637-33ba-992c-3179042a7154",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meet the Dividend King That's Quietly Crushing the S&P 500 in 2026. Here's Why It's a Buy This August.",
-      "summary": "Actually, it's smart to snap it up any time of the year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/meet-the-dividend-king-thats-quietly-crushing-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5koZ6LVdcR25XovReECUhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/036f873a6629b07c170331b3ddb72868.jpg",
-      "published_at": "2026-08-18T19:15:00Z"
     },
     {
       "id": "9e4afc0b-0c87-38df-8bbe-32477286a78e",
@@ -158,17 +290,6 @@
       "published_at": "2026-08-18T19:07:00Z"
     },
     {
-      "id": "4cd2bb4f-dee1-3c7f-9826-07f13a02a8aa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meet the Dividend King Stock That Yields More Than Quadruple the S&P 500. Here's Why It's a Buy in August.",
-      "summary": "PepsiCo has a strong commitment to paying dividends.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/meet-the-dividend-king-stock-that-yields-more-than/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6nGVbDOxAw6.STnXz1er_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6fcdbc42b835b0fed6b57f69d439d2cd.jpg",
-      "published_at": "2026-08-18T19:04:00Z"
-    },
-    {
       "id": "b9a24f34-8161-3d7f-8c55-c88428879973",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -189,127 +310,6 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/global-bond-markets-put-governments-145540790.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1_jxprEhHTzLr26FUtIf6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/171bed6aff67aef8144b225dad99a946.jpg",
       "published_at": "2026-08-18T19:01:05Z"
-    },
-    {
-      "id": "117ab8e6-db4d-3aec-9d33-59fcee7abb89",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb",
-      "summary": "By Shashwat Chauhan and Purvi Agarwal Aug 18 (Reuters) - The S&P 500 hit a two-week low on Tuesday and the Nasdaq Composite sank more than 1% with semiconductors leading declines in the heavyweight",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-fading-110447161.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.aUvN5e41WjNnpwzJoJ7mQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/37501aad12c85ab696815162df5a70fb.jpg",
-      "published_at": "2026-08-18T18:58:15Z"
-    },
-    {
-      "id": "b5e45608-8f86-32b8-9157-c39a805a2992",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Is the Small-Cap Surge a Trend or Temporary Rotation?",
-      "summary": "<p>Small-caps lagged their large-cap peers for over a decade in an environment dominated by the Fed put, failing to manifest any long lasting outperformance. With so much now changed, can small-cap performance this year manage to establish a longer-term trend or will it too prove to just be a temporary rotation? Find out what the industry experts think in this episode of<em> ETF Zoo</em>. </p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/podcasts/small-cap-surge-trend-or-temporary-rotation?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8quTktjMTOyCx1qkmXn5NA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/03776020f47bae16c70917674a23a9a2.jpg",
-      "published_at": "2026-08-18T18:56:20Z"
-    },
-    {
-      "id": "fbc73689-6329-369d-abe9-3cb90bd84e61",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Most of the SPYI ETF’s 12% Payout Is Your Own Money Coming Back. The IRS Waits Until You Sell.",
-      "summary": "SPYI's eye-catching monthly payouts hide a tax mechanic that quietly rewrites your cost basis every single distribution, and investors who spend the checks without tracking the paperwork could face a surprise reckoning the year they finally sell.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/18/most-of-the-spyi-etfs-12-payout-is-your-own-money-coming-back-the-irs-waits-until-you-sell/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wQ0708_HCHT8jUASDB8RMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fe54d644b62e28664bd490aabf5a3304.jpg",
-      "published_at": "2026-08-18T18:55:53Z"
-    },
-    {
-      "id": "ff6e49f9-619c-3033-a213-5cab1e4800be",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Precious Metals Drop Amid Bond Selloff",
-      "summary": "Gold and silver futures settled lower for the day, as bonds sold off and Treasury yields rose to multi-year highs.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-18T18:51:00Z"
-    },
-    {
-      "id": "f6597ee0-9723-3ea7-b197-43a01e895e37",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Serve Robotics Sinks 7% as Guidance Cut Overshadows Grubhub Deal; Symbotic Drops 5%, DoorDash Ticks Up",
-      "summary": "Serve Robotics erased its Grubhub rally in a single session after a shocking guidance cut spooked investors, but the company insists robot delivery demand is accelerating even as its biggest delivery partner quietly backs away.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/serve-robotics-sinks-7-as-guidance-cut-overshadows-grubhub-deal-symbotic-drops-5-doordash-ticks-up/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YefS2VOW2HuyhGx3gwexkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/33802b72357e41b0efdda85ff280ae75.jpg",
-      "published_at": "2026-08-18T18:45:25Z"
-    },
-    {
-      "id": "8bf284a8-5b1c-36dd-92da-3fa1a4015d17",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "United Microelectronics Falls 7%, Tower Semiconductor Sinks 10%, GlobalFoundries Drops 7% as AI Spending Fears Hit Foundries",
-      "summary": "A Wall Street Journal report on $3 trillion in off-balance-sheet tech commitments just sent shockwaves through the foundry sector, and the ripple effects are raising uncomfortable questions about whether the AI buildout can actually support current chip valuations.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/united-microelectronics-falls-7-tower-semiconductor-sinks-10-globalfoundries-drops-7-as-ai-spending-fears-hit-foundries/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/I6kYYNE3wB1.NfX5yGPYeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0b4bc36eca336ee2323794f659a74294.jpg",
-      "published_at": "2026-08-18T18:39:58Z"
-    },
-    {
-      "id": "7bf956ea-742a-3d17-a706-e861345f723d",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Snowflake's AI-driven data momentum justifies Buy rating: UBS",
-      "summary": "UBS is telling clients that artificial intelligence is translating into real, growing spend on Snowflake, and the bank remains Buy-rated on the stock heading into its fiscal second-quarter results on September 2. The bank's analysts spoke with seven enterprise partners and customers to gauge...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097219/snowflake-s-ai-driven-data-momentum-justifies-buy-rating-ubs-1097219.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MkCvyzB0sr.7WW_Ka1N5uQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/fe80200349b74ec2981d6bd8ba480f3a.jpg",
-      "published_at": "2026-08-18T18:37:00Z"
-    },
-    {
-      "id": "7a6ff8b7-a89d-3aa9-84eb-ca16a1251d20",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "QuantumScape Falls 6%, Enovix Sinks 14%, Solid Power Drops 4% as Yields at 19-Year Highs Hit Speculative Growth",
-      "summary": "Treasury yields near multi-decade highs are punishing pre-revenue battery stocks in a way that has nothing to do with their technology, and the gap between deteriorating share prices and intact fundamentals is growing harder to ignore.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/quantumscape-falls-6-enovix-sinks-14-solid-power-drops-4-as-yields-at-19-year-highs-hit-speculative-growth/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H3Mkxctq6OmmjaKkdk00wA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e50d6459025576ca8b5b4f430f3db94c.jpg",
-      "published_at": "2026-08-18T18:35:19Z"
-    },
-    {
-      "id": "dc886eab-1344-3620-aeac-f90268e0c197",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why CoreWeave Stock Is Down 11.8%",
-      "summary": "CoreWeave shares dropped sharply Tuesday as geopolitical fears intensified and investors fled high-risk growth stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xt9rs6fNmEJiFYMxRz1chQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/80cfaded099201edd75016ed425a40ca.jpg",
-      "published_at": "2026-08-18T18:35:02Z"
-    },
-    {
-      "id": "7db2fbec-4d4c-39c4-a501-9ac62c46958e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.",
-      "summary": "You have probably noticed something strange lately. The news keeps saying oil prices are calm, even falling, with crude sitting below $100 a barrel. And yet your diesel fuel bill keeps climbing. That disconnect is not your imagination, and there is a single number that explains it. It is called the diesel crack spread, and […] The post Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4. appeared first on",
-      "source": "FreightWaves",
-      "url": "https://finance.yahoo.com/energy/articles/diesel-analysts-warning-supply-crunch-182826014.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tDsLjBKYHicPDdXBy_tpEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/freightwaves_373/97c9fbf12a20e0a9f28e700608902a72.jpg",
-      "published_at": "2026-08-18T18:28:26Z"
-    },
-    {
-      "id": "3feb063a-a091-3837-a256-6e9527e24a31",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Prediction: Solana (SOL) Will Be Worth $200 in 2 Years",
-      "summary": "This oft-overlooked cryptocurrency still has a bright future.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/prediction-solana-will-be-worth-200-in-2-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vdC.oHkcUaQh4q2Hj7FcSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4e81dbff206f60bda2b10334e8b111f5.jpg",
-      "published_at": "2026-08-18T18:25:00Z"
     }
   ]
 }
