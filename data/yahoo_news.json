@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-18 09:58 UTC",
+  "last_updated": "2026-08-18 10:34 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "123126bc-ffa3-37aa-85d4-25a5f6101aa2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
+      "summary": "CALGARY, Aug 18 (Reuters) - Canadian pipeline firms are proposing billions of dollars in new projects despite oil sands companies being reluctant to commit to significant production expansions amid ongoing uncertainty around climate policies and long-term global demand. At least six different pipeline projects are underway or proposed in Canada, to move oil to the United States or to export markets on ‌the Pacific coast.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/analysis-canadas-pipeline-ambitions-hinge-100608458.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wFh6H1NTm1O7e4TSWCOodA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/85cab1b5d08f59e47b94b07d1206443c.jpg",
+      "published_at": "2026-08-18T10:06:08Z"
+    },
+    {
+      "id": "9edaa336-37bf-3f29-bae0-0382402226ee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Forget Big Banks and Bet on a Fintech Instead?",
+      "summary": "Banks bring stability, fintech brings potential upside.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/should-you-forget-big-banks-and-bet-on-a-fintech-i/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Q1ispMWzswD3OvFy6qVPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/033a024627cfd02e36b1b5009c95026e.jpg",
+      "published_at": "2026-08-18T10:05:00Z"
+    },
+    {
+      "id": "27a70a36-1dc6-34ce-9f14-68f46db9d893",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stock Futures Drop as Chip Rally Halts, Trump Ramps Up Middle East Tension",
+      "summary": "Stocks looked set to drop on Tuesday as investors ditched some of the chip and memory names that had helped limit the market’s losses the previous session.  The three major indexes closed in the red on Monday after President Donald Trump threatened to bomb Oman if it blocked U.S. efforts to strike a peace deal with Iran.  “With both sides still far apart, investors grew pessimistic that the Strait of Hormuz would properly reopen any time soon… That put pressure on fixed income, particularly longer-dated sovereign bonds,” Deutsche Bank macro strategist Henry Allen said.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/stock-futures-drop-as-chip-rally-runs-out-of-steam-MLs3ul9yDkepWx70B75D?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-18T10:01:58Z"
+    },
+    {
+      "id": "1383cc54-babf-30d5-8448-c03bf44fe5ee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Gilead Sciences Has Quietly Become One of the Most Underrated Turnaround Stories in Healthcare. Here's Why Wall Street Is Excited.",
+      "summary": "The company's HIV franchise is stronger than ever, and it's adding a stable of oncology drugs.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/gilead-sciences-has-quietly-become-one-of-the-most/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QeDvpRXj5r3POctjhToOAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d2376ab79fd1af7e3c468e84d8f0d7ba.jpg",
+      "published_at": "2026-08-18T09:58:00Z"
+    },
+    {
+      "id": "063a2978-daec-368b-8347-993b685ffe58",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "SpaceX Stock Drops After It Spends $60 Billion to Bolster Musk’s AI Ambitions",
+      "summary": "SpaceX  doesn’t waste any time developing rockets, launching satellites, or making big moves to build its AI business.  The purchased company is essentially an AI software development tool.  A user can tell Cursor to develop, say, a touch screen-based user interface.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/spacex-stock-price-ai-musk-cursor-e773d2aa?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dnLGX8MpyK80k7cbvhcqAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/d7199b25ebe0101f86803221db884091.jpg",
+      "published_at": "2026-08-18T09:56:00Z"
+    },
+    {
+      "id": "06ed2dd3-4726-32f1-90ec-a87fac1b96ec",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Slips on Higher Oil, Treasury Yields",
+      "summary": "Gold prices were slipping, pressured by higher oil prices and higher U.S. Treasury yields, which increase the opportunity cost of holding nonyielding bullion. In early trading, New York futures were down 0.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/gold-slips-on-higher-oil-treasury-yields-4lxEnu5DjJGr946KRrKb?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-18T09:51:52Z"
+    },
+    {
+      "id": "98aeea40-049b-39d6-86bd-6c4d267c1e12",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Backs OpenAI’s Ohio AI Data Center Leases With $105 Billion Guarantee",
+      "summary": "Nvidia guaranteed up to $105 billion of OpenAI lease obligations across 4.25 gigawatts of Ohio data center capacity.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/nvidia-105-billion-openai-ohio-campus/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxmGfonAv4weR2p14t.qwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e568428b2b79d498ccea900fe7f78261.jpg",
+      "published_at": "2026-08-18T09:49:06Z"
+    },
     {
       "id": "5b564e0d-53bc-3868-8d2a-c9317495f57d",
       "asset": "NVDA",
@@ -26,6 +103,17 @@
       "published_at": "2026-08-18T09:45:00Z"
     },
     {
+      "id": "5b8c2f63-f006-31f0-a5ac-fbab39ec410f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "ARK Invest Boosts Crypto Exposure With Block, Securitize, And Solana ETF Buys",
+      "summary": "ARKW and ARKF purchased a combined 7,115 shares of the 3iQ Solana Staking ETF, consistent with ARK’s recent buying trend of the fund and higher exposure to Solana and staking rewards.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ark-invest-boosts-crypto-exposure-with-block-securitize-and-solana-etf-buys/cZYcdyfRJSr",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x2AokQGEydbCcXGOxzFv6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/6e622079619c72607dcbeef9f7614d7a",
+      "published_at": "2026-08-18T09:44:16Z"
+    },
+    {
       "id": "da673ab5-cd00-35ec-9fe8-29a7733f7c09",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -35,6 +123,39 @@
       "url": "https://www.fool.com/investing/2026/08/18/ed-yardeni-just-raised-his-2026-price-target-on-th/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ijxjb7sREY7d48eTKiqsnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8652a7c57213f5732fc5c5ebba3158b4.jpg",
       "published_at": "2026-08-18T09:35:00Z"
+    },
+    {
+      "id": "742b96e3-bc3d-3e6d-a18a-74c819293ea0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Top $90, Fueled by Renewed Tensions in the Middle East",
+      "summary": "International oil prices are extending gains after a vessel was struck while leaving the Strait of Hormuz overnight. The ship was hit by an unknown projectile approximately five nautical miles off the coast of Oman causing one crew casualty, according to the U.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/oil-prices-top-90-fueled-by-renewed-tensions-in-the-middle-east-2o4dWXtualLCSOoO89Co?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-18T09:34:57Z"
+    },
+    {
+      "id": "330c2740-a67f-3160-b3ad-add0a6116854",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Slips Below $4,400 as Higher Oil Prices and Treasury Yields Weigh",
+      "summary": "Gold prices moved lower on Tuesday as rising U. S.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/34485/gold-slips-below-4400-as-higher-oil-prices-and-treasury-yields-weigh",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HdM44LoCRD3Etjm4UcD9iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/7ae47b3e2f60b00e0da8dfd587061838.png",
+      "published_at": "2026-08-18T09:33:27Z"
+    },
+    {
+      "id": "a89d46db-f36e-32dd-a04f-a9a6eef35556",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent",
+      "summary": "Etched, founded by Harvard dropouts, has its own in-office data center and has signed quant-trading firm Jane Street as its first customer.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-4d099f12?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zj08e81gmtDxD8uo6lMNKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/52fd5704c9d8a3a04db6eba1aa96e50b.jpg",
+      "published_at": "2026-08-18T09:30:00Z"
     },
     {
       "id": "de8c3452-4ff3-399f-99a4-463a9d21ad1c",
@@ -57,6 +178,17 @@
       "url": "https://investorshub.advfn.com/market-news/article/34481/wall-street-futures-fall-as-middle-east-risks-oil-prices-and-canada-tariffs-take-focus-dow-jones-sp-nasdaq",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qMw9DP3O_ld7SmZilnsYUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/8b48211bd62e691d614007d1e0b24907.png",
       "published_at": "2026-08-18T09:28:15Z"
+    },
+    {
+      "id": "c8af1a30-6f24-3052-b1ba-e59389b1b776",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Edges Lower as Middle East Tensions Weigh",
+      "summary": "Bitcoin fell slightly as concerns about persistent tensions between the U.S. and Iran dent risk sentiment. President Donald Trump said he is not seeking an extension of the 60-day U.S. ceasefire with Iran, which expired Monday.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/bitcoin-edges-lower-as-middle-east-tensions-weigh-WlHvaiglVReXJeJlZ5gH?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-18T09:27:35Z"
     },
     {
       "id": "c35ea2b9-16bf-375c-a2a0-cc5c0adbe107",
@@ -101,28 +233,6 @@
       "url": "https://www.fool.com/investing/2026/08/18/spacex-could-have-been-profitable-but-ai-happened/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OlUQJfnuS7BN0w32G9PHVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/66efa988bb9444dbeb694e24817e2f7f.jpg",
       "published_at": "2026-08-18T09:25:00Z"
-    },
-    {
-      "id": "c1156a08-948b-3a13-bab7-f48783553b06",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "US AI infrastructure company Groq raises $350m Series A at $3.5bn valuation",
-      "summary": "The company expects to grow from 54MW of capacity to more than 200MW in 2027.",
-      "source": "Verdict",
-      "url": "https://www.verdict.co.uk/groq-raises-350m-series-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bsntLWXuiJi40HiTknclbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/verdict_626/36ee2e7c3d901ed49fcbd7054c5ef000.jpg",
-      "published_at": "2026-08-18T09:24:26Z"
-    },
-    {
-      "id": "4aa54487-e76c-3433-99bb-b48a7ef3fd06",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "These 3 Dividend Stocks Are Money-Printing Machines",
-      "summary": "Some companies print so much cash that they have nowhere to spend it.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/these-3-dividend-stocks-are-money-printing-machine/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/16gPOioUUR2y7D96OXAWjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ae407fc22a807fc5e0bd6db220929dd0.jpg",
-      "published_at": "2026-08-18T09:20:00Z"
     },
     {
       "id": "1680a6ff-167a-3736-91e5-d592c4055103",
@@ -180,48 +290,15 @@
       "published_at": "2026-08-18T09:10:57Z"
     },
     {
-      "id": "d3bb9499-1e4e-306a-9f75-805f407018c5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Izzy Englander Bought SpaceX Before the Lockup Expiration. Does He Know Something Most Investors Don't?",
-      "summary": "Englander's bet on SpaceX isn't paying off -- at least not yet.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/billionaire-izzy-englander-bought-spacex-before-th/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/49KWtEgfhwuqpjWzK79IZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8e176d50831244c6cfe95b64f3f9a039.jpg",
-      "published_at": "2026-08-18T09:04:00Z"
-    },
-    {
       "id": "f494f4f5-bf33-315b-bd2a-5a9262ded33c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Why Are Nasdaq, S&P 500 Futures Tumbling Premarket? META, TSLA, NVDA, MU, NBIS, SLS, HD Stocks In Focus",
       "summary": "Retail sentiment on Stocktwits remained ‘bullish’ on SPY and moderated to ‘neutral’ on QQQ.",
       "source": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-futures-tumbling-premarket-meta-tsla-nvda-mu-nbis-sls-hd-stocks-in-focus/cZYc5wdRJSY",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a3.IFjFC_M8_OtONHCmiRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/5c738a28cdd9e278890efdf16143355b",
       "published_at": "2026-08-18T09:03:12Z"
-    },
-    {
-      "id": "1538d30d-5021-3d76-93fe-197e0c9b020a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Brent Tops $91 After Unidentified Projectile Hits Vessel Transiting Hormuz",
-      "summary": "A vessel was struck by an unidentified projectile while exiting the Strait of Hormuz as escalating regional tensions kept oil above $91 per barrel.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/brent-tops-91-unidentified-projectile-090000754.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VJEcVCwTEHgEH_LJI_8saQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/f938917f48b87ae5c6f44c96faeea306.jpg",
-      "published_at": "2026-08-18T09:00:00Z"
-    },
-    {
-      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Bonds, stocks jolted as Middle East tensions shatter market calm",
-      "summary": "By Niket Nishant and Gregor Stuart Hunter Aug 18 (Reuters) - A selloff in U.S. government bonds picked up pace on Tuesday, sending the 30-year Treasury yield to a near two-decade high as fears of an",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EVcs_s0n2YIUVlHFXPPNXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6d60e7e139d24d6722e2e55200dd6110.jpg",
-      "published_at": "2026-08-18T08:42:25Z"
     },
     {
       "id": "c260df17-570e-3622-a3d7-8e56e0b45a30",
@@ -233,83 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-1-5-billion-082851328.html",
       "thumbnail": "",
       "published_at": "2026-08-18T08:28:51Z"
-    },
-    {
-      "id": "8d2636ad-8bf0-37fb-9b7d-41964df4365e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Crude extends gains, most stocks drop as Mideast hopes dim",
-      "summary": "Oil prices extended gains and Asian stocks mostly fell on Tuesday as a US-Iran deal to reopen the Strait of Hormuz remained distant, a day after the deadline for a truce expired.The chances of an agreement between Washington and Tehran remain thin after Donald Trump said he would not extend a 60-day truce -- part of a June memorandum of understanding -- and Iran called it \"irrelevant\" because the United States had violated it early on.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-extends-gains-most-stocks-082408030.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aKL2HBgQ0mxMDpnqDhtPdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/b9fbbfe6b9e28d693537186c5746b68b.jpg",
-      "published_at": "2026-08-18T08:24:08Z"
-    },
-    {
-      "id": "7c10e575-5611-376f-992a-f2b2c3347f14",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Faces Fresh China Headwind As Beijing Reportedly Accelerates Windows Exit From Govt Systems",
-      "summary": "The phase-out was originally scheduled for February 2027.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-faces-fresh-china-headwind-as-beijing-reportedly-accelerates-windows-exit-from-govt-systems/cZYc2hORJSF",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9fUSPummZAAqkdDzDXTs8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f6f4d86e411c7ad236bb6e4d9ada741d.jpg",
-      "published_at": "2026-08-18T08:08:37Z"
-    },
-    {
-      "id": "63ed97a3-7227-4ca8-ab1e-8a8e8d45787f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions",
-      "summary": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JyTxmM_PFKzO.5zwvr0xtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/c40db2f8-45ef-4572-b197-221a6efb0bb0",
-      "published_at": "2026-08-18T08:08:22Z"
-    },
-    {
-      "id": "ff6e49f9-619c-3033-a213-5cab1e4800be",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Slips on Higher Oil, Treasury Yields",
-      "summary": "Gold prices slipped, pressured by higher oil prices and higher Treasury yields, which increase the opportunity cost of holding nonyielding bullion.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-18T07:51:00Z"
-    },
-    {
-      "id": "b1d4e95c-3f57-3f23-b803-5a16bb0d675d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Clarity Act Uncertainty Keeps DeFi’s Bigger Market Bet on Hold",
-      "summary": "Bitcoin has fallen 21% this year, Ethereum is down 33%, and Solana has dropped 37%, according to Bitwise Chief Investment Officer Matt Hougan’s latest CIO memo. Hyperliquid gained 72% in a single month over the same stretch, a divergence Hougan reads as a preview of what CLARITY Act passage would ...",
-      "source": "Cryptonews",
-      "url": "https://cryptonews.com/news/clarity-act-defi-tokenization/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kCWrnKsfDPBzmiJDi0nLRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/8969765664a3968dc068a4479a891112",
-      "published_at": "2026-08-18T07:28:03Z"
-    },
-    {
-      "id": "92416f0a-a7cf-3009-aa89-c58089a130ff",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "CRWV vs NBIS vs IREN: Which Neocloud Operator To Bet On Right Now?",
-      "summary": "Neocloud operators are adding new capacity to meet surging cloud demand, but costs are rising in tandem.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/crwv-vs-nbis-vs-iren-which-neocloud-operator-to-bet-on-right-now/cZYcGJzRJSl",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kXfo2PyOirZoKoM2dgTnCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/d8e7a7c5032d253da0ff13a4862c277e.jpg",
-      "published_at": "2026-08-18T06:10:37Z"
-    },
-    {
-      "id": "f24cfb4f-ba15-34f6-a9ed-d27d924e43fd",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Ex-Tesla President Says Roadster Reveal Is A ‘Not-So-Hidden Attempt’ To Knit Tesla And SpaceX Together",
-      "summary": "Former Tesla President Jon McNeill said the Roadster may hover using SpaceX-developed cold-gas thrusters.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/ex-tesla-president-roadster-attempt-knit-tesla-spacex-together/cZYTzqqRJSK",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KhlMxhg08jJ2GtoA8GMDqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8fef9faf267cd869b5031b3ff8927ebb.jpg",
-      "published_at": "2026-08-18T05:13:51Z"
     }
   ]
 }
