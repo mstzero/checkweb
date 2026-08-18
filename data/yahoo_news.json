@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-18 22:18 UTC",
+  "last_updated": "2026-08-18 22:49 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "b15bc7e6-d9ad-3672-b6ac-6b23e137badc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+      "summary": "Some of the custom chip designer's new client deals come online next year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/broadcom-artificial-intelligence-ai-revenues-forec/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rXiyNU.bHBvmanc06pDAmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d911de8b2d3fbbf98e7618b2203b9d7.png",
+      "published_at": "2026-08-18T22:41:00Z"
+    },
     {
       "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
       "asset": "OIL",
@@ -12,7 +23,51 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-18T22:13:24Z"
+      "published_at": "2026-08-18T22:38:24Z"
+    },
+    {
+      "id": "3572e936-df55-3036-81c7-a87c7ce2ccdf",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Top economists warn of wealth inequality in U.S. surpassing Gilded Age",
+      "summary": "As economists Gabriel Zucman and Paul Krugman address the growing wealth inequality, experts talk about how regular Americans can survive.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/top-economists-warn-of-wealth-inequality-in-u-s-surpassing-gilded-age",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_bz8_jGnXM4oEwGd0PHbbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/969358698d63772702edd3caaf68d5a0.jpg",
+      "published_at": "2026-08-18T22:32:12Z"
+    },
+    {
+      "id": "70a17e54-be18-3f47-ab75-ce552ed93396",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "VOO’s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
+      "summary": "VOO's famously cheap expense ratio distracts most investors from a far bigger risk buried inside the fund itself, one that no fee comparison chart will ever show you.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/18/voos-0-03-fee-hides-the-real-cost-38-of-your-sp-500-money-is-now-in-one-sector/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6J.QCKJ5hGvoqrElURUXvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/13241ce3c87a731112a89ad91f3413cd.jpg",
+      "published_at": "2026-08-18T22:25:18Z"
+    },
+    {
+      "id": "d8254a4e-fcd3-30c2-9891-a50029a4523d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "A 4X S&P 500 ETN Now Exists. A 10% Market Drop Cuts It Nearly in Half and Investors Are Buying Anyway",
+      "summary": "A four-times leveraged S&P 500 product now trades on a major exchange, and it can vaporize nearly half your money before the market even finishes a bad week. What kind of investor buys it anyway, and how big has it gotten?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/18/a-4x-sp-500-etn-now-exists-a-10-market-drop-cuts-it-nearly-in-half-and-investors-are-buying-anyway/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RA86CZI6nrS_favT5qXlQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e75be598e36ff0dae9edf8a8e5cedec2.jpg",
+      "published_at": "2026-08-18T22:25:07Z"
+    },
+    {
+      "id": "15569390-70d4-3ab4-8ffc-55015ef74183",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+      "summary": "Buffett's wisdom is timeless.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/warren-buffetts-successor-greg-abel-has-347-of-ber/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iSh9sM79plydU7L5mslUEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91a97f3a896931dda2dc777ef23b21a8.png",
+      "published_at": "2026-08-18T22:20:00Z"
     },
     {
       "id": "7e2e9ad1-4b5b-345a-bcbb-16863ca84176",
@@ -24,6 +79,17 @@
       "url": "https://www.marketbeat.com/instant-alerts/epsilon-energy-maps-multi-basin-growth-plan-as-production-outlook-rises-18-2026-08-18/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qaFbRz3eFq4Ss3e0_d_HRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/653d6c7d022920e431d955c3c655f4ee.jpg",
       "published_at": "2026-08-18T22:02:11Z"
+    },
+    {
+      "id": "2ef93d0e-6ce2-396e-aabe-a2c9ffd54ce9",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Peter Thiel Bets $76 Million on Argentina’s Vaca Muerta Shale",
+      "summary": "Peter Thiel bought a $76 million, 1% stake in Vista, one of Vaca Muerta’s biggest shale producers.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/peter-thiel-bets-76-million-220000241.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/olXgU_bHP.Xg1eu1ktU6xA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/d83dbb4d8fd1e0ea1073f1c578dfa152.jpg",
+      "published_at": "2026-08-18T22:00:00Z"
     },
     {
       "id": "e98b0535-7489-3bdd-9e39-29dd3f5262dd",
@@ -213,28 +279,6 @@
       "published_at": "2026-08-18T21:04:01Z"
     },
     {
-      "id": "52999fc5-9631-384c-ab5c-6ca8f96693c4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Elauwit Connection, Inc. Common Stock Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Elauwit Connection, Inc. Common Stock's Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-elauwit-connection-inc-common-stock-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1FtrrS1kwCq4vK1eOslvfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/4c8d34bd0990e27f452a06b6de4724df.png",
-      "published_at": "2026-08-18T21:03:39Z"
-    },
-    {
-      "id": "bcdce9fa-ce31-3e53-bd3f-13aa55db8bbc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Amer Sports, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Amer Sports, Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-amer-sports-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o2sZdnor31fem4P6YzvIeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/d4f5d9f8afd1bc01b5a39a91234c5493.png",
-      "published_at": "2026-08-18T21:03:31Z"
-    },
-    {
       "id": "03f3df8a-ec54-3f45-b3ea-4c57c4f6842d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -266,50 +310,6 @@
       "url": "https://www.thestreet.com/crypto/markets/crypto-has-been-hacked-three-times-in-15-days-here-is-whether-you-are-at-risk",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3KvpVmKm4IsRqntEr1qx1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4b557216086faa4437646a636164f7c5.jpg",
       "published_at": "2026-08-18T21:00:00Z"
-    },
-    {
-      "id": "005ec720-3561-3986-a0d0-1d15447fc24d",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "AI Could Make Big Oil Even Bigger",
-      "summary": "AI could create nearly $500 billion in value for E&P companies by 2030 through lower costs and higher production.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/ai-could-big-oil-even-210000645.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NcE7aXlsIi93SeQvtKOC8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/ddd09982ff5454e6f06435754e8484bc.jpg",
-      "published_at": "2026-08-18T21:00:00Z"
-    },
-    {
-      "id": "2153d76c-0b1f-313e-8414-e33da9e2e63e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Extends Gains",
-      "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/technology-leads-us-equity-indexes-205919534.html",
-      "thumbnail": "",
-      "published_at": "2026-08-18T20:59:19Z"
-    },
-    {
-      "id": "1cbdb148-c009-3cb9-ab5e-39c180f988ec",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on oil futures, Equinor, Expand Energy and more in the latest Market Talks covering energy and utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-062b9cbe?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2IWxYEFqFEE4dfrUwSO.Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f3a3591266b185ee59754b46dad08085.jpg",
-      "published_at": "2026-08-18T20:57:00Z"
-    },
-    {
-      "id": "55d73a41-1800-3ff7-9eea-96f3a461bbf6",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Stock Jumps as Analyst Maps 30% Nvidia-Powered Upside",
-      "summary": "A potential Nvidia partnership could attack Apple's biggest weakness before the next iPhone cycle.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-analyst-maps-205433966.html",
-      "thumbnail": "",
-      "published_at": "2026-08-18T20:54:33Z"
     }
   ]
 }
