@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-08-18 08:31 UTC",
+  "last_updated": "2026-08-18 09:28 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "92e89f91-1bc8-339e-8380-addc96ef7399",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Could Have Been Profitable in Q2 -- But Then AI Happened",
+      "summary": "SpaceX and Starlink combined are profitable businesses. The problem is that they're tied to a money-losing AI program.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/spacex-could-have-been-profitable-but-ai-happened/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OlUQJfnuS7BN0w32G9PHVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/66efa988bb9444dbeb694e24817e2f7f.jpg",
+      "published_at": "2026-08-18T09:25:00Z"
+    },
+    {
+      "id": "c1156a08-948b-3a13-bab7-f48783553b06",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "US AI infrastructure company Groq raises $350m Series A at $3.5bn valuation",
+      "summary": "The company expects to grow from 54MW of capacity to more than 200MW in 2027.",
+      "source": "Verdict",
+      "url": "https://www.verdict.co.uk/groq-raises-350m-series-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bsntLWXuiJi40HiTknclbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/verdict_626/36ee2e7c3d901ed49fcbd7054c5ef000.jpg",
+      "published_at": "2026-08-18T09:24:26Z"
+    },
+    {
+      "id": "4aa54487-e76c-3433-99bb-b48a7ef3fd06",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "These 3 Dividend Stocks Are Money-Printing Machines",
+      "summary": "Some companies print so much cash that they have nowhere to spend it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/these-3-dividend-stocks-are-money-printing-machine/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/16gPOioUUR2y7D96OXAWjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ae407fc22a807fc5e0bd6db220929dd0.jpg",
+      "published_at": "2026-08-18T09:20:00Z"
+    },
+    {
+      "id": "d3bb9499-1e4e-306a-9f75-805f407018c5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Izzy Englander Bought SpaceX Before the Lockup Expiration. Does He Know Something Most Investors Don't?",
+      "summary": "Englander's bet on SpaceX isn't paying off -- at least not yet.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/billionaire-izzy-englander-bought-spacex-before-th/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/49KWtEgfhwuqpjWzK79IZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8e176d50831244c6cfe95b64f3f9a039.jpg",
+      "published_at": "2026-08-18T09:04:00Z"
+    },
+    {
+      "id": "f494f4f5-bf33-315b-bd2a-5a9262ded33c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Are Nasdaq, S&P 500 Futures Tumbling Premarket? META, TSLA, NVDA, MU, NBIS, SLS, HD Stocks In Focus",
+      "summary": "Retail sentiment on Stocktwits remained ‘bullish’ on SPY and moderated to ‘neutral’ on QQQ.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-futures-tumbling-premarket-meta-tsla-nvda-mu-nbis-sls-hd-stocks-in-focus/cZYc5wdRJSY",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a3.IFjFC_M8_OtONHCmiRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/5c738a28cdd9e278890efdf16143355b",
+      "published_at": "2026-08-18T09:03:12Z"
+    },
+    {
+      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Bonds, stocks jolted as Middle East tensions shatter market calm",
+      "summary": "By Niket Nishant and Gregor Stuart Hunter Aug 18 (Reuters) - A selloff in U.S. government bonds picked up pace on Tuesday, sending the 30-year Treasury yield to a near two-decade high as fears of an",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EVcs_s0n2YIUVlHFXPPNXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6d60e7e139d24d6722e2e55200dd6110.jpg",
+      "published_at": "2026-08-18T08:42:25Z"
+    },
+    {
+      "id": "5f8b17c9-7492-3795-9245-02cb616d6d2c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Kraft Heinz Faces a $7.4 Billion Impairment Charge. Is the 6.2% Yielding Stock a Value Trap or a No-Brainer Buy in August?",
+      "summary": "Kraft Heinz hasn't performed well since the 2015 merger.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/kraft-heinz-faces-a-74-billion-impairment-charge-i/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kWXnecCiGOtg59rW5sBSew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a7f5859211d7cca555de28798356a1fe.jpg",
+      "published_at": "2026-08-18T08:35:00Z"
+    },
+    {
+      "id": "c5c3e65d-ec7a-31a0-9f6e-fb3699187c4f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging",
+      "summary": "2026 was supposed to be a breakout year for Serve's business.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/serve-robotics-grew-revenue-400-news-stock-plungin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rWffxrYywhAnJjFcqFEuOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f83fbd5ac51858760d7928cc6f5ae44b.jpg",
+      "published_at": "2026-08-18T08:34:00Z"
+    },
+    {
+      "id": "c260df17-570e-3622-a3d7-8e56e0b45a30",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Update: Nvidia to Invest $1.5 Billion in SB Energy, Supply AI Compute for Ohio Data Center",
+      "summary": "(Updates with additional details in the sixth, seventh, and eighth paragraphs.) Nvidia (NVDA) sai",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-1-5-billion-082851328.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T08:28:51Z"
+    },
+    {
+      "id": "8d2636ad-8bf0-37fb-9b7d-41964df4365e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Crude extends gains, most stocks drop as Mideast hopes dim",
+      "summary": "Oil prices extended gains and Asian stocks mostly fell on Tuesday as a US-Iran deal to reopen the Strait of Hormuz remained distant, a day after the deadline for a truce expired.The chances of an agreement between Washington and Tehran remain thin after Donald Trump said he would not extend a 60-day truce -- part of a June memorandum of understanding -- and Iran called it \"irrelevant\" because the United States had violated it early on.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-extends-gains-most-stocks-082408030.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aKL2HBgQ0mxMDpnqDhtPdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/b9fbbfe6b9e28d693537186c5746b68b.jpg",
+      "published_at": "2026-08-18T08:24:08Z"
+    },
     {
       "id": "c20fd987-c6c4-399b-9162-b797f8391e6d",
       "asset": "OIL",
@@ -13,17 +123,6 @@
       "url": "https://www.wsj.com/business/energy-oil/diesel-buyers-compete-for-shrinking-supply-pool-bf53d9fa?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yTRLyj04Q1NJLHkDu1nW5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/b3a3180b00cfd123bf33f53546eba973.jpg",
       "published_at": "2026-08-18T08:17:00Z"
-    },
-    {
-      "id": "83eb6562-b94b-30ab-83aa-8f2e24f05409",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Domino's Pizza Trades at Just 20.1x Times Earnings -- Its Lowest Valuation in Nearly a Decade. There's Only 2 Explanations for Why Domino's Is This Cheap.",
-      "summary": "Domino's is cheap because investors fear slowing demand and the impact of GLP-1 drugs, but that pessimism could create upside if growth holds up.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/dominos-pizza-trades-at-just-201x-times-earnings-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l29d5dkrU.LV8gCo4vMuSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/14682ef338450044f4b48a59206aec0b.jpg",
-      "published_at": "2026-08-18T08:10:00Z"
     },
     {
       "id": "7c10e575-5611-376f-992a-f2b2c3347f14",
@@ -57,17 +156,6 @@
       "url": "https://finance.yahoo.com/energy/articles/petrobras-pbr-reports-record-operational-080051252.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UQehRMwlNVeqpycu70jwXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/2928bd42a56a91b4f9f31651755d5074.jpg",
       "published_at": "2026-08-18T08:00:51Z"
-    },
-    {
-      "id": "b9b867a0-ef56-3735-b540-ce2cde1d6aaf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Constellation Energy Reclaims Its $412 Record Before 2030",
-      "summary": "Getting back to the record by 2030 takes about 13% a year. This year's guided earnings growth is running at twice that pace.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/prediction-constellation-energy-reclaims-its-usd412-record-before-2030/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3jvlOiywlK2jSdXUVLecLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b8db4c6b258e026128c33ee62e9c965d.jpg",
-      "published_at": "2026-08-18T07:58:01Z"
     },
     {
       "id": "ff6e49f9-619c-3033-a213-5cab1e4800be",
@@ -114,92 +202,15 @@
       "published_at": "2026-08-18T07:22:00Z"
     },
     {
-      "id": "9336d237-650d-3ef8-b2d0-7739cd1499a7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US 30-year yields hit highest level since 2007 as war, oil worries fester",
-      "summary": "By Ankur Banerjee SINGAPORE, Aug 18 (Reuters) - U.S. 30-year Treasury yields rose to their highest level since 2007 on Tuesday as stalled talks to end the U.S.-Iran war and worries of an imminent",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-30-yields-hit-highest-070949167.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1vIPb0GgIdKLurF72_ruAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/39462ce637d23170be65fc9e50b9a860.jpg",
-      "published_at": "2026-08-18T07:09:49Z"
-    },
-    {
-      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Bond yields rise, oil extends gains as US-Iran ceasefire expires",
-      "summary": "By Gregor Stuart Hunter SINGAPORE, Aug 18 (Reuters) - Bond yields climbed on Tuesday to their highest in decades, with oil prices rising for a third day and stocks under pressure in Asian trade as a",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r0jLdQIob9qCOn4T2mvbKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8e9c4634f66ce51496510601056fb79a.jpg",
-      "published_at": "2026-08-18T07:00:48Z"
-    },
-    {
-      "id": "067b7c79-de0c-3708-b94c-33b1314bb6b6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
-      "summary": "NVIDIA and top institutional investors are piling into AI infrastructure, with 13F filings revealing bets on Intel, CoreWeave, Nebius and more.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064700198.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H4Zy_2XYdOj5h8hpL7Vb7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/02c1245facc17eb1278e28574fc5cc1c.jpg",
-      "published_at": "2026-08-18T06:47:00Z"
-    },
-    {
-      "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Is The Crypto Market Down Today?",
-      "summary": "The crypto market fell today as an Iran oil threat and a 2007-high bond yield drove a risk-off wave out of tokens.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yjSkL4PPHiN.x1VdTNeJiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6.png",
-      "published_at": "2026-08-18T06:30:31Z"
-    },
-    {
-      "id": "783de2cb-a025-320b-8665-782af2713d19",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Sandisk Stock Is Down 30% From Its Peak: Is the Memory Winner Still a Screaming Buy Before September?",
-      "summary": "Sandisk's future is out of its hands.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/sandisk-stock-is-down-30-from-its-peak-is-the-memo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MELIQBh6oilpKI1linXOxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7dcffcbfc268abaf64b42e11281c0e4b.png",
-      "published_at": "2026-08-18T06:20:00Z"
-    },
-    {
       "id": "92416f0a-a7cf-3009-aa89-c58089a130ff",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "CRWV vs NBIS vs IREN: Which Neocloud Operator To Bet On Right Now?",
       "summary": "Neocloud operators are adding new capacity to meet surging cloud demand, but costs are rising in tandem.",
       "source": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/crwv-vs-nbis-vs-iren-which-neocloud-operator-to-bet-on-right-now/cZYcGJzRJSl",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kXfo2PyOirZoKoM2dgTnCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/d8e7a7c5032d253da0ff13a4862c277e.jpg",
       "published_at": "2026-08-18T06:10:37Z"
-    },
-    {
-      "id": "0eff4c63-600e-3f39-8cb5-5acbd487a23d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
-      "summary": "Management thinks AI's growing electricity needs can turn its fuel-cell technology into a multibillion-dollar power platform.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/bloom-energy-says-it-has-visibility-on-25-gigawatt/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0CoSQadjMH0D3G6ptUXH3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5508e7b7c6a72e31fd373381b1342278.jpg",
-      "published_at": "2026-08-18T05:50:00Z"
-    },
-    {
-      "id": "11a2aaa5-bb36-301e-9d15-79b6234ecc40",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Dividend Stocks That Are No-Brainer Buys in August",
-      "summary": "They have businesses built to handle the toughest environments.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/2-dividend-stocks-that-are-no-brainer-buys-in-augu/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hhi8Ab0EJ6HoA7qiM_1gCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/539201d37b243886d8c3f016c9d40066.png",
-      "published_at": "2026-08-18T05:20:00Z"
     },
     {
       "id": "f24cfb4f-ba15-34f6-a9ed-d27d924e43fd",
@@ -299,17 +310,6 @@
       "url": "https://beincrypto.com/peter-schiff-bitcoin-rally-sell-opportunity/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RZF6eES8aZY9bQnG3YMABw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/f037ab31cf96059b8a78919bced9797d.jpg",
       "published_at": "2026-08-18T03:58:00Z"
-    },
-    {
-      "id": "7de6037e-54d5-3e55-8d06-39417c6364f8",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple vs. CoreWeave: Comparing Revenue Trends Between a Stable Tech Giant and a Rapidly Growing AI Neocloud",
-      "summary": "Apple's net income margin sits at 27%, while CoreWeave operates at -24%, a stark profitability divergence that complicates any direct comparison.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/charts/2026/08/17/apple-vs-coreweave-comparing-revenue-trends-between-a-stable-tech-giant-and-a-rapidly-growing-ai-neocloud/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/axSG_9fQ8Nqv9pH2vxUoMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60c526515eae9b8ca9cfa80325ca3cb1.png",
-      "published_at": "2026-08-18T03:55:17Z"
     }
   ]
 }
