@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-17 23:45 UTC",
+  "last_updated": "2026-08-18 01:00 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "96351552-40ac-3e3e-9a2c-01efcf604698",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Micron and Western Digital Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after Commerce Secretary Howard Lutnick told The Wall Street Journal the Trump administration opposes Apple buying Chinese memory chips.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-soaring-004620344.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nRReeeAmxAlZ5ETp8CAqUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/dcf057c27655d03a050775ca9f19c022.jpg",
+      "published_at": "2026-08-18T00:46:20Z"
+    },
+    {
+      "id": "161621c8-7f5e-35ac-89ec-13480079526c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
+      "summary": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
+      "published_at": "2026-08-18T00:20:43Z"
+    },
+    {
+      "id": "b7693fb0-2702-30c4-a023-b62229c0fa79",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Cloudways Bets That Enterprises Will Pay to Rehabilitate the Agent Every Hyperscaler Banned",
+      "summary": "When an AI agent deletes hundreds of emails from a senior executive’s inbox, the fallout is immediate. In February 2026, that exact scenario involving Summer Yue, Director of Alignment at Meta Superintelligence Labs, triggered an industry-wide blacklist of the OpenClaw framework by Meta, Google, Microsoft, and Amazon. The failure, which occurred during context window compaction […]",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cloudways-bets-enterprises-pay-rehabilitate-001904217.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T00:19:04Z"
+    },
+    {
+      "id": "c418cf6a-3d39-3b08-8de9-325508460006",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Japan's 10-year government bond yield rises to three-decade peak",
+      "summary": "TOKYO, Aug 18 (Reuters) - Japan's benchmark 10-year government bond yield climbed to a three-decade high on Tuesday, driven by rising overseas bond yields and speculation about a near-term Bank of",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/japans-10-government-bond-yield-001613606.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NdqCwKiEQbveABVsZ6eKJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/344737b06e2b092560b4fd4acc66d410.jpg",
+      "published_at": "2026-08-18T00:16:13Z"
+    },
+    {
+      "id": "7a39b7f5-762b-302f-ac3a-2c04b1ad0727",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Chevron Struck Oil Off Angola. Here's What CVX Investors Need to Know.",
+      "summary": "Chevron continues to find new sources of oil and gas.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/17/chevron-struck-oil-off-angola-here-s-what-cvx-investors-need-to-know/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qNF0LJk49DZS22n6xIi0rQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8d5334edd7a98d34c7cd3905b84142dc.png",
+      "published_at": "2026-08-18T00:15:01Z"
+    },
+    {
+      "id": "c5ed5288-1591-3a54-bccf-0a9ebae15f0d",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
+      "summary": "The Q2 earnings season continues to wind down, which has overall shown immense strength with outsized growth. There have been several standout releases during the Q2 earnings cycle, including those from Palantir (PLTR) and Microsoft (MSFT).",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IAMb.DUY4Uy0c_WvCt1pkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d325e443265f81b37d14d0c390b4cefa.jpg",
+      "published_at": "2026-08-17T23:29:00Z"
+    },
     {
       "id": "f065e371-1a69-324b-9f79-881b725316cb",
       "asset": "NVDA",
@@ -24,6 +90,17 @@
       "url": "https://beincrypto.com/treasury-yields-5-percent-bitcoin-price/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
       "published_at": "2026-08-17T23:03:53Z"
+    },
+    {
+      "id": "99a8d93e-65eb-38a7-930b-2152bc25ef71",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+      "summary": "Production growth is slowing, with the EIA expecting output to rise just 200,000 bpd in 2026.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KNiPOLccSrSZgnzHkCN0KA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/8e49c74aa4f65064dfbebd363cd63703.jpg",
+      "published_at": "2026-08-17T23:00:00Z"
     },
     {
       "id": "1c4afe77-6ac0-3ac5-8871-752ecd9fdab4",
@@ -79,6 +156,17 @@
       "url": "https://finance.yahoo.com/video/wall-street-indexes-slip-oil-221542467.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hKZ4a.j7QGf_L8bNEfzltg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/b95cd8b5-5c48-4f87-a7b2-12604cacd42f/main/1280x720/48s/match/image.jpg",
       "published_at": "2026-08-17T22:15:42Z"
+    },
+    {
+      "id": "2f711951-0401-3401-b88a-e766c5c190bf",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "The Cheapest Gold ETFs to Buy for Diversification",
+      "summary": "Gold ETFs can provide diversification benefits and serve as long-term stores of value, without the hassle of holding physical bullion.",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/commodities/gold/22000/7-gold-etfs-with-low-costs",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JJYPl.98JXTcS8mSTsiH1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kiplinger_425/35a673f38fb3645f952363babd98c27d.jpg",
+      "published_at": "2026-08-17T22:14:02Z"
     },
     {
       "id": "8aac21ce-5f02-3c6b-a336-14c976f4ae56",
@@ -145,17 +233,6 @@
       "url": "https://www.barrons.com/advisor/articles/warren-buffett-wisdom-financial-advisors-ec4db144?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2yF.Y1MBJC8_qSORd7KYkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/b0bdb56e3e81f8ee0e8d006047f197d4.jpg",
       "published_at": "2026-08-17T21:42:00Z"
-    },
-    {
-      "id": "9bcc6887-58a7-3244-ada5-166749d91ec1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock’s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI",
-      "summary": "BlackRock, Inc. (NYSE:BLK) CEO Larry Fink joined the CNBC panel this week and laid out the scale of what’s needed to power the AI boom. “We’re gonna need over 70 gigawatts of power,” he said, just for the US. Why This Matters Fink compared this moment to the birth of the mortgage-backed securities market in […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-blk-nvidia-corporation-nvda-213145577.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
-      "published_at": "2026-08-17T21:31:45Z"
     },
     {
       "id": "c40d72b1-1193-34c1-b148-cd952e438849",
@@ -233,83 +310,6 @@
       "url": "https://www.barrons.com/articles/30-year-treasury-yield-high-d97d62f8?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a.0c2WUFfsdevuAO7RVSZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f4edb8996d38b54059f8cd598500d1b3.jpg",
       "published_at": "2026-08-17T21:04:00Z"
-    },
-    {
-      "id": "161621c8-7f5e-35ac-89ec-13480079526c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
-      "summary": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5XTXRognu2JSXgDnXG1a7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab.jpg",
-      "published_at": "2026-08-17T21:02:17Z"
-    },
-    {
-      "id": "715e91fe-9218-3b85-9811-60f4e5b387d5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Penguin Solutions Highlights AI Factory Platform, MemoryAI for Inference Growth",
-      "summary": "Penguin Solutions (NASDAQ:PENG) is positioning its business around a full-stack “AI factory” platform that combines infrastructure, memory technology, software and managed services, Senior Vice President of Global Marketing Mark Adams said during Rosenblatt Securities’ Sixth Annual Age of AI Scaling",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/penguin-solutions-highlights-ai-factory-platform-memoryai-for-inference-growth-2026-08-17/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tsBBBWJ4ZQN8clUmkelqLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/6abbb1385b4a108a115767bb2060880c.png",
-      "published_at": "2026-08-17T21:02:00Z"
-    },
-    {
-      "id": "aea4fc84-5c96-3cc0-b4e2-a0d2ae30740c",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "ETF League Tables: Invesco Registers Inflows of $373M",
-      "summary": "<p>Table below reflects daily flows on August 14, 2026 and asset totals as of that date.</p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-invesco-registers-inflows-373m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H_DXloducZG7SpdsyxpYAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/685c6a7e1fcae476c06ee752a956ffca.png",
-      "published_at": "2026-08-17T21:00:04Z"
-    },
-    {
-      "id": "493ec193-bd5f-34c7-8051-d91f1f60ba69",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
-      "summary": "Libya and Egypt are reviving an 800-km oil pipeline linking Tobruk to Alexandria, likely starting at 150,000–250,000 bpd.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/why-libya-next-oil-pipeline-210000945.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UzdjVgn2TPkmv_kgEDIv1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/d853f820fae5cd3de27ea209da0b8cc5.jpg",
-      "published_at": "2026-08-17T21:00:00Z"
-    },
-    {
-      "id": "91303a01-c30a-32ed-80bc-3608651417c8",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX Matters More for Tesla Stock Than Cybercab These Days",
-      "summary": "Shares of Tesla are becoming closely linked with shares of SpaceX. One reason is the growing belief on Wall Street the companies will merge.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VIHpV_wbYx6w9OrOp1jM3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/3fced78df8b69522e577ecaff029099d.jpg",
-      "published_at": "2026-08-17T20:59:00Z"
-    },
-    {
-      "id": "f5f6c948-8fd1-3d3e-9843-7617958a7e93",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla prepares for Cybercab launch in August starting with rides to employees, the Information reports",
-      "summary": "Tesla has told employees it is gearing up for a public launch ‌of Cybercab, starting with a rollout in ‌Austin, Texas, as soon as this month, the Information reported on ​Monday, citing people with knowledge of the plans.  Cybercab, a purpose-built autonomous vehicle without pedals or a steering wheel, is crucial to Tesla's robotaxi ambitions, as ‌the company is planning ⁠to eventually deploy the vehicle for its autonomous ride-hailing service.  • Tesla has told staff that it plans to begin the Cybercab rollout by ​offering rides ​to its employees on ​public roads and then ‌incorporate Cybercabs into its robotaxi service in Austin a few days later, according to the report.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/tesla-prepares-cybercab-launch-august-205824739.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a3WcZYef6tL_6TkywTjSwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b09fc71d9986a3566e04080dae6e243d.jpg",
-      "published_at": "2026-08-17T20:58:24Z"
-    },
-    {
-      "id": "81e3315c-b5a6-3197-a4f5-b85181354271",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Will Bitcoin Drop Below $60K as BTC ETFs See Biggest Outflow in 6 Weeks?",
-      "summary": "Bitcoin ETFs just posted their worst outflow week in over a month, and the Strait of Hormuz may have more to do with where BTC goes next than the selling itself.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/17/will-bitcoin-drop-below-60k-as-btc-etfs-see-biggest-outflow-in-6-weeks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LJZ9L5VuqQy8sjclGjxpjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eb8a0ab8da91c974723d941899af96fb.jpg",
-      "published_at": "2026-08-17T20:55:55Z"
     }
   ]
 }
