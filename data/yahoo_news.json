@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-18 03:22 UTC",
+  "last_updated": "2026-08-18 04:06 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "7de6037e-54d5-3e55-8d06-39417c6364f8",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple vs. CoreWeave: Comparing Revenue Trends Between a Stable Tech Giant and a Rapidly Growing AI Neocloud",
+      "summary": "Apple's net income margin sits at 27%, while CoreWeave operates at -24%, a stark profitability divergence that complicates any direct comparison.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/08/17/apple-vs-coreweave-comparing-revenue-trends-between-a-stable-tech-giant-and-a-rapidly-growing-ai-neocloud/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/axSG_9fQ8Nqv9pH2vxUoMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60c526515eae9b8ca9cfa80325ca3cb1.png",
+      "published_at": "2026-08-18T03:55:17Z"
+    },
+    {
+      "id": "c7cc7bb5-1ef9-363c-88e9-3d66c8b03a7e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian central bank keeps up interventions to cushion rupee from oil strain, traders say",
+      "summary": "MUMBAI, Aug 18 (Reuters) - The Reserve Bank of India likely intervened in the foreign exchange market for an eighth consecutive session on Tuesday, four traders told Reuters, as elevated oil prices",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-central-bank-keeps-interventions-033627222.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N4K2MH_OHLDq.i9.ybTYgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/32c5059f0f3eecbf4e4aa91de7822104.jpg",
+      "published_at": "2026-08-18T03:36:27Z"
+    },
+    {
+      "id": "80b30f5f-adbc-36b5-aaae-3e06ca355b09",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk to Merge SpaceX and Tesla? Prediction Markets Are Betting on This Date",
+      "summary": "Bets are mounting on prediction markets that Elon Musk could merge Tesla Inc. (NASDAQ: TSLA) with Space Exploration Technologies Corp. (NASDAQ: SPCX) before 2028. What’s Happening on Kalshi, Polymarket? Polygon (CRYPTO: POL)-based Polymarket currently assigns a 55% chance that the...",
+      "source": "Benzinga Prediction Markets",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61264378/elon-musk-spacex-tesla-merger-prediction-markets-date?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DksV.s3WNO1_bMFGe1zqjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/fa4ea3bbe43ef04019e7c033ede04e55.jpg",
+      "published_at": "2026-08-18T03:25:04Z"
+    },
+    {
+      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
+      "summary": "By Gregor Stuart Hunter SINGAPORE, Aug 18 (Reuters) - Bond yields climbed on Tuesday to their highest in decades, with oil prices rising for a third day, while stocks gave up early gains in Asian",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XXEt160N4ATfqn6Wlf1iHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dbd8024fd185bcef9d31d2da5b23c584.jpg",
+      "published_at": "2026-08-18T03:24:08Z"
+    },
+    {
+      "id": "4438a395-0fe2-3028-9443-a33505659dd5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asia shares decline as worries about rising oil prices outweigh boost from strong earnings",
+      "summary": "Asian shares declined in early Tuesday trading, as rising oil prices and worries about inflation worked as a dampener on some markets, countering the optimism that had come from robust corporate earnings reports.  Japan's benchmark Nikkei 225 dipped 1.6% to 68,098.54.  Analysts said robust earnings reports in Asia, following those from the U.S., are helping counter worries about what the war in Iran will do to the global flow of crude and its impact on energy prices.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-decline-worries-rising-031952157.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8DucITkEfCeWfvZyBSkfoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/06becc01228d51c432f326dfa2858c7a.jpg",
+      "published_at": "2026-08-18T03:19:52Z"
+    },
     {
       "id": "5d935cf8-8ba7-35d3-aa5f-f44744ab8b4a",
       "asset": "TSLA",
@@ -147,17 +202,6 @@
       "published_at": "2026-08-18T01:30:00Z"
     },
     {
-      "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
-      "summary": "By Gregor Stuart Hunter SINGAPORE, Aug 18 (Reuters) - Oil prices crept higher and bond yields rose, blunting paltry gains for stocks at the start of Asian trading on Tuesday as a U.S.-Iran truce",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m9n2veH.yf8lY2vDti8wIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/84bf3557da1fa82e4d7052249f1f3071.jpg",
-      "published_at": "2026-08-18T01:16:55Z"
-    },
-    {
       "id": "f9be097c-dcc9-3fdc-8171-6f91c9a2c380",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IAMb.DUY4Uy0c_WvCt1pkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d325e443265f81b37d14d0c390b4cefa.jpg",
       "published_at": "2026-08-17T23:29:00Z"
-    },
-    {
-      "id": "f065e371-1a69-324b-9f79-881b725316cb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
-      "summary": "Meta is back in court facing 29 states over allegations it designed addictive products for kids -- and the stakes extend far beyond one company.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/meta-faces-29-states-in-court-tuesday-the-case-could-be-big-techs-big-tobacco-moment/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0n72d2NEKKvsI158_bmB_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb31741709b2921caba3b42c1cc4b699.jpg",
-      "published_at": "2026-08-17T23:15:01Z"
-    },
-    {
-      "id": "9ff2d590-5a98-3083-b1cb-3b5796968f59",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "5% Treasury Yields Won’t Crush Record-High Stocks. Can Bitcoin Say the Same?",
-      "summary": "Wall Street says 5% Treasury yields won't break stocks, but Bitcoin has fallen 46% as gold surged on the same yields.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/treasury-yields-5-percent-bitcoin-price/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
-      "published_at": "2026-08-17T23:03:53Z"
-    },
-    {
-      "id": "99a8d93e-65eb-38a7-930b-2152bc25ef71",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
-      "summary": "Production growth is slowing, with the EIA expecting output to rise just 200,000 bpd in 2026.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KNiPOLccSrSZgnzHkCN0KA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/8e49c74aa4f65064dfbebd363cd63703.jpg",
-      "published_at": "2026-08-17T23:00:00Z"
-    },
-    {
-      "id": "1c4afe77-6ac0-3ac5-8871-752ecd9fdab4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
-      "summary": "Most of that loss was paper. Still, today's premium price assumes profits that haven't arrived yet.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xy1O8eaN7T3DfklGotcPXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/14ede491aceb7b2cbc951cdb484bb4d4.jpg",
-      "published_at": "2026-08-17T22:56:01Z"
     }
   ]
 }
