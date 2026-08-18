@@ -1,18 +1,150 @@
 {
-  "last_updated": "2026-08-18 11:21 UTC",
+  "last_updated": "2026-08-18 11:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "b6358199-7405-3e59-95e9-7c63ae4cbf70",
+      "id": "e79183b5-6bb7-3049-a617-40d71c766280",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Latest News In Energy Transition - Germany's Energy Future: From Mining Lands to Power Hubs",
+      "summary": "Fluence Energy GmbH and LEAG Clean Power GmbH have commenced construction on the Heinersbrück GridBattery, a 400 MWh energy storage project in Germany. This installation will co-locate with wind and solar generation assets on regenerated former mining land and is part of efforts to bolster Germany's energy transition. The project aims to enhance the reliability of energy supply and alleviate grid pressure. This development marks the second collaborative project between Fluence and LEAG Clean...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-germanys-113713744.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eBdiCPanX2gPHLGklaqkQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1.jpg",
+      "published_at": "2026-08-18T11:37:13Z"
+    },
+    {
+      "id": "fbc17250-40ca-3e8e-a422-bc525cbc32f9",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Two Quantum Computing Stocks Are Starting to Pull Ahead of the Pack",
-      "summary": "IonQ and Quantinuum both turned in strong Q2 results.",
+      "title": "If I Could Tell Every Investor 1 Thing About Preparing for a Recession, It's This",
+      "summary": "Recessions can be scary. But you can actually benefit from them with the proper planning.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/two-quantum-computing-stocks-are-starting-to-pull/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gcRbJ0J9JNqXW0awSpqpfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a046b5d292e864d1ab99be8debba1fdc.jpg",
-      "published_at": "2026-08-18T11:05:00Z"
+      "url": "https://www.fool.com/investing/2026/08/18/tell-investors-1-thing-preparing-recession-this/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kOJA8STNA5zdHfIrCiB6lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/46c6e898e1736e826a5165df6f670888.jpg",
+      "published_at": "2026-08-18T11:37:00Z"
+    },
+    {
+      "id": "a6d160a7-eab9-32a6-a085-3fc0f8ac85a3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bill Ackman Bets Big on Visa After It Lagged the Market for 5 Years. Should You?",
+      "summary": "Bill Ackman just made Visa a major new bet after the stock trailed the S&P 500 for five straight years. Whether that lag signals a coiled spring or a structural problem depends on threats most investors are not watching closely enough.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/bill-ackman-bets-big-on-visa-after-it-lagged-the-market-for-5-years-should-you/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eiouT2ra6gGqKSFXCZqflw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7ade14d9b10833d8df9df339d49738aa.jpg",
+      "published_at": "2026-08-18T11:35:01Z"
+    },
+    {
+      "id": "8d2636ad-8bf0-37fb-9b7d-41964df4365e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks mostly drop as Mideast hopes dim, interest rates rise",
+      "summary": "Stock markets mostly fell on Tuesday after a US-Iran truce expired with no deal to reopen the Strait of Hormuz, adding to fears that higher energy prices will drive up inflation. But London -- which has more major energy companies in its indexes -- was supported by higher oil prices.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-extends-gains-most-stocks-082408030.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tpQGXTYkJC_IHDyWt6mEeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/dcdcb695173cb71e357e68329986cfa7.jpg",
+      "published_at": "2026-08-18T11:29:45Z"
+    },
+    {
+      "id": "1f889dcc-9ba2-31e7-8bdb-5aff6b6a1806",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Can Space Stocks Bounce Back? This $1 Billion Air Force Contract Might Help.",
+      "summary": "After a historic retreat, are space stocks finally cheap enough to buy again?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/can-1-billion-contract-help-space-stocks-bounce/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H59mxhEGm_GIUt1KdIbwtg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/64ba8f1ba0f0c93885c8ca79164593d6.jpg",
+      "published_at": "2026-08-18T11:27:00Z"
+    },
+    {
+      "id": "cdf139ba-ddf1-3524-871d-97e419ad9af6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "S&P 500 futures fall as U.S.-Iran truce expires, yields spike",
+      "summary": "The 30-year Treasury yield hit its highest level since 2007 as oil climbed and chip stocks dragged Nasdaq futures lower",
+      "source": "Quartz",
+      "url": "https://qz.com/stocks-fall-us-iran-truce-expires-bond-yields-19-year-high-081826",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KjZe3ysKtwjM52sZoPg7zQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/4a8a19555c5309a0ee22886ab3dc9ba3.jpg",
+      "published_at": "2026-08-18T11:26:26Z"
+    },
+    {
+      "id": "0eafab17-18d2-3a2e-ab45-465e23e653fb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "History Says Nvidia Is Going to Disappoint Wall Street After Aug. 26",
+      "summary": "If history rhymes, once more, the face of the artificial intelligence (AI) revolution will shed $290 billion in value.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/history-says-nvidia-disappoint-wall-street-aug-26/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f7nDsXvc9.d20PUhcw2qpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8cf2ede14df1dd081d421063b1d0cade.jpg",
+      "published_at": "2026-08-18T11:26:00Z"
+    },
+    {
+      "id": "0ee21ad0-8856-3232-87e1-cd14c140048f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Vanguard Fund Could Turn $450 Per Month Into $1 Million in 30 Years",
+      "summary": "The Vanguard S&P 500 ETF is a top fund that tracks the overall market and charges minimal fees to do so.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/this-vanguard-fund-could-turn-450-per-month-into-1/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lHg4jNHQJaCfOdT9RNx4SA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/18a213a58ceff05feeb22e3eba8e6496.jpg",
+      "published_at": "2026-08-18T11:20:00Z"
+    },
+    {
+      "id": "71bf8030-dcf3-340c-9c76-8eadc09d460e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet vs. Meta Platforms: Which Is the Better AI Advertising Stock to Own for the Next 5 Years?",
+      "summary": "AI has become a powerful tool for Alphabet and Meta to optimize ads to the right viewers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/alphabet-vs-meta-platforms-which-is-the-better-ai/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6v90Wg9CYT3lGhSbhb5NpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/782b959da33a0c9b733c09f27dccde67.png",
+      "published_at": "2026-08-18T11:20:00Z"
+    },
+    {
+      "id": "d4ff4da6-5356-37d5-9735-af328acb420b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Prediction 2026: What Kalshi’s Betting Markets Say",
+      "summary": "The SEC canceled a planned vote on its Regulation Crypto framework, citing an unforeseen scheduling issue. The proposal could create exemptions for crypto startups raising capital outside traditional securities rules. However, the delay changes nothing legally. No safe harbor has been created, and no new offering regime is currently in ...",
+      "source": "99bitcoins",
+      "url": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-prediction-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b5lIp5QvppG9oKD97RiZNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/99bitcoins_us_315/ae003fe60f66e565e3dcdda73cfc71e4",
+      "published_at": "2026-08-18T11:19:24Z"
+    },
+    {
+      "id": "3a1f9631-ac21-318a-b57c-72c49e5a6879",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded",
+      "summary": "Investing.com -- Mega-cap technology stocks remain under-owned by active institutional investors relative to their weighting in the S&P 500, and that gap widened in the second quarter, according to Morgan Stanley’s latest large-cap institutional ownership tracker. The analysis covers 28 large-cap technology companies within Morgan Stanley’s U.S. technology equity research coverage.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sandisk-bofa-reveals-stock-111430153.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T11:14:30Z"
+    },
+    {
+      "id": "bf3bbb34-e7a5-3be9-a6be-0318eb76b04a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Interest Rates, Crude Prices Dent Wall Street Pre-Bell; Asia, Europe Off",
+      "summary": "Wall Street futures pointed lower pre-bell Tuesday as interest rates and crude prices rose, followin",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/articles/interest-rates-crude-prices-dent-111408298.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T11:14:08Z"
+    },
+    {
+      "id": "39f94f17-e4ae-34b0-bbec-d1f32b1ac7ab",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Is Nvidia (NVDA) Investing $1.5 Billion In A Massive Ohio AI Site?",
+      "summary": "Nvidia (NasdaqGS:NVDA) is investing US$1.5b in SB Energy to build and power OpenAI's planned 8-GW AI data center in Ohio. The Ohio facility is expected to be the largest single AI data center in the United States and is tied to a 20-year project for OpenAI. Nvidia will be the exclusive compute infrastructure provider and a credit provider for this OpenAI data center project. This move positions Nvidia more deeply in AI data center infrastructure and financing within the expanding U.S. AI...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-nvda-investing-1-111025027.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XH0UPdUadzYtU0WXFiMcgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e.jpg",
+      "published_at": "2026-08-18T11:10:25Z"
     },
     {
       "id": "117ab8e6-db4d-3aec-9d33-59fcee7abb89",
@@ -48,48 +180,15 @@
       "published_at": "2026-08-18T11:01:51Z"
     },
     {
-      "id": "656a5a8f-4796-32ed-b1ca-1a796b03381d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Reddit Fell Almost 30% This Year: 80% Gains Are In Store According to Wall Street Pros",
-      "summary": "Wall Street analysts are piling into Reddit with some of the highest price targets in social media, yet the stock keeps sliding even as the company posts explosive revenue growth. Something has to give, and the direction it breaks could be dramatic.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/reddit-fell-almost-30-this-year-80-gains-are-in-store-according-to-wall-street-pros/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jlocw_O0FL6KMyeWhmJbcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/11efdb0ff1e2212a8f65ffddcb0aea2c.jpg",
-      "published_at": "2026-08-18T11:01:02Z"
-    },
-    {
-      "id": "e4921bba-8c0f-3369-8d9f-991b7923d187",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Growth Stocks That Could Make You Rich by 2030",
-      "summary": "Three platform businesses dominate entirely different corners of the digital economy, yet each carries a specific risk that could unravel the entire thesis before 2030 arrives.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/3-growth-stocks-that-could-make-you-rich-by-2030/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CZiCIQdnDvhIjunLHo9f9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7b463f39f82e5efb7bb7d9da2508456f",
-      "published_at": "2026-08-18T11:00:11Z"
-    },
-    {
-      "id": "1d4df593-0cee-38ae-b4e8-5c6e282ec008",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "5 Dependable Dividend Stocks to Buy in August",
-      "summary": "While the market chases momentum trades and AI multiples, a small group of blue-chip dividend compounders has quietly raised its payouts for generations and continues doing so in 2026. These five names carry the streaks, the cash flow, and the brand moats to keep rewarding patient investors well into next year.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/5-dependable-dividend-stocks-to-buy-in-august/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OcuStW5mg0.y0VgsC1.1FQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/319f4dad82d13c1eae5d7884892fc666",
-      "published_at": "2026-08-18T11:00:10Z"
-    },
-    {
-      "id": "c8efeca3-4de2-3a6f-af01-1aabf8d5f6c9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warren Buffett and Greg Abel Keep Overlooking This Stock -- but It's One of the Most Berkshire-Ready Picks on the Market",
-      "summary": "Even if Berkshire Hathaway never scoops up a stake on this largely overlooked and mostly unloved name, that doesn't mean it doesn't have a place in your portfolio.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/warren-buffett-and-greg-abel-keep-overlooking-this/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xLMOI32P_LG4L3gXCXDwgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bcbaf024a427ab408bcc6e1e52912a22.jpg",
-      "published_at": "2026-08-18T10:59:00Z"
+      "id": "4bf441b4-5047-31ea-a0dc-d883fc2f0d7e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "3 Reasons MicroStrategy (MSTR) Stock Could Climb While Bitcoin Remains Flat",
+      "summary": "MSTR stock is down 38% in 2026, but analysts still see a Strong Buy. Three reasons and the charts explain why.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/mstr-stock-strong-buy-2026-three-reasons-analysis/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZNdRWtE8bNi4ZOXXFOOgag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8746021bf08a2b66c5292adbe576686d.png",
+      "published_at": "2026-08-18T11:01:11Z"
     },
     {
       "id": "785d9e69-afff-36bb-b8ab-00c9ca2402c2",
@@ -101,28 +200,6 @@
       "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Mgr8kl6SwQRWLwNCP6zXUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/b304acfdd414a600a48a4e38f37909f4.jpg",
       "published_at": "2026-08-18T10:55:09Z"
-    },
-    {
-      "id": "e88218e0-88ea-3b09-bf99-fe9b17b0cdd0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "No Matter What Happens to the Market, These 3 Dividend Stocks Belong in Your Portfolio",
-      "summary": "Looking for dependable dividend stocks? Here are three tickers that could be steady anchors for a long-term portfolio.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/no-matter-what-happens-to-the-market-these-3-divid/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pxSZzgI2RjUOxqMmyLL4yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/289aa55b78e09c14118908dabbfdd014.jpg",
-      "published_at": "2026-08-18T10:50:00Z"
-    },
-    {
-      "id": "0bcc8580-5797-318c-8833-dd37461b2c63",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nike Stock Yields 4% and Could Raise Its Dividend for the 25th Straight Year in 2026",
-      "summary": "Shares are on a losing streak, but income investors have a lot to be excited about.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/nike-stock-yield-4-raise-dividend-25-years-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qwQieq_05nv4bEEcDpIfDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e6d7c8186a359b415f5bbee09bf0273d.png",
-      "published_at": "2026-08-18T10:35:00Z"
     },
     {
       "id": "78451ac7-3cc3-32a0-b722-caf00262f0a3",
@@ -145,17 +222,6 @@
       "url": "https://finance.yahoo.com/news/einride-deploy-500-tesla-electric-103341790.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tWuX5EnMnJJQMvaDQQhuhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/610f2b07e2c98467e0bc79f9459d5f2f.jpg",
       "published_at": "2026-08-18T10:33:41Z"
-    },
-    {
-      "id": "ca745bf2-a03d-33e7-89ed-c3dd7d4f448b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "ServiceNow vs. Palantir: Both Sell AI SaaS Platforms to Governments and Enterprises. Here's the Number That Actually Separates Their Growth Rates.",
-      "summary": "ServiceNow offers more proven, durable growth, while Palantir offers much higher growth potential.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/servicenow-vs-palantir-both-are-selling-ai-saas-pl/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fIQe4PWsEPijcavYH.fMew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6571556c966c21ebdc689d2969c71ad1.jpg",
-      "published_at": "2026-08-18T10:30:00Z"
     },
     {
       "id": "39f8c74e-37ef-3f69-86cc-81085cb03e79",
@@ -189,28 +255,6 @@
       "url": "https://www.coinspeaker.com/bitcoin-volatility-trap-score/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ida5yBXOkMafzb4bMsbhDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinspeaker_us_106/e92ee9b008c99227dd523928d1f45ed7",
       "published_at": "2026-08-18T10:08:47Z"
-    },
-    {
-      "id": "123126bc-ffa3-37aa-85d4-25a5f6101aa2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
-      "summary": "CALGARY, Aug 18 (Reuters) - Canadian pipeline firms are proposing billions of dollars in new projects despite oil sands companies being reluctant to commit to significant production expansions amid ongoing uncertainty around climate policies and long-term global demand. At least six different pipeline projects are underway or proposed in Canada, to move oil to the United States or to export markets on ‌the Pacific coast.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/analysis-canadas-pipeline-ambitions-hinge-100608458.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wFh6H1NTm1O7e4TSWCOodA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/85cab1b5d08f59e47b94b07d1206443c.jpg",
-      "published_at": "2026-08-18T10:06:08Z"
-    },
-    {
-      "id": "27a70a36-1dc6-34ce-9f14-68f46db9d893",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Futures Drop as Chip Rally Halts, Trump Ramps Up Middle East Tension",
-      "summary": "Stocks looked set to drop on Tuesday as investors ditched some of the chip and memory names that had helped limit the market’s losses the previous session.  The three major indexes closed in the red on Monday after President Donald Trump threatened to bomb Oman if it blocked U.S. efforts to strike a peace deal with Iran.  “With both sides still far apart, investors grew pessimistic that the Strait of Hormuz would properly reopen any time soon… That put pressure on fixed income, particularly longer-dated sovereign bonds,” Deutsche Bank macro strategist Henry Allen said.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/stock-futures-drop-as-chip-rally-runs-out-of-steam-MLs3ul9yDkepWx70B75D?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-18T10:01:58Z"
     },
     {
       "id": "063a2978-daec-368b-8347-993b685ffe58",
@@ -257,17 +301,6 @@
       "published_at": "2026-08-18T09:44:16Z"
     },
     {
-      "id": "742b96e3-bc3d-3e6d-a18a-74c819293ea0",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Prices Top $90, Fueled by Renewed Tensions in the Middle East",
-      "summary": "International oil prices are extending gains after a vessel was struck while leaving the Strait of Hormuz overnight. The ship was hit by an unknown projectile approximately five nautical miles off the coast of Oman causing one crew casualty, according to the U.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/oil-prices-top-90-fueled-by-renewed-tensions-in-the-middle-east-2o4dWXtualLCSOoO89Co?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-18T09:34:57Z"
-    },
-    {
       "id": "330c2740-a67f-3160-b3ad-add0a6116854",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -277,39 +310,6 @@
       "url": "https://investorshub.advfn.com/market-news/article/34485/gold-slips-below-4400-as-higher-oil-prices-and-treasury-yields-weigh",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HdM44LoCRD3Etjm4UcD9iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/7ae47b3e2f60b00e0da8dfd587061838.png",
       "published_at": "2026-08-18T09:33:27Z"
-    },
-    {
-      "id": "7d78299c-6267-3d83-b91b-32d04ca187b4",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq",
-      "summary": "U. S. stock futures moved lower on Tuesday as investors monitored another rise in oil prices and the risk that disruption to the Strait of Hormuz could persist, while fresh U.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34481/wall-street-futures-fall-as-middle-east-risks-oil-prices-and-canada-tariffs-take-focus-dow-jones-sp-nasdaq",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qMw9DP3O_ld7SmZilnsYUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/8b48211bd62e691d614007d1e0b24907.png",
-      "published_at": "2026-08-18T09:28:15Z"
-    },
-    {
-      "id": "c8af1a30-6f24-3052-b1ba-e59389b1b776",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Edges Lower as Middle East Tensions Weigh",
-      "summary": "Bitcoin fell slightly as concerns about persistent tensions between the U.S. and Iran dent risk sentiment. President Donald Trump said he is not seeking an extension of the 60-day U.S. ceasefire with Iran, which expired Monday.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/bitcoin-edges-lower-as-middle-east-tensions-weigh-WlHvaiglVReXJeJlZ5gH?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-18T09:27:35Z"
-    },
-    {
-      "id": "be36ce1b-8a9d-363a-8957-4cff31972538",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin’s Historic Calm Could Set Stage For 30% Move Over Next 2 Months: Fundstrat",
-      "summary": "Fundstrat said rising long-term real yields could eventually help break Bitcoin out of its unusually quiet trading range, while Tom Lee noted easing oil prices as a backdrop for risk assets.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoins-historic-calm-fundstrat/cZYcd0fRJSq",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/b38jPa8KRe7SHc671GK8yQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4bcdfc2dd592c2619ab9aa2924365899",
-      "published_at": "2026-08-18T09:25:56Z"
     }
   ]
 }
