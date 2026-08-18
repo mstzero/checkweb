@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-18 21:19 UTC",
+  "last_updated": "2026-08-18 21:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "cc924a20-687e-34b1-9939-b16c8f532cd3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Microsoft Will Be Worth $5 Trillion by 2029. Here's the Math.",
+      "summary": "Getting there from today's value takes about 10% a year. The software giant just grew earnings three times that fast.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/prediction-microsoft-will-be-worth-usd5-trillion-by-2029-here-s-the-math/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IZ3.5dyZyBePXWgPadbHbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a26773164c30b118bb3679def47c15b6.jpg",
+      "published_at": "2026-08-18T21:32:01Z"
+    },
+    {
+      "id": "db4e8b72-43bd-37b6-abe4-666ca0f533dc",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla's Cybercab Could Hit Austin Roads This Month",
+      "summary": "Employee rides may come before public robotaxi deployment.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/teslas-cybercab-could-hit-austin-212807468.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T21:28:07Z"
+    },
+    {
+      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Indexes Near Critical Level",
+      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
+      "published_at": "2026-08-18T21:24:40Z"
+    },
+    {
+      "id": "22b0e35f-0a66-3e41-abde-109199128cbe",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Legendary Investor Drops Stark 2027 Market Warning",
+      "summary": "Wall Street optimism is colliding with a much darker outlook",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/economy/articles/legendary-investor-drops-stark-2027-212429486.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T21:24:29Z"
+    },
+    {
+      "id": "fd73bda4-2bac-32cf-b44f-1d14fa0af9d7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
+      "summary": "A cooling AI trade, a 19-year Treasury yield high, and a cohort of robotics names that doubled into today just became a dangerous combination for investors still holding Physical AI exposure.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/robotics-stocks-punished-tuesday-in-ai-sell-off-ouster-down-10-aeva-technologies-down-12-symbotic-down-4/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YefS2VOW2HuyhGx3gwexkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/33802b72357e41b0efdda85ff280ae75.jpg",
+      "published_at": "2026-08-18T21:22:37Z"
+    },
+    {
+      "id": "edc4fbc1-1550-37b9-a4d6-ee30e035eed7",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Just Landed a Major Win for Long-Delayed Semi",
+      "summary": "The rollout could reveal whether Tesla can scale beyond pilots.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-landed-major-win-212212407.html",
+      "thumbnail": "",
+      "published_at": "2026-08-18T21:22:12Z"
+    },
     {
       "id": "fe48a789-3d37-3574-b9b7-85068f2f4599",
       "asset": "TSLA",
@@ -13,6 +79,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-312-times-211213449.html",
       "thumbnail": "",
       "published_at": "2026-08-18T21:12:13Z"
+    },
+    {
+      "id": "47aad014-8127-390d-b5bf-5fe35d3c29d4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
+      "summary": "Chip stocks tumbled Tuesday in a broad reversal from Monday's solid gains, leaving investors with whiplash.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uLrla390sOK5m2CQmrluEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ed4ed91f9d95f365e6cfd4385b41dbc5.jpg",
+      "published_at": "2026-08-18T21:11:07Z"
     },
     {
       "id": "138552fa-9487-3f86-9242-567b9775e89d",
@@ -35,6 +112,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-drops-stark-tesla-stock-210738265.html",
       "thumbnail": "",
       "published_at": "2026-08-18T21:07:38Z"
+    },
+    {
+      "id": "99671de3-519e-36b3-8aaf-1074eabc78bb",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Kavita Gupta Comments On Bitcoin Whales' Buying Spree",
+      "summary": "Kavita Gupta, founder & general partner of Delta Blockchain Fund, joins Scarlet Fu and Dushyant Shahrawat on \"Bloomberg Crypto.\" Bitcoin whales have added about 43,000 Bitcoin over the past 60 days, worth roughly $2.75 billion at current prices, according to CryptoQuant.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/kavita-gupta-comments-bitcoin-whales-210536883.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0gOoFOX.HVdgN.izJ7m2xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/304faf7dd888a2cdb9050c831a92ec2f.jpg",
+      "published_at": "2026-08-18T21:05:36Z"
     },
     {
       "id": "85a7c88c-29e1-3063-89ba-6c05c5a07960",
@@ -125,17 +213,6 @@
       "published_at": "2026-08-18T21:02:45Z"
     },
     {
-      "id": "44d716e8-4821-33f9-a1e1-572a7c0f6025",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Home Depot, Inc. Q2 2027 Earnings Call Summary",
-      "summary": "Moby summary of The Home Depot, Inc.'s Q2 2027 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-home-depot-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1cdDvvRdCwhLaHjS6kzD8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/6971e52a823f9f8551343c9f7493ecdd.png",
-      "published_at": "2026-08-18T21:01:51Z"
-    },
-    {
       "id": "36e6646c-81c3-3e96-9f00-07cd2bcf4793",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -158,17 +235,6 @@
       "published_at": "2026-08-18T21:00:00Z"
     },
     {
-      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Target Earnings Due",
-      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-18T20:59:56Z"
-    },
-    {
       "id": "2153d76c-0b1f-313e-8414-e33da9e2e63e",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -178,28 +244,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/technology-leads-us-equity-indexes-205919534.html",
       "thumbnail": "",
       "published_at": "2026-08-18T20:59:19Z"
-    },
-    {
-      "id": "7ea5d37b-1e58-36dd-854d-212ceccda526",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Rare Earth Stocks Drop Tuesday as AI Fears Grow: USA Rare Earth and MP Materials Slide",
-      "summary": "AI spending doubts are rippling far beyond chipmakers, dragging rare earth miners into Tuesday's selloff even as government contracts and defense deals set these stocks apart from the rest of the carnage.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/rare-earth-stocks-drop-tuesday-as-ai-fears-grow-usa-rare-earth-and-mp-materials-slide/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dYfaXjfISZmh3ZHj2Do5Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/68962018eff2afaae0e70406efc35e93.jpg",
-      "published_at": "2026-08-18T20:57:14Z"
-    },
-    {
-      "id": "963a1eb1-5c84-3987-8b81-c24301fc2962",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD vs. Nvidia: 1 Metric Tells Me Which Is Clearly the Better Buy for 2026",
-      "summary": "AMD's stock is valued at a far higher premium than Nvidia's.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/amd-vs-nvidia-1-metric-tells-me-which-is-clearly-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OjL6Cxu5qrfr7sTZDSFBCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/abd08cd14874472a0c5a93b86fec7e9e.png",
-      "published_at": "2026-08-18T20:57:00Z"
     },
     {
       "id": "1cbdb148-c009-3cb9-ab5e-39c180f988ec",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-fading-110447161.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l02vzArv6gV.J_XnaUopZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3027e66eec2dbfbbe3854e0811b99c45.jpg",
       "published_at": "2026-08-18T20:48:34Z"
-    },
-    {
-      "id": "52264197-3f91-3f53-89c5-8eeae7e95655",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Vanguard Handed 53 Funds a Fee Cut This Year and Skipped the VGT ETF Entirely",
-      "summary": "Vanguard slashed fees on 53 funds this year and deliberately left one of its biggest, most profitable sector ETFs off the list. Whether that omission should change how you hold it depends on a distinction most investors never think to make.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/18/vanguard-handed-53-funds-a-fee-cut-this-year-and-skipped-the-vgt-etf-entirely/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/O596GTI6UxYgFgbNMbM0ag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/53fde22767d71dc2ef0428b18d643412.jpg",
-      "published_at": "2026-08-18T20:45:22Z"
-    },
-    {
-      "id": "24627e31-79c1-37a4-a0db-96dc23558c24",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
-      "summary": "By Karen Brettell and Niket Nishant Aug 18 (Reuters) - U.S. government bond yields eased slightly on Tuesday, though longer-dated yields remained near multi-year highs after the 30-year Treasury yield",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mNWLBUZCOYB5z_h_DlCuDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7eef53082ed2534b84dcc479d3ffc93c.jpg",
-      "published_at": "2026-08-18T20:42:36Z"
-    },
-    {
-      "id": "fc7d3af1-1c26-3738-b563-d37fa158c416",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Traders Are Looking for Cover in Energy Stocks",
-      "summary": "One refuge from this week's bond- and stock-market selloff: energy. Renewed tensions between Iran and the U.S. have pushed Brent crude futures higher for nine of the past 10 sessions, boosting prices to $91.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/traders-are-looking-for-cover-in-energy-stocks-l4lsZK0iaVlTAa1YoU9A?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-18T20:40:21Z"
-    },
-    {
-      "id": "24afc500-69d1-37d7-8963-b89b36427571",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "World's second-largest bank boosts XRP holdings",
-      "summary": "A Wall Street banking giant increases XRP holdings.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/worlds-second-largest-bank-boosts-xrp-holdings",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h8BlVw6uWVHgaoGWgT0Hvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/838483d4ac6aaf112649cc6996f4b538.jpg",
-      "published_at": "2026-08-18T20:35:00Z"
     }
   ]
 }
