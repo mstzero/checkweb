@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-19 22:49 UTC",
+  "last_updated": "2026-08-19 23:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "711b33b2-f8b1-33bd-bd8c-aa2a503baa4e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla (TSLA) Stock Is Up, What You Need To Know",
+      "summary": "Shares of electric vehicle pioneer Tesla (NASDAQ:TSLA) jumped 3.5% in the afternoon session after permit filings revealed the company is building a dedicated wireless charging hub for its upcoming Cybercab fleet in Austin, Texas.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-know-231002862.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wK6HLjFI8XcLGt5gIV1Qpg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/9e0f08f01f3d35996ac49bdd618e9411.jpg",
+      "published_at": "2026-08-19T23:10:02Z"
+    },
     {
       "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
       "asset": "AAPL",
@@ -12,7 +23,40 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VhSYsImE7SI2ZKT_iN0k9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6e8cc8661dfe1dfab3cb45e7accc621a.jpg",
-      "published_at": "2026-08-19T22:42:25Z"
+      "published_at": "2026-08-19T23:08:04Z"
+    },
+    {
+      "id": "c0867088-5017-30e2-a055-a665ede0084c",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Cerrado Gold Inc (CRDOF) (Q2 2026) Earnings Call Highlights: Production Surges 35% and ...",
+      "summary": "Cerrado Gold Inc (CRDOF) reports strong Q2 2026 results with a 35% production increase and near-record EBITDA of $28.2 million, driven by higher gold prices and strategic cost-cutting measures.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cerrado-gold-inc-crdof-q2-230111708.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T23:01:11Z"
+    },
+    {
+      "id": "8e6dce85-74c2-35d2-8633-b5f179d451ea",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "If you invested $1,000 in NVIDIA, Apple or Bitcoin in 2015, which one made you richer?",
+      "summary": "Three assets. One $1,000 entry. Eleven years. The answer is not what most people expect.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-nvidia-apple-or-bitcoin-in-2015-which-one-made-you-richer",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q6PhfQgavJnhAxEEr4Frlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/61db81684ff4e7eb7d29374b0f4ab54b.jpg",
+      "published_at": "2026-08-19T22:59:07Z"
+    },
+    {
+      "id": "e5a92d0f-e174-3a91-adee-b0e28f0e883d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "HYPE Jumps 17% After Trump Backs CFTC Path for Hyperliquid in U.S.",
+      "summary": "Hyperliquid’s HYPE token (CRYPTO: $HYPE) jumped 17% Wednesday after President Donald Trump said Commodity Fut...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/hype-jumps-17-after-trump-backs-cftc-path-for-hyperliquid-in-us-6475",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LLbnidkL7xbaaV3NnKLuJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/0604aa3201a4da3fcf4a2efc2334c4ce.jpg",
+      "published_at": "2026-08-19T22:57:00Z"
     },
     {
       "id": "bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd",
@@ -27,8 +71,8 @@
     },
     {
       "id": "cb8b6855-c581-300f-869f-d4c4ca199b8c",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "NEOS’s ‘Boosted’ S&P Fund Pays 17% While the Nasdaq Version Pays 21%",
       "summary": "NEOS built its reputation on a flagship S&P 500 income ETF that clears 12% annually, but a pair of younger siblings run the same playbook at a noticeably different intensity, and the tradeoffs are not what most income investors expect.",
       "source": "24/7 Wall St.",
@@ -192,8 +236,8 @@
     },
     {
       "id": "e5e7ef1a-7507-3d09-99c0-1b1b3b655507",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "VUG’s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
       "summary": "VUG's rock-bottom fee gets all the attention, but a hidden cost in the fund's structure quietly shapes every dollar you invest in ways most holders never stop to calculate.",
       "source": "24/7 Wall St.",
@@ -213,20 +257,9 @@
       "published_at": "2026-08-19T21:15:12Z"
     },
     {
-      "id": "51fb64c9-0dec-3b27-be9e-c3d0af6778bc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MARA Holdings (MARA) Stock Still Looks Expensive As AI Lease Plans Grow",
-      "summary": "MARA Holdings stock has fallen sharply over the past few years, yet current valuation checks still flag the shares as expensive rather than a clear bargain. With fresh headlines around AI and power infrastructure plans drawing attention, investors are weighing a long weak share price record against a low overall value score. MARA Holdings has declined 76.4% over the past 5 years, which raises questions about how much of the business risk is already reflected in the price. The push into AI...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mara-holdings-mara-stock-still-211344532.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/88jLkrBcUrY6WKmfWNHATg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/deae7123c305ae121db80b585a5fb9dd.jpg",
-      "published_at": "2026-08-19T21:13:44Z"
-    },
-    {
       "id": "2bfe75f9-a155-3a6a-9129-261e64f9a253",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Trading Day: Bessent makes his mark",
       "summary": "By Jamie McGeever ORLANDO, Florida, Aug 19 (Reuters) - Long-dated U.S. bond yields and the dollar tumbled on Wednesday after the U.S.",
       "source": "Reuters",
@@ -277,39 +310,6 @@
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1eeef783?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2IWxYEFqFEE4dfrUwSO.Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f3a3591266b185ee59754b46dad08085.jpg",
       "published_at": "2026-08-19T20:56:00Z"
-    },
-    {
-      "id": "c479ad32-bac2-3052-b4cb-72c4c0c788b5",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "US Equity Indexes Rise After Most FOMC Participants Support Rate Hold, Treasury Boosts Buybacks",
-      "summary": "US equity indexes rose on Wednesday after most Federal Open Market Committee participants agreed to",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-most-205116821.html",
-      "thumbnail": "",
-      "published_at": "2026-08-19T20:51:16Z"
-    },
-    {
-      "id": "694c340b-4efc-3504-97ff-c09a9a4867cc",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Ripple minted $30 million in RLUSD in a single day, here is what the supply data actually tells you",
-      "summary": "Two transactions. Five hours apart. $30 million in RLUSD minted on the XRP Ledger in a single day.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/ripple-minted-30-million-in-rlusd-in-a-single-day-here-is-what-the-supply-data-actually-tells-you",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UFZdO_Oh1Juo5D5ve1kBXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/71264d23ca504d017569b992fa121de0.jpg",
-      "published_at": "2026-08-19T20:43:00Z"
-    },
-    {
-      "id": "24bbbfb3-dc77-3660-bbb9-9759db45d5ae",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Why Newmont Mining Rallied Today",
-      "summary": "Gold prices increased with a little help from Treasury Secretary Scott Bessent.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/why-newmont-mining-rallied-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KcGSm8XSgcwfP.TvMvbE.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/327949402525ad8e7a87883559604f05.jpg",
-      "published_at": "2026-08-19T20:42:12Z"
     }
   ]
 }
