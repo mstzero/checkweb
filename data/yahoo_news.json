@@ -1,8 +1,151 @@
 {
-  "last_updated": "2026-08-19 20:21 UTC",
+  "last_updated": "2026-08-19 20:53 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "694c340b-4efc-3504-97ff-c09a9a4867cc",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Ripple minted $30 million in RLUSD in a single day, here is what the supply data actually tells you",
+      "summary": "Two transactions. Five hours apart. $30 million in RLUSD minted on the XRP Ledger in a single day.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/ripple-minted-30-million-in-rlusd-in-a-single-day-here-is-what-the-supply-data-actually-tells-you",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UFZdO_Oh1Juo5D5ve1kBXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/71264d23ca504d017569b992fa121de0.jpg",
+      "published_at": "2026-08-19T20:43:00Z"
+    },
+    {
+      "id": "24bbbfb3-dc77-3660-bbb9-9759db45d5ae",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Newmont Mining Rallied Today",
+      "summary": "Gold prices increased with a little help from Treasury Secretary Scott Bessent.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/why-newmont-mining-rallied-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KcGSm8XSgcwfP.TvMvbE.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/327949402525ad8e7a87883559604f05.jpg",
+      "published_at": "2026-08-19T20:42:12Z"
+    },
+    {
+      "id": "c6281c14-1acb-3570-9da8-51fcd1296b6a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs",
+      "summary": "Anthropic and OpenAI may go public in the near future, but they could be risky, volatile investments out of the gate.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/why-i-wouldnt-bother-with-the-anthropic-or-openai/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LCJfxYDN2XpviD0.Oy7mvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc051b36a76aa7c20855e97954283a59.jpg",
+      "published_at": "2026-08-19T20:41:09Z"
+    },
+    {
+      "id": "7ba3e80c-ef40-36c5-9b67-558764281f53",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Global yields fall after US Treasury boosts debt buybacks",
+      "summary": "By Karen Brettell and Iain Withers NEW YORK, Aug 19 (Reuters) - Longer-dated global bond yields retreated from multi-decade highs, the dollar tumbled and gold jumped on Wednesday after the U.S.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/bond-selloff-slows-stocks-wobble-025827451.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3udba8km9WpdIfdd5szTpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/467ffcbdf47a69dca8da62e3ce290167.jpg",
+      "published_at": "2026-08-19T20:39:51Z"
+    },
+    {
+      "id": "0f39d21f-f9fd-3f3c-8c50-f9955c398df4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Target Just Delivered Its Strongest Evidence Yet That the Turnaround Is Working",
+      "summary": "Target just posted numbers that silenced its skeptics, but the headline figures hide a more complicated story about what the retailer actually earned on its own merit versus a billion-dollar windfall it may never see again.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/target-just-delivered-its-strongest-evidence-yet-that-the-turnaround-is-working/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5uhWl96nG8cDb9A7e4Mb.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ec3abc2b97e328781c2f2992b19dfcc9.jpg",
+      "published_at": "2026-08-19T20:37:19Z"
+    },
+    {
+      "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks waver, dollar drops as US Treasury moves to lower bond yields",
+      "summary": "Stock markets mostly rose on Wednesday and the dollar fell sharply after the US Treasury signaled action to push down government bond yields, easing fears that higher borrowing costs would weigh on economic growth worldwide.But the US Treasury surprised markets Wednesday by saying it would increase \"by at least double\" its sovereign bond buybacks to push down 30-year yields that have soared in recent days.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VgddQ9sVFNjSmaAcizW3eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/8557a0e33c8305b870655db745ddc16a.jpg",
+      "published_at": "2026-08-19T20:35:11Z"
+    },
+    {
+      "id": "8cef2f3b-6740-3c3d-b086-c1622772152c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote",
+      "summary": "The Senate sets date for Clarity Act vote. SEC proposes new rules for crypto offerings. Trump, crypto leaders speak at White House summit.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/clarity-act-sec-regulation-crypto-white-house-summit-trump-cftc-bitcoin/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zH5dP_GaN6Oz7xtC.Z4cIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4b1e64402ada791e3c9e23bd52289760.jpg",
+      "published_at": "2026-08-19T20:34:25Z"
+    },
+    {
+      "id": "b1fc0da9-859a-39c0-8ac0-06e5e72cef7a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Equity Markets End Higher as US Treasury Plans Expanded Long-Bond Buybacks",
+      "summary": "US equity indexes ended higher Wednesday after the Treasury Department said it would increase buybac",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202620978.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T20:26:20Z"
+    },
+    {
+      "id": "867ffdc1-96d7-3a76-a3f0-40ca1a9ff92c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy, Coinbase, Circle, Robinhood stocks rally after Treasury news",
+      "summary": "Stocks of leading crypto companies, Strategy, Coinbase, Circle, and Robinhood, rally.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/strategy-coinbase-circle-robinhood-stocks-rally-after-treasury-news",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uKWGVZQ1RtRg66ZDwAwSAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/65f899c892500472acf92f9a39a4d34e.jpg",
+      "published_at": "2026-08-19T20:26:16Z"
+    },
+    {
+      "id": "642b6381-df48-3594-a5ee-3051d399c3b8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
+      "summary": "Regulators took initial steps to allow investors to trade AI compute futures based on the prices of GPUs sold by the likes of Nvidia, TSMC and Broadcom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IKhxmmpKkk_.PmzceNFTdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/73ce9b1ccceef19cbebc580d8be29c19.jpg",
+      "published_at": "2026-08-19T20:24:14Z"
+    },
+    {
+      "id": "e0639aec-45bc-3faf-81ea-d2f74c2e6801",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "TSX Closer: The Index Edges Higher as Base Metals Gain",
+      "summary": "The S&P/TSX Composite Index closed higher on Wednesday as weakness in financial stocks outweighed ga",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-higher-202025905.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T20:20:25Z"
+    },
+    {
+      "id": "6f7254c2-f5d6-3b99-a092-0078481a7e29",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Why China’s Unitree IPO Surge Is Good News for Tesla",
+      "summary": "If humanoid robots are the future, and they appear to be based on what investors are willing to pay, then Elon Musk faces a formidable Chinese rival.  Unitree Robotics  surged 460% on Wednesday in its trading debut in Shanghai, giving the company a market capitalization of about $51 billion.  Figure AI, which posts videos of its robots working in factories, has been valued at almost $40 billion.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0UZGvjptSFh1.2Sq84IZEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2ddd941b4f750d1b2a8e0eeed82fd73c.jpg",
+      "published_at": "2026-08-19T20:17:00Z"
+    },
+    {
+      "id": "d05ee194-4b60-3795-9512-fa14b9edc3ef",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Is Advantest’s Earnings Beat Amid High Energy Costs Reframing Its Investment Case (TSE:6857)?",
+      "summary": "Advantest Corporation recently presented at the OCP APAC Summit 2026 in Taipei, where Kotaro Hasegawa highlighted the company’s semiconductor test technologies to an industry audience. This came as Advantest joined a broader group of Japanese companies delivering their largest earnings beats in five years, underscoring its role in sector-wide profit resilience despite higher energy costs. We’ll now examine how Advantest’s strong earnings beat, despite elevated oil prices, may influence the...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advantest-earnings-beat-amid-high-201016663.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4D8K44lX7JsJVsBwtL0uWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/c5201eeaa7905447e59995740351e3e5.jpg",
+      "published_at": "2026-08-19T20:10:16Z"
+    },
     {
       "id": "af84701d-7ec9-34b4-b5c9-ed658fd96564",
       "asset": "OIL",
@@ -46,6 +189,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195741830.html",
       "thumbnail": "",
       "published_at": "2026-08-19T19:57:41Z"
+    },
+    {
+      "id": "f9278f87-9227-3806-9643-5d492231aef4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Long-Term Yields Fall on Treasury Move While Short-Term Holds Up",
+      "summary": "FINANCE 1550 ET – Treasury yields settle mixed as the U.S. government plans to buy back more of its long-term debt. The Treasury department doubles to $4 billion the cap for buybacks of 10- to 30-year maturities.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/asia-pacific-bonds-edge-higher-on-possible-dip-buying-interest-67fa96ad?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-19T19:56:00Z"
     },
     {
       "id": "82981e53-88c1-3657-886d-7ac5ff5030f5",
@@ -125,37 +279,15 @@
       "published_at": "2026-08-19T19:44:07Z"
     },
     {
-      "id": "24e3ca01-7b4a-3123-9ab3-231ed45fd00a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Billionaire Tech Investor Is Betting Big on SpaceX and Chip Stocks",
-      "summary": "Philippe Laffont aggressively added to his positions in semiconductor stocks in the second quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/this-billionaire-tech-investor-is-betting-big-on-s/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JwYmVwaQDvuce15peprqDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb0d3b6f8636c7400a99104d03173ebe.png",
-      "published_at": "2026-08-19T19:41:00Z"
-    },
-    {
-      "id": "544fe569-9ddb-3b57-9039-3bfb5734d6d7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Estée Lauder Stock Jumped Today",
-      "summary": "The beauty products leader's profit growth plan is working.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/why-estee-lauder-stock-jumped-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/omlmWTIBPEp2tWwbpc0K0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4f51333e96a08f32baf2efe132998242.jpg",
-      "published_at": "2026-08-19T19:35:26Z"
-    },
-    {
-      "id": "6ab78cf2-ab56-39df-bac6-3ead612c37f6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Target Quarterly Profit Doubles to $1.88 Billion. Is the Turnaround Finally Taking Hold?",
-      "summary": "Target's new investments are paying off as the retailer returns to steady growth.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/target-quarterly-profit-doubles-to-188-billion-is-the-turnaround-finally-taking-hold/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/USwprL0QSoJzH8UR5PR0Hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0e674630ab7cfe5e904db32bdd623658.jpg",
-      "published_at": "2026-08-19T19:33:00Z"
+      "id": "3da48245-ba94-39d8-9e24-390ea0a03c58",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Jumps Above $68,000 For The First Time Since June",
+      "summary": "The price of the leading cryptocurrency is up more than 5% in the past 24 hours, breaking above $68,000—and nearing $69,000—to levels it hadn’t seen since early June.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/market-update-bitcoin-jumps-above-68000-for-the-first-time-since-june-btc-12063668",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U7Y62K.HnwJiMANRu61neA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/931ecfb367f1d1d2177cda39b986d10d.jpg",
+      "published_at": "2026-08-19T19:38:03Z"
     },
     {
       "id": "62443321-14da-3e7f-b471-49c2fc25c688",
@@ -169,147 +301,15 @@
       "published_at": "2026-08-19T19:32:37Z"
     },
     {
-      "id": "69af3544-92d6-30fa-91a0-8b66c17a8412",
+      "id": "ec1b8b2a-1e0e-3c5e-9ead-8175d31cc52d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "US yields drop after Treasury offers liquidity support",
-      "summary": "WASHINGTON, Aug 19 (Reuters) - Yields on long-dated U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-yields-head-lower-treasury-141517850.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/72bdjXRGfr_cA6Z0hxrAlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4101fe623da5d08710a4247472bce81f.jpg",
-      "published_at": "2026-08-19T19:22:35Z"
-    },
-    {
-      "id": "599de245-de49-38e2-a285-7e90c4c3ce76",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: S&P 500 Higher As Yields Tumble; Coinbase Soars Amid White House News (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Wednesday on Treasury buybacks. Moderna soars on cancer vaccine news.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LKi.zqbgulprjiYpCKm8yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg",
-      "published_at": "2026-08-19T19:17:42Z"
-    },
-    {
-      "id": "c1f16967-7ee7-3aa2-b9e8-6844f11ed249",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "BTIG Flags Major Risk for S&P 500",
-      "summary": "History and stretched technicals are pointing in the same direction",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/btig-flags-major-risk-p-191617617.html",
-      "thumbnail": "",
-      "published_at": "2026-08-19T19:16:17Z"
-    },
-    {
-      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil prices settle near 4-week high as Middle East crisis escalates",
-      "summary": "By Arathy Somasekhar HOUSTON, Aug 19 (Reuters) - Crude oil prices rose on Wednesday and settled at the highest in nearly four weeks, as investors worried about escalating tensions in the Middle East",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0jB5z205kYAA_eiexW1Obg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dc0c9de91680e8d6b9ab3273c4d4e2a7.jpg",
-      "published_at": "2026-08-19T19:12:23Z"
-    },
-    {
-      "id": "b666d046-77ba-38c2-a7d4-a8b42bff220d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Gold, Bitcoin rally as U.S. Treasury makes unexpected bond market move",
-      "summary": "The Treasury’s bond market intervention revived the hard-asset trade, lifting both gold and bitcoin.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/gold-bitcoin-rally-as-u-s-treasury-makes-unexpected-bond-market-move",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pt0IjhnNcKwABi3BcxzIvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/5268963ef1256eb786603c36c1414d12.jpg",
-      "published_at": "2026-08-19T19:11:47Z"
-    },
-    {
-      "id": "9894748e-d695-3c5a-9e44-2b18537df6c5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Should Higher Oil Prices And Rising Energy Activity Require Action From Cactus (WHD) Investors?",
-      "summary": "Recently, oil prices moving above US$80 per barrel have lifted investor interest in energy-related companies, including Cactus, which supplies engineered pressure control equipment and spoolable pipe used in onshore oil and gas drilling, completion, and production. The news highlights how Cactus’ focus on specialized wellhead and pipe technologies directly links its business fortunes to shifts in broader commodity-driven activity and spending. We’ll now examine how stronger oil prices and...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/higher-oil-prices-rising-energy-191119805.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YfRd8shal2Lf9bzXclp44w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/92d26d55968bddf376addae5e476c381.jpg",
-      "published_at": "2026-08-19T19:11:19Z"
-    },
-    {
-      "id": "50f74d63-7daa-361a-911d-93bab954ef96",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Jumps To $68,000 On News Of Bond Market Intervention",
-      "summary": "Bitcoin (CRYPTO: $BTC) is up 6% and trading at $68,400 U.S. on Aug. 19 after Treasury Secretary Scott Bessent annou...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/bitcoin-jumps-to-68000-on-news-of-bond-market-intervention-6473",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gP.9SKBTC8vg4KLjViKXnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/a37a1f0417408e4726e790f5908be1df.jpg",
-      "published_at": "2026-08-19T19:07:00Z"
-    },
-    {
-      "id": "55192d24-2fac-3c0f-ba07-12538f4ce04f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Antalpha Platform Holding Co (ANTA) (Q2 2026) Earnings Call Highlights: Revenue Drops 28% Amid ...",
-      "summary": "Antalpha Platform Holding Co (ANTA) navigates a challenging quarter with a 28% revenue decline, offset by improved pricing and a strong zero-loss track record.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/antalpha-platform-holding-co-anta-190152351.html",
-      "thumbnail": "",
-      "published_at": "2026-08-19T19:01:52Z"
-    },
-    {
-      "id": "07aa5fd1-1b5d-3246-b7bd-81050bb58339",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Markets in Motion: Earnings and easier financial conditions support outlook",
-      "summary": "Key takeawaysFinancial conditions have reached their strongest reading across the Bloomberg index history presented in this week’s episode. Forward earnings expectations continue to rise, potentially offering fundamental support to equities despite valuation concerns.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34656/earnings-financial-conditions-market-outlook",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dKJXQTCtb54nEj22ujROLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/5c02d3ffd0c0db11f0fc9734f874d201.png",
-      "published_at": "2026-08-19T19:00:30Z"
-    },
-    {
-      "id": "c8137334-3b2f-4504-a28e-f86156737e40",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Citi enters the crypto arena: What to expect from its bitcoin custody launch",
-      "summary": "Scott Melker outlines the details of Citi's (C) upcoming bitcoin (BTC-USD) custody launch.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/citi-enters-crypto-arena-expect-190000880.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yPlbDtkMjjxgqxXaNHKp3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8d94fd8b-7496-4bd8-b3b2-372153b2f1b4_22e5610ab2a35c198a002d4ff40d51600dd1ad00bc09b0417dbbf365a068d0c6.jpg",
-      "published_at": "2026-08-19T19:00:00Z"
-    },
-    {
-      "id": "77cccd6d-58cf-37fb-a802-337bfafdceb0",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Marvell Technology Shares Jump on AI Chip Deal With Google",
-      "summary": "Marvell Technology (MRVL) shares jumped Wednesday after the chip designer entered into a deal that w",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-shares-jump-ai-185544352.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FNYjZ7fu0BTmJv2x9LROzg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/864340d747a4694f07a45faa27fa888d.jpg",
-      "published_at": "2026-08-19T18:55:44Z"
-    },
-    {
-      "id": "42c5cb48-cedf-392f-b66f-d7ff9ddc3436",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Jumps 3% as Bessent's Treasury Steps Into Bond Rout",
-      "summary": "Gold, as measured by SPDR Gold Shares (NASDAQ:GLD), surged 3% Wednesday after the U.S. Treasury unexpectedly doubled the size of its long-dated bond buybacks, sending yields and the dollar sharply lower. The move came a day after the 30-year Treasury...",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61312746/gold-treasury-bond-buybacks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LwWRIzho3kK_wgCNymvKgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/cdb4c0f8daf53e938b6faa2271501c56.jpg",
-      "published_at": "2026-08-19T18:46:14Z"
-    },
-    {
-      "id": "6f7254c2-f5d6-3b99-a092-0078481a7e29",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "The Unitree of It All: Why China IPO Surge Is Good News for Tesla",
-      "summary": "If humanoid robots are the future, and they appear to be based on what investors are willing to pay, then Elon Musk faces a formidable Chinese rival.  Unitree Robotics  surged 460% on Wednesday in its trading debut in Shanghai, giving the company a market capitalization of about $51 billion.  Figure AI, which posts videos of its robots working in factories, has been valued at almost $40 billion.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0UZGvjptSFh1.2Sq84IZEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2ddd941b4f750d1b2a8e0eeed82fd73c.jpg",
-      "published_at": "2026-08-19T18:33:00Z"
+      "title": "Oil Extends Gains With No Progress Seen on Hormuz Standoff",
+      "summary": "Oil futures rose for a fourth straight session as transit remained restricted through the Strait of Hormuz, keeping supply concerns alive.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-concerns-over-supply-disruptions-c33bffbd?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OQwAzb_t_vo.C5veredaxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/74ef059cadc206f526f4d7e1663e18a6.jpg",
+      "published_at": "2026-08-19T19:23:00Z"
     }
   ]
 }
