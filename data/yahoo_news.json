@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-19 07:34 UTC",
+  "last_updated": "2026-08-19 08:32 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil hits three-week high on uncertainty over Hormuz",
+      "summary": "By Anushree Mukherjee Aug 19 (Reuters) - Oil prices hit a three-week high on Wednesday as uncertainty over shipping through the Strait of Hormuz and ongoing supply disruptions supported the market.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N4hO8ODwyGGPjME8CXru3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2facae902e2447bd5551b6e494825f88.jpg",
+      "published_at": "2026-08-19T08:16:19Z"
+    },
     {
       "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
       "asset": "OIL",
@@ -11,8 +22,74 @@
       "summary": "Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hopes for a deal to reopen the Strait of Hormuz.\"With oil rising towards $90 a barrel, investors are increasingly concerned about the possibility of a more prolonged inflation shock,\" said Fiona Cincotta, analyst at Forex.com.",
       "source": "AFP",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uUwouoN0AMCJCuJFuLLIWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/308cf8a9da10ebdaa02a82509aa3f853.jpg",
-      "published_at": "2026-08-19T07:28:44Z"
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZOX9.MkJMZHXTD4onAG7HQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/8cc4d47d0b641361e9914d15b1d757e1.jpg",
+      "published_at": "2026-08-19T08:15:54Z"
+    },
+    {
+      "id": "6e8bf2f7-2604-3da1-886f-5c474084c08a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Western Digital (WDC) Could Be 51% Overvalued On Apple China Memory Push",
+      "summary": "Recent US government opposition to Apple sourcing high bandwidth memory from Chinese suppliers has pushed Western Digital (WDC) into sharper focus for investors, who are weighing potential shifts in demand toward domestic storage providers. See our latest analysis for Western Digital. Western Digital’s share price has been volatile in recent sessions, with a 1 day share price return that declined 7.43%. However, the 7 day share price return of 13.30% and year to date share price return of...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-could-51-081428418.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.2ddHJwsdbdeU.d4Iw8FXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/a91ea1bf82b4bec99398e6fa6865e9b9.jpg",
+      "published_at": "2026-08-19T08:14:28Z"
+    },
+    {
+      "id": "bcd891b0-876d-3f13-8b6c-8b61cf091ee8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is Citigroup (C) Changing Custody With Real Time Bitcoin And Traditional Assets?",
+      "summary": "Citigroup (NYSE:C) launched Custody+, a unified custody platform that combines traditional securities and digital assets, including Bitcoin. The service integrates near real-time processing with digital asset custody and advanced FX and liquidity tools on a single infrastructure. Custody+ is aimed at institutional clients that want digital asset exposure within existing global banking and custody arrangements. For readers interested in more ideas around resilient financial exposure linked...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-c-changing-custody-real-081313752.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jZp6MnmeEUiw8pSaZG8b7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e0574e82615fa8a8970c3c3eb5888c6a.jpg",
+      "published_at": "2026-08-19T08:13:13Z"
+    },
+    {
+      "id": "d932dafd-e611-45c3-b020-6c6d0a17e468",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada",
+      "summary": "Stocks continued to be under pressure after the S&P 500 fell for three days in a row.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e62pzHE2dpGz5mIUV7eanw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/87ea13c0-04e1-45bc-888a-fea0cb9aff8d",
+      "published_at": "2026-08-19T08:11:16Z"
+    },
+    {
+      "id": "292ffc0c-e8de-3b73-93e8-847c461e48e2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Maya Protocol Becomes the 16th Crypto Hack Logged in August Alone",
+      "summary": "Maya Protocol halted its chain after a $1.7M exploit drained over 20 BTC and also pushed CACAO down by 88%.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/maya-protocol-exploit-halts-btc-swaps/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6zyU_bWrRw72h9hLZg.jqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/0edc739ac17d2908b731297a99b99006.png",
+      "published_at": "2026-08-19T07:58:05Z"
+    },
+    {
+      "id": "bfdc3954-3fe3-3bfc-be0a-62b248e9f664",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "D-Wave Quantum vs. Microsoft: Which Is the Better Quantum Computing Stock to Own for the Next 5 Years?",
+      "summary": "Owning shares of Microsoft gives you exposure to quantum computing's potential without sacrificing profits.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/d-wave-quantum-vs-microsoft-which-is-the-better-qu/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r_RYHzxv6XqDSmxAWs9HOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/90b8193ea103c1408ea093ff77313a87.jpg",
+      "published_at": "2026-08-19T07:57:00Z"
+    },
+    {
+      "id": "828c8000-2fb3-336d-a6cd-c96a5b66f82a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why are bond yields surging, and why does it matter?",
+      "summary": "<body><p>STORY: \"Why are bond yields up so much at the moment, at multi-decade highs in some cases?\"</p><p>:: Singapore / August 19, 2026</p><p>:: Gregor Stuart Hunter, Asia Finance and Markets Correspondent</p><p>\"At risk of giving an overly simple answer, it essentially boils down to there being fewer buyers than sellers. But what do I mean by that? Okay, so right now, bond investors are looking at the ballooning government deficits across the developed world in places like the US and Japan and Europe, and they're demanding additional compensation to part with their money and lend to these governments. At the same time, because the conflict in the Middle East remains at stalemate and oil prices are going up, there's an expectation that inflation is going to be higher for longer and that's going to further erode the kind of returns that bond investors are used to getting. So in turn, they're going to demand more compensation for that. That's why bond yields are going up all over the world.\"</p><p>\"So a new source of supply for the bond markets over the last few years has been from the global tech sector. Companies like Microsoft, Amazon // these companies have all been deploying tens of billions, in some cases hundreds of billions of dollars of capital to buy chips, data centers // and having funneled most of their free cash flows into this investment, they're now taking on more and more debt to fund that expansion. And that's competing with traditional sources of bonds like banks and government debt. So there are increasing sources of supply and just not enough money to go around.\"</p><p>:: Federal Reserve Board</p><p>\"So government borrowing costs going up have a whole host of implications because the more money that governments are funneling towards interest payments, the less they have available for things like defense, social services.\"</p><p>\"But also bear in mind that the same companies that are taking on debt at the moment are going to face higher interest costs too. So their profits will be squeezed as well. And that's one reason why when the bond market gets sick the equity market tends to catch a cold as well.\"</p></body>",
+      "source": "Reuters Videos",
+      "url": "https://finance.yahoo.com/video/why-bond-yields-surging-why-073636210.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zbn7w_3ZghkxjSqyD3yx2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/5ca54bc4-9f35-473d-a7d6-a7bf34758958/main/1280x720/1m221ms/match/image.jpg",
+      "published_at": "2026-08-19T07:36:36Z"
     },
     {
       "id": "d2ecb009-7e0f-3b50-97be-826d90b0b60e",
@@ -24,6 +101,17 @@
       "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-muted-mining-gains-072828662.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPVcI1S3aj26bkrw.JA57g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/abe3d10f3c8eb4680e66f3990eb89191.jpg",
       "published_at": "2026-08-19T07:28:28Z"
+    },
+    {
+      "id": "4ff02d1d-b7b5-3905-b718-08bc0dcbdca4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Trump Pauses 50% Canada Tariff, Signals Keystone XL Revival: SPY, QQQ Traders Eye Relief Rally",
+      "summary": "In a Truth Social post, US President Donald Trump has delayed planned 50% tariffs on nearly $20 billion of Canadian imports for three days after announcing a preliminary U.S.-Canada trade deal.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/trump-pauses-50-canada-tariff-signals-keystone-xl-revival-spy-qqq-traders-eye-relief-rally/cZYdJ9kRJkK",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R4WETcDKeqCYkvxreDYFvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/3cadb442c79eac60e6662fba52328777",
+      "published_at": "2026-08-19T07:21:07Z"
     },
     {
       "id": "43bb6b72-bc8e-300a-bbfd-4af6838d7355",
@@ -48,6 +136,28 @@
       "published_at": "2026-08-19T07:08:55Z"
     },
     {
+      "id": "ebe84c56-91ae-3600-82ec-8226c85e96af",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Venezuela Signs Oil Deals With SLB and Hunt to Boost Production",
+      "summary": "Venezuela has signed new agreements with SLB and Hunt Oil as it seeks investment, technology and higher crude production.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/venezuela-signs-oil-deals-slb-070000855.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nCVPxH4KFhwmwPTnR9bmiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a1e202e005988f362cff72ffb821371f.jpg",
+      "published_at": "2026-08-19T07:00:00Z"
+    },
+    {
+      "id": "a091d12f-c18d-3212-a883-2333956a87cd",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks Are Sizzlin’—and Fall Will Be Even Hotter",
+      "summary": "Strong earnings reports have helped the S&P 500 reach record levels this quarter. Analysts see more gains ahead, with one saying the index can reach 8100.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-markets-oil-prices-earnings-82dd7d99?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QeDl.MwvUrBnfJBFZgem.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a80516443d345bb638ba8a3ba567b6b8.jpg",
+      "published_at": "2026-08-19T07:00:00Z"
+    },
+    {
       "id": "e51e588f-1762-3750-8f3d-2d5bca10f224",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -57,17 +167,6 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1097248/alphabet-eyes-record-a-5-billion-australian-bond-debut-as-ai-spending-surges-1097248.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WEJsiO2WYNFG3fNApL7mzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/c103985ef25569fd3da3ed44397744ca.jpg",
       "published_at": "2026-08-19T06:47:00Z"
-    },
-    {
-      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil extends climb on prolonged Hormuz export uncertainty",
-      "summary": "By Jeslyn Lerh SINGAPORE, Aug 19 (Reuters) - Oil prices climbed for a fourth straight day on Wednesday as investors weighed conflicting messages from Tehran and Washington on whether the Strait of",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1Gxin7m1oTbn4dZmSLd.vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/0d6370e468518859c0d9a6bb4a0514a7.jpg",
-      "published_at": "2026-08-19T06:45:58Z"
     },
     {
       "id": "cef36490-1aff-3d79-9df4-5356088008be",
@@ -202,17 +301,6 @@
       "published_at": "2026-08-19T04:13:59Z"
     },
     {
-      "id": "92565945-f147-3668-8ebc-0e69293ae751",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
-      "summary": "The billionaire's family office sold five chip and photonics stocks in a single quarter -- and made two of its biggest bets on the companies writing the checks for AI instead of chasing them.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/2-stocks-to-buy-that-stanley-druckenmiller-added-while-exiting-5-chip-and-photonics-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s.h4s2.wlNf2EbyRmzzW4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/48bc883862f1877655cb73c2946d25e8.jpg",
-      "published_at": "2026-08-19T03:57:01Z"
-    },
-    {
       "id": "5c01c025-df05-314b-9533-db52dc514691",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -222,94 +310,6 @@
       "url": "https://www.thestreet.com/investing/apples-249-airpods-may-be-about-to-learn-how-to-see",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K0o3YV6QOuHjBva61raocg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/956c14d34cff2c34fb09ee15046f0256.jpg",
       "published_at": "2026-08-19T03:33:00Z"
-    },
-    {
-      "id": "7530780e-e32a-3f28-ab73-9948656dfc9f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus",
-      "summary": "The U.S. 30-year Treasury yield climbed to a fresh 19-year high on Tuesday, trading at 5.274% at the time of writing, while the 10-year Treasury yield was at 4.692%.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-slip-as-global-bond-rout-catches-up-with-markets-lunr-mstr-wyfi-amlx-stocks-in-focus/cZYdcsfRJkP",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EGMPWUG2nNoSSKguNYIr5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/402af02996abe6366f8f0e25464097c9",
-      "published_at": "2026-08-19T03:17:32Z"
-    },
-    {
-      "id": "4794d1db-3e50-31c9-a0e2-12be2b7dfe73",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Tom Lee Uses BlackRock’s Bitcoin Report to Pitch Ethereum as AI’s Verification Layer",
-      "summary": "Tom Lee cites BlackRock's Bitcoin report to pitch Ethereum as AI's verification layer, but the report never makes that case.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/tom-lee-blackrock-ethereum-ai-verification/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mBZBS5NLUaC2XkbxqDt1GA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6bc853e80fa2268a922d0ec75ed8e3f0.png",
-      "published_at": "2026-08-19T03:14:00Z"
-    },
-    {
-      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
-      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-19T03:09:08Z"
-    },
-    {
-      "id": "a1936ff2-c716-3e67-9ddd-2f7e2633d08a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Shares fall in Asia, with Kospi down 5.7%, while oil prices jump",
-      "summary": "Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.  Samsung Electronics shed 7.5%, while memory chipmaker SK Hynix tumbled 8.8%.  In Tokyo, the Nikkei 225 sank 3.2% to 65,332.04 as worries over rising bond yields coupled with selling of tech shares pulled the benchmark lower.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/articles/shares-fall-asia-kospi-down-030536178.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KyGQ00hyCiXqyCikvVwZeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/504658012f2717f8f207432ae77531ba.jpg",
-      "published_at": "2026-08-19T03:05:36Z"
-    },
-    {
-      "id": "3e062bba-edb4-3e2f-9735-18561eeb6369",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains Over Reliance on OpenAI. Here's Why That Matters for Investors.",
-      "summary": "Microsoft's AI bet looks like a strategy to build a scalable, higher-margin AI business on its own technology stack.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tvORzNoPG2ZXPsCl5od4JQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/261497ea3f13bc8287e20d0c7ff22d34.jpg",
-      "published_at": "2026-08-19T03:05:06Z"
-    },
-    {
-      "id": "2a9515af-b68a-3da5-97a0-094878d67642",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here’s Why It Led Magnificent 7 Stocks",
-      "summary": "While the Nasdaq sold off hard Tuesday and AI-heavy tech names took a beating, one Magnificent 7 stock quietly closed in the green. The reason why reveals a growing fault line inside big tech that investors may have been ignoring.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/apple-shares-jump-tuesday-while-the-nasdaq-plummets-heres-why-it-led-magnificent-7-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3P.652n4TslDjyYbW5Hu2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2e25736410fb6986016218763e38ba6f.jpg",
-      "published_at": "2026-08-19T02:52:45Z"
-    },
-    {
-      "id": "55ad8d65-808b-3ff3-8607-c3ae5fa78a4a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Kalshi Brings Crypto’s Perpetual Futures Model to Stocks With CFTC Filing",
-      "summary": "Kalshi filed with the CFTC to launch stock index and copper perpetuals, extending crypto's leverage model into equities.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/kalshi-stock-index-perpetual-futures/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GzyOZi4AFYiJcJki4.YrcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d322a779b74d36e81f403abed17814fc.jpg",
-      "published_at": "2026-08-19T02:43:00Z"
-    },
-    {
-      "id": "67eff8e4-cb17-32d0-b5b4-c22e80ced1a3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian shares set for muted start as higher oil prices, Treasury yields weigh",
-      "summary": "Aug 19 (Reuters) - Indian shares were expected to open little changed on Wednesday, with elevated crude oil prices and rising global bond yields weighing on appetite for risk assets.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-023023579.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wki3IpWAugtgmnT4LYI4rQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/010d18715cca4852a5fd7217fee510b0.jpg",
-      "published_at": "2026-08-19T02:30:23Z"
     }
   ]
 }
