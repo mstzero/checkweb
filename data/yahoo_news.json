@@ -1,67 +1,210 @@
 {
-  "last_updated": "2026-08-19 11:21 UTC",
+  "last_updated": "2026-08-19 11:49 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "924f8eb7-502d-3e52-b1ff-4987c2a073c9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Scott Galloway Blasts SpaceX as “Crazy Overvalued.” Says the Stock Could Fall 90% From Here",
-      "summary": "NYU professor Scott Galloway just put a price target on SpaceX that would wipe out most investors who bought at the IPO, and a massive share unlock scheduled for Aug. 20 could be the moment that tests whether he is right.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/scott-galloway-blasts-spacex-as-crazy-overvalued-says-the-stock-could-fall-90-from-here/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c4hJkfWgGHBSp0v2_HwH7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d0d16415242544faeeb323be3ec44e09.jpg",
-      "published_at": "2026-08-19T11:09:02Z"
-    },
-    {
       "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures Fall After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
+      "title": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
       "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-19T11:07:30Z"
+      "published_at": "2026-08-19T11:45:16Z"
     },
     {
-      "id": "4b40427f-dd13-3a0f-be37-8beea1571320",
+      "id": "9bfbced1-a628-3f5f-a075-ce32c5211b44",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Global shocks, IPO wave could temper India's earnings-led market revival, Abakkus Investment says",
+      "summary": "Aug 19 (Reuters) - Robust profit growth for India's Nifty 50 companies has brightened the outlook for domestic markets, but global risk aversion and a strong IPO pipeline could temper a broader rally",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/global-shocks-ipo-wave-could-114233988.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q7FwRE72Q6VoJA2.mAcRBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/234114f5971dd3b2e9db61c8ffd1f949.jpg",
+      "published_at": "2026-08-19T11:42:33Z"
+    },
+    {
+      "id": "bbe3526a-7b4c-3437-8acd-9fe7bf210952",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Bond, Oil Outlooks Cap European Bourses Midday",
+      "summary": "European bourses tracked evenly midday Wednesday as bond yields steadied, and as traders awaited fre",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/bond-oil-outlooks-cap-european-113917506.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T11:39:17Z"
+    },
+    {
+      "id": "3dfc97e0-c241-306b-ba32-5db4ffbf1bc9",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Jim Cramer says market pessimism is creating buying opportunities",
+      "summary": "The \"Mad Money\" host pointed to beaten-down data center stocks, resilient consumer spending, and potentially overdone fears about crude and Treasurys",
+      "source": "Quartz",
+      "url": "https://qz.com/jim-cramer-market-pessimism-yields-oil-buying-opportunities-081926",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AnigNl8en.KjVoacvu5CDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/6bcb75d9484feb6f93da2fc35b877596.jpg",
+      "published_at": "2026-08-19T11:37:25Z"
+    },
+    {
+      "id": "c2a3d949-dd05-3518-ad44-943709b2ada5",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nu Holdings Added Millions of Customers Again Last Quarter. Is the Stock Priced for That Growth?",
-      "summary": "The business continues to perform well, although this hasn't prevented the shares from falling 14% in 2026.",
+      "title": "Alibaba or NetEase: Which Stock Could Soar After Earnings?",
+      "summary": "Alibaba and NetEase both report earnings the same morning, forcing a direct choice between two very different China tech bets. Analyst sentiment, price targets, and crowd prediction markets all point in conflicting directions, and only one stock survives the growth test.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/alibaba-or-netease-which-stock-could-soar-after-earnings/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eqqH2ogaUdpyc8SilwrbPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3aa72c33ac79a709ccb2bc2c9e648da4",
+      "published_at": "2026-08-19T11:35:51Z"
+    },
+    {
+      "id": "7ddfe342-a1a3-38ad-b832-d70592d74d69",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "5 Strategic Buyers That Could Transform Aurora Innovation Into an Industry Powerhouse",
+      "summary": "Aurora Innovation operates the only driverless Class 8 trucks running at scale on U.S. public roads, and that monopoly position is drawing serious attention from some of the heaviest hitters in freight and tech.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/5-strategic-buyers-that-could-transform-aurora-innovation-into-an-industry-powerhouse/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jVOb1bKYfkqmHnsBDJIvZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6a8237399bc5d5ea3e58ed6e2a21bee2.jpg",
+      "published_at": "2026-08-19T11:35:31Z"
+    },
+    {
+      "id": "6f7254c2-f5d6-3b99-a092-0078481a7e29",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Unitree Stock Soars 460% in China Debut as Robot Maker Takes on Musk",
+      "summary": "If humanoid robots are the future, then Elon Musk faces a formidable Chinese rival.  China’s  Unitree Robotics  surged 460% on its trading debut in Shanghai Wednesday, giving the company a market capitalization of around $51 billion.  Unitree’s new humanoid robot has gone viral recently, appearing to beat Usain Bolt’s fastest speed and jump higher than a human.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/musk-tesla-robot-unitree-china-7b95f6e1?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lEjD51VMhwDwgO1VnVNLuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/fba7d4eade89bd49ce2970c02fb77b14.jpg",
+      "published_at": "2026-08-19T11:35:00Z"
+    },
+    {
+      "id": "d822ce52-3a24-3c98-b738-c9b565f053c3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A 260-mile high-voltage power line could tear through a 252-year-old family farm — and residents have little say",
+      "summary": "U.S. power players say the country needs more data power. Will rural Americans pay the price?",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/energy/articles/260-mile-high-voltage-power-113000979.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tZgMvD9rzkGbZx0XejcDSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/b166dedc5c07c9249b2ed1270a76b44e.jpg",
+      "published_at": "2026-08-19T11:30:00Z"
+    },
+    {
+      "id": "645ad0ab-589b-31d3-925e-f3434a3b276a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Oklo Vs. X-Energy: Is the New Nuclear IPO the Better Buy?",
+      "summary": "After its IPO, X-Energy's shares are up nearly 20% so far this month. Will they crush Oklo's?",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/nu-holdings-millions-customers-stock-priced-growth/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vwGOxODx_p8ObJIA2F.hKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5d3833f713a110f39ca7dfd175a4dceb.jpg",
-      "published_at": "2026-08-19T11:05:00Z"
+      "url": "https://www.fool.com/investing/2026/08/19/oklo-vs-x-energy-is-the-new-nuclear-ipo-the-better/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cRBl648BpjhcZQVPZNX4zQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c19efc092595f743937cbc6140e5480e.jpg",
+      "published_at": "2026-08-19T11:30:00Z"
     },
     {
-      "id": "ddba63df-96fc-3173-9783-d21d1bdc9c17",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Quantum Computing Stocks With the Most Upside in August",
-      "summary": "White House quantum executive orders just handed the sector a fresh tailwind, yet not every stock is riding it the same way. Three names are flashing analyst-implied upside that ranges from compelling to jaw-dropping, and the gap between hype and fundamentals has never been wider.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/3-quantum-computing-stocks-with-the-most-upside-in-august-2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QBYF5bWchKM6I6BTSwQ21g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a309324b7063fc04128f2f73d01bb16f",
-      "published_at": "2026-08-19T11:03:19Z"
+      "id": "308110fa-a297-3974-811d-a55403139c4f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple's App Store commission revenue reportedly drops 18% as legal challenges mount — what it means for your wallet",
+      "summary": "Despite a quarterly record for Services revenue, investors aren’t sure how much Apple can rely on App Store fees. See what’s challenging Apple’s commissions and whether it impacts your wallet.",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-app-store-commission-revenue-113000583.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lbuv9.5EuiaWbGY.gD.onQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5ba46a61ca7a27fade7ff9447e606960.jpg",
+      "published_at": "2026-08-19T11:30:00Z"
     },
     {
-      "id": "07bfb4bb-5746-3d64-a041-c8fa554599e1",
+      "id": "60f9c3bf-4f71-3077-9254-8c074c6d3890",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "3 AI Networking Stocks Quietly Dominating Their Niche in August",
-      "summary": "GPUs and hyperscaler spending dominate the headlines, but the real compounding is happening one layer below in the switches, optics, and custom silicon stitching AI clusters together. Three networking stocks have separated from the pack, and their latest earnings reports suggest the gap is widening.",
+      "title": "Amazon's AI Business Passed a $25 Billion Run Rate. Where Does That Put the Stock in 5 Years?",
+      "summary": "One of the fastest-growing businesses inside the company more than doubled over the past year. What does five more years of that do to a $2.8 trillion valuation?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/amazon-s-ai-business-passed-a-usd25-billion-run-rate-where-does-that-put-the-stock-in-5-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DMuQuhHy2ceDE8Agd3oLmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/20220ae1fbe5a55661368cb108338857.jpg",
+      "published_at": "2026-08-19T11:28:01Z"
+    },
+    {
+      "id": "69014d73-a67e-3d4d-882e-2ff2d03e0e12",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "5 of JP Morgan’s Top Stock Picks Pay Big Dividends and One Yields Over 12%",
+      "summary": "J.P. Morgan updates its Analyst Focus List every month, and the August edition quietly signals where the firm's top analysts are placing their highest-conviction bets, including a handful of dividend payers that could surprise income investors hunting for yield in a market trading near all-time highs.",
       "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/3-ai-networking-stocks-quietly-dominating-their-niche-in-august-3/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qgDky_jyJaLrxvKgl6dAPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/38937e9a381426d48ffd6f62721d6454",
-      "published_at": "2026-08-19T11:03:17Z"
+      "url": "https://247wallst.com/investing/2026/08/19/5-of-jpmorgans-top-stock-picks-pay-big-dividends-and-one-yields-over-12/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0rXkT6863CTSy7wJFUznaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7a273e218911a5450b9d179a3c16fc39.jpg",
+      "published_at": "2026-08-19T11:20:55Z"
+    },
+    {
+      "id": "ef2b360b-d77b-3b90-8398-bbb90c2b4e57",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Bond Yields, Persian Gulf Outlooks Cap Wall Street Pre-Bell; Asia, Europe Off",
+      "summary": "Wall Street futures pointed largely sideways pre-bell Wednesday, as a global bond sell-off eased, an",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/articles/bond-yields-persian-gulf-outlooks-111755703.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T11:17:55Z"
+    },
+    {
+      "id": "dc7cc7d6-95eb-32ad-8f7e-010dc398da97",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Unitree Robotics stock soars 460% in Shanghai IPO debut",
+      "summary": "The Hangzhou-based humanoid robot maker closed at 845 yuan on Wednesday, giving it a market value of around $50 billion",
+      "source": "Quartz",
+      "url": "https://qz.com/unitree-robotics-ipo-shanghai-debut-081926",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_pA1I8iACtteITMT453E.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/74bb27302d2bca531017b57b8727fcb5.jpg",
+      "published_at": "2026-08-19T11:15:14Z"
+    },
+    {
+      "id": "202fe45d-32f9-3b8c-95b0-0e89405078a3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Crashed 53%, Yet BlackRock Says a 1%-2% Allocation Still Makes Sense",
+      "summary": "Bitcoin fell by 53% from its October 2025 record high, reaching a cycle low of $58,642 in June 2026. BlackRock attributed the crash to ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/bitcoin-crash-blackrock-2-percent-allocation/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/14DGQvUfxgxM_DZtpjrv5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/b10daf74427eeb1b4de18b4218c91945.png",
+      "published_at": "2026-08-19T11:13:40Z"
+    },
+    {
+      "id": "fcdb772e-f373-3324-853d-debd5fd87293",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. Stock Futures Flat Amid Retail Industry Earnings",
+      "summary": "U.S. stock futures are muted with investors focused on retailer earnings and minutes from the Fed’s July meeting.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/bonds-chip-stocks-steady-ahead-of-fed-meeting-minutes-258030f3?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6kzdMTqUbh850nmJKgXEKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ebecb05c0372be6ad53b57af1fee34fe.jpg",
+      "published_at": "2026-08-19T11:13:00Z"
+    },
+    {
+      "id": "5aa8e907-22f3-333f-8e23-03d33b3cfe6b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cerebras Stock Looks Like a Buy Due to an OpenAI Relationship and Surging Revenue",
+      "summary": "The upstart chipmaker recently reported strong second-quarter revenue growth and issued an upbeat outlook.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/cerebras-stock-looks-like-a-buy-due-to-openai-rela/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a_QpvwAqABHJLDUobXAHQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1450811c116962a38d9b2a7cb542fbaf.png",
+      "published_at": "2026-08-19T11:12:00Z"
+    },
+    {
+      "id": "3e1f156a-d52c-3c82-9f0b-faf1b3fd9792",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Ken Griffin Increased His Position in This Dividend King by 547%",
+      "summary": "Ken Griffin sees a bargain in Abbvie and increased his fund's position by buying 2.68 million shares of the healthcare giant.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/billionaire-ken-griffin-increased-his-position-in/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VJ30kfWDQQakLbcfs5pwAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0c8a65a3f16a30d2ed5836cd7b80804e.jpg",
+      "published_at": "2026-08-19T11:10:00Z"
     },
     {
       "id": "a3cf490a-72ad-39a2-a985-3894ef222635",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "3 Energy Dividend Stocks to Buy for Big Yields in August",
       "summary": "Pipeline operators are collecting tolls on surging LNG exports and NGL shipments while most investors overlook the sector entirely. Three midstream names are quietly raising payouts and posting record cash flows, and the window to lock in above-market yields may not stay open long.",
       "source": "24/7 Wall St.",
@@ -70,20 +213,9 @@
       "published_at": "2026-08-19T11:03:16Z"
     },
     {
-      "id": "597932be-0621-39a2-b2ba-a13c1e9a6200",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Rupert Murdoch Made A Simple Mistake When Constructing His Trust. It Cost Him $3.3 Billion to Fix. Here’s What Estate Planners Say You Should Do Instead.",
-      "summary": "A single architectural flaw buried inside a 25-year-old family trust set off a legal battle that nearly tore the Murdoch empire apart, and the fix that finally ended it offers a cautionary lesson for anyone who thinks a signed trust document is the same as a finished plan.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/rupert-murdoch-made-a-simple-mistake-when-constructing-his-trust-it-cost-him-3-3-billion-to-fix-heres-what-estate-planners-say-you-should-do-instead/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bmSOwf3tKo0Tm6WlqzU88w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5c2be5cd668687591663f95d36632f34.jpg",
-      "published_at": "2026-08-19T11:02:47Z"
-    },
-    {
       "id": "ca7b9c83-9789-37ca-b356-7a60bc4cc425",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
       "summary": "According to a Reuters report, Samsung Electronics is raising prices on some advanced foundry services by up to 15% amid strong demand for AI chips.",
       "source": "Stocktwits",
@@ -101,39 +233,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NGJMUU4myXWF5DsETfZ9Kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/9b7cb98fd067af332da8378d3daa0692.jpg",
       "published_at": "2026-08-19T11:00:15Z"
-    },
-    {
-      "id": "51cee001-d8f4-3cd7-94b1-d0b64806a2ed",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Is Back Trading Near Its Opening-Day Price. History Says Shares Will Be Worth This Much in 1 Year.",
-      "summary": "SpaceX stock has popped, sold off, and rebounded all in the span of two months.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/spacex-is-back-to-trading-near-its-opening-day-pri/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A8IYGRz4aADvUbZ4FAAJOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d35420164fcf19d6062a95cfa1421c6.jpg",
-      "published_at": "2026-08-19T10:50:00Z"
-    },
-    {
-      "id": "b63eba14-d626-35cc-b930-301f2a8e54eb",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US stock futures steady after tech slump; investors focus on Middle East tensions",
-      "summary": "Aug 19 (Reuters) - U.S. stock index futures were stable on Wednesday following a technology-driven selloff that rocked Wall Street in the prior session as investors turned their attention to the",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-steady-tech-104804699.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QF.AcJJVeE7Tt4WgZTg_AA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/59649d39e3b1579331b3b9725a378482.jpg",
-      "published_at": "2026-08-19T10:48:04Z"
-    },
-    {
-      "id": "14efcc45-7adc-37e9-93e2-652c643f9425",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Rising Bond Yields, Sagging Tech Valuations Blunt Asian Stock Markets",
-      "summary": "Asian stock markets largely lost ground on Wednesday, as tech shares fell back after overnight decli",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/rising-bond-yields-sagging-tech-104257813.html",
-      "thumbnail": "",
-      "published_at": "2026-08-19T10:42:57Z"
     },
     {
       "id": "fcc883c6-fb20-3765-b90d-cd6ef283470b",
@@ -202,114 +301,15 @@
       "published_at": "2026-08-19T10:00:00Z"
     },
     {
-      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil hits three-week high on uncertainty over Hormuz",
-      "summary": "By Anushree Mukherjee Aug 19 (Reuters) - Oil prices hit a three-week high on Wednesday as uncertainty over shipping through the Strait of Hormuz and ongoing supply disruptions supported the market.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A4NvICePHygccJE3F..7hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f5d00601b3f3e8f63a66249d1a4333e1.jpg",
-      "published_at": "2026-08-19T09:58:17Z"
-    },
-    {
-      "id": "18ea7256-f498-3095-8f9f-0796679be11a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Prices Extend Gains as Hormuz Tensions Persist",
-      "summary": "Oil prices advanced for a fourth consecutive session on Wednesday as the continuing dispute between the United States and Iran over the Strait of Hormuz reinforced concerns that global crude supplies could remain constrained in the months ahead. Benchmark Brent crude futures gained 0.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34581/oil-prices-extend-gains-as-hormuz-tensions-persist",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EkETtmgd4wYZG7rXUFEKQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/a7e55c35b267473f28e9e7c9f46ed768.png",
-      "published_at": "2026-08-19T09:56:17Z"
-    },
-    {
-      "id": "1baa38e3-ba7f-3591-8e2a-0fb462095fce",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Falls After Wall Street Retreats",
-      "summary": "Bitcoin was falling following declines in U.S. stocks overnight as a selloff in global government bonds and Middle East tensions weighed. Global bonds yields surged on Tuesday, reflecting inflation concerns and deficit fears.",
+      "id": "ed2c1142-772e-3063-8fc2-dee2e68768ff",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Slips Ahead of Fed Meeting Minutes",
+      "summary": "Gold prices slipped with investors awaiting the release of the Federal Reserve's July meeting minutes for fresh clues on its monetary policy outlook. In early trading, New York futures were down 0.2% to $4,410.",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/bitcoin-falls-after-wall-street-retreats-7cqu5zTvDnmfbAtrCd9m?siteid=yhoof2&yptr=yahoo",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/gold-slips-ahead-of-fed-meeting-minutes-Up0SmZl5C1gZClW4iuJS?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-19T09:39:54Z"
-    },
-    {
-      "id": "9b51fda9-6750-3f6e-8170-15dab2828c4d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price to $1 Million? SEC Rolls Out ‘Fit-for-Purpose’ Crypto Framework",
-      "summary": "The SEC has proposed “Regulation Crypto Assets,” a tailored framework for certain crypto-related investment contracts. The proposal creates two registration exemptions: a one-time exemption ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-1-million-sec-crypto-framework/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PtQtUHxLNk1YdCg_jf_Srg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/8d61cec186423c6b3c410b6503897ab3.png",
-      "published_at": "2026-08-19T09:37:45Z"
-    },
-    {
-      "id": "35e36a8f-c6cb-394c-bffc-b2cebfde9211",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Fundstrat's Tom Lee Says Crypto 'More Relevant' In AI Era, Backs BlackRock's Bullish Bitcoin Call",
-      "summary": "BlackRock’s latest 10-year study showed that a 1-2% allocation to Bitcoin would have improved risk-adjusted returns in a traditional 60/40 portfolio.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ai-tom-lee-relevant-as-blackrock-defends-bitcoin/cZYdfDuRJkY",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t5dM3PIC4Q7VuBc6buhpBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/a69abc871fd60845c844240b820df886.jpg",
-      "published_at": "2026-08-19T09:37:01Z"
-    },
-    {
-      "id": "15eb3900-d257-32c1-af0a-aca81955cb20",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Einride AB Will Deploy 500 Tesla Semi Trucks This Year. Here's What That Means for Tesla Stock.",
-      "summary": "Autonomous trucking may be reaching an inflection point.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/einride-ab-will-deploy-500-tesla-semi-trucks-this-year-here-s-what-that-means-for-tesla-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/76A8PZmVKinc0bMhTw.3.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/17c91e1176afa016f89822ba2d2a92de.png",
-      "published_at": "2026-08-19T09:36:01Z"
-    },
-    {
-      "id": "defc2c27-6d90-34d8-9007-534a85f0c066",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "This 3X Tech ETN Owns the Market’s Biggest Winners and Lost 87% the Last Time They Stumbled",
-      "summary": "The ETN promising triple exposure to Nvidia, Meta, Apple, and the rest of the AI elite sounds like a dream trade until you examine what happened the last time these stocks hit a rough patch.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/19/this-3x-tech-etn-owns-the-markets-biggest-winners-and-lost-87-the-last-time-they-stumbled/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8GOqpDC3zIo4m7.PZIHrOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1314bc64cdaf208ccf40642043d9dc3f.jpg",
-      "published_at": "2026-08-19T09:33:08Z"
-    },
-    {
-      "id": "4776976b-04ec-3c88-9107-c0b7ab84304e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla's Market Cap Just Slipped Below $1.5 Trillion. Here's What the Bears Get Right -- and Wrong.",
-      "summary": "The narrative around the stock, and in particular its robotaxi rollout, could change significantly now that expectations have been reset.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/teslas-market-cap-just-slipped-below-15-trillion-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Li5BUsLpuIOX.SR91C4CnA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/295f98fedd15c824d2ac51f84f8fa015.jpg",
-      "published_at": "2026-08-19T09:25:00Z"
-    },
-    {
-      "id": "5e2124b1-c8ad-30b5-829a-2120d95d90fd",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Will New US$350 Million AI Cloud Deal Change HIVE Digital Technologies' (TSX:HIVE) Narrative?",
-      "summary": "HIVE Digital Technologies’ recently reported first-quarter 2027 results showed revenue rising to US$79.12 million while swinging to a net loss of US$142.91 million, alongside prior disclosure of a delayed 10-Q filing. At the same time, HIVE has secured a five-year US$350 million AI cloud services agreement that lifts BUZZ HPC’s contracted annualized recurring revenue to about US$180 million and accelerates its shift toward GPU-powered high-performance computing. We’ll now examine how the new...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/us-350-million-ai-cloud-091150533.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
-      "published_at": "2026-08-19T09:11:50Z"
-    },
-    {
-      "id": "445991e0-b583-3a8d-a952-cb1146186be7",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "“What Happens If OpenAI Dies?” Here’s Why Ed Zitron Thinks OpenAI Is Running Out Of Time",
-      "summary": "OpenAI just bought back employee shares at an $852 billion valuation while a dozen senior leaders walked out the door. Analyst Ed Zitron lays out exactly what breaks when the world's most valuable private company runs out of runway.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/what-happens-if-openai-dies-heres-why-ed-zitron-thinks-openai-is-running-out-of-time/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wrinzP02KLwj88ttBFYbHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2bcb19e7381f52a64b1497e422b6d0e0.jpg",
-      "published_at": "2026-08-19T09:11:27Z"
+      "published_at": "2026-08-19T09:55:08Z"
     }
   ]
 }
