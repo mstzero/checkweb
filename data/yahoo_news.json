@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-19 01:01 UTC",
+  "last_updated": "2026-08-19 02:36 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "67eff8e4-cb17-32d0-b5b4-c22e80ced1a3",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Indian shares set for muted start as higher oil prices, Treasury yields weigh",
+      "summary": "Aug 19 (Reuters) - Indian shares were expected to open little changed on Wednesday, with elevated crude oil prices and rising global bond yields weighing on appetite for risk assets.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-023023579.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wki3IpWAugtgmnT4LYI4rQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/010d18715cca4852a5fd7217fee510b0.jpg",
+      "published_at": "2026-08-19T02:30:23Z"
+    },
     {
       "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
       "asset": "OIL",
@@ -12,7 +23,161 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-19T00:55:15Z"
+      "published_at": "2026-08-19T02:26:37Z"
+    },
+    {
+      "id": "c72f189c-0bc6-3bee-9952-0db7463cb0f2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Duolingo Stock Popped Today",
+      "summary": "The popular learning app could be nearing an inflection point.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/why-duolingo-stock-popped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DGbhgRTnDz.iu7w0pEABEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6060c8192099dc81c45fa860930ec4c4.jpg",
+      "published_at": "2026-08-19T02:20:58Z"
+    },
+    {
+      "id": "6bd0a4e1-bff5-3590-9cf4-aeb5886a5be9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia H200 chips reach China in small shipments, FT reports",
+      "summary": "Small batches of ‌Nvidia's H200 ‌chips have been allowed ​to enter mainland China, the Financial Times reported ‌on ⁠Tuesday. ByteDance and Tencent have each ⁠received about 10,000 H200 processors ​in ​recent ​weeks, while ‌a few other Chinese tech groups could soon obtain approval for shipments ‌of similar ​size, ​the ​report said, ‌citing two people ​with ​knowledge of the matter.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-h200-chips-reach-china-021726633.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WZYZSjsof1VnJsJiawqtVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7492ef09422dfef5634c746a084c2a87.jpg",
+      "published_at": "2026-08-19T02:17:26Z"
+    },
+    {
+      "id": "3cc5f2a4-788a-353f-864f-da027f83a977",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "OpenAI's Revenue Growth Reportedly Slows As Anthropic Pulls Ahead  – Which AI Stocks Could Feel The Ripple Effects?",
+      "summary": "OpenAI’s revenue rose 18% quarter over quarter in Q2, while Anthropic’s sales doubled, according to the Wall Street Journal.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-revenue-growth-reportedly-slows-as-anthropic-pulls-ahead-which-ai-stocks-could-feel-the-ripple-effects/cZYdRc6RJkb",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v8pSyhhlbZrPzDbhiQS9nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/25feeb6251b236125e42ee1ecdb3273e",
+      "published_at": "2026-08-19T02:13:57Z"
+    },
+    {
+      "id": "263f27c1-a29d-328f-bf21-ae3edd45d301",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Marathon Petroleum (MPC) Is Up 8.9% After Near Record Refinery Utilization and Strong Margins - What's Changed",
+      "summary": "In recent months, Marathon Petroleum has reported exceptionally strong quarterly results, running its refineries near record capacity as fuel shortages and high refining margins emerge amid the Iran war and broader crude supply disruptions. This operating performance, combined with sector-wide earnings strength and commentary that refiners were mispriced, has sharpened investor focus on how long elevated refining conditions and infrastructure investments can support Marathon’s business...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-8-9-021221537.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wxssr8rL1a5D_fsqb_ERGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/2ccc0994772c35e754dcf47eed69fbb0.jpg",
+      "published_at": "2026-08-19T02:12:21Z"
+    },
+    {
+      "id": "e2e044fe-d4bd-3dac-b52c-c9fdc7fb8748",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Cipher Digital (CIFR) Is Down 6.5% After Q2 Loss And Rising Interest Costs – Has The Bull Case Changed?",
+      "summary": "Cipher Digital Inc. recently reported a second-quarter net loss of US$267.5 million and weaker Bitcoin-mining revenues amid higher borrowing costs and rising Treasury yields. While Cipher continues to build out contracted revenue backlog and pivot toward high-performance computing and AI data centers, investors appear focused on the strain from large capital expenditures and interest expenses. Next, we’ll examine how Cipher’s sizeable quarterly loss and rising interest burden might reshape...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-cifr-down-6-021158952.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
+      "published_at": "2026-08-19T02:11:58Z"
+    },
+    {
+      "id": "1e686ed3-ff87-32b5-be4a-ee839ae718e0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
+      "summary": "All three quarters ended June 30. The smallest of the three cloud giants is growing at about double the pace of the other two.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/google-cloud-grew-82-last-quarter-azure-grew-43-and-aws-grew-37/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UIfowrGBaNsQkPS3TjKiGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47dcb66ac72779fcb15293c6b1bc83de.jpg",
+      "published_at": "2026-08-19T01:46:01Z"
+    },
+    {
+      "id": "28f29339-f25f-3f7c-8f34-6e50a60a8c10",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "ZoomInfo Technologies (GTM) Is Down 6.5% After Goodwill Hit, Copilot Tie-Up And Guidance Hike",
+      "summary": "In early August 2026, ZoomInfo reported a goodwill impairment of US$650.5 million, modest year-on-year revenue growth to US$310.4 million in the second quarter, and raised its full-year 2026 revenue guidance to US$1.21 billion while continuing a large share repurchase program. At the same time, multiple customers cited very large lifts in qualified deals, higher connection rates, and cleaner data from ZoomInfo’s AI-driven go-to-market platform, and the company launched a connector that...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-down-6-011447352.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jvs4zIxA.KLHoCaG3xST_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
+      "published_at": "2026-08-19T01:14:47Z"
+    },
+    {
+      "id": "c78b21db-b4a4-3475-b688-920c69ad1b90",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Fabrinet Stock Just Plummeted",
+      "summary": "Fabrinet just served up strong quarterly results. So why did the stock get crushed?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/why-fabrinet-stock-just-plummeted/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6LnphQHAAWwWuNqAnJdtaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e594c88bf40b38946dced6bcd1abb43a.jpg",
+      "published_at": "2026-08-19T01:08:53Z"
+    },
+    {
+      "id": "4e6957ea-2b18-35eb-987e-faa4c42598e3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "BTQ Technologies Corp (BTQ) (Q1 2027) Earnings Call Highlights: Quantum-Safe Milestones and ...",
+      "summary": "BTQ advances QSIM chip to tape-out, secures stablecoin pilot, and targets mid-2026 Bitcoin Quantum mainnet launch amid strong regulatory tailwinds.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/btq-technologies-corp-btq-q1-010449083.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T01:04:49Z"
+    },
+    {
+      "id": "7c1088ab-6bba-3626-b18a-3b76e5cf2a2a",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Erdene Resource Development Corp (ERDCF) (Q2 2026) Earnings Call Highlights: Record Production ...",
+      "summary": "Gold output surges 37% quarter-over-quarter as the company advances its Khundii Minerals District growth strategy.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/erdene-development-corp-erdcf-q2-010448434.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T01:04:48Z"
+    },
+    {
+      "id": "f249ab79-c73e-3ce0-a1e3-a027ba23d4b3",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Thor Explorations Ltd (THXPF) (Q2 2026) Earnings Call Highlights: Record Cash Generation and ...",
+      "summary": "Thor Explorations Ltd (THXPF) posts record H1 EBITDA of $108.4 million, advances Douta FID, and targets mine life extension at Segilola.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/thor-explorations-ltd-thxpf-q2-010419291.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T01:04:19Z"
+    },
+    {
+      "id": "48e13286-fc3d-3a17-a4f7-077e903f69f5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "HIVE Digital Technologies Ltd (HIVE) (Q1 2027) Earnings Call Highlights: Revenue Surges 73% as ...",
+      "summary": "HIVE Digital Technologies Ltd (HIVE) posts strong revenue growth and positive adjusted EBITDA, while navigating a Swedish tax dispute and scaling its high-performance computing business.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-ltd-hive-010358541.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T01:03:58Z"
+    },
+    {
+      "id": "c6efeba5-5160-3d5f-9572-97123c6779a1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Contango Silver & Gold Inc (CTGO) (Q2 2026) Earnings Call Highlights: Unhedged and Poised ...",
+      "summary": "CEO Rick Nieuwenhuyse outlines a transformative quarter with full hedge removal, robust cash flow projections, and strategic progress across its three core projects.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/contango-silver-gold-inc-ctgo-010244657.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T01:02:44Z"
+    },
+    {
+      "id": "fe289536-961a-33ca-a98f-c445ea336e2b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Gold inches higher, focus on Fed minutes",
+      "summary": "Aug 19 (Reuters) - Gold prices edged higher in early Asian trade on Wednesday as U.S.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-inches-higher-focus-fed-005910171.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z6A_I483havpva7GUxfM5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9963b5a43fd22ab5bd90eccd311e494f.jpg",
+      "published_at": "2026-08-19T00:59:10Z"
     },
     {
       "id": "4e1e26c1-b3ca-396f-b7f8-7f1594f8df31",
@@ -92,17 +257,6 @@
       "published_at": "2026-08-19T00:20:00Z"
     },
     {
-      "id": "8d6d6a1f-5545-3451-8fc2-7e5878623fde",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Cerebras Systems Introduces Superfast AI Accelerator",
-      "summary": "Cerebras Systems late Tuesday introduced what it described as “the fastest AI accelerator in the industry.”",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/cerebras-systems-cbrs-cs-4-ai-accelerator/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZSrFxmFDmeabwxHlw0sDuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c0d06600010e58f42e5fcd3371b085c2.jpg",
-      "published_at": "2026-08-19T00:00:53Z"
-    },
-    {
       "id": "6c5a6659-a0d0-434c-b8e1-3849a4881952",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -123,61 +277,6 @@
       "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-cashing-energy-000000545.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uBOtqabqq3t7W0ClktKu5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/3a3d9a570db1621e7540ec1ce635ffc9.jpg",
       "published_at": "2026-08-19T00:00:00Z"
-    },
-    {
-      "id": "bf0bf5d3-909f-340a-8a19-6ba2b318c77d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Ciena Stock Tanked by Almost 9% on Tuesday",
-      "summary": "An analyst chopped his price target on the AI equipment specialist.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/why-ciena-stock-tanked-by-almost-9-on-tuesday/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gKzXJwaOB2RpmMckC1Bjgg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c392f9626961b9b7c238eacfd5a07486.jpg",
-      "published_at": "2026-08-18T23:55:00Z"
-    },
-    {
-      "id": "9c7338de-b12f-3214-bcb3-4029da3cf23f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Review & Preview: Chips Crumble",
-      "summary": "The Dow Jones Industrial Average lost 0.2%, hurt in part by companies like Caterpillar and Goldman Sachs, which have exposure to the faltering AI trade.  Better-than-expected results despite a slow housing market helped Home Depot’s stock head higher on Tuesday, and energy stocks continued to climb on the back of higher oil prices.  “Monday’s weakness spilled into the new day, and the reasons are familiar,” notes Joe Mazzola, Head Trading & Derivatives Strategist at Charles Schwab.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-chip-selloff-major-indexes-fall-072af6be?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-18T23:55:00Z"
-    },
-    {
-      "id": "c3a7749a-f489-3be4-a541-fbff47d569f2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Starbucks Just Landed the Biggest Weekend in the Company's History. You Won't Believe What Drove It.",
-      "summary": "The coffee purveyor got a caffeinated jolt from an old favorite.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/starbucks-just-landed-the-biggest-weekend-in-the-company-s-history-you-won-t-believe-what-drove-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OxCqmec98wUomZbXMhCAdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9e0a3f410d404da0a4538fb4a6bef02f.jpg",
-      "published_at": "2026-08-18T23:47:05Z"
-    },
-    {
-      "id": "2e5789b1-95c7-344c-a3f3-727c22daba6d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "30-Year Treasury Yield Touches a 19-Year High as US Debt Approaches $40 Trillion",
-      "summary": "The yield on benchmark 30-year Treasury bonds briefly hit a fresh 19-year high on Tuesday before pulling back slightly. The recent surge that lifted the 30-year Treasury yield above 5.3%, the highest since 2007, comes amid a global bond selloff and worries about stalled talks to end the war with Iran, fears of persistent inflation, questions about monetary policy under new Federal Reserve Chair Kevin Warsh and concern about U.S. borrowing that has the national debt poised to hit $40 trillion. In",
-      "source": "The Fiscal Times",
-      "url": "https://finance.yahoo.com/economy/policy/articles/30-treasury-yield-touches-19-234522949.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lLA7GbxCeQFWdbQMU0Pumg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.finance.thefiscaltimes/922632f526ee4cf766e708e38c492304",
-      "published_at": "2026-08-18T23:45:22Z"
-    },
-    {
-      "id": "d1055389-ecae-38b2-a4ca-3c62303cb4b4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Amylyx Pharmaceuticals Stock Skyrocketed Today",
-      "summary": "GLP-1 drugs aren't just for weight loss.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/why-amylyx-pharmaceuticals-stock-skyrocketed-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A7Snf4DIWnwZQMZn.hQckw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3fe881cb3959f51850ee0b608839b1d1.jpg",
-      "published_at": "2026-08-18T23:30:32Z"
     },
     {
       "id": "8d4a8eb0-87e8-3216-8c32-07cca0cec995",
@@ -211,105 +310,6 @@
       "url": "https://finance.yahoo.com/small-business/articles/back-90s-elon-musk-turned-230106361.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q5tOM5Ah0qabwkCeJotblw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c7fe94288cf5a708e28871f00f83bdcb.jpg",
       "published_at": "2026-08-18T23:01:06Z"
-    },
-    {
-      "id": "3572e936-df55-3036-81c7-a87c7ce2ccdf",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Top economists warn of wealth inequality in U.S. surpassing Gilded Age",
-      "summary": "As economists Gabriel Zucman and Paul Krugman address the growing wealth inequality, experts talk about how regular Americans can survive.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/top-economists-warn-of-wealth-inequality-in-u-s-surpassing-gilded-age",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_bz8_jGnXM4oEwGd0PHbbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/969358698d63772702edd3caaf68d5a0.jpg",
-      "published_at": "2026-08-18T22:32:12Z"
-    },
-    {
-      "id": "e50caed4-0fd6-3937-9859-87566bda7668",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla AI Boss Ashok Elluswamy Calls FSD V14 ‘James Bond’ After Dramatic 82-MPH Highway Collision Avoidance",
-      "summary": "Tesla Inc. AI software chief Ashok Elluswamy praised Full Self-Driving (Supervised) V14 on Sunday after a highway video showed a Tesla slowing from 82 mph to a complete stop as smoke and crashed vehicles appeared ahead. FSD V14 Appears to...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-ai-boss-ashok-elluswamy-223109272.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/esnZESm6NqNEO7aEwD7nTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6b2760de15e2b3e21ec9fa707fa9af20.jpg",
-      "published_at": "2026-08-18T22:31:09Z"
-    },
-    {
-      "id": "70a17e54-be18-3f47-ab75-ce552ed93396",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "VOO’s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
-      "summary": "VOO's famously cheap expense ratio distracts most investors from a far bigger risk buried inside the fund itself, one that no fee comparison chart will ever show you.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/18/voos-0-03-fee-hides-the-real-cost-38-of-your-sp-500-money-is-now-in-one-sector/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6J.QCKJ5hGvoqrElURUXvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/13241ce3c87a731112a89ad91f3413cd.jpg",
-      "published_at": "2026-08-18T22:25:18Z"
-    },
-    {
-      "id": "0b0b8282-1a14-3d68-90bb-6f8d3c88387a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "$40 Trillion US Debt: Could Americans Even Afford Bitcoin and Crypto Right Now?",
-      "summary": "$40 trillion US debt is near. See how rising borrowing costs squeeze Americans buying Bitcoin and crypto right now.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/40-trillion-us-debt-bitcoin-crypto/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kApuES8j7riAcLrD5vc44A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2f61ff689b6ffcd045a6f772384c2147.png",
-      "published_at": "2026-08-18T22:24:59Z"
-    },
-    {
-      "id": "15569390-70d4-3ab4-8ffc-55015ef74183",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-      "summary": "Buffett's wisdom is timeless.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/warren-buffetts-successor-greg-abel-has-347-of-ber/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iSh9sM79plydU7L5mslUEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91a97f3a896931dda2dc777ef23b21a8.png",
-      "published_at": "2026-08-18T22:20:00Z"
-    },
-    {
-      "id": "7e2e9ad1-4b5b-345a-bcbb-16863ca84176",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Epsilon Energy Maps Multi-Basin Growth Plan as Production Outlook Rises 18%",
-      "summary": "Epsilon Energy (NASDAQ:EPSN) outlined its multi-basin development strategy, inventory depth and expected production growth during a company presentation, highlighting operated Powder River Basin assets, expanded activity in the Permian Basin and renewed development in the Marcellus. Andrew Williams",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/epsilon-energy-maps-multi-basin-growth-plan-as-production-outlook-rises-18-2026-08-18/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qaFbRz3eFq4Ss3e0_d_HRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/653d6c7d022920e431d955c3c655f4ee.jpg",
-      "published_at": "2026-08-18T22:02:11Z"
-    },
-    {
-      "id": "86bef528-3606-3d11-9bad-1f0c90c32902",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "How much gold and Bitcoin could Elon Musk buy with his entire fortune?",
-      "summary": "Forbes puts Elon Musk’s net worth at $894.9 billion today. Here is exactly what that number looks like when you convert it into the two most debated stores of value on earth.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/how-much-gold-and-bitcoin-could-elon-musk-buy-with-his-entire-fortune",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sbFF0YnbgU38sTaeLLr6ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e3f40d6260c9590a0bd58503b29ae277.jpg",
-      "published_at": "2026-08-18T21:48:28Z"
-    },
-    {
-      "id": "f3d4365d-5950-3f55-a920-b6d66b07591a",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "QYLD Holders Left $56,700 Per $10,000 on the Table Chasing Twelve Years of Monthly Income",
-      "summary": "QYLD holders watched twelve years of monthly income checks arrive like clockwork, but a closer look at the total-return math reveals a cost buried inside every distribution that most investors never think to calculate.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/18/qyld-holders-left-56700-per-10000-on-the-table-chasing-twelve-years-of-monthly-income/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.N8vZvQC5pem_vRScakydA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c9cfa10451434b794c1335a07a8778c.jpg",
-      "published_at": "2026-08-18T21:45:59Z"
-    },
-    {
-      "id": "1531307b-53c6-3678-aa33-dd7ca8654dd9",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh — BABA, AAPL, GRRR, KLAR, CRWD In Focus",
-      "summary": "The U.S. 30-year Treasury bond yield spiked to a fresh 19-year high on Tuesday.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-end-third-session-lower-as-higher-treasury-yields-oil-prices-weigh/cZYcnUERJjD",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jA4qpfDIe56zvL1mL7XLzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/928255da52bcc5c5574792f39f801fdd",
-      "published_at": "2026-08-18T21:35:08Z"
     }
   ]
 }
