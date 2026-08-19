@@ -1,8 +1,129 @@
 {
-  "last_updated": "2026-08-19 19:48 UTC",
+  "last_updated": "2026-08-19 20:21 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "af84701d-7ec9-34b4-b5c9-ed658fd96564",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+      "summary": "Energy stocks were mixed late Wednesday afternoon, with the NYSE Energy Sector Index rising 0.2% and",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200134748.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T20:01:34Z"
+    },
+    {
+      "id": "2189075a-2441-3fa3-8b08-90f05a6dcd70",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "IBM Stock Is Out Of Favor, But The Margin Commitment Never Came Down",
+      "summary": "The revenue guidance came down after the second-quarter miss; the operating pretax margin and free-cash-flow commitments did not.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/612014/ibm-stock-is-out-of-favor-but-the-margin-commitment-never-came-down/2026-08-19",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RIOmq.6w.JYUrD7nBeT8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/52ee2b7a567abc95c129daaacc8acd53.jpg",
+      "published_at": "2026-08-19T20:01:07Z"
+    },
+    {
+      "id": "c02a8eaf-c863-3757-b476-3680f390f57a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Is Circle Internet Group Stock Up Today?",
+      "summary": "Circle Internet stock jumped 8.7% Wednesday as President Trump met with crypto executives and top regulators at the White House.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/why-is-circle-internet-group-stock-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ToA8hBmahu0xQJtqu_an1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/633e3854465bff855ef0f7d121fc0395.jpg",
+      "published_at": "2026-08-19T19:59:38Z"
+    },
+    {
+      "id": "e219619d-a11c-378a-9474-4b1bced771ee",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "summary": "Financial stocks were lower in late Wednesday afternoon trading, with the NYSE Financial Index decre",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195741830.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T19:57:41Z"
+    },
+    {
+      "id": "82981e53-88c1-3657-886d-7ac5ff5030f5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Robinhood CEO: Tokenization Will Enable 24/7 Trading and “Take Over the Entire Financial System”",
+      "summary": "Robinhood CEO Vlad Tenev walked into the White House and the CFTC with a bold claim: tokenization is not a niche experiment but the next architecture of global finance. What he wants from regulators could determine whether that future gets built in the U.S. or somewhere else entirely.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/robinhood-ceo-tokenization-will-enable-24-7-trading-and-take-over-the-entire-financial-system/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m9cRbDNSeefy9DKenD4vSg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/765522bf5eeec07fdbdae1054f47e4b0.jpg",
+      "published_at": "2026-08-19T19:51:40Z"
+    },
+    {
+      "id": "9af682a2-624f-3e76-9985-bff0d4df35e5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
+      "summary": "Strategy, Coinbase, Circle, and BitMine are riding Bitcoin's short squeeze toward $70K—and two of them may be squeezing equity bears of their own.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lcwwybf7L9RZ.1KTtY7r9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/fce12f7ab3d048baf52d45fc86eade65.png",
+      "published_at": "2026-08-19T19:51:11Z"
+    },
+    {
+      "id": "70686368-12f2-3646-ac69-b8d4a47310a6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bloom Energy's New Product Just Made Its Biggest AI Advantage Even Stronger. Here's What Investors Need to Know.",
+      "summary": "Bloom is cutting its installation time by 40%, and it could be a boon for the stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/bloom-energy-s-new-product-just-made-its-biggest-ai-advantage-even-stronger-here-s-what-investors-need-to-know/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f73UvT6auRQhm90DjsGncQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3abb62e3663940652f55078ea62bb069.jpg",
+      "published_at": "2026-08-19T19:50:01Z"
+    },
+    {
+      "id": "5d388b2a-4348-32e4-a05f-f8057b8f6cf6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "summary": "Tech stocks were lower late Wednesday afternoon, with the State Street Technology Select Sector SPDR",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194639070.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T19:46:39Z"
+    },
+    {
+      "id": "8cc84857-968a-334e-8fbf-6eac391119c1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cramer Warns Fintech Bulls: These Three Stocks Are Priced for Perfection",
+      "summary": "Jim Cramer called out analysts for piling into the same fintech names at the same time, and the recent carnage in SoFi, Klarna, and PayPal suggests he spotted something the buy ratings missed.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/cramer-warns-fintech-bulls-these-three-stocks-are-priced-for-perfection/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ieexmk1o9iBfTbG.019VIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2c38ba9cf95e8a29d4ce8025b517bc6b.jpg",
+      "published_at": "2026-08-19T19:45:11Z"
+    },
+    {
+      "id": "27d09e01-7e24-335c-8090-f7b14fb8fbf2",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "US Equity Indexes Rise After Treasury Lifts Buyback Limit, Fed Minutes Show Most FOMC Participants Agreed to Hold Rates Steady at July Meeting",
+      "summary": "US equity indexes rose ahead of the close on Wednesday after the Treasury Department said it would i",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-treasury-194420378.html",
+      "thumbnail": "",
+      "published_at": "2026-08-19T19:44:20Z"
+    },
+    {
+      "id": "2a5cda09-0721-3cce-a8ce-90fd36d9e7a3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Is Bitcoin Up Today?",
+      "summary": "Bitcoin jumped 5.5% Wednesday as executives from Coinbase, Payward, and Blockchain.com met President Trump at the White House alongside the heads of the SEC and CFTC.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/why-is-bitcoin-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/f76qCAn7wosCNu_MdBaxdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9db1ed5a30da3e545578425f08fc1eb4.jpg",
+      "published_at": "2026-08-19T19:44:07Z"
+    },
     {
       "id": "24e3ca01-7b4a-3123-9ab3-231ed45fd00a",
       "asset": "NVDA",
@@ -48,61 +169,6 @@
       "published_at": "2026-08-19T19:32:37Z"
     },
     {
-      "id": "593fe9d2-03a5-384e-9830-9de65839e889",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Ares Capital Has Maintained or Raised Its Dividend for Over 16 Years. Here's What That Streak Is Built On.",
-      "summary": "The leading BDC can afford to pay its near-10% yield.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/ares-capital-has-kept-its-dividend-level-or-higher/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3jd5ChT66lJKbxe0aQDyuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/250905385454d20712b16cc5792fb4cb.jpg",
-      "published_at": "2026-08-19T19:30:00Z"
-    },
-    {
-      "id": "8743a2c4-fb66-3347-a07b-47fe242c539a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Want to Generate Thousands of Dollars in Passive Income? This ETF Could Be Your Ticket",
-      "summary": "The Vanguard High Dividend Yield ETF is a reliable income play.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/want-to-generate-thousands-of-dollars-in-passive-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kX0ilISRwQfEjwBnp68BoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/79b6f94e543332021966d9ffd0bb8076.jpg",
-      "published_at": "2026-08-19T19:27:00Z"
-    },
-    {
-      "id": "bcdd35a5-1b88-3a42-aad6-e340abbe3cff",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Is XRP (Ripple) Up Today?",
-      "summary": "XRP jumped 6.1% on Wednesday as Ripple executives headed to the White House alongside the heads of the SEC and CFTC. Traders read the meeting -- and the SEC's new disclosure-exemption proposal -- as a sign the long-stalled Clarity Act might finally move.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/why-xrp/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pKuOYk61ajeeQs5XjxANEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bf4e8c31dc87c24240aacdf489ec84bc.jpg",
-      "published_at": "2026-08-19T19:25:37Z"
-    },
-    {
-      "id": "76a176ef-9f7c-3113-a83c-6b3a894c7355",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Nvidia Engaging in Circular Financing? Some Think So.",
-      "summary": "The GPU leader continues to invest in companies that buy its chips.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/is-nvidia-engaging-in-circular-financing-some-thin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PKxsl.QHYn_DKAmjG.yA0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/11bacfbfe1e265aad9b4da79f9d39d23.jpg",
-      "published_at": "2026-08-19T19:25:00Z"
-    },
-    {
-      "id": "76dbf1f0-b446-3368-b370-ed87c7baf627",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Big Bank Stock Has Dominated in 2026: Bank of America, Wells Fargo, or Bank of New York Mellon Corp.?",
-      "summary": "Three big bank names have taken three wildly different paths through 2026, and the gap between the winner and the loser comes down to a business model difference that most investors overlook when picking financial stocks.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/which-big-bank-stock-has-dominated-in-2026-bank-of-america-wells-fargo-or-bank-of-new-york-mellon-corp/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/59XQ7UFhsiYvzjke4wpOiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0347fce6d81fa4ee16c290ba9c9ca05b.jpg",
-      "published_at": "2026-08-19T19:23:33Z"
-    },
-    {
       "id": "69af3544-92d6-30fa-91a0-8b66c17a8412",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -112,17 +178,6 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/us-yields-head-lower-treasury-141517850.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/72bdjXRGfr_cA6Z0hxrAlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/4101fe623da5d08710a4247472bce81f.jpg",
       "published_at": "2026-08-19T19:22:35Z"
-    },
-    {
-      "id": "b9867034-a38b-3414-be13-7e4b79cefdae",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Drugmaker Stock Has Dominated in 2026: Merck, Pfizer, or Amgen?",
-      "summary": "One large-cap drugmaker has quietly lapped its peers in 2026 without a single obesity drug in its lineup, while the companies chasing the hottest trend in pharma are fighting for second place and last.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/which-drugmaker-stock-has-dominated-in-2026-merck-pfizer-or-amgen/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z6HoEy4dHOC_9r35MkGxdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/587a8147ec12df1e358a96a87735d536.jpg",
-      "published_at": "2026-08-19T19:20:16Z"
     },
     {
       "id": "599de245-de49-38e2-a285-7e90c4c3ce76",
@@ -235,28 +290,6 @@
       "published_at": "2026-08-19T18:55:44Z"
     },
     {
-      "id": "0fab0c22-fd41-3611-82be-fe2b1ffe5359",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Cipher Digital Stock Is Valued On Revenue It Is Shutting Down",
-      "summary": "The sales multiple every screen shows is measured against a bitcoin business the company is decommissioning, while the data center rent it is actually being valued for has only just begun.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612011/cipher-digital-stock-is-valued-on-revenue-it-is-shutting-down/2026-08-19",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6M3fC2i5rtTPkd.WcJswvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/56c363bffa73f8b8cfa9cd71fae1de1c.jpg",
-      "published_at": "2026-08-19T18:55:31Z"
-    },
-    {
-      "id": "274a518b-96f8-3ccb-8dd4-5f2fc186337f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Wall Street financier who rightly predicted the Bitcoin crash has a new warning",
-      "summary": "Ex-Trump advisor Anthony Scaramucci expects Bitcoin to recover.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/wall-street-financier-who-rightly-predicted-bitcoin-crash-has-new-warning",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oED.29XI8MbLoVrEeYFA4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9ac425b80cced4b9c2a96b579c2e8955.jpg",
-      "published_at": "2026-08-19T18:46:15Z"
-    },
-    {
       "id": "42c5cb48-cedf-392f-b66f-d7ff9ddc3436",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -277,39 +310,6 @@
       "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0UZGvjptSFh1.2Sq84IZEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2ddd941b4f750d1b2a8e0eeed82fd73c.jpg",
       "published_at": "2026-08-19T18:33:00Z"
-    },
-    {
-      "id": "7ba3e80c-ef40-36c5-9b67-558764281f53",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Global yields fall after US Treasury boosts debt buybacks",
-      "summary": "By Karen Brettell and Iain Withers NEW YORK, Aug 19 (Reuters) - Longer-dated global bond yields retreated from multi-decade highs, the dollar tumbled and gold jumped on Wednesday after the U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/bond-selloff-slows-stocks-wobble-025827451.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JoEGdiWvrtG7HKIY9_muFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8753d10e9482a0bf8823f5454f73d714.jpg",
-      "published_at": "2026-08-19T18:30:38Z"
-    },
-    {
-      "id": "a2afb932-a52f-366a-90fb-a8bbd5d6d049",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "An alarmed bond market gets the Trump administration to act again",
-      "summary": "Normally quiet, the bond market can occasionally send warning signals loud enough to hit stock markets worldwide and even grab the attention of U.S. presidents and other world leaders.  After the bond market’s alarm bells rose in volume through the summer, the Trump administration announced on Wednesday a move that could help calm it down.  The U.S. Treasury Department said it will more than double the amount of U.S. government bonds that it will buy back, and the move worked in getting longer-term yields lower, for now at least.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/economy/policy/articles/alarmed-bond-market-gets-trump-183011457.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Rf_btOJDMLg78fl_lQPqkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/8f8f025290aa0c1d943ce8da6b2429e4.jpg",
-      "published_at": "2026-08-19T18:30:11Z"
-    },
-    {
-      "id": "8c80df39-9abc-3a33-8f41-b7c315a10fa8",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Prices Pop After Treasury Moves to Push Down Bond Yields",
-      "summary": "Precious metals prices jumped, pushing gold to its highest settlement value since Mary 29, after the Treasury Department said it would ramp up buybacks of longer-dated government debt. Treasury's move at least momentarily reversed a run-up in bond yields that had been pressuring precious metals, which pay no yield.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/gold-prices-pop-after-treasury-moves-to-push-down-bond-yields-UnMl5i5u9SsncJhmWEjh?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-19T18:26:02Z"
     }
   ]
 }
