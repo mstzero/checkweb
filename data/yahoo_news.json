@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-19 22:20 UTC",
+  "last_updated": "2026-08-19 22:49 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+      "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VhSYsImE7SI2ZKT_iN0k9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6e8cc8661dfe1dfab3cb45e7accc621a.jpg",
+      "published_at": "2026-08-19T22:42:25Z"
+    },
+    {
+      "id": "bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Oil Is Up 36% and the Strait of Hormuz Is Still Closed. The QQQI Family Runs a 14.75% Energy Fund",
+      "summary": "A fund from the same shop that built one of the most popular Nasdaq income ETFs just entered the pipeline space, and it is quietly paying out a yield that makes the category's longtime leader look almost stingy by comparison.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/oil-is-up-36-and-the-strait-of-hormuz-is-still-closed-the-qqqi-family-runs-a-14-75-energy-fund/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bygTnsTvMxJmAyf6_CT.rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/25841626871a4c6febbd76dc646ffa74.jpg",
+      "published_at": "2026-08-19T22:35:11Z"
+    },
+    {
+      "id": "cb8b6855-c581-300f-869f-d4c4ca199b8c",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "NEOS’s ‘Boosted’ S&P Fund Pays 17% While the Nasdaq Version Pays 21%",
+      "summary": "NEOS built its reputation on a flagship S&P 500 income ETF that clears 12% annually, but a pair of younger siblings run the same playbook at a noticeably different intensity, and the tradeoffs are not what most income investors expect.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/19/neoss-boosted-sp-fund-pays-17-while-the-nasdaq-version-pays-21/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cqhAxersznn5Jqp_osJOBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c299fb213d8dfbfdc9d1bdc12b0c82b2.jpg",
+      "published_at": "2026-08-19T22:25:42Z"
+    },
+    {
+      "id": "e8e33f64-1023-3f07-97b2-b5fa5e373fbc",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "US Debt Tops $40 Trillion: Will the Doom Loop Drive Bitcoin Demand?",
+      "summary": "The $40 trillion US debt record fuels doom loop fears. See why investors weigh Bitcoin as Treasury yields climb.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/40-trillion-us-debt-bitcoin-hedge/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LhrX_PlAryF06VRARVfOuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/dabb1ee708aca34f290c71cc36e2e4d2.png",
+      "published_at": "2026-08-19T22:25:37Z"
+    },
+    {
+      "id": "0b8b2cf6-50b8-3443-8076-11803c049785",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
+      "summary": "The Model Y L targets a missing customer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/teslas-model-y-l-is-coming-to-america-will-it-reig/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.nEyE.2ng0AWymlR6t0Ujg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/81a16e2997a7d267d9285c5a86ed3656.jpg",
+      "published_at": "2026-08-19T22:25:00Z"
+    },
+    {
+      "id": "1d08a200-08ad-3c9f-ac60-f887472eb412",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+      "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7n5.gn4I6lHHiUhQy0UyfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/969d8870ab18446f4a8665a51c5b808a.png",
+      "published_at": "2026-08-19T22:18:01Z"
+    },
     {
       "id": "5be31235-4ab2-39af-9316-76fcaaa32c52",
       "asset": "TSLA",
@@ -15,6 +81,17 @@
       "published_at": "2026-08-19T22:16:13Z"
     },
     {
+      "id": "de2a76a8-640c-37cf-ace7-36aa86a2fede",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is Strategy (MSTR) Undervalued As It Raises $334 Million And Keeps Its Bitcoin Holdings?",
+      "summary": "Strategy (MSTR) has drawn fresh attention after selling about 3.5 million shares through its at the market program and raising roughly $334 million while keeping its 840,447 bitcoin position unchanged. See our latest analysis for Strategy. At a share price of $104.25, Strategy has seen a 1 day share price return of 12.68% and a 7 day share price return of 9.93%. However, the 90 day share price return is down 36.76% and the 1 year total shareholder return is down 69.73%, so recent momentum has...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-undervalued-raises-334-221204518.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
+      "published_at": "2026-08-19T22:12:04Z"
+    },
+    {
       "id": "39b326df-d384-30bb-a97b-76b04a47476c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -24,17 +101,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-gets-fresh-google-warning-220417060.html",
       "thumbnail": "",
       "published_at": "2026-08-19T22:04:17Z"
-    },
-    {
-      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
-      "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VhSYsImE7SI2ZKT_iN0k9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6e8cc8661dfe1dfab3cb45e7accc621a.jpg",
-      "published_at": "2026-08-19T22:03:53Z"
     },
     {
       "id": "a7ea07c1-3826-3b5b-ae7e-d17f76658d3a",
@@ -92,6 +158,17 @@
       "published_at": "2026-08-19T21:47:38Z"
     },
     {
+      "id": "1e1b0f4c-c3f5-3cf6-aab1-4861fec1f358",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "A Bullish Signal Could Point to Gains Ahead for These Big Tech Stocks",
+      "summary": "Some of America’s biggest tech stocks have been flashing a bullish signal lately, according to Morgan Stanley.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/a-bullish-signal-could-point-to-gains-ahead-for-these-big-tech-stocks-nvda-googl-msft-amzn-aapl-12063894",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8nBVuztRSLeq5BxKO_KXmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investopedia_245/a35affb68322f248c40eed5bf70de623.jpg",
+      "published_at": "2026-08-19T21:31:49Z"
+    },
+    {
       "id": "019c6c25-ea6b-3ea0-9bb3-1470aa97159c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -125,6 +202,17 @@
       "published_at": "2026-08-19T21:15:28Z"
     },
     {
+      "id": "c4cf2990-5f50-340f-be12-5686fb33d021",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day",
+      "summary": "Cryptocurrency markets saw their biggest short position liquidation day in history on Wednesday, with over $1 billion in shorts liquidated over the space of a few hours.CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$69,490Ethereum(CRYPTO: ETH)$2,281Solana(CRYPTO: SOL)$86.28XRP(CRYPTO: XRP)$1.10Dogecoin(CRYPTO: DOGE)$0.0755Shiba Inu(CRYPTO: SHIB)$0.054686Notable Statistics: Coinglass data shows 126,017 traders were liquidated in the past 24 hours for $1.92 billion. SoSoValue data shows net inflows",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-69-000-ethereum-211512521.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G9Rs65OCm6HHfomvyOYslg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/b4aa7faaf5a3ad76246fd91db21d6d21.jpg",
+      "published_at": "2026-08-19T21:15:12Z"
+    },
+    {
       "id": "51fb64c9-0dec-3b27-be9e-c3d0af6778bc",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -136,17 +224,6 @@
       "published_at": "2026-08-19T21:13:44Z"
     },
     {
-      "id": "37281d37-c475-3c63-8ba1-de85cfe391d3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Eli Lilly Be Worth More Than SpaceX by the End of 2026?",
-      "summary": "These two stocks both have market caps of more than $1 trillion, but Eli Lilly's valuation is supported by strong financials.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/could-eli-lilly-be-worth-more-than-spacex-by-the-e/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dsDvoSmnsIpXS06DhAtcog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/468df5deb834f1b3f12761f3a1c657dd.jpg",
-      "published_at": "2026-08-19T21:13:30Z"
-    },
-    {
       "id": "2bfe75f9-a155-3a6a-9129-261e64f9a253",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -156,39 +233,6 @@
       "url": "https://finance.yahoo.com/markets/articles/trading-day-bessent-makes-mark-210413931.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tm7S4r5el3JrY9BTssMJfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/0dfa746d360c80fed89dcf05d87de5ef.jpg",
       "published_at": "2026-08-19T21:04:13Z"
-    },
-    {
-      "id": "5cf692f1-29e4-3b97-80f4-ef2770d6a41f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Lowe's Companies, Inc. Q2 2027 Earnings Call Summary",
-      "summary": "Moby summary of Lowe's Companies, Inc.'s Q2 2027 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lowes-companies-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cJSse.RpU29GFrY8vXUlbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/fc805074b379ac1a561934ebd5facdee.png",
-      "published_at": "2026-08-19T21:03:25Z"
-    },
-    {
-      "id": "03692243-bb59-35fc-afc8-98427f008f50",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVIDIA (NVDA): What Foxconn and Super Micro Are Telling Us about the AI Boom",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is heading into its August 26 earnings report with expectations already elevated. Wall Street firm Stifel believes it can clear this high bar, with its bull case built around independent checkpoints scattered across the supply chain. On August 19, Stifel analyst Ruben Roy reiterated a Buy rating on the stock with a […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-foxconn-super-micro-210152728.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sBqsbY3lwK6ua8Eq8FAfDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1844f81bb0da0e99fe998247e0aca379.jpg",
-      "published_at": "2026-08-19T21:01:52Z"
-    },
-    {
-      "id": "0c0b4d2d-2f33-376e-9dbd-fca7c1548d33",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Marti Technologies, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Marti Technologies, Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-marti-technologies-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GdVMii4rLYTguSENfU4TOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/8524b1af00629a9110266728e8dc57c9.png",
-      "published_at": "2026-08-19T21:01:29Z"
     },
     {
       "id": "e0c97ff8-f0f5-359e-9a08-5be62e9fb39e",
@@ -214,8 +258,8 @@
     },
     {
       "id": "ae67492a-eda0-3647-95cd-30a78ddc9d8e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Over $1 billion in Bitcoin shorts wiped out in 4 hours",
       "summary": "Crypto market rally forces liquidation of short positions.",
       "source": "TheStreet",
@@ -233,17 +277,6 @@
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1eeef783?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2IWxYEFqFEE4dfrUwSO.Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f3a3591266b185ee59754b46dad08085.jpg",
       "published_at": "2026-08-19T20:56:00Z"
-    },
-    {
-      "id": "d2bc2675-e8e6-3f7b-8cda-0f50a8d2b342",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Coinbase (COIN) Stock Is Trading Up Today",
-      "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) jumped 11.2% in the morning session after executives including Coinbase CEO Brian Armstrong prepare to meet President Trump and White House officials to push for clearer digital-asset market rules, with a rebound in Bitcoin amplifying the move. According to TipRanks, Armstrong and Ripple CEO Brad Garlinghouse were among industry leaders heading into the White House talks as firms press Congress on the CLARITY Act, which would set",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-coinbase-coin-stock-trading-205402122.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_isUHi78lP36Gl58h.yt9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/0853feacc1714816055c5fd627257ffb.jpg",
-      "published_at": "2026-08-19T20:54:02Z"
     },
     {
       "id": "c479ad32-bac2-3052-b4cb-72c4c0c788b5",
@@ -268,17 +301,6 @@
       "published_at": "2026-08-19T20:43:00Z"
     },
     {
-      "id": "5d335482-759e-3940-ad85-11b7c4485984",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Altcoin Boom May Never Come Back: How Crypto Trading Has Changed in 2026",
-      "summary": "The altcoin boom may never return. Here’s how the October 10 crash reshaped crypto trading in 2026, and what to expect next.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/altcoin-boom-crypto-trading-changed-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ijBeBFalQrR_8yNPyDlNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c66a0f9a62c09a310adfcd0e6d653d59.jpg",
-      "published_at": "2026-08-19T20:42:48Z"
-    },
-    {
       "id": "24bbbfb3-dc77-3660-bbb9-9759db45d5ae",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -288,28 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/19/why-newmont-mining-rallied-today/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KcGSm8XSgcwfP.TvMvbE.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/327949402525ad8e7a87883559604f05.jpg",
       "published_at": "2026-08-19T20:42:12Z"
-    },
-    {
-      "id": "74bd88d5-4767-32e0-8e33-b93512baac99",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy, Coinbase Stocks Rose After Trump Met Crypto Execs",
-      "summary": "Shares of Bitcoin-related companies rose on Wednesday as cryptocurrency industry leaders met with President Donald Trump at the White House.  Shares of  Strategy  among the world’s largest corporate holders of Bitcoin, closed up 12.7% at $104.25, notching their highest close since June 22 and their largest percentage increase since Feb. 6, according to Dow Jones Market Data.  Coinbase  Global stock closed up 9.6% at $160.20, its highest close since July 30, and its largest percentage increase since July 21.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/strategy-coinbase-stocks-trump-crypto-e1e05561?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/olVhqu7cuPRNLlHaPd0GwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/419ee9fc2dd66cb1e2cfa5441c8b60b9.jpg",
-      "published_at": "2026-08-19T20:40:00Z"
-    },
-    {
-      "id": "7ba3e80c-ef40-36c5-9b67-558764281f53",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Global yields fall after US Treasury boosts debt buybacks",
-      "summary": "By Karen Brettell and Iain Withers NEW YORK, Aug 19 (Reuters) - Longer-dated global bond yields retreated from multi-decade highs, the dollar tumbled and gold jumped on Wednesday after the U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/bond-selloff-slows-stocks-wobble-025827451.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3udba8km9WpdIfdd5szTpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/467ffcbdf47a69dca8da62e3ce290167.jpg",
-      "published_at": "2026-08-19T20:39:51Z"
     }
   ]
 }
