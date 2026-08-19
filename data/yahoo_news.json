@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-19 05:25 UTC",
+  "last_updated": "2026-08-19 05:54 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "4f2f80e8-e196-31ff-9ae9-c11cc2df1037",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Despite Strategy Woes, 12 of 15 MSTR Institutional Holders Added Shares in Q2",
+      "summary": "Strategy's Q2 13F filings show 12 of its 15 largest institutional holders added MSTR shares despite the firm's Bitcoin sales.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/mstr-institutional-shareholders-q2-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zrcjGanNxcsQGnpRZJ8JDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1c02a1328f988ff3d2b37774f1397d8c.jpg",
+      "published_at": "2026-08-19T05:02:39Z"
+    },
     {
       "id": "d3012e35-f953-3a8a-99da-70c9c358a59e",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-ltd-hive-010358541.html",
       "thumbnail": "",
       "published_at": "2026-08-19T01:03:58Z"
-    },
-    {
-      "id": "c6efeba5-5160-3d5f-9572-97123c6779a1",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Contango Silver & Gold Inc (CTGO) (Q2 2026) Earnings Call Highlights: Unhedged and Poised ...",
-      "summary": "CEO Rick Nieuwenhuyse outlines a transformative quarter with full hedge removal, robust cash flow projections, and strategic progress across its three core projects.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/contango-silver-gold-inc-ctgo-010244657.html",
-      "thumbnail": "",
-      "published_at": "2026-08-19T01:02:44Z"
     }
   ]
 }
