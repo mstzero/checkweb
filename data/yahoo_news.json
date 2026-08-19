@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-19 06:37 UTC",
+  "last_updated": "2026-08-19 07:34 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Tech leads losses as Asian stocks track Wall St selloff",
+      "summary": "Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hopes for a deal to reopen the Strait of Hormuz.\"With oil rising towards $90 a barrel, investors are increasingly concerned about the possibility of a more prolonged inflation shock,\" said Fiona Cincotta, analyst at Forex.com.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uUwouoN0AMCJCuJFuLLIWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/308cf8a9da10ebdaa02a82509aa3f853.jpg",
+      "published_at": "2026-08-19T07:28:44Z"
+    },
+    {
+      "id": "d2ecb009-7e0f-3b50-97be-826d90b0b60e",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "European shares muted as mining gains offset Middle East jitters",
+      "summary": "Aug 19 (Reuters) - European shares were flat on Wednesday due to Middle East uncertainty, while gains in basic resources stocks, supported by higher gold prices, provided some support ahead of the",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-muted-mining-gains-072828662.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPVcI1S3aj26bkrw.JA57g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/abe3d10f3c8eb4680e66f3990eb89191.jpg",
+      "published_at": "2026-08-19T07:28:28Z"
+    },
+    {
+      "id": "43bb6b72-bc8e-300a-bbfd-4af6838d7355",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Michael Burry Flags New AI Chip Startup By Harvard Dropouts As ‘Serious Competition’ For Nvidia",
+      "summary": "Founded in 2022, Etched has emerged as a closely watched AI chip startup after raising $700 million from Jane Street and others at a $21 billion valuation.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-flags-new-ai-chip-startup-by-harvard-dropouts-as-serious-competition-for-nvidia/cZYdJbiRJk0",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4sSQN3rEJB8nDdO4eg_eXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1ee149676711629c546bb8f14d17a4a8",
+      "published_at": "2026-08-19T07:11:09Z"
+    },
+    {
+      "id": "ae4988d7-b750-3e87-bd16-a057d6987ae1",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector",
+      "summary": "By Samuel Shen and Eduardo Baptista SHANGHAI/BEIJING, Aug 19 (Reuters) - Shares in Unitree, China's best-known humanoid robot maker, soared nearly six-fold in its Shanghai trading debut, in a landmark",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qk_f53BqVQZ3yJbufHp1gA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1365ceedb6111e8df9d3cad52e1a33ff.jpg",
+      "published_at": "2026-08-19T07:08:55Z"
+    },
+    {
+      "id": "e51e588f-1762-3750-8f3d-2d5bca10f224",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Alphabet eyes record A$5 billion Australian bond debut as AI spending surges",
+      "summary": "Alphabet Inc (NASDAQ:GOOG) is preparing to raise as much as A$5 billion through its first Australian-dollar bond sale, potentially setting a record for the country’s corporate debt market. The Google parent is considering 3-year, 5-year, 10-year and 20-year tranches. The shorter maturities...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097248/alphabet-eyes-record-a-5-billion-australian-bond-debut-as-ai-spending-surges-1097248.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WEJsiO2WYNFG3fNApL7mzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/c103985ef25569fd3da3ed44397744ca.jpg",
+      "published_at": "2026-08-19T06:47:00Z"
+    },
+    {
+      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+      "summary": "By Jeslyn Lerh SINGAPORE, Aug 19 (Reuters) - Oil prices climbed for a fourth straight day on Wednesday as investors weighed conflicting messages from Tehran and Washington on whether the Strait of",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1Gxin7m1oTbn4dZmSLd.vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/0d6370e468518859c0d9a6bb4a0514a7.jpg",
+      "published_at": "2026-08-19T06:45:58Z"
+    },
     {
       "id": "cef36490-1aff-3d79-9df4-5356088008be",
       "asset": "NVDA",
@@ -46,6 +112,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-cipher-digital-cifr-51-061256210.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
       "published_at": "2026-08-19T06:12:56Z"
+    },
+    {
+      "id": "068745b8-bd68-33c5-9a31-45a712cee9b3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Nasdaq-Listed Chinese Company Does a Michael Saylor, Launches New Bitcoin Treasury Worth $154.7 Million",
+      "summary": "Zhibao Technology Inc. (NASDAQ:ZBAO) closed a $154.7 million Bitcoin (CRYPTO: BTC)-funded private placement on Tuesday, establishing a corporate treasury reserve of 2,380 BTC. New Bitcoin Treasury Firm on the Block The Shanghai-based digital insurance broker issued 442 million units at $0.35 each, combining one Class A ordinary share, with a par value of $0.0001 per share, and a two-year warrant exercisable at $0.35. “The total purchase price has been fully satisfied and deemed paid in full at t",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-listed-chinese-company-does-055304475.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/02QJHIVuGjUCb1lsU4yBOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/3eeebde9bbdd0807b0ee37d3fd764e1b.jpg",
+      "published_at": "2026-08-19T05:53:04Z"
     },
     {
       "id": "f486e21d-6a2f-3217-9a46-dfcbfaacbf40",
@@ -147,17 +224,6 @@
       "published_at": "2026-08-19T03:33:00Z"
     },
     {
-      "id": "6553086f-ba45-342d-8d50-2d150d410677",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "David Tepper Just Made a $107 Million Bet on Top AI Stock. George Soros Is Holding Puts Against It.",
-      "summary": "Two of the sharpest macro minds in the business landed on opposite sides of the same AI infrastructure stock in Q2, and the actual filings reveal a far messier story than the headlines suggest.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/david-tepper-just-made-a-107-million-bet-on-top-ai-stock-george-soros-is-holding-puts-against-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4d4MI9rNVObhQCTikTPsYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d1b5600d80b25bcad573b72d274a2427.jpg",
-      "published_at": "2026-08-19T03:19:09Z"
-    },
-    {
       "id": "7530780e-e32a-3f28-ab73-9948656dfc9f",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -235,17 +301,6 @@
       "published_at": "2026-08-19T02:43:00Z"
     },
     {
-      "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Tech leads losses as Asian stocks track Wall St selloff",
-      "summary": "Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hopes for a deal to reopen the Strait of Hormuz.\"With oil rising towards $90 a barrel, investors are increasingly concerned about the possibility of a more prolonged inflation shock,\" said Fiona Cincotta, analyst at Forex.com.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U_TqIjYt2wa72QpZ_LWQGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/c36ea5442fec3eefcf5a2662e6d5b38d.jpg",
-      "published_at": "2026-08-19T02:41:27Z"
-    },
-    {
       "id": "67eff8e4-cb17-32d0-b5b4-c22e80ced1a3",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -255,61 +310,6 @@
       "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-023023579.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wki3IpWAugtgmnT4LYI4rQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/010d18715cca4852a5fd7217fee510b0.jpg",
       "published_at": "2026-08-19T02:30:23Z"
-    },
-    {
-      "id": "f2772ac4-98a2-30ed-a93a-91098bd2a316",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Rupee may slip on oil, risk-off mood; RBI once again expected to ride to rescue",
-      "summary": "By Nimesh Vora MUMBAI, Aug 19 (Reuters) - The Indian rupee is poised to open weaker on Wednesday, as a deteriorating risk backdrop and high oil prices reinforce the currency's underlying negative near",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/rupee-may-slip-oil-risk-021557518.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EUMR0GmnyNjcKMcMwNvAZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/823e23e3abac6e8a3374d98eb2d776d8.jpg",
-      "published_at": "2026-08-19T02:15:57Z"
-    },
-    {
-      "id": "3cc5f2a4-788a-353f-864f-da027f83a977",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "OpenAI's Revenue Growth Reportedly Slows As Anthropic Pulls Ahead  – Which AI Stocks Could Feel The Ripple Effects?",
-      "summary": "OpenAI’s revenue rose 18% quarter over quarter in Q2, while Anthropic’s sales doubled, according to the Wall Street Journal.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-revenue-growth-reportedly-slows-as-anthropic-pulls-ahead-which-ai-stocks-could-feel-the-ripple-effects/cZYdRc6RJkb",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v8pSyhhlbZrPzDbhiQS9nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/25feeb6251b236125e42ee1ecdb3273e",
-      "published_at": "2026-08-19T02:13:57Z"
-    },
-    {
-      "id": "e2e044fe-d4bd-3dac-b52c-c9fdc7fb8748",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Cipher Digital (CIFR) Is Down 6.5% After Q2 Loss And Rising Interest Costs – Has The Bull Case Changed?",
-      "summary": "Cipher Digital Inc. recently reported a second-quarter net loss of US$267.5 million and weaker Bitcoin-mining revenues amid higher borrowing costs and rising Treasury yields. While Cipher continues to build out contracted revenue backlog and pivot toward high-performance computing and AI data centers, investors appear focused on the strain from large capital expenditures and interest expenses. Next, we’ll examine how Cipher’s sizeable quarterly loss and rising interest burden might reshape...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-cifr-down-6-021158952.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
-      "published_at": "2026-08-19T02:11:58Z"
-    },
-    {
-      "id": "1e686ed3-ff87-32b5-be4a-ee839ae718e0",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
-      "summary": "All three quarters ended June 30. The smallest of the three cloud giants is growing at about double the pace of the other two.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/google-cloud-grew-82-last-quarter-azure-grew-43-and-aws-grew-37/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UIfowrGBaNsQkPS3TjKiGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47dcb66ac72779fcb15293c6b1bc83de.jpg",
-      "published_at": "2026-08-19T01:46:01Z"
-    },
-    {
-      "id": "28f29339-f25f-3f7c-8f34-6e50a60a8c10",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "ZoomInfo Technologies (GTM) Is Down 6.5% After Goodwill Hit, Copilot Tie-Up And Guidance Hike",
-      "summary": "In early August 2026, ZoomInfo reported a goodwill impairment of US$650.5 million, modest year-on-year revenue growth to US$310.4 million in the second quarter, and raised its full-year 2026 revenue guidance to US$1.21 billion while continuing a large share repurchase program. At the same time, multiple customers cited very large lifts in qualified deals, higher connection rates, and cleaner data from ZoomInfo’s AI-driven go-to-market platform, and the company launched a connector that...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-down-6-011447352.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jvs4zIxA.KLHoCaG3xST_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
-      "published_at": "2026-08-19T01:14:47Z"
     }
   ]
 }
