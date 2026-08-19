@@ -1,8 +1,162 @@
 {
-  "last_updated": "2026-08-19 02:36 UTC",
+  "last_updated": "2026-08-19 03:42 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5c01c025-df05-314b-9533-db52dc514691",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s $249 AirPods may be about to learn how to see",
+      "summary": "Apple is reportedly testing AI that understands the real world without forcing the user to look at a screen.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/apples-249-airpods-may-be-about-to-learn-how-to-see",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K0o3YV6QOuHjBva61raocg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/956c14d34cff2c34fb09ee15046f0256.jpg",
+      "published_at": "2026-08-19T03:33:00Z"
+    },
+    {
+      "id": "6553086f-ba45-342d-8d50-2d150d410677",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "David Tepper Just Made a $107 Million Bet on Top AI Stock. George Soros Is Holding Puts Against It.",
+      "summary": "Two of the sharpest macro minds in the business landed on opposite sides of the same AI infrastructure stock in Q2, and the actual filings reveal a far messier story than the headlines suggest.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/david-tepper-just-made-a-107-million-bet-on-top-ai-stock-george-soros-is-holding-puts-against-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4d4MI9rNVObhQCTikTPsYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d1b5600d80b25bcad573b72d274a2427.jpg",
+      "published_at": "2026-08-19T03:19:09Z"
+    },
+    {
+      "id": "7530780e-e32a-3f28-ab73-9948656dfc9f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus",
+      "summary": "The U.S. 30-year Treasury yield climbed to a fresh 19-year high on Tuesday, trading at 5.274% at the time of writing, while the 10-year Treasury yield was at 4.692%.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-slip-as-global-bond-rout-catches-up-with-markets-lunr-mstr-wyfi-amlx-stocks-in-focus/cZYdcsfRJkP",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EGMPWUG2nNoSSKguNYIr5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/402af02996abe6366f8f0e25464097c9",
+      "published_at": "2026-08-19T03:17:32Z"
+    },
+    {
+      "id": "4794d1db-3e50-31c9-a0e2-12be2b7dfe73",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Tom Lee Uses BlackRock’s Bitcoin Report to Pitch Ethereum as AI’s Verification Layer",
+      "summary": "Tom Lee cites BlackRock's Bitcoin report to pitch Ethereum as AI's verification layer, but the report never makes that case.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/tom-lee-blackrock-ethereum-ai-verification/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mBZBS5NLUaC2XkbxqDt1GA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6bc853e80fa2268a922d0ec75ed8e3f0.png",
+      "published_at": "2026-08-19T03:14:00Z"
+    },
+    {
+      "id": "2e708d7b-8293-38f1-abf2-ca8ec63fa425",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Elon Musk's SpaceX Stock Just Closed Above Its $135 IPO Price for the First Time in Weeks. Is the Rebound a Buy Signal?",
+      "summary": "The company's struggling shares are launching back into orbit.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/elon-musks-spacex-stock-just-closed-above-135/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w_7Es1QBzCAF.bLGUilisg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d96945391acff2315056a8cc15acea98.jpg",
+      "published_at": "2026-08-19T03:13:06Z"
+    },
+    {
+      "id": "ce0f0a74-8b60-3937-8b8c-41a01ae0e787",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
+      "summary": "Nuclear stocks cratered Tuesday even as broader utilities caught a bid, and the reason has nothing to do with reactors. A collision of rising long rates and shaken AI spending confidence is rewriting how the market prices the entire sector.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/nuclear-stocks-plunge-tuesday-oklo-down-5-constellation-energy-down-4-nuscale-down-5/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tuzcd9u_mrK8Q68rRef6ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eef7aa9a397b7df1cea0f9b7d9d1963d.jpg",
+      "published_at": "2026-08-19T03:12:19Z"
+    },
+    {
+      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
+      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
+      "published_at": "2026-08-19T03:09:08Z"
+    },
+    {
+      "id": "a1936ff2-c716-3e67-9ddd-2f7e2633d08a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
+      "summary": "Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.  Samsung Electronics shed 6.9%, while memory chipmaker SK Hynix tumbled 7.9%.  Apart from renewed jitters over criticism that AI-related stocks have shot too high, rising oil prices also were clouding market sentiment.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/articles/shares-fall-asia-kospi-down-030536178.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F4trN8JZowMEOw_Z9UzCew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/98dc2159481f56a98e9d76bd832718ba.jpg",
+      "published_at": "2026-08-19T03:05:36Z"
+    },
+    {
+      "id": "3e062bba-edb4-3e2f-9735-18561eeb6369",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains Over Reliance on OpenAI. Here's Why That Matters for Investors.",
+      "summary": "Microsoft's AI bet looks like a strategy to build a scalable, higher-margin AI business on its own technology stack.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tvORzNoPG2ZXPsCl5od4JQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/261497ea3f13bc8287e20d0c7ff22d34.jpg",
+      "published_at": "2026-08-19T03:05:06Z"
+    },
+    {
+      "id": "0dca8992-5715-364b-aa30-7aef88502b52",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sandisk Is Up More Than 35-Fold in a Year and Sits Nearly a Third Below Its Peak. History Says What Comes Next.",
+      "summary": "The memory maker's collapse-and-rebound summer has precedents. In every one of them, the following year came down to a single thing.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/18/sandisk-is-up-more-than-35-fold-in-a-year-and-sits-nearly-a-third-below-its-peak-history-says-what-comes-next/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QU6RQVzY5rIOF5Yt4RamxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f6b15e367c46b77ef8a16742213a6e4e.png",
+      "published_at": "2026-08-19T02:54:01Z"
+    },
+    {
+      "id": "2a9515af-b68a-3da5-97a0-094878d67642",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here’s Why It Led Magnificent 7 Stocks",
+      "summary": "While the Nasdaq sold off hard Tuesday and AI-heavy tech names took a beating, one Magnificent 7 stock quietly closed in the green. The reason why reveals a growing fault line inside big tech that investors may have been ignoring.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/18/apple-shares-jump-tuesday-while-the-nasdaq-plummets-heres-why-it-led-magnificent-7-stocks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3P.652n4TslDjyYbW5Hu2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2e25736410fb6986016218763e38ba6f.jpg",
+      "published_at": "2026-08-19T02:52:45Z"
+    },
+    {
+      "id": "28117776-202d-3b00-968c-94c7b9b1ed48",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bank of America doubles down on Nvidia stock despite big risk",
+      "summary": "One growing concern is not shaking the bank’s conviction",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/bank-of-america-doubles-down-on-nvidia-stock-despite-big-risk",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UG_qS0glHCM6nLKDa1SD3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/f72cdda8634719417a44d800d342f9c8.jpg",
+      "published_at": "2026-08-19T02:47:00Z"
+    },
+    {
+      "id": "55ad8d65-808b-3ff3-8607-c3ae5fa78a4a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Kalshi Brings Crypto’s Perpetual Futures Model to Stocks With CFTC Filing",
+      "summary": "Kalshi filed with the CFTC to launch stock index and copper perpetuals, extending crypto's leverage model into equities.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/kalshi-stock-index-perpetual-futures/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GzyOZi4AFYiJcJki4.YrcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/d322a779b74d36e81f403abed17814fc.jpg",
+      "published_at": "2026-08-19T02:43:00Z"
+    },
+    {
+      "id": "381d467c-2c7f-37b5-ad85-8c913ece10c8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Tech leads losses as Asian stocks track Wall St selloff",
+      "summary": "Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hopes for a deal to reopen the Strait of Hormuz.\"With oil rising towards $90 a barrel, investors are increasingly concerned about the possibility of a more prolonged inflation shock,\" said Fiona Cincotta, analyst at Forex.com.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U_TqIjYt2wa72QpZ_LWQGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/c36ea5442fec3eefcf5a2662e6d5b38d.jpg",
+      "published_at": "2026-08-19T02:41:27Z"
+    },
     {
       "id": "67eff8e4-cb17-32d0-b5b4-c22e80ced1a3",
       "asset": "OIL",
@@ -13,39 +167,6 @@
       "url": "https://sg.finance.yahoo.com/news/indian-shares-set-muted-start-023023579.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wki3IpWAugtgmnT4LYI4rQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/010d18715cca4852a5fd7217fee510b0.jpg",
       "published_at": "2026-08-19T02:30:23Z"
-    },
-    {
-      "id": "ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
-      "summary": "Sandisk, Micron, Credo and many other chip and AI stocks dived a day after bullish moves. The major indexes are wiping out recent gains.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6ikUgdVbkTx9EOsDziRbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/38964b109f8e8715f262abbdd6d9d184.jpg",
-      "published_at": "2026-08-19T02:26:37Z"
-    },
-    {
-      "id": "c72f189c-0bc6-3bee-9952-0db7463cb0f2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Duolingo Stock Popped Today",
-      "summary": "The popular learning app could be nearing an inflection point.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/why-duolingo-stock-popped-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DGbhgRTnDz.iu7w0pEABEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6060c8192099dc81c45fa860930ec4c4.jpg",
-      "published_at": "2026-08-19T02:20:58Z"
-    },
-    {
-      "id": "6bd0a4e1-bff5-3590-9cf4-aeb5886a5be9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia H200 chips reach China in small shipments, FT reports",
-      "summary": "Small batches of ‌Nvidia's H200 ‌chips have been allowed ​to enter mainland China, the Financial Times reported ‌on ⁠Tuesday. ByteDance and Tencent have each ⁠received about 10,000 H200 processors ​in ​recent ​weeks, while ‌a few other Chinese tech groups could soon obtain approval for shipments ‌of similar ​size, ​the ​report said, ‌citing two people ​with ​knowledge of the matter.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-h200-chips-reach-china-021726633.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WZYZSjsof1VnJsJiawqtVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7492ef09422dfef5634c746a084c2a87.jpg",
-      "published_at": "2026-08-19T02:17:26Z"
     },
     {
       "id": "3cc5f2a4-788a-353f-864f-da027f83a977",
@@ -82,8 +203,8 @@
     },
     {
       "id": "1e686ed3-ff87-32b5-be4a-ee839ae718e0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
       "summary": "All three quarters ended June 30. The smallest of the three cloud giants is growing at about double the pace of the other two.",
       "source": "Motley Fool",
@@ -101,17 +222,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-down-6-011447352.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jvs4zIxA.KLHoCaG3xST_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857.jpg",
       "published_at": "2026-08-19T01:14:47Z"
-    },
-    {
-      "id": "c78b21db-b4a4-3475-b688-920c69ad1b90",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Fabrinet Stock Just Plummeted",
-      "summary": "Fabrinet just served up strong quarterly results. So why did the stock get crushed?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/why-fabrinet-stock-just-plummeted/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6LnphQHAAWwWuNqAnJdtaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e594c88bf40b38946dced6bcd1abb43a.jpg",
-      "published_at": "2026-08-19T01:08:53Z"
     },
     {
       "id": "4e6957ea-2b18-35eb-987e-faa4c42598e3",
@@ -170,47 +280,14 @@
     },
     {
       "id": "fe289536-961a-33ca-a98f-c445ea336e2b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Gold inches higher, focus on Fed minutes",
       "summary": "Aug 19 (Reuters) - Gold prices edged higher in early Asian trade on Wednesday as U.S.",
       "source": "Reuters",
       "url": "https://sg.finance.yahoo.com/news/gold-inches-higher-focus-fed-005910171.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z6A_I483havpva7GUxfM5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9963b5a43fd22ab5bd90eccd311e494f.jpg",
       "published_at": "2026-08-19T00:59:10Z"
-    },
-    {
-      "id": "4e1e26c1-b3ca-396f-b7f8-7f1594f8df31",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Drone Stocks See Limited Losses Tuesday During Nasdaq Sell-Off: Red Cat, Ondas Flat While AeroVironment Tumbles",
-      "summary": "While AI hardware stocks cratered on Tuesday and the Nasdaq bled red, a handful of drone names barely flinched. Here is why their revenue stream insulates them from the chaos hammering the rest of the market.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/drone-stocks-see-limited-losses-tuesday-during-nasdaq-sell-off-red-cat-ondas-flat-while-aerovironment-tumbles/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uY7ld6oEDYZ8JATu7o8BWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2d7e05ca213e027c433de7a643002495.jpg",
-      "published_at": "2026-08-19T00:46:54Z"
-    },
-    {
-      "id": "6e5b0cd0-6b0f-3723-9ef3-74a5dbdc716d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Quantum Stocks Fall Tuesday as Rates Force Rotation: IonQ Down 6%, D-Wave Drops 6%, Rigetti Falls 5%",
-      "summary": "Rising Treasury yields are hitting quantum computing stocks from one direction while cooling AI sentiment hits from another, and the combination is triggering a selloff that exposes just how fragile the recent rally actually was.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/18/quantum-stocks-fall-tuesday-as-rates-force-rotation-ionq-down-6-d-wave-drops-6-rigetti-falls-5/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8XTD_JLguz0HsG14_p73Yw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg",
-      "published_at": "2026-08-19T00:39:21Z"
-    },
-    {
-      "id": "72c0c8fd-6520-3db8-942b-e03b7681d2aa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil edges up on uncertainty over exports through Hormuz",
-      "summary": "Aug 19 () - Oil prices ticked higher in early trade on Wednesday, climbing for a fourth straight day on supply uncertainty as investors ‌weighed conflicting messages from Tehran and Washington on whether the Strait of ‌Hormuz is open to ships. Brent crude futures climbed 26 cents, or 0.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-edges-uncertainty-over-exports-003901978.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LTU7NPKL_15I2Wjv0P48_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/6fe0fea6f6f17f91c87e435b0c4ac2e9.jpg",
-      "published_at": "2026-08-19T00:39:01Z"
     },
     {
       "id": "f9c788a6-5e7e-3f43-ab7f-9c1fa7cbfbbd",
@@ -224,39 +301,6 @@
       "published_at": "2026-08-19T00:35:17Z"
     },
     {
-      "id": "ec1b8b2a-1e0e-3c5e-9ead-8175d31cc52d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Rises Amid Growing Concerns Over Supply Disruptions",
-      "summary": "OIL MARKETS 2351 GMT — Oil rises in Asian early trade amid growing concerns over supply disruptions. Iran fired two ballistic missiles toward the Strait of Hormuz on Tuesday, triggering air defenses in the U.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-concerns-over-supply-disruptions-c33bffbd?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-19T00:26:00Z"
-    },
-    {
-      "id": "abd16ba5-6fe8-3df8-86e7-235c4a09d565",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Kulicke & Soffa Stock Slumped by Nearly 10% Today",
-      "summary": "The company named a new leader.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/why-kulicke-soffa-stock-slumped-by-nearly-10-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MWcTD481fXnzmnP2EpibSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b637afa3e1c8f9224837c4050cfde0d6.jpg",
-      "published_at": "2026-08-19T00:21:16Z"
-    },
-    {
-      "id": "f42e0dc1-74f5-3594-8af6-9f1b81afdfbf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "2 Industrial Stocks I'd Buy Every Day Before RTX",
-      "summary": "RTX is strong, but its shares are near their highs. Here are two industrial stocks tied to AI infrastructure spending that I'd buy first.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/2-industrial-stocks-id-buy-every-day-before-rtx-co/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Wp3..9nqklohNC_WDOQzKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bf176f0660bcd0c464c393b556af6c30.jpg",
-      "published_at": "2026-08-19T00:20:00Z"
-    },
-    {
       "id": "6c5a6659-a0d0-434c-b8e1-3849a4881952",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mMS_bnwqmhc7G0GqltcsGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cerebras-cs4-tq-front-paneloff_3604.jpg",
       "published_at": "2026-08-19T00:00:00Z"
-    },
-    {
-      "id": "e64cf950-bbdb-309c-9ade-3f5ac8210891",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
-      "summary": "With 88% of S&P 500 companies having reported second-quarter results, Energy has delivered the strongest earnings growth of the index’s 11 sectors at 147% year-over-year and the strongest revenue growth at 42.5%.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-cashing-energy-000000545.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uBOtqabqq3t7W0ClktKu5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/3a3d9a570db1621e7540ec1ce635ffc9.jpg",
-      "published_at": "2026-08-19T00:00:00Z"
-    },
-    {
-      "id": "8d4a8eb0-87e8-3216-8c32-07cca0cec995",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy CEO Phong Le Says Bitcoin Accumulation Will Continue Later This Year. Is It Time to Give MSTR Stock Another Chance?",
-      "summary": "Strategy is no longer buying Bitcoin. That should concern investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/18/strategy-ceo-phong-le-expects-bitcoin-accumulation/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9sJ1XuRSGsALSTvaAeOqGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1ac308fb028b9d7bf8852c1a2b7745b2.jpg",
-      "published_at": "2026-08-18T23:27:00Z"
-    },
-    {
-      "id": "264f7f84-ef1a-3a06-9f5d-2ee80315e0a0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Jim Cramer doubles down on Tim Cook and Apple verdict",
-      "summary": "Jim Cramer just sent a message about Tim Cook’s Apple legacy that every AAPL investor needs to hear.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/jim-cramer-message-tim-cook-apple-stock-aapl",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9jiIF8_oP0Vns7bSZ9fAIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c1cc2958baf674980f9c63ca7bc6ebde.jpg",
-      "published_at": "2026-08-18T23:17:00Z"
-    },
-    {
-      "id": "3e5911d6-5edc-382a-bd6e-4455384b16b1",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Back In The ‘90s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent — Now He's The Richest Man Alive And Still Rents",
-      "summary": "Long before rockets blasted into orbit and electric cars reshaped the auto industry, Tesla and SpaceX CEO Elon Musk found a far simpler way to cover rent —throw a party, charge five bucks at the door and hope enough people...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/small-business/articles/back-90s-elon-musk-turned-230106361.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q5tOM5Ah0qabwkCeJotblw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c7fe94288cf5a708e28871f00f83bdcb.jpg",
-      "published_at": "2026-08-18T23:01:06Z"
     }
   ]
 }
