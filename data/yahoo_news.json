@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-20 05:55 UTC",
+  "last_updated": "2026-08-20 06:40 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1e131053-b89d-3784-af98-16113f80f2ad",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
+      "summary": "These companies are poised to thrive as data centers require more electricity than ever before.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/nvidia-chip-filled-data-centers-need-more-power-th/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xeZeu.T8MPohvwBzzt5oSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/64e698ecbc6def344e3f384ca2dcb16d.jpg",
+      "published_at": "2026-08-20T06:25:00Z"
+    },
+    {
+      "id": "089f2297-b1e3-3866-9cc8-46bc6861cd17",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold retreats after scaling over 2-month peak on US Treasury move",
+      "summary": "By Sukanya Mitra Aug 20 (Reuters) - Gold fell on Thursday as investors booked profits after prices climbed to an over two-month peak on a surprise U.S.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-retreats-scaling-over-2-062359967.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iwJsv.TWkTUVFMqgAIh8Bw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1a6c6c70672278f112efaecdc01c463f.jpg",
+      "published_at": "2026-08-20T06:23:59Z"
+    },
+    {
+      "id": "84d6862d-b639-3b5d-9694-c39b90452ee0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil rises as markets rebound on US Treasury debt buyback plan",
+      "summary": "Global shares rebounded and bond yields eased after Washington's debt buyback announcement, while oil held near multi-week highs amid the deadlocked US-Iran standoffView on euronews",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/08/20/oil-rises-as-markets-rebound-on-us-treasury-debt-buyback-plan",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s5CJf.SYdb_VSu9fiFw0TQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/8dafba0cc4e47c2f4653b0527ad9add5.jpg",
+      "published_at": "2026-08-20T06:19:04Z"
+    },
+    {
+      "id": "b14ec8f4-decd-3ea1-910f-1e190b389931",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "FTSE 100 Live: Quiet open predicted as Asian stocks spring back",
+      "summary": "The FTSE 100 is tipped to nudge higher at Thursday's open, with spread betters pencilling in a gain of around 9 points. The mood music comes courtesy of an overnight rally across Asia. Markets there took heart after the US Treasury said it would \"at least double\" its issuance of long-term...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097313/ftse-100-live-quiet-open-predicted-as-asian-stocks-spring-back-1097313.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IxHm360VWdU2lKK9JUFuHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/dbdb44b2c5e8e6f3a848f6490baf179e.jpg",
+      "published_at": "2026-08-20T06:19:00Z"
+    },
+    {
+      "id": "6c5bee54-39ba-3b1c-bbb4-34a1d386b8ec",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dollar at three-month lows as Treasury takes aim at surging bond yields",
+      "summary": "By Ankur Banerjee SINGAPORE, Aug 20 (Reuters) - The U.S. dollar stood at three-month lows on Thursday after the Treasury Department moved to calm a bond market rout that had pushed long-end yields to",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/dollar-hugs-three-month-lows-005324076.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lBpb6zkpPSkEM9tPehQWqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f4dad8a32f26ff6bbf774137d12c0855.jpg",
+      "published_at": "2026-08-20T05:59:31Z"
+    },
     {
       "id": "8722e830-3ae0-326d-b6b8-ee91f75fa3cd",
       "asset": "TSLA",
@@ -255,61 +310,6 @@
       "url": "https://www.usatoday.com/story/money/2026/08/19/costco-medicare-plans-scan-group/91378331007/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ck1UCZs1VGVY4ojZN0WMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/usa_today_money_325/fbaf844bf71131c880a5f20742e48f1f.jpg",
       "published_at": "2026-08-20T01:04:34Z"
-    },
-    {
-      "id": "d42bb191-dbbd-382c-9a35-00e77dd54f13",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Anvil CEO says on-chain letters of credit make lending ‘virtually default proof’",
-      "summary": "Anvil lets you promise money without handing it over, keep the upside, and prove to any counterparty that the funds can’t run away.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/innovation/anvil-ceo-says-on-chain-letters-of-credit-make-lending-virtually-default-proof-",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WqugjstHV_VXEydwHB1m3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2ba9a0e790e8b0f0816f77256a173407.jpg",
-      "published_at": "2026-08-20T01:03:00Z"
-    },
-    {
-      "id": "c7f2e5e4-dedc-303e-9acf-50fafa5c78fe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Guided to $91 Billion. Wall Street Penciled In $92 Billion.",
-      "summary": "The two numbers are about $1 billion apart. What the chipmaker's guide assumes about China and margins says more than the gap does.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/nvidia-guided-to-usd91-billion-wall-street-penciled-in-usd92-billion/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kk2laOCNuq9sR09h7XfSqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af7af8eb19cb8dc72ddc809fff911699.jpg",
-      "published_at": "2026-08-20T00:57:01Z"
-    },
-    {
-      "id": "46e8a480-93f3-35fd-8a57-5c660b6d3d24",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Moderna Stock Skyrocketed Today",
-      "summary": "The biotech could be on the verge of setting a new standard of care for skin cancer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/why-moderna-stock-skyrocketed-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_ZGHKkEa7sq4fQZBlb41Aw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ac16bb2260b4d52e81788013077b04ca.jpg",
-      "published_at": "2026-08-20T00:27:33Z"
-    },
-    {
-      "id": "959aca37-524b-3408-a528-a00422fced80",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "The 10 Most Popular AI ETFs of 2026",
-      "summary": "<p>The biggest inflows didn't go into funds with \"AI\" in the name.</p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/features/10-most-popular-ai-etfs-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sV.6jSrWFV.PtOiNPEO9Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/e176ba15ed3474bf0a09881476c76f4b.jpg",
-      "published_at": "2026-08-20T00:24:40Z"
-    },
-    {
-      "id": "6327db9e-1df3-3059-8f82-b8fda3383d5e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Wheaton Precious Metals Zoomed 11% Higher Today",
-      "summary": "Its favorite commodities staged a surprise Hump Day rally.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/why-wheaton-precious-metals-zoomed-11-higher-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7e8JmrHHFKnyZ5aFIa3rjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a904883d27675b31cc271f259481316b.jpg",
-      "published_at": "2026-08-19T23:44:45Z"
     }
   ]
 }
