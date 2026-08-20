@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-08-20 07:37 UTC",
+  "last_updated": "2026-08-20 08:33 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "0bf78460-4005-3b5a-9028-f69eba33e956",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil hits 3-week high on Middle East supply concerns amid war impasse",
+      "summary": "By Stephanie Kelly LONDON, Aug 20 (Reuters) - Oil prices climbed to three-week highs on Thursday, driven by concerns that the impasse in the Iran war will continue to disrupt supply from the key",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-prices-steady-investors-assess-011308318.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ilVwNDkNm3mfgRq19t7U5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f5806f2d73ae34cf9e424f1510ccac5b.jpg",
+      "published_at": "2026-08-20T08:27:43Z"
+    },
+    {
+      "id": "58c806f4-7089-325d-bc7a-f4debec901c9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The S&P 500 Has Gained More Than 33% Since Trump's Election. Here's What That Means for Investors Heading Into Midterms.",
+      "summary": "Control of Congress may not matter as much as you'd think.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/sp-500-gain-33-percent-trump-election/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KAvQiQI59dBE_knVsTBPMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8fd8ad590717efb83c15cfa987b0d469.jpg",
+      "published_at": "2026-08-20T08:15:00Z"
+    },
+    {
+      "id": "bc026220-47d1-4c00-9f3c-0c59ebb28442",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Treasury's bond intervention buoys markets",
+      "summary": "Markets continued to assess the implications of the Treasury's bond buyback plans, Trump's economic warfare plans, and the national debt above $40 trillion.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NioEjPkyKGuY1DmkMju3tQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/6df28535-6136-40d8-88cd-51bf663a03a1",
+      "published_at": "2026-08-20T08:11:39Z"
+    },
+    {
+      "id": "72ebba21-3488-3813-a21b-db7ff4945fcd",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "summary": "Australia passed legislation on Thursday that will force tech giants to pay millions of dollars in ‌levies if they fail to strike commercial deals with local ‌media outlets for news on their platforms.  Proceeds from the scheme would be directed to local Australian news outlets, whose content helps drive user engagement and advertising revenue on the tech firms' platforms.  The levy applies to Meta, Alphabet's Google, ‌TikTok and Microsoft's LinkedIn, ⁠covering companies with a \"significant\" social media or search service in Australia, and local advertising revenue exceeding A$250 million ($178 million).",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/media-advertising/articles/australia-passes-law-levy-tech-075457253.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/psredK3m9wu9sSeHByXTCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/2dc8001a9d3664884ff2136ae774d6ee.jpg",
+      "published_at": "2026-08-20T07:54:57Z"
+    },
+    {
+      "id": "8800dc26-5099-386d-ab8c-07dcc8e61be8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVDA Stock Heads Into Earnings Next Week With ‘Rock-Solid’ AI Demand – But The Bar For A ‘Beat-And-Raise’ Is Getting Higher",
+      "summary": "Investors will watch margins, rising HBM costs, China sales and the Rubin Ultra product roadmap.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-earnings-rock-solid-ai-demand-bar-beat-and-raise-higher/cZYI0BfRJmL",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/un5xBwuRqmwUtUNthRKcXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/bc34751c15988b03f91b1ce87dd8fbeb",
+      "published_at": "2026-08-20T07:53:16Z"
+    },
+    {
+      "id": "d1cac08b-2ed0-3a93-82a2-fca8bc751175",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Why is Crypto Up Today? Ethereum Leads Market Recovery With a +18% Pump",
+      "summary": "Traders have woken up today with just one question on their mind. ‘Why is crypto up today?’ is what everyone is asking right now after Ethereum opened today at $2,260 after a near +18% move over the past 24-hours. Per CoinGecko data, yesterday ETH was hovering at $1,930 before an ...",
+      "source": "Coinspeaker",
+      "url": "https://www.coinspeaker.com/why-is-crypto-up-today-ethereum-price-surge/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ysbDzbDRUixn_ZeReRGRgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coinspeaker_us_106/7af4a0428cf79ba67013d5df5db82577",
+      "published_at": "2026-08-20T07:37:31Z"
+    },
+    {
+      "id": "ff6fba5c-c31c-31a1-88bb-b9de6e1d3f11",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Tops $70,000 Amid a Short Squeeze, but 3 Metrics Hold the Real Signal",
+      "summary": "Bitcoin surged 7.5% past $70,000 as shorts lost $2.74 billion. But 2 on-chain signals still stand in the way.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-70000-short-squeeze-spot-demand/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
+      "published_at": "2026-08-20T07:33:42Z"
+    },
+    {
+      "id": "d12be215-5a7f-3659-a92a-0def93d87054",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "European shares muted as higher oil prices counter bond recovery",
+      "summary": "Aug 20 (Reuters) - European shares were flat on Thursday as concerns over higher oil prices and inflation partially offset support from a recovery in global bonds after a U.S. Treasury intervention.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-muted-higher-oil-073318836.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QCzJ.jMl6stAWvj.egmQwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5dff701a37e17a1cec9209b3baf4e163.jpg",
+      "published_at": "2026-08-20T07:33:18Z"
+    },
     {
       "id": "c1e5029d-ccf8-3c95-ad71-90b356c61d81",
       "asset": "MSFT",
@@ -13,6 +101,17 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/sp500-8000-morningstar-crm-now-wday-msft-august-rebound/cZYIhnzRJm9",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3rSrLEJ5i_yDyIdD.uoLdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/59b609d91e1759c197b1127cd20e9122.jpg",
       "published_at": "2026-08-20T06:52:49Z"
+    },
+    {
+      "id": "ea68ad6f-5a71-3db5-af63-c4ab274e239d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Elevated Oil Prices Push Japan’s Imports to an All-Time High",
+      "summary": "Japan’s import bill hit a record high in July as elevated oil prices and costly efforts to diversify crude supplies sharply increased energy costs.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/elevated-oil-prices-push-japan-064500517.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vjSq6SU6ElJD.QFyNYrA1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/146d4cbb5f2b205fdf2025327ac7d66a.jpg",
+      "published_at": "2026-08-20T06:45:00Z"
     },
     {
       "id": "482f5e8b-7ff9-3cc0-875f-13d7653a234a",
@@ -73,11 +172,11 @@
       "id": "b14ec8f4-decd-3ea1-910f-1e190b389931",
       "asset": "GOLD",
       "asset_name": "Gold",
-      "title": "FTSE 100 Live: Quiet open predicted as Asian stocks spring back",
-      "summary": "The FTSE 100 is tipped to nudge higher at Thursday's open, with spread betters pencilling in a gain of around 9 points. The mood music comes courtesy of an overnight rally across Asia. Markets there took heart after the US Treasury said it would \"at least double\" its issuance of long-term...",
+      "title": "FTSE 100 Live: Blue-chips head lower as JD Sports sounds the earnings alarm",
+      "summary": "FTSE 100 down 26 points to 10,717 JD Sports sounds earnings alarm Asia shares bounce 8.30am: JD tumbles Blue-chip shares defied expectations to trade lower in the first half hour of the session, falling 25.95 points to 10,717.40. The day's biggest corporate news was a profit...",
       "source": "Proactive",
       "url": "https://www.proactiveinvestors.com/companies/news/1097313/ftse-100-live-quiet-open-predicted-as-asian-stocks-spring-back-1097313.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IxHm360VWdU2lKK9JUFuHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/dbdb44b2c5e8e6f3a848f6490baf179e.jpg",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yQwtv65Z2iPpOvQaZdzF_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/f2dd12eb1b06108de20b97629726cd03.jpg",
       "published_at": "2026-08-20T06:19:00Z"
     },
     {
@@ -134,17 +233,6 @@
       "url": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FynT.vvuapSlxIMGEz79Kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/571273ea90752e3b8282f97a4d2f8446.jpg",
       "published_at": "2026-08-20T05:15:00Z"
-    },
-    {
-      "id": "0bf78460-4005-3b5a-9028-f69eba33e956",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
-      "summary": "By Yuka Obayashi and Siyi Liu TOKYO/SINGAPORE, Aug 20 (Reuters) - Oil prices climbed on Thursday on concerns the impasse in the U.S.-Israeli war against Iran will continue to disrupt supply from the",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/oil-prices-steady-investors-assess-011308318.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wuq_JKtY3j9_KbSP4ScJaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d6cda5560be31e8126124fd5f02b185b.jpg",
-      "published_at": "2026-08-20T05:11:50Z"
     },
     {
       "id": "bde004e1-cfb1-3ca5-b604-eec9458c82c8",
@@ -222,94 +310,6 @@
       "url": "https://beincrypto.com/arthur-hayes-flop-biblical-framing/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n41Q0_iZt7KjhgCbO2B72g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/381f9d38b8dc7626b4edbb8fd3200cd7.jpg",
       "published_at": "2026-08-20T03:01:04Z"
-    },
-    {
-      "id": "e93d6761-ed18-30aa-89c7-2e3cb6363154",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Japan reports record exports and imports for July as energy costs climb",
-      "summary": "Japan’s imports and exports set records in July and soaring energy costs and a weak yen helped extend a trade deficit for a third month, government data showed.  Japan's trade deficit totaled 634.5 billion yen ($4 billion) last month, marking the third straight month of red ink, the Finance Ministry said in a preliminary report Thursday.  Japan, which imports almost all its oil, previously relieved heavily on oil imports from the Middle East through the Strait of Hormuz, which remains effectively closed.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/economy/articles/japan-reports-record-exports-imports-030053044.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c9FoAT7ze6hHFofm0UQBMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/3785207f863453b0744a880da51179ac.jpg",
-      "published_at": "2026-08-20T03:00:53Z"
-    },
-    {
-      "id": "31045eb4-6382-3830-b1af-15f97e603683",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Indian shares set to open higher as global bond markets steady",
-      "summary": "Aug 20 (Reuters) - Indian shares were expected to open higher on Thursday, tracking broader Asia as global bond markets steadied after the U.S.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/indian-shares-set-open-higher-023129659.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MusOQZ0rbl1ip3FveNYGZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1491511000ef53ba2d2ffa52ba8f1c49.jpg",
-      "published_at": "2026-08-20T02:31:29Z"
-    },
-    {
-      "id": "5d547f66-4c11-3ca3-bd5b-d081c4fcd16a",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Macquarie Group (ASX:MQG) Provides $100 Million Asset Backed Facility",
-      "summary": "Macquarie Group (ASX:MQG) has provided a $100 million asset backed financing facility to Clearco to support ecommerce brands. The facility is intended to expand Clearco's funding capacity for ecommerce businesses that use its platform. The transaction increases Macquarie Group's exposure to technology driven lending linked to online retail activity. This kind of capital flow into ecommerce and digital platforms can connect closely with broader trends in commodities and inflation, which are...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/macquarie-group-asx-mqg-provides-021446562.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fGI03SKKHx0oGPVo8My6kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/94f732452d254692d8722ac3ce3ea4da.jpg",
-      "published_at": "2026-08-20T02:14:46Z"
-    },
-    {
-      "id": "0da528c7-3ad1-32ee-ae61-f8730bdf0d4a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Louis Navellier sets eye-opening Nvidia stock price target for rest of this year",
-      "summary": "The 40-year veteran fund manager resets his Nvidia forecast for the rest of the year.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/louis-navellier-sets-eye-opening-nvidia-stock-price-target-for-rest-of-this-year",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yo4B0p0vjVwuyA1UQnUE0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9bcef704e7c6cbe54604dabca3fd605c.jpg",
-      "published_at": "2026-08-20T02:03:00Z"
-    },
-    {
-      "id": "2fb34a63-286d-3f60-bccc-5d508b37db07",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act",
-      "summary": "Bitcoin prices surged above $69,000 for the first time since early June after President Donald Trump met with top crypto executives in the White House.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/mstr-stock-climbs-as-bitcoin-surges-past-69-k-for-first-time-since-june-trump-urges-congress-to-pass-clarity-act/cZYIexFRJlz",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0t_JQwBnxHgvaI1_AKlYiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aa3f67a3168af8b994f85531e40e8535",
-      "published_at": "2026-08-20T02:01:56Z"
-    },
-    {
-      "id": "c123797b-fa4a-32d7-b166-878d5957de46",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Asia’s Businesses Struggle to Shake Off the Sway of Their Founding Families",
-      "summary": "A leadership shake-up at Tata Sons has highlighted the challenges facing India’s family-founded behemoths.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/world/asia/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-0e7fc2e7?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y7PmFn0aPRiawgUZP.A6Gg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9fbe2bdf966ed23c9a66e6f790c2a333.jpg",
-      "published_at": "2026-08-20T02:00:00Z"
-    },
-    {
-      "id": "322a06cb-703a-359d-a306-1789030bf26d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Meta ran ads for an app that only needs one photo and no consent",
-      "summary": "The app takes a photo of someone real and does something Meta says it bans.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/technology/meta-ran-ads-for-an-app-that-only-needs-one-photo-and-no-consent",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S.9cmE5FLsOiVXNR2f.TMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/797a59004b98a0508fe11c8dbf8c305c.jpg",
-      "published_at": "2026-08-20T01:47:00Z"
-    },
-    {
-      "id": "787eaa4e-7731-341a-9540-fe3670f33160",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Drops; Focus on Fed July Minutes",
-      "summary": "Gold declined in Asian trade amid focus on the minutes of the Fed’s July meeting which revealed broader support for interest rate increases.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-20T01:47:00Z"
     }
   ]
 }
