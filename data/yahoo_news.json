@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-20 05:25 UTC",
+  "last_updated": "2026-08-20 05:55 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "8722e830-3ae0-326d-b6b8-ee91f75fa3cd",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Stock Revs Up On Cybercab Buzz: Analyst Sees ‘Good Entry Point’ As Robotaxis Drive 30% Of Bull Case",
+      "summary": "Morningstar expects Cybercab’s low costs to support “strong profits” and “strong growth in 2027.”",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-analyst-entry-point-robotaxis-bull-case/cZYIXPGRJm3",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9Y2ninjw_DUDfEqoUMqKqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/88ebd86ced0e9a75cd98737c3535d450.jpg",
+      "published_at": "2026-08-20T05:16:12Z"
+    },
+    {
+      "id": "f9cc3216-eefc-353a-9092-6ed4f0aabd50",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Red-Hot Rivals: How Chinese Tech IPOs Are Outshining America’s Biggest Debuts",
+      "summary": "It’s virtually impossible for U.S. investors to buy into Chinese IPOs, though some U.S. ETFs own shares.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FynT.vvuapSlxIMGEz79Kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/571273ea90752e3b8282f97a4d2f8446.jpg",
+      "published_at": "2026-08-20T05:15:00Z"
+    },
     {
       "id": "0bf78460-4005-3b5a-9028-f69eba33e956",
       "asset": "OIL",
@@ -15,6 +37,17 @@
       "published_at": "2026-08-20T05:11:50Z"
     },
     {
+      "id": "bde004e1-cfb1-3ca5-b604-eec9458c82c8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
+      "summary": "In August 2026, Regeneron Pharmaceuticals announced that the US FDA approved Pasatru (garetosmab-grts) to reduce new heterotopic ossification lesions and flare-ups in adults with fibrodysplasia ossificans progressiva, based on positive Phase 3 OPTIMA trial results. This approval adds a rare-disease monoclonal antibody to Regeneron’s portfolio, reinforcing the company’s focus on specialized, high-complexity immunology therapies. We’ll now examine how Pasatru’s FOP approval, as an ultra-rare...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WEKCjUGubSZ_60ze9OMITA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/a52f4d4b48157c0b8b51190845e3ba14.jpg",
+      "published_at": "2026-08-20T05:10:56Z"
+    },
+    {
       "id": "eadaf003-5030-3fc1-af3b-bda9ea8b6177",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -24,6 +57,17 @@
       "url": "https://beincrypto.com/gold-price-5000-jpmorgan-target/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hd1.HsBKxw0_hOLm7fouWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/eab053139b60f3614f35a2e02311c8fd.jpg",
       "published_at": "2026-08-20T04:36:56Z"
+    },
+    {
+      "id": "7c3bb9f9-d3bb-3e43-ad47-214fdbfce2cf",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Revisiting Former Stock Picks Microsoft, Kingstone, Cadre Holdings",
+      "summary": "FEATURE  Reviewing past stock picks is one of the most valuable habits an investor can build. Each win or loss reveals clear lessons about your research, assumptions, risk control, and emotions, turning experience into sharper judgment and fewer repeated mistakes.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/revisiting-former-stock-picks-microsoft-kingstone-cadre-holdings-8ea881e9?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxZNaInV7cySqy.uPIZFIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/eec18fc78acd26f3b7d95a8dfb0b2034.jpg",
+      "published_at": "2026-08-20T04:32:00Z"
     },
     {
       "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
@@ -266,50 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/19/why-wheaton-precious-metals-zoomed-11-higher-today/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7e8JmrHHFKnyZ5aFIa3rjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a904883d27675b31cc271f259481316b.jpg",
       "published_at": "2026-08-19T23:44:45Z"
-    },
-    {
-      "id": "e25d64a8-7998-3b3d-bda7-fabeda329e56",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Standard Chartered makes new Bitcoin prediction on Treasury news",
-      "summary": "Standard Chartered analyst Geoff Kendrick shares a new Bitcoin prediction.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/standard-chartered-makes-new-bitcoin-prediction-on-treasury-news",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TErhQXJnM4cfOFlqLaaS.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6e0fe39528bca2f08f8a694f3d322f5e.jpg",
-      "published_at": "2026-08-19T23:40:00Z"
-    },
-    {
-      "id": "c183406c-c5d9-3f94-b356-8589fae5a8ae",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Titan Minerals unveils new shear-hosted gold discovery at Dynasty in Ecuador",
-      "summary": "Titan Minerals Ltd (ASX:TTM, OTC:TTTNF) has identified a new zone of shear-hosted gold-silver mineralisation at the Dynasty Gold Project in southern Ecuador, returning 33.5 metres at 6.6 g/t gold and 55.5 g/t silver from a depth of 236.7 metres in drill hole CVDD26-199. The intercept was...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097300/titan-minerals-unveils-new-shear-hosted-gold-discovery-at-dynasty-in-ecuador-1097300.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VFHHt89np0tU_w7TNdXs4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/459a110c778a6296fd17e673fc3fc64a.jpg",
-      "published_at": "2026-08-19T23:36:00Z"
-    },
-    {
-      "id": "5c941f21-ab4c-3103-bcb2-5ccc8ea7850b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SOXL Turns Every 1% Nvidia Move Into 3%. Here’s What $10,000 Did in the Last 12 Months",
-      "summary": "Triple-leveraged semiconductor exposure sounds like a recipe for disaster, yet one ETF quietly turned a modest stake into something that rivals a year of aggressive trading. The math behind it challenges almost everything conventional wisdom says about managing risk.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/19/soxl-turns-every-1-nvidia-move-into-3-heres-what-10000-did-in-the-last-12-months/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ceOsJgTCMo4VRNRTLDNYmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f84595f58ffb4d3178120bd76e622b66.jpg",
-      "published_at": "2026-08-19T23:35:42Z"
-    },
-    {
-      "id": "377fef89-2ed6-30cf-ad36-800466f6ddc0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Is Strategy (MSTR) Stock Soaring Today",
-      "summary": "Shares of bitcoin development company Strategy (NASDAQ:MSTR) jumped 12.8% in the afternoon session after a broad rally in crypto-linked stocks was fueled by a surge in Bitcoin's price and growing optimism around U.S. cryptocurrency regulation.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-strategy-mstr-stock-soaring-232602408.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3sDc8lzOA2PIl..QAGRCiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/4940b84d40152508fb68c66cd42708e7.jpg",
-      "published_at": "2026-08-19T23:26:02Z"
     }
   ]
 }
