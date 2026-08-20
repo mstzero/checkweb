@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-20 04:33 UTC",
+  "last_updated": "2026-08-20 05:25 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "0bf78460-4005-3b5a-9028-f69eba33e956",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil gains on Middle East supply concerns amid impasse in US-Iran war",
+      "summary": "By Yuka Obayashi and Siyi Liu TOKYO/SINGAPORE, Aug 20 (Reuters) - Oil prices climbed on Thursday on concerns the impasse in the U.S.-Israeli war against Iran will continue to disrupt supply from the",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/oil-prices-steady-investors-assess-011308318.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wuq_JKtY3j9_KbSP4ScJaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d6cda5560be31e8126124fd5f02b185b.jpg",
+      "published_at": "2026-08-20T05:11:50Z"
+    },
+    {
+      "id": "eadaf003-5030-3fc1-af3b-bda9ea8b6177",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "JPMorgan’s Q4 Gold Target Was Just Crossed: Is $5,000 Next?",
+      "summary": "Gold nears $4,525 as Treasury liquidity moves lift bullion. Here's what it would take to push gold past $5,000 before year end.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/gold-price-5000-jpmorgan-target/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hd1.HsBKxw0_hOLm7fouWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/eab053139b60f3614f35a2e02311c8fd.jpg",
+      "published_at": "2026-08-20T04:36:56Z"
+    },
     {
       "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
       "asset": "AAPL",
@@ -158,17 +180,6 @@
       "published_at": "2026-08-20T01:20:00Z"
     },
     {
-      "id": "0bf78460-4005-3b5a-9028-f69eba33e956",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil prices steady as investors assess US-Iran war outlook",
-      "summary": "TOKYO, Aug 20 (Reuters) - Oil prices steadied in early trade on Thursday as investors assessed the outlook for the U.-Iran war ‌and the security of shipping through the Strait of Hormuz.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-prices-steady-investors-assess-011308318.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R5ihx_WcpqxFED1PtYvLJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/43ffbd007d75fdae32635ab38bd8a47e.jpg",
-      "published_at": "2026-08-20T01:13:08Z"
-    },
-    {
       "id": "4d6d48b6-52f8-3f8d-868a-e8e65a172036",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/why-strategy-mstr-stock-soaring-232602408.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3sDc8lzOA2PIl..QAGRCiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/4940b84d40152508fb68c66cd42708e7.jpg",
       "published_at": "2026-08-19T23:26:02Z"
-    },
-    {
-      "id": "f53d6919-51d9-350f-bd38-25a51df10ac9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stock-Split Watch: Is Lockheed Martin Next?",
-      "summary": "Consider investing in Lockheed for the long haul rather than playing a timing game with a stock split.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/stock-split-watch-is-lockheed-martin-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VFcVp9_xQYTTA_hOtOCApA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/456e042c370239af8ba5f2684b06f193.jpg",
-      "published_at": "2026-08-19T23:25:00Z"
     }
   ]
 }
