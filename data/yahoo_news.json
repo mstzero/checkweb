@@ -1,29 +1,194 @@
 {
-  "last_updated": "2026-08-20 15:29 UTC",
+  "last_updated": "2026-08-20 16:00 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "1ffe595e-9945-3194-8621-72c7404ed65d",
+      "id": "77cf6327-9179-33fc-abf6-23d5531abe3a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Today: Dow Off On 'Economic D-Day' Threat; This Medical Firm Hits New Entry (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index drops Thursday on Trump's \"Economic D-Day\" threat on Iran. Walmart dives on earnings.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1JjyW8Lu0HYVP.IlOcSLiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
+      "published_at": "2026-08-20T15:53:59Z"
+    },
+    {
+      "id": "7af30f62-9c50-31dc-b6b3-806333859b77",
       "asset": "NVDA",
       "asset_name": "Nvidia",
+      "title": "Is It Really Smart to Buy Stocks Right Now? Here's Warren Buffett's Best Advice.",
+      "summary": "Buffett is widely considered the best investor of all time.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/is-it-really-smart-to-buy-stocks-right-now-heres/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JNsuu930d4t8Tx1J9fzyqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/66f6b8dca81ec214ca9e8ae49c84f676.jpg",
+      "published_at": "2026-08-20T15:50:00Z"
+    },
+    {
+      "id": "74d7b087-23da-3b26-8719-61870d4e8b25",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "European Stocks Close Mostly Lower in Thursday Trading Amid Rising Oil Prices, Middle East Tensions",
+      "summary": "European stock markets closed mostly lower in Thursday trading as investors continue to monitor risi",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-lower-154903661.html",
+      "thumbnail": "",
+      "published_at": "2026-08-20T15:49:03Z"
+    },
+    {
+      "id": "829a159c-078f-3011-bbd7-ecb861da6e20",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds",
+      "summary": "Four drone stocks with wildly different year-to-date performances are all dropping by the same amount Thursday morning, and the reason has nothing to do with any news hitting the wires.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/ondas-drops-7-unusual-machines-sinks-8-kratos-falls-5-as-the-drone-trade-unwinds/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_5OoyTlfms.2F4AXD5aJ8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7b14f22abd2a91400c522170888003d3.jpg",
+      "published_at": "2026-08-20T15:42:19Z"
+    },
+    {
+      "id": "f9998266-34ee-3d1b-8b72-db29a59fa7b6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "VYM Is Beating the S&P 500 With a 17% Year-to-Date Return by Owning What Wall Street Won’t",
+      "summary": "A mechanical yield screen is quietly outpacing the S&P 500 this year by excluding most of the AI complex before a single share is purchased, and the valuation gap it creates raises a question worth answering before the rotation reverses.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/20/vym-is-beating-the-sp-500-with-a-17-year-to-date-return-by-owning-what-wall-street-wont/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ht.6gKhxWZ5_a9c1zuL_.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b.jpg",
+      "published_at": "2026-08-20T15:40:27Z"
+    },
+    {
+      "id": "9d56aece-5d97-3e7b-b8fa-9453957f3999",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why ScanSource Stock Is Soaring Today",
+      "summary": "ScanSource's fiscal Q4 report arrived with plenty for shareholders to be happy about.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/why-scansource-stock-is-soaring-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cYCkGOXrmTfWaKqQQ4U8sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6f062184e063138f0693b027432bc142.jpg",
+      "published_at": "2026-08-20T15:40:23Z"
+    },
+    {
+      "id": "eacf84b7-ae8d-4f1e-8f55-404ef3a264c5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act",
+      "summary": "Bitcoin (BTC-USD) opened at $69,289.44 on Thursday, August 20, 2026, 7.1% higher than Wednesday's opening price. Ethereum (ETH-USD) opened at $2,251.93 on Thursday, August 20, 2026, up 17.5% from Wednesday's opening price.",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-20-2026-crypto-prices-surge-after-president-trump-pushes-for-clarity-act-154014757.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_RzARFGej2AUP5ZtEOfB.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_0304.jpg",
+      "published_at": "2026-08-20T15:40:14Z"
+    },
+    {
+      "id": "26530949-451a-3cbc-a264-4d4d5d9d92ca",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Top Midday Stories: Treasury Yields Back on the Rise; Walmart Shares Fall After Full-Year EPS Guidance Undershoots Estimates",
+      "summary": "All three major US stock indexes were down in late-morning trading Thursday, as yields on Treasury b",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-treasury-yields-153556130.html",
+      "thumbnail": "",
+      "published_at": "2026-08-20T15:35:56Z"
+    },
+    {
+      "id": "6e1bab8f-f668-33d7-8449-d943061b9e0a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Berkshire Is Betting on This Legacy Retail Stock",
+      "summary": "After sixty years of avoiding department stores, Berkshire is dipping a toe back in.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/berkshire-is-betting-big-on-this-legacy-retail/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HNrIytKixT1QYqzztDrhEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b0a9805fbce066fd347e763ac35de868.jpg",
+      "published_at": "2026-08-20T15:35:00Z"
+    },
+    {
+      "id": "3c546a71-0a98-342d-8cc4-0f2fb01fc325",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Yield Hunters Are Swarming This 6.3%-Dividend Stock—And Big-League Hedge Funds are Quietly Buying the Dip",
+      "summary": "Hedge funds are quietly loading up on a battered pharma giant while yield hunters circle its once-near-7% dividend, but with a 14% rally already in the books and patent cliffs looming, the real question is whether the smart money spotted a turning point or a trap.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/yield-hunters-are-swarming-this-6-3-dividend-stock-and-big-league-hedge-funds-are-quietly-buying-the-dip/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bc.d5RrcKdPASyHREo.ceA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fb348cf4ec899ba6d9a9cac78631b773.jpg",
+      "published_at": "2026-08-20T15:34:30Z"
+    },
+    {
+      "id": "80e1a396-18fd-4e3b-83ca-24057171947f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
+      "summary": "Gold (GC=F) December futures opened at $4,580 per troy ounce on Thursday, August 20, 2026, up 0.8% from Wednesday's closing price.",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N0OhhbTkpBZQxGBA8QjncQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thursday.png",
+      "published_at": "2026-08-20T15:33:23Z"
+    },
+    {
+      "id": "765bd2b0-b826-3e1d-92f9-db85af3ba613",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Marvell’s New AI Catalyst Could Drive 21% Upside",
+      "summary": "Marvell's AI infrastructure business just posted record data center revenue and management keeps raising its multiyear outlook, yet the stock still sits well below its 52-week high. Here is what the numbers say about whether the rally has room left to run.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/marvells-new-ai-catalyst-could-drive-21-upside/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HIXZYq1N.6E0HlBFxbNytA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/58bdd82f9911013538b45a8044be319c.jpg",
+      "published_at": "2026-08-20T15:30:01Z"
+    },
+    {
+      "id": "e440cf0b-65bf-3cfe-8e8d-43ee18a9ffd9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "CRWV Stock On Track For Third Straight Day In The Red Despite New Hudson River Trading Deal",
+      "summary": "CoreWeave signed a multi-year agreement with Hudson River Trading to provide AI infrastructure for the quantitative trading firm's research and model-development workloads.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-on-track-for-third-straight-day-in-the-red-despite-new-hudson-river-trading-deal/cZYIsLURJZ7",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D._4aLE6bJ7NRdqDNxevPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/171135d67556e090ec06391971a87edc",
+      "published_at": "2026-08-20T15:28:53Z"
+    },
+    {
+      "id": "38f6d27c-a086-3c35-ba92-66bf460f78ae",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Drops 6%, Dips Below Its IPO Price as 319M Shares Unlock; Rocket Lab Falls 4%",
+      "summary": "SpaceX stock just slipped below its IPO price on a fraction of the supply that sent shares surging weeks ago, and the calendar shows two far larger unlock events still ahead before year-end.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/spacex-drops-6-dips-below-its-ipo-price-as-319m-shares-unlock-rocket-lab-falls-4/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/89cSJi6UNTLOLQL8qfunCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/062ac1c532fed8f28de38a4982008034.jpg",
+      "published_at": "2026-08-20T15:28:22Z"
+    },
+    {
+      "id": "208e69ed-0016-3b5d-be60-78448b82b4b0",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin jumps above $71K as Trump pushes Congress on Clarity Act",
+      "summary": "Bitcoin climbed toward $72,000 after President Trump urged Congress to pass the Clarity Act at a White House crypto event. Treasury debt buybacks and a rally in crypto equities added fuel. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
+      "source": "CoinDesk",
+      "url": "http://videos.coindesk.com/previews/dISJUgDc",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aoZEklYrJCRwpdxp1kzG2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/9f5289498c001c54b91d1cfaaed3f8bd.jpg",
+      "published_at": "2026-08-20T15:24:54Z"
+    },
+    {
+      "id": "136adc79-9ae2-30f0-b180-e0d1931d7405",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Moderna Sinks 18% After 177% Cancer Vaccine Rally, BioNTech Falls 4%, Merck Slips",
+      "summary": "A historic one-session rally in a cancer vaccine stock is already unwinding, and Wall Street analysts disagree sharply on whether the reversal reflects a trade gone cold or an opportunity that the market is mispricing.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/moderna-sinks-18-after-177-cancer-vaccine-rally-biontech-falls-4-merck-slips/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OckJLRKfSH3FL1dPiN5PCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48e455441ade9d9ee56203f04c5d5576.jpg",
+      "published_at": "2026-08-20T15:23:23Z"
+    },
+    {
+      "id": "1ffe595e-9945-3194-8621-72c7404ed65d",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Scott Bessent’s Surprise Bond Buyback Sparks a Silver Rally. Is It Too Late to Buy In?",
-      "summary": "The bond market has been sending distress signals for months. With public debt surpassing $40 trillion and the 30-year Treasury yield touching levels last seen in 2007, Washington has had a buyer’s strike problem on its hands. Long-dated debt kept cheapening as investors demanded more compensation for holding it, and that selloff was starting to ... Scott Bessent’s Surprise Bond Buyback Sparks a Silver Rally. Is It Too Late to Buy In?",
+      "summary": "Scott Bessent just made a move in the bond market that sent silver surging past gold in a single session, and the reason it worked reveals something important about where precious metals are actually headed.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/20/scott-bessents-surprise-bond-buyback-sparks-a-silver-rally-is-it-too-late-to-buy-in/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9Hvcs5D.tJ9veBtFa.JQDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d94102d2ee32837605f4aed18fc3d89c.jpg",
       "published_at": "2026-08-20T15:17:53Z"
-    },
-    {
-      "id": "9926a094-bbf1-3588-929b-85d78bb28f32",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Salesforce Stock Could Pop On August 26th",
-      "summary": "Salesforce (NYSE:CRM) looks well-positioned ahead of the fiscal Q2 2027 report on August 26, 2026, and the case does not require any imagination. You get a growth-software franchise trading at a value multiple, an AI monetization curve that is already showing up in ARR, and a prediction market pricing another beat as a near-certainty. Valuation ... Why Salesforce Stock Could Pop On August 26th",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/why-salesforce-stock-could-pop-on-august-26th/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y.dOx9JyAnkZGCFZDQZ3yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/293854d315e345b54ddd97b946f4f9fb.jpg",
-      "published_at": "2026-08-20T15:15:43Z"
     },
     {
       "id": "c4d8fd14-79a9-34f9-a484-f546a2a35c58",
@@ -46,6 +211,17 @@
       "url": "https://www.just-food.com/news/deoleo-shareholders-reviewing-interest-in-olive-oil-business/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/syP6DqtCMxKtUNlwRfwbkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/just_food_692/ba8bdb4ec088b8720027a864c577d926.jpg",
       "published_at": "2026-08-20T15:14:16Z"
+    },
+    {
+      "id": "9278756f-0d39-34eb-b8c9-2ed38e47982b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why BitMine Immersion Technologies (BMNR) Is Up 13.1% After Targeting 5% of All Ethereum – And What's Next",
+      "summary": "In recent days, BitMine Immersion Technologies has highlighted that its crypto, cash, and strategic investment treasury has reached about US$11.40 billion, including 5.82 million ETH and 210 Bitcoin, while it continues a large stock repurchase program totaling US$4.00 billion. Management also indicated it is nearing a target of holding 5% of the total Ethereum supply, underlining an aggressive treasury concentration in ETH alongside increased buybacks. We’ll now examine how BitMine’s push...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/why-bitmine-immersion-technologies-bmnr-151249411.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
+      "published_at": "2026-08-20T15:12:49Z"
     },
     {
       "id": "9822cde7-9ff1-33e4-8b23-ce47e11cbf16",
@@ -81,17 +257,6 @@
       "published_at": "2026-08-20T15:04:33Z"
     },
     {
-      "id": "7c626893-b012-349d-b5e5-9bbaa9b1f84a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Billionaire Was Recently Loading Up on \"Magnificent Seven\" Stocks",
-      "summary": "David Tepper added shares of Amazon, Meta, Alphabet, and Nvidia to his portfolio in Q2.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/this-billionaire-was-loading-up-on-magnificent/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5WIczuJ3A8GZ_MUN7Y_HCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/492e47bacf7788bbe9826fb7313744ee.jpg",
-      "published_at": "2026-08-20T15:03:00Z"
-    },
-    {
       "id": "f9063b52-82fe-3732-9ee8-542e898f6196",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -103,15 +268,15 @@
       "published_at": "2026-08-20T15:02:54Z"
     },
     {
-      "id": "b155fc50-8773-366c-8137-9a560a255e98",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Palantir Is Growing Faster Than Almost Anyone Expected. Can the Stock Keep Up?",
-      "summary": "Palantir just delivered the kind of quarter that silences critics, but with a valuation that makes even bulls nervous, the real debate is whether the growth story can actually justify what the market is already pricing in.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/palantir-is-growing-faster-than-almost-anyone-expected-can-the-stock-keep-up/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ALYRJkm8W9LoNyqTYpTsQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0863cf51673406817292ac5634f0c195.jpg",
-      "published_at": "2026-08-20T15:00:29Z"
+      "id": "7cc46d42-7b1e-377b-a8c6-f6a95d6e56e5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Beijing Bets on Fossil Fuels Even as It Leads the World in Renewables",
+      "summary": "China is boosting domestic oil and gas output and pipeline capacity as it works toward energy self-sufficiency by 2030.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/beijing-bets-fossil-fuels-even-150000725.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sfszuhHkT05HQ53GfD5EHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/aec2579f512aaed19f32cee93c28a749.jpg",
+      "published_at": "2026-08-20T15:00:00Z"
     },
     {
       "id": "46078141-3ef2-3dec-a22b-4e5fd45d5eb9",
@@ -123,17 +288,6 @@
       "url": "https://www.trefis.com/articles/612232/tesla-stock-shares-part-of-the-markets-direction-and-amplifies-all-of-it/2026-08-20",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N98nKdcMHe3w0B6Alfu3cQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/102d971324d0120a1ee9bb4747f38d7e.png",
       "published_at": "2026-08-20T14:57:42Z"
-    },
-    {
-      "id": "77cf6327-9179-33fc-abf6-23d5531abe3a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: Dow Falls 300 Points On 'Economic D-Day' Threat; These Energy Funds Rise (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index drops Thursday on Trump's \"Economic D-Day\" threat on Iran. Walmart dives on earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1JjyW8Lu0HYVP.IlOcSLiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
-      "published_at": "2026-08-20T14:57:30Z"
     },
     {
       "id": "619a15bb-d67c-32ba-8e56-597d46fcdec0",
@@ -156,160 +310,6 @@
       "url": "https://www.cryptoprowl.com/releases/bitcoin-could-extend-rally-as-etf-inflows-hit-517m-expert-6482",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wDizK0rBHiWECeb2AHlAlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/3e978af6962822349546c1d058c4512a.jpg",
       "published_at": "2026-08-20T14:48:00Z"
-    },
-    {
-      "id": "c19423a7-729a-3f96-8fd7-43639d181125",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Dividend Yield on Barrick Mining Just Crossed 2%. Here's Why It's Sustainable.",
-      "summary": "Barrick saw attributable adjusted EBITDA and earnings rise in the second quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/the-dividend-yield-on-barrick-mining-just-crossed/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TjxqcSdbuxWZeQThXnUG0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b7b43dc1f2d10a038d25ca0e061fc674.jpg",
-      "published_at": "2026-08-20T14:43:00Z"
-    },
-    {
-      "id": "8dc11b03-b6cd-3706-9098-1f719bec0d69",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Bristol Myers, Johnson & Johnson and More Are Watching Seaport After IPO",
-      "summary": "Seaport Therapeutics just went public with a prodrug platform that has attracted board members from two of the biggest neuroscience acquisitions in recent history. The question is whether the same giants who funded those deals are already circling for a third.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/why-bristol-myers-johnson-johnson-and-more-are-watching-seaport-after-ipo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/651tBN8oG_Vqonghcph8Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9da53a1ec7bb49656c05d88024db2b40",
-      "published_at": "2026-08-20T14:40:31Z"
-    },
-    {
-      "id": "443a5907-5e93-3052-9e39-13ce30b599cf",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trump Threatens Iran with ‘Economic D-Day.’ Are Energy Stocks Still Worth Chasing?",
-      "summary": "Trump's promise of economic warfare against Iran sent crude prices surging, but energy stocks have already soared 44% this year and a single ceasefire tweet could erase those gains in days. Here is how to tell whether today's move is a signal or a trap.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/trump-threatens-iran-with-economic-d-day-are-energy-stocks-still-worth-chasing/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNmNR.iqH5o9NsbomLOEyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/347f64959e692294e532bb2e409cc223.jpg",
-      "published_at": "2026-08-20T14:36:29Z"
-    },
-    {
-      "id": "83c4b63f-081f-3ca2-9639-b5f9ee8f39f7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O’Reilly Automotive Slips",
-      "summary": "Advance Auto Parts stock cratered Thursday even as the company beat earnings estimates, leaving investors to question whether the headline numbers tell the real story about consumer demand and the health of the entire auto parts sector.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/advance-auto-parts-plunges-21-as-revenue-miss-overshadows-earnings-beat-autozone-falls-4-oreilly-automotive-slips/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q8h6GhyZiyJopGNF_VhGPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/197ee405a74cb3a2e106b999ecd43796.jpg",
-      "published_at": "2026-08-20T14:35:29Z"
-    },
-    {
-      "id": "5915bc4a-ec47-3154-acbf-c7e15cbe648c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
-      "summary": "The price of bitcoin rallied to a two-month high. Treasury bond plans spark short squeeze, Trump administration reaffirms crypto support.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RthTaLRSietnBY6kmQFBZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2ecbda34b5afe2eee61df4922f885507.jpg",
-      "published_at": "2026-08-20T14:35:01Z"
-    },
-    {
-      "id": "17a6bab8-0525-3347-8f90-b8fc948259a6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Amazon Drones Move To 500 Cities. It May Not Work",
-      "summary": "Amazon is rolling out drone delivery to hundreds of cities, promising packages in 30 minutes flat. But the FAA, noise complaints, privacy concerns, and a few inconvenient realities suggest the rollout may hit serious turbulence.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/amazon-drones-move-to-500-cities-it-may-not-work/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uY7ld6oEDYZ8JATu7o8BWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2d7e05ca213e027c433de7a643002495.jpg",
-      "published_at": "2026-08-20T14:34:35Z"
-    },
-    {
-      "id": "aa95fa4b-3833-313b-bf3d-7d31e65b0bdb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Walmart’s Tariff Refund Couldn’t Save a Soft Quarter",
-      "summary": "Tariff refunds couldn’t cover for comparable sales missing at 2.6%, and Target’s report the day before proved the excuse wasn’t going to fly",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/news/news-walmarts-tariff-refund-couldnt-save-a-soft-quarter?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SG3xMZ0B9PFznrrSbSRY6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/c82d826069b81ae59cae07c9e26d05fb.jpg",
-      "published_at": "2026-08-20T14:32:33Z"
-    },
-    {
-      "id": "67221dd8-501d-323b-a4be-6048f9cfa236",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal",
-      "summary": "Bitcoin (CRYPTO: $BTC) mining company Bitdeer Technologies Group's (NASDAQ: $BTDR) artificial intelligence...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/bitdeer-shares-surge-as-ai-arm-lands-400m-malaysia-deal-6481",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V0Tck9wNC0dRUdUnBgIjbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/5f7bface7ebcd0b0a19adc319a6e7408.jpg",
-      "published_at": "2026-08-20T14:31:00Z"
-    },
-    {
-      "id": "ee8b9179-3993-35ac-88ed-61c247fb9c40",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "S&P/TSX Composite Index Down 95 Points Mid-Morning With Most Sectors Lower",
-      "summary": "The S&P/TSX Composite Index was down 95 points mid-morning Thursday with most sectors in the red.",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/p-tsx-composite-index-down-142850648.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T14:28:50Z"
-    },
-    {
-      "id": "2afb55d0-dbec-34e7-9348-293f9f18fb4a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Moderna, Walmart, Coinbase, Deere, SpaceX, Tesla, Alibaba, and More Stocks That Explain Today’s Market",
-      "summary": "Moderna declines after skyrocketing the previous session. Walmart falls as guidance fails to impress.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-dee21e98?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qd6SamE9.JMD7DPq8mno.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/958b84b9d65fc6ac5239056b6f79ede9.jpg",
-      "published_at": "2026-08-20T14:28:00Z"
-    },
-    {
-      "id": "3857af96-60fd-36bd-b1a5-52cf4dec3457",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Meta Quietly Becomes One of Microsoft's Biggest AI Customers",
-      "summary": "The social giant is spending hundreds of millions on Azure models.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-quietly-becomes-one-microsofts-141742063.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T14:17:42Z"
-    },
-    {
-      "id": "013383af-a97c-30fb-958b-7f3acac291e1",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Cracks $89 As Trump Launches 'Economic D-Day' Vs. Iran",
-      "summary": "Crude oil prices rose to nearly a one-month high on Thursday morning after President Donald Trump announced the \"most crushing economic operation ever undertaken,\" regarding Iran, in a Wednesday evening Truth Social post.  The Dow industrials, S&P 500 and Nasdaq all opened lower as Treasury yields rebounded.  Beyond the blockade of Iran's Persian Gulf ports, Trump vowed harsh consequences for countries that provide \"any type of lifeline to Iran\" via government entities, financial institutions, airports, front companies and oil smuggling.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/oil-price-trump-launches-economic-war-us-iran/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jKwg8mPwGTXND_96FHDDEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/82b02e9f963b4ecae4902ee6b7eb99e3.jpg",
-      "published_at": "2026-08-20T14:16:07Z"
-    },
-    {
-      "id": "462d4921-f4d9-3cf7-8a4b-22a666f2c90f",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Was Married 3 Times and Says He Can’t Be Happy if He’s Not in Love — ‘I Think Most People Are Not Happy Being Alone’",
-      "summary": "The world’s richest man can launch rockets, run car companies and reshape entire industries. Apparently, none of that makes an empty side of the bed any less empty. Tesla and SpaceX CEO Elon Musk has been married three times and...",
-      "source": "Benzinga",
-      "url": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-married-3-times-141533767.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M0UXr2PnZt5RGZibwM1HGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/59c8d3ad4d5e54048df623af0d3b322f.jpg",
-      "published_at": "2026-08-20T14:15:33Z"
-    },
-    {
-      "id": "c9aa653e-52fc-311c-b517-7d3649c9178a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "A $10 billion Reason Why Micron Stock In Focus",
-      "summary": "Micron Unveils $10 Billion AI Memory Research Push in the U.S.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/10-billion-reason-why-micron-141402858.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T14:14:02Z"
     }
   ]
 }
