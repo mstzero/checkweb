@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-20 21:24 UTC",
+  "last_updated": "2026-08-20 21:52 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5a68d9c9-031f-3710-bc72-94a39c7e357e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Michael Burry says Nvidia rival is quietly getting serious",
+      "summary": "Burry thinks Nvidia’s moat may face a tougher test",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/michael-burry-nvidia-rival-etched",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UtbhRZycX5U4XbLmmRgG5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6e236c909eb641aad071c99fc7dbef9f.jpg",
+      "published_at": "2026-08-20T21:47:00Z"
+    },
+    {
+      "id": "774e12c3-e566-3ef2-a826-171e8eca5ae6",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Coinbase (COIN) Stock Is Trading Up Today",
+      "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) jumped 7.4% in the morning session after investors bid crypto names on fresh optimism around the Digital Asset Market Clarity Act, CoinDesk reported, with bitcoin also higher. CoinDesk put bitcoin at about $71,936, up roughly 2% over 24 hours — so some of Coinbase bid was crypto beta, but COIN still outran the coin on a policy premium. The catalyst was not a vote. Senate Banking Chair Tim Scott, speaking at SALT in Jackson Hole,",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/why-coinbase-coin-stock-trading-213915958.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_isUHi78lP36Gl58h.yt9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/0853feacc1714816055c5fd627257ffb.jpg",
+      "published_at": "2026-08-20T21:39:15Z"
+    },
+    {
+      "id": "039da09f-a165-3372-97e0-00758001edc3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget Micron for a Minute: This Memory Competitor Just Crossed a Major Profitability Milestone",
+      "summary": "Sandisk has now been profitable for a whole year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/forget-micron-for-a-minute-this-memory-competitor/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FIIZgoH1odjMkR9lOAoeJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2336786b92b105e0ee72421269c90154.jpg",
+      "published_at": "2026-08-20T21:38:00Z"
+    },
+    {
+      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
+      "published_at": "2026-08-20T21:36:47Z"
+    },
+    {
+      "id": "a122df81-10ab-39d2-aaea-251909444f94",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Leaps on Treasury Intervention, Crypto Summit",
+      "summary": "Bitcoin has broken out of its summer doldrums, rallying in the wake of Treasury Secretary Scott Bessent’s intervention in the bond market and an upbeat White House crypto summit. The digital currency rose 6.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/bitcoin-leaps-on-treasury-intervention-crypto-summit-mtlsUzM2oo2rsVkSbpPF?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-20T21:34:09Z"
+    },
+    {
+      "id": "bce4fe5a-c9a3-3343-accb-f30e7b141648",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "US Stock Indices End Lower As Trump’s ‘Economic Warfare’ Threats Push Yields, Oil Higher — WMT, CRWV, SBUX, DE, RKLB In Focus",
+      "summary": "President Donald Trump, in a Truth Social post, threatened Iran with “economic warfare.”",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-indices-end-lower-as-trump-s-economic-warfare-threats-push-yields-oil-higher/cZYeR5dRJZA",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q2qrcsYJE4XGalHgpi26mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f1007efc23e01233656884f4bf98b796",
+      "published_at": "2026-08-20T21:31:30Z"
+    },
+    {
+      "id": "b3f11b5b-348c-3964-adfb-b4204c866039",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Donald Trump just made Cathie Wood's $1.5 million Bitcoin target look less crazy",
+      "summary": "Bitcoin is at $71,500 today. Wood says it hits $1.5 million by 2030. Washington just moved in a direction that makes that argument harder to dismiss.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/donald-trump-just-made-cathie-woods-1-5-million-bitcoin-target-look-less-crazy",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u46YrTXqFxP8l45DlxzpTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/f9881209c9470e2e9ad66aebc8324ee6.jpg",
+      "published_at": "2026-08-20T21:29:00Z"
+    },
     {
       "id": "f738c040-36fc-3293-90e7-47023c9a48a4",
       "asset": "NVDA",
@@ -19,7 +96,7 @@
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
       "title": "How Much of Your Portfolio Should Actually Be in FTXL",
-      "summary": "Semiconductor exposure is the most concentrated bet most retirement investors already own without realizing it, because chipmakers dominate the top of both the S&P 500 and Nasdaq-100. That reality is what makes sizing the First Trust Nasdaq Semiconductor ETF (NASDAQ:FTXL) a genuine portfolio decision rather than a simple allocation. FTXL is designed for investors who ... How Much of Your Portfolio Should Actually Be in FTXL",
+      "summary": "Most retirement investors already hold a concentrated chip bet without knowing it, and adding FTXL can quietly double down on the same handful of names. Getting the sizing right separates a smart tilt from a sector gamble that distorts your entire portfolio.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-ftxl/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EcbTVRLcdcKLlc.ZS_vEHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2fbe2c8024783b5d2615c74bc2d6516e.jpg",
@@ -92,17 +169,6 @@
       "published_at": "2026-08-20T21:05:00Z"
     },
     {
-      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
-      "published_at": "2026-08-20T21:03:30Z"
-    },
-    {
       "id": "099098a8-1056-3bba-87da-1a622f855fc8",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -115,14 +181,36 @@
     },
     {
       "id": "6852b738-6298-36ad-8446-1f84cdd98a83",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
       "summary": "Tesla built the line, and Tesla published its capacity. Even a first year running at that capacity barely moves a $95 billion revenue base.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/20/prediction-cybercab-adds-less-than-5-to-tesla-s-revenue-in-its-first-full-year/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cCE7UqU1TZu5YPjh2XgGHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/332740a3113d17a4783a9ed1c20e5234.jpg",
       "published_at": "2026-08-20T21:01:01Z"
+    },
+    {
+      "id": "c3b2e194-5362-3ef3-bc09-4b0b3e0ff695",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Triple Threat: Why Stocks Are Reeling Today",
+      "summary": "The market sold off Thursday after Treasurys retreated from Wednesday’s rally, oil prices rose and Walmart, a component of all three major indexes, fell more than 9%, according to Jay Hatfield, chief executive at Infrastructure Capital Advisors.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/triple-threat-why-stocks-are-reeling-today-eRSrfGLBjikBZ1XujAMK?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-20T21:00:01Z"
+    },
+    {
+      "id": "08cd1a38-2d09-357e-b90c-6411f5ff21d1",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s New CEO Could Shake Up Its Spending Strategy to Win in AI",
+      "summary": "John Ternus will take over as CEO from Tim Cook on Sept. 1. The age of AI could trigger some changes to how the iPhone maker invests in its future.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/apple-ai-spending-john-ternus-55c1046f?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GDWtGtb5S3GSJq6OLIj6Ow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ea573e3e3ff87380754975a769bd2013.jpg",
+      "published_at": "2026-08-20T21:00:00Z"
     },
     {
       "id": "47a8ea7a-e24d-3c64-aff7-58212475f055",
@@ -136,26 +224,26 @@
       "published_at": "2026-08-20T20:58:36Z"
     },
     {
-      "id": "23077288-d952-3cfe-93ab-ce390a13ae3e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Twin Disc, Incorporated Q4 2026 Earnings Call Summary",
-      "summary": "Moby summary of Twin Disc, Incorporated's Q4 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-twin-disc-incorporated-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JeW.EdDwS0GoIimEF1aL1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/5f029b10e621f8ea60be7b29dda32c90.png",
-      "published_at": "2026-08-20T20:58:07Z"
+      "id": "fd4918ee-f74d-362e-a30b-992a5b8f2249",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "summary": "Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2IWxYEFqFEE4dfrUwSO.Gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f3a3591266b185ee59754b46dad08085.jpg",
+      "published_at": "2026-08-20T20:58:00Z"
     },
     {
-      "id": "305aa908-3c58-3b19-a176-22a6d86ac1cf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Hovnanian Enterprises, Inc. Q3 2026 Earnings Call Summary",
-      "summary": "Moby summary of Hovnanian Enterprises, Inc.'s Q3 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-hovnanian-enterprises-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ItCsZ17vdpHezBGaIiFLPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/e7488130f5a6d4d4f6aa72e5327b46b4.png",
-      "published_at": "2026-08-20T20:56:10Z"
+      "id": "b0c6da65-b24c-3fcf-8086-501e463d77c1",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
+      "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-now-control-imessage-potentially-205633657.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UBOISxxwYaPjSTBEmJhM8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/405ee776f56f44e2e4cda02e89384a39.jpg",
+      "published_at": "2026-08-20T20:56:33Z"
     },
     {
       "id": "88d9bb51-0a56-3726-84e6-fccbcdbde716",
@@ -222,94 +310,6 @@
       "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8qyWc_ouNJXiqQM8sLIuIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/1187c606d3c668e87f92bdbc425558ce.png",
       "published_at": "2026-08-20T20:40:56Z"
-    },
-    {
-      "id": "ce9ea4ec-a766-366b-9f0b-adfb4e5dec37",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Indexes Fall After Trump Warns of Severe Economic Actions Against Iran, Driving Up Oil Prices, Bond Yields",
-      "summary": "US equity indexes fell on Thursday as bond yields and oil prices surged after President Donald Trump",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-trump-203003295.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T20:30:03Z"
-    },
-    {
-      "id": "5cc6cd11-5f8a-3de6-990e-dc15f664ed83",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MicroStrategy Erases 2-Month Loss as Crypto Stocks Rally: Is the Damage Over?",
-      "summary": "MicroStrategy stock hit a two-month high as bitcoin neared $69,800, yet its treasury stays $4.69 billion underwater.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/microstrategy-erases-2-month-loss-crypto-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hQ0mCbyq4uCRlKVjO4JOZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e5b89fda030142ecf26b6ec965f4c48b.png",
-      "published_at": "2026-08-20T20:22:50Z"
-    },
-    {
-      "id": "d9f84f12-3d67-32e8-b421-c6c76284e667",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US bond selloff resumes despite Treasury intervention",
-      "summary": "Yields on longterm US Treasury bonds rose Thursday despite a fresh pledge from US Treasury Secretary Scott Bessent to potentially intervene further in a bid to lower borrowing costs.In a mid-morning interview on Thursday, Bessent told CNBC that the Treasury has a \"big toolkit\" to address a rise in yields that it views as unmoored to financial conditions.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-us-treasury-075232951.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BauchMPXBuWhYLxocWvQxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/cd09f5f0e2aef97f37ca9575d4af6930.jpg",
-      "published_at": "2026-08-20T20:22:16Z"
-    },
-    {
-      "id": "40d8be5f-a978-3890-b53f-f37e822f12e6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Markets End Lower After Crude Oil, Bond Yields Rise Following Trump's New Iran Threats",
-      "summary": "US equity indexes ended lower Thursday after bond yields and oil prices rose following President Don",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201737542.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T20:17:37Z"
-    },
-    {
-      "id": "976f14cc-8dd7-3d33-b68f-6c01c2b50a8f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "IREN (IREN) Stock Looks Pricey Even After Its AI Pivot",
-      "summary": "IREN's share price has delivered a very large 3 year gain, yet the current valuation checks lean expensive rather than cheap. After the recent move around US$42.84, the stock is priced for high expectations that now need to be weighed against those signals. Over the past 3 years, IREN has returned about 8.6x, which puts extra focus on whether recent gains already reflect much of the company’s progress. The multi year Microsoft AI cloud deployment and NVIDIA Exemplar status can support...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-looks-pricey-201137991.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
-      "published_at": "2026-08-20T20:11:37Z"
-    },
-    {
-      "id": "35c0a299-f24a-312d-a0af-ac5525234fcc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "XRP rallies 22% but still misses top analyst's price target",
-      "summary": "XRP rallies 22% in the last 24 hours amid the broader crypto rally.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/xrp-rallies-22-but-still-misses-top-analysts-price-target",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ilVBcbhjB0km3RYJXss49g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bf135bbdc2a1d843f6c163c7c46646a8.jpg",
-      "published_at": "2026-08-20T20:10:00Z"
-    },
-    {
-      "id": "31a2a2b9-b4ec-3d47-a337-75928b46aece",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "8-20-2026: Middle East Tensions, Treasury Buybacks + Crypto's Big Comeback",
-      "summary": "Michael Reinking, Senior Market Strategist at the NYSE, recaps a week dominated by Treasury Secretary Bessent, whose doubled liquidity support buybacks reignited the debasement trade, sending gold back above 4,500 and triggering a massive crypto short squeeze that propelled Bitcoin up ~15% and Ethereum up 25%. Escalating Iran tensions pushed ICE Brent into the low 90s after a 60-day ceasefire expired, while equity markets drifted lower with the S&P 500 down ~1.5% as retail earnings disappointed broadly and healthcare surged nearly 4% on landmark cancer trial results from Merck and Moderna. Looking ahead, next week's PCE print, Nvidia earnings, and Fed Chair Warsh's first Jackson Hole speech are the marquee events to watch.",
-      "source": "NYSE",
-      "url": "https://finance.yahoo.com/video/8-20-2026-middle-east-200953286.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q13So2uKJ7hg0nITTHE3_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/nyse_video_805/a6c75e1eb33d87ede0f7f216441c075f.png",
-      "published_at": "2026-08-20T20:09:53Z"
-    },
-    {
-      "id": "0f47c93d-c6ab-31ee-9b4a-3457e2c92383",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Softer Late Afternoon",
-      "summary": "Financial stocks declined in late Thursday afternoon trading, with the NYSE Financial Index shedding",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-200451435.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T20:04:51Z"
     }
   ]
 }
