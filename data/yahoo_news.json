@@ -1,8 +1,162 @@
 {
-  "last_updated": "2026-08-20 01:00 UTC",
+  "last_updated": "2026-08-20 02:35 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise As Moderna, Merck, Gold Shine But Not These Techs",
+      "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VhSYsImE7SI2ZKT_iN0k9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6e8cc8661dfe1dfab3cb45e7accc621a.jpg",
+      "published_at": "2026-08-20T02:22:38Z"
+    },
+    {
+      "id": "5d547f66-4c11-3ca3-bd5b-d081c4fcd16a",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Macquarie Group (ASX:MQG) Provides $100 Million Asset Backed Facility",
+      "summary": "Macquarie Group (ASX:MQG) has provided a $100 million asset backed financing facility to Clearco to support ecommerce brands. The facility is intended to expand Clearco's funding capacity for ecommerce businesses that use its platform. The transaction increases Macquarie Group's exposure to technology driven lending linked to online retail activity. This kind of capital flow into ecommerce and digital platforms can connect closely with broader trends in commodities and inflation, which are...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/macquarie-group-asx-mqg-provides-021446562.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fGI03SKKHx0oGPVo8My6kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/94f732452d254692d8722ac3ce3ea4da.jpg",
+      "published_at": "2026-08-20T02:14:46Z"
+    },
+    {
+      "id": "0da528c7-3ad1-32ee-ae61-f8730bdf0d4a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Louis Navellier sets eye-opening Nvidia stock price target for rest of this year",
+      "summary": "The 40-year veteran fund manager resets his Nvidia forecast for the rest of the year.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/louis-navellier-sets-eye-opening-nvidia-stock-price-target-for-rest-of-this-year",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yo4B0p0vjVwuyA1UQnUE0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9bcef704e7c6cbe54604dabca3fd605c.jpg",
+      "published_at": "2026-08-20T02:03:00Z"
+    },
+    {
+      "id": "2fb34a63-286d-3f60-bccc-5d508b37db07",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "MSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act",
+      "summary": "Bitcoin prices surged above $69,000 for the first time since early June after President Donald Trump met with top crypto executives in the White House.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mstr-stock-climbs-as-bitcoin-surges-past-69-k-for-first-time-since-june-trump-urges-congress-to-pass-clarity-act/cZYIexFRJlz",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0t_JQwBnxHgvaI1_AKlYiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aa3f67a3168af8b994f85531e40e8535",
+      "published_at": "2026-08-20T02:01:56Z"
+    },
+    {
+      "id": "322a06cb-703a-359d-a306-1789030bf26d",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Meta ran ads for an app that only needs one photo and no consent",
+      "summary": "The app takes a photo of someone real and does something Meta says it bans.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/meta-ran-ads-for-an-app-that-only-needs-one-photo-and-no-consent",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S.9cmE5FLsOiVXNR2f.TMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/797a59004b98a0508fe11c8dbf8c305c.jpg",
+      "published_at": "2026-08-20T01:47:00Z"
+    },
+    {
+      "id": "787eaa4e-7731-341a-9540-fe3670f33160",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Drops; Focus on Fed July Minutes",
+      "summary": "Gold declined in Asian trade amid focus on the minutes of the Fed’s July meeting which revealed broader support for interest rate increases.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-20T01:47:00Z"
+    },
+    {
+      "id": "42a3ead9-66f4-35db-8f33-b5bfa16c1980",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Permian Resources (PR): Is the 55% Rally Just Getting Started?",
+      "summary": "Permian Resources Corporation (NYSE:PR) was held by 56 hedge funds at the end of Q1 2026, remaining unchanged from the previous quarter. However, the total stake value of these hedge fund investors surged from just over $1.2 billion in Q4 2025 to around $1.8 billion in the first quarter. Ken Griffin’s Citadel Investment Group held […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/permian-resources-pr-55-rally-013635256.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hQBIUmIYOU_l4Wvcgsc06Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0c1fbd00e6f9de5afb355d6b623fff6f.jpg",
+      "published_at": "2026-08-20T01:36:35Z"
+    },
+    {
+      "id": "92bd639e-3780-3e20-a195-62dc22759a32",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
+      "summary": "Big Tech's AI data center spree still needs power and hardware. Three industrial stocks positioned to benefit: Caterpillar, Eaton, GE Vernova.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/big-tech-is-on-pace-to-spend-735-billion-on-ai-dat/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gRR04wYnCPWjXbHEvws4OQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e31c36821358a61a3839655de6fdfaf5.jpg",
+      "published_at": "2026-08-20T01:20:00Z"
+    },
+    {
+      "id": "0bf78460-4005-3b5a-9028-f69eba33e956",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices steady as investors assess US-Iran war outlook",
+      "summary": "TOKYO, Aug 20 (Reuters) - Oil prices steadied in early trade on Thursday as investors assessed the outlook for the U.-Iran war ‌and the security of shipping through the Strait of Hormuz.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-prices-steady-investors-assess-011308318.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R5ihx_WcpqxFED1PtYvLJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/43ffbd007d75fdae32635ab38bd8a47e.jpg",
+      "published_at": "2026-08-20T01:13:08Z"
+    },
+    {
+      "id": "4d6d48b6-52f8-3f8d-868a-e8e65a172036",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Dart Mining to acquire 865km² Yamarna gold project as $2 million placement funds exploration",
+      "summary": "Dart Mining NL (ASX:DTM, OTC:DRTMF, FRA:IQR) has agreed to acquire an 865km² exploration package in Western Australia’s Yamarna district and secured firm commitments for a $2 million placement to fund exploration across the new project and its existing portfolio. The acquisition covers...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097305/dart-mining-to-acquire-865km-yamarna-gold-project-as-2-million-placement-funds-exploration-1097305.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZpTfyLbhb6xsCTK.GRz77w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/1ebd322150e28a6a448119eaa14a03fa.jpg",
+      "published_at": "2026-08-20T01:13:00Z"
+    },
+    {
+      "id": "2bce9db8-aaaa-3a00-81d5-5f4024dc4702",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Bitmine Immersion Technologies (BMNR) Stock Looks Cheap After A 61% Fall",
+      "summary": "Bitmine Immersion Technologies stock has fallen 61.1% over the past year, yet the market multiples currently screen it as undervalued while the broader valuation checks point to a less clear bargain. That mix is drawing attention to whether the recent share price levels still offer a margin of safety. Over the last 12 months, Bitmine Immersion Technologies has declined 61.1%, which puts recent short term gains in the context of a longer period of weak returns. Sentiment around digital assets...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-stock-011127698.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
+      "published_at": "2026-08-20T01:11:27Z"
+    },
+    {
+      "id": "1ee23e34-0426-3689-8596-baada53a1541",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Costco's latest deal: Get Medicare with that $1.50 hot dog and soda",
+      "summary": "Costco will team with nonprofit insurer SCAN Group to offer private, Medicare plans to customers in a limited number of states.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/money/2026/08/19/costco-medicare-plans-scan-group/91378331007/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ck1UCZs1VGVY4ojZN0WMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/usa_today_money_325/fbaf844bf71131c880a5f20742e48f1f.jpg",
+      "published_at": "2026-08-20T01:04:34Z"
+    },
+    {
+      "id": "d42bb191-dbbd-382c-9a35-00e77dd54f13",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Anvil CEO says on-chain letters of credit make lending ‘virtually default proof’",
+      "summary": "Anvil lets you promise money without handing it over, keep the upside, and prove to any counterparty that the funds can’t run away.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/innovation/anvil-ceo-says-on-chain-letters-of-credit-make-lending-virtually-default-proof-",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WqugjstHV_VXEydwHB1m3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2ba9a0e790e8b0f0816f77256a173407.jpg",
+      "published_at": "2026-08-20T01:03:00Z"
+    },
+    {
+      "id": "c7f2e5e4-dedc-303e-9acf-50fafa5c78fe",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Guided to $91 Billion. Wall Street Penciled In $92 Billion.",
+      "summary": "The two numbers are about $1 billion apart. What the chipmaker's guide assumes about China and margins says more than the gap does.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/19/nvidia-guided-to-usd91-billion-wall-street-penciled-in-usd92-billion/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kk2laOCNuq9sR09h7XfSqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af7af8eb19cb8dc72ddc809fff911699.jpg",
+      "published_at": "2026-08-20T00:57:01Z"
+    },
     {
       "id": "46e8a480-93f3-35fd-8a57-5c660b6d3d24",
       "asset": "NVDA",
@@ -24,17 +178,6 @@
       "url": "http://www.etf.com/sections/features/10-most-popular-ai-etfs-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sV.6jSrWFV.PtOiNPEO9Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/e176ba15ed3474bf0a09881476c76f4b.jpg",
       "published_at": "2026-08-20T00:24:40Z"
-    },
-    {
-      "id": "68a3e9b8-8858-3a96-8c98-dd4126c44fbe",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
-      "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VhSYsImE7SI2ZKT_iN0k9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/6e8cc8661dfe1dfab3cb45e7accc621a.jpg",
-      "published_at": "2026-08-20T00:20:10Z"
     },
     {
       "id": "6327db9e-1df3-3059-8f82-b8fda3383d5e",
@@ -167,149 +310,6 @@
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wDaZiIh2tjoTjWDcxrHelQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/1d8d7ff2354a8392414e190c8dee3f67.jpg",
       "published_at": "2026-08-19T23:00:00Z"
-    },
-    {
-      "id": "8e6dce85-74c2-35d2-8633-b5f179d451ea",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "If you invested $1,000 in NVIDIA, Apple or Bitcoin in 2015, which one made you richer?",
-      "summary": "Three assets. One $1,000 entry. Eleven years. The answer is not what most people expect.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-nvidia-apple-or-bitcoin-in-2015-which-one-made-you-richer",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q6PhfQgavJnhAxEEr4Frlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/61db81684ff4e7eb7d29374b0f4ab54b.jpg",
-      "published_at": "2026-08-19T22:59:07Z"
-    },
-    {
-      "id": "e5a92d0f-e174-3a91-adee-b0e28f0e883d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "HYPE Jumps 17% After Trump Backs CFTC Path for Hyperliquid in U.S.",
-      "summary": "Hyperliquid’s HYPE token (CRYPTO: $HYPE) jumped 17% Wednesday after President Donald Trump said Commodity Fut...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/hype-jumps-17-after-trump-backs-cftc-path-for-hyperliquid-in-us-6475",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LLbnidkL7xbaaV3NnKLuJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/0604aa3201a4da3fcf4a2efc2334c4ce.jpg",
-      "published_at": "2026-08-19T22:57:00Z"
-    },
-    {
-      "id": "bad5e918-3c7c-353a-9ff4-b4f5eb44b2cd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Oil Is Up 36% and the Strait of Hormuz Is Still Closed. The QQQI Family Runs a 14.75% Energy Fund",
-      "summary": "A fund from the same shop that built one of the most popular Nasdaq income ETFs just entered the pipeline space, and it is quietly paying out a yield that makes the category's longtime leader look almost stingy by comparison.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/19/oil-is-up-36-and-the-strait-of-hormuz-is-still-closed-the-qqqi-family-runs-a-14-75-energy-fund/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bygTnsTvMxJmAyf6_CT.rw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/25841626871a4c6febbd76dc646ffa74.jpg",
-      "published_at": "2026-08-19T22:35:11Z"
-    },
-    {
-      "id": "c6aa82f9-0339-3c97-9a3c-fb50fc26def0",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "EXCLUSIVE: Ross Gerber Says Tesla Could ‘Double’ Sales Without Elon Musk, Warns Investors on SpaceX Merger",
-      "summary": "While much of the conversation in the news cycles about Elon Musk today centers around Space Exploration Technologies Corp, EV giant Tesla Inc. still remains an integral part of the billionaire’s business strategy. While Tesla has increasingly emphasized AI, autonomous...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-223141920.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Rm_bAC8b9gXPE2_doJ6ifg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ab8b9f304317c24a6c5fc210e9059ae1.jpg",
-      "published_at": "2026-08-19T22:31:41Z"
-    },
-    {
-      "id": "d7fd9dba-b5f9-3eae-8be2-3d0143243a23",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Tech & Energy Fuel S&P 500 Growth Engine",
-      "summary": "Q2 earnings performance significantly exceeded recent historical baselines, with both growth rates and beat percentages tracking comfortably above 20-quarter averages. Even when excluding hefty contributions from Micron and Alphabet, the overall Q2 earnings picture remained rock-solid.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-energy-fuel-p-500-222700075.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WSkW34LQ2y89Woqkg7GJUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/68c9409b72fd9a7aad93bc9653422406.jpg",
-      "published_at": "2026-08-19T22:27:00Z"
-    },
-    {
-      "id": "e8e33f64-1023-3f07-97b2-b5fa5e373fbc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "US Debt Tops $40 Trillion: Will the Doom Loop Drive Bitcoin Demand?",
-      "summary": "The $40 trillion US debt record fuels doom loop fears. See why investors weigh Bitcoin as Treasury yields climb.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/40-trillion-us-debt-bitcoin-hedge/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LhrX_PlAryF06VRARVfOuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/dabb1ee708aca34f290c71cc36e2e4d2.png",
-      "published_at": "2026-08-19T22:25:37Z"
-    },
-    {
-      "id": "0b8b2cf6-50b8-3443-8076-11803c049785",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-      "summary": "The Model Y L targets a missing customer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/teslas-model-y-l-is-coming-to-america-will-it-reig/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.nEyE.2ng0AWymlR6t0Ujg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/81a16e2997a7d267d9285c5a86ed3656.jpg",
-      "published_at": "2026-08-19T22:25:00Z"
-    },
-    {
-      "id": "8be447fb-55d6-349c-90d2-e3cde30139a2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin posts surprise rally as currency nears $70,000 for the first time since June",
-      "summary": "The U.S. Treasury’s bond-buyback announcement helped send Bitcoin up nearly 6% with one analyst saying a broader recovery may be afoot.",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-posts-surprise-rally-currency-221838834.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Go3tky.PLCqjwJaE4.pQjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fortune_175/fa3ceb27dad9ebbef2edad2dfde6f3a5.jpg",
-      "published_at": "2026-08-19T22:18:38Z"
-    },
-    {
-      "id": "1d08a200-08ad-3c9f-ac60-f887472eb412",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
-      "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7n5.gn4I6lHHiUhQy0UyfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/969d8870ab18446f4a8665a51c5b808a.png",
-      "published_at": "2026-08-19T22:18:01Z"
-    },
-    {
-      "id": "6fef051d-fb6b-3818-94a9-30f4be9531b7",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The Dealmaking 3: Madden’s AI Persona Engine, Boehly’s $75B AI Bet & Pac-12 Free on YouTube",
-      "summary": "This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features Madden NFL 27 launching a new Persona Engine with more than 65 behavioral DNA types for every player, Todd Boehly’s Eldridge, a $75 billion asset manager, deploying AI across over 100 portfolio companies including Chelsea FC, and Pac-12 moving its fall Olympic sports, […] The post The Dealmaking 3: Madden’s AI Persona Engine, Boehly’s $75B AI Bet & Pac-12 Free on YouTube appeared first on CorpGov.",
-      "source": "CorpGov.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-madden-ai-persona-221754847.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1d6sACPNXhuPYvCXWmtORA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/corpgov_com_597/4b4117d0dd6aa9b76da0a3cfc736566b.png",
-      "published_at": "2026-08-19T22:17:54Z"
-    },
-    {
-      "id": "5be31235-4ab2-39af-9316-76fcaaa32c52",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "General Motors Raises Guidance as Truck Demand Offsets EV and Tariff Pressures",
-      "summary": "General Motors (NYSE:GM) Chief Financial Officer Paul Jacobson said the automaker’s first half performed “remarkably well,” supporting an increase in full-year guidance, while cautioning that the second half faces pressures from commodity inflation, onshoring costs and vehicle launch activity. Spea",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/general-motors-raises-guidance-as-truck-demand-offsets-ev-and-tariff-pressures-2026-08-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rO4cO83FT7PkYxYXMq7Qaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/b439e98d32d87176672c46d0e210edfe.jpg",
-      "published_at": "2026-08-19T22:16:13Z"
-    },
-    {
-      "id": "c709e63b-4548-3460-8a5d-0cfdd8e2597c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Exxon Stock Rises as Oil Nears $92 on Hormuz Risk",
-      "summary": "Restricted shipping and falling Russian exports are strengthening an already powerful cash-flow machine.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/energy/articles/exxon-stock-rises-oil-nears-215435932.html",
-      "thumbnail": "",
-      "published_at": "2026-08-19T21:54:35Z"
-    },
-    {
-      "id": "d62792bb-da91-3fff-af1b-4a3a0822d92b",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "3 Altcoins Grayscale Says Could Win From New US Token Rules",
-      "summary": "Grayscale names Ethereum, Solana, and BNB as altcoins that could win from new US token rules reviving token fundraising.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/grayscale-altcoins-new-us-token-rules/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IvUKaVALrw8jpgGr4hjcLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e023d02365b8cfacb939c05b5dee565f.jpg",
-      "published_at": "2026-08-19T21:26:58Z"
     }
   ]
 }
