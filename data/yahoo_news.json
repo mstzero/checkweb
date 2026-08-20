@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-20 06:40 UTC",
+  "last_updated": "2026-08-20 07:37 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c1e5029d-ccf8-3c95-ad71-90b356c61d81",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "S&P 500 Could Hit 8,000 Soon, Morningstar Says — CRM, NOW, WDAY And MSFT Lead The August Rebound",
+      "summary": "Salesforce, ServiceNow, Workday and Microsoft are leading a software rebound once thought unlikely amid AI disruption fears.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-8000-morningstar-crm-now-wday-msft-august-rebound/cZYIhnzRJm9",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3rSrLEJ5i_yDyIdD.uoLdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/59b609d91e1759c197b1127cd20e9122.jpg",
+      "published_at": "2026-08-20T06:52:49Z"
+    },
+    {
+      "id": "482f5e8b-7ff9-3cc0-875f-13d7653a234a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stripe agrees to acquire AI model router OpenRouter",
+      "summary": "The transaction was reportedly worth a little more than $8bn.",
+      "source": "Electronic Payments",
+      "url": "https://www.electronicpaymentsinternational.com/news/stripe-agrees-to-acquire-ai-model-router-openrouter/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bXWyhhsupjYxCLq_TKFt0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/electronic_payments_938/73ee9970afed944bb088bf4ef460eb1d.jpg",
+      "published_at": "2026-08-20T06:44:52Z"
+    },
+    {
+      "id": "9331d7ef-8bb1-3e17-a7ff-33cf48deb103",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin tops $69,000 as broad crypto rally gathers pace",
+      "summary": "Bitcoin was in demand again after a strong Wednesday after-hours session, which saw it move from $64,000 to briefly touch $70,000 for the first time since June as investors returned to riskier assets. In early trading on Thursday, the cryptocurrency was changing hands for $69,931.49, up...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097322/bitcoin-tops-69-000-as-broad-crypto-rally-gathers-pace-1097322.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/O63n7_FRcXEzh4Y.Y0Li0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/20914fedf3198d37b0ed1ddda81e4ad5.jpg",
+      "published_at": "2026-08-20T06:34:00Z"
+    },
     {
       "id": "1e131053-b89d-3784-af98-16113f80f2ad",
       "asset": "NVDA",
@@ -57,6 +90,28 @@
       "url": "https://finance.yahoo.com/news/dollar-hugs-three-month-lows-005324076.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lBpb6zkpPSkEM9tPehQWqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f4dad8a32f26ff6bbf774137d12c0855.jpg",
       "published_at": "2026-08-20T05:59:31Z"
+    },
+    {
+      "id": "6040a864-20a4-35cb-a888-a664ec7ae97b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nebius Increases Debt Raise Plan To $5B: Neocloud Operator Reportedly Bids For Decart AI Buyout Eyed by Anthropic",
+      "summary": "Nebius just announced its third major debt issue in a year to support its massive AI infrastructure expansion.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nebius-increases-debt-raise-plan-to-5-b-neocloud-operator-reportedly-bids-for-decart-ai-buyout-eyed-by-anthropic/cZYIXx7RJmI",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R9AEeN_oHRlmPynOCa.U9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/d4abf9e52125c2a53dc149ba9037aba7",
+      "published_at": "2026-08-20T05:47:26Z"
+    },
+    {
+      "id": "2b7683a5-2d20-3474-8995-407edc64e6f5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Own Too Much Nvidia? How to Deal With Capital Gains.",
+      "summary": "You could do a thought experiment to gauge your appetite for outsize holdings, says Cindy Wilson, a certified financial planner at HB Wealth in Alpharetta, Ga.  For example, if a client was sitting on a $500,000 position in  Apple  Wilson would ask, what if they had $500,000 in cash instead?  Before deciding whether to sell, consider how much capital-gains tax you may owe if you sell shares in a taxable account.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/retirement-capital-gains-taxes-88010c05?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hKwcCztkYnYyE4xU94a9Lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c4aec3425533f7c5c65188370a26fe89.jpg",
+      "published_at": "2026-08-20T05:30:00Z"
     },
     {
       "id": "8722e830-3ae0-326d-b6b8-ee91f75fa3cd",
@@ -255,61 +310,6 @@
       "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
       "published_at": "2026-08-20T01:47:00Z"
-    },
-    {
-      "id": "42a3ead9-66f4-35db-8f33-b5bfa16c1980",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Permian Resources (PR): Is the 55% Rally Just Getting Started?",
-      "summary": "Permian Resources Corporation (NYSE:PR) was held by 56 hedge funds at the end of Q1 2026, remaining unchanged from the previous quarter. However, the total stake value of these hedge fund investors surged from just over $1.2 billion in Q4 2025 to around $1.8 billion in the first quarter. Ken Griffin’s Citadel Investment Group held […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/permian-resources-pr-55-rally-013635256.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hQBIUmIYOU_l4Wvcgsc06Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/0c1fbd00e6f9de5afb355d6b623fff6f.jpg",
-      "published_at": "2026-08-20T01:36:35Z"
-    },
-    {
-      "id": "92bd639e-3780-3e20-a195-62dc22759a32",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
-      "summary": "Big Tech's AI data center spree still needs power and hardware. Three industrial stocks positioned to benefit: Caterpillar, Eaton, GE Vernova.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/big-tech-is-on-pace-to-spend-735-billion-on-ai-dat/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gRR04wYnCPWjXbHEvws4OQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e31c36821358a61a3839655de6fdfaf5.jpg",
-      "published_at": "2026-08-20T01:20:00Z"
-    },
-    {
-      "id": "4d6d48b6-52f8-3f8d-868a-e8e65a172036",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dart Mining to acquire 865km² Yamarna gold project as $2 million placement funds exploration",
-      "summary": "Dart Mining NL (ASX:DTM, OTC:DRTMF, FRA:IQR) has agreed to acquire an 865km² exploration package in Western Australia’s Yamarna district and secured firm commitments for a $2 million placement to fund exploration across the new project and its existing portfolio. The acquisition covers...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097305/dart-mining-to-acquire-865km-yamarna-gold-project-as-2-million-placement-funds-exploration-1097305.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZpTfyLbhb6xsCTK.GRz77w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/1ebd322150e28a6a448119eaa14a03fa.jpg",
-      "published_at": "2026-08-20T01:13:00Z"
-    },
-    {
-      "id": "2bce9db8-aaaa-3a00-81d5-5f4024dc4702",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Bitmine Immersion Technologies (BMNR) Stock Looks Cheap After A 61% Fall",
-      "summary": "Bitmine Immersion Technologies stock has fallen 61.1% over the past year, yet the market multiples currently screen it as undervalued while the broader valuation checks point to a less clear bargain. That mix is drawing attention to whether the recent share price levels still offer a margin of safety. Over the last 12 months, Bitmine Immersion Technologies has declined 61.1%, which puts recent short term gains in the context of a longer period of weak returns. Sentiment around digital assets...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-stock-011127698.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
-      "published_at": "2026-08-20T01:11:27Z"
-    },
-    {
-      "id": "1ee23e34-0426-3689-8596-baada53a1541",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Costco's latest deal: Get Medicare with that $1.50 hot dog and soda",
-      "summary": "Costco will team with nonprofit insurer SCAN Group to offer private, Medicare plans to customers in a limited number of states.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/money/2026/08/19/costco-medicare-plans-scan-group/91378331007/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ck1UCZs1VGVY4ojZN0WMOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/usa_today_money_325/fbaf844bf71131c880a5f20742e48f1f.jpg",
-      "published_at": "2026-08-20T01:04:34Z"
     }
   ]
 }
