@@ -1,8 +1,184 @@
 {
-  "last_updated": "2026-08-20 20:55 UTC",
+  "last_updated": "2026-08-20 21:24 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f738c040-36fc-3293-90e7-47023c9a48a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Your Muni Income Is Invisible to One Tax Break and Fatal to Another",
+      "summary": "Tax-exempt muni income sounds like a clean win until you discover it quietly works against two separate parts of your tax return in ways most investors never see coming.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/your-muni-income-is-invisible-to-one-tax-break-and-fatal-to-another/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N50mwDoLFhbn3UxDlEPnfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77f0c319a488b5e08d2a0f1ad8b73edb.jpg",
+      "published_at": "2026-08-20T21:15:35Z"
+    },
+    {
+      "id": "331b6110-f56d-3614-a144-34f0d5c79c37",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
+      "summary": "Semiconductor exposure is the most concentrated bet most retirement investors already own without realizing it, because chipmakers dominate the top of both the S&P 500 and Nasdaq-100. That reality is what makes sizing the First Trust Nasdaq Semiconductor ETF (NASDAQ:FTXL) a genuine portfolio decision rather than a simple allocation. FTXL is designed for investors who ... How Much of Your Portfolio Should Actually Be in FTXL",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-ftxl/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EcbTVRLcdcKLlc.ZS_vEHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2fbe2c8024783b5d2615c74bc2d6516e.jpg",
+      "published_at": "2026-08-20T21:15:32Z"
+    },
+    {
+      "id": "bd34ef32-bde1-37af-bf6c-6a50efb7c78e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now",
+      "summary": "FTXL has handed holders a stunning run, but the modified-equal-weight label that made the fund feel safe may be hiding a concentration problem that turns one bad earnings call into a portfolio event.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/the-biggest-risk-facing-the-first-trust-nasdaq-semiconductor-etf-ftxl-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ierXBJvqlrVUB243DG9Mqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ddbe12b8a46959ce3f30acb9bd0bc353.jpg",
+      "published_at": "2026-08-20T21:10:39Z"
+    },
+    {
+      "id": "3a8b2be0-fd62-3676-8adf-dc5f01c6c734",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Talos Energy, Transocean, HighPeak Energy, and Murphy Oil Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after energy prices soared as President Donald Trump announced broader economic warfare against Iran.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-transocean-highpeak-energy-210715028.html",
+      "thumbnail": "",
+      "published_at": "2026-08-20T21:07:15Z"
+    },
+    {
+      "id": "71f99d64-71da-354c-8392-5803eeafa665",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Goldman Sachs Just Paid $2.25 Billion for the Family Behind Your 14% Income Fund",
+      "summary": "Goldman Sachs just wrote a $2.25 billion check for the firm behind a beloved 14% income ETF, and the reason they paid that price says something uncomfortable about who that yield actually benefits.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/goldman-sachs-just-paid-2-25-billion-for-the-family-behind-your-14-income-fund/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5G73GKz_5uJbZ6z_aO6nfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/03d871c743df078728962ff7da62a29e.jpg",
+      "published_at": "2026-08-20T21:05:19Z"
+    },
+    {
+      "id": "5915bc4a-ec47-3154-acbf-c7e15cbe648c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
+      "summary": "The price of bitcoin rallied to a two-month high. Treasury bond plans spark short squeeze, Trump administration reaffirms crypto support.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RthTaLRSietnBY6kmQFBZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2ecbda34b5afe2eee61df4922f885507.jpg",
+      "published_at": "2026-08-20T21:05:06Z"
+    },
+    {
+      "id": "0621ab6f-1e11-3426-8d2c-a85df2984258",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "There’s a Black Market for Eli Lilly’s Unapproved GLP-1 Drug. Here’s Why That’s Bullish",
+      "summary": "Can anyone challenge Eli Lilly in the weight loss space?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/there-s-a-black-market-for-eli-lilly-s-unapproved-glp-1-drug-here-s-why-that-s-bullish/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FZQZCa9XjLamlUnZtc2xgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2df1aed803bdd94fa4901aa1f3755eb1.png",
+      "published_at": "2026-08-20T21:05:01Z"
+    },
+    {
+      "id": "b7a8ba4b-358d-3b5c-ace4-5a56257131c5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Data Centers Don't Just Need Power -- They Need Cooling. Trane and Carrier Sell It.",
+      "summary": "The HVAC giants are profiting from the AI boom.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/data-centers-dont-just-need-power-they-need-coolin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_phHrvUleKLWEOZry43WCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/64d7577b84476129f48832ce443c9c0a.jpg",
+      "published_at": "2026-08-20T21:05:00Z"
+    },
+    {
+      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
+      "published_at": "2026-08-20T21:03:30Z"
+    },
+    {
+      "id": "099098a8-1056-3bba-87da-1a622f855fc8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Trading Day: Can't get no relief",
+      "summary": "By Jamie McGeever ORLANDO, Florida, Aug 20 (Reuters) - That didn't last long.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/articles/trading-day-cant-no-relief-210231072.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZkRieyz1cbyw5zt99BAc0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7237ca6d18d21911a187288a53e60397.jpg",
+      "published_at": "2026-08-20T21:02:31Z"
+    },
+    {
+      "id": "6852b738-6298-36ad-8446-1f84cdd98a83",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
+      "summary": "Tesla built the line, and Tesla published its capacity. Even a first year running at that capacity barely moves a $95 billion revenue base.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/prediction-cybercab-adds-less-than-5-to-tesla-s-revenue-in-its-first-full-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cCE7UqU1TZu5YPjh2XgGHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/332740a3113d17a4783a9ed1c20e5234.jpg",
+      "published_at": "2026-08-20T21:01:01Z"
+    },
+    {
+      "id": "47a8ea7a-e24d-3c64-aff7-58212475f055",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "ETH's Comeback Is Overdue",
+      "summary": "ETH just outgained virtually every top 100 coin in a single day. Ethereum's fundamentals suggest there's more room to run.",
+      "source": "Bankless",
+      "url": "https://www.bankless.com/read/eths-comeback-is-overdue",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QEBnaMZjPFjixF34b5u91g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/f53a73875961790f3baa9317438e86cc.png",
+      "published_at": "2026-08-20T20:58:36Z"
+    },
+    {
+      "id": "23077288-d952-3cfe-93ab-ce390a13ae3e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Twin Disc, Incorporated Q4 2026 Earnings Call Summary",
+      "summary": "Moby summary of Twin Disc, Incorporated's Q4 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-twin-disc-incorporated-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JeW.EdDwS0GoIimEF1aL1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/5f029b10e621f8ea60be7b29dda32c90.png",
+      "published_at": "2026-08-20T20:58:07Z"
+    },
+    {
+      "id": "305aa908-3c58-3b19-a176-22a6d86ac1cf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Hovnanian Enterprises, Inc. Q3 2026 Earnings Call Summary",
+      "summary": "Moby summary of Hovnanian Enterprises, Inc.'s Q3 2026 earnings call",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-hovnanian-enterprises-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ItCsZ17vdpHezBGaIiFLPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/e7488130f5a6d4d4f6aa72e5327b46b4.png",
+      "published_at": "2026-08-20T20:56:10Z"
+    },
+    {
+      "id": "88d9bb51-0a56-3726-84e6-fccbcdbde716",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk points to one country as AI's biggest threat",
+      "summary": "Elon Musk has identified China as the strongest competitor the United States faces in artificial intelligence.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/elon-musk-points-to-one-country-as-ais-biggest-threat",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h5qQGJHAIIZyZrS7GzPCkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b88be661abb946877a1139367f2b4a52.jpg",
+      "published_at": "2026-08-20T20:55:00Z"
+    },
+    {
+      "id": "623f5032-b930-300c-b6f9-c19bd5c379da",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+      "summary": "By Sinéad Carew and Avinash P Aug 20 (Reuters) - The three main U.S. equity indexes closed lower on Thursday as rising Treasury yields dented risk appetite while disappointing results from retail",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-bond-101757250.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZNXYLZGMOewtBa7w1pARvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/45bce32071b651d3b02b2f6cb42ed472.jpg",
+      "published_at": "2026-08-20T20:51:18Z"
+    },
     {
       "id": "cb2583eb-feef-3d0b-a3fd-d2e4d9fadd1a",
       "asset": "BTC",
@@ -13,17 +189,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-mstr-shares-soaring-205115514.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3sDc8lzOA2PIl..QAGRCiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/4940b84d40152508fb68c66cd42708e7.jpg",
       "published_at": "2026-08-20T20:51:15Z"
-    },
-    {
-      "id": "c0db33c9-45ec-34c4-8da6-3870b70afa51",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Broadcom repoirtedly seeking to raise over $60 billion for AI chip deal",
-      "summary": "Investing.com -- Broadcom Inc. is negotiating with a group of lenders to secure more than $60 billion in debt financing for an artificial intelligence chip deal that would support Anthropic PBC and other companies, Bloomberg reported Thursday citing people familiar with the matter.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-repoirtedly-seeking-raise-over-204953745.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T20:49:53Z"
     },
     {
       "id": "bb119fff-9333-3921-ab31-94113e0ba79a",
@@ -37,48 +202,26 @@
       "published_at": "2026-08-20T20:47:28Z"
     },
     {
-      "id": "ab0cadfa-ac35-39ac-a36d-4d66d8e0b357",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "B.O.S. Better Online Solutions Ltd. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of B.O.S. Better Online Solutions Ltd.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-bos-better-online-solutions-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qaYIsf.BS5zt60zZdiasVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/d9acb5915bd42a689897f7097f2fb382.png",
-      "published_at": "2026-08-20T20:46:32Z"
+      "id": "4c0494c7-2c1e-38e9-bdbe-d350f89fdcab",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Einride targets 1,500 trucks by 2028 with Tesla and DAF deals",
+      "summary": "Revenue rose 26% to $27 million in the first half. Management expects 60–73% growth in the second half while scaling via partner trucks. The post Einride targets 1,500 trucks by 2028 with Tesla and DAF deals appeared first on FreightWaves.",
+      "source": "FreightWaves",
+      "url": "https://finance.yahoo.com/technology/articles/einride-targets-1-500-trucks-204613883.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yrrHkZ1rOBnJBeJF62K.Nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/freightwaves_373/b566154118e944d6ab302e15618af1d8.jpg",
+      "published_at": "2026-08-20T20:46:13Z"
     },
     {
-      "id": "6ec60b55-5e20-31b0-897b-dbd1267a73c7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "LSI Industries Inc. Q4 2026 Earnings Call Summary",
-      "summary": "Moby summary of LSI Industries Inc.'s Q4 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lsi-industries-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TTVrFh5TEaO2YZUkfiuPOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/d26cf0b3fa08072ef2f9045c039d9535.png",
-      "published_at": "2026-08-20T20:46:30Z"
-    },
-    {
-      "id": "74f3e96a-8364-3461-b842-973e3e317f78",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Estee Lauder Rallied This Week",
-      "summary": "Management gave a positive update on the company's multi-year turnaround efforts.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/why-estee-lauder-rallied-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hIV_8142IIaucM0Tzni1sQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e288a25cd20af77eb7777af52008ed36.jpg",
-      "published_at": "2026-08-20T20:42:16Z"
-    },
-    {
-      "id": "ca41e5ac-8c40-39ca-bc28-843c4c495933",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD Just Split Two of Wall Street’s Biggest Contrarian Investors",
-      "summary": "Cathie Wood and Stanley Druckenmiller are looking at the same AI chip stock and moving in opposite directions. ARK Invest sold 25,917 Advanced Micro Devices, Inc. (NASDAQ:AMD) shares across four ETFs on August 17 while simultaneously adding Nvidia across five funds. The move continued a pattern of trimming AMD exposure: ARK’s second-quarter filing showed about […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-split-two-wall-203344035.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RLcDbhxLjedyjWhmy6fkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1e85b81aa18457637c55df2e7f588803.jpg",
-      "published_at": "2026-08-20T20:33:44Z"
+      "id": "c5b60fc4-4f18-356d-b77d-37516ab484fb",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
+      "summary": "Bitcoin's surge above $72,000 wiped out billions in bearish bets, but analysts say fresh buying will be needed to keep the rally going.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8qyWc_ouNJXiqQM8sLIuIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/1187c606d3c668e87f92bdbc425558ce.png",
+      "published_at": "2026-08-20T20:40:56Z"
     },
     {
       "id": "ce9ea4ec-a766-366b-9f0b-adfb4e5dec37",
@@ -90,28 +233,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-trump-203003295.html",
       "thumbnail": "",
       "published_at": "2026-08-20T20:30:03Z"
-    },
-    {
-      "id": "4c8b2429-18f6-3005-aee7-401e291d4950",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Investor David Tepper Recently Dumped Appaloosa Management's Stake in Sandisk and Initiated a New Position In a Stock That Some Wall Street Experts Think Could Eventually Be Worth $10 Trillion",
-      "summary": "Tepper's track record makes him one of the best in the business.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/billionaire-investor-david-tepper-recently-dumped/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sKbk6TAc6PjMc3N4ZD7jBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bfa5a7573b3db8e7cc9caabdaf12846a.jpg",
-      "published_at": "2026-08-20T20:25:00Z"
-    },
-    {
-      "id": "5915bc4a-ec47-3154-acbf-c7e15cbe648c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
-      "summary": "The price of bitcoin rallied to a two-month high. Treasury bond plans spark short squeeze, Trump administration reaffirms crypto support.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RthTaLRSietnBY6kmQFBZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2ecbda34b5afe2eee61df4922f885507.jpg",
-      "published_at": "2026-08-20T20:22:51Z"
     },
     {
       "id": "5cc6cd11-5f8a-3de6-990e-dc15f664ed83",
@@ -136,17 +257,6 @@
       "published_at": "2026-08-20T20:22:16Z"
     },
     {
-      "id": "5a153e03-e2a8-3196-b0d4-a65c7f38f5ac",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into",
-      "summary": "Stanley Druckenmiller's investment firm just swapped out Broadcom for a member of the \"Magnificent Seven.\"",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/billionaire-stanley-druckenmiller-sold-broadcom-an/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FAoCLFyteTAVkB63U1qYAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9377122baa8cc1014db239805df01cf1.png",
-      "published_at": "2026-08-20T20:20:00Z"
-    },
-    {
       "id": "40d8be5f-a978-3890-b53f-f37e822f12e6",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -156,17 +266,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201737542.html",
       "thumbnail": "",
       "published_at": "2026-08-20T20:17:37Z"
-    },
-    {
-      "id": "94f1fd07-68e9-3908-8169-5dca6592aeb7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Grok 4.6 Matches the Frontier Models at a 60% Discount. Now SpaceX Has the Developers to Use It.",
-      "summary": "Coding is one of the largest categories of enterprise AI spending, and Cursor delivers the customers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/grok-46-matches-the-frontier-models-at-a-60-discou/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MdVaq6hu3ssVnH45vPgKgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60555626a6a69057f0f178acad87546f.jpg",
-      "published_at": "2026-08-20T20:13:00Z"
     },
     {
       "id": "976f14cc-8dd7-3d33-b68f-6c01c2b50a8f",
@@ -191,6 +290,17 @@
       "published_at": "2026-08-20T20:10:00Z"
     },
     {
+      "id": "31a2a2b9-b4ec-3d47-a337-75928b46aece",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "8-20-2026: Middle East Tensions, Treasury Buybacks + Crypto's Big Comeback",
+      "summary": "Michael Reinking, Senior Market Strategist at the NYSE, recaps a week dominated by Treasury Secretary Bessent, whose doubled liquidity support buybacks reignited the debasement trade, sending gold back above 4,500 and triggering a massive crypto short squeeze that propelled Bitcoin up ~15% and Ethereum up 25%. Escalating Iran tensions pushed ICE Brent into the low 90s after a 60-day ceasefire expired, while equity markets drifted lower with the S&P 500 down ~1.5% as retail earnings disappointed broadly and healthcare surged nearly 4% on landmark cancer trial results from Merck and Moderna. Looking ahead, next week's PCE print, Nvidia earnings, and Fed Chair Warsh's first Jackson Hole speech are the marquee events to watch.",
+      "source": "NYSE",
+      "url": "https://finance.yahoo.com/video/8-20-2026-middle-east-200953286.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q13So2uKJ7hg0nITTHE3_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/nyse_video_805/a6c75e1eb33d87ede0f7f216441c075f.png",
+      "published_at": "2026-08-20T20:09:53Z"
+    },
+    {
       "id": "0f47c93d-c6ab-31ee-9b4a-3457e2c92383",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -200,116 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-200451435.html",
       "thumbnail": "",
       "published_at": "2026-08-20T20:04:51Z"
-    },
-    {
-      "id": "41bd1ab5-0c75-3b4e-a339-7239621d8d40",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Automatic Data Processing vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?",
-      "summary": "ADP's 20% net margin and $5.2B free cash flow contrast sharply with Microsoft's 40% margin and $67B cash generation, revealing starkly different paths to shareholder value.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/better-buy/2026/08/20/automatic-data-processing-vs-microsoft-which-technology-stock-is-a-better-buy-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JbzsRE7aghzGMbKiw.r3Xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/464e1ae7311cbacdad796d04904b9f4e.png",
-      "published_at": "2026-08-20T20:04:01Z"
-    },
-    {
-      "id": "31fc1655-69bb-337d-9b8b-6f7e70a47ac3",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "JPMorgan Hints At Another Delay For Tesla Optimus Release",
-      "summary": "A new JPMorgan analyst report outlines a longer timeline for the eventual release of Tesla's Optimus robots. Tesla stock is down 1.7% on Thursday.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/tesla-optimus-robots-elon-musk-tesla-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/REWwinC9pT5gnsxICUOakQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/61c267cf2365a9610ec81424a2ade34e.jpg",
-      "published_at": "2026-08-20T20:00:56Z"
-    },
-    {
-      "id": "623f5032-b930-300c-b6f9-c19bd5c379da",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
-      "summary": "By Sinéad Carew and Avinash P Aug 20 (Reuters) - The three main U.S. equity indexes closed lower on Thursday as rising Treasury yields dented risk appetite, disappointing results from retail",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-bond-101757250.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oLAxlFL5RYynsPf7IIC6Mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f113a84a377d7a79e340216002a235e0.jpg",
-      "published_at": "2026-08-20T20:00:32Z"
-    },
-    {
-      "id": "8a58ced3-5ad2-3211-84cf-576b7e990b84",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sector Update: Energy Stocks Advance Late Afternoon",
-      "summary": "Energy stocks rose late Thursday afternoon with the NYSE Energy Sector Index increasing 0.9% and the",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-195914100.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T19:59:14Z"
-    },
-    {
-      "id": "43af0eff-1170-31c2-aba3-4b3f0191d9eb",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Kestra Financial Taps BlackRock Veteran to Head Wealth Management",
-      "summary": "Kelly Apple will lead Kestra’s wealth division as it looks to bolster the services it offers to financial advisors.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/kestra-financial-hires-blackrock-veteran-to-head-wealth-management-e69eb8d1?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pKBDjYDy10dN3ur_JsKupQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c7c45fe21cedf4e5207f1c6abec18b38.jpg",
-      "published_at": "2026-08-20T19:59:00Z"
-    },
-    {
-      "id": "6c5bee54-39ba-3b1c-bbb4-34a1d386b8ec",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Dollar rebounds from losses sparked by Treasury buyback plan",
-      "summary": "By Karen Brettell NEW YORK, Aug 20 (Reuters) - The U.S. dollar rebounded from earlier losses to post a modest gain on Thursday as traders evaluated whether U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/dollar-hugs-three-month-lows-005324076.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WGQLkk3IXT3B7XkKTbxSjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1bdb4425309c195905c7aa29ab76886f.jpg",
-      "published_at": "2026-08-20T19:55:26Z"
-    },
-    {
-      "id": "933cc1be-926a-3514-a939-0e4201889593",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Indexes Fall as Oil Prices Increase After Trump Vows Economic Warfare Against Iran",
-      "summary": "US equity indexes fell ahead of the close on Thursday as bond yields and oil prices surged after Pre",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-oil-194505779.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T19:45:05Z"
-    },
-    {
-      "id": "61798009-3fb1-3422-93fd-1e0794ccec37",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Gets Slammed as Walmart Falls 9% and Long-Term Yields Jump",
-      "summary": "Stocks Tumble as Walmart Collapse and Higher Bond Yields Rattle Investors",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-gets-slammed-walmart-falls-194413071.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T19:44:13Z"
-    },
-    {
-      "id": "51ccc772-8891-44b0-9e83-b954b81074a7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Waymo is making its own AI chip for its robotaxi service",
-      "summary": "Autonomous rideshare operator — which is owned by Alphabet (GOOG, GOOGL) — has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M_G_8XMDA8c2_k2bppIk8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/36d74042-deab-436e-859f-bb7e56acdec4_6a3d52001e8424d0fa03ada9a1e799f106e45520b03a59d88e28c466b249abd8.jpg",
-      "published_at": "2026-08-20T19:43:18Z"
-    },
-    {
-      "id": "13de0d21-8585-345d-ad25-e5b0319ad885",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
-      "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-194247445.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T19:42:47Z"
     }
   ]
 }
