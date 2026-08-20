@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-08-20 19:27 UTC",
+  "last_updated": "2026-08-20 19:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c5a49496-960c-3d77-81a2-b052504dd237",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Walmart Stock Just Crashed 10%, but This Top Analyst Is Bullish for 3 Reasons",
+      "summary": "Walmart just posted its weakest comparable sales in over a year and the stock is sliding hard, yet one top UBS analyst is doubling down on his buy rating and says the three forces that drove shares to record highs are still very much in play.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/walmart-stock-just-crashed-10-but-this-top-analyst-is-bullish-for-3-reasons/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MJzLFMXvn8pz1RO.jL9NPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7e5fafcceab695dda4908488a1b482b6.jpg",
+      "published_at": "2026-08-20T19:48:03Z"
+    },
+    {
+      "id": "933cc1be-926a-3514-a939-0e4201889593",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Equity Indexes Fall as Oil Prices Increase After Trump Vows Economic Warfare Against Iran",
+      "summary": "US equity indexes fell ahead of the close on Thursday as bond yields and oil prices surged after Pre",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-oil-194505779.html",
+      "thumbnail": "",
+      "published_at": "2026-08-20T19:45:05Z"
+    },
+    {
+      "id": "61798009-3fb1-3422-93fd-1e0794ccec37",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Gets Slammed as Walmart Falls 9% and Long-Term Yields Jump",
+      "summary": "Stocks Tumble as Walmart Collapse and Higher Bond Yields Rattle Investors",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-gets-slammed-walmart-falls-194413071.html",
+      "thumbnail": "",
+      "published_at": "2026-08-20T19:44:13Z"
+    },
+    {
+      "id": "51ccc772-8891-44b0-9e83-b954b81074a7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Waymo is making its own AI chip for its robotaxi service",
+      "summary": "Autonomous rideshare operator — which is owned by Alphabet (GOOG, GOOGL) — has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/waymo-is-making-its-own-ai-chip-for-its-robotaxi-service-194318039.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M_G_8XMDA8c2_k2bppIk8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/36d74042-deab-436e-859f-bb7e56acdec4_6a3d52001e8424d0fa03ada9a1e799f106e45520b03a59d88e28c466b249abd8.jpg",
+      "published_at": "2026-08-20T19:43:18Z"
+    },
+    {
+      "id": "e5e4a315-3b56-302b-8023-20ccea681dbf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "US Debt Just Hit $40 Trillion and the 30-Year Yield Is Still Above 5%: Why Buffett’s Berkshire Owns Businesses, Not Bonds",
+      "summary": "Federal debt just crossed a staggering new threshold while Treasury scrambles to prop up the bond market, and the intervention collapsed within 24 hours. Where Berkshire puts its money instead reveals something most retirees holding long bonds have not yet reckoned with.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/us-debt-just-hit-40-trillion-and-the-30-year-yield-is-still-above-5-why-buffetts-berkshire-owns-businesses-not-bonds/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Wyj.SXGffnQEhUQ4oPPgQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/28e9dca34a89254a46ee4645e85680b5.jpg",
+      "published_at": "2026-08-20T19:42:47Z"
+    },
+    {
+      "id": "13de0d21-8585-345d-ad25-e5b0319ad885",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+      "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-194247445.html",
+      "thumbnail": "",
+      "published_at": "2026-08-20T19:42:47Z"
+    },
+    {
+      "id": "f02ddf32-6560-38c3-a63e-3ae15d504378",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Billionaire says Bitcoin’s $72K rally is a fakeout, sell it and buy gold",
+      "summary": "Veteran gold advocate Peter Schiff has dismissed Bitcoin’s recent climb above $72,000 as a temporary move rather than the start of a sustained advance.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-vs-gold-billionaire-says-bitcoins-72k-rally-is-a-fakeout-sell-it-buy-gold",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/llRJFgGA3P6hk6h83ROOZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4616e42ce5954e00892b3b238d7433ba.jpg",
+      "published_at": "2026-08-20T19:42:39Z"
+    },
+    {
+      "id": "50c7fb59-5ada-35ff-9e0b-712bb4255b9f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Burger King's $700 Million Fix Is Paying Off for Restaurant Brands International",
+      "summary": "Tim Hortons' business is cooling off just as Burger King is starting to pull its weight.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/burger-kings-700-million-fix-is-paying-off-for-res/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TsxvEpHrUevbEOhtkGMm0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/616c9442d594e847be852cb77759eb30.jpg",
+      "published_at": "2026-08-20T19:35:00Z"
+    },
+    {
+      "id": "d9f84f12-3d67-32e8-b421-c6c76284e667",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US stocks fall as bond yields rebound despite Treasury moves, oil rises",
+      "summary": "Wall Street stocks fell Thursday as government bond yields rebounded despite a fresh pledge from US Treasury Secretary Scott Bessent to push yields lower.While the announcement had pushed rates lower on Wednesday, yields ticked higher again Thursday in a sign that analysts said showed skepticism that the plan would succeed.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-us-treasury-075232951.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/47PV4fxxbWG9VWuIh7gNNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/ef113083d7bd7af000797ab6185942d5.jpg",
+      "published_at": "2026-08-20T19:30:52Z"
+    },
+    {
+      "id": "26223c3a-51dd-33f8-9b70-e5bd4750127b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Pro-DEI Companies Are Are Doing Just Fine According To New Study",
+      "summary": "Despite the conservative push to end diversity, equity, and inclusion (DEI) initiatives in corporate America, new research shows that companies that did not heed the “go woke, go broke” warning...",
+      "source": "Black Enterprise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pro-dei-companies-doing-just-193017443.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/etUno3AuW6Mdkif.yVKAcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/black_enterprise_497/051a524c3866cae1eeefe31e7fd750b8.jpg",
+      "published_at": "2026-08-20T19:30:17Z"
+    },
+    {
+      "id": "2054940b-9fad-31ca-9f28-d343914730b5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is Rocket Lab Stock a Buy After Its Big Contract Win?",
+      "summary": "A huge win for Rocket Lab may not be quite so big as it seems.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/is-hot-ticker-stock-a-buy-after-its-big-contract-w/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4KRuB..W_JwKZHSt10te.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/59105bfef4ef07e1e8c56af487130927.jpg",
+      "published_at": "2026-08-20T19:25:00Z"
+    },
+    {
+      "id": "64fb748c-7b0e-3ca5-bb62-61d956a1e928",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Which Airline Stock Is Dominating in 2026: United, American, or Delta?",
+      "summary": "Three major airlines flew the same turbulent skies in 2026, yet their stock performance landed in completely different places. The reason comes down to one structural advantage that only one carrier built into its business model before fuel prices started climbing.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/20/which-airline-stock-is-dominating-in-2026-united-american-or-delta/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8zOI1HzysIr1oTttLQMGTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5a6d74c06873178dacb3f2b20ad27d02.jpg",
+      "published_at": "2026-08-20T19:22:58Z"
+    },
     {
       "id": "98d9b05d-6126-3a02-9185-c34472e10134",
       "asset": "NVDA",
@@ -48,6 +180,17 @@
       "published_at": "2026-08-20T19:16:26Z"
     },
     {
+      "id": "20235af3-ca1c-31d1-907f-5366cfd2c470",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+      "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1uSPEozm.Y7bMdcxLsIz5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/928d9acaaa5e0879e830f9315aeac8df.png",
+      "published_at": "2026-08-20T19:16:05Z"
+    },
+    {
       "id": "c7735b55-596a-33a4-ab1d-c347d86a3388",
       "asset": "ETH",
       "asset_name": "Ethereum",
@@ -81,15 +224,15 @@
       "published_at": "2026-08-20T19:09:58Z"
     },
     {
-      "id": "2eae6835-2269-34fa-985b-9e4783c63659",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Restaurant Stock Is Dominating in 2026: McDonald’s, Chipotle, or Starbucks?",
-      "summary": "One restaurant chain is trading at a sky-high valuation while another has shed double digits this year, and the market's verdict defies everything a shaky consumer economy would predict about which business wins.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/which-restaurant-stock-has-dominated-in-2026-mcdonalds-chipotle-or-starbucks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l.Hr7LcX5vITG4sqsVbbeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7097fb1c93e94c7fea56b59e91151754.jpg",
-      "published_at": "2026-08-20T19:07:03Z"
+      "id": "29de3624-896a-38fe-b298-7d5e22fb6e16",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "What Does IREN (NasdaqGS:IREN) Leading In AI Revenue Efficiency Mean For Investors?",
+      "summary": "NasdaqGS:IREN is reported to lead CoreWeave in contracted revenue per megawatt of AI infrastructure capacity, underscoring higher monetization efficiency. Investor Stanley Druckenmiller’s Duquesne Family Office has shifted exposure into Bitcoin mining companies, adding institutional attention to operators with scalable power and computing capacity such as IREN. Both developments highlight IREN’s role in the commercial build out of AI infrastructure and high density computing. For a broader...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-iren-nasdaqgs-iren-leading-190915862.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
+      "published_at": "2026-08-20T19:09:15Z"
     },
     {
       "id": "3023842d-905d-372f-8f0b-4b0b521108af",
@@ -112,61 +255,6 @@
       "url": "https://www.fool.com/investing/2026/08/20/why-does-bitcoin-keep-gaining/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MXusyCBoxZ_s3AIjjkho4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8a088849e7964ae527a6da5dbb5a11c4.jpg",
       "published_at": "2026-08-20T19:06:13Z"
-    },
-    {
-      "id": "21320d98-b350-3bf9-bb80-b723c5aa0e41",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Webull Stock Is Up Today",
-      "summary": "Record trading volumes are driving profits sharply higher.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/why-webull-stock-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_USkM3BMrjErBfJdO3twMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3e7eb267a2e67fdfcf32bd67d80fca8d.jpg",
-      "published_at": "2026-08-20T19:05:39Z"
-    },
-    {
-      "id": "45f7e757-d787-358e-8f97-ced13c474802",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Opendoor Is Repurchasing 5% of Its Outstanding Shares. Here's What That Means for the Company.",
-      "summary": "The company is trying to mount a turnaround during a troubled time for the housing market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/opendoor-is-repurchasing-5-of-its-outstanding-shar/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_bWzHlQr4BHiR7rFO8PPvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a20c5e8361fa5e59aae221c7e227aaeb.jpg",
-      "published_at": "2026-08-20T19:04:00Z"
-    },
-    {
-      "id": "21588a16-4067-3025-83e5-d92a88aa5f4b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Heavy Machinery Stock Is Dominating in 2026: Caterpillar, Deere, or PACCAR?",
-      "summary": "One heavy machinery giant is beating Wall Street while its entire industry collapses around it, and another is riding three booming end markets at once. The 2026 scoreboard reveals how differently construction, agriculture, and freight cycles reward patient investors.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/which-heavy-machinery-stock-has-dominated-in-2026-caterpillar-deere-or-paccar/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fbSeAdymDnppth0HBXZFqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ded8e11f2de4d2f8e272c1c6c97c4063.jpg",
-      "published_at": "2026-08-20T18:55:19Z"
-    },
-    {
-      "id": "bd201a47-69a1-31cf-a98a-179a63853ffc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Top Meta Reporter: Zuckerberg Dropped a Major Hint About Meta’s Next AI Breakthrough and Nobody’s Paying Attention",
-      "summary": "Mark Zuckerberg told a top Meta journalist something about the company's AI roadmap that reframes every complaint about the $145 billion capex as potentially missing the point entirely.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/top-meta-reporter-zuckerberg-dropped-a-major-hint-about-metas-next-ai-breakthrough-and-nobodys-paying-attention/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SuCzPIQHDoqvJA_hQASp5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bf4d3d494adf959c4e606c480a61008a.jpg",
-      "published_at": "2026-08-20T18:54:07Z"
-    },
-    {
-      "id": "67aed4ab-02bf-32ef-9e74-40108da47e24",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Broadcom vs. AMD vs. Nvidia: Three Different AI Chip Strategies, Three Very Different Valuations. Here's the Metric That Explains the Gap.",
-      "summary": "Nvidia's AI ecosystem gives it an edge in the AI chip trade -- here's how Broadcom and AMD stack up.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CkkOUjQ1OmVO9uZfUZ.jRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/430078a359d140acddc9371e0c3e5510.jpg",
-      "published_at": "2026-08-20T18:53:00Z"
     },
     {
       "id": "87b38ccd-f019-3558-af59-c88e4fec4c56",
@@ -222,94 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/20/ford-drops-4-as-bronco-pickup-rally-fades-tesla-slips-general-motors-inches-higher-whats-behind-the-auto-stock-differential/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6SZ8rJDMi.Qw5akdEYYJfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/523337b07bce54a90dc33bec1da6f2be.jpg",
       "published_at": "2026-08-20T18:34:19Z"
-    },
-    {
-      "id": "37b9fc86-b1c9-3e04-851c-1d42025ece5a",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Coeur Mining Diversifies Your Portfolio And Amplifies Its Swings",
-      "summary": "A low correlation to the market is not the same thing as a calm holding, and this gold and silver miner shows why.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612231/coeur-mining-diversifies-your-portfolio-and-amplifies-its-swings/2026-08-20",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LMHG3P8FLkI58_SKp_fBag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/3e03bd88906615721c111f7aa0ab24ca.jpg",
-      "published_at": "2026-08-20T18:32:19Z"
-    },
-    {
-      "id": "a6796e5d-aa73-3687-a886-ac077eb69e6a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple's AI AirPods Are Still Coming in 2027",
-      "summary": "The camera-equipped earbuds could bring Visual Intelligence to AirPods.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apples-ai-airpods-still-coming-183201762.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T18:32:01Z"
-    },
-    {
-      "id": "22d4806c-efbd-3dff-8ae2-be520a47fca7",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff",
-      "summary": "While the rest of the tech sector bleeds red Thursday, memory stocks are defying gravity, and the catalyst powering the biggest winner has nothing to do with AI chips.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KdAs_.NWgC02kZrK3VeBsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8f4f2a4ef9ffd24869a793f5da2e0441.jpg",
-      "published_at": "2026-08-20T18:31:39Z"
-    },
-    {
-      "id": "8519ac07-d3db-33d8-b03f-860a574bd99f",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "CoreWeave Signs Hudson River Trading to a Multiyear AI Deal",
-      "summary": "HRT becomes one of the first customers with wide-scale access to Nvidia's Vera Rubin chips",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-signs-hudson-river-trading-183053735.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T18:30:53Z"
-    },
-    {
-      "id": "996a497f-4fa9-35b0-8ecb-a9cd3ac3caf9",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Looks 30% Overvalued as Earnings Keep Shrinking",
-      "summary": "Adobe and Intuit screen far cheaper on earnings and fair value.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-looks-30-overvalued-earnings-182751529.html",
-      "thumbnail": "",
-      "published_at": "2026-08-20T18:27:51Z"
-    },
-    {
-      "id": "2b3d7611-ddf6-4780-88a3-991bfedfde48",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stablecoins join the payment conversation at X",
-      "summary": "Scott Melker breaks down Elon Musk’s X exploring stablecoin payments for creators, and what the move could mean for the future of payments on the platform. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/stablecoins-join-payment-conversation-x-182300400.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IMFsaMgLB.FRVKUvwtvPGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/31c60a5b-2f75-4de7-a25f-51cf9563a1b5",
-      "published_at": "2026-08-20T18:23:00Z"
-    },
-    {
-      "id": "2dd92b76-0b7a-396d-9e09-cec5459f7be1",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Meta Is Now One of Microsoft's Largest AI Customers",
-      "summary": "Meta has quietly become one of Microsoft's largest AI customers, spending hundreds of millions of dollars a year to access the Azure cloud service - and reviving concerns around circular business dealings in the AI space. Bloomberg's Brody Ford joins Ed Ludlow on \"Bloomberg Tech.\"",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/meta-now-one-microsofts-largest-181732793.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.AJwLQYF26WbmAa1zkL5bw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/f00bba693125928b51d27cf362d56e7d.jpg",
-      "published_at": "2026-08-20T18:17:32Z"
-    },
-    {
-      "id": "1c35b804-5cd1-32a9-b23b-633796fd9b2c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy (MSTR) Pauses Bitcoin Purchases As Saylor Urges Patience After $334 Million Raise",
-      "summary": "Strategy Inc. (NasdaqGS:MSTR) paused its ongoing Bitcoin acquisition program following recent stock sales, surprising some Bitcoin focused investors. Executive Chairman Michael Saylor urged shareholders to focus on long term holding and patience rather than immediate new Bitcoin purchases. The pause marks a shift from Strategy's previously aggressive Bitcoin treasury approach and has drawn disappointment from some Bitcoin supporters. This company is far from the only stock tied closely to...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-pauses-bitcoin-purchases-181306492.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
-      "published_at": "2026-08-20T18:13:06Z"
     }
   ]
 }
