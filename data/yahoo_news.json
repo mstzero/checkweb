@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-20 23:21 UTC",
+  "last_updated": "2026-08-20 23:49 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
+      "published_at": "2026-08-20T23:20:29Z"
+    },
+    {
+      "id": "992ccc51-f901-36be-a424-8daa6ca80a0d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AT&T (T) Says It’s Not Scared of the “Token Apocalypse.” NVIDIA Corporation (NVDA)’s CEO Is Cheering the Same Trend",
+      "summary": "On August 12, AT&T Inc. (NYSE:T) Chief Data and AI Officer Andy Markus said OpenAI models already power about 25% of the telecom’s total AI usage, with a target of 70% to 80% over time. On the other hand, NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang has spent the past month leading a consortium of companies […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Frc6835qw8v9G.HBQv6Kjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/101b148d88f043f017180ca8b31d9a4a.jpg",
+      "published_at": "2026-08-20T23:19:33Z"
+    },
+    {
+      "id": "67652ba7-7951-37e0-b603-8efe17eeb449",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Inc. (AAPL) Wants to Pay Publishers to Fix Siri. What’s the Catch?",
+      "summary": "On August 12, 2026, the Wall Street Journal reported that Apple Inc. (NASDAQ:AAPL) is discussing new, multiyear deals with publishers to license their content for an AI-upgraded Siri expected to launch later this year. Why This Matters Siri has been criticized for years for lacking real utility. Apple’s fix depends partly on paying outside publishers […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-inc-aapl-wants-pay-231402505.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/guI8jCREpGNRSpogsdXpuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84.jpg",
+      "published_at": "2026-08-20T23:14:02Z"
+    },
     {
       "id": "1092e007-aa36-3c90-accc-2f16ea0951d0",
       "asset": "MSFT",
@@ -24,17 +57,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/trane-technologies-plc-tt-eaton-225548421.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RpxOw.88ZWLPAzyTFAxCeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/951f3ce537207b6f1b39bd355c3a8bc2.jpg",
       "published_at": "2026-08-20T22:55:48Z"
-    },
-    {
-      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
-      "published_at": "2026-08-20T22:55:21Z"
     },
     {
       "id": "0391c59e-31cd-3838-a77a-db0054939a68",
@@ -169,17 +191,6 @@
       "published_at": "2026-08-20T22:05:18Z"
     },
     {
-      "id": "649a2b15-db0c-3153-9c82-43d9349d7451",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Moderna's Comeback Is Finally Taking Shape -- and There May Be More Upside Ahead",
-      "summary": "Breaking news: Moderna isn't just a \"pandemic stock\" after all.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/modernas-comeback-is-finally-taking-shape-and-ther/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DUl9SLpUKaRzfBlrVNhl7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ccaf4148e40650f2f822e0994d866592.jpg",
-      "published_at": "2026-08-20T22:05:00Z"
-    },
-    {
       "id": "18c6aca7-42f6-3872-ab64-acb1737b527e",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-transocean-highpeak-energy-210715028.html",
       "thumbnail": "",
       "published_at": "2026-08-20T21:07:15Z"
-    },
-    {
-      "id": "71f99d64-71da-354c-8392-5803eeafa665",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Goldman Sachs Just Paid $2.25 Billion for the Family Behind Your 14% Income Fund",
-      "summary": "Goldman Sachs just wrote a $2.25 billion check for the firm behind a beloved 14% income ETF, and the reason they paid that price says something uncomfortable about who that yield actually benefits.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/20/goldman-sachs-just-paid-2-25-billion-for-the-family-behind-your-14-income-fund/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5G73GKz_5uJbZ6z_aO6nfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/03d871c743df078728962ff7da62a29e.jpg",
-      "published_at": "2026-08-20T21:05:19Z"
     }
   ]
 }
