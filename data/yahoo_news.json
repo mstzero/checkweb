@@ -1,18 +1,73 @@
 {
-  "last_updated": "2026-08-21 10:25 UTC",
+  "last_updated": "2026-08-21 10:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "8a1f38ca-b91a-34b1-9a45-133976f5f4ad",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "$207 Billion Left the Banking System in a Month. Nobody Flinched",
+      "summary": "Two hundred billion dollars drained out of the private banking system in a single month, and markets celebrated like nothing happened. Someone is either very calm or very wrong.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/207-billion-left-the-banking-system-in-a-month-nobody-flinched/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cPr6bIVELSiYRdkeA4Z7IA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/743b548aa9c20d4fca164297b845c7ca.jpg",
+      "published_at": "2026-08-21T10:48:25Z"
+    },
+    {
+      "id": "09085114-4a4c-32e8-94b8-31a0166ea315",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin surges over 25% as shorts get squeezed and Washington leans into crypto",
+      "summary": "Bitcoin has stormed back from a months-long downtrend, tearing through $79,500 on Friday as a wave of short covering collided with a US Treasury liquidity push and a fresh White House embrace of the crypto industry.View on euronews",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/08/21/bitcoin-surges-over-25-as-shorts-get-squeezed-and-washington-leans-into-crypto",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kcab1Aq5vYO_.INo3GhYoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/euronews_us_articles_576/e5468b37314bea400c4c76998faebdd2.jpg",
+      "published_at": "2026-08-21T10:42:23Z"
+    },
+    {
       "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dow Jones Futures Rise After Market Triggers Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging",
+      "summary": "Futures rose after the Nasdaq closed below its Aug. 4 low, a bearish market signal. Bitcoin momentum continues.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
-      "published_at": "2026-08-21T10:16:05Z"
+      "published_at": "2026-08-21T10:39:46Z"
+    },
+    {
+      "id": "97330f38-4c5a-3d11-8b78-d2dbcd4778ca",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Bond Yields, Oil Prices Cap Asian Stock Markets",
+      "summary": "Asian stock markets were mixed on Friday, as traders weighed rising bond yields and Persian Gulf tur",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/bond-yields-oil-prices-cap-103623818.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T10:36:23Z"
+    },
+    {
+      "id": "6d929d46-2c9b-3660-a16f-ec2b820af04a",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "This Institutional Investor Thinks Ethereum Will Outperform Solana During the Next 12 Months. Could It Happen?",
+      "summary": "Ethereum has major catalysts on the way, but Solana could achieve even bigger accomplishments first.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/this-institutional-investor-thinks-ethereum-will-o/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UduZJb7P4JtlsnqErupKGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b9f1a13b40297f5990feaac6201b6535.jpg",
+      "published_at": "2026-08-21T10:35:00Z"
+    },
+    {
+      "id": "75e59a65-7393-363f-af4b-1945c938c87d",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "S&P Global (SPGI) Deepens Microsoft AI Tie Up, Is It Fully Priced?",
+      "summary": "S&P Global (SPGI) is in focus after announcing an expanded collaboration with Microsoft that embeds its AI-ready data and analytics directly into Microsoft 365 Copilot tools and related agentic experiences. See our latest analysis for S&P Global. The S&P Global share price has risen 3.5% over the past 90 days to US$432.16, yet the year to date share price return is down 15.7% and the 1 year total shareholder return is down 16.6%. This compares with a 21.0% total shareholder return over three...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-deepens-microsoft-101635061.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YWlcBwwEPMZO4RjZv4fXoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/806534bdda192677d191c936464cc6ec.jpg",
+      "published_at": "2026-08-21T10:16:35Z"
     },
     {
       "id": "461e6222-ac4b-3260-b9bc-bae40e557a5c",
@@ -26,6 +81,17 @@
       "published_at": "2026-08-21T10:15:00Z"
     },
     {
+      "id": "d66935d1-6d51-3f6a-9468-43d81576b770",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On",
+      "summary": "It’s been a stellar week for cryptos—and it’s about more than just President Donald Trump calling for Congress to pass the Clarity Act.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qLc.0rWwbkjuLcFwCaBPiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a38ede8ec11a4d3af07458949472fc1f.jpg",
+      "published_at": "2026-08-21T10:14:00Z"
+    },
+    {
       "id": "44f03f65-7807-3a51-a7fc-e113b2823b0c",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -35,6 +101,17 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/commerzbank-says-oil-prices-rangebound-101236460.html",
       "thumbnail": "",
       "published_at": "2026-08-21T10:12:36Z"
+    },
+    {
+      "id": "ab298722-f302-3c3f-8472-18378e01bdc3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy shares surge as Bitcoin breaks above $70,000",
+      "summary": "Strategy (NASDAQ:MSTR) shares jumped 10. 9% in pre-market trading on Friday after Bitcoin surged above $70,000 overnight, reaching its highest level since early June 2026 and triggering strong gains across cryptocurrency-linked equities.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/34783/strategy-shares-surge-as-bitcoin-breaks-above-70000",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xceDtH.bKC23mFyZVYxToA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/06c911634ff5136668a970e746b35d5a.png",
+      "published_at": "2026-08-21T10:08:04Z"
     },
     {
       "id": "2218ead6-15b2-3f8d-99dd-287ca3d0c039",
@@ -147,6 +224,17 @@
       "published_at": "2026-08-21T09:50:00Z"
     },
     {
+      "id": "7dd58b2a-9f91-3547-a315-976a3b706c12",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Kalshi’s Crypto Perpetual Futures Reach $17.98 Million Open Interest",
+      "summary": "Kalshi daily crypto perpetual-futures open interest reached a record $17.98 million. The reading puts attention on Kalshi’s CFTC-regulated perpetual futures, which allow traders to take leveraged positions on crypto prices without buying the underlying assets.Perpetual futures, or perps, are derivative contracts that let traders take a position on an asset’s ...",
+      "source": "Cryptonews",
+      "url": "https://cryptonews.com/news/crypto-perpetual-futures-kalshi-record/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NlvXsMUmhz7iB4q6hZ8YGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/6a1bccfd18854841f5bc8080755af5f1.jpg",
+      "published_at": "2026-08-21T09:46:43Z"
+    },
+    {
       "id": "8c3cdc00-bb2c-48be-91f7-3bdbc148485a",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -167,17 +255,6 @@
       "url": "https://beincrypto.com/ethereum-29-percent-price-rally-whales-split/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vyt.j4CR8ANNGXjoLBDKRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/9a93af0fd9452e9899dd40e1de10c76f.jpg",
       "published_at": "2026-08-21T09:41:19Z"
-    },
-    {
-      "id": "26e6c778-c768-3ff2-a3f9-b669c52fb82e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Crypto stocks continue rallying as Bitcoin extends gains on regulation push",
-      "summary": "Investing.com -- Crypto-linked stocks rallied Friday as Bitcoin extended its climb to levels not seen since late May, after President Trump called on lawmakers to pass clear regulatory rules for digital assets.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-continue-rallying-bitcoin-093730958.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T09:37:30Z"
     },
     {
       "id": "81ca0545-5ff9-3aa0-854f-28ab582732b0",
@@ -224,17 +301,6 @@
       "published_at": "2026-08-21T09:26:00Z"
     },
     {
-      "id": "8615fa1c-df78-35d5-8a3d-7bf2cfc72a88",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "What Is Bitcoin Infinity Day? The 8/21 Ritual That Bans Selling for a Day",
-      "summary": "Bitcoin Infinity Day lands every year on August 21. Holders buy or HODL as the BTC price jumps to $75,360 and market greed returns.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-infinity-day-august-21-explained/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
-      "published_at": "2026-08-21T09:23:35Z"
-    },
-    {
       "id": "42f2d528-a257-3d2d-b71f-98f469f90f1c",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -244,72 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-hit-092302468.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vDiC3vPMS1stweGsJmBuKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f933888f193a99c4f2ea3d75e6c379ce.jpg",
       "published_at": "2026-08-21T09:23:02Z"
-    },
-    {
-      "id": "b57e7f17-41e5-3a85-a122-fe1d022f53f4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Robotaxi and Optimus: Billionaire Stanley Druckenmiller May Have Invested in Tesla for a Very Different Reason",
-      "summary": "Stanley Druckenmiller's family office bought call options on Tesla during the second quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/forget-robotaxi-and-optimus-billionaire-stanley-dr/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S3lz4U5HOukeYk3csP6tNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c65fa1571bd2ccbacc0083f249e6478c.png",
-      "published_at": "2026-08-21T09:20:00Z"
-    },
-    {
-      "id": "c30860e5-ba31-3d6c-a562-c732b289871f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Vox Royalty Australia to acquire two mining royalties",
-      "summary": "Kalman offers Vox Royalty a 2% royalty on production from the EPM13870 tenement in Queensland.",
-      "source": "Mining Technology",
-      "url": "https://www.mining-technology.com/news/vox-royalty-australia-acquire-two-mining-royalties/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TJA7SD73qQ7mO2DJupwDaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mining_technology_700/b4f000699b5e623b815d20bde1635553.jpg",
-      "published_at": "2026-08-21T09:03:32Z"
-    },
-    {
-      "id": "12f6a628-43b2-386d-9747-98a5d1872ecd",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Regis Resources Ltd (RGRNF) (FY 2026) Earnings Call Highlights: Record Profit and Dividend Amid ...",
-      "summary": "Regis Resources Ltd (RGRNF) posts a 180% surge in net profit and a record dividend, while navigating higher costs and a significant tax payment.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/regis-resources-ltd-rgrnf-fy-090159469.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T09:01:59Z"
-    },
-    {
-      "id": "6c4191e5-e9a9-3ce6-b5ab-18a66e01dab8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Hyperliquid Lands on Coinbase Base App With 50x Leverage and 290+ Markets",
-      "summary": "Coinbase has added Hyperliquid perpetual futures to Base App, covering more than 290 cryptos, tokenized stocks, and commodity markets. Eligible self-custody users can trade ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/coinbase-base-app-hyperliquid-perps-50x-leverage/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gR6TESOWKaAhmA8M.nrJPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/864db51100af6d40fcf376d4d1278749",
-      "published_at": "2026-08-21T08:57:36Z"
-    },
-    {
-      "id": "609f7cdd-7be3-378c-ad84-6d577e47dcd7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Nasdaq, S&P 500 Futures Rebound, Rising Yields And Bitcoin In Focus: Why NVDA, MU, SPCX, WMT, MSTR, ASTS, RKLB Stocks Are In Focus",
-      "summary": "Retail sentiment on Stocktwits remained ‘neutral’ on SPY and turned ‘bearish’ on QQQ.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-futures-rising-premarket-nvidia-tesla-bitcoin-micron-treasury-yields/cZYBYc3RJNW",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NUsDA0gCdrxJBQISs5D4hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/510ee7e7eb25261d154e0e2cbfa0fceb",
-      "published_at": "2026-08-21T08:55:33Z"
-    },
-    {
-      "id": "fa126626-6214-3dfe-800c-879409af1eb5",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "This 2.7% ‘Dividend’ ETF Quietly Holds 28% Big Tech. Here’s Who Should Own It Anyway",
-      "summary": "Fidelity's so-called high dividend ETF hides a portfolio that would surprise most income investors, and understanding who it actually benefits requires looking past the yield altogether.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/21/this-2-7-dividend-etf-quietly-holds-28-big-tech-heres-who-should-own-it-anyway/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.5YJzyNIZjTeaMrQ1DfTEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0b43bbf47401d8f870782a429fc6ef34.jpg",
-      "published_at": "2026-08-21T08:50:07Z"
     }
   ]
 }
