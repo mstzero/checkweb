@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-21 22:49 UTC",
+  "last_updated": "2026-08-21 23:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "aeaf4d7d-10d8-39d1-9430-4d7b3f52bae5",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Single at 66 Means One Social Security Check and No Backup. These 4 ETFs Build the Second One",
+      "summary": "Solo retirees face a math problem no cost-of-living adjustment can fix: one income source with zero backup when markets turn ugly. Four income ETFs can wire a second paycheck directly to your account, but only if you weight them the right way.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/single-at-66-means-one-social-security-check-and-no-backup-these-4-etfs-build-the-second-one/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TGQwPYtfOuWHjoB9EvWY7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9ae09aef8eab0cef4a5b9c22d14db598.jpg",
+      "published_at": "2026-08-21T23:00:57Z"
+    },
+    {
+      "id": "160581ef-5a91-3896-8167-07f0e604d93a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Exclusive: Billionaire Mark Cuban pours cold water on Bitcoin's comeback",
+      "summary": "Bitcoin has surged more than 20% in the past two days.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/exclusive-billionaire-mark-cuban-pours-cold-water-on-bitcoins-comeback",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L7Moz20A7mP2cbpyQqaG2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/73119cab70323c50aea12c177b14e55d.jpg",
+      "published_at": "2026-08-21T22:58:05Z"
+    },
+    {
+      "id": "ab5ee1e0-8272-3a87-80a7-0c83d589227f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Neoclouds Shine in AI Build Out",
+      "summary": "Neoclouds -- companies that buy and rent out GPUs for AI -- are seeing incredible demand for the assets they’re building.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/neoclouds-shine-in-ai-build-out/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZO47I18o.gWQfQBw4utvWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/30e6fcbb6ec3c15c231f0c3814fdffd0.jpg",
+      "published_at": "2026-08-21T22:50:01Z"
+    },
+    {
+      "id": "5f556fe9-6787-3e69-9333-32bb7979fe65",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Broadcom Stock Inched Higher on Friday",
+      "summary": "Analysts published bullish new takes on the current frenzy for AI build-outs.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/why-broadcom-stock-inched-higher-on-friday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8zj_DqMfhY3mJBD8LYaHoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/36eb4c715a1d97e96f9309df6e37ada2.jpg",
+      "published_at": "2026-08-21T22:47:43Z"
+    },
     {
       "id": "652752fc-4fba-3524-92f7-d3115a39c15b",
       "asset": "NVDA",
@@ -26,6 +70,17 @@
       "published_at": "2026-08-21T22:39:00Z"
     },
     {
+      "id": "72fbbb48-244a-3f93-acf9-ff7f1a2685b7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-data-center-developer-223738407.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PMPxZNAkIl4ybrv4D_qQ2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/9aa20e1961e2fdf19c8767e23d9284c5.jpg",
+      "published_at": "2026-08-21T22:37:38Z"
+    },
+    {
       "id": "867d3e22-7176-3a2d-8829-18e81ce31480",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -35,6 +90,17 @@
       "url": "https://www.fool.com/investing/2026/08/21/tesla-controls-59-of-the-us-ev-market-its-highest/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uQppjAQqkX704MuMDUr4pA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d46af9e9a8eaba51faa19ea20990e07a.png",
       "published_at": "2026-08-21T22:25:00Z"
+    },
+    {
+      "id": "eca903dd-2ba5-319b-b145-41fac305b72b",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "How Bessent’s Efforts to Calm Bond Market Set Gold Prices Ablaze",
+      "summary": "Prices of gold, silver, platinum and Bitcoin rose following the Treasury buyback announcement, while the dollar fell.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/scott-bessent-bond-market-gold-treasury-6e52036f?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OdbCKE.fTZJof22gZrnhIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/aaaaeccf18a8f5f029fe3608313fe49d.jpg",
+      "published_at": "2026-08-21T22:22:00Z"
     },
     {
       "id": "8dc77e84-1a49-3304-9ef1-d5243ef77c25",
@@ -70,17 +136,6 @@
       "published_at": "2026-08-21T22:14:57Z"
     },
     {
-      "id": "8a8ba1dd-18d8-3848-afcc-36c7aa5f51fa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Stock Suffers Longest Losing Streak Since 2022: Will Q2 Earnings End It?",
-      "summary": "Nvidia stock's (NVDA) losing streak hit six days. Analysts see 40% upside. Will Wednesday's earnings end it?",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/nvidia-stock-losing-streak-earnings/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ieNQ9Z0Q90BcT.wbzu_8mw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/04a08adaf248a3daf01049359cf20725.jpg",
-      "published_at": "2026-08-21T22:10:03Z"
-    },
-    {
       "id": "c321f883-75ca-359c-9c62-6c5e96564cf4",
       "asset": "SPY",
       "asset_name": "S&P 500 ETF",
@@ -92,17 +147,6 @@
       "published_at": "2026-08-21T22:05:31Z"
     },
     {
-      "id": "374050b2-a597-3b3b-8783-f67cd0e1e1dc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Amylyx Pharmaceuticals Blasted Nearly 79% Higher This Week",
-      "summary": "The biotech delivered excellent news from the laboratory.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-amylyx-pharmaceuticals-blasted-nearly-79-highe/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NiH4fIwkQJCFiYsuRp8Q3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a897eef9f1c77008e9792437da74bd9b.jpg",
-      "published_at": "2026-08-21T22:00:54Z"
-    },
-    {
       "id": "1b6612de-1d3e-3c3c-bfed-eca40d078457",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -112,17 +156,6 @@
       "url": "https://finance.yahoo.com/energy/articles/chinas-five-plan-preps-nation-220000847.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OSEByixyEfJW_mrx8Ty3Mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/12731541c47318f689e51780f6085cce.jpg",
       "published_at": "2026-08-21T22:00:00Z"
-    },
-    {
-      "id": "31b36d86-471c-3591-81ec-f05c03b18327",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Ross Stores Stock Is Up Today",
-      "summary": "Bargain hunters are flocking to the discount retailer's stores.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-ross-stores-stock-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w7JmBnbOJOgiligFk4kwoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/524e5431d9a9d5bbb40a5555f1f67829.jpg",
-      "published_at": "2026-08-21T21:57:52Z"
     },
     {
       "id": "6ccfcaae-b59a-3313-9792-61aab841c82c",
@@ -191,6 +224,17 @@
       "published_at": "2026-08-21T21:45:54Z"
     },
     {
+      "id": "eeb9d4a5-709e-3c13-950e-15ab74f5e034",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
+      "summary": "Treasury yields held near their highest levels in over a decade, however, and the S&P 500 posted its first weekly loss since late July.  The S&P 500 gained 33.21 points, or 0.43%, to 7674.37, while the Nasdaq Composite advanced 113.29 points, or 0.43%, to 26180.45.  The rally was driven by a combination of forces: Treasury Secretary Scott Bessent’s bond buyback announcement, President Trump’s push for crypto-friendly legislation and big inflows into spot bitcoin ETFs.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0pZhypAvzRCvIsePvARGuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ab59bbd24d2a0bf14da3a416cfa785ef.jpg",
+      "published_at": "2026-08-21T21:38:00Z"
+    },
+    {
       "id": "faf2cde3-16cf-3845-a2fc-c4ef6b10fbab",
       "asset": "QQQ",
       "asset_name": "Nasdaq 100 ETF",
@@ -200,6 +244,28 @@
       "url": "https://247wallst.com/investing/2026/08/21/two-years-of-friday-paydays-the-44-fund-has-kept-its-nav-and-beaten-half-of-wall-street/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lf4UMtDdF4jruZbO7Ac.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5675d93d5665df35cd7bbc73e52f44ee.jpg",
       "published_at": "2026-08-21T21:35:03Z"
+    },
+    {
+      "id": "dbdbdfd9-dfe3-3b33-86ed-d3c1349a3190",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on Bitcoin ETFs, U.S. stocks linked to cryptocurrencies, Experian and more in the latest Market Talks covering financial services.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dqdkp0427A._5iTOb4.giQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/00e8446ed15530c56d43472596781ad3.jpg",
+      "published_at": "2026-08-21T21:32:00Z"
+    },
+    {
+      "id": "76f1ef67-1827-322c-a92d-e4bb5b5ae630",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on gold prices, Arkema, Solvay and more in the latest Market Talks covering basic materials.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9b4cadce?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5klTtB46_h2rTvu2q1j8vA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4f53ec3dd26ff5d859a8e8075a7c5750.jpg",
+      "published_at": "2026-08-21T21:31:00Z"
     },
     {
       "id": "13d9c4e7-5f1a-3a9a-ac21-95ab9db5060e",
@@ -213,6 +279,28 @@
       "published_at": "2026-08-21T21:30:31Z"
     },
     {
+      "id": "9947327d-da4b-3a20-aa32-903fb8d8e778",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "Find insight on Bitcoin, cryptocurrencies, Alibaba Group and more in the latest Market Talks covering technology, media and telecom.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-83301203?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rKpPoKk0iQU64fQ41bMdNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/364a25edce85d06e3b10ebc7c0d01d88.jpg",
+      "published_at": "2026-08-21T21:28:00Z"
+    },
+    {
+      "id": "92097ffb-874e-33bd-bc63-abf6503533a1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Bitcoin, Gold and the Return of the Debasement Trade",
+      "summary": "The debasement trade, where investors flee the dollar and major currencies for gold, bitcoin and other alternative assets, is making a comeback following the Treasury’s efforts this week to curb borrowing costs.  After months of trading in a tight range, bitcoin has rallied sharply since the Treasury Department announced an expanded bond buyback program on Wednesday.  The largest cryptocurrency gained 22% this week, its best weekly performance in more than two years.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-gold-and-the-return-of-the-debasement-trade-tD0hYjZvTwKw704UIcF9?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/unzsYQh72Hy6EPVQOdc.Bg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9eb0eef291b10bb461784457a0e04ccf.jpg",
+      "published_at": "2026-08-21T21:26:32Z"
+    },
+    {
       "id": "0de9a631-8015-34bc-a63e-a72f47d0e059",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -222,94 +310,6 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/08/21/stock-market-today-aug-21-tesla-gains-on-nevada-robotaxi-permit-approval/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RHoLDFvlsRRo8z2_mqfuVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460.png",
       "published_at": "2026-08-21T21:22:00Z"
-    },
-    {
-      "id": "30e34a06-1b9a-36b9-88a6-f806b2736308",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "You Do Not Need $1 Million to Retire: These 3 ETFs Pay About $49,000 a Year on $600,000",
-      "summary": "The retirement industry insists you need seven figures before you can quit working, but a trio of overlooked ETFs rewrites that assumption in a way most financial advisors never mention to their clients.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/21/you-do-not-need-1-million-to-retire-these-3-etfs-pay-about-49000-a-year-on-600000/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JSgBbbFnqXexV4QdZAowXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/06e9564259a6c9f60a09c4793a2d5cae.jpg",
-      "published_at": "2026-08-21T21:15:13Z"
-    },
-    {
-      "id": "d415f433-5ef2-309a-b89a-163728bb265b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Jefferies Just Said Sell Apple (AAPL). Here’s the iPhone Feature That Got Canceled",
-      "summary": "On August 10, Jefferies downgraded Apple Inc. (NASDAQ:AAPL) to underperform from hold, cutting its price target to $263.66 from $285.56, implying roughly a 16% downside from Friday’s close of $313.33. Analyst Edison Lee said supply chain checks show Apple has canceled its planned all-glass 20th-anniversary iPhone, expected to launch in September 2027, due to poor […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-just-said-sell-apple-211157587.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/guI8jCREpGNRSpogsdXpuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84.jpg",
-      "published_at": "2026-08-21T21:11:57Z"
-    },
-    {
-      "id": "36652715-26fa-33c3-a55e-f1da9d31c2d9",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Get Paid 16% A Year To Hold INTU Stock You Already Own",
-      "summary": "Here is a way to collect an attractive income on INTU now, which you keep whatever the stock does, in exchange for agreeing to sell your shares if the stock climbs above a higher price.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612362/get-paid-16-a-year-to-hold-intu-stock-you-already-own/2026-08-21",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wIXMMcpC6KPbSVcdREudJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/9d7431dffa0e017dcd7019c5587504cb.jpg",
-      "published_at": "2026-08-21T21:11:53Z"
-    },
-    {
-      "id": "d58ce932-427a-330c-b1eb-56689815cb24",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
-      "summary": "State Street runs two S&P 500 ETFs that hold the exact same stocks in the exact same weights and pay the exact same dividends, yet most investors park their money in the one that costs significantly more.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xq1hZ4.Xnl0p9JWUmnXvwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48d965dd92d94085b56b7f7e0e9d5695.jpg",
-      "published_at": "2026-08-21T21:05:02Z"
-    },
-    {
-      "id": "eeb9d4a5-709e-3c13-950e-15ab74f5e034",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "summary": "STOCKS  U.S. stocks rose Friday as a surging bitcoin and resilient crypto stocks helped lift sentiment. Treasury yields held near their highest levels in over a decade, however, and the S&P 500 posted its first weekly loss since late July.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0pZhypAvzRCvIsePvARGuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ab59bbd24d2a0bf14da3a416cfa785ef.jpg",
-      "published_at": "2026-08-21T21:04:00Z"
-    },
-    {
-      "id": "3d0d076e-27a2-31de-9bad-3f15420cb970",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "ETF League Tables: SPDR Leads Inflows",
-      "summary": "<p>Table below reflects daily flows on August 20, 2026 and asset totals as of that date.</p>",
-      "source": "etf.com",
-      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-spdr-leads-inflows?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H_DXloducZG7SpdsyxpYAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/685c6a7e1fcae476c06ee752a956ffca.png",
-      "published_at": "2026-08-21T21:00:04Z"
-    },
-    {
-      "id": "e97cd0de-bd9c-3ce3-aa12-8e239bc905a3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Ray Dalio Sees Japan Debt Crisis Coming to America: 2 Assets Are His Escape Plan",
-      "summary": "Ray Dalio says Japan debt losses preview America's crisis. See the 2 assets he wants investors holding now.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/ray-dalio-japan-debt-america-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOWlJdpvinLNCJ6lNUgO4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/980b4869aad38995d359edf63fee6a97.jpg",
-      "published_at": "2026-08-21T20:58:08Z"
-    },
-    {
-      "id": "2fa30144-2aea-3453-a100-8a7c7bdc7460",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk's SpaceX and Tesla Are Building a $16.8 Billion Chip Factory 5 Times Bigger Than Earth's Largest Building. What Does That Mean for Both Stocks?",
-      "summary": "The Terafab joint venture is set to materially benefit both businesses.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/elon-musks-spacex-and-tesla-are-building-a-168-bil/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3OZXHc6tSehQwJjXZflQCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3f0dccc51da5cc1813dae0082c009a0b.jpg",
-      "published_at": "2026-08-21T20:57:00Z"
     }
   ]
 }
