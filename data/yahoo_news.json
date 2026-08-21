@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-21 05:59 UTC",
+  "last_updated": "2026-08-21 06:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c105df16-019f-3ac3-9fef-04b8e96737e9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
+      "summary": "The theoretical math suggests the stock should be worth measurably more. Investors are just pricing in the unspoken, unquantifiable reality.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/macys-stock-trades-at-just-10-times-earnings-there/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V398u.KefkeS3sRB1r2xtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/217fd310d74a44fc5aec5d33df0baf4e.png",
+      "published_at": "2026-08-21T06:25:00Z"
+    },
+    {
+      "id": "f84bb35c-85c2-391b-9cae-5322cb4ca646",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Marc Benioff Says Wall Street's Fears That AI Will Kill Salesforce Are \"Dead Wrong,\" Even as CRM Stock Has Fallen Over 25% in 2026. Should Investors Bet on His Conviction?",
+      "summary": "The software titan experienced record revenue as it embraced the AI threat.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/marc-benioff-says-wall-streets-fears-that-ai-will/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5NzSuex_iFR_RkvFMhzJuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/01fdea66ad964aca6b9d15aabdbebb23.jpg",
+      "published_at": "2026-08-21T06:20:00Z"
+    },
+    {
+      "id": "47ad45b5-ed42-3326-8a0b-7b882997bb01",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why Oil Refiner Stocks Can Keep Gaining",
+      "summary": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/oil-refiner-stocks-e5f48566?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_.GjLKE0bLvCzNa1reftHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/51c74c387dc31909d8f614bf8deb702e.jpg",
+      "published_at": "2026-08-21T06:00:00Z"
+    },
+    {
+      "id": "ae3a47ae-dee8-3c35-aa09-17f79460812b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Bears Burned as Short Liquidations Hit $1.06 Billion in a Day",
+      "summary": "Short liquidations reached $1.06 billion in a day as Bitcoin climbed. See what forced bears out and what comes next.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/short-liquidations-bitcoin-rally-bears-retreat/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lr9drqxBodaVdLsMD6xBfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/cd95f6d21e25ae21a72b8d220024753f.jpg",
+      "published_at": "2026-08-21T05:55:34Z"
+    },
+    {
+      "id": "cb77cb90-bbc6-3294-9af0-8cdc743e0eed",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The Fall and Redemption of Bill Miller, the Greatest Money Manager of Our Time",
+      "summary": "He was known as one of the world’s best investors, until he got smacked down by the financial crisis. But almost 20 years later, his ideas and legacy resonate strongly.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/bill-miller-money-manager-e39614e6?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FUMjzmS7nrtHqzpKrLPkPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a81fc20e73b66122ccc8a1d21dd5e1b3.jpg",
+      "published_at": "2026-08-21T05:30:00Z"
+    },
+    {
+      "id": "d7a76594-9e45-38a4-837f-a7dfcc539446",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount",
+      "summary": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-head-second-straight-053000246.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pRSBzGsm2jhCoJoIJy6vDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/4acf09e3fb65ef39a3c7b6038a531f7d.jpg",
+      "published_at": "2026-08-21T05:30:00Z"
+    },
     {
       "id": "ecfd1f04-cbba-31cc-90ba-83044704a368",
       "asset": "NVDA",
@@ -29,7 +95,7 @@
       "id": "f3f4f3cc-8121-33aa-8f71-acf9ed2cfd36",
       "asset": "BTC",
       "asset_name": "Bitcoin",
-      "title": "Bitcoin tests $75k as Trump spurs U.S. regulatory hopes",
+      "title": "Bitcoin surges above $75k as Trump spurs U.S. regulatory hopes",
       "summary": "Investing.com-- Bitcoin rose on Friday, extending a rebound to levels last seen in late-May after U.S. President Donald Trump called on policymakers to pass clear regulation for cryptocurrencies.",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tests-75k-trump-spurs-044446822.html",
@@ -147,17 +213,6 @@
       "published_at": "2026-08-21T03:11:18Z"
     },
     {
-      "id": "6bba094e-9e08-3605-87e7-0118721b202e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Advance Auto Parts Stock Crashed Today",
-      "summary": "The car parts provider is facing a \"volatile demand environment.\"",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/why-advance-auto-parts-stock-crashed-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ANXzEAP2eBrDpX9gyidWGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fb7d756fc42b7d82aa4c641a31dc16b1.jpg",
-      "published_at": "2026-08-21T03:11:08Z"
-    },
-    {
       "id": "91327cea-fed2-33ed-a182-385b27c0298f",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -189,17 +244,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/ring-energy-eyes-10-growth-as-longer-laterals-unlock-permian-potential-2026-08-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BAsQYTO61bQnNFY4qepO_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/6ee5ba70883dbd8b9c80c1c82da68146.png",
       "published_at": "2026-08-21T03:01:59Z"
-    },
-    {
-      "id": "0edda353-0ac2-3073-afc3-a138a1752cea",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is a Financial Sector ETF a Better Buy Than Picking the Stocks Yourself?",
-      "summary": "For risk-averse investors, owning an ETF can often be ideal.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/is-a-financial-sector-etf-a-better-buy-than-pickin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fGNG0IzykiCM3kVEm8aAyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1add04734e30fd5dae01913ae1785d7e.jpg",
-      "published_at": "2026-08-21T02:50:00Z"
     },
     {
       "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
@@ -266,50 +310,6 @@
       "url": "https://www.thestreet.com/crypto/markets/trump-once-stamped-his-face-on-gold-now-his-eyes-are-on-bitcoin",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/suJilz2YEBjvxJK3xc2UBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0a9d02304e964d94dea25593a4153d70.jpg",
       "published_at": "2026-08-21T01:15:00Z"
-    },
-    {
-      "id": "1ad02eaf-f27d-3c71-96f0-8c6a8605fdea",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "MARA Holdings (MARA) Soars Double Digits — Here’s The Catalyst to Watch Now",
-      "summary": "MARA Holdings Inc. (NASDAQ:MARA) clawed back to the $11 territory on Thursday, surging 15.54 percent to finish at $11.15, as investors positioned their portfolios after President Donald Trump renewed his push to Congress to speed up the passage of the Clarity Act. The bill is a proposed US federal law establishing a regulatory framework for […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/mara-holdings-mara-soars-double-004442882.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CotkID3DFvs5HBijj3Xviw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8d9aa06881d356f39364b05b0516c803.jpg",
-      "published_at": "2026-08-21T00:44:42Z"
-    },
-    {
-      "id": "401f4a54-8696-303e-906d-7f7cb78c5491",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "AAR and Ducommun Shares Plummet, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after surging oil prices and rising long-term interest rates stoked fears of a slowdown in industry orders.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aar-ducommun-shares-plummet-know-003500513.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/paaAhkHQu_v90V__jr9lPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/6b4a46a7a69abbfb554a85654bc6ba97.jpg",
-      "published_at": "2026-08-21T00:35:00Z"
-    },
-    {
-      "id": "d7e8aea9-8eba-3b2f-8e6c-f8b4ba1ca9d3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Top stocks today, Aug. 20: 5 biggest gainers as Bitcoin climbs",
-      "summary": "The latest Bitcoin rally is minting both winners and losers on Wall Street.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/top-stocks-today-aug-20-5-biggest-gainers-as-bitcoin-climbs",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oaH0NDKG_pTsvqttKp1cWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/45977195d3ff31bdd816e3eecc3f47c7.jpg",
-      "published_at": "2026-08-21T00:26:07Z"
-    },
-    {
-      "id": "813ca789-7671-3a2f-bbe2-2df15f2530f7",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9HaxS7Otcmjfoz6KfyXIQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/2eb5edf853f9de1554938102f5836d6e.jpg",
-      "published_at": "2026-08-21T00:23:36Z"
     }
   ]
 }
