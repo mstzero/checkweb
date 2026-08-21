@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-21 20:21 UTC",
+  "last_updated": "2026-08-21 20:48 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin jumps, stocks bounce as traders weigh US Treasury action",
+      "summary": "Bitcoin bounced and global stocks clawed back some of their recent losses on Friday as investors assessed the US Treasury's efforts to push down long-term borrowing costs.The US Treasury bought its own bonds this week in an effort to push down borrowing costs after the 30-year yield surged to levels last seen in 2007, just before the global financial crisis.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F4eUyNfHgUJ3fZimuv3lLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/88ebcc47cb042c582378663944c9a9af.jpg",
+      "published_at": "2026-08-21T20:43:38Z"
+    },
+    {
+      "id": "4cc83f77-75e5-38fe-9113-44312fa5e491",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It’s Not Worried",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to The Information, the company has been testing at least three versions with reduced high-bandwidth memory, some as low as 192GB to 256GB, well below the 1 […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
+      "published_at": "2026-08-21T20:40:25Z"
+    },
+    {
+      "id": "faf788b2-dde6-33d4-a1d6-cb6aded886e0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Equity Markets End Higher After Iran Hints at Desire to End War Soon, Crude Oil Prices Halt",
+      "summary": "US equity indexes ended higher Friday after Iran's President hinted that the country wants to end th",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-203610880.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T20:36:10Z"
+    },
+    {
+      "id": "c0b38dfb-762d-32d3-8a38-9e17be800fd9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Clean Energy Fuels Stock Slumped This Week",
+      "summary": "An analyst significantly reduced his price target on the company's equity.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/why-clean-energy-fuels-stock-slumped-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JNkWkT6la6Pqgkd2CHDgcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/74d1789cf45f144c684191cd7229ab22.jpg",
+      "published_at": "2026-08-21T20:26:56Z"
+    },
+    {
+      "id": "a350c413-7439-3c5f-9885-47a91c6bd279",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Energy Stock Pays an 8% Dividend, and Nobody's Talking About It",
+      "summary": "Hess Midstream isn't winning any energy sector popularity contests, but income investors shouldn't overlook this stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/this-energy-stock-pays-an-8-dividend-and-nobodys-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3l1YfgKiBF7NVQOLATvsBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bf41e031da23d706ba9ef0b6df8cf55a.jpg",
+      "published_at": "2026-08-21T20:25:00Z"
+    },
+    {
+      "id": "96479200-960b-36a7-aa49-85cf4a34f612",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "TSX Closer: The Index Rises as Base Metals Rally, Oil and Gold Rise",
+      "summary": "The S&P/TSX Composite Index closed sharply higher on Friday as a strong rally in base metals lifted",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T20:23:34Z"
+    },
     {
       "id": "be84ada6-8303-3fbb-b44d-f452ceb1ab8c",
       "asset": "NVDA",
@@ -48,6 +114,17 @@
       "published_at": "2026-08-21T20:16:45Z"
     },
     {
+      "id": "e3777586-7b29-3abf-85fd-2c664cfb9398",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft (MSFT)’s Betting Big on Its Own AI Chips. Is It Already Too Late?",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) has spent years watching Google and Amazon build their own AI chips while it stayed mostly dependent on Nvidia. That’s starting to change. The Information reports Microsoft is preparing to launch its new Maia 300 AI chip this fall, possibly as soon as next month. It is already in talks with TSMC […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mt_e6td8u1xETtaT1khYHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9.jpg",
+      "published_at": "2026-08-21T20:14:14Z"
+    },
+    {
       "id": "cf535819-2ed5-3ec1-9b61-6557e31e318f",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -70,17 +147,6 @@
       "published_at": "2026-08-21T20:09:56Z"
     },
     {
-      "id": "5dc9b88d-d2b4-3062-af77-7f3eb4200045",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
-      "summary": "The market is demanding proof that AMD can convert enormous customer agreements into profitable accelerator deployments.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:08:22Z"
-    },
-    {
       "id": "4375512d-deb1-3a2b-a0d2-018305fe996d",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -92,17 +158,6 @@
       "published_at": "2026-08-21T20:07:05Z"
     },
     {
-      "id": "325b4990-793f-381a-bf73-14c70be5e3e6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Makes Another Bet on the AI Power Bottleneck",
-      "summary": "The chipmaker is investing in data center developer Cloverleaf Infrastructure.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-makes-another-bet-ai-200702046.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:07:02Z"
-    },
-    {
       "id": "b2251119-1802-3905-bf80-3607339f216a",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -112,17 +167,6 @@
       "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61367573/mstr-bitcoin-loss-gain?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UR6.uSH_1xidP7We9p6l1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/bc119249872bffde0a66aee74d299264.jpg",
       "published_at": "2026-08-21T20:05:54Z"
-    },
-    {
-      "id": "ade756df-32ba-36a9-8053-3749750445f6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher?",
-      "summary": "Nvidia stock has been on an odyssey since reaching an all-time high in mid-May. Will its fiscal Q2 report be a positive catalyst?",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-preview-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rPujAYLXwScD7bRyCWHEHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/379eb86a7fdecfccc8f89edb8c7f71db.jpg",
-      "published_at": "2026-08-21T20:05:02Z"
     },
     {
       "id": "05ff0bda-5ffc-30b3-84a9-de7023d6dcac",
@@ -189,17 +233,6 @@
       "url": "https://www.trefis.com/articles/612388/what-exxonmobil-told-you-before-the-oil-shock-arrived/2026-08-21",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_S9v2js8rHO7_y_skOg7lA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/9a4afee5e2c1e7e97746584ff3345af6.jpg",
       "published_at": "2026-08-21T19:55:14Z"
-    },
-    {
-      "id": "b2d072be-8003-3c5a-b5de-76295c0a0875",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nike Just Hit a 12-Year Low. Does History Say Now Is the Time to Buy?",
-      "summary": "The footwear and apparel maker faces existential challenges.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/nike-just-hit-a-12-year-low-does-history-say-now-i/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_2zuvop8hR0WJJ8TOYkrlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/828dba1c7e1a8b135321a9d126159801.jpg",
-      "published_at": "2026-08-21T19:55:00Z"
     },
     {
       "id": "fae0aaeb-b200-3e9d-ad57-3ed8fea433b6",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/media-advertising/articles/walmart-finally-gives-apple-pay-194228259.html",
       "thumbnail": "",
       "published_at": "2026-08-21T19:42:28Z"
-    },
-    {
-      "id": "2a67a801-4e6b-3f85-b135-e165ad0e05ea",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Occidental Petroleum Stock Can Climb Without A Higher Oil Price",
-      "summary": "Management's own plan leans on lower costs, a slower decline rate, and a stronger balance sheet, not on the price of crude.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612380/occidental-petroleum-stock-can-climb-without-a-higher-oil-price/2026-08-21",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lyZxEywWjjF4fW16NlUwaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/7e156feed182d545ae61ba345411957a.jpg",
-      "published_at": "2026-08-21T19:41:46Z"
-    },
-    {
-      "id": "b68d1297-5efe-30a6-995b-334f9ca73dd5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Bitcoin Is Up Today",
-      "summary": "Bitcoin jumped 7% after President Trump sat down with crypto executives and the heads of the SEC and CFTC -- then told Congress to get moving on the Clarity Act..",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-bitcoin-is-up-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pw_2uG.Zg9t_5mBSyb8baQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f21f4ae43079b0817271360bba361e18.jpg",
-      "published_at": "2026-08-21T19:41:33Z"
-    },
-    {
-      "id": "351c994c-efa5-30eb-9c90-d58a5c328e69",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Standard Chartered revisits Bitcoin price target amid 20% rally",
-      "summary": "Standard Chartered analyst Geoff Kendrick says the $100,000 price target for Bitcoin could be “too low.”",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/standard-chartered-revisits-bitcoin-price-target-amid-20-rally",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7ysF1NTjx81cn.rNZHpd8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/66f4a88af342f5fda1bc2a345c2099a4.jpg",
-      "published_at": "2026-08-21T19:41:33Z"
     }
   ]
 }
