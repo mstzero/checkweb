@@ -1,18 +1,183 @@
 {
-  "last_updated": "2026-08-21 17:55 UTC",
+  "last_updated": "2026-08-21 18:30 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "f9471b68-d983-306c-a6b1-2a480760a2f1",
+      "id": "d9eb710a-3a07-3678-8e3f-3f26fd9b2966",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Jensen Huang Thinks This Chip Stock Could Hit $1 Trillion. Google Just Gave Him Ammunition",
-      "summary": "Nvidia CEO Jensen Huang called Marvell Technology, Inc. (NASDAQ:MRVL) the “next trillion-dollar company” at Computex on June 2. Alphabet Inc. (NASDAQ:GOOGL) has now given that prediction considerably more ammunition. Marvell disclosed on August 19 that it expanded its custom-silicon relationship with Alphabet Inc. (NASDAQ:GOOGL), covering products tied to Google’s TPU ecosystem, including AI inference accelerators, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-thinks-chip-stock-174546833.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VoiWf6Gam4NxxM5dmCEhUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/74bbfd2ca4660372822b2c93f2367fd3.jpg",
-      "published_at": "2026-08-21T17:45:46Z"
+      "title": "BMO Spots a Bigger Nvidia Story",
+      "summary": "Wall Street sees more room despite Nvidia's massive run",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-spots-bigger-nvidia-story-182819406.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T18:28:19Z"
+    },
+    {
+      "id": "a5cda860-2aa7-3ed4-aa05-3ff94fdade6d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Slips Despite New Bet on AI's Power Bottleneck",
+      "summary": "A minority investment in Cloverleaf pushes Nvidia deeper into the electricity and real-estate infrastructure behind AI computing.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-despite-bet-ais-182439997.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T18:24:39Z"
+    },
+    {
+      "id": "a6fe01a9-ea84-34e7-a000-8f9779c8c319",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
+      "summary": "The electric-vehicle giant is ending a volatile week with two potential commercial-growth engines moving closer to reality.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T18:22:20Z"
+    },
+    {
+      "id": "424ae195-7c22-36b8-ac8b-8cb4cc4c3341",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "UBS Revamps S&P 500 Price Target For Rest of 2026",
+      "summary": "UBS Bets on More S&P 500 Gains With Fresh 8,100 Year-End Target",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-price-181835657.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T18:18:35Z"
+    },
+    {
+      "id": "a2238ab7-cce1-3d78-aa83-7bd38cd9cb85",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cathie Wood's Ark Invest Held $1.16 Billion of Tesla Stock as of the End of the Second Quarter, Even as It Trails Every Other \"Magnificent Seven\" Stock in 2026. Is Her Conviction Still Justified?",
+      "summary": "Cathie Wood is betting Tesla will become more than an automaker.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/cathie-woods-ark-invest-held-116-billion-of-tesla/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PgE0cxmrRg04GLVLN1U6TA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bdc77d76e5df9f534017316cefc6e7dd.jpg",
+      "published_at": "2026-08-21T18:16:00Z"
+    },
+    {
+      "id": "f2bf36f7-ad00-3479-9d3d-73a4d730d6df",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Synopsys Could Be Set Up To Surprise Investors On August 26th",
+      "summary": "With back-to-back earnings beats and an AI-fueled backlog swelling to $11 billion, Synopsys heads into its August 26th fiscal Q3 report carrying momentum that makes its cheaper valuation versus Cadence look like a glaring market miscalculation.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/synopsys-could-be-set-up-to-surprise-investors-on-august-26th/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m9lzE9neSTk47KaveuwlTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7cd46c10e6972ba9d90608193100cb0f.jpg",
+      "published_at": "2026-08-21T18:15:09Z"
+    },
+    {
+      "id": "dccfc10b-8bb6-3f33-bae1-38612721262a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil rises as Trump threatens sanctions on Iran partners",
+      "summary": "By Erwin Seba HOUSTON, Aug 21 (Reuters) - International and U.S. crude oil futures rose on Friday after U.S.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-set-second-weekly-rise-014957202.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nb7TaDHxu1fUdMRr0QiXQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/80da66fc2282e71e5b31058d41653515.jpg",
+      "published_at": "2026-08-21T18:14:25Z"
+    },
+    {
+      "id": "5aac802f-9dad-378f-9928-b3ce7f81bbc9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Michael Burry Says the AI Buildout Is Repeating 2008: ‘The Shenanigans Are Apparent Today’",
+      "summary": "The investor who called 2008 before anyone else is now naming specific AI infrastructure companies and the hidden financial mechanisms he says are quietly building the next crisis. His latest warning may be easy to dismiss, but his receipts are hard to ignore.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/michael-burry-says-the-ai-buildout-is-repeating-2008-the-shenanigans-are-apparent-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/80qGQhY0OaAKFopoLyMqKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/42b1a74e613a76b65a709f21cdf8417d.jpg",
+      "published_at": "2026-08-21T18:10:47Z"
+    },
+    {
+      "id": "3e2814ed-8527-3198-874d-15d4055f9ff9",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "US Dollar Continues to Weaken Against The Loonie as Oil, Gold Prices Edge Up",
+      "summary": "The US dollar was weaker against the Canadian dollar Friday afternoon as oil and gold prices continu",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-continues-weaken-against-180646425.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T18:06:46Z"
+    },
+    {
+      "id": "00b7a0bb-5c68-3cd9-bc0c-36554d6177ba",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "FuelCell Energy Jumps 5%, Plug Power Climbs 4%, Bloom Energy Slips as the Hydrogen Trade Splits",
+      "summary": "FuelCell Energy and Plug Power are surging while Bloom Energy slides and the sector ETF drops, and the reason why tells you something important about how hydrogen trades actually work.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/fuelcell-energy-jumps-5-plug-power-climbs-4-bloom-energy-slips-as-the-hydrogen-trade-splits/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gX2MTpw_xNz3fTOZyFaU_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/55e3353744e930ccab7cee5c3cc1a1df.jpg",
+      "published_at": "2026-08-21T18:04:43Z"
+    },
+    {
+      "id": "056ed3e0-2348-3fe1-943f-4c42cf5d3914",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Webull Is Having a Monster Quarter. Is BULL Stock Still a Buy?",
+      "summary": "Webull just posted its strongest quarter ever as a public company, fueled by a regulatory change that permanently rewired how millions of traders operate. The real question is whether the stock already drank all the good news before you got there.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/webull-is-having-a-monster-quarter-is-bull-stock-still-a-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XrKbWd76Ed_zYwXnIH8eUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b3c965d12227c8238bfac19f415aef37.jpg",
+      "published_at": "2026-08-21T18:00:45Z"
+    },
+    {
+      "id": "e021279a-bf87-3414-b671-ae280e86f1f7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "PIMCO’s Famous 16.5% Monthly Payer Always Cost 10% Extra. Right Now It’s Almost Free",
+      "summary": "PIMCO's most generous monthly payer almost always came with a costly entry toll that made income-seekers hesitate. A rare shift in market conditions has quietly stripped that barrier away, and the window may not stay open long.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/pimcos-famous-16-5-monthly-payer-always-cost-10-extra-right-now-its-almost-free/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SywWz0.8QcG1zqEamrfC0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/cf384cb838db6f6680371e011c083e33.jpg",
+      "published_at": "2026-08-21T17:58:43Z"
+    },
+    {
+      "id": "5390aebe-3594-37f4-af19-0d0027047a6a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
+      "summary": "Financial stocks advanced in Friday afternoon trading, with the NYSE Financial Index rising 0.8% and",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-175129050.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T17:51:29Z"
+    },
+    {
+      "id": "ab896025-9eb7-3478-b19c-7560fd065b92",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Today: Dow Leads; Bitcoin Helps Lift Robinhood; Copper Names Soar (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index is climbing after a market sell-off. The price of bitcoin surges to over $77,000.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y1aSPggySlgDuKBRDVk8xA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/559e977a0eb020a047bf3a3c78adf328.jpg",
+      "published_at": "2026-08-21T17:49:59Z"
+    },
+    {
+      "id": "aa052d8e-a00e-3c3c-bca1-70983bd577f3",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Equity Indexes Rise as Markets Attempt Rebound After Sharp Selloff Amid Elevated Oil Prices, Treasury Yields",
+      "summary": "US equity indexes rose after midday on Friday as markets attempted to rebound following a sharp sell",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-markets-174706083.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T17:47:06Z"
+    },
+    {
+      "id": "58240476-42f9-36ba-a412-b840a67cb2e1",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Coinbase Stock Surged On A Bill Its Own CEO Says It Can Live Without",
+      "summary": "Robinhood and Bakkt fell in the very session Coinbase surged, which points the cause at Washington rather than at the price of bitcoin.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/612409/coinbase-stock-surged-on-a-bill-its-own-ceo-says-it-can-live-without/2026-08-21",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TtWhu2pdoa5lgoJxiphKtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/2b4b63e49ef11f24c23518723666d661.jpg",
+      "published_at": "2026-08-21T17:41:29Z"
     },
     {
       "id": "3004836d-6640-3e6b-a85f-d70be591ad25",
@@ -26,28 +191,6 @@
       "published_at": "2026-08-21T17:41:16Z"
     },
     {
-      "id": "c01e6764-921a-3a44-8504-a5973c60937c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The U.S. Senate Faces a Critical Vote on the Clarity Act on Sept. 15. Coinbase CEO Brian Armstrong Says It Will Pass",
-      "summary": "The Senate will take up a vote on cloture on Sept. 15.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/the-u-s-senate-faces-a-critical-vote-on-the-clarity-act-on-sept-15-coinbase-ceo-brian-armstrong-says-it-will-pass/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dXcsVCfjrcrdq67lVxMYHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d62c1656fd03c776b508ac4daf48215.jpg",
-      "published_at": "2026-08-21T17:39:01Z"
-    },
-    {
-      "id": "27a31e6f-158f-3ace-996c-2fc604620fef",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did Cleveland-Cliffs Stock Pop Today?",
-      "summary": "Cleveland-Cliffs is investing $1 billion in its flagship Ohio plant.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-did-cleveland-cliffs-stock-pop-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZYrQ7eGjx7ba6Kh5AYoOLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/35ccd92ca8e0ea259526d9e39a9d48e2.jpg",
-      "published_at": "2026-08-21T17:38:30Z"
-    },
-    {
       "id": "a39a2822-eb1d-3b7d-ac0c-5797e7181eeb",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -59,20 +202,20 @@
       "published_at": "2026-08-21T17:36:44Z"
     },
     {
-      "id": "7e15a176-131d-313b-a997-06667be978c4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Netflix Stock Double From Here? The Numbers Are Getting Interesting.",
-      "summary": "Netflix has shed a third of its value in the past year, and now a proprietary model is flashing a signal that has traders paying close attention. The math behind what happens next is harder to dismiss than most bears expect.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/could-netflix-stock-double-from-here-the-numbers-are-getting-interesting/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K3aKoatNpXHa0DzYIe2NUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/820f5eb0e33ef0a72145b5282fd54087.jpg",
-      "published_at": "2026-08-21T17:30:07Z"
+      "id": "1469d525-1d57-3ed6-b593-d1521f13ab3a",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Zoom Stock Is Priced Three Separate Ways At Once",
+      "summary": "The stock is cheaper than the market on earnings, close to double the market on sales, and level with it on cash flow.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/612401/zoom-stock-is-priced-three-separate-ways-at-once/2026-08-21",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EB8zHCHHxIc5UIsQhMc5iQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6fd61a3fd309a828c74619277f264657.jpg",
+      "published_at": "2026-08-21T17:35:02Z"
     },
     {
       "id": "63540314-affa-3546-8bb3-0493ccd984ff",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
       "summary": "Tech stocks were mixed Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XL",
       "source": "MT Newswires",
@@ -92,17 +235,6 @@
       "published_at": "2026-08-21T17:28:55Z"
     },
     {
-      "id": "57689343-e52f-324e-938a-b1d9f0b36456",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What’s Driving Quantum Computing Stocks Now?",
-      "summary": "Five pure-play quantum stocks surged between 7% and 10% on Friday with zero company announcements to explain the move, while the sector's biggest ETF barely budged. That gap between the fund and the names it supposedly holds tells you everything about what is really driving this trade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/infleqtion-soars-10-rigetti-jumps-9-ionq-climbs-7-whats-driving-quantum-computing-stocks-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UOr3VXE73wdbyoEuU5krSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8f0b8c6aa54c3917a8ef7d559fd5df82.jpg",
-      "published_at": "2026-08-21T17:28:42Z"
-    },
-    {
       "id": "82f7675c-88f1-3e0b-94f6-34c78b397d98",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -115,25 +247,14 @@
     },
     {
       "id": "90695156-8fe3-3030-a9c5-daa21184f6d8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Hyperscalers Will Spend $750 Billion on AI This Year. Cummins Sells the Backup Power.",
       "summary": "AI's power problem is becoming a growth engine for Cummins.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/21/hyperscalers-will-spend-750-billion-on-ai-this-yea/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HCZOyGgGeFHu7OpYrKz1bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/663a9a51a58760b45b55208d957af47d.jpg",
       "published_at": "2026-08-21T17:25:00Z"
-    },
-    {
-      "id": "8bc4610f-5f25-3599-972b-11e53c113b9e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Crypto Is Surging After President Trump Pushes Congress to Pass the Clarity Act. Which Cryptocurrencies Are Worth Buying Now?",
-      "summary": "Bitcoin's value has risen more than 20% in recent days.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/crypto-is-surging-after-president-trump-pushes-congress-to-pass-the-clarity-act-which-cryptocurrencies-are-worth-buying-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8Jz_B8QEjXHYd302KKWUYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4a391b0d265f9ab4f515d54dfc0f628f.jpg",
-      "published_at": "2026-08-21T17:23:34Z"
     },
     {
       "id": "087fd3dd-9533-3a8b-95b0-745e7dac8f07",
@@ -158,6 +279,17 @@
       "published_at": "2026-08-21T17:19:36Z"
     },
     {
+      "id": "1164a226-c567-3c95-ad3a-2fc428e56e8c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Oil Drillers See Pullback as Oil Prices Rise",
+      "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-see-pullback-171600604.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xlrQvzF20WKedzSeb_g4OA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/646cfd03287ec8455243908c636ac2b5.jpg",
+      "published_at": "2026-08-21T17:16:00Z"
+    },
+    {
       "id": "7917f323-61d2-38db-9cfb-a3acbe65db35",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -169,147 +301,15 @@
       "published_at": "2026-08-21T17:15:41Z"
     },
     {
-      "id": "674cd0ac-2bb8-38be-a417-b010452d34a9",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "RUM Group Jumps 7% on Northern Data AI Pivot, Trump Media Climbs 6%: Why Are Traders Focusing on These Alternative Media Platforms Today?",
-      "summary": "Two Trump-adjacent media stocks are converging on the same share price from opposite directions, and the reason one is up 33% while the other is down 36% this year tells you exactly what the market is rewarding in 2026.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/rum-group-jumps-7-on-northern-data-ai-pivot-trump-media-climbs-6-why-are-traders-focusing-on-these-alternative-media-platforms-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jn20TFwHYpp8WRZpcDOU9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/16f4550fdecb0aef633a02d000f63f56.jpg",
-      "published_at": "2026-08-21T17:14:32Z"
-    },
-    {
       "id": "d7267d86-b6d2-35f3-8569-f2f5bf4045c1",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "HYPE hits a new ATH after White House spotlight",
       "summary": "The HYPE token climbed to a fresh all-time high as a broader crypto rally and recent White House remarks helped drive investor optimism.",
       "source": "TheStreet",
       "url": "https://www.thestreet.com/crypto/markets/hype-hits-a-new-ath-after-white-house-spotlight",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fjXVm9pJhxmidbJws9yZOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/dc30bb91d37c32f9b51714c4d5260f8d.jpg",
       "published_at": "2026-08-21T17:11:51Z"
-    },
-    {
-      "id": "95dd4ad4-569e-3d91-878b-d9791657d714",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
-      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were higher. Actively t",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-170917052.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T17:09:17Z"
-    },
-    {
-      "id": "c28aa6c6-c2ef-37cb-aa45-7563dca23f00",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms",
-      "summary": "Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/dalio-says-sell-bonds-buy-170414392.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CAZH9LlgOxAEI94R8XotPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7ac9813f5429725ac149f507106df1cb.jpg",
-      "published_at": "2026-08-21T17:04:14Z"
-    },
-    {
-      "id": "07cce0cd-d6c7-3213-aa86-2881df3cf261",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Big Sky Industrial Targets Helium, Carbon Revenue in Phase I Launch",
-      "summary": "Big Sky Industrial Inc. Common Stock (NASDAQ:BSIN) is positioning itself as an industrial gas and carbon-management company while continuing to operate a legacy Montana oil business, Chief Executive Officer Ryan Smith said during Sidoti’s August conference. Smith said the company has shifted in rec",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/big-sky-industrial-targets-helium-carbon-revenue-in-phase-i-launch-2026-08-21/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gwNT2U_flD2VB5hCajfk_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/11351817c3c8eaffe41ca95e95952161.jpg",
-      "published_at": "2026-08-21T17:02:03Z"
-    },
-    {
-      "id": "534cb886-5de3-393f-a6ff-9204b132778b",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Indexes Rise Despite Further Uptick in Treasury Yields, Firm Oil Prices",
-      "summary": "US equity indexes rose in midday trading on Friday, rebounding from a sharp-selloff in the previous",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-despite-165247483.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T16:52:47Z"
-    },
-    {
-      "id": "96dc468d-73e6-3932-b8cd-268c4d9fe6a6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "This Oil Stock Beat Exxon and Chevron in 2026. Its Dividend Shrank",
-      "summary": "A Brazilian oil giant is crushing Exxon and Chevron in 2026 while its dividend quietly tells a very different story about where all that record cash is actually going.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/this-oil-stock-beat-exxon-and-chevron-in-2026-its-dividend-shrank/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3d2oe7ARTS2D.XyqHgNQ4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4d7eab0d5041e74001c8c17d74ff7d43.jpg",
-      "published_at": "2026-08-21T16:48:04Z"
-    },
-    {
-      "id": "d66935d1-6d51-3f6a-9468-43d81576b770",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Bitcoin Heads for Best Week Since 2024 Amid Trump-Fueled Crypto Rally",
-      "summary": "It’s a stellar week for cryptos—and it’s about more than just President Donald Trump calling for Congress to pass the Clarity Act.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qLc.0rWwbkjuLcFwCaBPiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a38ede8ec11a4d3af07458949472fc1f.jpg",
-      "published_at": "2026-08-21T16:47:00Z"
-    },
-    {
-      "id": "76f1ef67-1827-322c-a92d-e4bb5b5ae630",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on gold prices, Arkema, Solvay and more in the latest Market Talks covering basic materials.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9b4cadce?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5klTtB46_h2rTvu2q1j8vA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/4f53ec3dd26ff5d859a8e8075a7c5750.jpg",
-      "published_at": "2026-08-21T16:44:00Z"
-    },
-    {
-      "id": "817454cc-19fc-3585-a033-32ca71bccb6a",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Six Days Before Nvidia Reports, a Billionaire Says AI Adds ‘Literally Zero’",
-      "summary": "A billionaire investor says AI contributes nothing to corporate earnings growth, but Microsoft just filed numbers that tell a very different story. With Nvidia reporting in six days, the tension between trillion-dollar infrastructure bets and real-world returns is about to meet its biggest test.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/six-days-before-nvidia-reports-a-billionaire-says-ai-adds-literally-zero/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q8PAFK6_ahjXOBha_jm3Zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1c4141e47d5e996e84c9b481bb227f41.jpg",
-      "published_at": "2026-08-21T16:43:52Z"
-    },
-    {
-      "id": "8cc26acb-8e01-3b3b-8313-41ef27be3340",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "European stocks gain, but inflation worries drive weekly decline",
-      "summary": "By Tharuniyaa Lakshmi and Utkarsh Hathi Aug 21 (Reuters) - European shares advanced on Friday, as investors focused on signs of economic resilience, though the benchmark index ended the week lower,",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-steady-set-weekly-074231352.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qidGkarXIBL_lojh339TmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/0f1664c2c845ecc0e4bd829342173e54.jpg",
-      "published_at": "2026-08-21T16:38:23Z"
-    },
-    {
-      "id": "16100570-8c62-3ce4-9ee6-5e4e291f1a78",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "1911 Gold reports up to 96% gold recovery as True North mill recommissioning advances",
-      "summary": "1911 Gold Corporation CEO Shaun Heinrichs joined Steve Darling from Proactive to discuss encouraging metallurgical test results from the company’s True North Gold Project in Manitoba, along with progress on the recommissioning of the True North processing mill. The results demonstrate strong gold recoveries from both the True North and Ogama-Rockland deposits, supporting the company’s plans for future test mining and bulk sampling programs. Metallurgical testing on a 130-kilogram sample collected from the L10 Zone at True North delivered average total gold recoveries of 93.7%. Approximately 51% of the gold was recovered through gravity concentration, while an additional 44.5% reported to flotation concentrate. Subsequent leach testing of the reground flotation concentrate achieved average recoveries of 95.5%, highlighting the favorable metallurgical characteristics of the mineralization. The testing also demonstrated moderate reagent consumption, efficient leach times of between 24 and 48 hours, and a Bond Ball Mill Work Index indicating the material falls within the lower end of the medium-hardness range. At the Ogama-Rockland project, preliminary metallurgical testing delivered even stronger results. A composite sample grading 4.65 grams per tonne gold achieved total gold recovery of 96.3% using a gravity-flotation-regrind-leach process. Gravity concentration alone recovered 82% of the gold, while leaching of the flotation concentrate recovered 97.7% of the remaining gold. The results suggest that material from Ogama-Rockland could be highly amenable to processing through the True North mill. Heinrichs said the results confirm excellent recovery characteristics for both projects and demonstrate opportunities to further optimize flotation and leaching efficiencies. The company believes additional testing during upcoming bulk sampling and test mining activities could lead to further improvements in overall recoveries and processing economics. The company also reported progress on recommissioning the True North mill. A successful test run of the primary ball mill was completed following the installation of new liners, lifters, and a gear lubrication system. The work marks an important step toward preparing the facility for planned test mining and milling activities later this year. Environmental testing further strengthened the project's profile, confirming no acid-generating potential and no measurable deleterious metal leaching risk. These findings are consistent with the project's long operating history and support future development plans. With metallurgical results exceeding expectations and mill recommissioning progressing on schedule, 1911 Gold is positioning itself to advance both the True North and Ogama-Rockland projects while generating valuable operational data ahead of future production decisions. #proactiveinvestors #1911goldcorporation #1911gold #tsxv #aumb #otcqx #aumbf #GoldExploration #TrueNorthMine #GoldMining #TrueNorth #ManitobaMining #ResourceExpansion #Drilling #MiningNews #PreciousMetals #JuniorMining",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/video/1911-gold-reports-96-gold-163809264.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vXRSmsq4dg7fkZFN50IL6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_video_751/653975e187e1e231eaf74d24dcfbf6bf.jpg",
-      "published_at": "2026-08-21T16:38:09Z"
-    },
-    {
-      "id": "57eee163-33f2-3ae1-a868-b1f3f15621b4",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "FTSE 100 ends week up thanks to strong private sector and soaring gold price",
-      "summary": "The FTSE 100 index closed up 68.40 points, 0.6%, at 10,816.56.",
-      "source": "PA Media: Money",
-      "url": "https://uk.finance.yahoo.com/news/ftse-100-ends-week-thanks-163228772.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xJYAm6gdluNcNv5o02gSjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/snappa.ukfinance/f3857ff3dfaed34087d7d12839706ba1.jpg",
-      "published_at": "2026-08-21T16:32:28Z"
     }
   ]
 }
