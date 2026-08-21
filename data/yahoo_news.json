@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-08-21 19:22 UTC",
+  "last_updated": "2026-08-21 19:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "de926a17-0c50-3096-bf4a-f47a3ee3f83b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Walmart Finally Gives In on Apple Pay and Google Pay",
+      "summary": "Tap to Pay begins rolling out Aug. 24 across select U.S. locations.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/media-advertising/articles/walmart-finally-gives-apple-pay-194228259.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T19:42:28Z"
+    },
+    {
+      "id": "425fcf6f-0c8d-335a-b672-6040e4886fe7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+      "summary": "The world's largest foundry is rebounding as investors prepare for the earnings report that could reset semiconductor expectations.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T19:39:30Z"
+    },
+    {
+      "id": "c9020422-504a-34a4-be80-313c536ba5d9",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "BofA Sees a Stock Market Setup Starting to Change",
+      "summary": "Several hated assets could benefit if consensus starts cracking",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-stock-market-setup-193717505.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T19:37:17Z"
+    },
+    {
+      "id": "d6068772-3037-3d4f-b949-2264dca91078",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Equity Indexes Rise Despite Surging Bond Yields",
+      "summary": "US equity indexes rose markedly ahead of the close on Friday after a sharp selloff in the previous s",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-despite-193017144.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T19:30:17Z"
+    },
+    {
+      "id": "fb9d44bd-5fa0-3fbc-9c2e-6dd7732910f2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Elon Musk: “Starlink Now Has 11k Satellites in Orbit.” Amazon Hasn’t Even Cracked 1,000.",
+      "summary": "Elon Musk just announced Starlink crossed 11,000 satellites in orbit, but the real story is where Amazon's much-hyped Kuiper constellation actually ranks against the competition and what that gap means for investors betting on the LEO broadband race.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/elon-musk-starlink-now-has-11k-satellites-in-orbit-amazon-hasnt-even-cracked-1000/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sC4I17Ab6fPmpxqNSA4IFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f86bb5742b516d3f4d370f6c01e3b219.jpg",
+      "published_at": "2026-08-21T19:30:12Z"
+    },
+    {
+      "id": "76384a48-b3e6-3f37-a9b8-a538f6e8df8e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift",
+      "summary": "Investing.com -- Apple Inc. is eliminating jobs across teams working on the Siri digital assistant and Vision Pro headset as the company shifts its focus toward new devices and artificial intelligence, Bloomberg reported Friday.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-reportedly-cuts-jobs-siri-192838174.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T19:28:38Z"
+    },
+    {
+      "id": "dccfc10b-8bb6-3f33-bae1-38612721262a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil rises as Trump threatens sanctions on Iran partners",
+      "summary": "By Erwin Seba HOUSTON, Aug 21 (Reuters) - International and U.S. crude oil futures rose on Friday after U.S.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-set-second-weekly-rise-014957202.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nApFlmFiGnuoZQGToTtdWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2ef1b3a7f0630405ff41b2166b434179.jpg",
+      "published_at": "2026-08-21T19:21:35Z"
+    },
+    {
+      "id": "db044bf3-b751-3acf-a374-82cf2c8f8a6d",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold and Silver Mania Returns",
+      "summary": "Treasury Secretary Scott Bessent's bond market intervention this week lit a fire under gold and silver.  Prices of the precious metals rose sharply again Friday.  It's a bit hard to square with rising bond yields, which makes holding precious metals a tough sell compared to just plonking the money in a savings account.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/gold-and-silver-mania-returns-Z0HF8lv8qSNCZmpscoaV?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-21T19:12:22Z"
+    },
     {
       "id": "d6338bc2-f53f-34d4-825c-9656f620deff",
       "asset": "NVDA",
@@ -15,6 +103,28 @@
       "published_at": "2026-08-21T19:10:30Z"
     },
     {
+      "id": "cd3810c1-b11d-39ae-8992-d9aff165a913",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "SM Energy (SM) Stock Trades At A Discount On Earnings Despite A 136% Return",
+      "summary": "SM Energy has delivered a 136.5% total return over the past 5 years, yet its valuation checks still lean cheap, which raises the question of whether the recent share price strength has fully reflected the fundamentals. Recent headlines around Permian Basin well results and the canceled Erie mineral rights deal add further context to how investors may be weighing both opportunity and risk in the stock. A 136.5% return over 5 years suggests SM Energy has already rewarded patient shareholders...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-sm-stock-trades-191005107.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RcJCfwe27SNZLs8Nb66nOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/fef15a04bcb8e7f05d317d73670619f7.jpg",
+      "published_at": "2026-08-21T19:10:05Z"
+    },
+    {
+      "id": "969400a7-3c7e-3df1-9a1b-5f2b47b2a109",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warsh at Jackson Hole, Nvidia Earnings: What to Watch Next Week",
+      "summary": "It’s late August, but the coming week will be a big one for markets. Headline events include Nvidia earnings after the bell Wednesday and Kevin Warsh’s first major policy speech as Federal Reserve chairman on Friday.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/warsh-at-jackson-hole-nvidia-earnings-what-to-watch-next-week-e9WedRMUsVqY3fMQCdVf?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KZmDTcPzi8M.f475VpDT9g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/241d108eb7b20f2a2523d2b304b56441.jpg",
+      "published_at": "2026-08-21T19:09:36Z"
+    },
+    {
       "id": "cfbaf5c5-87e9-346a-b968-1e05e7c6a5d6",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -24,6 +134,17 @@
       "url": "https://247wallst.com/investing/2026/08/21/which-steel-stock-has-dominated-in-2026-nucor-steel-dynamics-or-worthington-steel/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YJQu043OcEyb2nqbhmbWjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3b0cf03100fb9b8c19628c66805f2f13.jpg",
       "published_at": "2026-08-21T19:07:33Z"
+    },
+    {
+      "id": "4e43b47e-3dcf-39da-8ac4-22aa80adff16",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "This Market Barometer Is Sending a Warning Sign",
+      "summary": "Vestmo, a quantitative research firm we track at the Barron’s Investor Circle, sent an update on its market barometer on Friday.  The barometer takes into account seven different factors, including things such as earnings variability and price momentum.  Vestmo noted higher rates, rising oil prices, and a “less supportive” Federal Reserve that is more likely to hike interest rates than cut them are among the drivers of the more risk-off stance.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082126/card/this-market-barometer-is-sending-a-warning-sign-mxfCvUnENNjPgQGFF4a6?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iZv.q0pYpyiVmwsSannrAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/34f4fbd1c8934326a7ac4d23823faf24.jpg",
+      "published_at": "2026-08-21T19:07:25Z"
     },
     {
       "id": "7806a3be-d4ea-3893-88e5-04a0d556e648",
@@ -82,8 +203,8 @@
     },
     {
       "id": "5f80281e-b114-34ac-bb02-b515e4599ca0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Is Microsoft a Screaming Buy Under $500 Per Share?",
       "summary": "Microsoft has rallied back from the plunges it took earlier this year, but can it go higher?",
       "source": "Motley Fool",
@@ -101,6 +222,17 @@
       "url": "https://www.thestreet.com/markets/jim-cramer-says-stock-market-downturn-creates-ai-buying-opportunities",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ouoVCEJRmJ4p2k7e4KyMVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/87f3fb5b831f9d5a8c8579284e3ca5be.jpg",
       "published_at": "2026-08-21T18:47:00Z"
+    },
+    {
+      "id": "92e50bf8-02d1-3510-86ab-39fa5c4adbad",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
+      "summary": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-cuts-jobs-siri-vision-184532829.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hXbfzZDwH7OXvcrf9l3yTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/c985b092e3cb6fae8a8423cf4c67d24b.jpg",
+      "published_at": "2026-08-21T18:45:32Z"
     },
     {
       "id": "f764398f-8198-339c-8362-7b671e9bb57b",
@@ -136,6 +268,17 @@
       "published_at": "2026-08-21T18:39:00Z"
     },
     {
+      "id": "dfe0b123-bef1-37f7-8300-2f3454c359aa",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Jumps While the S&P Heads for Weekly Loss",
+      "summary": "Stocks were rising, but the Dow industrials were still facing their largest weekly decline since March.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/bond-yields-steady-as-treasury-intervention-struggles-to-convince-439dbe17?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9u5LY0uHacK36GihUUVkOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/e6e8173862e41f9011caf5adae8e6ed1.jpg",
+      "published_at": "2026-08-21T18:38:00Z"
+    },
+    {
       "id": "6cc27e2d-a300-3fc5-b845-0b259270ac15",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -147,20 +290,9 @@
       "published_at": "2026-08-21T18:36:06Z"
     },
     {
-      "id": "896c50a5-c43f-3664-8140-65663f101c3a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Veteran trader who called 50% gold crash buys Bitcoin",
-      "summary": "Peter Brandt says Bitcoin forced him to change his mind.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/veteran-trader-who-called-50-gold-crash-buys-bitcoin",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y2rT1BPz5Zm87H1_Aw6UIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8bb08e410303ffa50fce4a7cf140b489.jpg",
-      "published_at": "2026-08-21T18:35:58Z"
-    },
-    {
       "id": "b90f20d9-9be3-3467-937b-290e9010c65f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Ray Dalio Warns US Debt Crisis Looms, Urges Shift To Gold And Bitcoin",
       "summary": "Billionaire investor Ray Dalio warns that mounting U.S. debt and soaring deficits could trigger a fiscal crisis within one to five years.",
       "source": "Stocktwits",
@@ -178,138 +310,6 @@
       "url": "https://www.trefis.com/articles/612403/microsoft-stock-gets-cheaper-only-if-the-forecast-arrives/2026-08-21",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FC_uIrZ4OflzbU2gfbPezQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/f5bbfd947ebcc09b4a540f522b416137.jpg",
       "published_at": "2026-08-21T18:30:28Z"
-    },
-    {
-      "id": "d34caaa0-7770-3acb-a95b-a7a964a612c2",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Bank of America's Stock Market Signal Flashes Warning",
-      "summary": "Crowded positioning could make the next pullback sharper",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-stock-market-signal-182955978.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T18:29:55Z"
-    },
-    {
-      "id": "fc4a0230-c299-3158-a36b-2e1eabdd88a4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside?",
-      "summary": "CoreWeave and Nebius are two of the fastest-growing companies in the market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/coreweave-vs-nebius-group-which-artificial-intelli/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y2G40ELMVIFa6q4Qje3Znw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d7ccd5244dbbe9366a65fc913b10670.jpg",
-      "published_at": "2026-08-21T18:29:00Z"
-    },
-    {
-      "id": "d9eb710a-3a07-3678-8e3f-3f26fd9b2966",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "BMO Spots a Bigger Nvidia Story",
-      "summary": "Wall Street sees more room despite Nvidia's massive run",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-spots-bigger-nvidia-story-182819406.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T18:28:19Z"
-    },
-    {
-      "id": "ab2dc88d-82c3-3bf6-abdc-fd6b0e580bf3",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Amazon Stock: Cloud Takes The Spotlight While The Store Pays The Toll",
-      "summary": "The per-unit delivery cost that management once led with is now the CFO's line, and the comparison it rests on carries a fuel and line haul exclusion, while the top of the story belongs to the cloud.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612402/amazon-stock-cloud-takes-the-spotlight-while-the-store-pays-the-toll/2026-08-21",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8zsU4Wq2Tc3RQB2mAXmuWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/95ba5b514895efb5fd369a4b0efddd11.jpg",
-      "published_at": "2026-08-21T18:24:50Z"
-    },
-    {
-      "id": "a6fe01a9-ea84-34e7-a000-8f9779c8c319",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
-      "summary": "The electric-vehicle giant is ending a volatile week with two potential commercial-growth engines moving closer to reality.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T18:22:20Z"
-    },
-    {
-      "id": "424ae195-7c22-36b8-ac8b-8cb4cc4c3341",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "UBS Revamps S&P 500 Price Target For Rest of 2026",
-      "summary": "UBS Bets on More S&P 500 Gains With Fresh 8,100 Year-End Target",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-price-181835657.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T18:18:35Z"
-    },
-    {
-      "id": "a2238ab7-cce1-3d78-aa83-7bd38cd9cb85",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Cathie Wood's Ark Invest Held $1.16 Billion of Tesla Stock as of the End of the Second Quarter, Even as It Trails Every Other \"Magnificent Seven\" Stock in 2026. Is Her Conviction Still Justified?",
-      "summary": "Cathie Wood is betting Tesla will become more than an automaker.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/cathie-woods-ark-invest-held-116-billion-of-tesla/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PgE0cxmrRg04GLVLN1U6TA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bdc77d76e5df9f534017316cefc6e7dd.jpg",
-      "published_at": "2026-08-21T18:16:00Z"
-    },
-    {
-      "id": "dccfc10b-8bb6-3f33-bae1-38612721262a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil rises as Trump threatens sanctions on Iran partners",
-      "summary": "By Erwin Seba HOUSTON, Aug 21 (Reuters) - International and U.S. crude oil futures rose on Friday after U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-set-second-weekly-rise-014957202.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nb7TaDHxu1fUdMRr0QiXQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/80da66fc2282e71e5b31058d41653515.jpg",
-      "published_at": "2026-08-21T18:14:25Z"
-    },
-    {
-      "id": "5d008601-4574-3044-abfd-3058074f3bf3",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "What Adobe Stock's Low Earnings Multiple Is Actually Priced On",
-      "summary": "Adobe stock trades well below the market on earnings, and the subscription book that has to produce the next set of them is one the company has chosen to grow more slowly.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612400/what-adobe-stocks-low-earnings-multiple-is-actually-priced-on/2026-08-21",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0G5NBSzNt3s0N1WimkQVQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg",
-      "published_at": "2026-08-21T18:09:29Z"
-    },
-    {
-      "id": "3e2814ed-8527-3198-874d-15d4055f9ff9",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "US Dollar Continues to Weaken Against The Loonie as Oil, Gold Prices Edge Up",
-      "summary": "The US dollar was weaker against the Canadian dollar Friday afternoon as oil and gold prices continu",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-continues-weaken-against-180646425.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T18:06:46Z"
-    },
-    {
-      "id": "00b7a0bb-5c68-3cd9-bc0c-36554d6177ba",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "FuelCell Energy Jumps 5%, Plug Power Climbs 4%, Bloom Energy Slips as the Hydrogen Trade Splits",
-      "summary": "FuelCell Energy and Plug Power are surging while Bloom Energy slides and the sector ETF drops, and the reason why tells you something important about how hydrogen trades actually work.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/fuelcell-energy-jumps-5-plug-power-climbs-4-bloom-energy-slips-as-the-hydrogen-trade-splits/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gX2MTpw_xNz3fTOZyFaU_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/55e3353744e930ccab7cee5c3cc1a1df.jpg",
-      "published_at": "2026-08-21T18:04:43Z"
-    },
-    {
-      "id": "aa052d8e-a00e-3c3c-bca1-70983bd577f3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Indexes Rise as Markets Attempt Rebound After Sharp Selloff Amid Elevated Oil Prices, Treasury Yields",
-      "summary": "US equity indexes rose after midday on Friday as markets attempted to rebound following a sharp sell",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-markets-174706083.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T17:47:06Z"
     }
   ]
 }
