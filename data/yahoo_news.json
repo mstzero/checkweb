@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-08-21 21:20 UTC",
+  "last_updated": "2026-08-21 21:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "faf2cde3-16cf-3845-a2fc-c4ef6b10fbab",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Two Years of Friday Paydays: The 44% Fund Has Kept Its NAV and Beaten Half of Wall Street",
+      "summary": "QDTE has delivered a Friday paycheck almost every week for two years, but the numbers behind that headline yield tell a more complicated story about what income-hungry investors are actually giving up.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/two-years-of-friday-paydays-the-44-fund-has-kept-its-nav-and-beaten-half-of-wall-street/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lf4UMtDdF4jruZbO7Ac.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5675d93d5665df35cd7bbc73e52f44ee.jpg",
+      "published_at": "2026-08-21T21:35:03Z"
+    },
+    {
+      "id": "3196f670-8ef4-3aad-abb6-e92252c61951",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Lululemon Is Down 49% From Its All-Time High. Should You Buy Before Sept. 3?",
+      "summary": "The athleisure specialist is struggling, but a strong earnings report can turn momentum around.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/lululemon-is-down-45-from-its-all-time-high-should/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HJXDeMvakEU9Na88rNjXLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5b37e153f03d8fdbb889570de74f032.jpg",
+      "published_at": "2026-08-21T21:27:00Z"
+    },
+    {
+      "id": "149d4ae9-26ac-390c-b375-c24be22b3d01",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "JEPI Holds $46 Billion and Is Up 5.8% This Year. Four Funds With the Same Job Beat It by Double Digits",
+      "summary": "JEPI pays monthly, keeps volatility low, and manages $46 billion in investor trust. So why are smaller, lesser-known funds quietly compounding circles around it this year, and what does that gap actually cost a long-term holder?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/jepi-holds-46-billion-and-is-up-5-8-this-year-four-funds-with-the-same-job-beat-it-by-double-digits/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mqRrGngaSsd4amHOJ37C.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/49bdc8db747146d2be10a35be7135a7e.jpg",
+      "published_at": "2026-08-21T21:25:55Z"
+    },
+    {
+      "id": "0de9a631-8015-34bc-a63e-a72f47d0e059",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Stock Market Today, Aug. 21: Tesla Gains on Nevada Robotaxi Permit Approval",
+      "summary": "On Aug. 21, 2026, Nevada cleared the way for paid autonomous ride-hailing services, fueling investor optimism on its Cybercab fleet deployment.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/21/stock-market-today-aug-21-tesla-gains-on-nevada-robotaxi-permit-approval/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RHoLDFvlsRRo8z2_mqfuVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460.png",
+      "published_at": "2026-08-21T21:22:00Z"
+    },
+    {
+      "id": "d52571e0-7395-3a2e-bcef-32db47da40e4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg",
+      "summary": "Investing.com -- Anthropic (NASDAQ:ANTP) has hired former Google executive Amir Salek to join its compute team as the artificial intelligence lab lays the groundwork for an in-house semiconductor initiative, according to a report from Bloomberg. Salek, who previously led Alphabet Inc.’s custom silicon efforts and delivered seven generations of Tensor Processing Units, will report directly to Anthropic compute lead James Bradbury. The executive recruitment underscores Anthropic’s ambition to secu",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-hires-ex-google-chip-211528852.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T21:15:28Z"
+    },
+    {
+      "id": "30e34a06-1b9a-36b9-88a6-f806b2736308",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "You Do Not Need $1 Million to Retire: These 3 ETFs Pay About $49,000 a Year on $600,000",
+      "summary": "The retirement industry insists you need seven figures before you can quit working, but a trio of overlooked ETFs rewrites that assumption in a way most financial advisors never mention to their clients.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/you-do-not-need-1-million-to-retire-these-3-etfs-pay-about-49000-a-year-on-600000/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JSgBbbFnqXexV4QdZAowXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/06e9564259a6c9f60a09c4793a2d5cae.jpg",
+      "published_at": "2026-08-21T21:15:13Z"
+    },
+    {
+      "id": "d415f433-5ef2-309a-b89a-163728bb265b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Jefferies Just Said Sell Apple (AAPL). Here’s the iPhone Feature That Got Canceled",
+      "summary": "On August 10, Jefferies downgraded Apple Inc. (NASDAQ:AAPL) to underperform from hold, cutting its price target to $263.66 from $285.56, implying roughly a 16% downside from Friday’s close of $313.33. Analyst Edison Lee said supply chain checks show Apple has canceled its planned all-glass 20th-anniversary iPhone, expected to launch in September 2027, due to poor […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-just-said-sell-apple-211157587.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/guI8jCREpGNRSpogsdXpuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84.jpg",
+      "published_at": "2026-08-21T21:11:57Z"
+    },
+    {
+      "id": "36652715-26fa-33c3-a55e-f1da9d31c2d9",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Get Paid 16% A Year To Hold INTU Stock You Already Own",
+      "summary": "Here is a way to collect an attractive income on INTU now, which you keep whatever the stock does, in exchange for agreeing to sell your shares if the stock climbs above a higher price.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/612362/get-paid-16-a-year-to-hold-intu-stock-you-already-own/2026-08-21",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wIXMMcpC6KPbSVcdREudJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/9d7431dffa0e017dcd7019c5587504cb.jpg",
+      "published_at": "2026-08-21T21:11:53Z"
+    },
+    {
+      "id": "d58ce932-427a-330c-b1eb-56689815cb24",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
+      "summary": "State Street runs two S&P 500 ETFs that hold the exact same stocks in the exact same weights and pay the exact same dividends, yet most investors park their money in the one that costs significantly more.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xq1hZ4.Xnl0p9JWUmnXvwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48d965dd92d94085b56b7f7e0e9d5695.jpg",
+      "published_at": "2026-08-21T21:05:02Z"
+    },
     {
       "id": "b8309993-affe-37b3-aa21-63bd837c2a5f",
       "asset": "NVDA",
@@ -48,17 +147,6 @@
       "published_at": "2026-08-21T21:01:11Z"
     },
     {
-      "id": "f0ee76b0-9ab4-3801-9abf-02f7b39c7d36",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "BJ's Wholesale Club Holdings, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of BJ's Wholesale Club Holdings, Inc.'s Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-bjs-wholesale-club-holdings-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qozNRpGsVVVIwdF.nHeEKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/1dda54a7e67520ffe8928de7cdb5d002.png",
-      "published_at": "2026-08-21T21:00:52Z"
-    },
-    {
       "id": "3d0d076e-27a2-31de-9bad-3f15420cb970",
       "asset": "QQQ",
       "asset_name": "Nasdaq 100 ETF",
@@ -68,6 +156,17 @@
       "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-spdr-leads-inflows?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H_DXloducZG7SpdsyxpYAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/685c6a7e1fcae476c06ee752a956ffca.png",
       "published_at": "2026-08-21T21:00:04Z"
+    },
+    {
+      "id": "e97cd0de-bd9c-3ce3-aa12-8e239bc905a3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Ray Dalio Sees Japan Debt Crisis Coming to America: 2 Assets Are His Escape Plan",
+      "summary": "Ray Dalio says Japan debt losses preview America's crisis. See the 2 assets he wants investors holding now.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/ray-dalio-japan-debt-america-bitcoin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOWlJdpvinLNCJ6lNUgO4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/980b4869aad38995d359edf63fee6a97.jpg",
+      "published_at": "2026-08-21T20:58:08Z"
     },
     {
       "id": "2fa30144-2aea-3453-a100-8a7c7bdc7460",
@@ -136,37 +235,15 @@
       "published_at": "2026-08-21T20:43:38Z"
     },
     {
-      "id": "9c628d3f-e942-3a8a-8dc5-f9d5a84f6eeb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Mark Cuban: “No Chance” Radiologists Get Replaced by AI. He Says the Real Target Is Elsewhere",
-      "summary": "Mark Cuban says AI will never replace radiologists, and his reasoning has nothing to do with capability. The real disruption, he argues, targets a different layer of medicine entirely, one worth hundreds of billions in enterprise value at some of the biggest names in healthcare.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/mark-cuban-no-chance-radiologists-get-replaced-by-ai-he-says-the-real-target-is-elsewhere/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zfGFWTd7IDOGLO3Mw4FjzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d64b9e91b0607746fae8b8f5dc00f315.jpg",
-      "published_at": "2026-08-21T20:42:46Z"
-    },
-    {
       "id": "4cc83f77-75e5-38fe-9113-44312fa5e491",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It’s Not Worried",
       "summary": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to The Information, the company has been testing at least three versions with reduced high-bandwidth memory, some as low as 192GB to 256GB, well below the 1 […]",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
       "published_at": "2026-08-21T20:40:25Z"
-    },
-    {
-      "id": "ab896025-9eb7-3478-b19c-7560fd065b92",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: Dow Gains 500 Points; SpaceX Snaps A Losing Streak, Bitcoin Pops",
-      "summary": "Stock Market Today: The Dow Jones index rises Friday after selling off a day earlier. Nvidia falls ahead of Q2 earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AQfMzxlMEeqxA5TnhD19SA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/61fe390fad87bddd862927d41084d952.jpg",
-      "published_at": "2026-08-21T20:40:11Z"
     },
     {
       "id": "faf788b2-dde6-33d4-a1d6-cb6aded886e0",
@@ -213,6 +290,17 @@
       "published_at": "2026-08-21T20:23:34Z"
     },
     {
+      "id": "8441cc58-de4e-35b7-8284-d4ebc8ed02e5",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today’s Market",
+      "summary": "Moderna shares rise to close out a week of wild swings. Crypto stocks also extend their recent rally.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-b87ea8d7?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X2qiIL0jwISZoXxXCy5JgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/df08f3da8dd8358a03fd841d483851f3.jpg",
+      "published_at": "2026-08-21T20:18:00Z"
+    },
+    {
       "id": "f3fce6c2-3fef-3a3f-8412-d6c825cb2818",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -222,94 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html",
       "thumbnail": "",
       "published_at": "2026-08-21T20:17:03Z"
-    },
-    {
-      "id": "a2904b51-c23d-3bb1-ab96-c3522adb9030",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Just Won One of Its Biggest AI Customers",
-      "summary": "Big Tech rivals are increasingly buying AI from each other",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:16:45Z"
-    },
-    {
-      "id": "e3777586-7b29-3abf-85fd-2c664cfb9398",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft (MSFT)’s Betting Big on Its Own AI Chips. Is It Already Too Late?",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) has spent years watching Google and Amazon build their own AI chips while it stayed mostly dependent on Nvidia. That’s starting to change. The Information reports Microsoft is preparing to launch its new Maia 300 AI chip this fall, possibly as soon as next month. It is already in talks with TSMC […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-betting-big-own-201414728.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mt_e6td8u1xETtaT1khYHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9.jpg",
-      "published_at": "2026-08-21T20:14:14Z"
-    },
-    {
-      "id": "cf535819-2ed5-3ec1-9b61-6557e31e318f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Morgan Stanley Doubles Down on Gold After Breakout",
-      "summary": "Gold's latest breakout may still have another leg higher.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:12:59Z"
-    },
-    {
-      "id": "139d9206-70dc-31fe-b13a-a242570c94a4",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Rises as $678 Billion Backlog Defies Yield Pressure",
-      "summary": "Azure's contracted demand is helping Microsoft resist a brutal week for rate-sensitive technology stocks.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-200956172.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:09:56Z"
-    },
-    {
-      "id": "05ff0bda-5ffc-30b3-84a9-de7023d6dcac",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple's Next CEO Could Spend More to Catch Up in AI",
-      "summary": "Bank of America sees a more aggressive AI era under John Ternus.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apples-next-ceo-could-spend-200234724.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:02:34Z"
-    },
-    {
-      "id": "85c17750-c962-3d1e-8417-d9fe0ad9313a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Falls as Leadership Questions Deepen Its AI Dilemma",
-      "summary": "Investors are debating whether Apple's next chief executive must abandon its restrained infrastructure strategy to compete.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-falls-leadership-questions-deepen-200129650.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:01:29Z"
-    },
-    {
-      "id": "16c7f9d2-b28d-3093-8662-e0ca17b41d79",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Alphabet Rises as Waymo Secures Another Robotaxi Market",
-      "summary": "Las Vegas permits strengthen Alphabet's claim that autonomous driving is becoming a commercial platform rather than a research project.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/alphabet-rises-waymo-secures-another-200045385.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:00:45Z"
-    },
-    {
-      "id": "aea7515a-bd12-33f9-bad2-903ade57427e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
-      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index slightly lower and",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T19:57:00Z"
     }
   ]
 }
