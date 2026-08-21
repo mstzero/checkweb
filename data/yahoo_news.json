@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-21 21:47 UTC",
+  "last_updated": "2026-08-21 22:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "c321f883-75ca-359c-9c62-6c5e96564cf4",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "DIVO Holders Gave Up $79,300 on a $500,000 Position Over Five Years for Downside Comfort",
+      "summary": "DIVO promises smoother drawdowns and monthly income, but the comfort of a covered-call strategy comes with hidden costs that compound quietly into five-figure territory on a half-million-dollar position over five years.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/divo-holders-gave-up-79300-on-a-500000-position-over-five-years-for-downside-comfort/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/306_Y0AnZe278zYGV.tU0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e566f16cf80efd7f1a9e0db51e301c0b.jpg",
+      "published_at": "2026-08-21T22:05:31Z"
+    },
+    {
+      "id": "6ccfcaae-b59a-3313-9792-61aab841c82c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "BitFuFu (FUFU) Increased Hashrate Allocated to Self-Mining 47%. Why Did Revenue Collapse 63%?",
+      "summary": "BitFuFu Inc. (NASDAQ:FUFU) reported a quarter that exposed the difference between producing more Bitcoin and making more money from it. Second-quarter revenue fell 62.9% year over year to $42.8 million, while a $20.5 million net loss replaced a $47.1 million profit. Yet average hashrate allocated to self-mining rose 47%, helping lift self-mined production 34% to […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitfufu-fufu-increased-hashrate-allocated-215607748.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kc3FmPk1eem_3v72mRwzQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c7b4d0e05ca5b213d76cce5001de89ba.jpg",
+      "published_at": "2026-08-21T21:56:07Z"
+    },
+    {
+      "id": "840d2bc4-e493-3a7c-8130-a9fc2c787829",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "VTV’s 0.03% Fee Hides the Real Cost: $250,000 Trails the S&P 500 by $229,000 Over a Decade",
+      "summary": "Vanguard's VTV carries one of the lowest expense ratios in the ETF universe, yet a quarter-million dollar investment has quietly fallen far behind a basic S&P 500 fund over the past decade for a reason the fee disclosure never mentions.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/vtvs-0-03-fee-hides-the-real-cost-250000-trails-the-sp-500-by-229000-over-a-decade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S4fnYeRSj7HlkNnJTj4vBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/580bba55027bf61c29dd7a73fbf0dd28.jpg",
+      "published_at": "2026-08-21T21:55:01Z"
+    },
+    {
+      "id": "a574904e-70cd-35f1-b2ba-39f9c930ed9f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Warren Buffett Successor Greg Abel Cut Berkshire's Bank of America Stake by $1.7 Billion. He Added $1.6 Billion of Delta Air Lines.",
+      "summary": "The conglomerate's new CEO spent the second quarter selling the bank Buffett had been selling for two years -- and buying the airline Buffett sold out of in 2020.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/warren-buffett-successor-greg-abel-cut-berkshire-s-bank-of-america-stake-by-usd1-7-billion-he-added-usd1-6-billion-of-delta-air-lines/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fdeZt5CeENQgsXnpc0hDBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/786ef52a6ce291cf1c380775faeb9941.png",
+      "published_at": "2026-08-21T21:53:01Z"
+    },
+    {
+      "id": "e4bc1328-64a0-3b28-a227-067671a70572",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",
+      "summary": "The U.S. 30-year Treasury yield climbed for the second straight week.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-indices-end-week-lower-on-pressure-from-elevated-long-duration-treasury-yields-psky/cZY97YMRJVO",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JCvo65TurCbamAIH6IxjLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c.jpg",
+      "published_at": "2026-08-21T21:48:44Z"
+    },
+    {
+      "id": "5a0bf949-d207-3a8f-9d9f-f9c30fbd93b8",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Why Is Tesla Stock Up Today?",
+      "summary": "Tesla caught two breaks: Nevada regulators cleared it to put as many as 5,000 driverless robotaxis on Las Vegas streets, and its electric semi truck is headed to Germany.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/why-is-tesla-stock-up-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0Mkk._udBd30Ugwc3EEjKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52695136bc64c92fba1d744c84da0c52.jpg",
+      "published_at": "2026-08-21T21:46:33Z"
+    },
+    {
+      "id": "e54d1adc-55b0-3600-a2be-000d7753ae6f",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "How a 72-Year-Old’s $400,000 in QYLD Now Pays $3,901 a Month, Down From a Steadily Shrinking Peak",
+      "summary": "She built her retirement around a fund that promised monthly income for life, but each check arriving in her account may be quietly dismantling the nest egg behind it.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/how-a-72-year-olds-400000-in-qyld-now-pays-3901-a-month-down-from-a-steadily-shrinking-peak/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dpaQryXb4X6XOupZIrBpbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/80203f7482a707cbd2eaad73b0105d04.jpg",
+      "published_at": "2026-08-21T21:45:54Z"
+    },
     {
       "id": "faf2cde3-16cf-3845-a2fc-c4ef6b10fbab",
       "asset": "QQQ",
@@ -15,28 +92,6 @@
       "published_at": "2026-08-21T21:35:03Z"
     },
     {
-      "id": "3196f670-8ef4-3aad-abb6-e92252c61951",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Lululemon Is Down 49% From Its All-Time High. Should You Buy Before Sept. 3?",
-      "summary": "The athleisure specialist is struggling, but a strong earnings report can turn momentum around.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/lululemon-is-down-45-from-its-all-time-high-should/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HJXDeMvakEU9Na88rNjXLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d5b37e153f03d8fdbb889570de74f032.jpg",
-      "published_at": "2026-08-21T21:27:00Z"
-    },
-    {
-      "id": "149d4ae9-26ac-390c-b375-c24be22b3d01",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "JEPI Holds $46 Billion and Is Up 5.8% This Year. Four Funds With the Same Job Beat It by Double Digits",
-      "summary": "JEPI pays monthly, keeps volatility low, and manages $46 billion in investor trust. So why are smaller, lesser-known funds quietly compounding circles around it this year, and what does that gap actually cost a long-term holder?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/jepi-holds-46-billion-and-is-up-5-8-this-year-four-funds-with-the-same-job-beat-it-by-double-digits/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mqRrGngaSsd4amHOJ37C.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/49bdc8db747146d2be10a35be7135a7e.jpg",
-      "published_at": "2026-08-21T21:25:55Z"
-    },
-    {
       "id": "0de9a631-8015-34bc-a63e-a72f47d0e059",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -46,17 +101,6 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/08/21/stock-market-today-aug-21-tesla-gains-on-nevada-robotaxi-permit-approval/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RHoLDFvlsRRo8z2_mqfuVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460.png",
       "published_at": "2026-08-21T21:22:00Z"
-    },
-    {
-      "id": "d52571e0-7395-3a2e-bcef-32db47da40e4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg",
-      "summary": "Investing.com -- Anthropic (NASDAQ:ANTP) has hired former Google executive Amir Salek to join its compute team as the artificial intelligence lab lays the groundwork for an in-house semiconductor initiative, according to a report from Bloomberg. Salek, who previously led Alphabet Inc.’s custom silicon efforts and delivered seven generations of Tensor Processing Units, will report directly to Anthropic compute lead James Bradbury. The executive recruitment underscores Anthropic’s ambition to secu",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-hires-ex-google-chip-211528852.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T21:15:28Z"
     },
     {
       "id": "30e34a06-1b9a-36b9-88a6-f806b2736308",
@@ -103,17 +147,6 @@
       "published_at": "2026-08-21T21:05:02Z"
     },
     {
-      "id": "b8309993-affe-37b3-aa21-63bd837c2a5f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week",
-      "summary": "Generally speaking, as cryptos go, so goes the company's equity.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-bitmine-immersion-technologies-stock-skyrocket/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BF3Oznw6PZFmQ0XS9bk_Cg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/01faacd12e41de2e5d3f22b92b992ae4.jpg",
-      "published_at": "2026-08-21T21:04:54Z"
-    },
-    {
       "id": "eeb9d4a5-709e-3c13-950e-15ab74f5e034",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -123,28 +156,6 @@
       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0pZhypAvzRCvIsePvARGuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ab59bbd24d2a0bf14da3a416cfa785ef.jpg",
       "published_at": "2026-08-21T21:04:00Z"
-    },
-    {
-      "id": "94975861-86a4-3b75-8ed4-e8a46813aeaa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Fabrinet Shed Nearly A Quarter of Its Value This Week",
-      "summary": "Fabrinet trounced earnings expectations, but hopes for an even bigger beat and other macroeconomic factors weighed on shares.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-fabrinet-shed-nearly-a-quarter-of-its-value-th/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S0rWamDxahj7x16CVUCDHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1df9a686107046066c967cf00c19ec51.jpg",
-      "published_at": "2026-08-21T21:01:41Z"
-    },
-    {
-      "id": "85cb1b2e-a000-3ef9-a811-2a351970fa58",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "ZKH Group Limited Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of ZKH Group Limited's Q2 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-zkh-group-limited-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.dM5FRLuymR_VlssMWAQZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/0e6fd8551d5d578ff82eb5a67c8d135e.png",
-      "published_at": "2026-08-21T21:01:11Z"
     },
     {
       "id": "3d0d076e-27a2-31de-9bad-3f15420cb970",
@@ -192,8 +203,8 @@
     },
     {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
       "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
       "source": "Investor's Business Daily",
@@ -225,8 +236,8 @@
     },
     {
       "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Bitcoin jumps, stocks bounce as traders weigh US Treasury action",
       "summary": "Bitcoin bounced and global stocks clawed back some of their recent losses on Friday as investors assessed the US Treasury's efforts to push down long-term borrowing costs.The US Treasury bought its own bonds this week in an effort to push down borrowing costs after the 30-year yield surged to levels last seen in 2007, just before the global financial crisis.",
       "source": "AFP",
@@ -299,17 +310,6 @@
       "url": "https://www.barrons.com/articles/stock-movers-b87ea8d7?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X2qiIL0jwISZoXxXCy5JgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/df08f3da8dd8358a03fd841d483851f3.jpg",
       "published_at": "2026-08-21T20:18:00Z"
-    },
-    {
-      "id": "f3fce6c2-3fef-3a3f-8412-d6c825cb2818",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
-      "summary": "Institutional caution could become fresh buying pressure fast",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T20:17:03Z"
     }
   ]
 }
