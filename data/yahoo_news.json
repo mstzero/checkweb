@@ -1,12 +1,199 @@
 {
-  "last_updated": "2026-08-21 14:30 UTC",
+  "last_updated": "2026-08-21 15:28 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "322c826d-5bf0-4e7f-bd0b-33124cb83c5f",
+      "id": "e0b7fb29-8ad0-31eb-b28c-299381e131ee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX's Biggest Investors Revealed After Stock Lockup",
+      "summary": "Fresh filings reveal who made enormous bets on Musk",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-biggest-investors-revealed-stock-151048606.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T15:10:48Z"
+    },
+    {
+      "id": "49219b61-c55b-31b3-8bf4-6cd020535276",
       "asset": "BTC",
       "asset_name": "Bitcoin",
+      "title": "Bitcoin Nears $80K as Whales Accumulate, ETF Inflows Fuel Rally: Experts",
+      "summary": "Bitcoin (CRYPTO: $BTC) climbed above $79,000 on Friday, extending its gains for a fourth straight day as large hold...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/bitcoin-nears-80k-as-whales-accumulate-etf-inflows-fuel-rally-experts-6493",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CPmcjFV8aY6RSYappDrDcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/2c95a32c9ee3482bcb87d4d17bc40c9f.jpg",
+      "published_at": "2026-08-21T15:08:00Z"
+    },
+    {
+      "id": "ec363122-0a95-3496-855e-9972cbc3f947",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
+      "summary": "Shares recently traded at $1,280 each, so a split wouldn't be surprising.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/stock-split-watch-is-eli-lilly-lly-stock-next/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FQDwpwJ097K1wLz_ayV8IA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6a9e739995771df0c9dd33ca4a8ee56a.png",
+      "published_at": "2026-08-21T15:05:00Z"
+    },
+    {
+      "id": "63611f77-5612-3366-8abd-12bbf93c8aef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Trump’s 90-Day Inflation Band-Aid: Why His Beef Tariff Pause Won’t Help Consumers",
+      "summary": "Trump's 90-day beef tariff pause promises relief at the grocery store, but the cattle biology and market forces quietly working against it could make the cure worse than the disease.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/trumps-90-day-inflation-band-aid-why-his-beef-tariff-pause-wont-help-consumers/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D4cVjP0He.SdMFEyd1ON8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c255e20d0e5c1a0d1c3e3a50c7e4138.jpg",
+      "published_at": "2026-08-21T15:02:09Z"
+    },
+    {
+      "id": "7bf520bb-3d70-3521-baba-4913c6af42fc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Marvell’s $12.2 Billion Google Deal Changes the Bull Case for MRVL Stock",
+      "summary": "Google just handed Marvell a $12.2 billion validation of its custom chip ambitions, but the warrant's fine print reveals something far more significant than a supply deal, and it reshapes who actually controls Marvell's future.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/marvells-12-2-billion-google-deal-changes-the-bull-case-for-mrvl-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R_9yeC54J1YUPFGio52uXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b400bfd05b26992c837b1d7d4f30acfc.jpg",
+      "published_at": "2026-08-21T15:00:56Z"
+    },
+    {
+      "id": "1a7fc35a-b3e0-3171-89a2-6cefcaa6d9c2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
+      "summary": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vrL7WHf8X5J.IhvLCc7gdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/ce029df7dd4f7a4dc53ab7e72bf9d75c.jpg",
+      "published_at": "2026-08-21T14:57:28Z"
+    },
+    {
+      "id": "a9455b77-26ec-32f4-beb3-62474515e1ce",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Walmart Beat Earnings and Raised Guidance. So Why Did the Stock Crash?",
+      "summary": "Walmart beat estimates, raised guidance, and watched its stock crater 9% anyway. The reason buried in the CFO's comments explains why the quarter's biggest win may actually set up a painful Q3.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/walmart-beat-earnings-and-raised-guidance-so-why-did-the-stock-crash/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W6EB__1lB_f3owH0R6HtIQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6b8b424cdee499765eed1c96c482ccd.jpg",
+      "published_at": "2026-08-21T14:57:01Z"
+    },
+    {
+      "id": "9f456688-b7e5-352d-b7b5-c1a7782df1a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AI Is Now Attacking at Machine Speed, and This CEO Says That Changes the Case for Cybersecurity Stocks",
+      "summary": "A top global tech CEO just declared that machine-speed attacks have made human-speed defense obsolete, and that single claim reshuffles which cybersecurity vendors survive the AI era and which ones quietly become irrelevant.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/ai-is-now-attacking-at-machine-speed-and-this-ceo-says-that-changes-the-case-for-cybersecurity-stocks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JkI_OCLdCcFS42vcOtQ_sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/487014a67287ee8dea7c00bde42227be.jpg",
+      "published_at": "2026-08-21T14:55:36Z"
+    },
+    {
+      "id": "91d477b8-3eb3-3cd2-ae17-26523a25ffd3",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Faces Its Biggest-Ever China Recall",
+      "summary": "Millions of vehicles need software fixes tied to safety concerns.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-biggest-ever-china-145418259.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T14:54:18Z"
+    },
+    {
+      "id": "786964ad-552c-320e-b127-3d06b0873871",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin, Oil, Gold Rally: Peter Schiff Questions Fed's Credibility, Says 'Investors Are Choosing Their Preferred Hedge'",
+      "summary": "Peter Schiff said that the simultaneous rally in Bitcoin, gold, silver and oil reflects growing doubts about the Federal Reserve’s ability to bring inflation back to its 2% target.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/peter-schiff-questions-fed-credibility-bitcoin-gold-oil-rally/cZYByksRJNu",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sqzcJu0Kw0LVGrtJmLDrlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/83b9cecddde23d6630966853407dc571",
+      "published_at": "2026-08-21T14:50:30Z"
+    },
+    {
+      "id": "1b14ab07-77b6-3fad-be36-5c398d335d14",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
+      "summary": "Talks with Rebellions could include an investment, partnership or acquisition.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-deal-2-3-145012820.html",
+      "thumbnail": "",
+      "published_at": "2026-08-21T14:50:12Z"
+    },
+    {
+      "id": "50547a4d-34ab-3df4-84d1-2176028be766",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
+      "summary": "Apple paid Ireland $17.1 billion in taxes last year, ‌representing around 40% of its worldwide ‌total, according to a company filing that detailed ​the iPhone maker's global tax liabilities country-by-country.  Apple said the amount paid to Ireland was \"significantly higher\" than income taxes accrued as ‌it included €13 billion  ($15.18 ⁠billion) in back taxes that it was ordered to pay ⁠Ireland by European Union's top court in 2024.  Ireland fought the EU back-tax bill alongside ​Apple for ​eight years, ​seeking to defend its ‌position as the location of choice for U.S. multinationals in Europe - and the billions of euros in direct and indirect taxes they bring in each year.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/apple-paid-40-global-taxes-144940102.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CcgCGDK1MuTKjuKIsbzivA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/521d04c6f112b7eb4d5a8ad14df80874.jpg",
+      "published_at": "2026-08-21T14:49:40Z"
+    },
+    {
+      "id": "d30ca3a7-9d98-347f-a8bb-e8a0a1ff7f35",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Tom Lee Spots ‘Good Sign’ as Ethereum ETFs Buy $189M in Biggest Day for 10 Months",
+      "summary": "U.S.-listed Ethereum ETFs attracted their biggest daily inflow since October 2025. Tom Lee called the surge a “good sign” as Ethereum climbed approximately 30% over ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/ethereum-etfs-189m-biggest-10-months-tom-lee-sign/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V8FsvnqDf5d5U_tPIzAUAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/09a186163d93ba9340f03248f600c282.jpg",
+      "published_at": "2026-08-21T14:47:51Z"
+    },
+    {
+      "id": "8d841ac5-6374-4c32-9a03-5def59241620",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "$32 million: The number incoming Apple CEO John Ternus has to beat to measure up to Tim Cook",
+      "summary": "Tim Cook has grown Apple's market capitalization by $32 million an hour, according to Bank of America analyst Wamsi Mohan.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/32-million-the-number-incoming-apple-ceo-john-ternus-has-to-beat-to-measure-up-to-tim-cook-144626360.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Yc.juntcQsUVJwXyZ2bYEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/2214e4d4-5ef0-4c26-b7b9-bd7a9e8cd6fc",
+      "published_at": "2026-08-21T14:46:26Z"
+    },
+    {
+      "id": "3e227dde-27e1-304a-8c37-c4430377c73f",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Google is about to make a major change to every Pixel device",
+      "summary": "Google may be turning Pixel into a much bigger hardware strategy",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/google-shifts-pixel-device-production-out-of-china",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MOwunTnBJ5VkQHXDc4JnGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/01c2c92d9028236e1ecea1bdce9861a7.jpg",
+      "published_at": "2026-08-21T14:37:00Z"
+    },
+    {
+      "id": "ab896025-9eb7-3478-b19c-7560fd065b92",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Today: Dow Bounces After Sell-Off; Bitcoin Jumps Near $77K, Ross Pops On Outlook (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index is rebounding from a market sell-off. The price of bitcoin surges near $77,000.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OHXZ1X3JlR297Ib6DFVCjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68.jpg",
+      "published_at": "2026-08-21T14:32:04Z"
+    },
+    {
+      "id": "51a6a63e-0e3f-3064-a3bf-86387678c0b3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review",
+      "summary": "The market rally flashed some bearish signals. Moderna skyrocketed on a cancer vaccine while gold and bitcoin jumped. Walmart dived.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1k00jupm4YoGMvPHYCJrEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/63d92fcd01ffb99464c6745e212b7302.jpg",
+      "published_at": "2026-08-21T14:31:51Z"
+    },
+    {
+      "id": "322c826d-5bf0-4e7f-bd0b-33124cb83c5f",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Bitcoin prices saw their best week in years, & Trump's CLARITY Act push is only one catalyst",
       "summary": "Bitcoin (BTC-USD) prices are having their best week in years. Trustless.media founder Zack Guzman sits down with Morning Brief host Julie Hyman to explain what's driving the momentum.",
       "source": "Yahoo Finance Video",
@@ -15,59 +202,26 @@
       "published_at": "2026-08-21T14:24:42Z"
     },
     {
+      "id": "79c3dcee-3467-3776-89cc-a08d51b59d89",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "There Are Two SPY ETFs Now, and You Probably Own the Wrong One",
+      "summary": "State Street quietly renamed a flagship ETF and gave it a ticker that looks almost identical to the world's most famous fund, and the fee difference between the two could reshape how millions of retirement savers think about index investing.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/there-are-two-spy-etfs-now-and-you-probably-own-the-wrong-one/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J60xGEN1dNot9pZJhSX67Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8c350fbe20970cce1916fd3dce882a04.jpg",
+      "published_at": "2026-08-21T14:20:32Z"
+    },
+    {
       "id": "4687d97b-58b2-3242-af63-bd00e5b940fe",
       "asset": "BTC",
       "asset_name": "Bitcoin",
       "title": "IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5%",
-      "summary": "Former Bitcoin (CRYPTO:BTC) miners pivoting into AI infrastructure are moving Friday morning after a landmark acceptance milestone. IREN (NASDAQ:IREN) stock rallied 6% to $45.26 after Microsoft (NASDAQ:MSFT) formally accepted Horizon 1, the first of four data centers being built for the hyperscaler at IREN’s Childress, Texas campus. However, within the first hour of trading, IREN ... IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5%",
+      "summary": "Microsoft just signed off on a Texas data center that could flip IREN's bear case upside down, but the stock gave back its entire 6% surge within the first hour of trading. Here is what the acceptance milestone means for the bulls, the shorts, and the sector peers caught in the middle.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/21/iren-jumps-6-but-then-gives-up-gains-as-microsoft-accepts-horizon-1-terawulf-ticks-up-cipher-digital-drops-5/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UhF5RjG94EYFBwSWvTqvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
       "published_at": "2026-08-21T14:20:09Z"
-    },
-    {
-      "id": "dfcbeaa4-6468-3ee0-b45f-36c34b98ab79",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Stock Market Is Closing in on Its Highest Valuation Ever. The Last Time It Got This Expensive, It Crashed.",
-      "summary": "The stock market is about to break a record. It's not a record it wants to break.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/the-stock-market-is-closing-in-on-its-highest/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xfrrs1paFmH3dFfhh3IKWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0db45e1f961246514399de8eeb2df6b0.jpg",
-      "published_at": "2026-08-21T14:20:00Z"
-    },
-    {
-      "id": "fd6cbd34-e6d7-329e-950f-d42f1f7f982c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Crypto Miner Poolin Files For Bankruptcy",
-      "summary": "Bitcoin (CRYPTO: $BTC) mining operator Poolin Technology has filed for Chapter 11 bankruptcy.",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/crypto-miner-poolin-files-for-bankruptcy-6490",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mdxOkmTtwl7DZFiqj5L8dQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/12015d29e523ee8eac8589ca39c41884.jpg",
-      "published_at": "2026-08-21T14:15:00Z"
-    },
-    {
-      "id": "42858d54-5220-3bbf-a704-e55d20f595fe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Stanley Druckenmiller Bought This Newly Added S&P 500 Stock That's Up 351% Since Its IPO",
-      "summary": "His Duquesne Family Office opened a position in Reddit in the second quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/billionaire-stanley-druckenmiller-bought-this-newl/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_Iojurg9Q3mcy0i2qIpAzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3d0953ed0e7991ce534299ae9c023216.png",
-      "published_at": "2026-08-21T14:11:00Z"
-    },
-    {
-      "id": "29aaa471-b926-3bee-8792-c6bc1b7cc431",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "DZ Bank Tells Clients To Sell SpaceX. Sees Stock Falling To $100.",
-      "summary": "A major German bank just issued a rare public bear call on one of the most hyped stocks of 2026, warning of crash risk in its valuation orbit as a flood of new shares threatens to reshape the entire SpaceX trade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/dz-bank-tells-clients-to-sell-spacex-sees-stock-falling-to-100/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P5n1cQ.VISjPOXOYC2yDSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f5d2574118daead0256105e3ac658d81.jpg",
-      "published_at": "2026-08-21T14:08:58Z"
     },
     {
       "id": "cd8c42e9-1eef-3b98-83aa-11743faaff45",
@@ -82,8 +236,8 @@
     },
     {
       "id": "73836cd4-b026-3f3e-8bbc-ab44d858a2ff",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Moderna Rallies 8%, BioNTech Climbs 4% as the mRNA Trade Whipsaws for a Third Session",
       "summary": "Moderna has now swung violently in both directions for three straight sessions on the same unchanged clinical news, and the options chain hints at why this whipsaw is far from over.",
       "source": "24/7 Wall St.",
@@ -92,31 +246,9 @@
       "published_at": "2026-08-21T14:06:07Z"
     },
     {
-      "id": "499a1bc6-f27c-3ad9-bdca-66159dee4f8f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin’s 20% Short-Squeeze Surge Could Already Be Over",
-      "summary": "Bitcoin just ripped 20% higher in under 48 hours, but the force that drove it has almost nothing to do with new believers and everything to do with a brutal mechanism that punishes the wrong side of a trade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/bitcoins-20-short-squeeze-surge-could-already-be-over/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LP4Z8d3xR_nHP9ZaedClzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8f0c481fcbf5e68bad448d0b2ac15356.jpg",
-      "published_at": "2026-08-21T14:05:37Z"
-    },
-    {
-      "id": "75ad9911-cd5d-3ee5-b369-80aa26d5fb24",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Analysts Dividend On Where Bitcoin Goes From Here",
-      "summary": "The analyst community is divided on where Bitcoin (CRYPTO: $BTC) goes from here after the largest cryptocurrency by...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/analysts-dividend-on-where-bitcoin-goes-from-here-6489",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7432Y63OaBzePwkRfa7m4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/291ecef25841ef8cffa1f941dfa483de.jpg",
-      "published_at": "2026-08-21T14:05:00Z"
-    },
-    {
       "id": "db8422cf-3e2b-3651-b637-e4eef18a9155",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "The Billionaire Investor Who Predicted Black Monday Was Recently Making Moves Around His Top 4 AI Stock Holdings",
       "summary": "Paul Tudor Jones has been taking a cautious view of the market, which can be seen in his portfolio.",
       "source": "Motley Fool",
@@ -125,59 +257,26 @@
       "published_at": "2026-08-21T14:05:00Z"
     },
     {
-      "id": "d66935d1-6d51-3f6a-9468-43d81576b770",
+      "id": "07210ee8-7acf-4789-b616-26a12a027845",
       "asset": "BTC",
       "asset_name": "Bitcoin",
+      "title": "US Open's pricy tickets are getting major backlash: 'The wealth effect is real'",
+      "summary": "Trustless.media founder Zack Guzman and Monetary Matters Network co-founder Jack Farley chat with Morning Brief host Julie Hyman about the backlash to expensive US Open ticket prices.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/us-opens-pricy-tickets-getting-140409309.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XcTI0QX8XhFQmlcX45Tdzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/473bd017-3835-43cf-813e-42b0d5a53960_c5743499fd3e23c89ca9148398d61d528db46f02eb99bc0e454d9f7fc7542388.jpg",
+      "published_at": "2026-08-21T14:04:09Z"
+    },
+    {
+      "id": "d66935d1-6d51-3f6a-9468-43d81576b770",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On",
       "summary": "It’s been a stellar week for cryptos—and it’s about more than just President Donald Trump calling for Congress to pass the Clarity Act.",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-trump-crypto-rally-65c69dd8?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qLc.0rWwbkjuLcFwCaBPiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a38ede8ec11a4d3af07458949472fc1f.jpg",
       "published_at": "2026-08-21T14:02:00Z"
-    },
-    {
-      "id": "38d1ebb4-96c7-3b06-93f7-6a2cdc9e8ea7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin’s Surge Leaves Strategy With $1.4 Billion Profit",
-      "summary": "The recent surge in Bitcoin’s (CRYPTO: $BTC) price has given Strategy (NASDAQ: $MSTR) a $1.4 billion U.S. pro...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/bitcoins-surge-leaves-strategy-with-14-billion-profit-6488",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jFtaQSb6xXcYfjiqzoCIqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/d03ac86200de2d30c5b6f331da592415.jpg",
-      "published_at": "2026-08-21T14:01:00Z"
-    },
-    {
-      "id": "d59d5b4e-c0bd-371d-83ad-c1de76053370",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Agilent Stock Has A Catalyst Coming On August 26 That Investors Should Not Ignore",
-      "summary": "Agilent Technologies has a company-confirmed earnings report dropping after the close on August 26, and every operating lever heading into that date is pointing the same direction. Here is what retirement-focused investors need to understand before the bell rings.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/agilent-stock-has-a-catalyst-coming-on-august-26-that-investors-should-not-ignore/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jTiXip4EIduINaNY4snqag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1520555164a4808eaad09d7f3e943bdf.jpg",
-      "published_at": "2026-08-21T14:00:45Z"
-    },
-    {
-      "id": "94aa95c2-b079-3e78-9667-707ea4d9c40c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Don’t Be Surprised If HP Stock Takes Off on August 26",
-      "summary": "HP reports fiscal Q3 earnings on August 26, and three converging signals suggest retirement investors may be sleeping on one of the quieter setups in the market right now.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/dont-be-surprised-if-hp-stock-takes-off-on-august-26/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M0_CwERhyRoGHdM3JRA3aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/257a5fbe50fda5b8b14aabb3f2734f14.jpg",
-      "published_at": "2026-08-21T14:00:42Z"
-    },
-    {
-      "id": "ff818c47-cdd1-3593-8eb1-4777c089c74f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Palantir Stock Double Again? The Bull and Bear Cases.",
-      "summary": "Palantir just posted one of the most explosive growth quarters in software history, yet the stock sits nearly flat for the year. Here is what has to happen next for shares to reach $300.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/could-palantir-stock-double-again-the-bull-and-bear-cases/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2wvUvAAbV0V_VjRCcfChlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8d1bc14b9a9148b650a594cf7925e031.jpg",
-      "published_at": "2026-08-21T14:00:21Z"
     },
     {
       "id": "e1da6d6b-aaaa-3d48-99a4-d2f266ff1da0",
@@ -211,105 +310,6 @@
       "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x5wFbkUJ9GSZvOGzSXRi.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-07/02f58730-f15d-11eb-bffd-070a75b05253",
       "published_at": "2026-08-21T13:57:20Z"
-    },
-    {
-      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Bitcoin jumps, stocks bounce as traders weigh US Treasury action",
-      "summary": "Bitcoin bounced and global stocks clawed back some of their recent losses on Friday as investors assessed the US Treasury's efforts to push down long-term borrowing costs.The US Treasury bought its own bonds this week in an effort to push down borrowing costs after the 30-year yield surged to levels last seen in 2007, just before the global financial crisis.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fA1quRza_uIgV6clMDeWsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/673618535da742e394a501a71581fe2d.jpg",
-      "published_at": "2026-08-21T13:53:13Z"
-    },
-    {
-      "id": "ab896025-9eb7-3478-b19c-7560fd065b92",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Market Today: Dow Rebounding From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index is rebounding from a market sell-off. The price of bitcoin surges near $77,000.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OHXZ1X3JlR297Ib6DFVCjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68.jpg",
-      "published_at": "2026-08-21T13:51:45Z"
-    },
-    {
-      "id": "b04aca65-aae3-380a-913b-c3d2a158f673",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Venezuela signs first U.S. oil deals since Maduro's capture",
-      "summary": "Oil minister Paula Henao said 916 areas are available for exploration and production, as Venezuela seeks investment to rebuild after a June earthquake",
-      "source": "Quartz",
-      "url": "https://qz.com/venezuela-oil-deals-hunt-oil-slb-houston-082126",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ujARc49UeBjwvmEs9uwFdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/3207fcbfb24841abbb7c4bf0c77dd07a.jpg",
-      "published_at": "2026-08-21T13:46:25Z"
-    },
-    {
-      "id": "19f67a42-6ad1-3ecb-9154-c32546626ee4",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sector Update: Energy Stocks Lean Lower Pre-Bell Friday",
-      "summary": "Energy stocks were leaning lower pre-bell Friday, with the State Street Energy Select Sector SPDR ET",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lean-lower-132917196.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T13:29:17Z"
-    },
-    {
-      "id": "0798cb83-6356-319c-8dab-a5bb7188edf4",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year",
-      "summary": "After 26 years locked at the same price, QQQ finally cut its fee, and it still costs twice as much as its closest rival. Whether that gap matters depends on a distinction most investors have never thought to make.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/21/qqq-cut-its-fee-after-26-years-on-250000-the-vgt-etf-still-saves-you-225-every-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cNfQ5ZLhYo6eS1ixSlJLAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3bf531c9ce1499e87b74aa2052b25dc4.jpg",
-      "published_at": "2026-08-21T13:25:29Z"
-    },
-    {
-      "id": "b175119a-3472-3c3a-962e-c3bdbad977a9",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Spent $115.9 Billion on AI. What Did Shareholders Get?",
-      "summary": "Microsoft just handed shareholders a dividend raise while simultaneously pouring more cash into AI infrastructure than most companies generate in revenue. Whether that historic spending spree is building long-term wealth or quietly squeezing the payout depends on what happens in September.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/21/microsoft-spent-115-9-billion-on-ai-what-did-shareholders-get/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VTX_oDy3c.799aiNg0Lt.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d1715da5f795272432068ed0c23e4417.jpg",
-      "published_at": "2026-08-21T13:19:50Z"
-    },
-    {
-      "id": "dccfc10b-8bb6-3f33-bae1-38612721262a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil set for second weekly gain as US ramps up pressure on Iran",
-      "summary": "By Anushree Mukherjee Aug 21 (Reuters) - Oil prices were steady on Friday and were on track for a second straight weekly gain after the United States threatened to impose the toughest sanctions in",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/oil-set-second-weekly-rise-014957202.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rWB74TeG7uROJwRvlrXDkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a2ea4418fc39c216c541ee88a303ac2b.jpg",
-      "published_at": "2026-08-21T13:19:16Z"
-    },
-    {
-      "id": "0f4426e0-e63f-3c49-a8db-2c035bad9612",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131505482.html",
-      "thumbnail": "",
-      "published_at": "2026-08-21T13:15:05Z"
-    },
-    {
-      "id": "d7b057c7-744f-361c-a70f-571afc8c8933",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
-      "summary": "Gold climbed back above the $4,600-an-ounce mark as investors viewed the U.S. Treasury’s plans to expand bond buybacks to bring long-term yields lower as a sign of stress, sparking a fresh round of dollar selling.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BedoIMfxNppRomh6Ckna8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6330ab422e54554f6b77dc33507f8b19.jpg",
-      "published_at": "2026-08-21T13:15:00Z"
     }
   ]
 }
