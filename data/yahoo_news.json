@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-21 02:42 UTC",
+  "last_updated": "2026-08-21 03:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "260b2deb-5f41-31dc-b9b2-0a5e576bc3a1",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold on track for third weekly gain on softer dollar, lower US yields",
+      "summary": "By Sukanya Mitra Aug 21 (Reuters) - Gold prices edged higher on Friday and were on track for a third consecutive weekly gain, supported by a weaker dollar and U.S. Treasury's bond buyback move.",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-steadies-heads-third-straight-010101745.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GyGnuSLLoO10518uOMQXPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1b3b6d32b23b0f480abf5a6c81eef11f.jpg",
+      "published_at": "2026-08-21T03:11:18Z"
+    },
+    {
+      "id": "6bba094e-9e08-3605-87e7-0118721b202e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Advance Auto Parts Stock Crashed Today",
+      "summary": "The car parts provider is facing a \"volatile demand environment.\"",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/why-advance-auto-parts-stock-crashed-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ANXzEAP2eBrDpX9gyidWGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fb7d756fc42b7d82aa4c641a31dc16b1.jpg",
+      "published_at": "2026-08-21T03:11:08Z"
+    },
     {
       "id": "91327cea-fed2-33ed-a182-385b27c0298f",
       "asset": "GOLD",
@@ -12,7 +34,40 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
-      "published_at": "2026-08-21T02:34:42Z"
+      "published_at": "2026-08-21T03:09:23Z"
+    },
+    {
+      "id": "0f543092-89e3-3a01-9d7a-538dce9fefca",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Wall Street is starting to warm to Apple's $2,199 foldable gamble",
+      "summary": "Foldable phones have flopped for years. Analysts bet Apple can finally break the spell.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/rothschild-bets-on-apple-iphone-ultra-foldable-phone",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lDSK0gI0598raVqYMNhnog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0293cfe006e80b3787fc4cc614a696cf.jpg",
+      "published_at": "2026-08-21T03:07:00Z"
+    },
+    {
+      "id": "c5cba5ff-a427-3d3a-a331-f7d1c5bfd85a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Ring Energy Eyes 10% Growth as Longer Laterals Unlock Permian Potential",
+      "summary": "Ring Energy (NYSEAMERICAN:REI) Chairman and Chief Executive Officer Paul McKinney outlined the company’s strategy to expand oil production and improve capital efficiency through longer horizontal drilling programs in the Central Basin Platform and southern shelf areas of the Permian Basin. Speaking",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ring-energy-eyes-10-growth-as-longer-laterals-unlock-permian-potential-2026-08-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BAsQYTO61bQnNFY4qepO_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/6ee5ba70883dbd8b9c80c1c82da68146.png",
+      "published_at": "2026-08-21T03:01:59Z"
+    },
+    {
+      "id": "0edda353-0ac2-3073-afc3-a138a1752cea",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is a Financial Sector ETF a Better Buy Than Picking the Stocks Yourself?",
+      "summary": "For risk-averse investors, owning an ETF can often be ideal.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/is-a-financial-sector-etf-a-better-buy-than-pickin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fGNG0IzykiCM3kVEm8aAyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1add04734e30fd5dae01913ae1785d7e.jpg",
+      "published_at": "2026-08-21T02:50:00Z"
     },
     {
       "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
@@ -24,6 +79,17 @@
       "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JB1vw9vZgk5U9HUrh0Tx3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/ea50abb155e79f1a1a420f39db7a5428.jpg",
       "published_at": "2026-08-21T02:34:42Z"
+    },
+    {
+      "id": "c668c79c-bd16-3d33-b5fd-eea94634b9bf",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+      "summary": "The Future Fund’s Gary Black is no stranger to telling it like it is on social media when it comes to investing in Tesla Inc . The investor is back with a new warning for the overoptimistic Tesla influencers on...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-bulls-023132599.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kowPgAeZDBfRJtYMgWGK1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c26f4e8a78d1ac2a7005652d13a0b7c6.jpg",
+      "published_at": "2026-08-21T02:31:32Z"
     },
     {
       "id": "272282d8-888e-3ec6-96fb-bc30b724ecdc",
@@ -180,17 +246,6 @@
       "published_at": "2026-08-21T00:19:00Z"
     },
     {
-      "id": "7275c649-e3ab-3e1e-9192-432b7e5177fa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why ServiceNow Stock Topped the Market on Thursday",
-      "summary": "The company is deepening its relationship with a systems integrator in India.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/why-servicenow-stock-topped-the-market-on-thursday/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pn84sfApjj0Ta89WobW.kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d7714b24500bb633e30a22b2d67bde6.jpg",
-      "published_at": "2026-08-21T00:01:02Z"
-    },
-    {
       "id": "1f459003-7a34-34fc-bf4c-07f2a3854f00",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -202,17 +257,6 @@
       "published_at": "2026-08-21T00:00:38Z"
     },
     {
-      "id": "a57b2937-dcfb-3d99-986d-66070677bf11",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nebius Group Stock Climbed 40% in Less Than 2 Weeks: Is the High-Growth Leader Still a Bargain?",
-      "summary": "The neocloud company continues to grow at warp speed.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/nebius-group-stock-climbed-40-in-2-weeks-is-the-hi/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oGf521R.UiiOMYdyzz_dcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b4f3223982e14bc95e1a7029791cfc97.png",
-      "published_at": "2026-08-21T00:00:00Z"
-    },
-    {
       "id": "68a83367-1272-3e92-bfde-ea3e5b62632e",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -222,17 +266,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-norwegian-cruise-line-nclh-235500534.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xh.zcoAePL04fYUBVZlbMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/e3fa1d13dccc29465022bc32c85554bc.jpg",
       "published_at": "2026-08-20T23:55:00Z"
-    },
-    {
-      "id": "bacb7bb0-ae91-32ca-80c8-510d1b3bf5fa",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
-      "summary": "Japan’s consumer inflation picked up last month as the effects of higher oil prices caused by the Middle East conflict broadened.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s6xnwFmegJSQc3aUNlUOzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f869b6dec07fcad5c13be28dbfa77bdd.jpg",
-      "published_at": "2026-08-20T23:48:00Z"
     },
     {
       "id": "09ed348a-1f82-346f-98ca-a4d1544ca756",
@@ -277,39 +310,6 @@
       "url": "https://www.trefis.com/articles/612194/crowdstrike-stock-is-down-but-the-business-is-looking-up-what-gives/2026-08-20",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOBZlKpQkz_1XbQADy2QLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/bd184572a49f11019e9dabea502f5bc2.jpg",
       "published_at": "2026-08-20T22:57:49Z"
-    },
-    {
-      "id": "0391c59e-31cd-3838-a77a-db0054939a68",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Is Suddenly a Hedge Again, VanEck Says: What Changed?",
-      "summary": "VanEck's Matthew Sigel calls Bitcoin a hedge against a weaker dollar. Here's why that claim is being challenged.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-hedge-vaneck-sigel-treasury/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
-      "published_at": "2026-08-20T22:48:07Z"
-    },
-    {
-      "id": "342b4eb8-e514-3d62-ba7a-e07398ee10f9",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Treasury Secretary Bessent Says Buybacks Can Exceed $4B: Bullish for Bitcoin?",
-      "summary": "Bessent says Treasury bond buybacks could exceed $4 billion, easing yields and helping fuel Bitcoin's rally past $69,000.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bessent-treasury-buyback-bitcoin-rally/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3zhE45qSJhUjWz.JzAokVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b.jpg",
-      "published_at": "2026-08-20T22:41:36Z"
-    },
-    {
-      "id": "5d529ddf-2676-34f2-a0d6-29f2347b44f7",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Hanking Gold International (SEHK:3788) Looks Pricey After Half Year Earnings Slip Into Loss",
-      "summary": "Hanking Gold International (SEHK:3788) has drawn fresh attention after reporting half year 2026 earnings that showed sales of CNY 911.59 million and a net loss of CNY 52.02 million, compared with a profit a year earlier. See our latest analysis for Hanking Gold International. Despite the half year loss, Hanking Gold International’s 1 month share price return of 43.16% and 1 day move of 7.03% show short term momentum. However, its year to date share price is still down 10.43%, set against very...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hanking-gold-international-sehk-3788-221213447.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sD85is4iIq4zzx6OVP6yYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/073fc6331af6400e3dbbb4524a7bb84d.jpg",
-      "published_at": "2026-08-20T22:12:13Z"
     }
   ]
 }
