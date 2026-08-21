@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-21 23:19 UTC",
+  "last_updated": "2026-08-21 23:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "6630b3b1-09c6-3425-8def-99d29a0f7188",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Cardano Was on Fire Today",
+      "summary": "It was swept up in a broad and powerful cryptocurrency rally.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/why-cardano-was-on-fire-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KphOFc2JQQQaipjy0zG4uA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0cf0377a1a2b79cc78d2b569c41184bc.jpg",
+      "published_at": "2026-08-21T23:30:35Z"
+    },
+    {
+      "id": "c99df646-041e-358b-96f4-8d1707d9ee3c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Saylor’s Bitcoin bet is no longer underwater",
+      "summary": "Michael Saylor’s Strategy is the world’s largest Bitcoin treasury company.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/saylors-bitcoin-bet-is-no-longer-underwater",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QGmHIFxMH.eE7A7D7exACw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e688984b6508e61bee6c9e281c260cbb.jpg",
+      "published_at": "2026-08-21T23:20:00Z"
+    },
+    {
+      "id": "d23409c7-be27-319d-a49b-adcae8d04f67",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+      "summary": "Nvidia is leagues ahead of its rivals in the lucrative AI chip market.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/the-best-semiconductor-stock-to-buy-isnt-amd-or-qu/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/95sivyzGQGxq_1ntFhUnkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/617b8083e78de00f9a4b79572208c9b9.jpg",
+      "published_at": "2026-08-21T23:13:00Z"
+    },
     {
       "id": "aeaf4d7d-10d8-39d1-9430-4d7b3f52bae5",
       "asset": "SPY",
@@ -13,6 +46,17 @@
       "url": "https://247wallst.com/investing/etf/2026/08/21/single-at-66-means-one-social-security-check-and-no-backup-these-4-etfs-build-the-second-one/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TGQwPYtfOuWHjoB9EvWY7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9ae09aef8eab0cef4a5b9c22d14db598.jpg",
       "published_at": "2026-08-21T23:00:57Z"
+    },
+    {
+      "id": "662aa3f8-2638-3101-8ca6-891ebae77651",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Elon Musk Said Bitcoin Has No Throat to Choke: Why Does That Matter?",
+      "summary": "Elon Musk said Bitcoin has no throat to choke. Filings show Tesla sold 75% and SpaceX never sold a coin. Key details.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/elon-musk-bitcoin-no-throat-choke/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rgudiaLgH97mmuWgcXgNNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/be66cc78c101d35c191b2ae4df42e3b9.jpg",
+      "published_at": "2026-08-21T23:00:00Z"
     },
     {
       "id": "160581ef-5a91-3896-8167-07f0e604d93a",
@@ -115,25 +159,14 @@
     },
     {
       "id": "4bbbca5e-6c1c-32ff-a245-7fd42e99ed0f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
       "summary": "Here’s what could be next for Nvidia stock.",
       "source": "TheStreet",
       "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-nvidia-stock-forecast-ahead-of-q2-fy27-earnings",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XC90UlrXObjhsnxzl3L9qA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/67cd151230d5102c3bbea683f5f6e7ef.jpg",
       "published_at": "2026-08-21T22:17:00Z"
-    },
-    {
-      "id": "02c4e665-0f4d-3031-8808-166913c65a2d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did Critical Metals Stock Just Gain 22.6%?",
-      "summary": "Critical Metals stock jumped 22.6% on Friday after the CEO said its Tanbreez rare-earth project in Greenland is still on track to produce within three years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-did-critical-metals-corp-stock-just-gain-226/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6VrQKHpn4SyZ4pIm03Wp3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a8e9608abb7cb4c09b709948bf562afa.jpg",
-      "published_at": "2026-08-21T22:14:57Z"
     },
     {
       "id": "c321f883-75ca-359c-9c62-6c5e96564cf4",
@@ -192,8 +225,8 @@
     },
     {
       "id": "e4bc1328-64a0-3b28-a227-067671a70572",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
       "title": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",
       "summary": "The U.S. 30-year Treasury yield climbed for the second straight week.",
       "source": "Stocktwits",
@@ -224,17 +257,6 @@
       "published_at": "2026-08-21T21:45:54Z"
     },
     {
-      "id": "eeb9d4a5-709e-3c13-950e-15ab74f5e034",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "summary": "Treasury yields held near their highest levels in over a decade, however, and the S&P 500 posted its first weekly loss since late July.  The S&P 500 gained 33.21 points, or 0.43%, to 7674.37, while the Nasdaq Composite advanced 113.29 points, or 0.43%, to 26180.45.  The rally was driven by a combination of forces: Treasury Secretary Scott Bessent’s bond buyback announcement, President Trump’s push for crypto-friendly legislation and big inflows into spot bitcoin ETFs.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0pZhypAvzRCvIsePvARGuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/ab59bbd24d2a0bf14da3a416cfa785ef.jpg",
-      "published_at": "2026-08-21T21:38:00Z"
-    },
-    {
       "id": "faf2cde3-16cf-3845-a2fc-c4ef6b10fbab",
       "asset": "QQQ",
       "asset_name": "Nasdaq 100 ETF",
@@ -244,17 +266,6 @@
       "url": "https://247wallst.com/investing/2026/08/21/two-years-of-friday-paydays-the-44-fund-has-kept-its-nav-and-beaten-half-of-wall-street/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lf4UMtDdF4jruZbO7Ac.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5675d93d5665df35cd7bbc73e52f44ee.jpg",
       "published_at": "2026-08-21T21:35:03Z"
-    },
-    {
-      "id": "dbdbdfd9-dfe3-3b33-86ed-d3c1349a3190",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Financial Services Roundup: Market Talk",
-      "summary": "Find insight on Bitcoin ETFs, U.S. stocks linked to cryptocurrencies, Experian and more in the latest Market Talks covering financial services.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dqdkp0427A._5iTOb4.giQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/00e8446ed15530c56d43472596781ad3.jpg",
-      "published_at": "2026-08-21T21:32:00Z"
     },
     {
       "id": "76f1ef67-1827-322c-a92d-e4bb5b5ae630",
@@ -299,17 +310,6 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/bitcoin-gold-and-the-return-of-the-debasement-trade-tD0hYjZvTwKw704UIcF9?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/unzsYQh72Hy6EPVQOdc.Bg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9eb0eef291b10bb461784457a0e04ccf.jpg",
       "published_at": "2026-08-21T21:26:32Z"
-    },
-    {
-      "id": "0de9a631-8015-34bc-a63e-a72f47d0e059",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Stock Market Today, Aug. 21: Tesla Gains on Nevada Robotaxi Permit Approval",
-      "summary": "On Aug. 21, 2026, Nevada cleared the way for paid autonomous ride-hailing services, fueling investor optimism on its Cybercab fleet deployment.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/21/stock-market-today-aug-21-tesla-gains-on-nevada-robotaxi-permit-approval/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RHoLDFvlsRRo8z2_mqfuVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69989ce1f33b25db7656f1f6be91c460.png",
-      "published_at": "2026-08-21T21:22:00Z"
     }
   ]
 }
