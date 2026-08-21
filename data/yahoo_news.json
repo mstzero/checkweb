@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-08-21 01:04 UTC",
+  "last_updated": "2026-08-21 02:42 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
+      "published_at": "2026-08-21T02:34:42Z"
+    },
+    {
+      "id": "f782a87a-adec-38b9-a3ac-14d1201ad08f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian markets extend rally as traders assess US Treasuries pledge",
+      "summary": "Asian stocks edged higher on Friday as investors assessed the US Treasury's move to push down long-term bond yields, while analysts warned that alone would not be enough to keep borrowing costs from spiking.That sent long-term rates plunging but they rebounded on Thursday, with Mark Malek, of Muriel Siebert & Co, calling it \"a housekeeping move destined to be short-term, at best\".",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-extend-rally-traders-023442615.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JB1vw9vZgk5U9HUrh0Tx3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/ea50abb155e79f1a1a420f39db7a5428.jpg",
+      "published_at": "2026-08-21T02:34:42Z"
+    },
+    {
+      "id": "272282d8-888e-3ec6-96fb-bc30b724ecdc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
+      "summary": "Wall Street has some mixed opinions on these three stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/nvidia-amd-and-intel-wall-street-says-to-buy-2-and/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YIuUTCuVk7J8Yq1K1Gk49w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d3120a73eae5994698f65ed73856a39.jpg",
+      "published_at": "2026-08-21T02:20:00Z"
+    },
+    {
+      "id": "9c3f4a2f-934e-33f0-9b2c-829112d3b258",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Equinor and ORLEN Sign Three-Year Norwegian Crude Supply Deal",
+      "summary": "Equinor will supply ORLEN with Norwegian crude under a three-year agreement covering refineries across Central Europe.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/equinor-orlen-sign-three-norwegian-021500560.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4Cyo1lkfzEZQOWqKrvtgAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/bce7f9078b681ee13d773a0f518929d1.jpg",
+      "published_at": "2026-08-21T02:15:00Z"
+    },
+    {
+      "id": "70cf007c-2010-386a-8434-8dbad1ed044b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why MPLX Stock Is Suddenly Trending on Wall Street",
+      "summary": "MPLX provides solid returns with a more-than-solid dividend.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/why-mplx-stock-is-suddenly-trending-on-wall/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z25rm9_tz5GEUDlPegd2SQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f5d6fe3f8128238407c9eb13a305f312.jpg",
+      "published_at": "2026-08-21T01:50:00Z"
+    },
+    {
+      "id": "0ab9b227-96a7-3954-af46-049fbefa03be",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Riot Platforms (RIOT) & CleanSpark (CLSK): Bitcoin Miners are Becoming AI Landlords. Riot Just Signed a $9 Billion Lease to Prove It",
+      "summary": "Riot Platforms, Inc. (NASDAQ:RIOT) struck a $9.1 billion, 20-year computing deal with Anthropic this week, leasing 191 megawatts of power at its Rockdale, Texas campus. The deal could grow to $16.1 billion if extended twice by five years each. Shares initially jumped more than 20% before giving back most of the gain. Why This Matters […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gjPGnX7Gq.DEf3XkqnigcA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/83cd866d56c2efd905f13bca8e0a1170.jpg",
+      "published_at": "2026-08-21T01:49:19Z"
+    },
+    {
+      "id": "7318ce25-b757-3d19-869e-a29d31c846e3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alibaba Cloud Revenue Jumps 45%. Is the Profit Plunge and China E-Commerce Slide Cause for Concern?",
+      "summary": "The veteran Chinese tech company published its second-quarter earnings on Thursday morning.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/20/alibaba-cloud-revenue-jumps-45-is-the-profit-plunge-and-china-e-commerce-slide-cause-for-concern/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gzfXlrSi24UhFr3PqfD.vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0c86fc175b0623720c826c6fc69a1aac.jpg",
+      "published_at": "2026-08-21T01:48:27Z"
+    },
+    {
+      "id": "c876508d-d93c-3486-9270-b9c0ebcf6ed3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Trump once stamped his face on gold, now his eyes are on Bitcoin",
+      "summary": "The president who called himself a gold person just became crypto’s most powerful catalyst. Gold and Bitcoin both noticed.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/trump-once-stamped-his-face-on-gold-now-his-eyes-are-on-bitcoin",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/suJilz2YEBjvxJK3xc2UBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0a9d02304e964d94dea25593a4153d70.jpg",
+      "published_at": "2026-08-21T01:15:00Z"
+    },
     {
       "id": "4886e88f-0cad-3da7-9a64-8d2eb99a9b65",
       "asset": "NVDA",
@@ -13,17 +101,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-space-exploration-005825605.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
       "published_at": "2026-08-21T00:58:25Z"
-    },
-    {
-      "id": "91327cea-fed2-33ed-a182-385b27c0298f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qOQeJrLY5u4kAl4vt7JULg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7c872b1c86aed6df221369cd0dda7c4d.jpg",
-      "published_at": "2026-08-21T00:51:43Z"
     },
     {
       "id": "1ad02eaf-f27d-3c71-96f0-8c6a8605fdea",
@@ -136,17 +213,6 @@
       "published_at": "2026-08-21T00:00:00Z"
     },
     {
-      "id": "82afa0b4-147d-3a07-9d8e-eff2d702d7f3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Walmart Stock Fell Today",
-      "summary": "Sales at the discount giant's stores are decelerating.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/20/why-walmart-stock-fell-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c2ZYQEbe3s6J98Ur2_sypw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/801cf87b872779512d027ee635eb70c0.jpg",
-      "published_at": "2026-08-20T23:55:10Z"
-    },
-    {
       "id": "68a83367-1272-3e92-bfde-ea3e5b62632e",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -156,6 +222,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-norwegian-cruise-line-nclh-235500534.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xh.zcoAePL04fYUBVZlbMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/e3fa1d13dccc29465022bc32c85554bc.jpg",
       "published_at": "2026-08-20T23:55:00Z"
+    },
+    {
+      "id": "bacb7bb0-ae91-32ca-80c8-510d1b3bf5fa",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Japan Inflation Picks Up as Rate-Boost Bets Firm",
+      "summary": "Japan’s consumer inflation picked up last month as the effects of higher oil prices caused by the Middle East conflict broadened.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s6xnwFmegJSQc3aUNlUOzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/f869b6dec07fcad5c13be28dbfa77bdd.jpg",
+      "published_at": "2026-08-20T23:48:00Z"
     },
     {
       "id": "09ed348a-1f82-346f-98ca-a4d1544ca756",
@@ -169,17 +246,6 @@
       "published_at": "2026-08-20T23:47:51Z"
     },
     {
-      "id": "635c584e-e09c-38e0-9075-21bc6d392ce6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Coinbase Fell 50%. This 2X ETF Lost 85%. Here’s the Brutal Math a ‘Comeback’ Has to Overcome",
-      "summary": "Leverage cuts both ways, but the math behind a leveraged ETF recovery is far more brutal than most investors expect. Before betting on a Coinbase comeback, understand what the fund actually has to overcome.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/20/coinbase-fell-50-this-2x-etf-lost-85-heres-the-brutal-math-a-comeback-has-to-overcome/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rLhD015DMdU5BuGufJTsSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/438bb077e3cc8c0ebb821cb5790d5889.jpg",
-      "published_at": "2026-08-20T23:46:30Z"
-    },
-    {
       "id": "71874acf-3cc5-3a60-b0df-5ed2effe1741",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -189,17 +255,6 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1097377/alkane-resources-posts-record-a-228-7-million-fy26-profit-launches-maiden-dividend-and-a-50-million-buy-back-1097377.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.hFbBasnIdQMvIvSulbrOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/224202a4657901ff248d3a2a49703b6e.jpg",
       "published_at": "2026-08-20T23:45:00Z"
-    },
-    {
-      "id": "992ccc51-f901-36be-a424-8daa6ca80a0d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AT&T (T) Says It’s Not Scared of the “Token Apocalypse.” NVIDIA Corporation (NVDA)’s CEO Is Cheering the Same Trend",
-      "summary": "On August 12, AT&T Inc. (NYSE:T) Chief Data and AI Officer Andy Markus said OpenAI models already power about 25% of the telecom’s total AI usage, with a target of 70% to 80% over time. On the other hand, NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang has spent the past month leading a consortium of companies […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Frc6835qw8v9G.HBQv6Kjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/101b148d88f043f017180ca8b31d9a4a.jpg",
-      "published_at": "2026-08-20T23:19:33Z"
     },
     {
       "id": "67652ba7-7951-37e0-b603-8efe17eeb449",
@@ -235,17 +290,6 @@
       "published_at": "2026-08-20T22:48:07Z"
     },
     {
-      "id": "14460e9b-dc54-33ca-bd9d-d7eb1693b1d7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after surging oil prices and rising long-term interest rates stoked fears of a slowdown in industry orders.",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-redwire-rocket-lab-224315943.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OogC3IAN2rxrqR.q_q1IsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/592e28f0e156a8cbd59f6b5a3a1f3c6f.jpg",
-      "published_at": "2026-08-20T22:43:15Z"
-    },
-    {
       "id": "342b4eb8-e514-3d62-ba7a-e07398ee10f9",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/hanking-gold-international-sehk-3788-221213447.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sD85is4iIq4zzx6OVP6yYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/073fc6331af6400e3dbbb4524a7bb84d.jpg",
       "published_at": "2026-08-20T22:12:13Z"
-    },
-    {
-      "id": "52a4118a-2f13-349f-910d-2fdae3157c2b",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Coinbase CEO predicts 450% upside for Bitcoin",
-      "summary": "Coinbase CEO Brian Armstrong predicts a new Bitcoin price.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/coinbase-ceo-makes-big-bitcoin-prediction-amid-market-rally",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dL0rMPSta0f2U.JukaFh1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4908e97566657cbc2b09fe67aed3fb0a.jpg",
-      "published_at": "2026-08-20T22:09:35Z"
-    },
-    {
-      "id": "c7906e24-073f-3371-abd6-e5e5bfbd375c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "IBIT’s 0.25% Fee Sells Off Bitcoin Daily, and the Prospectus Calls Every Sale a Taxable Event",
-      "summary": "Your IBIT position sits untouched, yet the trust's prospectus quietly promises a taxable event hits your account every single trading day. The fee structure doing this is something most holders have never read past the headline number to find.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/08/20/ibits-0-25-fee-sells-off-bitcoin-daily-and-the-prospectus-calls-every-sale-a-taxable-event/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9zWG6yTHJOCo_K1MlmuTmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0b882c3ff85c7c5da4752d7a0f001e65.jpg",
-      "published_at": "2026-08-20T22:05:18Z"
-    },
-    {
-      "id": "18c6aca7-42f6-3872-ab64-acb1737b527e",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "History of TSMC & its stock: Company timeline, facts & milestones",
-      "summary": "Taiwan Semiconductor Manufacturing Co. is the world’s largest chipmaker. Here’s how it grew into the semiconductor behemoth it is today.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/history-of-taiwant-semiconductor-manufacturing-company-timeline-facts",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bw1yHO3_fw1kX.SE0c2jeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/178f8efdba4956d858e7bdb6d79be1e7.jpg",
-      "published_at": "2026-08-20T22:04:41Z"
-    },
-    {
-      "id": "1bc77988-281b-3302-9476-715ff7138d07",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Hormuz Oil Crisis Accelerates Global EV Sales",
-      "summary": "Global EV sales are surging as high oil and fuel prices accelerate adoption, with EVs expected to approach 30% of new car sales in 2026.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/hormuz-oil-crisis-accelerates-global-220000391.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nDgj7O1BcYAt7_htwQeM6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/a941dd16af4689c682939e028571727f.jpg",
-      "published_at": "2026-08-20T22:00:00Z"
     }
   ]
 }
