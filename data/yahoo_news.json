@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-22 17:44 UTC",
+  "last_updated": "2026-08-22 18:23 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "b62488e9-bc26-348b-a1b9-820f5db4e2ec",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Forget JEPI: BlackRock’s Answer Pays 7.6%, Charges the Same 0.35%, and Beat It by 10 Points This Year",
+      "summary": "JEPI built its reputation on fat monthly checks and a 0.35% fee, but a newer BlackRock fund matches it on both counts while doing something JEPI's covered-call structure quietly prevents its holders from achieving.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/forget-jepi-blackrocks-answer-pays-7-6-charges-the-same-0-35-and-beat-it-by-10-points-this-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DGxquyNaLXrHhtymfjDiDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/96a91db4483c5673a667fbf6c4c4b0ec.jpg",
+      "published_at": "2026-08-22T18:01:35Z"
+    },
+    {
+      "id": "49f2b0b6-7d2b-3922-976d-bba689c59333",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "The Smartest ETF to Buy With $750 Right Now",
+      "summary": "The Invesco QQQ Trust has been a high-performing fund over the years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/the-smartest-etf-to-buy-with-750-right-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QomgDEje0hjGwmTO58AhNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/43077baf0b4adb2f91eb1bf30753c4f1.jpg",
+      "published_at": "2026-08-22T17:55:00Z"
+    },
+    {
+      "id": "25f9e7fc-9de9-354f-8acb-019e6255671d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "1 Quantum Computing Stock That Looks Like a Screaming Buy Right Now",
+      "summary": "IonQ continues to make strides towards a commercially viable quantum computer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/1-quantum-computing-stock-that-looks-like-a-scream/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_BP3wNX.T6d9m8.Rvc6vnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/978a75bb87e0f458725c3dcf06305c44.jpg",
+      "published_at": "2026-08-22T17:50:00Z"
+    },
+    {
+      "id": "61407c76-e1fb-356e-9266-46425a25eb7a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+      "summary": "A tricky stock market struggles against industry rotation and wavering investor confidence heading into the final full week of August.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Il4zupkZgNl6QfxMi1fjow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bb3d4a3905e54cc33eac93d10729dc4e.jpg",
+      "published_at": "2026-08-22T17:49:56Z"
+    },
     {
       "id": "9d301fd1-bade-3319-81fd-08711b71d733",
       "asset": "NVDA",
@@ -59,17 +103,6 @@
       "published_at": "2026-08-22T17:08:09Z"
     },
     {
-      "id": "61407c76-e1fb-356e-9266-46425a25eb7a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-      "summary": "A tricky stock market struggles against industry rotation and wavering investor confidence heading into the final full week of August.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Il4zupkZgNl6QfxMi1fjow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bb3d4a3905e54cc33eac93d10729dc4e.jpg",
-      "published_at": "2026-08-22T17:05:09Z"
-    },
-    {
       "id": "0711cfd8-c734-30d9-b2ea-379eafb4d639",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -82,25 +115,14 @@
     },
     {
       "id": "a6434137-d738-3803-ab31-a65cc0756a5f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters",
       "summary": "Nvidia gets the headlines, but Microsoft is quietly sitting on an asset that converts AI hype into locked-in revenue at a scale most investors haven't priced in yet.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/22/microsoft-has-something-nvidia-doesnt-and-heres-why-it-matters/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cEMoz.SO_bGWo1sQ9eUlFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/488057af4aea60be04b281b5dcd14b08.jpg",
       "published_at": "2026-08-22T17:00:29Z"
-    },
-    {
-      "id": "b3cbcce6-205c-3f4f-bcef-3020bcafa826",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "If You Have $10,000: 3 Dividend ETFs Worth Buying Before September",
-      "summary": "Investing $10,000 in dividend ETFs can provide a steady income stream and potential growth.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/if-you-have-10000-3-dividend-etfs-worth-buying/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yP2fHCEijAngMAd512pRVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/405d61e8b1274f014dd18abaf0885f0f.jpg",
-      "published_at": "2026-08-22T16:50:00Z"
     },
     {
       "id": "573fd1a1-ee55-345d-82e3-ca7074d4d724",
@@ -123,17 +145,6 @@
       "url": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M2OR6HjtgH0Pv2HjvoLTRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/46a98b0520c46357b4fd183d04b432cb.jpg",
       "published_at": "2026-08-22T16:27:09Z"
-    },
-    {
-      "id": "c4e735ee-c29c-3c85-9cd9-f57ea4acda93",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
-      "summary": "Despite its impressive 2026, Nebius stock still has room for more.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/billionaire-stephen-mandel-just-loaded-up-on-this/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bx0ltFxBFdQlxKqQweBk0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/266024e6dc485f2a7e2f59f886cfe983.jpg",
-      "published_at": "2026-08-22T16:20:00Z"
     },
     {
       "id": "9b81e6ab-46ed-365d-a29d-639a2c7286e4",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-stay-reasonable-250-130857065.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jZp6MnmeEUiw8pSaZG8b7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e0574e82615fa8a8970c3c3eb5888c6a.jpg",
       "published_at": "2026-08-22T13:08:57Z"
-    },
-    {
-      "id": "172e2380-269e-3312-a65a-e750f0b8b677",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Hits Its Stride As Dollar Weakness And Treasury Buybacks Fuel Hard-Asset Rally, Galaxy Analysts Call Bottom",
-      "summary": "With a base case aim of $80,000 and \"risks skewed to much higher,\" a Galaxy trading analyst said that the market shifted from a \"sell rips\" to a \"buy dips\" regime.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-dollar-weakness-treasury-buybacks-bottom/cZYQ2GTRJVZ",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0i2OnlnWRSfZfFVDfdzfug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/73240ca25ef14ab64914996134417669.jpg",
-      "published_at": "2026-08-22T13:08:47Z"
     }
   ]
 }
