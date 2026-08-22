@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-22 22:46 UTC",
+  "last_updated": "2026-08-22 23:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "52c2ef57-516d-32f7-a91c-226b6711a5c1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The 30-Year Treasury Now Out-Yields Dividend Stocks by 2.2 Points. History Says What Followed the Last Time.",
+      "summary": "The long bond hasn't yielded this much in 19 years. What happened to dividend payers the last time it did is worth remembering.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/the-30-year-treasury-now-out-yields-dividend-stocks-by-2-2-points-history-says-what-followed-the-last-time/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t4JYFRaSGamsbPXNJygiUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b68a126e75aeb1d0fbb1f5d66b87bf8e.jpg",
+      "published_at": "2026-08-22T23:01:01Z"
+    },
     {
       "id": "199a7bbe-6870-3c31-b182-82013fb73622",
       "asset": "NVDA",
@@ -92,6 +103,17 @@
       "published_at": "2026-08-22T20:43:01Z"
     },
     {
+      "id": "7e883fb9-53bd-34a6-86e1-4ad26b6a14cc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You're 60 Years Old and Have This 401(k) Balance, You're Ahead of Your Peers",
+      "summary": "Here's how to know how your 401(k) stacks up.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/retirement/2026/08/22/if-youre-60-years-old-and-have-this-401k-balance-y/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AA_FFZyhtysY2owinSaPlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/02460089ac38945ad859032cca55666a.jpg",
+      "published_at": "2026-08-22T20:21:00Z"
+    },
+    {
       "id": "8b460969-5992-3564-8f04-b6aebd2f0426",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -114,20 +136,9 @@
       "published_at": "2026-08-22T19:59:00Z"
     },
     {
-      "id": "dc9ca545-bb05-35a1-8c77-893ffc26c8a1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
-      "summary": "Abel has been increasing Berkshire's position in a less-followed mid-cap stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/greg-abel-berkshire-ceo-macy-s-stock-dividend/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vk9cCJw0uM0yq..tmRtL9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d3daa0e489155f715e07cbdade23e78.png",
-      "published_at": "2026-08-22T19:53:00Z"
-    },
-    {
       "id": "b4c9c1ff-32c6-3ded-abb9-234642b0c2c1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
       "summary": "Energy Transfer offers investors an attractive yield, but a 2020 distribution cut may be a worry for some.",
       "source": "Motley Fool",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/22/gold-silver-and-copper-are-rebounding-in-august/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KpE919wxUkagPhVvRDMzzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/471ccb122fa4ae8ef8c8b7eddf669a7c.jpg",
       "published_at": "2026-08-22T15:50:00Z"
-    },
-    {
-      "id": "6e050776-1b7f-37c7-8f18-dba6d03e5ffa",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-      "summary": "Tesla is in the middle of a major business shift, and a long-range version of its Model Y SUV could help ease the transition.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/teslas-model-y-l-is-coming-to-america-will-it-reig/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LDw34vuH7PDL26OnB65jpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2d77146b1d349571af1813ebe7f982a1.jpg",
-      "published_at": "2026-08-22T15:35:00Z"
     }
   ]
 }
