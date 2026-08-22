@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-22 10:48 UTC",
+  "last_updated": "2026-08-22 11:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "8dca565d-5226-30d7-a670-441cbe816603",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "5 Monthly Dividend Payers to Own Heading Into September",
+      "summary": "September has a reputation for punishing passive investors, but income seekers who own the right monthly payers can keep collecting checks no matter how ugly the broader market gets. Here are five worth considering before the calendar turns.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/5-monthly-dividend-payers-to-own-heading-into-september/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/npBSH2pjbgHkHTyyleMEag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8c6dbe89b58808600e18e25a1f51b460",
+      "published_at": "2026-08-22T11:00:34Z"
+    },
+    {
+      "id": "13749844-e217-35f9-9908-274e41e7ef5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Semiconductor Stocks to Buy Before August Ends",
+      "summary": "The dominant AI chip names have all pulled back sharply in August even as their latest earnings painted a picture of demand growing faster than supply. Before two pivotal earnings reports reset the narrative, three semiconductor stocks are flashing the kind of entry that rarely shows up twice.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/3-semiconductor-stocks-to-buy-before-august-ends/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0OP2aHDjEOLw3a8zGvaBKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0e9cd93737f5f2aac2699f64d90dd63e",
+      "published_at": "2026-08-22T11:00:33Z"
+    },
+    {
+      "id": "9da55a43-8879-3126-af43-67b5cb823c54",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 AI Stocks Built for the Next Decade",
+      "summary": "The AI capital cycle already has clear winners, and three US-listed companies have locked in structural advantages most investors are still underestimating. Here is what the revenue data actually reveals about who holds the durable position.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/3-ai-stocks-built-for-the-next-decade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DY9BaDYYSTT.9.Jmh3WPmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e2df673d77c9fbb55dca5320b55a8f18",
+      "published_at": "2026-08-22T11:00:30Z"
+    },
+    {
+      "id": "eebe9fc0-8331-3924-9c38-a8bc733bc219",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SpaceX Stock Is up 32% Since Aug. 1. Is it Too Late to Buy?",
+      "summary": "The market liked SpaceX's earnings report.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/spacex-stock-is-up-37-since-aug-1-is-it-too-late-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YwczaXJxpT8oMQ3KNEWYOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/97fd4cd66034fd0552c346fa851d2b03.jpg",
+      "published_at": "2026-08-22T10:45:00Z"
+    },
+    {
+      "id": "6e84965a-f3ac-3f30-a756-45a2c0828826",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
+      "summary": "The AI hyperscalers are spending a ton of money on computing power.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/alphabet-and-amazon-are-investing-420-billion-in-a/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0JNNPntnamYtSvrFBZV.hQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a8f8ef75bf19600ed87fd7c35ac3b1b8.jpg",
+      "published_at": "2026-08-22T10:35:00Z"
+    },
     {
       "id": "e4bd24ba-3651-3c0e-a64e-2c0179bbb556",
       "asset": "NVDA",
@@ -46,61 +101,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-artemis-gold-tsxv-artg-101002017.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
       "published_at": "2026-08-22T10:10:02Z"
-    },
-    {
-      "id": "c57c10a1-c352-323f-b271-158904fccb1c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Joby Aviation Stock Is More Than 60% Off Its High. Is a Reverse Stock Split Imminent?",
-      "summary": "The company's shares are now trading in the single digits.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/joby-aviation-stock-off-high-reverse-stock-split/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BrdRnGH7wHf8LIcT0usqfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7c13232c4c419f9aff05c6e9720735a9.jpg",
-      "published_at": "2026-08-22T10:09:00Z"
-    },
-    {
-      "id": "11480eb1-f775-305d-a197-c23c634491ea",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Investing $10,000 in Netflix Set You Up for Life?",
-      "summary": "It's going to be challenging for Netflix's stock to continue growing as quickly as it has.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/could-investing-10000-in-netflix-set-you-up-for-li/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oIBfriswOVizFRWmJk8aEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c8d2e665a39c18816a3c871f22e32c42.jpg",
-      "published_at": "2026-08-22T10:05:00Z"
-    },
-    {
-      "id": "7c348f1c-503a-3fc7-abcf-43f450f36558",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Taiwan Semiconductor Stock Will Reach a Fresh High Before 2026 Ends",
-      "summary": "Taiwan Semiconductor is reasonably priced for its growth and market position.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/prediction-taiwan-semiconductor-stock-will-reach-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u0fBJ4eGDnfcST3vzBpagA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb5b014b1b50debb08b3ce5ef72a26a5.jpg",
-      "published_at": "2026-08-22T09:53:00Z"
-    },
-    {
-      "id": "5a7807a2-973d-3b68-b9cb-d9fe57766538",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett's Playbook Says Do This 1 Thing Right Now",
-      "summary": "Buffett is already executing this move.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/if-a-stock-market-crash-is-coming-warren-buffett-s-playbook-says-do-this-1-thing-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w1lwonQj2fPxIH.epUXIeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bc39b1a31f84179dd875db05c8e9f49d.jpg",
-      "published_at": "2026-08-22T09:45:01Z"
-    },
-    {
-      "id": "96401403-751f-3ce3-b4f6-cfe4ceb99d0a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
-      "summary": "The AI superstar is growing fast, but that does not neccesarily mean a rising stock price.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/prediction-this-will-be-palantirs-stock-price-by-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IZtQiY_ez3Cq5AHbVagevw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ee8f54e324bd51b4c42f2ed3b23c4a76.jpg",
-      "published_at": "2026-08-22T09:35:00Z"
     },
     {
       "id": "bb52a4cd-d40a-3d10-b9c9-ccd68c47217c",
