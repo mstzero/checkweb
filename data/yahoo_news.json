@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-22 12:31 UTC",
+  "last_updated": "2026-08-22 13:28 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "5a7cf312-ec54-300c-b6d3-9c14806de1a9",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Can Citigroup (C) Stay Reasonable After A 250% Three Year Gain?",
+      "summary": "Citigroup’s stock has delivered a very large 3 year gain, yet current valuation checks suggest the market price still sits below what both intrinsic value estimates and earnings multiples imply. Citigroup has returned about 250% over the past 3 years, which puts extra focus on whether recent gains already reflect its underlying value. New initiatives such as the Custody+ platform and upcoming Bitcoin custody services can support long term fee and service revenue, while execution risk around...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-stay-reasonable-250-130857065.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jZp6MnmeEUiw8pSaZG8b7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e0574e82615fa8a8970c3c3eb5888c6a.jpg",
+      "published_at": "2026-08-22T13:08:57Z"
+    },
+    {
+      "id": "d30bac14-0c93-37f7-b756-b1790edd35b9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget High-Yield Traps: Coca-Cola Is the Best Dividend Stock",
+      "summary": "Coca-Cola has a phenomenal track record of paying dividends.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/forget-yield-trap-coca-cola-best-dividend-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VNP772F69uXm4IV._cohYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c12f84eb025f842d39f9660c5e3cecb2.png",
+      "published_at": "2026-08-22T12:59:00Z"
+    },
+    {
+      "id": "af1dde8e-0256-302f-b012-e2caad00110b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Did Nebius Stock Plunge This Week?",
+      "summary": "Nebius stock got dinged after a fundraising announcement.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/why-did-nebius-stock-plunge-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3wUBqnGaYhEq1gdREwOEKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ca96a8a3138ef2b76ea07c205763e02a.jpg",
+      "published_at": "2026-08-22T12:52:53Z"
+    },
+    {
+      "id": "d9c79706-2bec-3066-8c88-32bd16945914",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "TSMC vs. ASML: Which Semi Monopoly Has the Wider Moat?",
+      "summary": "The AI boom has crowned two near-unassailable monopolies in semiconductors, but when hyperscaler budgets tighten and rivals scramble to break their grip, only one of these giants may prove truly unconquerable.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/tsmc-vs-asml-which-semi-monopoly-has-the-wider-moat/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Se9IcNoCeEx.7rGxy8pzlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/48a4ee66064ca201687004fa47cb92f6.jpg",
+      "published_at": "2026-08-22T12:52:52Z"
+    },
+    {
+      "id": "de277283-aa4d-3089-9c6c-1059377882f7",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Anthropic market debut could break SpaceX IPO record: media",
+      "summary": "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.Anthropic could then beat OpenAI, the maker of ChatGPT, to market.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aizv7.eH6kmDkhzm..LlXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/9969d8a72cdd47e6cf58524e5454bf84.jpg",
+      "published_at": "2026-08-22T12:47:22Z"
+    },
+    {
+      "id": "a95fb709-ae78-31e8-a952-e51f7fa12ba2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "India Leaves the Door Ajar for China’s Investors",
+      "summary": "India announced auto-approvals for investors from neighboring countries to hold 10% non-controlling stake. That’s China’s music.",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/news/news-india-leaves-the-door-ajar-for-chinas-investors?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8Mvsvb.LhiabwisBwDy3gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/f14512dea096a95ecebc8c46de812d36.jpg",
+      "published_at": "2026-08-22T12:33:00Z"
+    },
+    {
+      "id": "3e98f6b7-6145-38ca-8806-34167b7a3065",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years",
+      "summary": "AMD looks poised to outperform Nvidia over the next three years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/prediction-this-artificial-intelligence-ai-semicon/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5S2fzgqdLCiKhWexsolYww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bcfcfe543ee61f901961ac7d9c0cf61f.png",
+      "published_at": "2026-08-22T12:25:00Z"
+    },
     {
       "id": "d7269451-da38-30f2-8a00-0e3b967a03f1",
       "asset": "NVDA",
@@ -59,28 +136,6 @@
       "published_at": "2026-08-22T12:01:58Z"
     },
     {
-      "id": "bbeff5d7-9224-356a-b8b0-6724a4c4f4de",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Target Turnaround Is Real. Here's What Investors Should Know.",
-      "summary": "Target crushed second-quarter estimates, signaling a continued comeback for the retailer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/the-target-turnaround-is-real-heres-what-investors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mwI1W1vehzHjxgkL5WWUeQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bec0b6b18efb53a9c7b9e8b8c5d1003a.png",
-      "published_at": "2026-08-22T11:50:00Z"
-    },
-    {
-      "id": "e1a22f0a-0920-3ed1-9480-30c0e76e77e3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Navitas Semiconductor Stock Sank This Week",
-      "summary": "Navitas stock is now down 59% from the peak it hit earlier this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/why-navitas-semiconductor-stock-sank-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GmwEaH92arVVP0TS6Edi9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2aed114875bbfa41dfb01681871fd630.jpg",
-      "published_at": "2026-08-22T11:50:00Z"
-    },
-    {
       "id": "da704bb3-4892-358f-b6af-160a62042f24",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -90,28 +145,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/trump-zec-pol-leave-bitcoin-ethereum-in-the-dust-altseason/cZYQGuvRJVm",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r.Oh4QJjzQsEkqCb0SBZDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1bc98699c46769fa6f9c7e8c245a8c59.jpg",
       "published_at": "2026-08-22T11:48:39Z"
-    },
-    {
-      "id": "d26ea248-61f9-323e-b21d-773939b77069",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
-      "summary": "Palantir, Microsoft, and GitLab all have strong upside from AI.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/software-as-a-service-saas-stocks-big-upside-ai/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R797GrhzxpWdG65UwrFagg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47cd18b138e34aebf3c01d2c6bbcf963.jpg",
-      "published_at": "2026-08-22T11:35:00Z"
-    },
-    {
-      "id": "145b7fb5-a18d-3a3c-8f0d-d4f1e6accb05",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Opera Stock Sank This Week",
-      "summary": "Opera beat Wall Street's sales target in Q2, but that wasn't enough for investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/why-opera-stock-sank-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RCRljDRXvcugA5ybBHlNvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/baec53f932db7fc103f45eac8bb52c0d.jpg",
-      "published_at": "2026-08-22T11:35:00Z"
     },
     {
       "id": "166d70da-e6af-34b5-92dc-cd7a23e3903e",
@@ -156,17 +189,6 @@
       "url": "https://beincrypto.com/xrp-flash-crash-500-million-liquidated/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DzAXdOSnk4Hlt_Uhc.YPFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/4e889a1b654196a3845a8a41ec48c96e.png",
       "published_at": "2026-08-22T10:59:29Z"
-    },
-    {
-      "id": "1721acee-85bc-3c19-b468-8787acd5282d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin holds above $77,000 after Treasury-fuelled short squeeze",
-      "summary": "Investing.com -- Bitcoin traded slightly above $77,000 on Saturday, having surrendered some earlier gains after approaching $80,000, as traders assessed whether a Treasury-driven short squeeze marked the start of a lasting recovery, according to CoinDesk and CNBC.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-77-000-102207861.html",
-      "thumbnail": "",
-      "published_at": "2026-08-22T10:22:07Z"
     },
     {
       "id": "a163ec7a-351d-3e0a-9f6c-9c610a418971",
@@ -288,28 +310,6 @@
       "url": "https://www.barrons.com/articles/the-lakers-as-a-12-5-billion-tax-shelter-e68d9178?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8sk.ybkLj5AAqNSoW_c5ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/771cc3a8cfe9ad4ace0cfee830c38964.jpg",
       "published_at": "2026-08-21T23:34:00Z"
-    },
-    {
-      "id": "38d8634f-adf3-3dcb-b95d-0f7359f252c4",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Is No Longer a Trillionaire, but He Could Still Give Every Person on Earth $69.420 and Stay the World's Richest",
-      "summary": "Earlier this year, Elon Musk became the first person to ever have a net worth of $1 trillion thanks to a strong market debut for his space company SpaceX. While SpaceX stock has fallen in value and Musk is no...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-no-longer-trillionaire-233204052.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NH7UdMUyytvsG8Rw6RuLiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/7b8a42f3731522982293578abf0fd095.jpg",
-      "published_at": "2026-08-21T23:32:04Z"
-    },
-    {
-      "id": "7b2ff50f-63e4-317d-bb71-7b75e5e5eb28",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Buy the Big Oil Stocks Now",
-      "summary": "ExxonMobil, Chevron, and TotalEnergies are cash generating machines.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/buy-big-oil-stocks-now-231800744.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5EhVkqtYiBUjYl5j0JOY9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/0da4bf5604e69c45e41f0ab9c700ad02.jpg",
-      "published_at": "2026-08-21T23:18:00Z"
     }
   ]
 }
