@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-22 09:25 UTC",
+  "last_updated": "2026-08-22 09:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "96401403-751f-3ce3-b4f6-cfe4ceb99d0a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
+      "summary": "The AI superstar is growing fast, but that does not neccesarily mean a rising stock price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/prediction-this-will-be-palantirs-stock-price-by-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IZtQiY_ez3Cq5AHbVagevw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ee8f54e324bd51b4c42f2ed3b23c4a76.jpg",
+      "published_at": "2026-08-22T09:35:00Z"
+    },
+    {
+      "id": "8224dac3-e9be-348b-8a19-a6615264d183",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
+      "summary": "Rocket Lab is building on its space business and has secured several major defense contracts, providing stability amid its rapid expansion.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/rocket-labs-haste-fly-hypersonic-space-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0BFe4wIXaZfP2bPsxWg7Xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8491b0e1200a12213f566c94b6276fbd.png",
+      "published_at": "2026-08-22T09:20:00Z"
+    },
     {
       "id": "d126b70c-8db9-3f40-b7f0-02e650b53856",
       "asset": "NVDA",
@@ -70,17 +92,6 @@
       "published_at": "2026-08-22T09:00:00Z"
     },
     {
-      "id": "72f18c04-c940-3ae7-a7e2-a67c45c8e211",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nike Now Yields More Than Coca-Cola. Is the Turnaround Finally Priced In?",
-      "summary": "Nike's elevated yield reflects a depressed share price, even as demand for Nike Running is surging.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/nike-yields-more-coca-cola-turnaround/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5Wru1hJhh3jUrbK1aV7kPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/45766f443bf12272fb02cbb97e389b22.png",
-      "published_at": "2026-08-22T08:35:00Z"
-    },
-    {
       "id": "c84af7d2-ab75-3353-93f9-377482c28285",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -93,8 +104,8 @@
     },
     {
       "id": "e08ab9df-be6b-3d59-97e3-d253e7d472be",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple",
       "summary": "The top spot first changed hands in 2024, and the gap now runs to hundreds of billions of dollars. A quarter of the biggest index fund sits in five stocks.",
       "source": "Motley Fool",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/21/tesla-controls-59-of-the-us-ev-market-its-highest/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uQppjAQqkX704MuMDUr4pA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d46af9e9a8eaba51faa19ea20990e07a.png",
       "published_at": "2026-08-21T22:25:00Z"
-    },
-    {
-      "id": "eca903dd-2ba5-319b-b145-41fac305b72b",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "How Bessent’s Efforts to Calm Bond Market Set Gold Prices Ablaze",
-      "summary": "Prices of gold, silver, platinum and Bitcoin rose following the Treasury buyback announcement, while the dollar fell.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/scott-bessent-bond-market-gold-treasury-6e52036f?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OdbCKE.fTZJof22gZrnhIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/aaaaeccf18a8f5f029fe3608313fe49d.jpg",
-      "published_at": "2026-08-21T22:22:00Z"
     }
   ]
 }
