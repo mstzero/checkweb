@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-22 20:47 UTC",
+  "last_updated": "2026-08-22 21:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "43a8a8dc-b2e6-3332-979a-6a8b93c53fbb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
+      "summary": "The undaunted rise of actively managed ETFs is an opportunity for investors considering both funds and individual stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/active-etfs-now-take-42-of-every-dollar-flowing-in/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VPuETQRGuupl42jGn0fhnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bd95b5deca224d119e5f1cc2f0b99f71.jpg",
+      "published_at": "2026-08-22T20:50:00Z"
+    },
     {
       "id": "a2390033-c737-3e67-8685-6bfb7fdd7d91",
       "asset": "NVDA",
@@ -103,15 +114,15 @@
       "published_at": "2026-08-22T19:01:01Z"
     },
     {
-      "id": "61dccfd3-ef54-3d15-b919-8665a929f303",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?",
-      "summary": "Amazon's custom chip business is growing in popularity.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/amazon-custom-chip-business-25-billion-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Crjm6RgGnFKn6pvQRD28_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/db7c824dd9477911349ed484a833aa2a.png",
-      "published_at": "2026-08-22T18:53:00Z"
+      "id": "a7bd25b5-9098-3eb7-924d-f8513967516d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "This Fund Pays 400% of the S&P’s Dividend and Still Beat Half of Wall Street This Year",
+      "summary": "SPY's quarterly dividend barely registers as income, but a lesser-known fund holding the exact same 500 companies has quietly rewired the payout structure in a way most income investors have never considered.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/this-fund-pays-400-of-the-sps-dividend-and-still-beat-half-of-wall-street-this-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S0tG2X2TZfHMCDJ6xObhLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2735f2220d54d5fc5123c2555af0ab20.jpg",
+      "published_at": "2026-08-22T18:48:16Z"
     },
     {
       "id": "4c2d9497-ee97-33e4-b525-cc1f869485de",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ziUw0cui0j6NkuQp0dbNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/480d7bd443a2ceabbf9a8c388f2cb0f8.jpg",
       "published_at": "2026-08-22T15:05:00Z"
-    },
-    {
-      "id": "926ed669-c46a-3bc2-94ed-9bb96963d2da",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Nears a Risk Zone as RSI Hits Extreme Levels: Back to $70,000?",
-      "summary": "Bitcoin price nears a risk zone as its 4-hour RSI hits a seven-year high. Here's what analysts are saying now.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-rsi-seven-year-high-risk-zone/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kt2XM7dpBGG7fA4YtmhKkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/23f89655acff9c17c930aac1c0748709.jpg",
-      "published_at": "2026-08-22T14:52:18Z"
     }
   ]
 }
