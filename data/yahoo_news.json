@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-22 19:44 UTC",
+  "last_updated": "2026-08-22 20:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "8b460969-5992-3564-8f04-b6aebd2f0426",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
+      "summary": "Amazon, Alphabet, and Taiwan Semiconductor remain well positioned to keep winning amid the AI infrastructure build-out.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/billionaire-stanley-druckenmiller-just-sold-sandis/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yskpbUmLaOrX_d9lRDepTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6412c66e680d3f1af33a8360524aefd4.jpg",
+      "published_at": "2026-08-22T20:04:00Z"
+    },
+    {
+      "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+      "summary": "Apple and Meta have been laggards in the AI arms race.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wsb_wAE5UCnzVqs5D_OS9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4393f3abec948e84e4eb26f2cf07d597.jpg",
+      "published_at": "2026-08-22T19:59:00Z"
+    },
+    {
+      "id": "dc9ca545-bb05-35a1-8c77-893ffc26c8a1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
+      "summary": "Abel has been increasing Berkshire's position in a less-followed mid-cap stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/greg-abel-berkshire-ceo-macy-s-stock-dividend/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vk9cCJw0uM0yq..tmRtL9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d3daa0e489155f715e07cbdade23e78.png",
+      "published_at": "2026-08-22T19:53:00Z"
+    },
     {
       "id": "b4c9c1ff-32c6-3ded-abb9-234642b0c2c1",
       "asset": "NVDA",
@@ -24,6 +57,17 @@
       "url": "https://www.fool.com/investing/2026/08/22/my-3-favorite-high-yield-dividend-stocks-to-buy-ri/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YmilAamUnwaZcg6fqLWqrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed2cf23a39f71b217ceb553efade12b0.jpg",
       "published_at": "2026-08-22T19:22:00Z"
+    },
+    {
+      "id": "f925edea-f19c-3369-933e-22933572eb8a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "summary": "Some of Nvidia's largest customers have been told prices of servers ‌containing its AI chips will rise by ‌more than 15% in many cases with memory chip ​costs soaring, Bloomberg News reported on Saturday.  The price hikes will go into effect on systems shipped early next year and will impact systems including ‌those with the ⁠flagship Vera Rubin and Grace Blackwell chips, the report added, citing people familiar ⁠with the process.  The increases will depend on Nvidia's chip generation and memory configurations, they ​said.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-notified-ai-related-192053530.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ub4pcEzfNvIjFYAM26_YOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/81ad7325221a6acc6ead9f225fb37bfc.jpg",
+      "published_at": "2026-08-22T19:20:53Z"
     },
     {
       "id": "ee376f9f-b200-33b7-a5a4-499f1b2657d3",
@@ -93,8 +137,8 @@
     },
     {
       "id": "273e561e-bd31-342c-9a4c-dce60fabcff4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.",
       "summary": "It's a tech company you don't have to second-guess for the long haul.",
       "source": "Motley Fool",
@@ -112,17 +156,6 @@
       "url": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gErSGjnX1fEp8RVbGTN4LA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6c5a18608f1529bdd5cf32fa394693c4.jpg",
       "published_at": "2026-08-22T18:32:04Z"
-    },
-    {
-      "id": "e3ede4d5-cfb3-358f-91be-2aed5a4e5f9c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.",
-      "summary": "Alphabet's value proposition was so appealing that even Buffett and Abel could not ignore it.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/warren-buffetts-hand-picked-successor-greg-abel-ha/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/goLLChSRhzS4U1GGmM3r1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fcc6cd52143b9a11acb2fb1eea73084d.jpg",
-      "published_at": "2026-08-22T18:20:00Z"
     },
     {
       "id": "0be3356f-02e9-3c42-a9ba-c34497e1cf13",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ziUw0cui0j6NkuQp0dbNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/480d7bd443a2ceabbf9a8c388f2cb0f8.jpg",
       "published_at": "2026-08-22T15:05:00Z"
-    },
-    {
-      "id": "926ed669-c46a-3bc2-94ed-9bb96963d2da",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Nears a Risk Zone as RSI Hits Extreme Levels: Back to $70,000?",
-      "summary": "Bitcoin price nears a risk zone as its 4-hour RSI hits a seven-year high. Here's what analysts are saying now.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-rsi-seven-year-high-risk-zone/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kt2XM7dpBGG7fA4YtmhKkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/23f89655acff9c17c930aac1c0748709.jpg",
-      "published_at": "2026-08-22T14:52:18Z"
-    },
-    {
-      "id": "2a58a420-a54b-35f1-88f1-90fc99736c90",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Shell and the Other Oil Majors Aren't Price Gouging",
-      "summary": "When the price of gasoline rises, it boosts profits for companies like Shell, Exxon, and Chevron.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/why-shell-and-the-other-oil-majors-aren-t-price-gouging/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.MrKrx6N0zrCgStdY02ARA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b6ad6a9935cc895396e458c7f22b4ad.jpg",
-      "published_at": "2026-08-22T14:35:01Z"
-    },
-    {
-      "id": "d48ba40b-3d4f-334a-ba46-e8069c258a00",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "When will AI begin delivering meaningful earnings gains? Goldman Sachs assesses the outlook",
-      "summary": "Second-quarter earnings across the S&P 500 were robust, with companies tied to artificial intelligence infrastructure continuing to account for a substantial portion of overall profit growth. S&P 500 earnings per share increased 31% from a year earlier during the quarter when excluding one-off income related to private investment holdings.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34830/when-will-ai-begin-delivering-meaningful-earnings-gains-goldman-sachs-assesses-the-outlook",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hMLG2at.BDRfFx5qu8DofQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/31f2071460f3a9dd418fcd7902ff1b8a.png",
-      "published_at": "2026-08-22T14:07:21Z"
     }
   ]
 }
