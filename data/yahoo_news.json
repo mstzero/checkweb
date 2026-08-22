@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-22 20:17 UTC",
+  "last_updated": "2026-08-22 20:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a2390033-c737-3e67-8685-6bfb7fdd7d91",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
+      "summary": "The two off-price giants reported the same 13 weeks, a day apart. The market read them very differently -- and the second-half plans say why.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/ross-stores-grew-comparable-sales-10-tjx-grew-4-only-one-stock-went-up/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/no99WW4S6reXxBrjZEfmbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bf5b18966aaaa9774e2cfdbe1390d261.png",
+      "published_at": "2026-08-22T20:43:01Z"
+    },
     {
       "id": "8b460969-5992-3564-8f04-b6aebd2f0426",
       "asset": "NVDA",
@@ -103,17 +114,6 @@
       "published_at": "2026-08-22T18:53:00Z"
     },
     {
-      "id": "a7bd25b5-9098-3eb7-924d-f8513967516d",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "This Fund Pays 400% of the S&P’s Dividend and Still Beat Half of Wall Street This Year",
-      "summary": "SPY's quarterly dividend barely registers as income, but a lesser-known fund holding the exact same 500 companies has quietly rewired the payout structure in a way most income investors have never considered.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/22/this-fund-pays-400-of-the-sps-dividend-and-still-beat-half-of-wall-street-this-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S0tG2X2TZfHMCDJ6xObhLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2735f2220d54d5fc5123c2555af0ab20.jpg",
-      "published_at": "2026-08-22T18:48:16Z"
-    },
-    {
       "id": "4c2d9497-ee97-33e4-b525-cc1f869485de",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -122,17 +122,6 @@
       "source": "BeInCrypto",
       "url": "https://beincrypto.com/upbit-record-hourly-trading-volume-xrp-trump/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T1Xz3jJjuC0oT83onR8XQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5df467049911a57e6d2e2c4ff6e7c0ef.png",
-      "published_at": "2026-08-22T18:37:00Z"
-    },
-    {
-      "id": "bb3e1e0f-be49-389c-91d9-f6ad3d39834c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Here's How Many Shares of Target You'd Need for $10,000 in Yearly Dividends",
-      "summary": "Target just increased its quarterly dividend again.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/shares-of-target-for-1000-yearly-dividends/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ba_u4GXASlfIZj00pX5.Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/df8e5ef3382db960833544ee920a1f70.jpg",
       "published_at": "2026-08-22T18:37:00Z"
     },
     {
@@ -310,6 +299,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ziUw0cui0j6NkuQp0dbNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/480d7bd443a2ceabbf9a8c388f2cb0f8.jpg",
       "published_at": "2026-08-22T15:05:00Z"
+    },
+    {
+      "id": "926ed669-c46a-3bc2-94ed-9bb96963d2da",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Nears a Risk Zone as RSI Hits Extreme Levels: Back to $70,000?",
+      "summary": "Bitcoin price nears a risk zone as its 4-hour RSI hits a seven-year high. Here's what analysts are saying now.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-rsi-seven-year-high-risk-zone/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kt2XM7dpBGG7fA4YtmhKkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/23f89655acff9c17c930aac1c0748709.jpg",
+      "published_at": "2026-08-22T14:52:18Z"
     }
   ]
 }
