@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-22 14:17 UTC",
+  "last_updated": "2026-08-22 14:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "2a58a420-a54b-35f1-88f1-90fc99736c90",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Shell and the Other Oil Majors Aren't Price Gouging",
+      "summary": "When the price of gasoline rises, it boosts profits for companies like Shell, Exxon, and Chevron.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/why-shell-and-the-other-oil-majors-aren-t-price-gouging/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.MrKrx6N0zrCgStdY02ARA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b6ad6a9935cc895396e458c7f22b4ad.jpg",
+      "published_at": "2026-08-22T14:35:01Z"
+    },
+    {
+      "id": "0dca011b-7283-3d9a-809d-82165c9e467c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: This Is Where Pfizer Stock Will Be in 2030",
+      "summary": "Pfizer is facing material patent expirations over the next two years, but that will be over by 2030.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/prediction-this-is-where-pfizer-stock-will-be-in-2/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7XnMeqW2x5LGefViOLzOVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/94866cd420e885ba45a7c495cb1abe3c.jpg",
+      "published_at": "2026-08-22T14:35:00Z"
+    },
+    {
+      "id": "efcf8794-e123-3932-939b-ad68a468fcf1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Target Stock Has Been Crushed. Here’s Why I’m Not Giving Up on It.",
+      "summary": "Target shares spent years in freefall while rivals pulled ahead, and now a sudden reversal has investors divided on whether the turnaround is real or a one-quarter illusion built on numbers that may never repeat.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/target-stock-has-been-crushed-heres-why-im-not-giving-up-on-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5uhWl96nG8cDb9A7e4Mb.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ec3abc2b97e328781c2f2992b19dfcc9.jpg",
+      "published_at": "2026-08-22T14:30:11Z"
+    },
+    {
+      "id": "ab3b1333-c78c-314b-b58d-6fbe3b6f1063",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+      "summary": "The fund manager recently booked gains in Sandisk stock and redeployed capital into Broadcom.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sold-his-funds-sandisk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N567Q_QoDRlAicxDuaHC8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/60f2ad3fbf319d5f83b477a4518a6358.png",
+      "published_at": "2026-08-22T14:20:00Z"
+    },
+    {
+      "id": "d48ba40b-3d4f-334a-ba46-e8069c258a00",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "When will AI begin delivering meaningful earnings gains? Goldman Sachs assesses the outlook",
+      "summary": "Second-quarter earnings across the S&P 500 were robust, with companies tied to artificial intelligence infrastructure continuing to account for a substantial portion of overall profit growth. S&P 500 earnings per share increased 31% from a year earlier during the quarter when excluding one-off income related to private investment holdings.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/34830/when-will-ai-begin-delivering-meaningful-earnings-gains-goldman-sachs-assesses-the-outlook",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hMLG2at.BDRfFx5qu8DofQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/31f2071460f3a9dd418fcd7902ff1b8a.png",
+      "published_at": "2026-08-22T14:07:21Z"
+    },
     {
       "id": "54ffa701-d517-3a1c-8782-2b5eba42eb87",
       "asset": "NVDA",
@@ -71,8 +126,8 @@
     },
     {
       "id": "9b04016b-f5c6-385b-9faf-ed2aa3137546",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
       "summary": "AWS is growing at its fastest pace in 18 quarters, advertising is booming, and Amazon's chips business is exploding, yet the stock trades at a multiple that makes it look like a sleepy retailer. Something in that math appears deeply off.",
       "source": "24/7 Wall St.",
@@ -90,17 +145,6 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
       "published_at": "2026-08-22T13:27:37Z"
-    },
-    {
-      "id": "699120c1-2ccc-39e9-bebb-224f6e06d523",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC",
-      "summary": "Thanks to Scott Bessent, Fed Chair Warsh now finds himself stuck between a rock and a hard place.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/treasury-bond-intervention-nightmare-kevin-warsh/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sdzMTmasRVua4yGzP9uNxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d72ffd4f80186afff9fdf256f0d755b.jpg",
-      "published_at": "2026-08-22T13:26:01Z"
     },
     {
       "id": "5a7cf312-ec54-300c-b6d3-9c14806de1a9",
@@ -126,8 +170,8 @@
     },
     {
       "id": "9cb0dbb4-8963-3f7f-ad5a-beeae6969c1e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "D.E. Shaw Just Disclosed a $912 Million SpaceX Stake and a 58% Broadcom Cut in the Same Quarter",
       "summary": "In a single quarterly filing, D.E. Shaw made a massive bet on a freshly minted space giant while slashing its position in one of the hottest AI chip stocks by more than half. What those two moves reveal about where smart money sees the next big trade is worth a closer look.",
       "source": "24/7 Wall St.",
@@ -170,8 +214,8 @@
     },
     {
       "id": "166d70da-e6af-34b5-92dc-cd7a23e3903e",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
       "title": "Why XRP Is Skyrocketing This Week",
       "summary": "The crypto market is enjoying an incredible rally.",
       "source": "Motley Fool",
@@ -266,50 +310,6 @@
       "url": "https://beincrypto.com/sandbox-sand-bridge-exploit-base-bsc/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N2nq0jN1lJhnu3YaP.Ai0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0.jpg",
       "published_at": "2026-08-22T08:20:49Z"
-    },
-    {
-      "id": "3a011b5a-b8a3-3dea-9253-ff8188110032",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "AngloGold Ashanti (AU) Stock May Be 2% Undervalued As Cash Flows Hold Up",
-      "summary": "After a very strong five year run for AngloGold Ashanti, with total returns that are roughly 7x, the stock now trades in a zone where a Discounted Cash Flow (DCF) intrinsic value estimate points to a price that is close to fair, while market based multiples still lean on the cheap side. Five year returns are very large, which sets a high bar for any further upside to be supported by fundamentals. Future cash flows from existing mining assets and project pipeline can support the current...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-au-stock-may-080806474.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
-      "published_at": "2026-08-22T08:08:06Z"
-    },
-    {
-      "id": "917e40aa-43ac-3e5d-be34-f17cc9c877dc",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Are Conflicting AU Ratings Hinting At A Deeper Misread Of AngloGold Ashanti’s Earnings Power?",
-      "summary": "Recently, AngloGold Ashanti was the subject of conflicting analyst views, with an average brokerage recommendation of 1.89 (between Strong Buy and Buy) but a Zacks Rank of #4 (Sell) driven by negative earnings estimate revisions. This unusual split between upbeat brokerage ratings and weakening earnings expectations highlights a potential disconnect in how the company’s prospects are being interpreted. We’ll now examine how this tension between optimistic recommendations and declining...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/conflicting-au-ratings-hinting-deeper-071247196.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
-      "published_at": "2026-08-22T07:12:47Z"
-    },
-    {
-      "id": "d2d6573a-9e23-3a4d-a874-16880ce4f026",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "OceanaGold to Buy Ausgold for $549M, Adding Katanning Gold Project",
-      "summary": "OceanaGold (TSE:OGC) said it has agreed to acquire Ausgold Limited, owner of the Katanning Gold Project in Western Australia, in a transaction valued at $549 million. President and Chief Executive Officer Gerard Bond said the proposed acquisition would add a fifth asset to OceanaGold’s portfolio an",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/oceanagold-to-buy-ausgold-for-549m-adding-katanning-gold-project-2026-08-22/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MFoQ7WQhnaM6s8dDglaefA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/400ba5c3bd18f6ee5a5aa71acae18a3f.jpg",
-      "published_at": "2026-08-22T05:01:52Z"
-    },
-    {
-      "id": "b0e22a37-7151-3be3-b0b4-bc5029d431c6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US rig count down five as prices climb",
-      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 267 rigs active in the region. A year ago, 255 rigs were active in the region. Nationally, the oil and gas rig count is down five from last week at 588 rigs. A year ago, 538 rigs were active. The count shows that 452 rigs sought oil, down three from the previous week, and 127 explored ...",
-      "source": "Odessa American, Texas",
-      "url": "https://www.oaoa.com/?p=369676",
-      "thumbnail": "",
-      "published_at": "2026-08-22T00:02:00Z"
     }
   ]
 }
