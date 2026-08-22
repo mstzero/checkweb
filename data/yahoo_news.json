@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-22 23:17 UTC",
+  "last_updated": "2026-08-22 23:43 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "afb8170c-2c16-3ba8-aef9-72c4316acec8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
+      "summary": "GE Vernova is experiencing incredible growth, driven by soaring energy demands and the rapid expansion of data centers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/ge-vernovas-backlog-is-bigger-than-some-countries/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CR8X97P8W7JfYU0wV6xJSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/34bedc39d8e1335ccec5801c54006328.png",
+      "published_at": "2026-08-22T23:25:00Z"
+    },
+    {
+      "id": "bb712c32-7a6a-3b8e-a1bd-a794821e76e2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Delek Logistics Partners (DKL) Lands $200 Million Equity Raise and Adds Two Underwriters",
+      "summary": "Delek Logistics Partners (NYSE: DKL) has completed a significant follow-on equity offering, expanding its capital base for future plans. The partnership has updated its underwriting group, adding two firms as co-lead underwriters on the transaction. The equity raise and refreshed underwriter lineup adjust how Delek Logistics Partners funds its growth and manages its capital structure. For more context on this move, consider exploring other midstream and energy infrastructure stocks that may...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/delek-logistics-partners-dkl-lands-230904762.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pHp5.OOE_5kaV7Aajggnng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f9692e894f79c9cd0c66d13d11ff0ac1.jpg",
+      "published_at": "2026-08-22T23:09:04Z"
+    },
     {
       "id": "52c2ef57-516d-32f7-a91c-226b6711a5c1",
       "asset": "NVDA",
@@ -126,8 +148,8 @@
     },
     {
       "id": "f50a0269-5141-3ca6-9cb7-dc158ed9b69e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
       "summary": "Apple and Meta have been laggards in the AI arms race.",
       "source": "Motley Fool",
@@ -235,6 +257,17 @@
       "published_at": "2026-08-22T17:34:56Z"
     },
     {
+      "id": "e8f6dde1-1c59-3119-8dc6-c9043e95e239",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
+      "summary": "Third Point exited its position in Nvidia during Q2, but this was to shift funds around and should not be seen as a red flag for NVDA stock.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3987301/nvidia-stock-trades-at-a-reasonable-valuation-with-ample-growth-headroom",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VQ2610AZGWA_.8ifPWe3cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/d869ad8ddb9b536f9a2ff587cba6add7.jpg",
+      "published_at": "2026-08-22T17:30:02Z"
+    },
+    {
       "id": "7326464b-094a-3586-b246-4293387d7d61",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -277,39 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M2OR6HjtgH0Pv2HjvoLTRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/46a98b0520c46357b4fd183d04b432cb.jpg",
       "published_at": "2026-08-22T16:27:09Z"
-    },
-    {
-      "id": "9b81e6ab-46ed-365d-a29d-639a2c7286e4",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Can Morgan Stanley (MS) Stay A Bargain Or Is It Fully Priced?",
-      "summary": "Morgan Stanley stock has returned 182.2% over the past three years and now trades around what valuation checks suggest is roughly fair, so the question for investors is whether the current price still offers an attractive payoff for new money. A 182.2% gain over three years puts pressure on buyers to judge whether much of Morgan Stanley's value story is already reflected in the share price. Plans to build a major Dallas hub and the new U.S. Innovation Infrastructure Initiative can support...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stay-bargain-160935476.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Uef.916YLaj3SknwIQlcCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5316c4f52df573f008454c213aa43e08.jpg",
-      "published_at": "2026-08-22T16:09:35Z"
-    },
-    {
-      "id": "a13d97ec-fd25-3c1b-8cd8-fc0568f4c53d",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom’s Hidden Ledger",
-      "summary": "Every major AI bull run has a number investors quietly agree to ignore, and the one hiding behind Microsoft, Alphabet, Meta, and their peers right now makes the reported balance sheets look like a rough draft.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/17/alphabet-meta-and-microsoft-are-hiding-3-trillion-in-debt-on-the-ai-booms-hidden-ledger/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z4h2VtQNGRm_32XpQFw9hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/78589badc56b7021feb21b00b771359d.jpg",
-      "published_at": "2026-08-22T15:52:40Z"
-    },
-    {
-      "id": "b5ea11c8-9df5-3463-8ecf-2d7b659e48b1",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold, Silver, and Copper Are Rebounding in August. Here's One Stock to Invest in to Own All of Them.",
-      "summary": "Royal Gold's assets are revenue streams and royalties.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/gold-silver-and-copper-are-rebounding-in-august/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KpE919wxUkagPhVvRDMzzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/471ccb122fa4ae8ef8c8b7eddf669a7c.jpg",
-      "published_at": "2026-08-22T15:50:00Z"
     }
   ]
 }
