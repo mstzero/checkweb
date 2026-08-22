@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-22 16:18 UTC",
+  "last_updated": "2026-08-22 16:48 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "573fd1a1-ee55-345d-82e3-ca7074d4d724",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Michael Howell Says 2026 Won't Be A Big Year For Bitcoin, Sees 30-Year Yield Going Higher",
+      "summary": "Speaking on 30-year yields, Michael Howell said that he sees yields rising to 6%, leaving the economy to depend on refinancing.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/michael-howell-bitcoin-2026-outlook-30-year-yield/cZYQe8bRJVn",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rG14GWdiimdBYeNf98PBQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/7d430b7e4cb39571b8ea8e7bc005a902.jpg",
+      "published_at": "2026-08-22T16:41:39Z"
+    },
+    {
+      "id": "5e3d3153-2958-390a-a18c-89976740cdda",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex",
+      "summary": "The biggest cloud companies are now recycling almost every dollar of cloud revenue straight back into AI infrastructure, and UBS's latest projections reveal just how far this spending spiral could go before it peaks.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M2OR6HjtgH0Pv2HjvoLTRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/46a98b0520c46357b4fd183d04b432cb.jpg",
+      "published_at": "2026-08-22T16:27:09Z"
+    },
+    {
+      "id": "c4e735ee-c29c-3c85-9cd9-f57ea4acda93",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
+      "summary": "Despite its impressive 2026, Nebius stock still has room for more.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/billionaire-stephen-mandel-just-loaded-up-on-this/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bx0ltFxBFdQlxKqQweBk0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/266024e6dc485f2a7e2f59f886cfe983.jpg",
+      "published_at": "2026-08-22T16:20:00Z"
+    },
+    {
+      "id": "f54fd74c-c0a2-3bae-a86a-4f25c4d2ef75",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Oppenheimer has a blunt Nvidia stock message ahead of earnings",
+      "summary": "With Nvidia reporting August 26, Oppenheimer just published insights about the stock that cut through the noise around the trade.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/oppenheimer-has-a-blunt-nvidia-stock-investors-message-ahead-of-earnings",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ojFx96r6aR0nPGialhrVvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/3c8652eb60690470225e72f5fb33b33c.jpg",
+      "published_at": "2026-08-22T16:17:00Z"
+    },
+    {
+      "id": "f97df360-826e-3c58-a67d-f58663a152f6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The S&P 500 Is Near an All-Time High. Here's What History Says Investors Should Do.",
+      "summary": "A lot of investors get nervous about putting new money into stocks when the market is at an all-time high. History says there's no need to fear.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/sp-500-near-all-time-high-what-history-says-next/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/w36KXZVNen7z9tv2_qCjpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/51b0f93542c5673b2633ee2bac10768f.jpg",
+      "published_at": "2026-08-22T16:16:00Z"
+    },
     {
       "id": "56f6f6db-0427-331a-9ef0-1191a54efdb9",
       "asset": "NVDA",
@@ -13,6 +68,17 @@
       "url": "https://247wallst.com/investing/2026/08/22/adobe-stock-looks-cheap-for-a-reason-heres-why-im-buying/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HZs6eubMSP_Hi1GHj_VFKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6586c810414a0873cf67f1eadb2d1500.jpg",
       "published_at": "2026-08-22T16:10:40Z"
+    },
+    {
+      "id": "9b81e6ab-46ed-365d-a29d-639a2c7286e4",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Can Morgan Stanley (MS) Stay A Bargain Or Is It Fully Priced?",
+      "summary": "Morgan Stanley stock has returned 182.2% over the past three years and now trades around what valuation checks suggest is roughly fair, so the question for investors is whether the current price still offers an attractive payoff for new money. A 182.2% gain over three years puts pressure on buyers to judge whether much of Morgan Stanley's value story is already reflected in the share price. Plans to build a major Dallas hub and the new U.S. Innovation Infrastructure Initiative can support...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stay-bargain-160935476.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Uef.916YLaj3SknwIQlcCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5316c4f52df573f008454c213aa43e08.jpg",
+      "published_at": "2026-08-22T16:09:35Z"
     },
     {
       "id": "e64864dc-38a0-3694-9379-c41ee39b645a",
@@ -59,17 +125,6 @@
       "published_at": "2026-08-22T15:35:00Z"
     },
     {
-      "id": "f5368eb5-9fd5-3533-a00f-89e36e70426f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Stock Doesn’t Look as Expensive as You Think",
-      "summary": "Nvidia is growing revenue at 85% annually yet its valuation multiple tells a different story than most investors expect. Before writing off NVDA as overpriced, the forward PEG ratio raises a question worth sitting with.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/22/nvidia-stock-doesnt-look-as-expensive-as-you-think/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8hk8IQmWValCUzI1.POxoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2910101cc21c09b5511bbd4f5302618c.jpg",
-      "published_at": "2026-08-22T15:30:50Z"
-    },
-    {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -81,15 +136,15 @@
       "published_at": "2026-08-22T15:25:48Z"
     },
     {
-      "id": "eaa81959-265a-36ba-a1f9-53fde8cd19b6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Rate Hikes. These 3 Vanguard ETFs Could Be Better Positioned for What Comes Next.",
-      "summary": "It looks like we're headed into a \"higher for longer\" rate regime. This trio of Vanguard ETFs can help.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/forget-rate-hikes-3-vanguard-etfs-better-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/baykThOul8Rr.vNajPt1Ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d26449601026d87294ff9922bd8c2592.jpg",
-      "published_at": "2026-08-22T15:05:00Z"
+      "id": "e626a6e4-cdf1-3925-90b5-859ee8338f24",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Beats Almost Every Major Asset Over 10 Years, Now Visser Calls It An ‘Anti-Decay’ Hedge",
+      "summary": "US spot Bitcoin ETFs pulled in over $1.9 billion this week, while 10-year return data from a Creative Market Strategist showed Bitcoin up 13,200%, trailing only Nvidia.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-anti-decay-hedge-10-year-returns/cZYQESoRJVV",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u0FZ9cRFjWjWmtU_3qWTJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f09dc6ab390c10b764a6b8a345ac4eb5",
+      "published_at": "2026-08-22T15:20:28Z"
     },
     {
       "id": "be302d93-2946-3afd-aa70-100d791fd518",
@@ -247,69 +302,14 @@
     },
     {
       "id": "166d70da-e6af-34b5-92dc-cd7a23e3903e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Why XRP Is Skyrocketing This Week",
       "summary": "The crypto market is enjoying an incredible rally.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/22/why-xrp-is-skyrocketing-this-week/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IDA74fTCnhD_tJzyq4FFDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e58f16ae8ae6fa23c1282fae5acb08bb.jpg",
       "published_at": "2026-08-22T11:08:40Z"
-    },
-    {
-      "id": "0337b70b-8362-348d-a6a9-c9c92a3d37ad",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Is EOG Resources (EOG) Still Below Fair Value After Its Recent Rally?",
-      "summary": "EOG Resources (EOG) continues to draw attention after its recent share price move, with the stock closing at $153.05. Investors are weighing this level against the company’s current earnings profile and cash generation. See our latest analysis for EOG Resources. Recent trading reflects a stronger tone for EOG Resources, with a 1-day share price return of 0.57% and a 7-day share price return of 7.32%. That builds on a 42.68% year to date share price return and a 5 year total shareholder return...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-still-below-110827997.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zaizkoB5UuXINQX5nnDmyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5e63a7977dad38ce85d0a89ec84c760a.jpg",
-      "published_at": "2026-08-22T11:08:27Z"
-    },
-    {
-      "id": "9da55a43-8879-3126-af43-67b5cb823c54",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "3 AI Stocks Built for the Next Decade",
-      "summary": "The AI capital cycle already has clear winners, and three US-listed companies have locked in structural advantages most investors are still underestimating. Here is what the revenue data actually reveals about who holds the durable position.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/22/3-ai-stocks-built-for-the-next-decade/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DY9BaDYYSTT.9.Jmh3WPmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e2df673d77c9fbb55dca5320b55a8f18",
-      "published_at": "2026-08-22T11:00:30Z"
-    },
-    {
-      "id": "c08d0229-5374-38ec-8deb-99478e06bc39",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "XRP Price Suffers a Brutal Flash Crash as $1.35 Billion Crypto Liquidation",
-      "summary": "XRP price suffered a brutal 37% flash crash as $500 million in longs were liquidated. Here's what happened.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/xrp-flash-crash-500-million-liquidated/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DzAXdOSnk4Hlt_Uhc.YPFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/4e889a1b654196a3845a8a41ec48c96e.png",
-      "published_at": "2026-08-22T10:59:29Z"
-    },
-    {
-      "id": "a163ec7a-351d-3e0a-9f6c-9c610a418971",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Why Artemis Gold (TSXV:ARTG) Is Up 8.9% After Deeper Blackwater Drill Hits Hint at Zinc Potential",
-      "summary": "In August 2026, Artemis Gold reported early results from its 2026 resource expansion drilling at the Blackwater project, including long gold‑bearing intercepts such as 259 metres at 1.22 g/t gold from 309 metres downhole and 191 metres at 0.95 g/t gold from 163 metres downhole, extending mineralization below prior drilling. An interesting feature of these results is the combination of deeper high‑grade gold zones and elevated silver and base metals, prompting Artemis to add a third drill rig...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-artemis-gold-tsxv-artg-101002017.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
-      "published_at": "2026-08-22T10:10:02Z"
-    },
-    {
-      "id": "bb52a4cd-d40a-3d10-b9c9-ccd68c47217c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "What Is ExxonMobil (XOM) Telling Investors By Shifting Focus From Tengiz To Kashagan?",
-      "summary": "ExxonMobil Holdings (NYSE:XOM) has warned that output at Kazakhstan's Tengiz oil field is set to reach its peak soon, raising questions about future production volumes from the asset. The company plans to redirect major capital spending toward the Kashagan oil field, subject to resolution of ongoing legal and environmental disputes. ExxonMobil cited heightened geopolitical risks and regional oil supply disruptions as key factors for reassessing its investment mix in Kazakhstan. The shift in...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-telling-investors-shifting-090858564.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GQ4TPTc.TeC2eRjirnXiPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/d0e83f1986544c84469d81df07bf81f3.jpg",
-      "published_at": "2026-08-22T09:08:58Z"
     }
   ]
 }
