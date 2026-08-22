@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-22 16:48 UTC",
+  "last_updated": "2026-08-22 17:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "61407c76-e1fb-356e-9266-46425a25eb7a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+      "summary": "A tricky stock market struggles against industry rotation and wavering investor confidence heading into the final full week of August.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Il4zupkZgNl6QfxMi1fjow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bb3d4a3905e54cc33eac93d10729dc4e.jpg",
+      "published_at": "2026-08-22T17:05:09Z"
+    },
+    {
+      "id": "0711cfd8-c734-30d9-b2ea-379eafb4d639",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
+      "summary": "One of the pharmacy operator's segments is doing particularly well.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/cvs-health-stock-is-beating-the-market-in-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cHiONU5695CC.abLa1fPfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a90363606979409a784b15a7a277e732.jpg",
+      "published_at": "2026-08-22T17:05:00Z"
+    },
+    {
+      "id": "a6434137-d738-3803-ab31-a65cc0756a5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters",
+      "summary": "Nvidia gets the headlines, but Microsoft is quietly sitting on an asset that converts AI hype into locked-in revenue at a scale most investors haven't priced in yet.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/microsoft-has-something-nvidia-doesnt-and-heres-why-it-matters/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cEMoz.SO_bGWo1sQ9eUlFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/488057af4aea60be04b281b5dcd14b08.jpg",
+      "published_at": "2026-08-22T17:00:29Z"
+    },
+    {
+      "id": "b3cbcce6-205c-3f4f-bcef-3020bcafa826",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You Have $10,000: 3 Dividend ETFs Worth Buying Before September",
+      "summary": "Investing $10,000 in dividend ETFs can provide a steady income stream and potential growth.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/if-you-have-10000-3-dividend-etfs-worth-buying/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yP2fHCEijAngMAd512pRVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/405d61e8b1274f014dd18abaf0885f0f.jpg",
+      "published_at": "2026-08-22T16:50:00Z"
+    },
     {
       "id": "573fd1a1-ee55-345d-82e3-ca7074d4d724",
       "asset": "BTC",
@@ -81,20 +125,9 @@
       "published_at": "2026-08-22T16:09:35Z"
     },
     {
-      "id": "e64864dc-38a0-3694-9379-c41ee39b645a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Can Bloom Energy Keep Beating the Market?",
-      "summary": "Bloom Energy is far outpacing the market. Can it keep it up?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/can-bloom-energy-keep-beating-the-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kTrNdOQrY5IaY4XDor5u_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ed20a4834282ee100b1a394b05d95d56.png",
-      "published_at": "2026-08-22T16:05:00Z"
-    },
-    {
       "id": "a13d97ec-fd25-3c1b-8cd8-fc0568f4c53d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom’s Hidden Ledger",
       "summary": "Every major AI bull run has a number investors quietly agree to ignore, and the one hiding behind Microsoft, Alphabet, Meta, and their peers right now makes the reported balance sheets look like a rough draft.",
       "source": "24/7 Wall St.",
@@ -104,8 +137,8 @@
     },
     {
       "id": "b5ea11c8-9df5-3463-8ecf-2d7b659e48b1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Gold, Silver, and Copper Are Rebounding in August. Here's One Stock to Invest in to Own All of Them.",
       "summary": "Royal Gold's assets are revenue streams and royalties.",
       "source": "Motley Fool",
@@ -115,8 +148,8 @@
     },
     {
       "id": "6e050776-1b7f-37c7-8f18-dba6d03e5ffa",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
       "summary": "Tesla is in the middle of a major business shift, and a long-range version of its Model Y SUV could help ease the transition.",
       "source": "Motley Fool",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aizv7.eH6kmDkhzm..LlXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/9969d8a72cdd47e6cf58524e5454bf84.jpg",
       "published_at": "2026-08-22T12:47:22Z"
-    },
-    {
-      "id": "746c5e41-0dd2-3854-ad1c-e7764ecef5f5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "BlockchAIn Digital Infrastructure Targets AI Data Centers With 65 MW of Contracted Power",
-      "summary": "BlockchAIn Digital Infrastructure (NYSEAMERICAN:AIB) outlined its strategy to convert powered land and former Bitcoin mining sites into facilities designed for artificial intelligence hosting and high-performance computing workloads, emphasizing secured utility capacity, modular construction and ten",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/blockchain-digital-infrastructure-targets-ai-data-centers-with-65-mw-of-contracted-power-2026-08-22/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5mC1UgkXXuA8EkGKtip9dg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/85d804d72f2ddc70f04ca0fcb7c85809.png",
-      "published_at": "2026-08-22T12:01:58Z"
-    },
-    {
-      "id": "da704bb3-4892-358f-b6af-160a62042f24",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "TRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?",
-      "summary": "Retail traders on Stocktwits turned to the ‘extremely bullish’ zone for TRUMP and ZEC, while sentiment around Polygon continued to be in the 'bullish' zone.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/trump-zec-pol-leave-bitcoin-ethereum-in-the-dust-altseason/cZYQGuvRJVm",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/r.Oh4QJjzQsEkqCb0SBZDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1bc98699c46769fa6f9c7e8c245a8c59.jpg",
-      "published_at": "2026-08-22T11:48:39Z"
-    },
-    {
-      "id": "166d70da-e6af-34b5-92dc-cd7a23e3903e",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Why XRP Is Skyrocketing This Week",
-      "summary": "The crypto market is enjoying an incredible rally.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/why-xrp-is-skyrocketing-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IDA74fTCnhD_tJzyq4FFDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e58f16ae8ae6fa23c1282fae5acb08bb.jpg",
-      "published_at": "2026-08-22T11:08:40Z"
     }
   ]
 }
