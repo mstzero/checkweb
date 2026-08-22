@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-22 18:57 UTC",
+  "last_updated": "2026-08-22 19:22 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "ee376f9f-b200-33b7-a5a4-499f1b2657d3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+      "summary": "Taiwan Semiconductor's latest move shows that more chip production capacity needs to come online to meet demand.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/tsmcs-100-billion-arizona-expansion-stock-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wSEHKQJb7qgVybJozNOpXQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ae9f3b6df42f2b1ef064992a982d1abe.png",
+      "published_at": "2026-08-22T19:05:00Z"
+    },
+    {
+      "id": "5ad77136-11da-3ac1-92a1-75fe9c1f5117",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Want $10,000 a Year on $100K? The Private-Credit Funds Banks Can’t Compete With Pay 10%+",
+      "summary": "BIZD's double-digit yield looks like a private-credit shortcut, but a hidden fee structure quietly eats into returns in a way most investors never calculate before they buy.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/want-10000-a-year-on-100k-the-private-credit-funds-banks-cant-compete-with-pay-10/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0VgXkwkv8vnNbg0hIch8aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bafcbf837a920d251ca4d0cbdf818c62.jpg",
+      "published_at": "2026-08-22T19:01:01Z"
+    },
+    {
+      "id": "61dccfd3-ef54-3d15-b919-8665a929f303",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?",
+      "summary": "Amazon's custom chip business is growing in popularity.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/amazon-custom-chip-business-25-billion-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Crjm6RgGnFKn6pvQRD28_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/db7c824dd9477911349ed484a833aa2a.png",
+      "published_at": "2026-08-22T18:53:00Z"
+    },
+    {
+      "id": "a7bd25b5-9098-3eb7-924d-f8513967516d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "This Fund Pays 400% of the S&P’s Dividend and Still Beat Half of Wall Street This Year",
+      "summary": "SPY's quarterly dividend barely registers as income, but a lesser-known fund holding the exact same 500 companies has quietly rewired the payout structure in a way most income investors have never considered.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/22/this-fund-pays-400-of-the-sps-dividend-and-still-beat-half-of-wall-street-this-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S0tG2X2TZfHMCDJ6xObhLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2735f2220d54d5fc5123c2555af0ab20.jpg",
+      "published_at": "2026-08-22T18:48:16Z"
+    },
+    {
+      "id": "4c2d9497-ee97-33e4-b525-cc1f869485de",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "$830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea",
+      "summary": "South Korea's Upbit recorded $830 million in single-hour volume, extending a two-day surge led by XRP and TRUMP.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/upbit-record-hourly-trading-volume-xrp-trump/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T1Xz3jJjuC0oT83onR8XQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5df467049911a57e6d2e2c4ff6e7c0ef.png",
+      "published_at": "2026-08-22T18:37:00Z"
+    },
     {
       "id": "bb3e1e0f-be49-389c-91d9-f6ad3d39834c",
       "asset": "NVDA",
@@ -79,39 +134,6 @@
       "url": "https://www.fool.com/investing/2026/08/22/the-smartest-etf-to-buy-with-750-right-now/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QomgDEje0hjGwmTO58AhNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/43077baf0b4adb2f91eb1bf30753c4f1.jpg",
       "published_at": "2026-08-22T17:55:00Z"
-    },
-    {
-      "id": "25f9e7fc-9de9-354f-8acb-019e6255671d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "1 Quantum Computing Stock That Looks Like a Screaming Buy Right Now",
-      "summary": "IonQ continues to make strides towards a commercially viable quantum computer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/1-quantum-computing-stock-that-looks-like-a-scream/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_BP3wNX.T6d9m8.Rvc6vnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/978a75bb87e0f458725c3dcf06305c44.jpg",
-      "published_at": "2026-08-22T17:50:00Z"
-    },
-    {
-      "id": "61407c76-e1fb-356e-9266-46425a25eb7a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-      "summary": "A tricky stock market struggles against industry rotation and wavering investor confidence heading into the final full week of August.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Il4zupkZgNl6QfxMi1fjow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/bb3d4a3905e54cc33eac93d10729dc4e.jpg",
-      "published_at": "2026-08-22T17:49:56Z"
-    },
-    {
-      "id": "9d301fd1-bade-3319-81fd-08711b71d733",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Treasury Yields Have Surged. Is It Finally Time to Buy Bond ETFs?",
-      "summary": "Bonds are at their most interesting potential entry point in years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/treasury-yields-surged-time-to-buy-bond-etfs/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BRsEecwo8oxyWNao148HKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c0e02b1cdfb796f14226a620f96f5758.jpg",
-      "published_at": "2026-08-22T17:35:00Z"
     },
     {
       "id": "c84a6820-dc63-3a68-8bec-2f7ca5a46fd2",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-went-slump-mvp-135908904.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JZHIOEwtOzgTCJVqaAjuZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/dc5c5a24a12c3482f3c3f6fde30222c6.jpg",
       "published_at": "2026-08-22T13:59:08Z"
-    },
-    {
-      "id": "95382f04-6680-384f-b97f-2e1f7954108a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
-      "summary": "Realty Income checks all the boxes as a top dividend stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/why-i-think-the-best-dividend-stock-isnt-a-tech-na/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i50n_qut2QsGfOL.x7ZnfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c317d21cf145550ae1c7bafe5ee1221b.jpg",
-      "published_at": "2026-08-22T13:50:00Z"
-    },
-    {
-      "id": "6ce6ab62-2099-3bc1-83e5-71436b996612",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Sandbox Says Bridge Exploit Was ‘Minimal’ - On-Chain Data Tells A Very Different Story",
-      "summary": "The Metaverse project, Sandbox, disabled bridging on both networks and warned users not to trade SAND on Base or BSC while liquidity remains compromised.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/sandbox-bridge-exploit-minimal-data-tells-a-very-different-story/cZYQ2zPRJVN",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GYbL82JjeisxxdKJgjHdyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c0e2aa74127f7ae0a555275750f78568.jpg",
-      "published_at": "2026-08-22T13:45:08Z"
     }
   ]
 }
