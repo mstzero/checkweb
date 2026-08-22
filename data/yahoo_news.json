@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-22 11:17 UTC",
+  "last_updated": "2026-08-22 11:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "d26ea248-61f9-323e-b21d-773939b77069",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
+      "summary": "Palantir, Microsoft, and GitLab all have strong upside from AI.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/software-as-a-service-saas-stocks-big-upside-ai/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/R797GrhzxpWdG65UwrFagg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47cd18b138e34aebf3c01d2c6bbcf963.jpg",
+      "published_at": "2026-08-22T11:35:00Z"
+    },
+    {
+      "id": "145b7fb5-a18d-3a3c-8f0d-d4f1e6accb05",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Opera Stock Sank This Week",
+      "summary": "Opera beat Wall Street's sales target in Q2, but that wasn't enough for investors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/why-opera-stock-sank-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RCRljDRXvcugA5ybBHlNvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/baec53f932db7fc103f45eac8bb52c0d.jpg",
+      "published_at": "2026-08-22T11:35:00Z"
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
+      "published_at": "2026-08-22T11:31:49Z"
+    },
+    {
+      "id": "166d70da-e6af-34b5-92dc-cd7a23e3903e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why XRP Is Skyrocketing This Week",
+      "summary": "The crypto market is enjoying an incredible rally.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/why-xrp-is-skyrocketing-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IDA74fTCnhD_tJzyq4FFDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e58f16ae8ae6fa23c1282fae5acb08bb.jpg",
+      "published_at": "2026-08-22T11:08:40Z"
+    },
+    {
+      "id": "0337b70b-8362-348d-a6a9-c9c92a3d37ad",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Is EOG Resources (EOG) Still Below Fair Value After Its Recent Rally?",
+      "summary": "EOG Resources (EOG) continues to draw attention after its recent share price move, with the stock closing at $153.05. Investors are weighing this level against the company’s current earnings profile and cash generation. See our latest analysis for EOG Resources. Recent trading reflects a stronger tone for EOG Resources, with a 1-day share price return of 0.57% and a 7-day share price return of 7.32%. That builds on a 42.68% year to date share price return and a 5 year total shareholder return...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-still-below-110827997.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zaizkoB5UuXINQX5nnDmyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/5e63a7977dad38ce85d0a89ec84c760a.jpg",
+      "published_at": "2026-08-22T11:08:27Z"
+    },
     {
       "id": "8dca565d-5226-30d7-a670-441cbe816603",
       "asset": "NVDA",
@@ -37,39 +92,6 @@
       "published_at": "2026-08-22T11:00:30Z"
     },
     {
-      "id": "eebe9fc0-8331-3924-9c38-a8bc733bc219",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SpaceX Stock Is up 32% Since Aug. 1. Is it Too Late to Buy?",
-      "summary": "The market liked SpaceX's earnings report.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/spacex-stock-is-up-37-since-aug-1-is-it-too-late-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YwczaXJxpT8oMQ3KNEWYOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/97fd4cd66034fd0552c346fa851d2b03.jpg",
-      "published_at": "2026-08-22T10:45:00Z"
-    },
-    {
-      "id": "6e84965a-f3ac-3f30-a756-45a2c0828826",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
-      "summary": "The AI hyperscalers are spending a ton of money on computing power.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/alphabet-and-amazon-are-investing-420-billion-in-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0JNNPntnamYtSvrFBZV.hQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a8f8ef75bf19600ed87fd7c35ac3b1b8.jpg",
-      "published_at": "2026-08-22T10:35:00Z"
-    },
-    {
-      "id": "e4bd24ba-3651-3c0e-a64e-2c0179bbb556",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Elon Musk Owns 48.4% of SpaceX, a New Filing Shows. Here's Why That Matters for Everyone Else Holding the Stock.",
-      "summary": "Musk has total control over the company's future.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/elon-musk-owns-484-of-spacex-a-new-filing-shows-he/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jwRSienFNheIvVpASknQOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a646916ba701828d21570b8017a21afa.jpg",
-      "published_at": "2026-08-22T10:30:00Z"
-    },
-    {
       "id": "1721acee-85bc-3c19-b468-8787acd5282d",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -79,17 +101,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-77-000-102207861.html",
       "thumbnail": "",
       "published_at": "2026-08-22T10:22:07Z"
-    },
-    {
-      "id": "cbacc9a9-b9e5-379e-bd5f-4e89d3cdecc4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Dividend ETF Won't Let a Stock In Unless It Passes 2 Strict Tests. Here's Why That Matters.",
-      "summary": "The iShares Core Dividend Growth ETF aims to hold companies that increase their dividends.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/this-dividend-etf-wont-let-a-stock-in-unless-it-pa/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jsrM1zen504acnYRNSeSyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/422ea167c4505e0a94693e7c794833c0.jpg",
-      "published_at": "2026-08-22T10:20:00Z"
     },
     {
       "id": "a163ec7a-351d-3e0a-9f6c-9c610a418971",
@@ -200,17 +211,6 @@
       "url": "https://beincrypto.com/coinbase-ceo-crypto-bull-market/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JU0ewHWMe89JpAnYbNT1vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3aca7b44d4fbc3d37f1ef5dfdb866128.png",
       "published_at": "2026-08-22T04:10:36Z"
-    },
-    {
-      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
-      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
-      "published_at": "2026-08-22T02:36:16Z"
     },
     {
       "id": "38682b14-5d09-385b-9b02-9178894ffcb2",
