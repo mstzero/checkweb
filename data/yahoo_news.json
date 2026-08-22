@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-22 07:55 UTC",
+  "last_updated": "2026-08-22 08:24 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3a011b5a-b8a3-3dea-9253-ff8188110032",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "AngloGold Ashanti (AU) Stock May Be 2% Undervalued As Cash Flows Hold Up",
+      "summary": "After a very strong five year run for AngloGold Ashanti, with total returns that are roughly 7x, the stock now trades in a zone where a Discounted Cash Flow (DCF) intrinsic value estimate points to a price that is close to fair, while market based multiples still lean on the cheap side. Five year returns are very large, which sets a high bar for any further upside to be supported by fundamentals. Future cash flows from existing mining assets and project pipeline can support the current...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-au-stock-may-080806474.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
+      "published_at": "2026-08-22T08:08:06Z"
+    },
+    {
+      "id": "c758d6bc-e1fc-35a5-bc10-341d29aeebee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Elon Musk Wants to Bring on 20 Gigawatts of Compute Capacity. Here's What That Could Mean For Memory Chip Stocks.",
+      "summary": "The sector is seeing a huge boost in demand that may not slow anytime soon.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/elon-musk-wants-to-bring-on-20-gigawatts-of-comput/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kfu78X1270HP0mLU8GGiKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/58e619db0ebd2578a03f9d0188ef2060.jpg",
+      "published_at": "2026-08-22T07:50:00Z"
+    },
     {
       "id": "7bb6383a-e210-300a-b5fb-a2d1a82c05b8",
       "asset": "NVDA",
@@ -90,17 +112,6 @@
       "url": "https://www.fool.com/retirement/2026/08/22/this-401k-move-could-cost-retirees-up-to-487-a-mon/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0NXfCRor4R0cHxN75uZnPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b462b75f859c7b19320ea28091ccd217.jpg",
       "published_at": "2026-08-22T04:50:00Z"
-    },
-    {
-      "id": "1e5d722f-e7da-32b8-b37d-0d4435be03e9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
-      "summary": "Tepper's hedge fund has finally liquidated its position in Lyft and just doubled down on Uber.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/billionaire-david-tepper-sells-lyft-in-favor-of-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J4YSyjvxWp5sWHMDk4N0MQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8cdd5c36ef2b182c893f6a8afb3f3993.jpg",
-      "published_at": "2026-08-22T04:20:00Z"
     },
     {
       "id": "6b319b70-67b4-3bc6-a8f3-ea3acf3b9267",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/etf/2026/08/21/divo-holders-gave-up-79300-on-a-500000-position-over-five-years-for-downside-comfort/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/306_Y0AnZe278zYGV.tU0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e566f16cf80efd7f1a9e0db51e301c0b.jpg",
       "published_at": "2026-08-21T22:05:31Z"
-    },
-    {
-      "id": "1b6612de-1d3e-3c3c-bfed-eca40d078457",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
-      "summary": "China's new five-year plan boosts LNG storage and oil output as Beijing prepares to hit peak oil demand before global supply does.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/chinas-five-plan-preps-nation-220000847.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OSEByixyEfJW_mrx8Ty3Mg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/12731541c47318f689e51780f6085cce.jpg",
-      "published_at": "2026-08-21T22:00:00Z"
     }
   ]
 }
