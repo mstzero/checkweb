@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-08-22 18:23 UTC",
+  "last_updated": "2026-08-22 18:57 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "bb3e1e0f-be49-389c-91d9-f6ad3d39834c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's How Many Shares of Target You'd Need for $10,000 in Yearly Dividends",
+      "summary": "Target just increased its quarterly dividend again.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/shares-of-target-for-1000-yearly-dividends/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ba_u4GXASlfIZj00pX5.Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/df8e5ef3382db960833544ee920a1f70.jpg",
+      "published_at": "2026-08-22T18:37:00Z"
+    },
+    {
+      "id": "273e561e-bd31-342c-9a4c-dce60fabcff4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.",
+      "summary": "It's a tech company you don't have to second-guess for the long haul.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/ive-held-microsoft-for-10-years-and-im-not-selling/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a5ftkvFVwv8xMgC.6_w71g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4fa09060aec32a9d4bc97e3837b74254.png",
+      "published_at": "2026-08-22T18:33:00Z"
+    },
+    {
+      "id": "2d37f10a-d7b7-3b6c-bc30-eff377455332",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
+      "summary": "Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gErSGjnX1fEp8RVbGTN4LA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6c5a18608f1529bdd5cf32fa394693c4.jpg",
+      "published_at": "2026-08-22T18:32:04Z"
+    },
+    {
+      "id": "e3ede4d5-cfb3-358f-91be-2aed5a4e5f9c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.",
+      "summary": "Alphabet's value proposition was so appealing that even Buffett and Abel could not ignore it.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/warren-buffetts-hand-picked-successor-greg-abel-ha/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/goLLChSRhzS4U1GGmM3r1w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fcc6cd52143b9a11acb2fb1eea73084d.jpg",
+      "published_at": "2026-08-22T18:20:00Z"
+    },
+    {
+      "id": "0be3356f-02e9-3c42-a9ba-c34497e1cf13",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "AngloGold Ashanti (AU) Looks Fully Valued After Analyst Sentiment Turns Cautious",
+      "summary": "AngloGold Ashanti (AU) has come into focus after a sharp shift in analyst sentiment, with declining earnings estimate revisions and a lower Zacks Rank. This has raised fresh questions about the company’s earnings outlook. See our latest analysis for AngloGold Ashanti. The recent shift in sentiment around AngloGold Ashanti comes after a strong run in the stock, with a 49.34% 1 month share price return and a 132.27% 1 year total shareholder return suggesting momentum has been building despite...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-au-looks-fully-180842683.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
+      "published_at": "2026-08-22T18:08:42Z"
+    },
+    {
       "id": "b62488e9-bc26-348b-a1b9-820f5db4e2ec",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "Forget JEPI: BlackRock’s Answer Pays 7.6%, Charges the Same 0.35%, and Beat It by 10 Points This Year",
       "summary": "JEPI built its reputation on fat monthly checks and a 0.35% fee, but a newer BlackRock fund matches it on both counts while doing something JEPI's covered-call structure quietly prevents its holders from achieving.",
       "source": "24/7 Wall St.",
@@ -70,28 +125,6 @@
       "published_at": "2026-08-22T17:34:56Z"
     },
     {
-      "id": "c39ad25c-89fb-38e7-9a67-11a58e6eee98",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.",
-      "summary": "Given the nature of this business, investors can't really ignore macroeconomic conditions.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/this-sp-500-stock-pays-a-267-dividend-yield-and-ha/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xqg6N_r71QGr7x1.a263zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b79a076ebe59cd3a0b085cb5942de1fe.png",
-      "published_at": "2026-08-22T17:20:00Z"
-    },
-    {
-      "id": "e965eb7f-1623-3835-aed9-bd8446553c4d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "After Exploding by 18% in One Day, Is XRP a Buy?",
-      "summary": "There's more to an investment thesis than one great day of price action.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/after-exploding-by-18-in-one-day-is-xrp-a-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n0KM8IXmRXXnELEJvE8bLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f7ef88dc66704acc2cad2a94ab4b54e8.png",
-      "published_at": "2026-08-22T17:12:00Z"
-    },
-    {
       "id": "7326464b-094a-3586-b246-4293387d7d61",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -101,17 +134,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalling-nearly-3-170809617.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eBdiCPanX2gPHLGklaqkQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1.jpg",
       "published_at": "2026-08-22T17:08:09Z"
-    },
-    {
-      "id": "0711cfd8-c734-30d9-b2ea-379eafb4d639",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.",
-      "summary": "One of the pharmacy operator's segments is doing particularly well.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/cvs-health-stock-is-beating-the-market-in-2026/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cHiONU5695CC.abLa1fPfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a90363606979409a784b15a7a277e732.jpg",
-      "published_at": "2026-08-22T17:05:00Z"
     },
     {
       "id": "a6434137-d738-3803-ab31-a65cc0756a5f",
@@ -288,28 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/sandbox-bridge-exploit-minimal-data-tells-a-very-different-story/cZYQ2zPRJVN",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GYbL82JjeisxxdKJgjHdyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c0e2aa74127f7ae0a555275750f78568.jpg",
       "published_at": "2026-08-22T13:45:08Z"
-    },
-    {
-      "id": "9b04016b-f5c6-385b-9faf-ed2aa3137546",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
-      "summary": "AWS is growing at its fastest pace in 18 quarters, advertising is booming, and Amazon's chips business is exploding, yet the stock trades at a multiple that makes it look like a sleepy retailer. Something in that math appears deeply off.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/22/amazon-stock-is-historically-cheap-is-this-a-once-in-a-decade-buying-opportunity/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sM5OS0kfONxkt4li5AK37w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8d1497c45bb6f7191ced8957be204afc.jpg",
-      "published_at": "2026-08-22T13:30:46Z"
-    },
-    {
-      "id": "5a7cf312-ec54-300c-b6d3-9c14806de1a9",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Can Citigroup (C) Stay Reasonable After A 250% Three Year Gain?",
-      "summary": "Citigroup’s stock has delivered a very large 3 year gain, yet current valuation checks suggest the market price still sits below what both intrinsic value estimates and earnings multiples imply. Citigroup has returned about 250% over the past 3 years, which puts extra focus on whether recent gains already reflect its underlying value. New initiatives such as the Custody+ platform and upcoming Bitcoin custody services can support long term fee and service revenue, while execution risk around...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-stay-reasonable-250-130857065.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jZp6MnmeEUiw8pSaZG8b7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e0574e82615fa8a8970c3c3eb5888c6a.jpg",
-      "published_at": "2026-08-22T13:08:57Z"
     }
   ]
 }
