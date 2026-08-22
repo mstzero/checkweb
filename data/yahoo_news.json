@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-22 02:33 UTC",
+  "last_updated": "2026-08-22 03:38 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "74cf811c-93f9-32e4-963d-42318ab4d5fb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Robinhood Markets Stock Popped Today",
+      "summary": "A less restrictive regulatory environment would be a boon for the digital trading platform.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/21/why-robinhood-markets-stock-popped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mV1dQMjSR39TCiqJs65M.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33e30a632127cfe3890e876e68e2631a.png",
+      "published_at": "2026-08-22T03:25:33Z"
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
+      "published_at": "2026-08-22T02:36:16Z"
+    },
+    {
+      "id": "38682b14-5d09-385b-9b02-9178894ffcb2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Trump Says US is the 'Hottest Country' and CLARITY Act Will Keep it Ahead Of China — Bitcoin Purchase 'Been Talked About'",
+      "summary": "President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks Congress to Move Quickly on CLARITY Act Trump hosted White House cryptocurrency summit alongside CFTC Chairman Michael Selig and...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-says-us-hottest-country-023156530.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/diMfT_khIc5CkUMr8oN17Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/07153bf58fc534a6e9f6179b302e9864.jpg",
+      "published_at": "2026-08-22T02:31:56Z"
+    },
     {
       "id": "22b01e23-49eb-3874-b19f-18df4f71b7a5",
       "asset": "BTC",
@@ -24,6 +57,17 @@
       "url": "https://www.fool.com/investing/2026/08/21/micron-committed-usd10-billion-over-10-years-to-a-research-lab-that-breaks-ground-in-2027/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NMGAQdIqYtvtJVlkL44r_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9a4e3610bc7b02ced68dffacc7eeab13.jpg",
       "published_at": "2026-08-22T01:38:01Z"
+    },
+    {
+      "id": "a53aa280-1304-3ad7-a5f9-3eb5ac0fc62b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Michael Saylor Warns Strategy Investors: 'We Have to Be Prepared to Have Difficult Years'",
+      "summary": "Strategy Inc. Executive Chairman Michael Saylor and CEO Phong Le recently defended the company’s Bitcoin-focused capital strategy, arguing that near-term pain and equity issuance are necessary. Is Strategy Diluting MSTR Shareholders? During Strategy’s second investor Q&A with Natalie Brunell, Le...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-warns-strategy-investors-013146179.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/utl2mbpWXd.9uUMjWk5Lbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/3227cabffc4d92825d6d144395ae5a44.jpg",
+      "published_at": "2026-08-22T01:31:46Z"
     },
     {
       "id": "49c6cfb6-47ae-3b9e-bfb5-6fd089f9977c",
@@ -81,28 +125,6 @@
       "published_at": "2026-08-21T23:59:34Z"
     },
     {
-      "id": "c03a4cd3-2d38-30db-a70b-a9891d35975a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "With Archer Aviation's Share Price Down 53%, Could a Reverse Stock Split Be About to Happen?",
-      "summary": "Shares of the eVTOL maker have collapsed over the past year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/with-archer-aviations-share-price-down-53-could-a/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zRR_y8kT.0.ONkHsp8IB1Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/083d3c71027fd42f1f23676f39b03e3f.jpg",
-      "published_at": "2026-08-21T23:55:00Z"
-    },
-    {
-      "id": "14d038cf-7c04-341f-b1e2-3f54a7da8344",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Review & Preview: Vacation’s Over",
-      "summary": "The last week of August will be chock-full of news, from Nvidia earnings to the Fed’s hotly-anticipated meeting in Jackson Hole.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-indexes-rise-markets-waiting-nvidia-fed-meeting-1195b879?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-21T23:55:00Z"
-    },
-    {
       "id": "be7b758b-d8a2-3b74-a555-4685f09e9af4",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -123,28 +145,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-no-longer-trillionaire-233204052.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NH7UdMUyytvsG8Rw6RuLiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/7b8a42f3731522982293578abf0fd095.jpg",
       "published_at": "2026-08-21T23:32:04Z"
-    },
-    {
-      "id": "6630b3b1-09c6-3425-8def-99d29a0f7188",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Cardano Was on Fire Today",
-      "summary": "It was swept up in a broad and powerful cryptocurrency rally.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/21/why-cardano-was-on-fire-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KphOFc2JQQQaipjy0zG4uA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0cf0377a1a2b79cc78d2b569c41184bc.jpg",
-      "published_at": "2026-08-21T23:30:35Z"
-    },
-    {
-      "id": "c99df646-041e-358b-96f4-8d1707d9ee3c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Saylor’s Bitcoin bet is no longer underwater",
-      "summary": "Michael Saylor’s Strategy is the world’s largest Bitcoin treasury company.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/saylors-bitcoin-bet-is-no-longer-underwater",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QGmHIFxMH.eE7A7D7exACw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e688984b6508e61bee6c9e281c260cbb.jpg",
-      "published_at": "2026-08-21T23:20:00Z"
     },
     {
       "id": "7b2ff50f-63e4-317d-bb71-7b75e5e5eb28",
@@ -178,17 +178,6 @@
       "url": "https://247wallst.com/investing/etf/2026/08/21/single-at-66-means-one-social-security-check-and-no-backup-these-4-etfs-build-the-second-one/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TGQwPYtfOuWHjoB9EvWY7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9ae09aef8eab0cef4a5b9c22d14db598.jpg",
       "published_at": "2026-08-21T23:00:57Z"
-    },
-    {
-      "id": "662aa3f8-2638-3101-8ca6-891ebae77651",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Elon Musk Said Bitcoin Has No Throat to Choke: Why Does That Matter?",
-      "summary": "Elon Musk said Bitcoin has no throat to choke. Filings show Tesla sold 75% and SpaceX never sold a coin. Key details.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/elon-musk-bitcoin-no-throat-choke/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rgudiaLgH97mmuWgcXgNNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/be66cc78c101d35c191b2ae4df42e3b9.jpg",
-      "published_at": "2026-08-21T23:00:00Z"
     },
     {
       "id": "867d3e22-7176-3a2d-8829-18e81ce31480",
@@ -310,6 +299,17 @@
       "url": "https://247wallst.com/investing/etf/2026/08/21/how-a-72-year-olds-400000-in-qyld-now-pays-3901-a-month-down-from-a-steadily-shrinking-peak/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dpaQryXb4X6XOupZIrBpbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/80203f7482a707cbd2eaad73b0105d04.jpg",
       "published_at": "2026-08-21T21:45:54Z"
+    },
+    {
+      "id": "faf2cde3-16cf-3845-a2fc-c4ef6b10fbab",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Two Years of Friday Paydays: The 44% Fund Has Kept Its NAV and Beaten Half of Wall Street",
+      "summary": "QDTE has delivered a Friday paycheck almost every week for two years, but the numbers behind that headline yield tell a more complicated story about what income-hungry investors are actually giving up.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/21/two-years-of-friday-paydays-the-44-fund-has-kept-its-nav-and-beaten-half-of-wall-street/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lf4UMtDdF4jruZbO7Ac.xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5675d93d5665df35cd7bbc73e52f44ee.jpg",
+      "published_at": "2026-08-21T21:35:03Z"
     }
   ]
 }
