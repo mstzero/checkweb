@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-22 05:51 UTC",
+  "last_updated": "2026-08-22 06:33 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "22384c91-0265-3413-87ed-0f40009af161",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Still Sitting in Cash? Here's How Much $10,000 Could Cost You Over the Next 10 Years.",
+      "summary": "Cash can be attractive in the near term. It usually ends up being a drag on the portfolio in the long term.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/still-in-cash-how-much-10000-cost-you-10-years/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sjZz09UgVjD_3Wd93cV16w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af373979979cbf80b03e71a2be193b52.jpg",
+      "published_at": "2026-08-22T05:50:00Z"
+    },
     {
       "id": "3da05092-c322-3271-adff-3cd517f578b4",
       "asset": "NVDA",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/21/warren-buffett-successor-greg-abel-cut-berkshire-s-bank-of-america-stake-by-usd1-7-billion-he-added-usd1-6-billion-of-delta-air-lines/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fdeZt5CeENQgsXnpc0hDBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/786ef52a6ce291cf1c380775faeb9941.png",
       "published_at": "2026-08-21T21:53:01Z"
-    },
-    {
-      "id": "e4bc1328-64a0-3b28-a227-067671a70572",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",
-      "summary": "The U.S. 30-year Treasury yield climbed for the second straight week.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-indices-end-week-lower-on-pressure-from-elevated-long-duration-treasury-yields-psky/cZY97YMRJVO",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JCvo65TurCbamAIH6IxjLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c.jpg",
-      "published_at": "2026-08-21T21:48:44Z"
     }
   ]
 }
