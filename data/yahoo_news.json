@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-23 17:16 UTC",
+  "last_updated": "2026-08-23 17:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "206bc2a3-f627-3c63-9c71-81d13ac30a37",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release?",
+      "summary": "SentinelOne has had a nice run, but is that enough to make it a buy before the earnings release?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/sentinelone-is-up-42-this-year-and-reports-earning/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kYrhw5eSVJVTSoq16re1yA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fb919bb9345eef9a35d2f5576dc3285a.png",
+      "published_at": "2026-08-23T17:40:00Z"
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada began Saturday. Nvidia, CrowdStrike and Fed's Warsh loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
+      "published_at": "2026-08-23T17:30:17Z"
+    },
+    {
+      "id": "979e59eb-2d8e-3019-96c2-14bff84e0237",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+      "summary": "Custom AI chips will see more demand over the next few years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/broadcom-vs-marvell-technology-1-critical-metric-d/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wKY1n8TEub9v.c2YyBFVcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3550fc0ae8e1d1ce35ffb29e271ee116.jpg",
+      "published_at": "2026-08-23T17:26:00Z"
+    },
+    {
+      "id": "8072b086-0c9c-388c-b330-ff3aa918fef3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
+      "summary": "Oracle is about to report its latest quarterly financial results, and they might be the key to reversing its sinking stock price.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/should-buy-oracle-stock-september-answer-surprise/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2J6Sbv2Afvyu8tw47HevPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0ce870c3f927d4458724230533b24a8d.png",
+      "published_at": "2026-08-23T17:10:00Z"
+    },
+    {
+      "id": "2f3ad4cd-7c53-39dd-8f60-fde768986d79",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
+      "summary": "Microsoft (NasdaqGS:MSFT) faces new obligations in Australia as a law requiring large digital platforms to pay local publishers for news content comes into effect, affecting LinkedIn’s news distribution. Meta has become one of Microsoft’s largest AI customers, with a major spend on Azure AI infrastructure and services. Microsoft Advertising introduced an agentic commerce blueprint that uses AI tools to reshape how brands run digital shopping and ad campaigns. Consider exploring other stocks...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPWopoFekEfw2LKiJEwh1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
+      "published_at": "2026-08-23T17:07:38Z"
+    },
     {
       "id": "71a8f2dc-68de-3123-bbcc-2179142c8350",
       "asset": "MSFT",
@@ -13,17 +68,6 @@
       "url": "https://www.thestreet.com/investing/stocks/bill-ackman-pershing-square-visa-stock-new-position",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MaE60P3kgTaXPU6S6hfkbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8407fabcd7fb2f3f42b5301395a3b9cc.jpg",
       "published_at": "2026-08-23T17:07:00Z"
-    },
-    {
-      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
-      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada began Saturday. Nvidia, CrowdStrike and Fed's Warsh loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
-      "published_at": "2026-08-23T16:56:06Z"
     },
     {
       "id": "d8f8b909-e211-343a-bf2a-25b1367cd4f3",
@@ -59,6 +103,17 @@
       "published_at": "2026-08-23T16:31:00Z"
     },
     {
+      "id": "a6646274-fe8d-3a7d-b3ec-d50bcb76ad3b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Jordi Visser Warns Betting Against Treasury Intervention Is ‘A Very Dangerous Game,’ Favors Bitcoin Over Equities",
+      "summary": "Visser referred to Bitcoin as the “S&P 500 of the crypto world,” and saw it as a significant store of value in the digital economy.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-treasury-intervention-dangerous-bitcoin/cZYhhQRRJVu",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p6Rd5eDau5sx9k1iAqL0aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/90cb2439828dd223ccdbd158554631eb",
+      "published_at": "2026-08-23T16:23:40Z"
+    },
+    {
       "id": "ea438c2e-37fc-3640-9679-8267a0f08490",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -71,25 +126,14 @@
     },
     {
       "id": "5a241fc4-1169-3e4c-b6ef-b07d8dbf47ee",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots",
       "summary": "AI has already gutted white-collar tech jobs by the hundreds of thousands, but the next wave targets something far bigger: the physical economy and the wages of workers who never touched a keyboard.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pzspRSvL0ZrZEv7mVGCaZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/33f30ea6b95a29e993c1928cd4f72023.jpg",
       "published_at": "2026-08-23T16:17:42Z"
-    },
-    {
-      "id": "be7bd23e-47ea-3dce-b304-5b711249b18e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis.",
-      "summary": "Exxon has plenty of fuel to continue growing.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/one-of-exxons-biggest-oil-fields-is-running-out-of/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QgpeYaumKksvppqP1e_.tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6c37f6e75d237e2b5a457363f2824f07.png",
-      "published_at": "2026-08-23T16:05:00Z"
     },
     {
       "id": "51afa978-4df4-31e3-8eb1-47e8e0bef2a7",
@@ -101,17 +145,6 @@
       "url": "https://beincrypto.com/trump-june-trades-crypto-disclosure-filing/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oPJnhhs8ImbFc_0KZ1yA2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/cefaccc22418d1038c78a59b735843f3.png",
       "published_at": "2026-08-23T16:02:52Z"
-    },
-    {
-      "id": "420c1e57-946d-3b99-87dc-1fa6e5eb6362",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here’s Why.",
-      "summary": "Eli Lilly just delivered one of the most staggering quarters in Big Pharma history, yet Wall Street is barely reacting. Three catalysts in the next 18 months could either push shares to levels few analysts dare to print or expose the cracks in a very expensive story.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/23/prediction-eli-lilly-could-be-one-of-the-biggest-winners-of-the-next-decade-heres-why/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JBV8.3Bt_J.TZQV8aAxtpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6615307d33cf3618f143f700c824126a.jpg",
-      "published_at": "2026-08-23T16:00:11Z"
     },
     {
       "id": "8f7c032b-a0e1-30a5-8286-55c9fbe9692e",
@@ -235,17 +268,6 @@
       "published_at": "2026-08-23T11:44:00Z"
     },
     {
-      "id": "0b9cd716-dfe6-3f9d-9afa-f1e81c6c3c38",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Robert Kiyosaki Bets on Gold, Silver, and Bitcoin Amid “More Fake Dollars”",
-      "summary": "Robert Kiyosaki bets on gold, silver, and Bitcoin amid \"more fake USD\" from the Treasury. Here's what he said.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/robert-kiyosaki-gold-silver-bitcoin-fake-dollars/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vq2fvaSLx8izRmw1Ie4OnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/97d54de46a5d853d2508e54ece67eda3.png",
-      "published_at": "2026-08-23T11:40:00Z"
-    },
-    {
       "id": "b8f9fbb6-11ce-3a1b-9632-9fc6c489722d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
       "thumbnail": "",
       "published_at": "2026-08-23T11:08:41Z"
-    },
-    {
-      "id": "158484a0-bfd5-3828-b965-441ae440747e",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "4 Low-Cost ETFs Every Investor Should Own",
-      "summary": "A four-fund portfolio can cover every major slice of the US market while keeping fees so low they barely register, but the real trick is knowing which funds belong together and why the combination matters more than any single pick.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/23/4-low-cost-etfs-every-investor-should-own/",
-      "thumbnail": "",
-      "published_at": "2026-08-23T11:00:29Z"
-    },
-    {
-      "id": "233d7487-7431-3180-8c72-f80ec9adb8d0",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
-      "summary": "Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/nvidia-ai-server-price-hikes/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ViQrMWCAg2LjA8ArlAJz7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/5c315608dc46cbd3c3edbec50b90d6bc.jpg",
-      "published_at": "2026-08-23T10:28:24Z"
     }
   ]
 }
