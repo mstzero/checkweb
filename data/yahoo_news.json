@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-23 21:17 UTC",
+  "last_updated": "2026-08-23 21:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "916f5f53-0f2a-329c-a4c7-27b41a9afa5d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn’t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
+      "summary": "Bill Ackman is shopping for great deals. Investors might want to follow suit.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/does-billionaire-bill-ackman-know-something-wall-street-doesn-t-he-invested-in-these-2-stocks-that-have-dropped-33-and-18-over-the-past-year/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5bbzEdQ1LddfObv8MBqxSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c645caa76cb67475f69b25e6c50fc029.jpg",
+      "published_at": "2026-08-23T21:35:01Z"
+    },
     {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
       "asset": "BTC",
@@ -12,7 +23,18 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
-      "published_at": "2026-08-23T21:07:44Z"
+      "published_at": "2026-08-23T21:23:43Z"
+    },
+    {
+      "id": "67de64d0-044f-3860-82e0-7774fe5e96e1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Axsome Therapeutics Stock Is Up 16% Year to Date. Why Wall Street Thinks It Has Even More Room to Run",
+      "summary": "The company has also crushed broader equities over the past five years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/axsome-therapeutics-stock-is-up-16-year-to-date-wh/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kPaQg8TwtJuJSU4gT75Tnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1ca1f28fe82b06ce7533301888084eaf.png",
+      "published_at": "2026-08-23T21:20:00Z"
     },
     {
       "id": "6c773b80-5b0f-3ae5-a5d2-e5eee817f59d",
@@ -59,6 +81,17 @@
       "published_at": "2026-08-23T20:38:55Z"
     },
     {
+      "id": "f39b03c9-7fb1-3620-9980-036f5cd2ba94",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Jim Cramer Says Stocks and the Economy Are Telling Two Very Different Stories: ‘Jarring Gulf’",
+      "summary": "CNBC commentator Jim Cramer recently pointed to a growing disconnect between the stock market and the underlying economy as concerns over the economic outlook intensify. Cramer expressed his concerns from the construction site of Micron Technology Inc.‘s new semiconductor fabrication...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-economy-203116548.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2_GnAHTgly_CSTe9so9SEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/78eedfcedac527247d142cf1cbaafa41.jpg",
+      "published_at": "2026-08-23T20:31:16Z"
+    },
+    {
       "id": "df9049c1-abbc-359e-b757-dec75d80b7d9",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -79,28 +112,6 @@
       "url": "https://www.fool.com/investing/2026/08/23/oracle-vs-amazon-which-is-the-better-ai-cloud-stoc/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UxFDs543T4NdKQuxwKeHqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b1704a27f073bc265bcc634e7de8620b.png",
       "published_at": "2026-08-23T20:13:00Z"
-    },
-    {
-      "id": "5ba84e7a-df12-36fd-9738-ae3338895691",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
-      "summary": "Micron customers handed over billions in binding deposits and are begging for memory Micron cannot yet produce, yet three of the company's top executives chose that exact moment of peak demand to quietly unload their own shares.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/23/22-billion-in-customer-deposits-did-not-stop-this-chip-ceo-from-selling-37-million/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p2cBCDPZ_XGeOsYHuTGJuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1e81e8e9cadcf9bc0795c287e05f3b38.jpg",
-      "published_at": "2026-08-23T20:12:36Z"
-    },
-    {
-      "id": "48f88407-e1ca-3a0e-b2d3-ac35c04bf27a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Hugging Face exploring sale valuing it at $13 billion, Business Insider says",
-      "summary": "AI startup Hugging Face has been exploring a sale that could ‌value the company at $13 billion or ‌more, Business Insider reported on Sunday, citing people familiar with ​the matter.  The New York-based company, which hosts open-source large language models and datasets, has been working with a bank to gauge bidders' interest, the ‌report said.  • Hugging Face did not immediately respond to a Reuters ⁠request for comment outside regular business hours.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-valuing-200012818.html",
-      "thumbnail": "",
-      "published_at": "2026-08-23T20:00:12Z"
     },
     {
       "id": "4c46d893-b028-3ebb-a2e7-a0b2d932bd1d",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/23/microsoft-stock-dropped-30-from-its-all-time-high/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RmENXVFWILwVW7JGDKc8_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2f24df5355297691792461c97926893e.jpg",
       "published_at": "2026-08-23T11:44:00Z"
-    },
-    {
-      "id": "b8f9fbb6-11ce-3a1b-9632-9fc6c489722d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis",
-      "summary": "Investing.com -- China's Sinopec Shanghai Petrochemical Co Ltd Class A (SS:600688) posted a 19.3% year-on-year rise in net profit for the first half of 2026, the company said in a filing to the Shanghai stock exchange on Sunday.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/energy/articles/sinopec-reports-19-profit-jump-113126453.html",
-      "thumbnail": "",
-      "published_at": "2026-08-23T11:31:26Z"
     }
   ]
 }
