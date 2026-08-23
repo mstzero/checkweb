@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-23 15:18 UTC",
+  "last_updated": "2026-08-23 15:45 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f2724174-3262-37a5-bffe-7b459e0053a4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+      "summary": "Technology giant NVIDIA is furthering its support of artificial intelligence (AI) and data center construction. Cloverleaf Infrastructure, a group that supports the AI buildout by providing power sources and infrastructure for site development, on August 21 said it has entered into a strategic partnership with NVIDIA to advance the development of digital infrastructure across the […]",
+      "source": "POWER Magazine",
+      "url": "https://www.powermag.com/nvidia-cloverleaf-partnering-to-advance-data-center-development/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ExaDZrxofzJ0lnSm7nC0gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/power_magazine_984/d883c370cd5f870266870ae984fdca3b.jpg",
+      "published_at": "2026-08-23T15:25:23Z"
+    },
     {
       "id": "1045ad95-f737-3025-9c4a-b13962a9fb3f",
       "asset": "NVDA",
@@ -81,15 +92,15 @@
       "published_at": "2026-08-23T14:05:00Z"
     },
     {
-      "id": "52062ea4-cd6e-3a72-a20e-73fe1b03b83f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "PennantPark vs. PennantPark Floating Rate: Which BDC Pays Income Investors Better?",
-      "summary": "Same manager, same middle-market credit strategy, but one of these BDCs is quietly draining a reserve to fund its dividend while the other has already reset. Knowing which is which could protect a retirement portfolio from a painful surprise.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/23/pennantpark-vs-pennantpark-floating-rate-which-bdc-pays-income-investors-better/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZJIJ._iKCcIFV6BLO3qeyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d981dd810eaeb413015369ebbce09ae6.jpg",
-      "published_at": "2026-08-23T14:00:53Z"
+      "id": "7e64dec7-9d09-3851-bb05-581d85919073",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Arthur Hayes Calls Ethereum Foundation 'A Bunch Of Jokers' In A Blunt Take But Is Bullish On ETH",
+      "summary": "Hayes believes a move above $3,000 could trigger reflexive buying and potentially send Ethereum toward the $5,000 level.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-ethereum-foundation-joker-eth/cZYhaOnRJVs",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hsqlF_UdGBJMtPM5EUNjoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c34d7abda539def2a466c40f5e27e886",
+      "published_at": "2026-08-23T13:53:45Z"
     },
     {
       "id": "4fc4cf1b-8329-3dff-8f81-763ec04a07c9",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/23/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5qcc1Ee0USdGk6ayytSATA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a94d4127934f3be97ba7a9a35fd0da4b.jpg",
       "published_at": "2026-08-23T09:35:00Z"
-    },
-    {
-      "id": "9a788d64-c2da-3f9d-82eb-42299e8d8209",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Standard Chartered’s Kendrick Says Bitcoin Has ‘Turned The Tide,’ Keeps $500K Target",
-      "summary": "Geoff Kendrick said he was sticking with Standard Chartered's long-term Bitcoin target which the bank pushed by two years after cutting near-term forecasts.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-turned-the-tide-500k-target/cZYh53tRJVA",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jgNxUn2KQg01Cjw9vEFs6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/eaccf7f04199b6ff859a46a8ee09700a.jpg",
-      "published_at": "2026-08-23T09:24:51Z"
     }
   ]
 }
