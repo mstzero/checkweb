@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 22:46 UTC",
+  "last_updated": "2026-08-23 23:16 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
@@ -7,12 +7,34 @@
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
       "asset": "BTC",
       "asset_name": "Bitcoin",
-      "title": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead",
+      "title": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
       "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
-      "published_at": "2026-08-23T22:36:44Z"
+      "published_at": "2026-08-23T22:55:04Z"
+    },
+    {
+      "id": "88db79ea-7e75-34dd-8aaa-172920faf20a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Cannabis M&A Wave Is Here. Curaleaf Proved It. Here's Whether Green Thumb Should Ride It -- or Wait to Be Swept Up.",
+      "summary": "Green Thumb Industries is in a strong position to acquire other cannabis companies, but will that happen?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/the-cannabis-ma-wave-is-here-curaleaf-proved-it-he/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BqPYyJiLE9tT_780CXphYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d46a613f88d38cca9f399734e4add214.jpg",
+      "published_at": "2026-08-23T22:50:00Z"
+    },
+    {
+      "id": "d95aeab0-9488-3912-a9aa-aea5b3c249f9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Oklo Won't Book Its First Commercial Power Revenue Before 2028",
+      "summary": "The nuclear start-up just proved it can build a reactor in 11 months. Selling electricity from one runs on a different schedule.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/prediction-oklo-won-t-book-its-first-commercial-power-revenue-before-2028/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m0QeW7CIfYkIB9fu9A1BwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/35760260fe396d04f87b7d1efd10318e.png",
+      "published_at": "2026-08-23T22:46:01Z"
     },
     {
       "id": "c7d3539c-0098-30e4-8581-d955ae8d11e6",
@@ -92,17 +114,6 @@
       "published_at": "2026-08-23T20:59:00Z"
     },
     {
-      "id": "19efb0c8-e703-36b6-8a5a-d36ad38a6db0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
-      "summary": "The memory giant is retiring roughly one share in every 30 -- and it says its shareholder-return target is moving from a ceiling to a floor.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/sk-hynix-is-buying-back-3-3-of-its-shares-and-canceling-every-one/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U62qWeubqfkW7szKVYPrWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3bb8e898bfe3d3f3af5db19d9fda354.png",
-      "published_at": "2026-08-23T20:57:01Z"
-    },
-    {
       "id": "f972f6a0-ea1f-39a4-92c1-934f241d8939",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -123,17 +134,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-economy-203116548.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2_GnAHTgly_CSTe9so9SEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/78eedfcedac527247d142cf1cbaafa41.jpg",
       "published_at": "2026-08-23T20:31:16Z"
-    },
-    {
-      "id": "df9049c1-abbc-359e-b757-dec75d80b7d9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
-      "summary": "These two high-quality dividend payers have had very different fortunes recently.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/better-dividend-king-to-buy-right-now-abbott-labs/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8CZGyBtpnLTBjGE3ksJdLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e17b01d5b186ccaf48e1f76702758d35.png",
-      "published_at": "2026-08-23T20:20:00Z"
     },
     {
       "id": "4c46d893-b028-3ebb-a2e7-a0b2d932bd1d",
@@ -189,6 +189,17 @@
       "url": "https://www.thestreet.com/investing/stocks/bill-ackman-pershing-square-visa-stock-new-position",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MaE60P3kgTaXPU6S6hfkbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8407fabcd7fb2f3f42b5301395a3b9cc.jpg",
       "published_at": "2026-08-23T17:07:00Z"
+    },
+    {
+      "id": "f57cbeef-e32b-35f2-9fa8-43b4c292fdd8",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
+      "summary": "This week, all eyes will be on Nvidia earnings and Fed Chair Kevin who will deliver his first major economic policy address at Jackson Hole.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/3993117/nvidia-earnings-jackson-hole-and-other-key-things-to-watch-this-week",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WbTrTh15_AK82A8YygQw9A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3.jpg",
+      "published_at": "2026-08-23T17:00:02Z"
     },
     {
       "id": "a6646274-fe8d-3a7d-b3ec-d50bcb76ad3b",
@@ -299,17 +310,6 @@
       "url": "https://www.barchart.com/story/news/3992216/500-reasons-to-buy-einride-stock-today",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G9_3tTXV7ai9AyBdrW6UDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319.jpg",
       "published_at": "2026-08-23T13:00:02Z"
-    },
-    {
-      "id": "7c5d676c-d7d2-3976-bec4-d38cf75fbed4",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Another DeFi Hack: Term Labs Loses $8.5 Million in Governance Exploit",
-      "summary": "Term Labs lost $8.5 million to a governance exploit, adding to a heavy August for DeFi security incidents.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/term-labs-defi-exploit-vaults/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N2nq0jN1lJhnu3YaP.Ai0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0.jpg",
-      "published_at": "2026-08-23T12:35:36Z"
     }
   ]
 }
