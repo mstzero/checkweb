@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-23 01:05 UTC",
+  "last_updated": "2026-08-23 02:42 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "37f19d62-34d3-3455-818c-cb09fc2ed00f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+      "summary": "A 55% net margin would be extreme in any industry. What's inside the number matters more than the number itself.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/palantir-keeps-55-cents-of-every-revenue-dollar-as-profit/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nwLBGbW7PK91VAMkyrIoWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d6e7b0f65473855e5f24cb8997921a02.png",
+      "published_at": "2026-08-23T01:58:01Z"
+    },
+    {
+      "id": "29e19028-ee6a-3f88-a0d1-1648e14cb2ed",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
+      "summary": "Capital is voting with its feet.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/solana-is-beating-ethereum-in-tokenized-assets/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s9qt7uaB5uMoyCEnvujOHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/787b6d99fa317f5296ec4375e2ed263b.jpg",
+      "published_at": "2026-08-23T01:37:00Z"
+    },
+    {
+      "id": "172f26e4-5db0-3ce4-a8b5-fc4574db8520",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "IPO Fever Heats Up for OpenAI and Anthropic",
+      "summary": "Two companies –- OpenAI and Anthropic –- are driving the AI industry forward as everything from hyperscalers to neoclouds to memory stocks hangs on the demand for tokens.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/ipo-fever-heats-up-for-openai-and-anthropic/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ki6QkYi7VEPKrHTM4umiZg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7692c8607c368c3ee2884996fcc230a4.jpg",
+      "published_at": "2026-08-23T01:28:52Z"
+    },
+    {
+      "id": "7f24576e-bc37-3225-af29-3a444f72f222",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Senators Plan a Clarity Act Vote on Sept. 15. What Happens Next for Crypto?",
+      "summary": "Crypto legislation could underpin huge growth for the industry, but there are still big hurdles ahead.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/senators-plan-a-clarity-act-vote-on-sept-15/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YqkrS3Wf9nrtSIcWFFgjZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4431fa3bbeecd786838e6403dad626f8.jpg",
+      "published_at": "2026-08-23T01:11:00Z"
+    },
+    {
+      "id": "8f8e3572-9aff-3581-8fa7-abdfb5a7f3e9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nebius Just Raised $5 Billion in Convertible Notes Against a $1.4 Billion Revenue Base. Are We In a Bubble?",
+      "summary": "The AI cloud company borrowed three and a half times its annual revenue in one deal. The terms show what building at its pace costs.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/nebius-just-raised-usd5-billion-in-convertible-notes-against-a-usd1-4-billion-revenue-base-are-we-in-a-bubble/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gtCxeRYOsL5dhG7u.jmpHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c61d6b1e01b0cf10aecc1d52f2318f65.jpg",
+      "published_at": "2026-08-23T01:07:01Z"
+    },
     {
       "id": "0adfd974-f9fa-324f-9f5c-483190aa9ace",
       "asset": "NVDA",
@@ -13,6 +68,17 @@
       "url": "https://www.fool.com/investing/2026/08/22/cisco-cerebras-orders-up-stocks-down/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q0kX_kDivJtrLeli525iLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5452c3f51b58c3c29ea83f6a1984a8b8.jpg",
       "published_at": "2026-08-23T00:33:43Z"
+    },
+    {
+      "id": "5d07367a-8fb5-302b-884e-bfffbfbb3cc2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Arthur Hayes Shares Surprising Tip on Stocks, Gold, and Bitcoin",
+      "summary": "Arthur Hayes shares a surprising tip on stocks, gold, and Bitcoin (BTC). Here's exactly what he said and why.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/arthur-hayes-stocks-gold-bitcoin-treasury-buybacks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/n41Q0_iZt7KjhgCbO2B72g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/381f9d38b8dc7626b4edbb8fd3200cd7.jpg",
+      "published_at": "2026-08-23T00:26:03Z"
     },
     {
       "id": "0c8c6d40-729e-300d-9168-a2fbb739fbf5",
@@ -93,8 +159,8 @@
     },
     {
       "id": "658098fe-6465-33da-9fe6-83015d2b7606",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Has Wall Street Entered the \"Show Me\" Phase of AI?",
       "summary": "Expectations for AI stocks appear to be changing.",
       "source": "Motley Fool",
@@ -114,17 +180,6 @@
       "published_at": "2026-08-22T23:30:52Z"
     },
     {
-      "id": "afb8170c-2c16-3ba8-aef9-72c4316acec8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
-      "summary": "GE Vernova is experiencing incredible growth, driven by soaring energy demands and the rapid expansion of data centers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/ge-vernovas-backlog-is-bigger-than-some-countries/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CR8X97P8W7JfYU0wV6xJSQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/34bedc39d8e1335ccec5801c54006328.png",
-      "published_at": "2026-08-22T23:25:00Z"
-    },
-    {
       "id": "bb712c32-7a6a-3b8e-a1bd-a794821e76e2",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -136,37 +191,15 @@
       "published_at": "2026-08-22T23:09:04Z"
     },
     {
-      "id": "52c2ef57-516d-32f7-a91c-226b6711a5c1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The 30-Year Treasury Now Out-Yields Dividend Stocks by 2.2 Points. History Says What Followed the Last Time.",
-      "summary": "The long bond hasn't yielded this much in 19 years. What happened to dividend payers the last time it did is worth remembering.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/the-30-year-treasury-now-out-yields-dividend-stocks-by-2-2-points-history-says-what-followed-the-last-time/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t4JYFRaSGamsbPXNJygiUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b68a126e75aeb1d0fbb1f5d66b87bf8e.jpg",
-      "published_at": "2026-08-22T23:01:01Z"
-    },
-    {
       "id": "199a7bbe-6870-3c31-b182-82013fb73622",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
       "summary": "No company has bought back more of its shares than Apple over the last decade.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/22/apple-announced-its-largest-ever-stock-buyback-und/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bj5JCoxlcR7w14EaLkKZsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/109e789f943b97efcfdb0426febce774.png",
       "published_at": "2026-08-22T22:20:00Z"
-    },
-    {
-      "id": "8056b9d8-8cea-3ffa-b64a-e19000cfbede",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Up 20% in 1 Day, is Hyperliquid Worth Buying Hand Over Fist Right Now?",
-      "summary": "The decentralized crypto exchange appears to have an ally in the White House.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/up-20-in-1-day-is-hyperliquid-worth-buying-hand-ov/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fFteBO5CozhwojSHJf8iwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/15f76c349b59095fd5c4fc883e47463f.jpg",
-      "published_at": "2026-08-22T22:17:00Z"
     },
     {
       "id": "87ac4ad5-1e59-307e-8cd6-12fcd3e3dd17",
@@ -277,39 +310,6 @@
       "url": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gErSGjnX1fEp8RVbGTN4LA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6c5a18608f1529bdd5cf32fa394693c4.jpg",
       "published_at": "2026-08-22T18:32:04Z"
-    },
-    {
-      "id": "0be3356f-02e9-3c42-a9ba-c34497e1cf13",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "AngloGold Ashanti (AU) Looks Fully Valued After Analyst Sentiment Turns Cautious",
-      "summary": "AngloGold Ashanti (AU) has come into focus after a sharp shift in analyst sentiment, with declining earnings estimate revisions and a lower Zacks Rank. This has raised fresh questions about the company’s earnings outlook. See our latest analysis for AngloGold Ashanti. The recent shift in sentiment around AngloGold Ashanti comes after a strong run in the stock, with a 49.34% 1 month share price return and a 132.27% 1 year total shareholder return suggesting momentum has been building despite...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-au-looks-fully-180842683.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xFP2Ne8qi2ssT2aEnP8spQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/b3b5a2748dbe57dca97087f8af8726d5.jpg",
-      "published_at": "2026-08-22T18:08:42Z"
-    },
-    {
-      "id": "49f2b0b6-7d2b-3922-976d-bba689c59333",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "The Smartest ETF to Buy With $750 Right Now",
-      "summary": "The Invesco QQQ Trust has been a high-performing fund over the years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/the-smartest-etf-to-buy-with-750-right-now/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QomgDEje0hjGwmTO58AhNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/43077baf0b4adb2f91eb1bf30753c4f1.jpg",
-      "published_at": "2026-08-22T17:55:00Z"
-    },
-    {
-      "id": "c84a6820-dc63-3a68-8bec-2f7ca5a46fd2",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Will Apple’s risk appetite change under John Ternus?",
-      "summary": "Investing.com -- Apple Inc’s fiscal 2026 earnings-per-share estimate of $8.85 from BofA Securities sits slightly above the Bloomberg consensus average of $8.80 and the Visible Alpha consensus of $8.83, a narrow beat that the broker tied to an expected strong iPhone upgrade cycle driven by the need for the latest hardware to enable generative AI features.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-risk-appetite-change-under-173456162.html",
-      "thumbnail": "",
-      "published_at": "2026-08-22T17:34:56Z"
     }
   ]
 }
