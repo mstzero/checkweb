@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-08-23 02:42 UTC",
+  "last_updated": "2026-08-23 03:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "89100318-e730-3c2a-8559-d389b4dbb113",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Keysight Technologies Stock Sank This Week",
+      "summary": "Keysight just delivered a great quarter. So why did investors rush to sell its stock?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/22/why-keysight-technologies-stock-sank-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t_BRcuTfcEAHiojMwpfRLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/54a27b73796219250554373901614102.jpg",
+      "published_at": "2026-08-23T03:23:52Z"
+    },
+    {
+      "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada began Saturday. Nvidia, CrowdStrike and Fed's Warsh loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
+      "published_at": "2026-08-23T03:01:55Z"
+    },
+    {
+      "id": "5c44e10a-a356-3caf-a1fa-a10cd51ffc36",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
+      "summary": "Tesla Inc. is recalling 2.98 million vehicles in China, its largest recall ever in the country, because passengers may be unable to find and use the emergency door releases after a crash cuts power. Bloomberg has identified at least 15...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-nearly-3-million-023122678.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bB8x2Wd98IYSY9McYDFHKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a44747e235f94328706566540fb09d04.jpg",
+      "published_at": "2026-08-23T02:31:22Z"
+    },
     {
       "id": "37f19d62-34d3-3455-818c-cb09fc2ed00f",
       "asset": "NVDA",
@@ -123,28 +156,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-stock-looks-near-001453549.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mWygp6Hw1PhGlWnPIXCtzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/789e6a5f6b6eb441f92758d9b79a8d1d.jpg",
       "published_at": "2026-08-23T00:14:53Z"
-    },
-    {
-      "id": "ed0c7692-42d6-34da-8cc6-1631dc07271e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI",
-      "summary": "A sweeping agreement with startup Poolside aims to build an open artificial-intelligence ecosystem in the U.S. that would compete with Chinese heavyweights and American AI giants.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dZV5SuOYp2XIBe41AbqYhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/44e7fc76808146cca6215bce7083afcd.jpg",
-      "published_at": "2026-08-23T00:00:00Z"
-    },
-    {
-      "id": "73a551f9-e953-3afc-abf1-bf157036728f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is It Too Late to Buy Sandisk After Its 568% Run?",
-      "summary": "Sandisk is the top-performing stock in the Nasdaq-100 this year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/is-it-too-late-to-buy-sandisk-after-its-568-run/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/s5coV4L46qcpIVLRYsiP5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dbb1f0c6fa8782dcf247012b8f0e7ab6.png",
-      "published_at": "2026-08-22T23:57:00Z"
     },
     {
       "id": "65b9fe9d-d05c-361c-af10-8d62db17029e",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/22/ive-held-microsoft-for-10-years-and-im-not-selling/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a5ftkvFVwv8xMgC.6_w71g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4fa09060aec32a9d4bc97e3837b74254.png",
       "published_at": "2026-08-22T18:33:00Z"
-    },
-    {
-      "id": "2d37f10a-d7b7-3b6c-bc30-eff377455332",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
-      "summary": "Bitcoin and Ethereum ETFs drew a combined $2.6 billion last week, in their strongest week since October 2025.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gErSGjnX1fEp8RVbGTN4LA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6c5a18608f1529bdd5cf32fa394693c4.jpg",
-      "published_at": "2026-08-22T18:32:04Z"
     }
   ]
 }
