@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-23 09:51 UTC",
+  "last_updated": "2026-08-23 10:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3a01d6c5-5f45-3aab-bce8-28392a7d941d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Bill Ackman Just Made a Major Overhaul to Pershing Square's Portfolio. Here Are the Biggest Changes.",
+      "summary": "New capital and market volatility have led to some major changes in Pershing Square's investments.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/bill-ackman-overhaul-pershing-square-stocks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JTPgjxVEZs5RnRou5By5hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ba8300802365f61e1907ac5140420183.jpg",
+      "published_at": "2026-08-23T10:05:00Z"
+    },
+    {
+      "id": "2b0ca97c-9e5b-441a-b0c3-846ee1ac8d32",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia earnings and Jackson Hole: What to watch this week",
+      "summary": "Nvidia earnings headline a busy week with an all-important inflation reading",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FJ57U72__YUjLeJc1nGKqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-08/11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+      "published_at": "2026-08-23T10:00:00Z"
+    },
+    {
+      "id": "92dae0b6-f364-31f8-aabd-a862a1f3badf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett Says This 1 Simple Concept Helped Build His Fortune -- Here's How to Apply It Yourself",
+      "summary": "It's supposedly the eighth wonder of the world.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/warren-buffett-says-this-1-simple-concept-helped-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hwDX8ce2aCgLKGGlG8xg9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5cd5848d09875cf511f05daca0a6859e.jpg",
+      "published_at": "2026-08-23T09:50:00Z"
+    },
+    {
+      "id": "1d9f753d-fa2a-39c1-8c5b-5139fddf374f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Why does the USD outlook depend on UST and Fed policy credibility?",
+      "summary": "Investing.com -- The U.S. dollar faces further downside as investors question whether Treasury efforts to suppress long-term yields and the Federal Reserve’s response will weaken confidence in American policy, BofA Securities said.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/why-does-usd-outlook-depend-094522087.html",
+      "thumbnail": "",
+      "published_at": "2026-08-23T09:45:22Z"
+    },
     {
       "id": "dcd12802-25cb-3b0a-80d8-24987e07e292",
       "asset": "NVDA",
@@ -81,17 +125,6 @@
       "published_at": "2026-08-23T08:45:00Z"
     },
     {
-      "id": "0b3594f4-9c39-3911-b8c7-d6050affe886",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The S&P 500 Just Did Something Seen Only 1 Other Time Since 1871 — and It's Not Good News for Wall Street",
-      "summary": "The stock market is making history, but not necessarily in a good way.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/the-s-and-p-500-just-did-something-seen-only-1-other-time-since-1871-and-it-s-not-good-news-for-wall-street/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FkuRgjuWBBToLZemRK7AVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3681c300264ec2db4a70ecf74f9cfd56.jpg",
-      "published_at": "2026-08-23T08:44:01Z"
-    },
-    {
       "id": "5d378a4f-b06e-3981-aedc-3a2c3ccf884f",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -104,25 +137,14 @@
     },
     {
       "id": "dc477381-6af1-3359-81ed-6aa09b1c78ae",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
       "summary": "Meta, Microsoft, and TSMC are all Buffett-style compounding stocks.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/23/tech-compounders-fit-for-warren-buffett-portfolio/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IMkDgP4U9C.wHhvlEq99JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9791405a1b11b7df5461066c83fffbd6.png",
       "published_at": "2026-08-23T08:35:00Z"
-    },
-    {
-      "id": "f3172306-28c6-3ce8-8807-7d114e073dba",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "President Donald Trump Claims Fuel Prices Are \"Tumbling Down,\" but Trumpflation Has Become a Broad-Based Problem",
-      "summary": "Energy prices aren't the headline inflation story any longer.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/trump-prices-are-tumbling-trumpflation-broad-based/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5haf9O6rmiMaNcQGw9acJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9e683cf7ed93510375589eb27a8d9df5.jpg",
-      "published_at": "2026-08-23T08:26:00Z"
     },
     {
       "id": "92c3c94c-985f-39cf-a412-da7ecb86cc68",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zM8tI6S8qAg.gQPVVqVQnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/f1587ad4cb4edf491723db19f58e94ed.jpg",
       "published_at": "2026-08-22T21:31:47Z"
-    },
-    {
-      "id": "d571bd2f-8569-3cca-9aa3-7e1b610fdb41",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strive Director Pierre Rochard Buys 15,900 Shares After 86% Decline. Is a Rebound Coming?",
-      "summary": "Rochard's $199,386 purchase establishes his first direct equity stake in the Bitcoin-focused asset manager, signaling confidence amid a challenging year for the stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/filings/2026/08/22/strive-director-pierre-rochard-buys-15-900-shares-after-86-decline-is-a-rebound-coming/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6tb3Uitvw6wRdz2CxgpoTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2ce02d2925b9c600e0e66c2830a1e3c8.png",
-      "published_at": "2026-08-22T21:18:01Z"
-    },
-    {
-      "id": "142549be-8428-3971-9b6f-ebecffcde222",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-      "summary": "Investing.com -- Rising memory chip costs are pushing up the price of servers that use Nvidia Corp’s artificial intelligence chips, with some of the chipmaker’s biggest customers facing increases of more than 15%, Bloomberg News reported on Saturday, citing people familiar with the matter.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
-      "thumbnail": "",
-      "published_at": "2026-08-22T21:17:44Z"
     }
   ]
 }
