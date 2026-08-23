@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-23 10:49 UTC",
+  "last_updated": "2026-08-23 11:17 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "f4c4a543-ee59-4b58-81aa-332b3a670e8e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day",
+      "summary": "Bitcoin had its best week in more than three years — Scott Bessent helped light the match.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+      "thumbnail": "",
+      "published_at": "2026-08-23T11:08:41Z"
+    },
+    {
+      "id": "d56af99e-2062-37b8-bdf5-6723963f05d5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 REITs Whose Dividends Get Hammered by Taxes, Unless You Own Them in a Roth",
+      "summary": "Most investors focus on what their REIT dividends pay, not what the IRS quietly takes from them every single year. The account holding those shares matters far more than most people realize before it is too late to fix it cheaply.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/23/3-reits-whose-dividends-get-hammered-by-taxes-unless-you-own-them-in-a-roth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OexH3HUZLIhI5lOl2v20AA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6527dc922ab41139cafc13018104eaa0.png",
+      "published_at": "2026-08-23T11:01:22Z"
+    },
+    {
+      "id": "6b47909a-2c89-3b83-aa15-a2fa56419ddc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "These 4 Dividend Stocks Yield Over 7%. Roth Owners Keep Every Penny",
+      "summary": "Ordinary dividends from BDCs and MLPs hand a significant slice of every payout straight to the IRS, but one account type legally eliminates that friction entirely. Four high-yield names show exactly where the placement decision matters most.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/23/these-4-dividend-stocks-yield-over-7-roth-owners-keep-every-penny/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/306_Y0AnZe278zYGV.tU0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e566f16cf80efd7f1a9e0db51e301c0b.jpg",
+      "published_at": "2026-08-23T11:01:22Z"
+    },
+    {
+      "id": "f8bae8a6-fb29-3263-84ab-ba8c81dbfc7a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Dividend Stocks to Buy Before August Ends and Hold for Life",
+      "summary": "While speculation runs hot and patience gets punished, three Dividend Kings with unbroken raise streaks spanning decades just posted results that made long-term holders take notice, and two of them are sitting at rare discounts heading into September.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/23/3-dividend-stocks-to-buy-before-august-ends-and-hold-for-life/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ebV8vOQrXdJiyRzf_bxVFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5a3a0a80a54c01823bc21eb7e33b1ebb",
+      "published_at": "2026-08-23T11:00:58Z"
+    },
+    {
+      "id": "158484a0-bfd5-3828-b965-441ae440747e",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "4 Low-Cost ETFs Every Investor Should Own",
+      "summary": "A four-fund portfolio can cover every major slice of the US market while keeping fees so low they barely register, but the real trick is knowing which funds belong together and why the combination matters more than any single pick.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/23/4-low-cost-etfs-every-investor-should-own/",
+      "thumbnail": "",
+      "published_at": "2026-08-23T11:00:29Z"
+    },
+    {
+      "id": "d2d861f7-c7f0-3229-9b4b-0eb4d4cf5be5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Data Center Stocks Powering the AI Buildout",
+      "summary": "The AI spending boom has moved past GPUs and into the physical infrastructure holding it all together, and three US-listed stocks are quietly capturing billions in locked-in demand across power, connectivity, and real estate.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/23/3-data-center-stocks-powering-the-ai-buildout/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pcHeJ2h.V6h8Zceh2dYlYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9a96123223a09e43631bec18abd0a9ce",
+      "published_at": "2026-08-23T11:00:28Z"
+    },
+    {
+      "id": "aeb1e906-afea-3192-981e-697098be089a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Wall Street's Biggest Bubble May Be Popping (No, Not AI), and It Has Dire Consequences for the Stock Market",
+      "summary": "Although evidence is mounting that an artificial intelligence (AI) bubble may be brewing, there’s something far more sinister lurking in the shadows.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/wall-st-biggest-bubble-popping-not-ai-dire-outcome/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h1byJLaazYdxPQath22oGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2c6749c3faab31ae4b3aa7c6ba6e05c6.png",
+      "published_at": "2026-08-23T10:56:01Z"
+    },
     {
       "id": "eb89f871-6343-378d-a41b-09745b29d011",
       "asset": "NVDA",
@@ -48,28 +125,6 @@
       "published_at": "2026-08-23T10:25:00Z"
     },
     {
-      "id": "e2cb05c7-a625-32ec-91c2-21f7facb0319",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock. Is It Still a Buy?",
-      "summary": "The investor's concentrated wager could represent a pivot from \"pick-and-shovel\" AI plays to hyperscaler stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/billionaire-david-tepper-has-16-of-his-75-billion/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FqLkrB6t2wmvrYxXJZuEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6624d3a9e01fc176d08aaa80cccf9d31.jpg",
-      "published_at": "2026-08-23T10:22:00Z"
-    },
-    {
-      "id": "3a01d6c5-5f45-3aab-bce8-28392a7d941d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Bill Ackman Just Made a Major Overhaul to Pershing Square's Portfolio. Here Are the Biggest Changes.",
-      "summary": "New capital and market volatility have led to some major changes in Pershing Square's investments.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/bill-ackman-overhaul-pershing-square-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JTPgjxVEZs5RnRou5By5hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ba8300802365f61e1907ac5140420183.jpg",
-      "published_at": "2026-08-23T10:05:00Z"
-    },
-    {
       "id": "2b0ca97c-9e5b-441a-b0c3-846ee1ac8d32",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -79,17 +134,6 @@
       "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FJ57U72__YUjLeJc1nGKqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-08/11735c30-91bf-11f1-b7f2-8ded4782cfdd",
       "published_at": "2026-08-23T10:00:00Z"
-    },
-    {
-      "id": "92dae0b6-f364-31f8-aabd-a862a1f3badf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warren Buffett Says This 1 Simple Concept Helped Build His Fortune -- Here's How to Apply It Yourself",
-      "summary": "It's supposedly the eighth wonder of the world.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/warren-buffett-says-this-1-simple-concept-helped-b/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hwDX8ce2aCgLKGGlG8xg9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5cd5848d09875cf511f05daca0a6859e.jpg",
-      "published_at": "2026-08-23T09:50:00Z"
     },
     {
       "id": "1d9f753d-fa2a-39c1-8c5b-5139fddf374f",
@@ -103,37 +147,15 @@
       "published_at": "2026-08-23T09:45:22Z"
     },
     {
-      "id": "dcd12802-25cb-3b0a-80d8-24987e07e292",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Ultimate Growth Stock to Buy With $10,000 Right Now",
-      "summary": "Costco still has plenty of revenue growth potential as it looks to international markets to set up new warehouses and boost sales.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/the-ultimate-growth-stock-to-buy-with-10000-right/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/POtGzNPVLSKrHNmHXTVo6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/005edf58226a1216a0aa6212d7499336.png",
-      "published_at": "2026-08-23T09:40:00Z"
-    },
-    {
       "id": "9362a709-7741-3206-8ff0-1a8c6cf97605",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
       "summary": "Tesla has dipped a bit and it faces near-term challenges, but its growing full self-driving, energy, and AI businesses could give it significant long-term growth potential.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/23/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5qcc1Ee0USdGk6ayytSATA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a94d4127934f3be97ba7a9a35fd0da4b.jpg",
       "published_at": "2026-08-23T09:35:00Z"
-    },
-    {
-      "id": "adc56fd0-c2ae-3f68-8995-9a82a6508808",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
-      "summary": "Nvidia stands out as the top semiconductor stock for the coming years because of its dominant AI ecosystem, not to mention it's the most popular AI stock in the ecosystem.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/forget-broadcom-nvidia-nvda-is-still-the-top-semic/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5zD4J0Sg1UmcBqv9upidJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a5e9eb77c9dbb19e73c07a57613a042a.jpg",
-      "published_at": "2026-08-23T09:30:00Z"
     },
     {
       "id": "5d378a4f-b06e-3981-aedc-3a2c3ccf884f",
@@ -288,28 +310,6 @@
       "url": "https://finance.yahoo.com/technology/articles/paul-graham-says-tesla-buyers-233052774.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HurwktMb2Q_DlqUf5D0eZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/e84c5296f715ce9ebcc44a788e9c3576.jpg",
       "published_at": "2026-08-22T23:30:52Z"
-    },
-    {
-      "id": "bb712c32-7a6a-3b8e-a1bd-a794821e76e2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Delek Logistics Partners (DKL) Lands $200 Million Equity Raise and Adds Two Underwriters",
-      "summary": "Delek Logistics Partners (NYSE: DKL) has completed a significant follow-on equity offering, expanding its capital base for future plans. The partnership has updated its underwriting group, adding two firms as co-lead underwriters on the transaction. The equity raise and refreshed underwriter lineup adjust how Delek Logistics Partners funds its growth and manages its capital structure. For more context on this move, consider exploring other midstream and energy infrastructure stocks that may...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/delek-logistics-partners-dkl-lands-230904762.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pHp5.OOE_5kaV7Aajggnng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f9692e894f79c9cd0c66d13d11ff0ac1.jpg",
-      "published_at": "2026-08-22T23:09:04Z"
-    },
-    {
-      "id": "199a7bbe-6870-3c31-b182-82013fb73622",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
-      "summary": "No company has bought back more of its shares than Apple over the last decade.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/22/apple-announced-its-largest-ever-stock-buyback-und/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Bj5JCoxlcR7w14EaLkKZsw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/109e789f943b97efcfdb0426febce774.png",
-      "published_at": "2026-08-22T22:20:00Z"
     }
   ]
 }
