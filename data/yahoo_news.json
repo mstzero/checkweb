@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-23 17:44 UTC",
+  "last_updated": "2026-08-23 18:23 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "0cda3085-a3dc-3ed3-9e07-c87c5ddcbd47",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
+      "summary": "The once-struggling retailer just reported a second-consecutive solid quarter just one year after a new CEO took over. Connect the dots.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/target-just-reported-earnings-heres-whether-the/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZaCOpFBdmsLJm4v9C6aYjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/39a8583d08f3503ee7fd5c9c8e25fccb.jpg",
+      "published_at": "2026-08-23T18:00:00Z"
+    },
+    {
+      "id": "3a936975-4965-329e-996e-885cde41f9fc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The U.S. National Debt Officially Surpassed $40 Trillion in August: Here's What History Says This Means for the Stock Market",
+      "summary": "This enormous figure shines a bright light on the country's troubled financial situation.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/federal-debt-40-trillion-history-says-stock-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XjNid.qCoh4lH.Q_qh2Cjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f5d84c079103e613207e89807916743d.jpg",
+      "published_at": "2026-08-23T17:50:00Z"
+    },
     {
       "id": "206bc2a3-f627-3c63-9c71-81d13ac30a37",
       "asset": "NVDA",
@@ -35,6 +57,17 @@
       "url": "https://www.fool.com/investing/2026/08/23/broadcom-vs-marvell-technology-1-critical-metric-d/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wKY1n8TEub9v.c2YyBFVcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3550fc0ae8e1d1ce35ffb29e271ee116.jpg",
       "published_at": "2026-08-23T17:26:00Z"
+    },
+    {
+      "id": "5d3d79f3-add2-399e-ae86-58222b0fdc55",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
+      "summary": "Michaël Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereums-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81-k/cZYhiqXRJVv",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PwZ03JrfqxYCSrulzIYEcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aaedc71c4e6c0ee88d07d33df3bbd3d7",
+      "published_at": "2026-08-23T17:15:36Z"
     },
     {
       "id": "8072b086-0c9c-388c-b330-ff3aa918fef3",
@@ -92,17 +125,6 @@
       "published_at": "2026-08-23T16:44:00Z"
     },
     {
-      "id": "b7332ad2-e01d-3d5a-8f23-140c569b3f4f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In",
-      "summary": "This is no flash-in-the-pan fad. This heavy equipment is worth the high upfront cost that AI data center operators are willing to pay.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/gas-turbine-prices-on-track-triple-stocks-gev/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2g8K7RyGSjXJiZ.WByhfOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a3d0df912ac6b6a4e71657839f007367.jpg",
-      "published_at": "2026-08-23T16:31:00Z"
-    },
-    {
       "id": "a6646274-fe8d-3a7d-b3ec-d50bcb76ad3b",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -112,17 +134,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-treasury-intervention-dangerous-bitcoin/cZYhhQRRJVu",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p6Rd5eDau5sx9k1iAqL0aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/90cb2439828dd223ccdbd158554631eb",
       "published_at": "2026-08-23T16:23:40Z"
-    },
-    {
-      "id": "ea438c2e-37fc-3640-9679-8267a0f08490",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
-      "summary": "Berkshire was a net purchaser of stocks for the first time since 2022.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/warren-greg-abel-just-spent-23-billion-on-9-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/64Dj5pGmCzyBsHVIGFwY5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/393f8b2c67696e593d131d78db11175a.jpg",
-      "published_at": "2026-08-23T16:20:00Z"
     },
     {
       "id": "5a241fc4-1169-3e4c-b6ef-b07d8dbf47ee",
@@ -247,8 +258,8 @@
     },
     {
       "id": "889c2849-e617-3eaf-ad30-c7f3efc9eebf",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Crypto Skeptic Rashida Tlaib Holds Bitcoin and Ethereum ETFs",
       "summary": "Rep. Rashida Tlaib holds between $3,003 and $45,000 in Bitcoin and Ethereum ETFs despite voting against the CLARITY Act.",
       "source": "BeInCrypto",
@@ -299,17 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/23/prediction-nvidia-will-be-a-6-trillion-company-bef/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KRbtprL.xNLckybv78uzWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c47970e4f099c4cac6212cef893cb8ee.jpg",
       "published_at": "2026-08-23T11:25:00Z"
-    },
-    {
-      "id": "f4c4a543-ee59-4b58-81aa-332b3a670e8e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day",
-      "summary": "Bitcoin had its best week in more than three years — Scott Bessent helped light the match.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
-      "thumbnail": "",
-      "published_at": "2026-08-23T11:08:41Z"
     }
   ]
 }
