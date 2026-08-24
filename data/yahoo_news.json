@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-08-24 18:42 UTC",
+  "last_updated": "2026-08-24 19:25 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "1be82de6-a270-3d3d-afce-c5afc3bc0fb2",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Exxon Drops as Oil Retreats From $94",
+      "summary": "Falling crude prices are stripping away part of the geopolitical premium built into energy shares.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/exxon-drops-oil-retreats-94-191950154.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T19:19:50Z"
+    },
+    {
+      "id": "fa045437-d0f1-4487-b1cf-d2a7368dc218",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
+      "summary": "Nvidia will have to get its stock price rerated to shake off the \"cheap valuation\" vibes.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7fqqEL.0TMCkNtcV4SebRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_yahoo_finance_video_472/28d58960d3e88b75b0ca4467eb822eeb.jpg",
+      "published_at": "2026-08-24T19:17:38Z"
+    },
+    {
+      "id": "659c0998-f114-3aba-b2fc-37f9dcedae5e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
+      "summary": "U.S. stocks are starting the week on a mixed note, with the Nasdaq dragged lower by chip stocks and the Dow edging higher.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/nasdaq-futures-tech-stocks-slide-as-u-s-canada-trade-war-in-focus-22023ea9",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_H8j2c44ZxYq6CdC7THN6w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/dd3bfed141db70be30ae9b7b441ebc24.jpg",
+      "published_at": "2026-08-24T19:17:00Z"
+    },
+    {
+      "id": "27aebb60-2839-387a-a62a-5165ccd6358a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
+      "summary": "Rising component costs are testing Nvidia's powerful AI economics",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T19:13:07Z"
+    },
+    {
+      "id": "df6be32b-9792-36b6-a531-4bf7fded3320",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Xiaomi Takes Another Page From Apple",
+      "summary": "The company is taking greater control of its technology stack",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/xiaomi-takes-another-page-apple-191226312.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T19:12:26Z"
+    },
+    {
+      "id": "62fe99de-560a-3d5f-ab44-9df42e2fede4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cerebras Systems (CBRS) Revenue Surges: Why Did CBRS Stock Crash, and What About AMD?",
+      "summary": "On August 12, 2026, Cerebras Systems Inc. (NASDAQ:CBRS) shares tumbled about 14% in extended trading, even after the AI chipmaker’s second-quarter revenue rose 74.3% year over year and it raised its full-year guidance for the second time since going public in May 2026. Why This Matters Cerebras positioned itself as a genuine Nvidia challenger at […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-cbrs-revenue-surges-185707172.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bPcmmQyeGSRs0zZ_04AyZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6e05024de04e2f40c1093571a18bf29f.jpg",
+      "published_at": "2026-08-24T18:57:07Z"
+    },
+    {
+      "id": "c2c62657-1dc3-37eb-9979-3a4ba8391a0b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy Creates $1.6B Flexible Cash Pool",
+      "summary": "Strategy created a $1.59B cash pool for Bitcoin, buybacks, debt, and preferreds as it builds more flexibility into its capital stack.",
+      "source": "Bankless",
+      "url": "https://www.bankless.com/read/news/strategy-creates-1-6b-flexible-cash-pool",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wC4C7o1hz2aQrGZ2eSjQ6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/3fc3833508176f9d0a363fc69af52565",
+      "published_at": "2026-08-24T18:50:55Z"
+    },
+    {
+      "id": "df071f15-6e91-3a97-944b-4b3edf4399b5",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla stops selling solar roofs a decade after launch",
+      "summary": "Aug 24 (Reuters) - Tesla has stopped selling premium solar roof tiles on its website, nearly a decade after CEO Elon Musk launched the product as a more attractive alternative to panels.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/tesla-stops-selling-solar-roofs-185040445.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/61QRHK.acciariQVvd_DHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/ef130ac147f611eb4cb9537cca327515.jpg",
+      "published_at": "2026-08-24T18:50:40Z"
+    },
+    {
+      "id": "99703d15-328b-3585-b850-f24cbfcae858",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's What a $1,000 Bet on USA Rare Earth a Year Ago Looks Like Today",
+      "summary": "It's been difficult to stick with, but it's also been worth it for investors who can stomach the wild ride.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/heres-what-a-1000-bet-on-usa-rare-earth-a-year-ago/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HUqTKxIGjafLADvVbT6oRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b16ee973f2679b51ffd2ac3510c17ecf.jpg",
+      "published_at": "2026-08-24T18:50:00Z"
+    },
     {
       "id": "df80dcde-d08c-340b-8a10-774fda635857",
       "asset": "GOLD",
@@ -13,6 +112,17 @@
       "url": "https://sg.finance.yahoo.com/news/gold-rally-gains-momentum-ahead-183733263.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VGgDtMeFxaY29Uz.VIBb8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2c173fe159b66c5216cde8c4d56bf1ae.jpg",
       "published_at": "2026-08-24T18:37:33Z"
+    },
+    {
+      "id": "3cd3a6db-6b67-377d-b9fd-edc34fb0817a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Micron's Customers Are Putting Up $22 Billion, and Its CEO Says Data Centers Want 50% More Memory Than It Can Ship",
+      "summary": "The memory maker's customers have committed to buying fixed volumes through 2030 -- whatever prices do. The supply they want most still doesn't exist.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/micron-s-customers-are-putting-up-usd22-billion-and-its-ceo-says-data-centers-want-50-more-memory-than-it-can-ship/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ODyk.onU_m33j5SRqc4hRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6d1c8db940d532940a5c533ab4020102.jpg",
+      "published_at": "2026-08-24T18:37:01Z"
     },
     {
       "id": "2c52862f-9efc-308d-9dbb-80884f8d5e88",
@@ -48,31 +158,9 @@
       "published_at": "2026-08-24T18:27:07Z"
     },
     {
-      "id": "1a58dcaa-61d6-34aa-8999-e800df60b02d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Nvidia Dips, Steel Gains Melt (Live Coverage)",
-      "summary": "The Dow Jones average rises but other indexes fall as President Trump lashes out at Canada. Nvidia dives but a stock clears an entry.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mbIvAyHjnUcM6eJd9MlZ6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5b0c8e88a6bce74d796c6a0124f65d8f.jpg",
-      "published_at": "2026-08-24T18:26:58Z"
-    },
-    {
-      "id": "a5cce1f7-df85-3b36-9a43-48fe90aeb36a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia-Backed Hugging Face Could Fetch $13 Billion in a Sale",
-      "summary": "The AI startup is reportedly testing buyer interest at nearly triple its 2023 valuation.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-hugging-face-could-182628890.html",
-      "thumbnail": "",
-      "published_at": "2026-08-24T18:26:28Z"
-    },
-    {
       "id": "ec7b69a5-a558-3f66-8afc-fe4379bbe91d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
       "summary": "The GPU giant's earnings report could serve as a bellwether for memory companies.",
       "source": "Motley Fool",
@@ -82,8 +170,8 @@
     },
     {
       "id": "587605ce-4fe9-3bb2-ac94-fdc31c8e110c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Apple Rises as Investors Flee the AI Spending Arms Race",
       "summary": "The iPhone maker's restrained infrastructure strategy is becoming an advantage during another technology-sector retreat.",
       "source": "GuruFocus.com",
@@ -92,26 +180,15 @@
       "published_at": "2026-08-24T18:22:39Z"
     },
     {
-      "id": "b6d87f95-c5a2-3fd3-a7bf-469eeae5e9af",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "GLP-1 Drugs Are Huge. These 2 Stocks Are Tapping Into an Even Bigger Opportunity",
-      "summary": "Could these 2 stocks outperform most GLP-1-focused companies over the medium term?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/glp-1-drugs-are-huge-these-2-stocks-are-tapping-into-an-even-bigger-opportunity/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bfngDZNd0FCyk8jrEXr_gw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3546df207a8440c70b57a6549229c0aa.jpg",
-      "published_at": "2026-08-24T18:20:01Z"
-    },
-    {
-      "id": "67d36751-1839-3594-b243-7142ba7700c2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Signed a $1.5 Billion Deal With This Chip Stock. Then the Stock Crashed 25%",
-      "summary": "Nvidia Corporation (NASDAQ:NVDA) handed Amkor Technology, Inc. (NASDAQ:AMKR) a massive vote of confidence on July 23. The companies announced a $1.5 billion multi-year advanced packaging and development agreement, with Nvidia Corporation (NASDAQ:NVDA) committing a prepayment to support Amkor’s U.S. advanced packaging capacity. Five days later, the stock plunged almost 25% in a single session. Nvidia […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-signed-1-5-billion-181658818.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bNdvi399IZJFiHVEuCDY0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a768dd08d944d8eb1a97118eea99b0a0.jpg",
-      "published_at": "2026-08-24T18:16:58Z"
+      "id": "2e5d3560-edf6-3e44-85a0-7e370ab70bb8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Loses $80,000 as Critics Swarm Treasury's $950 Billion Buyback Plan",
+      "summary": "Bitcoin gave up $80,000 within hours as Citadel, Schiff and other analysts attacked Treasury's buyback funding plan.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-80000-treasury-general-account-buybacks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hqVid7c56ZXMOc8u5br9_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/592a2f29ec2e74abfb039241be65a732.jpg",
+      "published_at": "2026-08-24T18:22:00Z"
     },
     {
       "id": "ba25de9e-be96-32c9-a3cc-16503a67ba78",
@@ -156,6 +233,17 @@
       "url": "https://247wallst.com/investing/2026/08/24/marvell-falls-4-ahead-of-august-27-earnings-broadcom-slips/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FtFFC1h7phBE3k2A1CZ0_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/afed077206c1ddb1e5043356ca10600a.jpg",
       "published_at": "2026-08-24T18:01:13Z"
+    },
+    {
+      "id": "c80adc92-3760-3baf-8923-d90abf64b33d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "If You Invested $100 in Bitcoin After Crypto Was First Mentioned on TV, Here’s How Much You’d Have Now",
+      "summary": "Well off its all-time high of $126,198 set in October 2025, the price of Bitcoin has been rebounding in recent weeks and is currently trading at its highest level in three months. That’s good news for new and long-time investors...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/invested-100-bitcoin-crypto-first-180038861.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uDwVVZ6bcP15jtw0MD3sUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6e12bdec5bc840f90833a2d9b76560ac.jpg",
+      "published_at": "2026-08-24T18:00:38Z"
     },
     {
       "id": "a5a7373b-db03-3393-90bb-28db711cfb54",
@@ -222,94 +310,6 @@
       "url": "https://qz.com/strategy-usd-cash-pool-bitcoin-reserve-082426",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mLbRGhdR4AQiC8Ep2.tVnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/f37ba7502b6603acc8463458b5411480.jpg",
       "published_at": "2026-08-24T17:36:00Z"
-    },
-    {
-      "id": "3d033f0c-87b7-3a72-bdfe-d2e80f95df72",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla's Biggest Robotaxi Test Arrives Sept. 3",
-      "summary": "The Cybercab reveal could show how close Tesla is to scaling autonomous ride-hailing.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/teslas-biggest-robotaxi-test-arrives-173435290.html",
-      "thumbnail": "",
-      "published_at": "2026-08-24T17:34:35Z"
-    },
-    {
-      "id": "b0fce28b-6fa6-38e6-ad80-0a66f22cb074",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Forget CoreWeave — This Is the AI Stock You Should Instead Be Buying",
-      "summary": "CoreWeave is getting all the attention in the neocloud race, but a quieter rival just posted 454% revenue growth, locked in hyperscaler partnerships worth tens of billions, and did it without the crushing debt load that shadows the more famous name.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6qAFzJm.XnmDGmiD25vNog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg",
-      "published_at": "2026-08-24T17:31:26Z"
-    },
-    {
-      "id": "64313b98-e606-3546-ba2b-a50626aeab3a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Congressman Has Bought Nothing but Apple Since 2024, and It's All on Autopilot",
-      "summary": "Retail investors comb through congressional stock disclosures looking for unusual timing or conflicts of interest tied to committee assignments. Every so often the filings turn up a different kind of pattern: the same lawmaker buying the same stock, over and...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-bought-nothing-apple-since-173040690.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.jIhn_fBu.F9OCWUQrNqXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/df67a7f083adcea7cf497582a13684a6.jpg",
-      "published_at": "2026-08-24T17:30:40Z"
-    },
-    {
-      "id": "36902413-b67a-3742-8db2-54a283b20081",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "ExxonMobil vs. Chevron: We Compared 10 Years of Dividend Growth And Here’s the Winner",
-      "summary": "Both oil giants raised dividends again in 2026 and posted blockbuster quarters, but a decade of payout history reveals one clear winner on durability and one on yield. Knowing which fits your portfolio could matter more than the latest earnings beat.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/exxonmobil-vs-chevron-we-compared-10-years-of-dividend-growth-and-heres-the-winner/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q_A1cgN55aESylUgrrip7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f8b8b39ea9e1f7aac497d2e165914c97.png",
-      "published_at": "2026-08-24T17:30:23Z"
-    },
-    {
-      "id": "bc91b4ba-2017-4352-9e41-0e08dc843b16",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy raise $2B last week — but it didn't buy any bitcoin",
-      "summary": "Strategy (MSTR) raised $2 billion but didn't buy any bitcoin (BTC-USD) last week. Scott Melker discusses the details in the video above.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/strategy-raise-2b-last-week-173000726.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rUIAlaUfcOxnvd30SbEyDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/51aab6b4-9878-410d-80be-e860c637b596_9c43d4f87dfc9cb7a9593872f2623d9478cba63e079011fe0c0c287e3ec64487.jpg",
-      "published_at": "2026-08-24T17:30:00Z"
-    },
-    {
-      "id": "464dbbb3-903b-3ae1-b1a9-552bb7c30254",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Stock Fans Just Got Bad News From China",
-      "summary": "Tesla faces fresh China setback as huge recall targets 3 million vehicles",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-fans-just-got-172745132.html",
-      "thumbnail": "",
-      "published_at": "2026-08-24T17:27:45Z"
-    },
-    {
-      "id": "5d091316-0359-37ae-a80e-c369b6ed4f00",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Strategy Stock Is Surging Today",
-      "summary": "Strategy Raises $2 Billion as Fresh Cash Fuels Bitcoin Treasury Strategy",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-stock-surging-today-172229824.html",
-      "thumbnail": "",
-      "published_at": "2026-08-24T17:22:29Z"
-    },
-    {
-      "id": "8adfd8b8-b646-37a9-9bf3-3ae531f21fb5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin: Digital Gold in the Deficit Era",
-      "summary": "Backed by historically reliable technical floors, record-setting liquidations, and mounting government debt, the current Bitcoin correction fits the pattern of previous cyclical bottoms.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-digital-gold-deficit-era-172100765.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AnFHupZTqvMJ9CU696.I9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/13521196a3591b5c8ee2f52532e26a31.jpg",
-      "published_at": "2026-08-24T17:21:00Z"
     }
   ]
 }
