@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 23:44 UTC",
+  "last_updated": "2026-08-24 01:03 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
@@ -7,12 +7,78 @@
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
       "asset": "BTC",
       "asset_name": "Bitcoin",
-      "title": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
+      "title": "Dow Jones Futures Waver; Nvidia, Tariffs, Warsh In Focus",
       "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ldj52yJ27GOh1ncgtdDSMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/87053150d8f8a61cbb65ef74d7aa6c34.jpg",
-      "published_at": "2026-08-23T23:37:03Z"
+      "published_at": "2026-08-24T00:53:22Z"
+    },
+    {
+      "id": "ab222ced-27b6-3e86-9e54-097e41202290",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Shares flat in Asia before Iran sanctions news, Nvidia results",
+      "summary": "By Wayne Cole SYDNEY, Aug 24 (Reuters) - Share markets were flat in Asia on Monday and oil prices eased as investors awaited details of threatened U.S. sanctions on Iran due later in the session,",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ucfah__rQ9H_cmWAjY8nWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/301c9bba9744cbd7e0daef68ea961b83.jpg",
+      "published_at": "2026-08-24T00:49:36Z"
+    },
+    {
+      "id": "0ca4598a-4d1a-3950-a4e1-d5abe29f3114",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "UPS Stopped Carrying 2 Million Amazon Packages a Day. Amazon Still Has to Move Them.",
+      "summary": "The 18-month handoff is complete -- and by volume, America's biggest parcel carrier is now the retailer, not the traditional carriers.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/ups-stopped-carrying-2-million-amazon-packages-a-day-amazon-still-has-to-move-them/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q1AdPdtX538Gaux1RNl_zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d445e11a613d0be9f0f1d53d38220783.jpg",
+      "published_at": "2026-08-24T00:34:01Z"
+    },
+    {
+      "id": "afcf859b-93e5-3cd2-ab4e-f5642fcff12f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 Growth Stocks That Could Skyrocket in the Second Half of 2026",
+      "summary": "Here are three growth leaders with strong tailwinds: Arista Networks, Micron, and Eli Lilly.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/3-growth-stocks-that-could-skyrocket-in-the-second/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rOUToJphQANrAzNxTF9Jkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/65dd6c66d7caf31ed63315d2a57f8d39.jpg",
+      "published_at": "2026-08-24T00:32:00Z"
+    },
+    {
+      "id": "ca1709f2-a310-34aa-ba88-2e5b1b3a0693",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+      "summary": "Nvidia Corp.'s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory chip costs soaring. Bloomberg's Anthony Stephens breaks down what we know so far.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/nvidia-notifies-customers-ai-related-003033419.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o6LgO37ENXvzEz1GcmtCHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/98b15bbb90a0d435f9ddb861251df7f5.jpg",
+      "published_at": "2026-08-24T00:30:33Z"
+    },
+    {
+      "id": "f9ce3d17-3f05-3455-b010-3f450b3296ee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's the Smartest S&P 500 Dividend Stock to Buy With $1,000 Right Now -- and It's Sporting a 6.8% Dividend Yield",
+      "summary": "Not only is this company offering a fat dividend yield, but it has also been hiking that payout at a respectable clip.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/the-smartest-sp-500-dividend-stock-to-buy-with-100/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jsO8WKif8zWRIsqhzN4wKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/279fd49833271f78eb2771d07c365da5.jpg",
+      "published_at": "2026-08-23T23:50:00Z"
+    },
+    {
+      "id": "9e0c7d0c-ab87-3bc5-b6f7-ecc252061b38",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Alkane Resources uncovers new high-grade gold-antimony domain at Costerfield",
+      "summary": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has discovered a new high-grade gold-antimony domain at its Costerfield operation in Victoria, including an exceptional intercept of 580.9 g/t gold and 24% antimony over 0.61 metres at the Cuffley Lode. The result from hole AD270 included an even...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097439/alkane-resources-uncovers-new-high-grade-gold-antimony-domain-at-costerfield-1097439.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OunIXXkY3_Sabnzv6vUkPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/b5d0abe4f8ef04b28e96c84e5458d8a7.jpg",
+      "published_at": "2026-08-23T23:19:00Z"
     },
     {
       "id": "d2c15831-3f79-3b6a-ab94-5dd255c6d6e5",
@@ -26,6 +92,17 @@
       "published_at": "2026-08-23T23:18:17Z"
     },
     {
+      "id": "20028120-a521-3b41-baaf-b0dc8b6f1719",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitwise Just Took $1.8 Billion in a Bear Market, Tom Lee Noticed",
+      "summary": "Bitwise drew $1.8 billion in net inflows and Tom Lee applauded. But the money bought yield, not price upside.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitwise-inflows-bear-market-tom-lee/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dJ0N5kxSJOmxRobmHzx4FQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/fd0b66a5e21281582a76e44edffffe0b.png",
+      "published_at": "2026-08-23T23:00:00Z"
+    },
+    {
       "id": "88db79ea-7e75-34dd-8aaa-172920faf20a",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -35,17 +112,6 @@
       "url": "https://www.fool.com/investing/2026/08/23/the-cannabis-ma-wave-is-here-curaleaf-proved-it-he/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BqPYyJiLE9tT_780CXphYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d46a613f88d38cca9f399734e4add214.jpg",
       "published_at": "2026-08-23T22:50:00Z"
-    },
-    {
-      "id": "d95aeab0-9488-3912-a9aa-aea5b3c249f9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Oklo Won't Book Its First Commercial Power Revenue Before 2028",
-      "summary": "The nuclear start-up just proved it can build a reactor in 11 months. Selling electricity from one runs on a different schedule.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/prediction-oklo-won-t-book-its-first-commercial-power-revenue-before-2028/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m0QeW7CIfYkIB9fu9A1BwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/35760260fe396d04f87b7d1efd10318e.png",
-      "published_at": "2026-08-23T22:46:01Z"
     },
     {
       "id": "c7d3539c-0098-30e4-8581-d955ae8d11e6",
@@ -59,17 +125,6 @@
       "published_at": "2026-08-23T22:33:00Z"
     },
     {
-      "id": "0200f3e9-04c1-3b16-ba95-f823af874d7c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Goldman Sachs spots huge twist ahead of Nvidia’s earnings",
-      "summary": "Analysts reveal what could happen to Nvidia shares next, and set expectations for the Q2 report.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/goldman-sachs-reiterates-buy-nvidia-ahead-of-q2-fy27-earnings",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l4WY5AuShOQNQB71eYL8xQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/50359af69f02f052d2c62e24a5be245a.jpg",
-      "published_at": "2026-08-23T22:17:00Z"
-    },
-    {
       "id": "d2317d28-542e-35dc-ae2a-d98edc86b86e",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -79,39 +134,6 @@
       "url": "https://www.fool.com/investing/2026/08/23/tesla-maintained-its-majority-of-the-us-ev-market/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/paS3F0Y5epIX0a4Zg4Zcmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82ab31da2925a5f7da5b9d3bd78e3366.jpg",
       "published_at": "2026-08-23T21:56:00Z"
-    },
-    {
-      "id": "916f5f53-0f2a-329c-a4c7-27b41a9afa5d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn’t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
-      "summary": "Bill Ackman is shopping for great deals. Investors might want to follow suit.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/does-billionaire-bill-ackman-know-something-wall-street-doesn-t-he-invested-in-these-2-stocks-that-have-dropped-33-and-18-over-the-past-year/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5bbzEdQ1LddfObv8MBqxSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c645caa76cb67475f69b25e6c50fc029.jpg",
-      "published_at": "2026-08-23T21:35:01Z"
-    },
-    {
-      "id": "67de64d0-044f-3860-82e0-7774fe5e96e1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Axsome Therapeutics Stock Is Up 16% Year to Date. Why Wall Street Thinks It Has Even More Room to Run",
-      "summary": "The company has also crushed broader equities over the past five years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/axsome-therapeutics-stock-is-up-16-year-to-date-wh/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kPaQg8TwtJuJSU4gT75Tnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1ca1f28fe82b06ce7533301888084eaf.png",
-      "published_at": "2026-08-23T21:20:00Z"
-    },
-    {
-      "id": "6c773b80-5b0f-3ae5-a5d2-e5eee817f59d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.",
-      "summary": "The Metals Company believes it's sitting on billions of dollars of critical metals.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/the-metals-company-is-riding-the-critical-metals-b/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3uW8OPxz_P0ZEBB8vYc_UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fc7544839769264f6cfeb3a106343141.jpg",
-      "published_at": "2026-08-23T21:02:00Z"
     },
     {
       "id": "f972f6a0-ea1f-39a4-92c1-934f241d8939",
@@ -288,28 +310,6 @@
       "url": "https://investorshub.advfn.com/market-news/article/34837/why-bank-of-america-strategist-michael-hartnett-says-the-trade-is-still-long-gold",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wKghtK_6aICsRf82EWpIoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/28b62e081d8c28f454066ed1446829ab.png",
       "published_at": "2026-08-23T13:15:00Z"
-    },
-    {
-      "id": "466429f7-494c-3c7a-ab2f-c3b2adc6c280",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin’s Hidden Tax Problem: How Inflation Could Inflate Investors’ Capital Gains Bills",
-      "summary": "According to Grover Norquist, the government shouldn't tax Americans on inflation-driven gains it helped create.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-inflation-capital-gains-tax/cZYh9EgRJVr",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z8xaSchSGCx7KfuRxz235w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2b465a8b032c487cbcef8620bfccbb20.jpg",
-      "published_at": "2026-08-23T13:09:27Z"
-    },
-    {
-      "id": "6d72a611-6392-375f-812a-5e507648b816",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "500 Reasons to Buy Einride Stock Today",
-      "summary": "Is Einride’s 500-truck Tesla deal the catalyst that could make ENRD stock a wise portfolio addition today?",
-      "source": "Barchart",
-      "url": "https://www.barchart.com/story/news/3992216/500-reasons-to-buy-einride-stock-today",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G9_3tTXV7ai9AyBdrW6UDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319.jpg",
-      "published_at": "2026-08-23T13:00:02Z"
     }
   ]
 }
