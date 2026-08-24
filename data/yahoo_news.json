@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-24 04:40 UTC",
+  "last_updated": "2026-08-24 05:34 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "169fac43-f1f4-3cfd-95dd-5a2435333d4f",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Forget the Headlines: Tesla (TSLA) Is Still a Hold Based on What the Data Shows",
+      "summary": "The latest safety data from Tesla's robotaxi rollout is hugely impressive.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/forget-the-headlines-tesla-tsla-is-still-a-hold-ba/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e29W7P.96FAMfSMyXzSu4g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/69c9aa78e38f2b826a46366b30ce633c.png",
+      "published_at": "2026-08-24T05:20:00Z"
+    },
+    {
+      "id": "4a0e1e75-dc65-3f5f-a8b8-09f8b6e12e1b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "This Week’s Big Events Are Priced In for Stocks: Will Bitcoin Agree?",
+      "summary": "Stocks have priced in this week's Fed speech, but analysts are split on whether Bitcoin will react the same way.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-priced-in-reaction-stocks/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
+      "published_at": "2026-08-24T05:15:00Z"
+    },
     {
       "id": "dd567149-fdf0-3718-9cf7-72a5e35ba821",
       "asset": "OIL",
@@ -13,6 +35,39 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-mixing-economic-wars-043405561.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sHSnU6nviNKFf9KHInx6yA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/66486f704093ef2e89cb68b0cb2f41d4.jpg",
       "published_at": "2026-08-24T04:34:05Z"
+    },
+    {
+      "id": "10bc8d5d-a748-3a75-b9be-06bc8d82032b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Trump Team Pulls Millions From TRUMP Memecoin Liquidity Pools During Price Rally",
+      "summary": "Trump-linked wallets pulled USDC from TRUMP liquidity pools again this week, extending a pattern tracked since April 2025.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/trump-team-pulls-trump-liquidity-pools/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RTqTjO9u6LOtrf5SnAqiDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/03bda7becad62cf2085de5912f21c127.png",
+      "published_at": "2026-08-24T04:31:25Z"
+    },
+    {
+      "id": "5304f3c3-6ae9-3580-83ba-265442f63318",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "How Farmers & Merchants Bancorp’s Dividend Hike Shapes FMCB’s Capital Return Strategy for Investors",
+      "summary": "Farmers & Merchants Bancorp, parent of Farmers & Merchants Bank of Central California, previously raised its quarterly cash dividend to US$5.60 per share, a 4.7% increase from the prior US$5.35, payable on October 1, 2026 to shareholders of record on September 11, 2026. This dividend increase highlights the board’s willingness to return more cash to shareholders, which often reflects confidence in the bank’s underlying earnings power. We will now examine how this higher quarterly dividend...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G50zwthmXVokqg9PjR0t2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/a192a90509b207df974cc973e0c18172.jpg",
+      "published_at": "2026-08-24T04:29:49Z"
+    },
+    {
+      "id": "a7bf6e7a-99fd-38b1-b8f0-3b20ea6b4ab0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Is Coming for OpenAI and DeepSeek With $6 Billion Poolside Deal to Build a Powerful Open-Weight AI Model: Report",
+      "summary": "Nvidia Corp (NASDAQ:NVDA) is making an aggressive push into AI models, striking a multibillion-dollar deal with Poolside to develop a powerful open-weight system aimed at rivals including OpenAI, Anthropic, DeepSeek and Kimi. Nvidia Bets $6 Billion on Poolside AI Technology Nvidia will pay $6 billion to license Poolside’s AI technology and invest another $1 billion in the startup at a $12 billion pre-money valuation, according to The Wall Street Journal. More than 100 Poolside employees, includi",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-coming-openai-deepseek-6-042155320.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uzlcJHyYjS_MStbUpTP3Qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7f05391a457539b0b83baa3a8496deda.jpg",
+      "published_at": "2026-08-24T04:21:55Z"
     },
     {
       "id": "0f1df5e5-9f4c-3ecc-a52b-6b58ba7d2c72",
@@ -101,28 +156,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-comes-off-rough-week-ai-darling-reportedly-plans-major-price-hike-as-q2-earnings-loom/cZYKTZqRJnc",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xwsWOPeFdiRR_NSnii5wXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/f55caa28949f1d3910b06d5b44ba4aae.jpg",
       "published_at": "2026-08-24T03:20:57Z"
-    },
-    {
-      "id": "264b4cc7-dd45-3d59-a75c-2bcfbbdab254",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "I've Covered Nvidia for 9 Years. Here's Whether the Stock Is Overvalued Right Now.",
-      "summary": "The valuation is arguably the most surprising attribute of Nvidia stock right now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/ive-covered-nvidia-for-9-years-heres-whether-nvda/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KSZR3CXkIouyrBMynZkG8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/295c8ec513a568cd77cf113f7cf59f6a.png",
-      "published_at": "2026-08-24T03:20:00Z"
-    },
-    {
-      "id": "3cb600ce-eac7-3261-9e52-68903f849844",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
-      "summary": "Nvidia is in talks to invest in Perplexity as part of an equity ‌funding round that would value the AI startup ‌at more than $30 billion, The Information reported on Sunday, citing people ​with knowledge of the discussion.  The funding round would increase Perplexity's valuation by more than 50% from its previous financing a year ago, according to the report.  Perplexity's annualized revenue has ‌risen to more ⁠than $750 million from less than $250 million at the start of the year, the report said.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-discusses-perplexity-investment-30-031804276.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z9nOzg72ilb_3PUBUjfa4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/c4df685b6424e37b7609b604b278b2e1.jpg",
-      "published_at": "2026-08-24T03:18:04Z"
     },
     {
       "id": "0e4d198b-0fbe-345f-9a59-99f6074c2273",
@@ -277,39 +310,6 @@
       "url": "https://beincrypto.com/bitwise-inflows-bear-market-tom-lee/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dJ0N5kxSJOmxRobmHzx4FQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/fd0b66a5e21281582a76e44edffffe0b.png",
       "published_at": "2026-08-23T23:00:00Z"
-    },
-    {
-      "id": "c7d3539c-0098-30e4-8581-d955ae8d11e6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The next big oil trade may have nothing to do with oil stocks",
-      "summary": "A brutal oil shock is creating opportunity in one unlikely sector",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/economy/the-next-big-oil-trade-may-have-nothing-to-do-with-oil-stocks",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/itEhr7dFFdS05UejZWMbwA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9033d5e5b659b35217591b53f0a4531b.jpg",
-      "published_at": "2026-08-23T22:33:00Z"
-    },
-    {
-      "id": "d2317d28-542e-35dc-ae2a-d98edc86b86e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
-      "summary": "It's a winner in a shrinking U.S. market, and it's not like the company's crushing it outside of the United States either.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/tesla-maintained-its-majority-of-the-us-ev-market/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/paS3F0Y5epIX0a4Zg4Zcmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82ab31da2925a5f7da5b9d3bd78e3366.jpg",
-      "published_at": "2026-08-23T21:56:00Z"
-    },
-    {
-      "id": "f972f6a0-ea1f-39a4-92c1-934f241d8939",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
-      "summary": "Microsoft just handed shareholders nearly $7 billion in a single day, yet its AI spending bill dwarfs that figure by a staggering margin. Whether Redmond can keep the dividend growing while burning through historic levels of capital is the question every income investor needs to answer before September.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KOW7q2l_OHthZUFNRNOZmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2eaa96984fe39a02fcb4685a103a8c6f.jpg",
-      "published_at": "2026-08-23T20:38:55Z"
     }
   ]
 }
