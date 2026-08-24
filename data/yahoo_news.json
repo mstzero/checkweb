@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-08-24 11:24 UTC",
+  "last_updated": "2026-08-24 11:53 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "2284482c-a068-35b7-8eae-6f207871ba3c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stocks and oil fall as U.S. targets Iran with new sanctions",
+      "summary": "Treasury Secretary Scott Bessent is set to unveil what he called an \"economic D-Day\" against Iran on Monday, rattling energy markets",
+      "source": "Quartz",
+      "url": "https://qz.com/stocks-oil-falling-iran-sanctions-jackson-hole-082426",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c2Hq9eZLam1YWZDka8dtHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/ecce5005ef8f2b7809be2c0bc183de9b.jpg",
+      "published_at": "2026-08-24T11:45:04Z"
+    },
+    {
+      "id": "21772322-11c1-3a1d-a56d-b48fc3f6d579",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Chevron Rises as Iran Pressure Keeps Brent Near $94",
+      "summary": "Oil's second consecutive weekly gain is strengthening Chevron's upstream economics despite Friday's modest profit-taking.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-rises-iran-pressure-keeps-113854145.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T11:38:54Z"
+    },
+    {
+      "id": "ee790471-6a24-31fc-81c1-21f4033c6f44",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Exxon Holds Firm as Iranian Oil Exports Collapse",
+      "summary": "The energy giant is preserving this week's gains as blockade pressure removes barrels from an already tight market.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/exxon-holds-firm-iranian-oil-113807820.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T11:38:07Z"
+    },
+    {
+      "id": "599d0862-98ee-3e53-a56c-383ad17c506d",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Amazon Could Be Worth More Than Tesla and SpaceX Combined by 2030. Here's the Math.",
+      "summary": "Three of the country's most valuable companies should be worth even more in four years.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/amazon-could-be-worth-more-than-tesla-and-spacex-c/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hjt1VIAJpajqyEo.j.thyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4a5c3d87c1fbf321d84a6ebeefc65b33.jpg",
+      "published_at": "2026-08-24T11:37:00Z"
+    },
+    {
+      "id": "c3464ee4-a21a-3a41-98e1-ea8cc8c34f83",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy Remains Down 20% in 2026: A Prominent Analyst Still Sees 265% Upside After Downward Adjustment",
+      "summary": "Benchmark's top analyst just slashed his Strategy price target and still calls for a triple from current levels, but the market keeps punishing shares as bitcoin bleeds and retail bets on collapse. Who has this wildly wrong?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/strategy-remains-down-20-in-2026-a-prominent-analyst-still-sees-265-upside-after-downward-adjustment/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tuzcd9u_mrK8Q68rRef6ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/eef7aa9a397b7df1cea0f9b7d9d1963d.jpg",
+      "published_at": "2026-08-24T11:33:04Z"
+    },
+    {
+      "id": "f566f34d-3902-32e8-aeec-a31814a423ba",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Surges In Strongest Weekly Gain Since 2023 – But This One Key Trading Metric Is Drawing Attention",
+      "summary": "CryptoQuant analyst Darkfost said the bull-bear cycle indicator \"has just shifted into the early bull regime,\" while cautioning it is \"not a perfect signal.\"",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-strongest-weekly-gain-since-2023-key-trading-metric-draws-attention/cZYKWmsRJnY",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vRHm7QETHdSEk4.slqOUMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/be1690c61f061324afbfd6048dfdecde.jpg",
+      "published_at": "2026-08-24T11:27:22Z"
+    },
+    {
+      "id": "b8ff2713-475f-3025-b95b-093f8b8b470e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Have Put Wall Street on Notice With This $863 Million Warning",
+      "summary": "Sometimes, the actions of insiders speak louder than their words.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/quantum-computing-stocks-ionq-863-million-warning/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8W3lI.GJJWpUgVdjkWC4RQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5ecb38ec17fbfb968070650cb7f0a25.jpg",
+      "published_at": "2026-08-24T11:26:00Z"
+    },
+    {
+      "id": "dd19d2af-0d8d-39ed-8d4c-6e0bdc910908",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Can Phillips 66, Marathon, or Valero Afford Delek US Holdings Now?",
+      "summary": "Delek US Holdings has surged past its own analyst targets after a stunning 215% one-year run, and its CEO just said all options are on the table. The question is whether any strategic buyer can still justify the price.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/can-phillips-66-marathon-or-valero-afford-delek-us-holdings-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fsyufPMfz4RCnR78Y33gzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/616e4c3dba29ae7a2dcea64cd8e7a16c.jpg",
+      "published_at": "2026-08-24T11:25:43Z"
+    },
+    {
+      "id": "ed723232-ce76-3fc5-afb6-eacc7a81e0b2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Wintermute Boosts Crypto Shorts to $191M as It Moves Millions to Binance",
+      "summary": "Wintermute increased its Hyperliquid short exposure by $44.58 million, bringing it to $190.77 million. ETH and BTC led its positions at $53.02 million and $30.66 ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/wintermute-crypto-shorts-191m-hyperliquid-binance/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RzvrPnhqVlm2VJk89qsHMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/4f4df5a17ac035684c199fb8e0511144.png",
+      "published_at": "2026-08-24T11:18:06Z"
+    },
+    {
+      "id": "23ce1300-872c-372c-9284-3a4f85682612",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Exxon Expands Automated Drilling in Permian to Boost Oil Production",
+      "summary": "ExxonMobil (NYSE:XOM) is stepping up its use of automated drilling technology in the Permian Basin as the U. S.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/34897/exxon-expands-automated-drilling-in-permian-to-boost-oil-production",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3cV_UW6TI9NSZRziiOQjHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/be88bd254b9ed272ef79afd09494f60d.png",
+      "published_at": "2026-08-24T11:18:04Z"
+    },
     {
       "id": "0d837fea-7892-34ab-a97a-44110dde8505",
       "asset": "NVDA",
@@ -13,6 +123,39 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-fed-outlooks-dull-wall-111402533.html",
       "thumbnail": "",
       "published_at": "2026-08-24T11:14:02Z"
+    },
+    {
+      "id": "af9d01d0-e3e4-3ed0-9829-e468ef5d3092",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Bear Case on Agents and Compute is Wrong So I Buy More Nvidia",
+      "summary": "Bears insist smarter AI agents will shrink the GPU compute bill, and that argument sounds reasonable until you do the math on what an agent actually burns per task.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/the-bear-case-on-agents-and-compute-is-wrong-so-i-buy-more-nvidia/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7CG6Ah7CIMsXhowqpVYzMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6a3897a571f27f808d8276fe241b55d7.jpg",
+      "published_at": "2026-08-24T11:11:13Z"
+    },
+    {
+      "id": "06bfb32a-a9f3-3adc-b126-af3c14ce9dc4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Reportedly Weighs Perplexity Investment at More Than $30 Billion Valuation",
+      "summary": "Nvidia (NASDAQ:NVDA) is reportedly holding talks about investing in artificial intelligence startup Perplexity through a new financing round that could value the company at more than $30 billion, according to The Information. The discussions centre on a funding round potentially worth several billion dollars, with Nvidia among the prospective investors, the report said, citing people familiar with the negotiations.",
+      "source": "InvestorsHub",
+      "url": "https://investorshub.advfn.com/market-news/article/34891/nvidia-reportedly-weighs-perplexity-investment-at-more-than-30-billion-valuation",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oFy4q2a1BSmiew5MdJQiRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/e69bb8198a06d6ce496da4c06b937595.png",
+      "published_at": "2026-08-24T11:11:11Z"
+    },
+    {
+      "id": "f36c99d0-ccaa-33f2-8430-7849e47a1924",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL) Cuts 200 Jobs In Siri And Vision Pro To Refocus On AI",
+      "summary": "Apple (NasdaqGS:AAPL) is cutting over 200 jobs in its Siri and Vision Pro units as it redirects resources toward artificial intelligence and smart glasses development. The restructuring shifts focus away from immersive video and gaming features in Vision Pro toward AI driven capabilities and new hardware. Apple is concentrating affected roles within its core AI efforts, signalling a reallocation of talent and spending across key product teams. The move is expected to influence Apple's future...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-cuts-200-jobs-110937428.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A1UhkEWeucEIDGFQFO0hwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8.jpg",
+      "published_at": "2026-08-24T11:09:37Z"
     },
     {
       "id": "1f4f38bd-1345-3f9e-b076-9478ea54bf94",
@@ -26,37 +169,15 @@
       "published_at": "2026-08-24T11:08:09Z"
     },
     {
-      "id": "6331db2b-b6f1-3e12-9fd4-df1c15af293b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Peter Thiel’s $418 Million Bet On These 8 Companies Reveals AI’s Biggest Bottleneck",
-      "summary": "Peter Thiel's firm just filed a strikingly focused $418 million portfolio that ignores chips entirely and bets everything on a single constraint choking the AI boom before it can fully ignite.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/peter-thiels-418-million-bet-on-these-8-companies-reveals-ais-biggest-bottleneck/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/O5zmcPAUnWXry6g9RqORvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/74c8bda6b6eb39566e269bda5704b982.jpg",
-      "published_at": "2026-08-24T11:04:41Z"
-    },
-    {
-      "id": "ef2d42a2-627d-398e-8a48-bb64ccd5f0ff",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "4 High-Yield Stocks That Hand the IRS Nothing Inside a Roth",
-      "summary": "Every dollar of dividend income sitting in the wrong account quietly funds a tax bill most investors never stop to calculate. These four high-yield stocks expose exactly how much placement costs you at each federal bracket.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/4-high-yield-stocks-that-hand-the-irs-nothing-inside-a-roth/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OexH3HUZLIhI5lOl2v20AA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6527dc922ab41139cafc13018104eaa0.png",
-      "published_at": "2026-08-24T11:01:43Z"
-    },
-    {
-      "id": "af568ed8-d9fc-3e7d-844d-7077f9b7eb3e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "5 Monthly Dividend Payers That Belong in Your Roth IRA",
-      "summary": "Holding REIT and BDC dividends in a taxable account hands the IRS a cut every single month, and the bracket you sit in determines exactly how much you are giving away. Five monthly payers show just how wide that gap gets inside a Roth.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/5-monthly-dividend-payers-that-belong-in-your-roth-ira/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N7eV5OnCL6tt2uWLRts7Tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2a2442e812fa6f30daf085a97d2003e2.jpg",
-      "published_at": "2026-08-24T11:01:41Z"
+      "id": "3ee54824-7762-3d6b-842e-52e57abc4167",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Tops $4,700 For First Time Since May: Hansen Sees Fresh Technical Demand Ahead Of Warsh’s Jackson Hole Debut",
+      "summary": "Hansen added that spot gold’s move back above its 200-day moving average was attracting fresh technical and momentum-driven demand.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gold-tops-4-700-for-first-time-since-may-hansen-sees-fresh-technical-demand-ahead-of-warsh-s-jackson-hole-debut/cZYKgxORJno",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NUoxK8gfJGsxkvLQFfm9yA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/5954b5617b2e37a302daee7a424a8e40",
+      "published_at": "2026-08-24T11:01:51Z"
     },
     {
       "id": "ea6ff083-3bfb-35cf-8d3f-682dcebbfd14",
@@ -68,39 +189,6 @@
       "url": "https://247wallst.com/investing/2026/08/24/elon-musk-admits-china-is-by-far-strongest-ai-competitor-as-chinese-robot-just-beat-usain-bolts-100m-world-record/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kCzlqnpv2MzQFgbLpa0oow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f2814d8df914ea78b03c53eadc49471e.png",
       "published_at": "2026-08-24T11:01:12Z"
-    },
-    {
-      "id": "f10df596-1d50-3082-960b-83eb5ba08adf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "5 High-Yield Dividend Stocks for Retirement Income",
-      "summary": "With Treasury yields near multi-year highs, dividend stocks have to justify their place in a retirement portfolio through more than yield alone. These five names have multi-decade payout track records and live catalysts heading into year-end, but the trade-offs vary sharply.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/5-high-yield-dividend-stocks-for-retirement-income/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9lk7ZxQMnaLzFTzle5p6pg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/543bfd758459e79f499f2698a09ae5d4",
-      "published_at": "2026-08-24T11:00:47Z"
-    },
-    {
-      "id": "055eaf98-3eee-3431-ac56-b5ddd7b35fca",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Growth Stocks to Buy Before Wall Street Catches On",
-      "summary": "Three under-followed stocks are sitting on tens of billions in contracted backlogs while Wall Street coverage lags behind, and the window to get in ahead of institutional upgrades keeps narrowing.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/3-growth-stocks-to-buy-before-wall-street-catches-on/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FpgmcQKXJJh3_jNxEmXUoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c4ec53174fb428e4e5e138891610b687",
-      "published_at": "2026-08-24T11:00:47Z"
-    },
-    {
-      "id": "21ea8907-238a-324f-bb6c-e2ea9487f38f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Nuclear Energy Stocks for the AI Power Era",
-      "summary": "AI data centers are devouring power faster than the grid can supply it, and three nuclear stocks sitting at different layers of the fuel-to-reactor stack are pricing in very different pieces of that scarcity trade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/3-nuclear-energy-stocks-for-the-ai-power-era/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6xhr2y.Vuogh57jp81l35Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3b5757168f8ce035acef55edb40d15bf",
-      "published_at": "2026-08-24T11:00:45Z"
     },
     {
       "id": "68814bad-ad73-397b-a40f-714f4ba23426",
@@ -169,15 +257,15 @@
       "published_at": "2026-08-24T10:46:56Z"
     },
     {
-      "id": "2e6e36c9-88ef-355b-adfa-ab93dabbfbd5",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Global Steel Production Slips as Chinese Weakness Offsets Growth Elsewhere",
-      "summary": "Global crude steel production declined modestly in July, as continued weakness in China outweighed stronger output across several other major producing markets, according to Morgan Stanley. Worldwide production fell 0.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34868/global-steel-production-slips-as-chinese-weakness-offsets-growth-elsewhere",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bKZasHI0d_6U_2sHCJ1HVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/eb0969a564396020fb9ec4b7ca20a92c.png",
-      "published_at": "2026-08-24T10:41:19Z"
+      "id": "4ea5bec1-3f31-31aa-ac33-906e07885d7e",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Michael Burry Says LULU Stock Is ‘Screaming Cheap’ While Apple Shares Are ‘Permacostly’ Like Costco",
+      "summary": "LULU shares have fallen more than 40% this year, leaving the stock well below its recent highs.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-lulu-stock-is-screaming-cheap-while-apple-shares-are-permacostly-like-costco/cZYKXPVRJn8",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_CmUOOF6DY6YxEFiTaQcsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c86dc346c93a66cde0917e816fd8c855",
+      "published_at": "2026-08-24T10:32:26Z"
     },
     {
       "id": "f5257426-a129-3bf6-885a-bb023715c26c",
@@ -191,17 +279,6 @@
       "published_at": "2026-08-24T10:31:43Z"
     },
     {
-      "id": "08195122-399a-341d-b8dd-7af800852bd7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "Find insight on Samsung , MPI and more in the latest Market Talks covering technology, media and telecom.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-72f73701?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rKpPoKk0iQU64fQ41bMdNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/364a25edce85d06e3b10ebc7c0d01d88.jpg",
-      "published_at": "2026-08-24T10:26:00Z"
-    },
-    {
       "id": "f3c8ee11-faf0-3029-b948-13151059506b",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -211,17 +288,6 @@
       "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082426/card/bitcoin-acting-as-both-risky-asset-and-hedge-V1lMx6WnykNE1oRxOv1I?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
       "published_at": "2026-08-24T10:23:41Z"
-    },
-    {
-      "id": "d18c992f-8d90-389f-bfcc-b62cec56af3d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "U.S. Treasury Yields Fall, Dollar Rises",
-      "summary": "Treasury yields declined, helped by lower oil prices and prospects that the Treasury might act again to tame high yields.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-00d7abec?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-24T10:22:00Z"
     },
     {
       "id": "1f384236-3e25-30f5-aaf6-58c47d30c736",
@@ -244,72 +310,6 @@
       "url": "https://finance.yahoo.com/video/metals-one-md-first-gold-101711726.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ytQMwNyhvnALaNNpC8sLuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_video_751/48a4f708936e6af497812e6a66559a36.jpg",
       "published_at": "2026-08-24T10:17:11Z"
-    },
-    {
-      "id": "33dee320-c048-3f79-ac77-6d68db44eabe",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Uncle Sam’s $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment",
-      "summary": "A $40 trillion national debt pile sounds like an abstract number, until it starts to show up in Americans’ mortgage bills.  Several things are behind the recent rise in long-term bond yields, including sticky inflation and a less predictable Federal Reserve.  Total public debt outstanding officially passed the $40 trillion mark last week.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/uncle-sams-40-trillion-tab-is-living-rent-free-in-your-mortgage-payment-ec2ff19d?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HbAKH08QPHF7WCKOkWsTQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/daf1e9925ae08a6b72b6ae9ef7872882.jpg",
-      "published_at": "2026-08-24T10:12:00Z"
-    },
-    {
-      "id": "0a691cd4-53c1-3645-ba93-703f3ce0e974",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Michael Saylor Explains How to Invest Like a Billionaire, and Why Bitcoin Passes the Test",
-      "summary": "Saylor says Bitcoin passes the Bernard Arnault test. See the 10-year rule he uses to judge every asset he buys.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/saylor-bitcoin-bernard-arnault-test/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A3a8f1ITOfplsVXSuq8f1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/4d6e91a0b9cc24fb5e7552c7bdca63ef.png",
-      "published_at": "2026-08-24T10:08:49Z"
-    },
-    {
-      "id": "5e428196-59c1-31d7-86bd-e987e1e9b4b5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Should You Buy Dogecoin While It's Below $0.10? The Answer Might Shock You.",
-      "summary": "The cryptocurrency industry's original meme coin recently fell to the lowest level since 2023.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/should-buy-dogecoin-below-010-answer-shock-you/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IuLZ4pc8IBk.jrlc4.ZGJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/66daa93438a0d434ce9401dc72499e42.jpg",
-      "published_at": "2026-08-24T09:42:00Z"
-    },
-    {
-      "id": "afedb0ac-acd3-3f31-a38d-edbf940e2995",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Climbs Above $4,650 as U.S. Fiscal Risks Boost Demand for Bullion",
-      "summary": "Gold extended its advance on Monday, moving above $4,650 an ounce and remaining close to a three-month high as concerns over the U. S.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34866/gold-climbs-above-4650-as-u-s-fiscal-risks-boost-demand-for-bullion",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xf4ok1UqZhJP0m088rDUIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/52f40440a9ade9c2c8b944b222028e0a.png",
-      "published_at": "2026-08-24T09:41:10Z"
-    },
-    {
-      "id": "501182d6-2a0b-3087-bb1a-6d815dbbfa2d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "HYPE Is Surging – And These Three Trading Firms Are Sitting On $600M In BTC, ETH Shorts",
-      "summary": "The three firms held shorts of $338 million of ETH and $265 million of BTC, the largest on the chain after a price surge liquidated bigger whale accounts.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/hype-surging-three-trading-firms-600m-btc-eth-shorts/cZYKO8IRJnn",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vcpMYVbvH6dsXZ6SMML6UA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/3326be1ebda302d327dfe5c552da9fd2",
-      "published_at": "2026-08-24T09:38:38Z"
-    },
-    {
-      "id": "021e7d82-70e7-35e0-9df0-13b769402198",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "500M SAND Minted in Sandbox Exploit as Korean Exchanges Freeze Transfers",
-      "summary": "Attackers minted 500M+ unbacked SAND, triggering emergency bridge shutdowns. Korean exchanges suspended transfers and warned users about extreme volatility. Ethereum and Polygon SAND remained unaffected ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/sandbox-exploit-14-9b-sand-korean-exchanges-freeze-transfers/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hzkKbKIGDiO0k.XgkhgxGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/ab10738fed733ace28af5c78462d8d7e.png",
-      "published_at": "2026-08-24T09:37:22Z"
     }
   ]
 }
