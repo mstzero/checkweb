@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-08-24 22:21 UTC",
+  "last_updated": "2026-08-24 22:52 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "057e518f-0795-35f8-ad4d-f3b8689814ae",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Fidelity Sells Two Funds With the Same Name and the Same Target Year. One Costs 5x More",
+      "summary": "Fidelity offers two funds aimed at the same retirement year under nearly identical names, and most investors holding the pricier one have no idea the other exists inside their own account.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/fidelity-sells-two-funds-with-the-same-name-and-the-same-target-year-one-costs-5x-more/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t.xSdpOXCLjOzbkB.ORmSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/23d6ddcd9dc6ca3c664a2f56210d14b9",
+      "published_at": "2026-08-24T22:25:39Z"
+    },
+    {
+      "id": "f05d6d2d-9043-3ccf-8950-89af64d01002",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Hydrogen Stock's Turnaround Is Further Away Than Wall Street Thinks",
+      "summary": "Investors should be wary of Plug Power's comeback.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/this-hydrogen-stocks-turnaround-is-further-along-t/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zw15fDzyCChEX_JWaPjM5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0fc428d47ddbeb2c08f611bdcadc3a96.jpg",
+      "published_at": "2026-08-24T22:25:00Z"
+    },
+    {
+      "id": "98a84a94-cacc-300b-9f33-3aa1a32eb7d5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What Shattuck Labs Stock Topped the Market on Monday",
+      "summary": "Two analysts weighed in with new takes on the biotech.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/what-shattuck-labs-stock-topped-the-market-on-mond/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N2QOR2tpte3X.PvLa7hFvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e5986d1782482a209dc39812d8559206.jpg",
+      "published_at": "2026-08-24T22:23:11Z"
+    },
+    {
+      "id": "5a8975c9-476a-3780-b9ec-1f77d012964e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VtJz79jtvMc8cap4mG9BCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/2ae7b9693327b3aa8072c4467bad8e22.jpg",
+      "published_at": "2026-08-24T22:16:04Z"
+    },
+    {
+      "id": "b7c1cb6c-615e-3d1b-941c-6644795f7f29",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Forget VTSAX: Vanguard’s Own ETF Is Cheaper, Has No $3,000 Minimum, and Schwab Charges $74.95 to Buy the Mutual Fund",
+      "summary": "VTSAX built its legendary reputation on low costs and simplicity, but a hidden fee structure at major brokers quietly erodes those advantages for millions of investors who never think to question their wrapper.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/forget-vtsax-vanguards-own-etf-is-cheaper-has-no-3000-minimum-and-schwab-charges-74-95-to-buy-the-mutual-fund/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RC7x_z9KFDVfRo97kXrnnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e1af57f045c981fb29e820e19d79e873.jpg",
+      "published_at": "2026-08-24T22:15:52Z"
+    },
     {
       "id": "1c40d5c1-147b-38de-84d2-9e56d736782b",
       "asset": "NVDA",
@@ -27,8 +82,8 @@
     },
     {
       "id": "8ecd9c7c-d0d3-3915-b790-ac5c864936cc",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Nvidia customers face 15% AI price shock",
       "summary": "A 15% Nvidia price hike could ripple through the AI economy",
       "source": "TheStreet",
@@ -48,39 +103,6 @@
       "published_at": "2026-08-24T22:02:10Z"
     },
     {
-      "id": "4cad1e7a-219f-3a0d-b3b4-66fca293841f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Not Micron. This Artificial Intelligence (AI) Stock Could Be the Biggest Winner of the Next Infrastructure Bottleneck",
-      "summary": "Optical networking will pose the next big bottleneck in AI infrastructure, and Marvell Technology can help investors win big from this trend.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/prediction-not-micron-this-artificial-intelligence-ai-stock-could-be-the-biggest-winner-of-the-next-infrastructure-bottleneck/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OLnz_WryjEgAH3ZujHpdpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b773134638c607fba05a6c28fbb4537e.jpg",
-      "published_at": "2026-08-24T22:01:01Z"
-    },
-    {
-      "id": "3e72e808-cac3-3de3-8d5f-7cf579b77547",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Nvidia (NVDA) Stock a Buy Ahead of Q2 Earnings?",
-      "summary": "Nvidia will step back into the earnings spotlight after the market closes on Wednesday, August 26, when the AI chip leader reports its much-anticipated Q2 results.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-buy-ahead-215800263.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/10JTrsMwRlcis2mEshFgYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/223c1bf0adeeecfbad6b0a5d960e0765.jpg",
-      "published_at": "2026-08-24T21:58:00Z"
-    },
-    {
-      "id": "c6d8ca23-4bb2-3fdb-89a5-be5d809f9534",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why PDD Holdings Stock Slumped Today",
-      "summary": "The Chinese e-commerce mainstay published its second-quarter figures.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/why-pdd-holdings-stock-slumped-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BlrmSFX.RBGpXa0Ljyp16g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e0a88683c47173e4797279f4640a8413.jpg",
-      "published_at": "2026-08-24T21:56:52Z"
-    },
-    {
       "id": "f1dc67da-f8d2-3916-ae1b-f2974964a03a",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -90,17 +112,6 @@
       "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sE0ymkvDEFNy6u5N51tRug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/932fd2461e75819041c24c3b45fd42c3.jpg",
       "published_at": "2026-08-24T21:56:49Z"
-    },
-    {
-      "id": "e96ff731-d887-3ba8-b983-f20208d0f200",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Berkshire Hathaway Hasn’t Done This in Over 3 Years",
-      "summary": "Berkshire Hathaway is a net buyer of stocks again for the first time in nearly four years, but new CEO Greg Abel still sold some surprising stocks this quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/berkshire-hathaway-hasnt-done-this-in-over-3-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/84Kr0Lqcp6lLh_Rho8oSzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc3ba40562c1b0d26fe30642dfb876b6.jpg",
-      "published_at": "2026-08-24T21:56:06Z"
     },
     {
       "id": "cebac7a6-ae0c-3a70-a6e4-0995e8f2b87b",
@@ -299,17 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9SxvRogiANXVvXrfA70gsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/01dc34454258f40104260eef9b5ed240.jpg",
       "published_at": "2026-08-24T20:43:00Z"
-    },
-    {
-      "id": "7eb54b1a-9c04-36c6-9efc-08ba3ba3c669",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today’s Market",
-      "summary": "FEATURE  Stocks were mostly lower on Monday with the major indexes weighed down by falling artificial-intelligence stocks ahead of Nvidia’s  key earnings and Federal Reserve Chairman Kevin Warsh’s Jackson Hole comments later this week.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nYaMSqxvpFmJZGmAvDZlYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/2eef8481b71804d704a5581f3665b1a2.jpg",
-      "published_at": "2026-08-24T20:37:00Z"
     }
   ]
 }
