@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-08-24 03:51 UTC",
+  "last_updated": "2026-08-24 04:40 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "dd567149-fdf0-3718-9cf7-72a5e35ba821",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Morning Bid: Mixing economic wars, trade wars and actual wars",
+      "summary": "Aug 24 (Reuters) - A look at the day ahead in European and global markets from Wayne Cole.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-mixing-economic-wars-043405561.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sHSnU6nviNKFf9KHInx6yA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/66486f704093ef2e89cb68b0cb2f41d4.jpg",
+      "published_at": "2026-08-24T04:34:05Z"
+    },
+    {
+      "id": "0f1df5e5-9f4c-3ecc-a52b-6b58ba7d2c72",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "High oil prices, subsidies and affordable models rev up European EV sales",
+      "summary": "By Nick Carey LETCHWORTH, England, Aug 24 (Reuters) - Electric vehicle sales accelerated across much of Europe in July, as high oil prices, subsidies and availability of more affordable models",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/high-oil-prices-subsidies-affordable-040806666.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TduX16S6RkhqHlt3q8k9EQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5bbea49941f6003492da215d01ba2515.jpg",
+      "published_at": "2026-08-24T04:08:06Z"
+    },
+    {
+      "id": "f6e02b5e-d5cf-3bc2-ac65-9cc8112fad53",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "A $650 smartphone takes aim at Apple and Samsung’s surging repair costs",
+      "summary": "A DIY-repairable smartphone is entering the market.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/retail/a-650-smartphone-takes-aim-at-apple-and-samsungs-surging-repair-costs",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vyN.9IrW39AoF1cV8xGDxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/516cd22e5d36dc22466dcf656859f7ea.jpg",
+      "published_at": "2026-08-24T04:03:00Z"
+    },
+    {
+      "id": "0ee7ae27-d633-3185-8390-93340fcb58ea",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Sandisk Rode an Estimated 70% Jump in NAND Prices. TrendForce Sees 10% to 15% This Quarter.",
+      "summary": "The memory boom isn't ending. It's slowing -- and the difference matters enormously for earnings estimates built on the steep part of the curve.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/23/sandisk-rode-an-estimated-70-jump-in-nand-prices-trendforce-sees-10-to-15-this-quarter/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2rkRUo.NPAUpBLjbzH40EA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/150b40bf3931a25678a629dbfa002142.jpg",
+      "published_at": "2026-08-24T03:58:01Z"
+    },
+    {
+      "id": "156613fc-c589-3231-a4d6-6fd0a5ebeb29",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil falls as US prepares to unveil new Iran sanctions",
+      "summary": "By Florence Tan and Trixie Yap SINGAPORE, Aug 24 (Reuters) - Oil prices slipped more than $1 a barrel on Monday as investors took profits ahead of an expected announcement from Washington about",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NpNZSTpIqh3Kl2u035rHJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/770c5842157fd11d46ad1ed353cd6eb2.jpg",
+      "published_at": "2026-08-24T03:49:47Z"
+    },
+    {
+      "id": "a036747e-5e7f-39be-8306-200658c08e0e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "$92 Billion Nvidia Earnings Could Make or Break the AI Trade",
+      "summary": "Nvidia reports earnings Wednesday with $92 billion in sales on the line, and Wall Street is split on whether the AI trade can hold.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/nvidia-earnings-92-billion-ai-trade/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qpo___ZKJHx3j0zeu55aeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/042f2d67c0b128b27b2bb45eeea1dcfb.jpg",
+      "published_at": "2026-08-24T03:40:00Z"
+    },
     {
       "id": "f262fb71-36b4-3daa-911c-9b6d31486d8a",
       "asset": "NVDA",
@@ -52,7 +118,7 @@
       "asset": "NVDA",
       "asset_name": "Nvidia",
       "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
-      "summary": "Nvidia is ‌discussing ‌investing in Perplexity ​as part of an equity round ‌that ⁠would value the ⁠AI startup at ​more ​than $30 ​billion, the ‌Information reported on Sunday citing people with knowledge ‌of ​the ​discussion. Reuters ​could not ‌immediately verify ​the ​report.",
+      "summary": "Nvidia is in talks to invest in Perplexity as part of an equity ‌funding round that would value the AI startup ‌at more than $30 billion, The Information reported on Sunday, citing people ​with knowledge of the discussion.  The funding round would increase Perplexity's valuation by more than 50% from its previous financing a year ago, according to the report.  Perplexity's annualized revenue has ‌risen to more ⁠than $750 million from less than $250 million at the start of the year, the report said.",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-discusses-perplexity-investment-30-031804276.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z9nOzg72ilb_3PUBUjfa4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/c4df685b6424e37b7609b604b278b2e1.jpg",
@@ -71,25 +137,14 @@
     },
     {
       "id": "ab222ced-27b6-3e86-9e54-097e41202290",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Shares dither, oil slips in wait for US details of Iran sanctions",
       "summary": "By Wayne Cole SYDNEY, Aug 24 (Reuters) - Share markets were hesitant in Asia on Monday and oil prices eased as investors awaited details of threatened U.S. sanctions on Iran due later in the session,",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.vgPM1Mny8YefVguqPe39A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d0d7462c58c509d0fe8cdcbe2e180897.jpg",
       "published_at": "2026-08-24T02:59:20Z"
-    },
-    {
-      "id": "b84c59b0-bcda-30b2-9bc2-7ac95d682250",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
-      "summary": "The chip giant's stock slid after its most important AI customer expanded work with a rival. The last time a design-away scare hit the company, what followed was a 500% gain.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/broadcom-has-seen-its-biggest-customer-drop-a-key-chip-before-history-says-what-the-stock-did-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AMlQO_7BExFbkVX5xiCFZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4aa4cb39178df9f51b0c00090adb76c3.png",
-      "published_at": "2026-08-24T02:46:01Z"
     },
     {
       "id": "08256baf-43e3-3419-b252-dd20633fbec4",
@@ -255,61 +310,6 @@
       "url": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KOW7q2l_OHthZUFNRNOZmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2eaa96984fe39a02fcb4685a103a8c6f.jpg",
       "published_at": "2026-08-23T20:38:55Z"
-    },
-    {
-      "id": "f39b03c9-7fb1-3620-9980-036f5cd2ba94",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Jim Cramer Says Stocks and the Economy Are Telling Two Very Different Stories: ‘Jarring Gulf’",
-      "summary": "CNBC commentator Jim Cramer recently pointed to a growing disconnect between the stock market and the underlying economy as concerns over the economic outlook intensify. Cramer expressed his concerns from the construction site of Micron Technology Inc.‘s new semiconductor fabrication...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-stocks-economy-203116548.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2_GnAHTgly_CSTe9so9SEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/78eedfcedac527247d142cf1cbaafa41.jpg",
-      "published_at": "2026-08-23T20:31:16Z"
-    },
-    {
-      "id": "4c46d893-b028-3ebb-a2e7-a0b2d932bd1d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?",
-      "summary": "Japan borrowing costs hit 1996 highs and the yen is sliding again. Bitcoin is up 22% anyway. Here is what breaks that calm.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/japan-borrowing-costs-weak-yen-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q5mNiVZlhxPSlbsjS1rpYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3c4417f868072ce889a0d52ebe383a55.jpg",
-      "published_at": "2026-08-23T19:14:03Z"
-    },
-    {
-      "id": "a8146927-52e4-30f2-9bc1-1c97645d67a6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin’s Rally Leans on Fears That Fiscal Strains Are Mounting",
-      "summary": "Crypto’s true believers suddenly have a spring in their step again.",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-leans-fears-fiscal-180000766.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DLOZktjQjHWj9_cfwhBj7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/571443e3f808ddc400c3c3a1b9aaca25.jpg",
-      "published_at": "2026-08-23T18:00:00Z"
-    },
-    {
-      "id": "5d3d79f3-add2-399e-ae86-58222b0fdc55",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Ethereum’s ‘Netflix Moment’ Could Send ETH To $10K By 2029 As Bitcoin Eyes $81K",
-      "summary": "Michaël Van de Poppe said that cryptocurrencies \"haven't seen any moves at all,\" with SOL/BTC barely beginning to rise after Solana broke its 21-day moving average and flipped a level.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereums-netflix-moment-could-send-eth-to-10k-by-2029-as-bitcoin-eyes-81-k/cZYhiqXRJVv",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PwZ03JrfqxYCSrulzIYEcg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aaedc71c4e6c0ee88d07d33df3bbd3d7",
-      "published_at": "2026-08-23T17:15:36Z"
-    },
-    {
-      "id": "2f3ad4cd-7c53-39dd-8f60-fde768986d79",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
-      "summary": "Microsoft (NasdaqGS:MSFT) faces new obligations in Australia as a law requiring large digital platforms to pay local publishers for news content comes into effect, affecting LinkedIn’s news distribution. Meta has become one of Microsoft’s largest AI customers, with a major spend on Azure AI infrastructure and services. Microsoft Advertising introduced an agentic commerce blueprint that uses AI tools to reshape how brands run digital shopping and ad campaigns. Consider exploring other stocks...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPWopoFekEfw2LKiJEwh1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
-      "published_at": "2026-08-23T17:07:38Z"
     }
   ]
 }
