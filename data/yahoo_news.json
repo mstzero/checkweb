@@ -1,8 +1,184 @@
 {
-  "last_updated": "2026-08-24 19:54 UTC",
+  "last_updated": "2026-08-24 20:25 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "35f1c452-c709-3716-aebd-df68ab06c133",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+      "summary": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_JtrKDZrq7SivV5u18Bfew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/c1abe56ac36c36ccf98b6b0a1ec444f0.png",
+      "published_at": "2026-08-24T20:16:03Z"
+    },
+    {
+      "id": "1cd0bb2a-f448-30f1-a5be-1c63dfc94ad0",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Coinbase Debuts Tokenized Stocks On Base Network",
+      "summary": "Cryptocurrency exchange Coinbase Global (NASDAQ: $COIN) has debuted tokenized stocks on its Base blockchain network...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/coinbase-debuts-tokenized-stocks-on-base-network-6512",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/o6ngCi3szhGIojpPBe2U.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/dfb85abc702267838a45bce335d1fe43.jpg",
+      "published_at": "2026-08-24T20:16:00Z"
+    },
+    {
+      "id": "e1687433-9af8-391b-951a-ea3818bb2a57",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Exchange Trading Volumes Double In Five Days",
+      "summary": "Trading volumes on cryptocurrency exchanges have doubled in the past five days as the price of Bitcoin (CRYPTO: $BT...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/crypto-exchange-trading-volumes-double-in-five-days-6511",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zl_lx2_bfvHcQa2gj6tf.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/1aa94ad6d666160e48ae6a8985588adb.jpg",
+      "published_at": "2026-08-24T20:15:00Z"
+    },
+    {
+      "id": "d4684f48-c045-3f8b-b782-9d1c105e99a7",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Anonymous coder hides Bitcoin puzzle in Satoshi's genesis block",
+      "summary": "An anonymous cryptographer hid a Bitcoin wallet puzzle in the blockchain, claiming its keys derive entirely from Satoshi Nakamoto’s Genesis Block. Nobody has cracked it yet.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/business/anonymous-coder-hides-bitcoin-puzzle-in-satoshis-genesis-block",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CSbtMgX9NQimZBjlUzM8tA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/66266b1775edbd8526b18194ee21ec3c.jpg",
+      "published_at": "2026-08-24T20:13:14Z"
+    },
+    {
+      "id": "f8bc23f6-1a31-380b-98e9-c5cb31b6adbf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Top Strategist Warns Nvidia’s Earnings on Wednesday Could Hit the Entire Market",
+      "summary": "Seema Shah, chief global strategist at Principal Asset Management, told CNBC on Monday that NVIDIA (NASDAQ:NVDA) sits at the center of this week’s market setup, with its upcoming quarterly report positioned as the critical test of whether the AI capital-spending cycle can start showing profitable returns. Nvidia reports fiscal Q2 2027 results on Wednesday, August ... Top Strategist Warns Nvidia’s Earnings on Wednesday Could Hit the Entire Market",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/top-strategist-warns-nvidias-earnings-on-wednesday-could-hit-the-entire-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/q8PAFK6_ahjXOBha_jm3Zg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1c4141e47d5e996e84c9b481bb227f41.jpg",
+      "published_at": "2026-08-24T20:12:30Z"
+    },
+    {
+      "id": "4405929d-8636-3f77-a5fa-6a7aef680e22",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after investors trimmed chip exposure to reduce portfolio risk ahead of Nvidia's highly anticipated earnings report.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nRReeeAmxAlZ5ETp8CAqUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/dcf057c27655d03a050775ca9f19c022.jpg",
+      "published_at": "2026-08-24T20:09:36Z"
+    },
+    {
+      "id": "e8ed1c1c-c199-37cd-a27c-b2d474df8782",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+      "summary": "By Saeed Azhar, Purvi Agarwal and Niket Nishant NEW YORK, Aug 24 (Reuters) - The S&P 500 and Nasdaq ended lower on Monday, pulled down by technology stocks, as investors weighed fresh U.S. economic",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-nasdaq-futures-slip-markets-100932666.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tm_VYOO7kk7PLBO8o.O3Lw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/acaa1937b06dd60ebe0fd472ad4f813d.jpg",
+      "published_at": "2026-08-24T20:09:01Z"
+    },
+    {
+      "id": "75c49207-ab2f-32a9-81aa-0554a51eed3e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Equity Markets Mixed as Crude Oil Prices Drop Ahead of Upcoming US Economic Sanctions on Iran",
+      "summary": "US equity indexes were mixed Monday as crude oil prices dropped ahead of US economic sanctions on Ir",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-crude-200750110.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T20:07:50Z"
+    },
+    {
+      "id": "1037e0e0-e57c-3cea-9759-4f94cb705a92",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "NVDA Invests In Blackstone-Backed Lancium To Expand AI Data Center Capacity",
+      "summary": "The deal combines Nvidia’s AI computing stack with Lancium’s 4 GW of leased capacity and 15+ GW development pipeline.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-invests-in-blackstone-backed-lancium-to-expand-ai-data-center-capacity/cZYKrKKRJFZ",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1hnzcp5jdb4EBRsenYqLBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/03163a1a50f92f47996e20c5f2e798c1",
+      "published_at": "2026-08-24T20:07:43Z"
+    },
+    {
+      "id": "2c940ff6-3b52-3cd2-ad00-4ef38f45111f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Warren Buffett's Favorite 'Forever' Stock Hits A Buy Point After Big Rally",
+      "summary": "Coca-Cola stock is considered one of Warren Buffett's most famous and successful investments. Coke is one of his oldest investments too.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/warren-buffett-coca-cola-stock-favorite-forever-holding/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yRMT8CeiFIRi9Fdj8ETrfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ea66135f47501e54e3a6ea90ecbb4d0b.jpg",
+      "published_at": "2026-08-24T20:07:25Z"
+    },
+    {
+      "id": "c5640290-cf45-376e-b148-540d04f5ab67",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Sector Update: Energy Stocks Decline Monday",
+      "summary": "Energy stocks fell Monday with the NYSE Energy Sector Index dropping 0.9% and the State Street Energ",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-200503263.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T20:05:03Z"
+    },
+    {
+      "id": "124b0f91-1731-47e0-8e2a-5cd550e6c577",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Treasury's Bessent calls for 'economic asphyxiation' of Iran through sanctions",
+      "summary": "At a press conference on Monday, Department of the Treasury Secretary Scott Bessent answered Yahoo Finance Senior Reporter Jennifer Schonberger's question on how the US plans to approach possible sanctions amid the ongoing war with Iran. Watch the above video to see what Secretary Bessent has to say.",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/treasurys-bessent-calls-economic-asphyxiation-200000855.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q85mYU8yj7IsouUKxozp0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1787599465199_4115.jpg_ccc9e68361e22df4240767ea30f30fbe955dee3ee5832bfa68b4c5e22b5a8fce.jpg",
+      "published_at": "2026-08-24T20:00:00Z"
+    },
+    {
+      "id": "0892d69b-bb89-3318-8cdc-418b2d123b4c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "summary": "Financial stocks were higher in late Monday afternoon trading, with the NYSE Financial Index rising",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195855484.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T19:58:55Z"
+    },
+    {
+      "id": "0c100b2c-0e8a-322a-acad-6376352118af",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Hit Technology, Bessent Unveils Plans to Choke Iran",
+      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-195805839.html",
+      "thumbnail": "",
+      "published_at": "2026-08-24T19:58:05Z"
+    },
+    {
+      "id": "55191f0b-c152-3f2b-90b7-d01e9eb8852b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Asia's most regulated markets just said yes to Shiba Inu",
+      "summary": "Shiba Inu has secured a notable regulatory foothold in Japan, one of Asia’s strictest cryptocurrency markets.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/one-of-asias-most-regulated-crypto-markets-just-said-yes-to-shiba-inu",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eFaGbkElXcgGsT8adhNztg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9e43a165358a32c798cd714cdc6106bd.jpg",
+      "published_at": "2026-08-24T19:55:00Z"
+    },
+    {
+      "id": "4bfe0b22-9241-34d9-85fc-362e9b20d99e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy (MSTR) Stock Trades Up, Here Is Why",
+      "summary": "Shares of bitcoin development company Strategy (NASDAQ:MSTR) jumped 4.9% in the afternoon session after the company disclosed the establishment of a $1.59 billion liquidity pool and raised $2.01 billion through equity sales to bolster its cash reserves.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-stock-trades-why-195336326.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3sDc8lzOA2PIl..QAGRCiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/4940b84d40152508fb68c66cd42708e7.jpg",
+      "published_at": "2026-08-24T19:53:36Z"
+    },
     {
       "id": "caa2c3a9-33ff-3b98-ba49-56a8ab7dfd81",
       "asset": "MSFT",
@@ -15,9 +191,20 @@
       "published_at": "2026-08-24T19:50:22Z"
     },
     {
+      "id": "156613fc-c589-3231-a4d6-6fd0a5ebeb29",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil drops more than $2 despite new US sanctions on Iran",
+      "summary": "By Nicole Jao NEW YORK, Aug 24 (Reuters) - Oil prices slipped more than $2 a barrel on Monday as investors took profits after recent gains and shrugged off new U.S. sanctions on Iran.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nXG4NKf4QviXYBkWN57RMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a30348960f11ace1c135b6e74709ff6b.jpg",
+      "published_at": "2026-08-24T19:50:20Z"
+    },
+    {
       "id": "515b225d-908b-36c9-a317-965812407e55",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
       "summary": "Samsung's collapse and Nvidia's approaching earnings test are triggering profit-taking across the semiconductor supply chain.",
       "source": "GuruFocus.com",
@@ -48,28 +235,6 @@
       "published_at": "2026-08-24T19:43:04Z"
     },
     {
-      "id": "d90df9b4-f9c1-3cc8-b05c-d5fe7af89547",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
-      "summary": "Three aerospace and defense giants have moved in sharply different directions this year, and the gap between the best and worst performer has grown wide enough to matter for anyone who assumed these household names move together.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/which-aerospace-and-defense-stock-has-dominated-in-2026-ge-aerospace-boeing-or-rtx/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j05KocyT0YbY6HZc7lvV9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0ca01cd699deac58d3f6eca7be0d1ced.jpg",
-      "published_at": "2026-08-24T19:39:40Z"
-    },
-    {
-      "id": "2c940ff6-3b52-3cd2-ad00-4ef38f45111f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Warren Buffett's Favorite 'Forever' Stock Hits A Buy Point After Big Rally",
-      "summary": "Coca-Cola stock is considered one of Warren Buffett's most famous and successful investments. Coke is one of his oldest investments too.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/warren-buffett-coca-cola-stock-favorite-forever-holding/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yRMT8CeiFIRi9Fdj8ETrfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/ea66135f47501e54e3a6ea90ecbb4d0b.jpg",
-      "published_at": "2026-08-24T19:39:38Z"
-    },
-    {
       "id": "f7e3af01-0f24-3627-927f-0232810cb0b5",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -79,61 +244,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-set-top-second-193818837.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7bgJ4vVV6WicT0wXuuFRrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/e9c9c6f34f34ce2196712d87764b767b.jpg",
       "published_at": "2026-08-24T19:38:18Z"
-    },
-    {
-      "id": "1a58dcaa-61d6-34aa-8999-e800df60b02d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
-      "summary": "The Dow Jones average rises but other indexes fall as President Trump lashes out at Canada. Nvidia dives but a stock clears an entry.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mbIvAyHjnUcM6eJd9MlZ6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5b0c8e88a6bce74d796c6a0124f65d8f.jpg",
-      "published_at": "2026-08-24T19:36:59Z"
-    },
-    {
-      "id": "ac2c8bcd-0db2-4a6f-8193-ba11900b03d6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Treasury Sec. Bessent says investors must wait for Q4 to hear more bond intervention updates",
-      "summary": "US Treasury Secretary Scott Bessent held a press conference on Monday about the war in Iran, Treasury yields (^FVX, ^TNX, ^TYX), and more. Yahoo Finance Fed Correspondent Jennifer Schonberger shares more details in the video above.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/treasury-sec-bessent-says-investors-193643862.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HfK0uUNhKYlZc5bQcdexFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bf1baa2d-5cb7-4ed5-9a2c-887e7bc88989_2be2879ef9ec810f736158f7d823945e87872aa06ffe721c21780887d87ec9a5.jpg",
-      "published_at": "2026-08-24T19:36:43Z"
-    },
-    {
-      "id": "1f24a37e-7779-3ab5-a33e-d109481122b7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
-      "summary": "Three oil and gas giants have chased each other so closely through 2026 that the real winner might surprise you, and it is not the one most investors expected to pull ahead.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/which-oil-and-gas-stock-has-dominated-in-2026-conocophillips-eog-resources-or-occidental-petroleum/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Nhmnmak4dsIaFbGxLlkLdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/876b698dc4b091a5f957c764a4b56a7b.jpg",
-      "published_at": "2026-08-24T19:36:24Z"
-    },
-    {
-      "id": "fedbea9e-798a-3b82-ab5c-dcaf237323c3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Top 3 Altcoins Benefiting Most From Bitcoin's Latest Rally",
-      "summary": "ZEC, AAVE, and XRP led the altcoins in Bitcoin's rally. See the levels each token must hold to extend the move.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/altcoins-benefiting-bitcoin-rally/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ft2WcfuN4i9a7nIFac.xrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/ff78b93de2f08b4c08ab0c822c3fa42d.jpg",
-      "published_at": "2026-08-24T19:35:20Z"
-    },
-    {
-      "id": "6d1c3460-d9a0-330f-8012-7c40c385213a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Credit Card Stock Has Dominated in 2026: Visa, Mastercard, or American Express?",
-      "summary": "Visa, Mastercard, and American Express usually move in loose lockstep, but 2026 has cracked that relationship wide open in a way that forces investors to pick sides between two very different business models.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/which-credit-card-stock-has-dominated-in-2026-visa-mastercard-or-american-express/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CumL6vS2c2JlyyXeDRC0Ng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/905a68279bd0b67864c84a0f390e1a52.jpg",
-      "published_at": "2026-08-24T19:33:14Z"
     },
     {
       "id": "a00a7d05-2d8c-39bb-8ee0-a1157cece0e7",
@@ -156,17 +266,6 @@
       "url": "https://finance.yahoo.com/energy/articles/exxon-drops-oil-retreats-94-191950154.html",
       "thumbnail": "",
       "published_at": "2026-08-24T19:19:50Z"
-    },
-    {
-      "id": "fa045437-d0f1-4487-b1cf-d2a7368dc218",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
-      "summary": "Nvidia will have to get its stock price rerated to shake off the \"cheap valuation\" vibes.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7fqqEL.0TMCkNtcV4SebRA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_yahoo_finance_video_472/28d58960d3e88b75b0ca4467eb822eeb.jpg",
-      "published_at": "2026-08-24T19:17:38Z"
     },
     {
       "id": "659c0998-f114-3aba-b2fc-37f9dcedae5e",
@@ -211,105 +310,6 @@
       "url": "https://finance.yahoo.com/technology/articles/xiaomi-takes-another-page-apple-191226312.html",
       "thumbnail": "",
       "published_at": "2026-08-24T19:12:26Z"
-    },
-    {
-      "id": "c2c62657-1dc3-37eb-9979-3a4ba8391a0b",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strategy Creates $1.6B Flexible Cash Pool",
-      "summary": "Strategy created a $1.59B cash pool for Bitcoin, buybacks, debt, and preferreds as it builds more flexibility into its capital stack.",
-      "source": "Bankless",
-      "url": "https://www.bankless.com/read/news/strategy-creates-1-6b-flexible-cash-pool",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wC4C7o1hz2aQrGZ2eSjQ6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/3fc3833508176f9d0a363fc69af52565",
-      "published_at": "2026-08-24T18:50:55Z"
-    },
-    {
-      "id": "df071f15-6e91-3a97-944b-4b3edf4399b5",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla stops selling solar roofs a decade after launch",
-      "summary": "Aug 24 (Reuters) - Tesla has stopped selling premium solar roof tiles on its website, nearly a decade after CEO Elon Musk launched the product as a more attractive alternative to panels.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/tesla-stops-selling-solar-roofs-185040445.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/61QRHK.acciariQVvd_DHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/ef130ac147f611eb4cb9537cca327515.jpg",
-      "published_at": "2026-08-24T18:50:40Z"
-    },
-    {
-      "id": "d18c992f-8d90-389f-bfcc-b62cec56af3d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Treasury Yields Edge Higher as Bessent Announces New Iran Sanctions",
-      "summary": "Treasury yields rose despite a drop in oil prices accentuated by the U.S. plan to use economic sanctions against Iran.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-00d7abec?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-24T18:42:00Z"
-    },
-    {
-      "id": "df80dcde-d08c-340b-8a10-774fda635857",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event",
-      "summary": "By Dharna Bafna Aug 24 (Reuters) - Gold prices rose to their highest in more than three months on Monday, as technical buyers piled into a rally driven by the U.S.",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/gold-rally-gains-momentum-ahead-183733263.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VGgDtMeFxaY29Uz.VIBb8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2c173fe159b66c5216cde8c4d56bf1ae.jpg",
-      "published_at": "2026-08-24T18:37:33Z"
-    },
-    {
-      "id": "2c52862f-9efc-308d-9dbb-80884f8d5e88",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Just Took a Blow to Its AI Chip Plans",
-      "summary": "Tesla's AI roadmap is facing another execution test",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
-      "thumbnail": "",
-      "published_at": "2026-08-24T18:31:48Z"
-    },
-    {
-      "id": "ec7b69a5-a558-3f66-8afc-fe4379bbe91d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
-      "summary": "The GPU giant's earnings report could serve as a bellwether for memory companies.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/nvidia-reports-earnings-on-aug-26-here-are-3-other/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wmXiwUAGxyCWxlzbk.sYGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e21e268e21f1162f291a738e156c2be5.png",
-      "published_at": "2026-08-24T18:23:21Z"
-    },
-    {
-      "id": "587605ce-4fe9-3bb2-ac94-fdc31c8e110c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Rises as Investors Flee the AI Spending Arms Race",
-      "summary": "The iPhone maker's restrained infrastructure strategy is becoming an advantage during another technology-sector retreat.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-rises-investors-flee-ai-182239108.html",
-      "thumbnail": "",
-      "published_at": "2026-08-24T18:22:39Z"
-    },
-    {
-      "id": "2e5d3560-edf6-3e44-85a0-7e370ab70bb8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Loses $80,000 as Critics Swarm Treasury's $950 Billion Buyback Plan",
-      "summary": "Bitcoin gave up $80,000 within hours as Citadel, Schiff and other analysts attacked Treasury's buyback funding plan.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-80000-treasury-general-account-buybacks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hqVid7c56ZXMOc8u5br9_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/592a2f29ec2e74abfb039241be65a732.jpg",
-      "published_at": "2026-08-24T18:22:00Z"
-    },
-    {
-      "id": "ba25de9e-be96-32c9-a3cc-16503a67ba78",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Why Tesla (TSLA) Is Up 6.9% After Robotaxi Approvals And 500 Semi Deal News - And What's Next",
-      "summary": "Earlier this month, Einride AB announced plans to deploy 500 Tesla Semis on its Saga AI freight platform over the next 24 months across major U.S. freight corridors, while regulators in Nevada and Texas approved Tesla to operate thousands of Cybercab robotaxis following its recently scheduled September 3 Austin launch event. Together, these moves highlight Tesla’s push to pair autonomous trucking and ride-hailing with its software platforms, potentially deepening recurring revenue...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-6-9-181537600.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eBdiCPanX2gPHLGklaqkQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1.jpg",
-      "published_at": "2026-08-24T18:15:37Z"
     }
   ]
 }
