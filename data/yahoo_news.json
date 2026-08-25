@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-08-25 05:58 UTC",
+  "last_updated": "2026-08-25 06:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "3a594b47-ad10-36d0-a110-19d7ec8cacf7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil extends fall as investors shrug off latest US sanctions on Iran",
+      "summary": "By Jeslyn Lerh SINGAPORE, Aug 25 (Reuters) - Oil prices fell further on Tuesday after settling down more than 2% in the previous session, with investors brushing off the impact of the latest U.S.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-steady-investors-weigh-011547751.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Up.hILXOTTaEaYXMDEfruQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/84c12a89d56700eb9e545c22cf346924.jpg",
+      "published_at": "2026-08-25T06:51:21Z"
+    },
+    {
+      "id": "8515f220-1358-3f54-a803-a76f75d6a6ff",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is The Metals Company a Potential Millionaire-Maker Stock?",
+      "summary": "This company aims to revolutionize the mining industry.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/is-the-metals-company-a-potential-millionaire-make/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a1bMdPIYokE1mNUUaqN6tQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/299a45212b3b3ba6edbe84805b6bb9a7.jpg",
+      "published_at": "2026-08-25T06:35:00Z"
+    },
+    {
+      "id": "4aaf95ec-5c5c-3203-bcc5-2463a85d6642",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
+      "summary": "Expect SpaceX to invest directly in nuclear energy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/prediction-spacexs-power-needs-will-turn-it-into-w/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rllgw_Y8iGUpPFH55tfhIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ef795f99646e9d9942940b9d5067a531.jpg",
+      "published_at": "2026-08-25T06:25:00Z"
+    },
+    {
+      "id": "bb1ea78e-bbef-39b0-83cd-4dbba7e0266c",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Predictive Discovery (ASX:PDI) Approves Name Change And Consolidation, Where Does Fair Value Sit?",
+      "summary": "PDI Gold Limited (ASX:PDI), formerly Predictive Discovery, has received shareholder approval to change its name and proceed with a five-for-one share consolidation, with key effective dates spanning late August and early September 2026. See our latest analysis for Predictive Discovery. The A$0.895 share price and 42.06% 1 month share price return sit alongside a very strong 1 year total shareholder return of 94.57% and a very large 5 year total shareholder return. This suggests momentum has...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/predictive-discovery-asx-pdi-approves-061617772.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ENdePc9lvnRwsh92fSNwfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/590bd73c4f469217441156accbe686a8.jpg",
+      "published_at": "2026-08-25T06:16:17Z"
+    },
+    {
+      "id": "378c19c5-6e2f-3747-9e2b-40e89661067a",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Is Bitmine Immersion Technologies (BMNR) Undervalued As Its Crypto Portfolio Reaches $14.9b?",
+      "summary": "Bitmine Immersion Technologies (BMNR) moved back into focus after disclosing a crypto and moonshot portfolio valued at US$14.9b, alongside fresh Ethereum purchases that bring its holdings close to 5% of ETH supply. See our latest analysis for Bitmine Immersion Technologies. The latest Ethereum buying and the disclosed US$14.9b crypto and moonshot portfolio have coincided with a sharp short term rebound for Bitmine Immersion Technologies, with a 30 day share price return of 52.88%. However,...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-undervalued-061556642.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1HHAomrGBcFOFymg0gl_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/98479ef7e2a2339ba3575f02b13c7750.jpg",
+      "published_at": "2026-08-25T06:15:56Z"
+    },
+    {
+      "id": "88dd24da-723e-3987-842e-9735b5203b1e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "summary": "U.S. stock futures are edging higher early Tuesday as investors prepare for critical tech earnings and weigh new U.S. sanctions against Iran alongside incoming housing and consumer data. The Polymarket (CRYPTO: POL) crowd is leaning bullish for the Aug. 25...",
+      "source": "Benzinga Prediction Markets",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61400464/stock-market-will-sp-500-open-up-or-down-today-23?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t19Tl5uOMBnio8rKfIY9qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/f7e54ac21e003bc83d156ac9c9b83394.jpg",
+      "published_at": "2026-08-25T06:10:55Z"
+    },
+    {
+      "id": "d0ab847d-421b-355c-b0d3-8cfbf8be716d",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices",
+      "summary": "The company more than doubled its interim dividend and said it would return an additional $500 million to shareholders over the year.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/gold-fields-returns-more-cash-to-shareholders-as-earnings-jump-on-higher-prices-d164eb2e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u.FPQJmELQmch1mflQM5BQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d1b035a2858c359d9c648601ebb00dbd.jpg",
+      "published_at": "2026-08-25T06:04:00Z"
+    },
+    {
+      "id": "610af321-3a03-3ce6-baca-b09431b7caa3",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "TRM Labs Traces $16.8 Million Across 30 Sanctioned Iran-Linked Crypto Wallets",
+      "summary": "TRM Labs traced $16.8 million across 30 sanctioned Mabna Institute crypto wallets, with 92% held by one defendant.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/trm-labs-iran-crypto-addresses-sanctions/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.TeT3brC6NItu8lenyLPGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/864a1763b228d6c2d2e715687be81cff.png",
+      "published_at": "2026-08-25T06:02:21Z"
+    },
+    {
+      "id": "f4099764-1bc7-3364-800c-d24803ed7f86",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strive Buys More Bitcoin While Sitting on a $292 Million Paper Loss",
+      "summary": "Strive added 1,110 Bitcoin for $81.5 million as its reserve sits 14.66% underwater with a $292 million paper loss.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/strive-bitcoin-purchase-paper-loss/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UDDCvoFMZTFUEwCid6yWOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1806c0da2a5a78790467470de854956a.jpg",
+      "published_at": "2026-08-25T05:36:46Z"
+    },
     {
       "id": "45b96b10-0be1-3580-9a93-c9ab18666bc8",
       "asset": "NVDA",
@@ -48,6 +147,17 @@
       "published_at": "2026-08-25T05:19:14Z"
     },
     {
+      "id": "8257d101-d8c9-3948-b965-ce4221a43b14",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Hits More Than Three-Month High",
+      "summary": "Bitcoin hit $80,000, reversing months of subdued valuations as fresh investor interest in the so-called debasement trade brought growing support for the cryptocurrency as a dollar hedge.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bu9Pcdu5cNzxjjMhs1trpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/3c330769d466bcdf4b28005dc9ce1cf0.jpg",
+      "published_at": "2026-08-25T05:12:00Z"
+    },
+    {
       "id": "d716cf7a-8987-3723-a457-856d2cb83973",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -70,28 +180,6 @@
       "published_at": "2026-08-25T05:05:00Z"
     },
     {
-      "id": "2c65992b-e5f4-32d3-b170-984dc8704d02",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
-      "summary": "Options traders are pricing in a $280 billion swing in Nvidia's market value after the company reports second-quarter earnings on Wednesday afternoon, as investors seek fresh insight into the demand driving the technology sector.  The ‌chipmaker's options are pricing in a 5.4% move in either direction on Thursday, a day after the company reports results, ‌which is below the 6.5% move implied ahead of its May earnings report.  The implied move translates to about $280 billion in market capitalization — more than the individual market value of ​about 90% of S&P 500 constituents.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/options/articles/nvidia-shares-set-280-billion-050140314.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_ysD59bSoUUny2jqqpLLvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/7973e17ad6cba2b62864d95d642afbdb.jpg",
-      "published_at": "2026-08-25T05:01:40Z"
-    },
-    {
-      "id": "88c27960-37ed-3937-8604-e6aa6d0924bd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
-      "summary": "Aug 25 (Reuters) - A look at the day ahead in European and global markets from Rae Wee It's been a muted start to the session in Asia on Tuesday, with stocks drifting ahead of Nvidia's earnings this",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/morning-bid-waiting-nvidia-next-044130117.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MC76l5DXn3MXdUlWrpPjOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9c97b69e0106b785cf47d116f9c9a333.jpg",
-      "published_at": "2026-08-25T04:41:30Z"
-    },
-    {
       "id": "198ac3f1-e386-3349-b3ac-5f24fe221f80",
       "asset": "ETH",
       "asset_name": "Ethereum",
@@ -103,17 +191,6 @@
       "published_at": "2026-08-25T04:34:43Z"
     },
     {
-      "id": "1cb61524-1302-302c-a1de-21bd242be913",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
-      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) has finally landed the kind of AI customers investors spent years waiting for. OpenAI and Meta have committed to massive deployments of AMD Instinct GPUs, helping validate the company as the clearest large-scale alternative to Nvidia Corporation (NASDAQ:NVDA). But Morgan Stanley thinks one less-discussed part of those deals makes the […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RLcDbhxLjedyjWhmy6fkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1e85b81aa18457637c55df2e7f588803.jpg",
-      "published_at": "2026-08-25T04:33:10Z"
-    },
-    {
       "id": "55f3d91f-1255-3ad9-bbd2-0772e10a63de",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -123,17 +200,6 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1097530/novo-resources-maps-a-discovery-led-path-through-strong-gold-and-copper-markets-1097530.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oBx0W.egPCEIQCJNTtVazg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/0b9ee1f7b3f2709bb99a24668068197d.jpg",
       "published_at": "2026-08-25T04:29:00Z"
-    },
-    {
-      "id": "3a594b47-ad10-36d0-a110-19d7ec8cacf7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
-      "summary": "By Ishaan Arora and Jeslyn Lerh SINGAPORE, Aug 25 (Reuters) - Oil prices recovered ground on Tuesday after settling down more than 2% in the previous session, with investors assessing the impact of",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-steady-investors-weigh-011547751.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KWyvsprpf3YBKX40MbwRfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/9eb3acb3a1ca3679defb2130a2bd0ead.jpg",
-      "published_at": "2026-08-25T04:21:48Z"
     },
     {
       "id": "548c3ae7-466f-3bcb-86a0-434629394336",
@@ -224,17 +290,6 @@
       "published_at": "2026-08-25T02:35:30Z"
     },
     {
-      "id": "687f101d-6503-361a-82bf-e43affad1eb5",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Rides Debasement Trade to Three-Month High Above $80,000",
-      "summary": "Bitcoin climbed to $80,000 for the first time since mid-May, as optimism returns to the long-beaten-down crypto market amid a confluence of bullish signals that forced the liquidation of billions in leveraged bets.",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rides-debasement-trade-three-022006621.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hqoGpXhqjT2_KLaCuX69hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/5395a14168e5b03473161a300fe48115.jpg",
-      "published_at": "2026-08-25T02:20:06Z"
-    },
-    {
       "id": "4e9975a5-f663-320e-9e40-48630e42c654",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -246,17 +301,6 @@
       "published_at": "2026-08-25T01:41:01Z"
     },
     {
-      "id": "4d54e54e-1365-3278-aa97-b35d600db405",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Webull Sees Bitcoin, ETH Buy Orders Jump Nearly 300% After Rule Repeal",
-      "summary": "Webull CEO Anthony Denier says Bitcoin and ETH buy orders jumped nearly 300% after a US day-trading rule repeal.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/webull-bitcoin-eth-orders-surge/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pX0DDdcWP6c1VFNdF0psaA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/59d0f1689a58fcc0ed02a0efddd4e00e.jpg",
-      "published_at": "2026-08-25T01:29:00Z"
-    },
-    {
       "id": "404cd573-24a1-39aa-a81a-2b910746a7e2",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -266,50 +310,6 @@
       "url": "https://finance.yahoo.com/markets/commodities/articles/impact-silver-corp-isvlf-q2-010220554.html",
       "thumbnail": "",
       "published_at": "2026-08-25T01:02:20Z"
-    },
-    {
-      "id": "d8fb3c3e-1575-3cef-b58e-30c17815ffba",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Frank Holmes explains why HIVE beat hyperscalers for its largest AI deal on record",
-      "summary": "HIVE’s Frank Holmes explains why an investment-grade enterprise picked a Bitcoin miner for its dedicated GPU cluster, and why credit markets are suddenly financing the pivot.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/frank-holmes-explains-why-hive-beat-hyperscalers-for-its-largest-ai-deal-on-record-",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oL7RxS0wxl_HQ4uUn4TN.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/c8c5b664792cc6655988d5518f9fae36.jpg",
-      "published_at": "2026-08-25T00:58:33Z"
-    },
-    {
-      "id": "121aa013-1a30-3b50-a6cd-e338b745afbb",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Alibaba’s $10.2 billion AI bet could reach far beyond investors",
-      "summary": "Alibaba’s AI ambitions just got a lot more serious",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/alibaba-10-billion-ai-bet-could-reach-far-beyond-investors",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NRGOF28gAxJ.K8ssV6yKlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/019a3262b5ae0fde57e1127d0fdb95cb.jpg",
-      "published_at": "2026-08-25T00:03:00Z"
-    },
-    {
-      "id": "8aec5fef-f483-3694-b340-4da3c4e11df7",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Small Cap Watch: RIU Resources Investor Roadshow puts resource companies in the spotlight",
-      "summary": "The Australian small-cap market strengthened on Monday, with the S&P/ASX Small Ordinaries (XSO) closing at 3,567.00, up 16.50 points or 0.46% for the session. The index has now gained 46.50 points or 1.32% over the past five trading days, maintaining positive momentum as investors...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097514/small-cap-watch-riu-resources-investor-roadshow-puts-resource-companies-in-the-spotlight-1097514.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VAiV_uOUefjjcBFRHGBeVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/532940c5a3891c1941366e7767ffb2e4.jpg",
-      "published_at": "2026-08-24T23:49:00Z"
-    },
-    {
-      "id": "df4ff60d-f626-3ccc-b45f-66db8ed777d8",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Horizon Gold expands Gum Creek mineralisation with strong drilling across three prospects",
-      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF) has returned a series of strong gold intercepts from reverse circulation (RC) drilling at its 100%-owned Gum Creek Gold Project in Western Australia, extending mineralisation at Howards, Heron South and Melbourne Bitter and strengthening the potential for...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097515/horizon-gold-expands-gum-creek-mineralisation-with-strong-drilling-across-three-prospects-1097515.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.vrJcytXc5oErb.h00Fi7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/25cf8690b3cc6e1af389fabdd52272b6.jpg",
-      "published_at": "2026-08-24T23:39:00Z"
     }
   ]
 }
