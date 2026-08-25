@@ -1,62 +1,161 @@
 {
-  "last_updated": "2026-08-25 08:37 UTC",
+  "last_updated": "2026-08-25 09:31 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "f4894c6c-cff7-356d-9886-2e9cd6b7a1a6",
+      "id": "ca0e40d4-c1ba-3c0c-9712-6a2575ae2235",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "European shares climb on softer-than-feared Iran sanctions, defence gains",
+      "summary": "By Tharuniyaa Lakshmi Aug 25 (Reuters) - European shares edged higher on Tuesday as investors took comfort in a softer-than-feared U.S. sanctions package against Iran, while gains in defence stocks",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-climb-iran-sanctions-073245293.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BzRWD5o7KKhuM14HqbwmaQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/2c164954fe2da3416d01b6645e0ff643.jpg",
+      "published_at": "2026-08-25T09:23:39Z"
+    },
+    {
+      "id": "45b96b10-0be1-3580-9a93-c9ab18666bc8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Investors shrug off US sanctions plan for Iran, bitcoin powers on",
+      "summary": "By Marc Jones and Rae Wee LONDON/SINGAPORE, Aug 25 (Reuters) - Global share and bond markets regained a sense of calm on Tuesday as investors shrugged off U.S. plans to expand sanctions against Iran",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/articles/asia-shares-fall-tech-nerves-012957160.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bU0SQZKmzJGogldCgdBStw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/c68ce038d7d484a8486338327a0bc586.jpg",
+      "published_at": "2026-08-25T09:16:30Z"
+    },
+    {
+      "id": "ba165dad-eb9e-4685-a9ed-921b7dd40655",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin has just wiped out three months of losses in 1 week",
+      "summary": "The bitcoin rally continues.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B38ze8h_Y48Gv7QbEOaP0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-07/6b61c590-ed48-11eb-8fb5-7700c383fa70",
+      "published_at": "2026-08-25T09:12:08Z"
+    },
+    {
+      "id": "225cfa49-b27f-3045-9743-0cb2e166fbf6",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Historically Speaking, the Stock Market Has Arguably Never Been Less Attractive Than It Is Now",
-      "summary": "Although history conclusively favors long-term optimists, the short-term outlook for equities is downright ugly.",
+      "title": "Prediction: Marvell Technology Stock Could Go Parabolic After Its Next Custom Chip Deal. Here's Why.",
+      "summary": "Marvell is already riding the AI infrastructure wave. Now, a major hyperscaler deal could be the catalyst that sends the stock on its next parabolic run.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/history-stock-market-never-been-less-attractive/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MSnCLKHzWGk5Zvic_RZ2zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e1d227b218bade2a814982e1978da88b.jpg",
-      "published_at": "2026-08-25T08:26:00Z"
+      "url": "https://www.fool.com/investing/2026/08/25/predict-marvell-technology-stock-custom-chip-deal/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IXR0hkkJTHY6nnjY1w8NUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c4582bef98c7858f851f0ac6203c7d52.jpg",
+      "published_at": "2026-08-25T09:09:00Z"
+    },
+    {
+      "id": "8ee98a15-4c32-32e0-a84f-1bdb50bbc33f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Stock Is a Screaming Buy Before Aug. 26, According to Wall Street",
+      "summary": "Most Wall Street analysts think Nvidia stock is deeply undervalued ahead of its financial report on Aug. 26.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/nvidia-stock-buy-before-aug-26-wall-street/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RQSDy6vgjhbrKNkntoQ7Pw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/21e0387864fa9727412b27112bb776f0.png",
+      "published_at": "2026-08-25T09:08:00Z"
+    },
+    {
+      "id": "4e0a0e15-123c-307c-aa45-bbfc084db43a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The Zacks Analyst Blog Highlights Nvidia's, Valero, Lumentum and Monolithic Power",
+      "summary": "Nvidia's results, inflation data and central-bank decisions set up a pivotal week as markets weigh AI demand, rates and bond-market jitters.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidias-090500754.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qz5V5JJzIoCtecd3fkFq2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b40efcbfab527ad36d9e9706df6ddabb.jpg",
+      "published_at": "2026-08-25T09:05:00Z"
+    },
+    {
+      "id": "3f2eb952-6cc4-3483-b4fd-e3ae8d246fa0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Stanley Druckenmiller Continues to Load Up on Revolution Medicines. Does He Know Something Wall Street Doesn't?",
+      "summary": "One of the most successful investors ever really likes this up-and-coming biotech stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/billionaire-stanley-druckenmiller-continues-to-loa/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F2X_ELHux.5xxBKrK4KYPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9edfe3a588a50ba8be4ab746837f382a.jpg",
+      "published_at": "2026-08-25T09:04:00Z"
+    },
+    {
+      "id": "8f36c6ad-bf26-4390-9316-7899c7e8d19f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "In US-Canada trade spat, Washington left out a key lever: Canadian oil",
+      "summary": "The newly announced US tariffs on Canadian goods leave out a crucial product: Crude oil.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/article/in-us-canada-trade-spat-washington-left-out-a-key-lever-canadian-oil-090000999.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JkGD89V732hDb3ArzaF8Kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-08/041e2799-558f-4e0b-85a3-a545bac8b419",
+      "published_at": "2026-08-25T09:00:00Z"
+    },
+    {
+      "id": "e167d312-b8c3-32c7-b6fd-e2008052f399",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Aug. 26 Is a Big Day for the Stock Market",
+      "summary": "The largest company in the stock market is set to report earnings.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/why-aug-26-is-a-big-day-for-the-stock-market/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DBDfqKhG6_khz7XSlBktFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f133fc8b9c0b90751d1d14e90528ad00.jpg",
+      "published_at": "2026-08-25T08:50:00Z"
+    },
+    {
+      "id": "3a594b47-ad10-36d0-a110-19d7ec8cacf7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil hits one-week low as investors shrug off latest US sanctions on Iran",
+      "summary": "By Anushree Mukherjee Aug 25 (Reuters) - Oil prices fell to a one-week low on Tuesday as traders shrugged off the latest U.S. sanctions threat against Iran, viewing economic pressure as posing less",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-steady-investors-weigh-011547751.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ijhal_lgCmWGGmW7Fr_K_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/c3488bb2883fb54d4deb164df13e2da2.jpg",
+      "published_at": "2026-08-25T08:43:30Z"
+    },
+    {
+      "id": "5c5d95ed-0aab-38cd-8db2-0dd9f65a4de8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? NVDA, TSLA, BE, GRRR, NVTS, NBIS, SLS, MSTR Stocks In Focus",
+      "summary": "Retail sentiment on Stocktwits remained ‘bearish’ on SPY and QQQ.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-rising-premarket-nvda-tsla-be-grrr-nvts-sls-mstr-stocks-in-focus/cZYkKP9RJ8g",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NUsDA0gCdrxJBQISs5D4hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/510ee7e7eb25261d154e0e2cbfa0fceb",
+      "published_at": "2026-08-25T08:34:25Z"
+    },
+    {
+      "id": "fccb97e6-de90-343a-adb9-a87a3bbb251b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
+      "summary": "Japan expects September crude imports to fall to about 80% of normal as Red Sea disruptions lengthen tanker voyages, but says existing reserves and alternative supplies can cover the gap.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/japan-holds-off-oil-release-083000275.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pfcv2r6phRHPPykKtg6jxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/1e303032708ca384bfc2444fc037fb76.jpg",
+      "published_at": "2026-08-25T08:30:00Z"
+    },
+    {
+      "id": "2f72caff-abda-3a26-ba38-07ea0596166f",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Silver Bow Mining to acquire metallurgical complex in Montana, US",
+      "summary": "The agreement includes two mineral processing circuits, infrastructure and the Montana Tunnels M-Pit in Jefferson County.",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com/news/silver-bow-mining-acquire-metallurgical-complex-montana/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1vtkjMn_6fzUQa_AIkfelQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mining_technology_700/a76058daa2b998b5fe85ecc01cb515fa.jpg",
+      "published_at": "2026-08-25T08:23:05Z"
     },
     {
       "id": "a2cbe971-1d32-3243-baf3-c1a2a0323866",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Stocks rise and oil slips as traders eye Iran threat, Nvidia results",
       "summary": "Stocks rose and oil dipped on Tuesday as investors assessed a US plan for the \"economic asphyxiation\" of Iran, while tech firms struggled following another down day on Wall Street and ahead of earnings from chip titan Nvidia.Investors are looking ahead to the much-anticipated release of earnings from Nvidia, which has become a bellwether for the AI boom.",
       "source": "AFP",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-stagger-oil-rises-traders-024603014.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fpUbHmhBuWTwQC5bJV8igQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/a0cf4b27760509c13d43cb64d308c2aa.jpg",
       "published_at": "2026-08-25T08:22:54Z"
-    },
-    {
-      "id": "ac9a2c9c-1670-33f8-a097-aa892423eb73",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Zacks Investment Ideas feature highlights: Nvidia",
-      "summary": "Nvidia have been highlighted in this Investment Ideas article.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-081500283.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qz5V5JJzIoCtecd3fkFq2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b40efcbfab527ad36d9e9706df6ddabb.jpg",
-      "published_at": "2026-08-25T08:15:00Z"
-    },
-    {
-      "id": "fed5026e-6ed2-3ffb-846e-e6833d9dcbf6",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What $1,088 Invested in SpaceX Could Be Worth by 2030",
-      "summary": "You could lose hundreds of dollars ... or make thousands.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/what-1088-invested-in-spacex-could-be-worth-2030/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Il7jlshAlF7GJwM26l.PpA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e496940094cc4723bcfcebe787bd115c.jpg",
-      "published_at": "2026-08-25T08:15:00Z"
-    },
-    {
-      "id": "b3a7f952-bae8-3c6f-afb0-cbea6919c8a2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NVDA Stock In For ‘Very, Very Fast’ Rally: Analysts Shrug Off Price-Hike Buzz Ahead Of Most-Watched Earnings Report",
-      "summary": "Traders are watching $195 support and $235.74 resistance after Nvidia fell following five of its past six earnings reports.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-rally-analysts-shrug-off-price-hike-most-watched-earnings/cZYk0mnRJ89",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ifn2WEMZA9XFbdJpcc0FFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/9959f21c55738311a4b257daa12146b5",
-      "published_at": "2026-08-25T08:14:01Z"
     },
     {
       "id": "5f4d786e-9138-3fd8-a9fd-1c638e584cd1",
@@ -71,8 +170,8 @@
     },
     {
       "id": "e4a4c946-50d6-4fc8-9e41-26b86b279a24",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
       "summary": "Investors weighed new trade measures against Canada and Iran, looming Nvidia earnings, and predictions for Kevin Warsh's first Jackson Hole speech as Fed chair.",
       "source": "Yahoo Finance",
@@ -82,25 +181,14 @@
     },
     {
       "id": "75897b46-0bc0-316e-bd90-9614b3a19192",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia’s Historic Quarter",
       "summary": "Nvidia's upcoming earnings report is likely to give TSMC stock a nice shot in the arm.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jlJtgd_xBUbT7PHo1Z0fxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0191e2e14ad1d4539e1a7271f211f939.jpg",
       "published_at": "2026-08-25T07:43:01Z"
-    },
-    {
-      "id": "ca0e40d4-c1ba-3c0c-9712-6a2575ae2235",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "European shares climb on Iran sanctions relief, defence gains",
-      "summary": "Aug 25 (Reuters) - European shares edged higher on Tuesday as investors took comfort in a softer-than-feared U.S. sanctions package against Iran, while gains in defence stocks boosted sentiment.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-climb-iran-sanctions-073245293.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jNKxEXQ1UYLZ_L52xyLi8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/488ea99fb91fb7f9b3c45be783cfcbdc.jpg",
-      "published_at": "2026-08-25T07:32:45Z"
     },
     {
       "id": "1df68b58-6488-3459-ba49-0e9e74916a07",
@@ -180,17 +268,6 @@
       "published_at": "2026-08-25T06:52:06Z"
     },
     {
-      "id": "3a594b47-ad10-36d0-a110-19d7ec8cacf7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil extends fall as investors shrug off latest US sanctions on Iran",
-      "summary": "By Jeslyn Lerh SINGAPORE, Aug 25 (Reuters) - Oil prices fell further on Tuesday after settling down more than 2% in the previous session, with investors brushing off the impact of the latest U.S.",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-steady-investors-weigh-011547751.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Up.hILXOTTaEaYXMDEfruQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/84c12a89d56700eb9e545c22cf346924.jpg",
-      "published_at": "2026-08-25T06:51:21Z"
-    },
-    {
       "id": "bb1ea78e-bbef-39b0-83cd-4dbba7e0266c",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -233,83 +310,6 @@
       "url": "https://beincrypto.com/trm-labs-iran-crypto-addresses-sanctions/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.TeT3brC6NItu8lenyLPGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/864a1763b228d6c2d2e715687be81cff.png",
       "published_at": "2026-08-25T06:02:21Z"
-    },
-    {
-      "id": "f4099764-1bc7-3364-800c-d24803ed7f86",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strive Buys More Bitcoin While Sitting on a $292 Million Paper Loss",
-      "summary": "Strive added 1,110 Bitcoin for $81.5 million as its reserve sits 14.66% underwater with a $292 million paper loss.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/strive-bitcoin-purchase-paper-loss/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UDDCvoFMZTFUEwCid6yWOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/1806c0da2a5a78790467470de854956a.jpg",
-      "published_at": "2026-08-25T05:36:46Z"
-    },
-    {
-      "id": "45b96b10-0be1-3580-9a93-c9ab18666bc8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Shares drift ahead of Nvidia earnings; oil wobbles",
-      "summary": "By Rae Wee SINGAPORE, Aug 25 (Reuters) - Asia shares were rangebound on Tuesday while oil prices held to losses, after threats from the U.S. for an \"economic D-Day\" of sanctions on Iran turned out to",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/articles/asia-shares-fall-tech-nerves-012957160.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Kb3wNC9x.Bv4AuekXpMHtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/028eb1b148a61e378793d3ed9a17115f.jpg",
-      "published_at": "2026-08-25T05:29:44Z"
-    },
-    {
-      "id": "691fd8d9-3ed4-381a-ba4b-0eb75df5cb4d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Asian shares mostly gain and oil prices hold steady as the US raises pressure on Iran",
-      "summary": "Asian shares were mostly higher Tuesday after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week.  U.S. futures edged higher.  Oil prices fell back after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Islamic Republic would face retaliation.",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-052631381.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9doAhJwV98eeEzjDrR.0sQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/dda33323713069929bb006b71996e53d.jpg",
-      "published_at": "2026-08-25T05:26:31Z"
-    },
-    {
-      "id": "d716cf7a-8987-3723-a457-856d2cb83973",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Six months into Iran war, almost half of global oil flows from war zones",
-      "summary": "By Seher Dareen, Anushree Mukherjee and Robert Harvey LONDON Aug 25 (Reuters) - Almost half the world's oil comes from countries affected by conflict in 2026, Reuters calculations show, underscoring",
-      "source": "Reuters",
-      "url": "https://uk.finance.yahoo.com/news/six-months-iran-war-almost-050842411.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.HtsWmK_YxCMvI5RZpn.vA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3323edb5e7d1bd32ae9f0f056129a8b7.jpg",
-      "published_at": "2026-08-25T05:08:42Z"
-    },
-    {
-      "id": "198ac3f1-e386-3349-b3ac-5f24fe221f80",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Cosmos Labs Confirms Cosmos EVM Incident as 3 Chains Disclose Impact",
-      "summary": "Cosmos Labs urges Cosmos EVM chains to halt. KiiChain reports 148M KII drained, TAC freezes, MANTRA restarts on v8.4.0.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/cosmos-evm-security-incident-kiichain-tac-mantra/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6zyU_bWrRw72h9hLZg.jqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/0edc739ac17d2908b731297a99b99006.png",
-      "published_at": "2026-08-25T04:34:43Z"
-    },
-    {
-      "id": "55f3d91f-1255-3ad9-bbd2-0772e10a63de",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Novo Resources maps a discovery-led path through strong gold and copper markets",
-      "summary": "Gold and copper enter the second half of 2026 with different near-term balances but shared strategic importance. The London Metal Exchange’s official copper cash price stood at about US$14,168 a tonne on 24 August, after the International Energy Agency said prices reached record highs earlier in...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097530/novo-resources-maps-a-discovery-led-path-through-strong-gold-and-copper-markets-1097530.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oBx0W.egPCEIQCJNTtVazg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/0b9ee1f7b3f2709bb99a24668068197d.jpg",
-      "published_at": "2026-08-25T04:29:00Z"
-    },
-    {
-      "id": "7ce51fd3-94d5-3895-8f2a-93ae03089b9a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
-      "summary": "President Donald Trump bought up to $50,000 in Space Exploration Technologies Corp (NASDAQ:SPCX) shares shortly after the Elon Musk-led company’s record IPO. Trump Bought SpaceX Shares After Record IPO Trump purchased between $15,001 and $50,000 worth of SpaceX shares on June 23, according to a financial disclosure signed Aug. 12 and released Saturday. The transaction was among more than 1,000 stock trades made by Trump in June. It also included sizable investments in Berkshire Hathaway (NYSE:BR",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PwzGyB9gIoDt54oTBT8oqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/ca47b912464d32d8d809dd45ed685446.jpg",
-      "published_at": "2026-08-25T03:35:07Z"
     }
   ]
 }
