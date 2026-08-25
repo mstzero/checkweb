@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-08-25 22:54 UTC",
+  "last_updated": "2026-08-25 23:21 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "18e226ba-feea-3d3c-8ae1-767075b09428",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "X's Nikita reveals 2 major assets in his portfolio",
+      "summary": "X’s former product head Nikita Bier names Bitcoin his top holding, teases timeline trade buttons, and credits the rally to the Treasury, not X.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/xs-ex-product-head-reveals-whats-in-his-portfolio",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7LJXX2VajllY0yHHX8fUmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/cba878ea58f8965bbca6a345674ce099.jpg",
+      "published_at": "2026-08-25T23:00:00Z"
+    },
     {
       "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
       "asset": "NVDA",
@@ -114,6 +125,17 @@
       "published_at": "2026-08-25T22:08:00Z"
     },
     {
+      "id": "ae2cc6ef-e83b-3d9f-8718-6c82059ff535",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Ro Khanna Urges AI CEOs to Follow Pope Leo XIV’s Warning: AI Must Not 'Diminishes Humanity' and Should Serve the Common Good",
+      "summary": "Rep. Ro Khanna (D-Calif.) is urging AI executives to embrace Pope Leo XIV‘s human-centered approach to artificial intelligence after meeting with the pontiff and discussing his Magnifica Humanitas encyclical. Khanna Cites Pope Leo’s AI Ethics Vision On Saturday, Khanna said...",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/news/politics/articles/ro-khanna-urges-ai-ceos-220106165.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uKV3hz5RMIum7JHY0brAXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/10e014e439a2ba07d2e8b9aa2cc039fb.jpg",
+      "published_at": "2026-08-25T22:01:06Z"
+    },
+    {
       "id": "74cadef0-602f-3b6e-9874-16f93d243833",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -167,6 +189,17 @@
       "url": "https://finance.yahoo.com/markets/commodities/articles/trading-day-oil-yields-slide-212425569.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d.eRy8lkXDhpSJlT_6GXkQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/e85aa95f69d803d5e5861f17d04085ab.jpg",
       "published_at": "2026-08-25T21:24:25Z"
+    },
+    {
+      "id": "816a4a2a-f278-3f13-ac3f-a8f0d743f8b4",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AI Trade at Risk From US Voter Ire Over Buildout, Barclays Says",
+      "summary": "The relentless buildout of artificial intelligence infrastructure is drawing bipartisan backlash, which could introduce political risk to the market’s beloved trade ahead of the US midterm election.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-trade-risk-us-voter-212412748.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ge_NrxZE6NUdeb0BKwWk.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/5c9a77421c8a57dfb0eab4a2b786e58f.jpg",
+      "published_at": "2026-08-25T21:24:12Z"
     },
     {
       "id": "7a5a23b9-2996-3e95-a5b5-941c4c359d4f",
@@ -277,39 +310,6 @@
       "url": "https://www.thestreet.com/crypto/markets/bitcoin-just-had-its-best-august-since-2017-here-is-what-history-says-comes-next",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CSbtMgX9NQimZBjlUzM8tA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/66266b1775edbd8526b18194ee21ec3c.jpg",
       "published_at": "2026-08-25T20:47:00Z"
-    },
-    {
-      "id": "de79ffd0-f04e-3c28-992c-6801c26cfde3",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Market Today: Nasdaq Leads As Key Inflation Report Looms; Nvidia, Micron Gain",
-      "summary": "Stock Market Today: The Dow Jones index rises Tuesday as Treasury yields and oil prices drop. Nvidia, Micron and Sandisk rebound.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D4tecyapiW5G2dveV05P9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328.jpg",
-      "published_at": "2026-08-25T20:46:04Z"
-    },
-    {
-      "id": "fa6a6605-55a9-316c-b831-df4a7051ee48",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "The Real Engine That Could Power Tesla Stock Higher",
-      "summary": "Forget the humanoid robots for a minute; the most potent catalyst for the stock may already be hitting the streets, and it's growing exponentially.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/612780/the-real-engine-that-could-power-tesla-stock-higher/2026-08-25",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/71N1F_Np73MMxCMPQ3z2Xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/4b517f930067a7f0b046fc2c77b6534b.png",
-      "published_at": "2026-08-25T20:41:10Z"
-    },
-    {
-      "id": "10cef14b-c9ac-372c-871f-4679bc176777",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Reddit (RDDT) Stock Is Up, What You Need To Know",
-      "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 4.9% in the afternoon session after The Information reported that Meta Platforms is preparing to launch a consumer AI agent named Hatch that is trained to access and browse the social discussion platform. According to coverage of the upcoming launch, Hatch will allow users to navigate Reddit, order from DoorDash, shop on Etsy, check Yelp, and manage Microsoft Outlook directly inside Meta’s ecosystem. Meta plans to launc",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-stock-know-202244215.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aHz.xt4TJmNT9O.xmHo.tg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/68ccf4f579eeef4dd3421cd9343df8c8.jpg",
-      "published_at": "2026-08-25T20:22:44Z"
     }
   ]
 }
