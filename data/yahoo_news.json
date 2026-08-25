@@ -1,18 +1,161 @@
 {
-  "last_updated": "2026-08-25 19:27 UTC",
+  "last_updated": "2026-08-25 19:56 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "6873ba35-cfcd-3ff2-b13a-999ea9244b98",
+      "id": "04a71fbc-4093-3017-ad30-11594f50aca8",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Nvidia Stock Could Swing 6% After Q2 Earnings",
-      "summary": "Nvidia Options Market Reprices Ahead of Earnings: $230 Call Takes Center Stage",
+      "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+      "summary": "The market rotation may be healthier than it first appears.",
       "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-could-swing-6-192524688.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html",
       "thumbnail": "",
-      "published_at": "2026-08-25T19:25:24Z"
+      "published_at": "2026-08-25T19:53:21Z"
+    },
+    {
+      "id": "12b1fb10-60c3-3d57-bfc2-cdffe72217bf",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Merck Just Gained 19% in a Month. What Would It Take to Get MRK Stock Up to $200?",
+      "summary": "The setup around Merck (NYSE:MRK) shares heading into September is unusual for a mega-cap pharma. Wall Street’s consensus target sits below the current stock price, meaning analysts would have to raise their numbers for $200 to come into view. There’s a lot to consider in the near future: a dense stretch of FDA decision deadlines, ... Merck Just Gained 19% in a Month. What Would It Take to Get MRK Stock Up to $200?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/25/merck-just-gained-19-in-a-month-what-would-it-take-to-get-mrk-stock-up-to-200/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v2QJKDsbdJOck6Y0367KrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1e4ed2ece150db2c4c9803f05413721c.jpg",
+      "published_at": "2026-08-25T19:51:36Z"
+    },
+    {
+      "id": "72f5f06e-631b-3cef-985f-4447e715804f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Exxon Falls as Oil Erases the Iran Premium",
+      "summary": "The market is treating fresh sanctions as negotiation pressure rather than an immediate threat to global supply.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-falls-oil-erases-iran-194926639.html",
+      "thumbnail": "",
+      "published_at": "2026-08-25T19:49:26Z"
+    },
+    {
+      "id": "49ce690c-c383-3a8d-9323-63273c47d63d",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Rises as 2.98 Million-Car Recall Tests China",
+      "summary": "The software remedy may contain repair costs, but the recall reaches far beyond one quarter of deliveries.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-2-98-million-194544517.html",
+      "thumbnail": "",
+      "published_at": "2026-08-25T19:45:44Z"
+    },
+    {
+      "id": "1b75525f-97ab-31b9-a62c-c19ea8fc6444",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
+      "summary": "A number of stocks jumped in the morning session after easing selling pressure, lower Treasury yields, and positive momentum from Asian markets boosted investor sentiment ahead of Nvidia's quarterly earnings and key inflation data.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gDR_2sQkkBLjk_4dmkoKJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/d8e71fcf83a5154bb9a363113758de33.jpg",
+      "published_at": "2026-08-25T19:42:44Z"
+    },
+    {
+      "id": "88992de7-5c8f-32ce-b6a1-bd3ea0907e93",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Chevron Falls as Oil Surrenders the Iran Premium",
+      "summary": "Record production protects cash flow, but Tuesday's crude reversal attacks the earnings leverage investors recently rewarded.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-falls-oil-surrenders-iran-194223507.html",
+      "thumbnail": "",
+      "published_at": "2026-08-25T19:42:23Z"
+    },
+    {
+      "id": "8f31b9da-43d4-3559-b063-05c2cc8ca979",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft Just Ripped 28% in a Month. What Would It Take to Get MSFT Stock Up to $600?",
+      "summary": "Azure just crossed a historic revenue milestone, Microsoft's commercial backlog ballooned to a staggering figure, and yet free cash flow dropped sharply. Whether $600 is the next stop or a ceiling depends on what happens inside the next earnings report.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/25/microsoft-just-ripped-28-in-a-month-what-would-it-take-to-get-msft-stock-up-to-600/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JvofV7PMBxwep.XjIksh8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7b293ab448f5dd2af74699c692db6e33.jpg",
+      "published_at": "2026-08-25T19:41:01Z"
+    },
+    {
+      "id": "9e1aa667-7bec-3256-bdba-4354c07aca5a",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft Stalls as $678 Billion Backlog Meets Falling Yields",
+      "summary": "Cheaper financing helps the AI buildout, but Microsoft must convert contracted demand into cash faster than spending expands.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stalls-678-billion-backlog-194052410.html",
+      "thumbnail": "",
+      "published_at": "2026-08-25T19:40:52Z"
+    },
+    {
+      "id": "5f3eb6fa-7c61-3ab9-abe5-89bf05b7c59a",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Update: US Equity Indexes Advance Amid Slumping Treasury Yields, Crude Oil",
+      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-amid-194052810.html",
+      "thumbnail": "",
+      "published_at": "2026-08-25T19:40:52Z"
+    },
+    {
+      "id": "3a594b47-ad10-36d0-a110-19d7ec8cacf7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil settles down more than 3%; investors shrug off US sanctions on Iran",
+      "summary": "By Shariq Khan NEW YORK, Aug 25 (Reuters) - Oil prices settled down more than 3% on Tuesday, at a one-week low as traders shrugged off the latest U.S. sanctions campaign against Iran, viewing economic",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-steady-investors-weigh-011547751.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NGoMU3C91PoF_iljPC9_hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/82b737fe2f61468390ccacfcd59c7fec.jpg",
+      "published_at": "2026-08-25T19:40:40Z"
+    },
+    {
+      "id": "e861059f-3017-31e7-86d5-956b2ce713db",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The best AI stocks to buy now — and one to avoid",
+      "summary": "CFRA Senior Vice President and Equity Analyst Angelo Zino breaks down where he sees opportunity in AI and what could derail the trade.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/video/the-best-ai-stocks-to-buy-now-and-ones-to-avoid",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WDdd39FFUOlB04QKumU6aQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/25517aa292197a8a8251c5ae9c4b0762.jpg",
+      "published_at": "2026-08-25T19:38:27Z"
+    },
+    {
+      "id": "f2361c7f-b51b-334c-b736-b6db13286270",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "2 Stocks That Could Capitalize on the GLP-1 Boom",
+      "summary": "They aren't the most prominent names in the GLP-1 space, but they are worth a second look.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/2-stocks-that-could-capitalize-on-the-glp-1-boom/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ej7AIImMJE6.n0cPztc1SA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/57bfce425397c24ff78ccc32028ae309.png",
+      "published_at": "2026-08-25T19:38:01Z"
+    },
+    {
+      "id": "5dd869fc-2c7d-3f70-8893-b18059b892d0",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Wall Street Just Invented the ‘Neocloud’ ETF. It Owns the Companies Renting AI Compute to Everyone Else",
+      "summary": "A new ETF launched this August targets the companies renting AI compute directly to hyperscalers, offering something QQQ never could: pure-play exposure to contracted infrastructure backlogs worth hundreds of billions. The tradeoffs, however, are not small.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/25/wall-street-just-invented-the-neocloud-etf-it-owns-the-companies-renting-ai-compute-to-everyone-else/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6qAFzJm.XnmDGmiD25vNog--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg",
+      "published_at": "2026-08-25T19:34:17Z"
+    },
+    {
+      "id": "f8a9305b-66eb-30b5-bc8d-f19b7819925a",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Google’s Wins Make Founders Brin And Page $50 Billion Richer",
+      "summary": "While AI was supposed to gut Google's core business and rivals like Meta and Tesla have stumbled badly this year, Alphabet's founders are sitting on a jaw-dropping windfall that tells a very different story.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/25/googles-wins-make-founders-brin-and-page-50-billion-richer/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/izDy_2NBVwnJOat2w.jhIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a0e4f794cf960d604a8fadbf78c9b17f",
+      "published_at": "2026-08-25T19:23:48Z"
     },
     {
       "id": "725add4b-68be-414c-866d-33c2bb7505bf",
@@ -26,26 +169,26 @@
       "published_at": "2026-08-25T19:20:16Z"
     },
     {
-      "id": "85f2e66f-3723-3507-8394-3b898bbf4875",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Is Gemini Space Station Stock Up Today?",
-      "summary": "Gemini Space Station stock jumped 11.5% by Tuesday afternoon after the crypto company signed a letter of intent to route Apex Fintech Solutions' entire brokerage network of crypto event contracts through its platform.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/why-is-xrp-ripple-up/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W0iS4BNNxfUOP4qs1h6bfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c6aa76a1fe704ddab3c4304e7e1ab457.jpg",
-      "published_at": "2026-08-25T19:16:16Z"
+      "id": "6989e3ce-6a45-3e61-80f8-2f5d2fd67d7b",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Goldman Sachs Reiterates Buy Ratings On Coinbase And Robinhood",
+      "summary": "Goldman Sachs (NYSE: $GS) has reiterated buy ratings on the stocks of cryptocurrency exchanges Coinbase Global (NAS...",
+      "source": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/goldman-sachs-reiterates-buy-ratings-on-coinbase-and-robinhood-6533",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/P6NL98hF9TgoofGkk1PkCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/f814d07255fcef392dead1958db5fc7f.jpg",
+      "published_at": "2026-08-25T19:19:00Z"
     },
     {
-      "id": "21cb1032-670d-3fde-a2a3-183c1e666354",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Redditors Are Skeptical of SpaceX’s Orbital Data Centers. Are They Right?",
-      "summary": "Space Exploration Technologies Corp. (NASDAQ:SPCX) wants to put AI compute in orbit, and plenty of Redditors on investment subs think the idea makes little economic sense. The skepticism is intuitive. SpaceX’s Starmind AI1 satellites will use Rubin GPUs and Vera CPUs from NVIDIA Corporation (NASDAQ:NVDA), yet Nvidia Corp. (NASDAQ:NVDA) is now delivering major AI hardware […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/redditors-skeptical-spacex-orbital-data-191140732.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PeE33.jWdpavHnQ3v4WDkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/5c7bfda923c4a8d4af90e4ee6215fd0c.jpg",
-      "published_at": "2026-08-25T19:11:40Z"
+      "id": "a333b91d-05ae-3e99-ab35-d2f74192a3f5",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold’s Best Month Since January Comes Courtesy of Scott Bessent",
+      "summary": "30-year yields are at levels last seen in 2007 and gold rallied through it, because a government intervening in its own bond market is its own kind of signal",
+      "source": "Moby",
+      "url": "https://app.moby.co/home/news/news-golds-best-month-since-january-comes-courtesy-of-scott-bessent?utm_source=yahoo_finance&utm_medium=rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kSL47_mT0Oi3kLn5omYhpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/258dd1519d26f5aeae859606a924cb4e.jpg",
+      "published_at": "2026-08-25T19:17:28Z"
     },
     {
       "id": "1d1e6e21-5a93-3c95-bb28-39a4bd8ef2ce",
@@ -57,17 +200,6 @@
       "url": "https://247wallst.com/personal-finance/2026/08/25/clark-howard-warned-apple-traps-you-in-forever-leases-and-now-three-new-macs-just-landed/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4GZB747X5HIyG7F6Q99XQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e2593d98e3f589aa0ea87e98159179b2.jpg",
       "published_at": "2026-08-25T19:09:55Z"
-    },
-    {
-      "id": "653c92b6-ac18-3259-94fd-c3611de8e7f7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "HIVE Digital Board Member Sells Company Stock",
-      "summary": "A board member at Canadian crypto miner and data centre operator HIVE Digital Technologies (NASDAQ: $HIVE) has sold...",
-      "source": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/hive-digital-board-member-sells-company-stock-6532",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XShvCQACEgHtBvO8Lm0DJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptoprowl_304/3290ad7d6d18b863769c39e036368080.jpg",
-      "published_at": "2026-08-25T19:09:00Z"
     },
     {
       "id": "0393838b-bfd9-3246-be87-4bc4aceb9aed",
@@ -92,20 +224,9 @@
       "published_at": "2026-08-25T19:06:43Z"
     },
     {
-      "id": "00af4a0a-ceed-30e0-bf2b-1705e375e536",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Michael Burry Says This $21 Billion AI Startup Could Crack Nvidia’s Empire",
-      "summary": "Michael Burry has spent much of the AI boom looking for cracks in Nvidia Corporation (NASDAQ:NVDA). Now, the “Big Short” investor thinks he may have found one. Burry recently called Etched, a four-year-old AI chip startup, “serious competition” for Nvidia. The timing makes the warning harder to dismiss. Etched just raised $700 million in a […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-says-21-billion-190332718.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cn3HZJax_DQiPatAXx3G.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/7983b5a07536da3dd3251b8672f652df.jpg",
-      "published_at": "2026-08-25T19:03:32Z"
-    },
-    {
       "id": "de79ffd0-f04e-3c28-992c-6801c26cfde3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Stock Market Today: Nasdaq Paces Advance As Nvidia, Tech Names Climb; Zoom Shares Dragged (Live Coverage)",
       "summary": "Stock Market Today: The Dow Jones index rises Tuesday as Treasury yields and oil prices drop. Nvidia, Micron and Sandisk rebound.",
       "source": "Investor's Business Daily",
@@ -136,28 +257,6 @@
       "published_at": "2026-08-25T18:51:01Z"
     },
     {
-      "id": "3d7c1279-49e0-3643-959a-ceb6fa10427f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks Advance as Effects of Bessent’s ‘D-Day’ Look Contained",
-      "summary": "STOCKS  Markets are in a cheery mood so far today. Stocks are trending higher, while oil prices and bond yields are retreating. Tech stocks are climbing, with the Nasdaq composite leading gains.  The latest twists in U.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/u-s-futures-higher-yields-steady-after-bessent-iran-speech-573e9dd6?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3pL8xLcLf7vTYiuZY__hjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/c818fab7a131168dd36d3cb8644bad87.jpg",
-      "published_at": "2026-08-25T18:50:00Z"
-    },
-    {
-      "id": "839586f3-7151-3dbc-9f95-389c29c79441",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "New return: Another container line is back in the Red Sea",
-      "summary": "Delayed tariffs sparked unexpected summer demand as another global liner made its return to the Red Sea. The post New return: Another container line is back in the Red Sea appeared first on FreightWaves.",
-      "source": "FreightWaves",
-      "url": "https://finance.yahoo.com/economy/policy/articles/return-another-container-line-back-184605073.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kdDb9SAoJ9CqzCpMFoVceQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/freightwaves_373/9be5edaf902aedfbb0d8952ca6bea432.jpg",
-      "published_at": "2026-08-25T18:46:05Z"
-    },
-    {
       "id": "9bc935f3-d33a-338d-8588-b0664d2a6181",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -167,6 +266,17 @@
       "url": "https://www.fool.com/investing/2026/08/25/bitcoins-correlation-with-gold-is-on-the-upswing/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SaoE9fUJ2VY6A4DV3yrgdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/211973f58d463c4b94684fc74ac20ec8.jpg",
       "published_at": "2026-08-25T18:43:00Z"
+    },
+    {
+      "id": "bea25143-fa2d-34b7-8235-692e7b1ed68a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market",
+      "summary": "Stocks were modestly higher Tuesday as Wall Street traded cautiously ahead of Nvidia earnings on Wednesday.  Moderna  gained 13% to $156.92 and was the best-performing stock in the  Wolfe Research upgraded the stock to Peer Perform from Underperform without a price target.  Shares surged nearly 180% to $174.38 on Aug. 19, after a late-stage trial showed a treatment combining Moderna and Merck’s experimental vaccine, intismeran autogene, and  Merck  Keytruda was more effective at preventing skin cancer recurrence than Keytruda alone.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/quz2mgyE5RGWDL_qjCOCaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/0a2aecbe28a52f5aafa36167e7646454.jpg",
+      "published_at": "2026-08-25T18:33:00Z"
     },
     {
       "id": "11c0b3e7-9408-3237-892d-4532b1af7823",
@@ -200,116 +310,6 @@
       "url": "https://www.fool.com/investing/2026/08/25/cathie-wood-keeps-buying-spacex-on-the-way-down-is/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3JbFmUXJZ7yMWDj42qJ1AA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2079869787b5dec29bf39a30d6dba9df.jpg",
       "published_at": "2026-08-25T18:23:52Z"
-    },
-    {
-      "id": "364a09b3-2e2a-3a82-8797-11dd7696c6dd",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Carvana Jumps 5% as Risk Appetite Returns to High-Beta Names; CarMax and Lithia Motors Inch Higher",
-      "summary": "Carvana is leaving CarMax and Lithia Motors in the dust today, but the reason has nothing to do with used cars and everything to do with where traders are parking their risk appetite right now.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/25/carvana-jumps-5-as-risk-appetite-returns-to-high-beta-names-carmax-and-lithia-motors-inch-higher/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v.CUMllI_VG.sKZor9PXCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c3a0ebe34d7a1404c9d2cfa42fdc9f29.jpg",
-      "published_at": "2026-08-25T18:19:17Z"
-    },
-    {
-      "id": "c754389b-42d0-3535-9aca-0fb12de517ce",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Jane Street turns bullish on volatile AI stock",
-      "summary": "Jane Street increased its AI stock stake by more than 500%, making it one of its biggest holdings.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/jane-street-bullish-sandisk-sndk-stock",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nUpzEJzp_2RgOyB04PFuow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/074f49f562bba9bb955af16af1905806.jpg",
-      "published_at": "2026-08-25T18:16:53Z"
-    },
-    {
-      "id": "24528d1d-faa0-35a5-86e0-7a3a879c540d",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Oppenheimer initiates Kodiak AI stock with outperform rating",
-      "summary": "Analyst Colin Rusch sees Kodiak AI as a potential long-term winner in autonomous trucking, a market he projects could exceed $160 billion by 2035",
-      "source": "Quartz",
-      "url": "https://qz.com/oppenheimer-kodiak-ai-stock-outperform-rating-082526",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mnwZrgURfnUGwVe7tbl2Jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/d4439ade63d71208b5dd895864a24376.jpg",
-      "published_at": "2026-08-25T18:14:11Z"
-    },
-    {
-      "id": "06212435-a81a-3bd7-9836-d4084fc49bda",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: Equities Rise Intraday, Oil Falls as Markets Monitor Trade Developments",
-      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/articles/equities-rise-intraday-oil-falls-180131090.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fb0LtwKui2R9tggqdGl7Ew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/0c887a492733aab96ac405a5871f559a.jpg",
-      "published_at": "2026-08-25T18:01:31Z"
-    },
-    {
-      "id": "1e17d424-ebcf-3376-af31-dcfae8767414",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Just Massively Raised Stakes in AI PC Race",
-      "summary": "A small desktop could become a bigger AI growth test",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-just-massively-raised-stakes-175952492.html",
-      "thumbnail": "",
-      "published_at": "2026-08-25T17:59:52Z"
-    },
-    {
-      "id": "9c9e8ecb-c16b-36c1-ba5e-16b877303a42",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
-      "summary": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index up 0.1% and",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-175850258.html",
-      "thumbnail": "",
-      "published_at": "2026-08-25T17:58:50Z"
-    },
-    {
-      "id": "85400882-51f0-35de-a31c-ed78bfc0761e",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Rosenblatt Resets Marvell Stock Target Before Earnings",
-      "summary": "The real upside case extends well beyond this quarter",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-resets-marvell-stock-target-175738750.html",
-      "thumbnail": "",
-      "published_at": "2026-08-25T17:57:38Z"
-    },
-    {
-      "id": "bf1e8757-8ea2-3897-99b0-b9b79f971ac8",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Billionaire Stanley Druckenmiller Drops Sharp Take on Bonds",
-      "summary": "One intervention could be masking a much bigger fiscal problem",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/billionaire-stanley-druckenmiller-drops-sharp-175646272.html",
-      "thumbnail": "",
-      "published_at": "2026-08-25T17:56:46Z"
-    },
-    {
-      "id": "75f6ca77-aa63-33a2-ad97-e4f734d36e80",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Stock in Focus -- Unleashes Next-Gen AI Mac Models",
-      "summary": "Apple Supercharges Macs With New AI Chips: Mac Mini and Mac Studio Refresh Arrives",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-stock-focus-unleashes-next-175508096.html",
-      "thumbnail": "",
-      "published_at": "2026-08-25T17:55:08Z"
-    },
-    {
-      "id": "9d09f585-44ad-3a98-a6a3-898bbc1bea46",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Treasury Yields Remain Depressed After Two-Year Note Auction",
-      "summary": "TREASURYS 1331 ET – Treasury yields decline as U.S. consumer confidence falls while oil prices drop below $90. The Treasury auctions $69 billion in two-year notes at a slightly below-market 4.204% yield and bid-to-cover ratio of 2.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/jgb-futures-mixed-may-be-supported-by-u-s-treasurys-gains-ca3035c2?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-25T17:55:00Z"
     }
   ]
 }
