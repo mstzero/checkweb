@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-08-25 06:56 UTC",
+  "last_updated": "2026-08-25 07:42 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "ca0e40d4-c1ba-3c0c-9712-6a2575ae2235",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "European shares climb on Iran sanctions relief, defence gains",
+      "summary": "Aug 25 (Reuters) - European shares edged higher on Tuesday as investors took comfort in a softer-than-feared U.S. sanctions package against Iran, while gains in defence stocks boosted sentiment.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-climb-iran-sanctions-073245293.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jNKxEXQ1UYLZ_L52xyLi8w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/488ea99fb91fb7f9b3c45be783cfcbdc.jpg",
+      "published_at": "2026-08-25T07:32:45Z"
+    },
+    {
+      "id": "1df68b58-6488-3459-ba49-0e9e74916a07",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "BlackRock Adds Over 60% of Bitcoin's $338 Million ETF Inflow While ETH Also Jumps",
+      "summary": "BlackRock's IBIT led a $209 million Bitcoin ETF inflow on Aug. 24, as ETHA added $90.92 million to Ethereum funds.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/blackrock-62-bitcoin-etf-inflow/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6MXKACkksoNifBCB.toLUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/30f81599932c611dc18fb2714309adc9.jpg",
+      "published_at": "2026-08-25T07:31:42Z"
+    },
+    {
+      "id": "2171cc8b-0b68-32bd-9bb0-d87446e5d20f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "BTC Surges Past $80K After 3 Months: What’s Driving The Rally?",
+      "summary": "Expanded U.S. Treasury bond buybacks weakened the dollar and revived the “debasement trade,” while President Donald Trump’s push for the CLARITY Act added further fuel to the rally.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/btc-surges-past-80-k-after-3-months-what-s-driving-the-rally/cZYkLGYRJ8e",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vRHm7QETHdSEk4.slqOUMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/be1690c61f061324afbfd6048dfdecde.jpg",
+      "published_at": "2026-08-25T07:15:47Z"
+    },
+    {
+      "id": "7a926d8e-9b4f-3b5b-ae17-84256141134f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia To Move Markets More Than Warsh: 3-Minute MLIV",
+      "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/nvidia-move-markets-more-warsh-071452519.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Eb4TbZvr4JMxqjJtXPezRg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/9fbe77092381c96848d292dfa6be26fc.jpg",
+      "published_at": "2026-08-25T07:14:52Z"
+    },
+    {
+      "id": "75928dbb-c1e4-3510-86b4-77501e36568e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Woodside Energy Group Ltd (WOPEF) (H1 2026) Earnings Call Highlights: Record Free Cash Flow ...",
+      "summary": "Woodside Energy Group Ltd (WOPEF) boosts free cash flow by over 150% to $352 million, declares top-end dividend, and targets $350 million annual cost savings from 2028.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/woodside-energy-group-ltd-wopef-070055286.html",
+      "thumbnail": "",
+      "published_at": "2026-08-25T07:00:55Z"
+    },
+    {
+      "id": "1903b418-3c93-3f1c-af10-fb07154ca152",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Traders price a one-in-100 chance that Bitcoin reaches $100,000 this month",
+      "summary": "Polymarket's monthly market on where the cryptocurrency will trade, with $19.8 million of volume and six days left to run, puts the odds of bitcoin touching $100,000 before the end of August at just 1%. The chance of reaching $92,500 is priced at 6%, and $90,000 at 12%, underlining the gap...",
+      "source": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1097540/traders-price-a-one-in-100-chance-that-bitcoin-reaches-100-000-this-month-1097540.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H78TaSIldJGG8gg6VRzA_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/edf0641c125d5615fd66ee6f44b29def.jpg",
+      "published_at": "2026-08-25T06:57:00Z"
+    },
+    {
+      "id": "73233eea-028f-37e9-a72a-e1bdbe338f28",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "X Trade Buttons Coming Soon as Bier Counters Crypto Shadowban Rumors",
+      "summary": "Nikita Bier says X trade buttons arrive soon and blames Treasury buybacks, not X, for the crypto bull market.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/x-trade-buttons-crypto-shadowban-bier/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KWFRk60UhowrYJIll.zftg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/cb0998d1479fdceb2059aa0edafd61f2.png",
+      "published_at": "2026-08-25T06:52:06Z"
+    },
     {
       "id": "3a594b47-ad10-36d0-a110-19d7ec8cacf7",
       "asset": "OIL",
@@ -117,11 +194,11 @@
       "id": "691fd8d9-3ed4-381a-ba4b-0eb75df5cb4d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "summary": "Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Islamic Republic would face retaliation.  On Monday, areas of the bond market that the U.S. Treasury Department has been trying to calm eased a bit, relieving pressure on stocks.  Tech stocks led the decline following big swings through the summer on worries that the frenzy around artificial-intelligence technology has sent prices too high and huge demand for AI chips will falter if AI doesn't yield enough profits.",
+      "title": "Asian shares mostly gain and oil prices hold steady as the US raises pressure on Iran",
+      "summary": "Asian shares were mostly higher Tuesday after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week.  U.S. futures edged higher.  Oil prices fell back after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Islamic Republic would face retaliation.",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-052631381.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nJ4cajGmFsc_PQXrVVvJkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/59df6a1806e71fe2a49a66af22143d22.jpg",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WIlo3k4d4occXtdj4XenrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/ad57ee746ef45d921e0c99e4df250bb5.jpg",
       "published_at": "2026-08-25T05:26:31Z"
     },
     {
@@ -169,17 +246,6 @@
       "published_at": "2026-08-25T05:08:42Z"
     },
     {
-      "id": "d1ac7359-f685-376a-8bb0-8c3f334cb468",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could $5,000 in This Cryptocurrency Turn Into a Life-Changing Investment?",
-      "summary": "By 2030, XRP could trade as high as $28. But a lot needs to go right.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/could-5000-in-this-cryptocurrency-turn-into-a-life/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NNb6x8vIQP4ycbhUR1XSKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/33b97376d2abd3ddf3dbd8b4c03c97b4.jpg",
-      "published_at": "2026-08-25T05:05:00Z"
-    },
-    {
       "id": "198ac3f1-e386-3349-b3ac-5f24fe221f80",
       "asset": "ETH",
       "asset_name": "Ethereum",
@@ -200,17 +266,6 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1097530/novo-resources-maps-a-discovery-led-path-through-strong-gold-and-copper-markets-1097530.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oBx0W.egPCEIQCJNTtVazg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/0b9ee1f7b3f2709bb99a24668068197d.jpg",
       "published_at": "2026-08-25T04:29:00Z"
-    },
-    {
-      "id": "548c3ae7-466f-3bcb-86a0-434629394336",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Strive ‘Firing On All Cylinders,’ Says CEO After Disclosing $80M-Plus Bitcoin Purchase",
-      "summary": "Strive revealed on Monday that it had purchased 1,110 Bitcoin at an average price of $73,409 per BTC, for a total of $81.5 million.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/strive-firing-on-all-cylinders-says-ceo-after-disclosing-80-m-plus-bitcoin-purchase/cZYka4QRJFz",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L7al4B7JH0VTd17oUKahXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1739f884da4fc7d612195b06ebd907d9.jpg",
-      "published_at": "2026-08-25T04:14:55Z"
     },
     {
       "id": "d735da9b-fcbb-31b5-ae63-cbbfb2b9a0fe",
@@ -247,69 +302,14 @@
     },
     {
       "id": "0a073373-a998-30b2-aaaf-f6563562d492",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "GOLD",
+      "asset_name": "Gold",
       "title": "Bitcoin Tops $81,000 as Gold Notches Its Best Month Since 1999",
       "summary": "Bitcoin topped $81,000 and gold hit a three-month high as dollar weakness and Fed rate bets lifted both assets together.",
       "source": "BeInCrypto",
       "url": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3zhE45qSJhUjWz.JzAokVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b.jpg",
       "published_at": "2026-08-25T03:33:32Z"
-    },
-    {
-      "id": "280e7cf3-9ec3-3743-b564-bc6256eb5681",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Big Investors Admit Bitcoin Rally Signals Capital Fleeing an Overheated AI Trade",
-      "summary": "Big investors say Bitcoin's rally reflects capital fleeing AI stocks, framing BTC as both a rotation play and a hedge.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-rally-ai-trade-rotation/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vs4RJlhvUDUnXlJ3xonEvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/9419150a46cfa1e45046bedf804d2455.jpg",
-      "published_at": "2026-08-25T03:05:00Z"
-    },
-    {
-      "id": "a2cbe971-1d32-3243-baf3-c1a2a0323866",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stocks stagger and oil rises as traders eye Iran threat, Nvidia results",
-      "summary": "Asian stocks fluctuated Tuesday while oil edged up as investors assess a US plan for the \"economic asphyxiation\" of Iran, while tech firms struggled following another down day on Wall Street and ahead of earnings from chip titan Nvidia.Still, equities struggled as tech firms once again bore the brunt of selling, tracking a retreat in their counterparts on Wall Street.",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-stagger-oil-rises-traders-024603014.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZLQnP680X6e7oRTMJZPjew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/a412ac2c65d5abbd8875e9396f739758.jpg",
-      "published_at": "2026-08-25T02:46:03Z"
-    },
-    {
-      "id": "93083eb5-85fd-3e98-b902-d653a54fd045",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Rupee may cling to subdued rhythm, improved portfolio inflows lend support",
-      "summary": "By Jaspreet Kalra MUMBAI, Aug 25 (Reuters) - The Indian rupee is poised for another subdued trading session on Tuesday with traders expecting the central bank to lean against pressure on the currency,",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/rupee-may-cling-subdued-rhythm-023530413.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WiDo2nZD1k5hWok1zEoYMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dbbdba43b4eed2fc6b6dc1e87b57dcf2.jpg",
-      "published_at": "2026-08-25T02:35:30Z"
-    },
-    {
-      "id": "4e9975a5-f663-320e-9e40-48630e42c654",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla (TSLA)’s Solar Roof Shutdown Raises Questions About its Energy Ambitions",
-      "summary": "Tesla, Inc. (NASDAQ:TSLA) has stopped selling its premium Solar Roof tiles on its website, nearly a decade after Elon Musk introduced them as a more attractive alternative to conventional solar panels. The company’s solar strategy has now shifted to a traditional solar-panel offering. Reuters noted that Tesla, Inc. (NASDAQ:TSLA) had once targeted 1,000 Solar Roof […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/tesla-tsla-solar-roof-shutdown-014101772.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yO6fpoHAQOqO6S28epHxGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72bc7bdebe94d649174020d397dd4d31.jpg",
-      "published_at": "2026-08-25T01:41:01Z"
-    },
-    {
-      "id": "404cd573-24a1-39aa-a81a-2b910746a7e2",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "IMPACT Silver Corp (ISVLF) (Q2 2026) Earnings Call Highlights: Revenue Surges 124% as Silver ...",
-      "summary": "Strong balance sheet with over $50 million in cash positions the company for aggressive exploration and M&A opportunities.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/impact-silver-corp-isvlf-q2-010220554.html",
-      "thumbnail": "",
-      "published_at": "2026-08-25T01:02:20Z"
     }
   ]
 }
