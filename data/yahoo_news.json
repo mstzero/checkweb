@@ -1,29 +1,84 @@
 {
-  "last_updated": "2026-08-26 02:45 UTC",
+  "last_updated": "2026-08-26 03:51 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "b9d047fc-456b-3412-b0c6-d9a782b89556",
+      "id": "0f2e15ab-ead5-311b-a2e2-2aebfab4a0b5",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Peter Thiel Has Steadily Sold Down His Palantir Stake for Years Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.",
-      "summary": "Insider sales often leave investors confused about what the sale means for them.",
+      "title": "Whatever Happens on Wednesday, Nvidia Stock Will Almost Certainly Be Cheaper After Earnings",
+      "summary": "Nvidia stock keeps getting more attractive.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/peter-thiel-has-steadily-sold-down-his-palantir-st/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YU8CAdpeGgw5OzoEPBO2Sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d9ab8539af9494b5dc17c47890049333.png",
-      "published_at": "2026-08-26T02:35:00Z"
+      "url": "https://www.fool.com/investing/2026/08/25/whatever-happens-on-wednesday-nvidia-stock-will-al/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u8zLm0kqo1O3NRWSJmnCsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/26d05ab5c9500c566ff841249aa59adb.jpg",
+      "published_at": "2026-08-26T03:35:00Z"
     },
     {
-      "id": "1e33c03c-cab0-343b-b35c-3d54c00a62d0",
+      "id": "22f8d8d4-9066-3d53-a627-aa373e099d3d",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Alphabet Spends About 60 Cents of Every Technical Infrastructure Dollar on Servers. Nvidia's Biggest Customers Were Just Told Prices Are Going Up More Than 15%.",
-      "summary": "Part of the search giant's biggest spending line may have just repriced -- and the year the increase lands on doesn't have a budget number yet.",
+      "title": "AMD's Next AI Accelerator Carries 432 Gigabytes of Memory -- 50% More Than the Last One. Here's the Bill That Comes With It.",
+      "summary": "The chipmaker picked memory capacity as its weapon for the next round of the AI hardware fight -- just as memory prices climb across the chip industry.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/alphabet-spends-about-60-cents-of-every-technical-infrastructure-dollar-on-servers-nvidia-s-biggest-customers-were-just-told-prices-are-going-up-more-than-15/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UIfowrGBaNsQkPS3TjKiGQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/47dcb66ac72779fcb15293c6b1bc83de.jpg",
-      "published_at": "2026-08-26T02:33:01Z"
+      "url": "https://www.fool.com/investing/2026/08/25/amd-s-next-ai-accelerator-carries-432-gigabytes-of-memory-50-more-than-the-last-one-here-s-the-bill-that-comes-with-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1I090Sr1L3GpEwvyxSYA.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/488f76759fabe673ec997a9f0b95fd36.jpg",
+      "published_at": "2026-08-26T03:26:01Z"
+    },
+    {
+      "id": "5100947d-123c-3b18-adfa-66664db62410",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Gold  Bitcoin Rally Together as the Debasement Trade Returns",
+      "summary": "<p>Gold and bitcoin have surged together this month as the Treasury tries to hold down bond yields.</p>",
+      "source": "etf.com",
+      "url": "http://www.etf.com/sections/features/gold-bitcoin-rally-together-debasement-trade-returns?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u6DE.fzOK2s43S561yob1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/c1c69d5b231b1da60dce473474f8d2a3.jpg",
+      "published_at": "2026-08-26T03:23:44Z"
+    },
+    {
+      "id": "aaad6475-8ffc-3a4f-a59c-02211a90e650",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Are S&P 500, Nasdaq Futures Slipping While Dow Futures Are Climbing?",
+      "summary": "Nvidia is slated to report its Q2 results after hours on Wednesday; it is seen as a bellwether for the broader market as the largest-weighted stock in the S&P 500 index.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-are-s-and-p-500-nasdaq-futures-slipping-while-dow-futures-are-climbing/cZYNivURJos",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FcsAYph.RNFaZTK4.FueSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/65e62312719ee0780215b6c2330d9efc",
+      "published_at": "2026-08-26T03:20:03Z"
+    },
+    {
+      "id": "53becb39-e291-3487-a7d5-45f85aed6ff4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk’s TeraFab And Semi Bets Shift Into High Gear",
+      "summary": "Tesla will open its Nevada Semi factory on Sept.24, with capacity to produce as many as 50,000 trucks annually.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nvda-goog-elon-musk-terafab-semi-high-gear/cZYNiHqRJor",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jwSeNCV2OpMs8Egv5HYMmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/0f36ab7ccb06b0db95f654fcf336f115",
+      "published_at": "2026-08-26T03:19:29Z"
+    },
+    {
+      "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+      "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pOOUjGtbZi0207B._Fq6Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/304ee85133bbb6e36683a05ed789ce00.jpg",
+      "published_at": "2026-08-26T03:07:14Z"
+    },
+    {
+      "id": "d02550fc-ff9e-3252-9fa6-021be5eb2f5b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks edge higher as oil drops on fresh Mideast hopes",
+      "summary": "Asian stocks edged higher Wednesday as oil prices extended a decline on receding concerns about another military flare-up between the United States and Iran, while traders were also nervously awaiting Nvidia's earnings and key US inflation data.However, analysts said the simmering US-Canada trade row was causing some uncertainty, while the big event on the agenda this week is Nvidia's second-quarter earnings on Wednesday.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-oil-drops-023953523.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t0tkNVZYfIpsGCG05K.yEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/873d3a86b124b98d98b9c996ffe498e8.jpg",
+      "published_at": "2026-08-26T02:39:53Z"
     },
     {
       "id": "f5ef4e6b-bfef-34ea-b290-7e9fd7ad55a1",
@@ -37,37 +92,15 @@
       "published_at": "2026-08-26T02:28:02Z"
     },
     {
-      "id": "4f7a3dbb-4349-3290-a6b3-56a96d22dbbf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How Nvidia Is Secretly Funding the Next Wave of AI",
-      "summary": "Nvidia stock is on the rise again, but as Eric Bleeker and Austin Smith remind us, it's always worth paying attention to stocks that typically rise along with it.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/videos/why-nvidia-is-secretly-funding-the-next-wave-of-ai/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xDMQUmqNwoiyPWwv.wLE.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st_video_956/3f5ca67a768f08349cc95a68a6cd00a2.jpg",
-      "published_at": "2026-08-26T02:21:24Z"
-    },
-    {
       "id": "a77a8ab5-a504-3417-ac27-5be76799341c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes",
       "summary": "By Ankur Banerjee SINGAPORE, Aug 26 (Reuters) - Asian stocks stuttered on Wednesday as a drop in oil prices dragged bond yields lower on hopes that the critical Strait of Hormuz could reopen, while",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-hesitant-nvidia-oil-021924396.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ng6fNL61ocxU3k_3MqYo_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/dc6aa13889529bcbba4e7a8c26c722ae.jpg",
       "published_at": "2026-08-26T02:19:24Z"
-    },
-    {
-      "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
-      "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pOOUjGtbZi0207B._Fq6Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/304ee85133bbb6e36683a05ed789ce00.jpg",
-      "published_at": "2026-08-26T02:19:05Z"
     },
     {
       "id": "a9f6ba9f-a5b7-3f48-85ce-87876e424650",
@@ -277,39 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-rangebound-as-investors-await-nvidia-earnings/cZYNONDRJom",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NqR_6SI0.MrTW_OMjlGfBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4b1cfd1cebb08709ce989ad97de7d87f.jpg",
       "published_at": "2026-08-26T00:02:57Z"
-    },
-    {
-      "id": "485c7e29-ce51-3410-a52f-5367757d504b",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Perseus Mining H2 Earnings Call Highlights",
-      "summary": "Perseus Mining (TSE:PRU) reported higher revenue, profit and operating cash flow for the financial year ended June 30, 2026, supported by stronger realized gold prices, while outlining increased shareholder returns and continued investment in the Nyanzaga project and other growth initiatives. Durin",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-perseus-mining-h2-earnings-call-highlights-2026-08-25/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ctMpZOvDa9yYabIRgqRnMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/70d76f4f6a2ed04cd47adb7e19cfe422.png",
-      "published_at": "2026-08-26T00:02:15Z"
-    },
-    {
-      "id": "e8b36e8b-9c5f-379a-9d74-5e0b6db81da4",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Review & Preview: Risky Business",
-      "summary": "Stocks ended broadly higher on Tuesday, though most of that was thanks to semiconductor stocks.  The Dow Jones Industrial Average and the S&P 500 both gained 0.3% while the Nasdaq Composite rose 0.7%.  The moves came a day before  Nvidia’s  earnings report (more on that below).",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-review-preview-2ba0b98b?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-25T23:55:00Z"
-    },
-    {
-      "id": "1609231c-1443-32bc-b8ab-c93558f98f54",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Analyst raises MicroStrategy price target by 35%",
-      "summary": "MicroStrategy is no longer underwater on its Bitcoin holdings.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/analyst-raises-microstrategy-price-target-by-35",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aPGgWTH5YQ7o21KiduMVAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/194297bf9480be82c96471f7bf2c1a56.jpg",
-      "published_at": "2026-08-25T23:50:21Z"
     }
   ]
 }
