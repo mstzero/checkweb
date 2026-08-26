@@ -1,18 +1,73 @@
 {
-  "last_updated": "2026-08-26 05:30 UTC",
+  "last_updated": "2026-08-26 06:40 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
+      "id": "7e15ee9c-7497-3fb1-aad4-d9d0ff42740d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+      "summary": "Constellation's massive power generation capacity helped it secure major deals in recent years, and it's beginning to reap the benefits.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/constellation-energy-just-raised-guidance-heres-wh/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iShTxR3paBR7zHhVcF.Zig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52fe6c974594e34b3928e7371d0453dd.png",
+      "published_at": "2026-08-26T06:25:00Z"
+    },
+    {
+      "id": "e5e36dab-1aaf-340e-9f73-7eed3dea537e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Could Solana Hit $2,000 by 2030? One Institutional Investor Thinks So.",
+      "summary": "Under the right set of conditions, the cryptocurrency could soar.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/could-solana-hit-2000-by-2030-one-institutional-in/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/24TJ1kanRvzlAk31Oj9MeA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b030301f4553a3c33b2ec0ba72fe773.jpg",
+      "published_at": "2026-08-26T06:01:00Z"
+    },
+    {
+      "id": "baf653da-12d3-3eab-92ae-f006a5870d46",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia Earnings Today: What Its Earnings Will Reveal About AI Bubble Risk",
+      "summary": "Nvidia's Q2 earnings today reveal whether AI spending is broadening or concentrated among a few giant buyers.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/nvidia-earnings-ai-bubble-risk/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qpo___ZKJHx3j0zeu55aeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/042f2d67c0b128b27b2bb45eeea1dcfb.jpg",
+      "published_at": "2026-08-26T06:00:00Z"
+    },
+    {
+      "id": "7165f388-6a29-397f-83f7-50a5cf2e861d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia's $6 Billion Deal for Poolside's Model Factory Is a Wager on Open-Source Models Driving Chip Demand",
+      "summary": "The chipmaker's move to license coding models comes as low-cost alternatives are handling an increasing share of workloads.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/nvidias-6-billion-deal-for-poolsides-model-factory/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SH9uVLdffTXGfwVlTvMoww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f50b8ab80e615b621eab6c2d515895c3.jpg",
+      "published_at": "2026-08-26T05:40:00Z"
+    },
+    {
       "id": "a77a8ab5-a504-3417-ac27-5be76799341c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
       "title": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes",
       "summary": "By Ankur Banerjee SINGAPORE, Aug 26 (Reuters) - Asian stocks rose on Wednesday as a drop in oil prices dragged bond yields lower on hopes that the critical Strait of Hormuz may reopen soon, while",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-hesitant-nvidia-oil-021924396.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a0SWLX0OqAFWCil5pJ8qHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a87046ec85160c7b598410e9987f8d1a.jpg",
       "published_at": "2026-08-26T05:28:21Z"
+    },
+    {
+      "id": "13bb4c99-bace-3df7-b684-e354b2ba33f0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
+      "summary": "By Yuka Obayashi and Siyi Liu TOKYO/SINGAPORE, Aug 26 (Reuters) - Oil prices fell more than $2 a barrel on Wednesday as talks between Iran and Oman revived hopes that the Strait of Hormuz could reopen",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/us-oil-prices-extend-losses-230400200.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IAwAVQTQUbIuNPZP.5ThRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/f79d2f1eeefe66a2db7d8c8e96d20f7e.jpg",
+      "published_at": "2026-08-26T05:23:37Z"
     },
     {
       "id": "dda267ed-0147-3570-9a0d-e28e16d4b6e2",
@@ -48,17 +103,6 @@
       "published_at": "2026-08-26T05:06:00Z"
     },
     {
-      "id": "730eb8ce-68c4-3334-a4b0-f79177c330b4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "summary": "U.S. stock futures were mixed early Wednesday as Wall Street awaits Nvidia Corp.‘s (NASDAQ:NVDA) marquee earnings report, key PCE inflation data, and further developments surrounding the Strait of Hormuz. The Polymarket (CRYPTO: POL) crowd is evenly split for the Aug....",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61425878/stock-market-will-sp-500-open-up-or-down-today-24?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HtNpy70pRnE32pQNvTZL_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_prediction_markets_613/87268a54eb14905349cfbe136fde626f.jpg",
-      "published_at": "2026-08-26T05:05:36Z"
-    },
-    {
       "id": "116b6c32-3f01-3748-ba67-c610ac66bf77",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -70,9 +114,20 @@
       "published_at": "2026-08-26T05:03:15Z"
     },
     {
+      "id": "9e5aeeec-2ba6-3915-845b-eed17b26240a",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "How These 3 Top Funds Deliver ‘Deep Value’ With Fewer Tech Stocks",
+      "summary": "Look at the largest holdings of some of the most popular value funds and you might be surprised.  The average fund in  Morningstar’s  Large Value category now has 18% of its portfolio in tech stocks that look expensive by classic valuation metrics.  Benjamin Graham and David Dodd, the authors of the famous tome Security Analysis, believed investors should buy stocks trading below book value, an asset-based measure of a company’s net worth on its balance sheet.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/how-these-3-top-funds-deliver-deep-value-with-fewer-tech-stocks-adcfd689?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qClPI7.uMZPYxOOJ2YPM2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/bc4da1d8b932f7026a06353ab4ec8102.jpg",
+      "published_at": "2026-08-26T05:00:00Z"
+    },
+    {
       "id": "3cd2692d-52b6-37b1-88ff-fdf285a21160",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Morning Bid: Markets are waiting '9 to 5'",
       "summary": "A look at the day ahead in European and global markets from Ankur Banerjee A holding pattern in global markets has emerged as traders await earnings from Nvidia that will be a test of confidence in",
       "source": "Reuters",
@@ -92,17 +147,6 @@
       "published_at": "2026-08-26T04:35:00Z"
     },
     {
-      "id": "cc5eb3f2-03fb-3a20-b47f-93e44421a8b2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "History Has Changed My Mind on These Millionaire-Maker AI Stocks (At Least for Now). Why I Have Suspended My Earlier Call.",
-      "summary": "Investors should keep CoreWeave and Iren on a watch list rather than in a portfolio right now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/history-has-changed-my-mind-on-these-millionaire-m/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5ig6pO52biTDTKshd3Rjaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/996cb1cd74dc919b0a2ee17afcd6d755.jpg",
-      "published_at": "2026-08-26T04:20:00Z"
-    },
-    {
       "id": "21185ee2-2c4a-3e41-b555-0a26e7989e65",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -114,17 +158,6 @@
       "published_at": "2026-08-26T04:18:16Z"
     },
     {
-      "id": "735d6fea-3c0d-36fc-ba54-2a4759596546",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now",
-      "summary": "The chipmaker is set to be a prime beneficiary of the agentic AI-driven boom in CPU sales.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/amd-stock-is-rising-heres-why-this-top-ai-stock-is/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5jujm2u.xab51UwGWJ3ANw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5182ee0ef755b34118847ab043b511a.jpg",
-      "published_at": "2026-08-26T04:15:17Z"
-    },
-    {
       "id": "217a2bd4-fac2-3a65-82e5-6df179c3c021",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -134,17 +167,6 @@
       "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-oil-035909033.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9sHPzr6ZWQyAn6_Yh.AoYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/0d6ad8049e4d79c1d24904288d060bf7.jpg",
       "published_at": "2026-08-26T03:59:09Z"
-    },
-    {
-      "id": "0f2e15ab-ead5-311b-a2e2-2aebfab4a0b5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Whatever Happens on Wednesday, Nvidia Stock Will Almost Certainly Be Cheaper After Earnings",
-      "summary": "Nvidia stock keeps getting more attractive.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/25/whatever-happens-on-wednesday-nvidia-stock-will-al/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u8zLm0kqo1O3NRWSJmnCsg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/26d05ab5c9500c566ff841249aa59adb.jpg",
-      "published_at": "2026-08-26T03:35:00Z"
     },
     {
       "id": "5100947d-123c-3b18-adfa-66664db62410",
@@ -235,17 +257,6 @@
       "published_at": "2026-08-26T01:51:18Z"
     },
     {
-      "id": "8dee0884-109f-318c-98c9-9e5d5d559371",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Falls Near 3% as Iran, Oman Restart Hormuz Corridor Talks",
-      "summary": "Oil prices fell over 3% as Iran and Oman resumed promising talks on a temporary Strait of Hormuz shipping corridor.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/oil-falls-iran-oman-hormuz-talks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UXW.tbKzCQQIeUS4PHGwNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8e0b2d87d7a3948369a15f51a03b48be.png",
-      "published_at": "2026-08-26T01:47:29Z"
-    },
-    {
       "id": "ee5094fd-0760-3895-ae59-c75e77ae73b4",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -299,17 +310,6 @@
       "url": "https://beincrypto.com/katie-stockton-bitcoin-rally-gold/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3zhE45qSJhUjWz.JzAokVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b.jpg",
       "published_at": "2026-08-26T00:48:36Z"
-    },
-    {
-      "id": "90efebe0-df5e-3461-bd47-d2faf31a4b08",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Ora Banda Mining doubles revenue as two-mine underground strategy drives record FY26",
-      "summary": "Ora Banda Mining Ltd (ASX:OBM, OTC:ESGFF) has delivered record revenue, production and cash generation for the year to June 30, 2026, as the ramp-up of its second underground mine, Sand King, transformed the group's operating performance. Revenue doubled to $807.5 million from $404.3 million,...",
-      "source": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097601/ora-banda-mining-doubles-revenue-as-two-mine-underground-strategy-drives-record-fy26-1097601.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m5FHOhY30MCfh69adZTWKA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/ce76b6b255437753cfef96b1ddd273ad.jpg",
-      "published_at": "2026-08-26T00:45:00Z"
     }
   ]
 }
