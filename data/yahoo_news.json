@@ -1,18 +1,216 @@
 {
-  "last_updated": "2026-08-26 10:30 UTC",
+  "last_updated": "2026-08-26 11:25 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "b45da1f3-4da4-38aa-bee2-0b1343ae429b",
+      "id": "42f04ff7-8e1b-39be-b3af-e08486511bcf",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US Dollar Rises Early Wednesday Ahead of GDP, Personal Income, Durable Goods",
+      "summary": "The US dollar rose against its major trading partners early Wednesday, except for a decline versus t",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-rises-early-wednesday-112008447.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T11:20:08Z"
+    },
+    {
+      "id": "6bc12c4a-4143-386d-8218-e475bbe74b19",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Zoom Communications Third-Quarter Earnings Outlook Misses Street Views; Shares Down Pre-Bell",
+      "summary": "Zoom Communications (ZM) shares fell early Wednesday as the video communication platform provided a",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-third-quarter-earnings-111315697.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B5Nn4QQ4bFAiksKHiC6IDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/845da4270ad197e3af31ba0e279cf9cf.jpg",
+      "published_at": "2026-08-26T11:13:15Z"
+    },
+    {
+      "id": "518634b0-9dc7-3760-8535-56e056dada77",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "OpenAI Says Its New Chip Outperforms Nvidia’s Blackwell As Nvidia Prepares Earnings Release",
-      "summary": "The day before Nvidia reports earnings that analysts expect to roughly double year over year, OpenAI dropped a chip benchmark that rattled the AI hardware world and forced a question no investor wanted to sit with overnight.",
+      "title": "This Artificial Intelligence (AI) Stock Could Fall by 13%, According to Wall Street -- but Here's Why I Refuse to Sell",
+      "summary": "The concerns surrounding Duolingo might be overblown.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/this-ai-stock-fall-13-wall-street-i-refuse-to-sell/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rVe82k_RKgieTKOPKzzIsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3a69b83afeb02498b5a1f98f9dfbe5b6.png",
+      "published_at": "2026-08-26T11:11:00Z"
+    },
+    {
+      "id": "e3d8d878-ada8-3c65-807e-14a402e8931d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Stock Futures Weaker Ahead of PCE Data, Nvidia Earnings Due",
+      "summary": "Stock futures were weaker as traders await inflation data and earnings from the world’s most valuable company, Nvidia.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/oil-extends-falls-nasdaq-futures-lower-before-nvidia-earnings-579f51f5?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d.NnCK_iW.OKd11c1HrfnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/25aeba5f855be1b01e6777a2e42b4e6a.jpg",
+      "published_at": "2026-08-26T11:08:00Z"
+    },
+    {
+      "id": "1265cfc6-1e36-3fdf-b910-b417020983ee",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Billionaire Stanley Druckenmiller Is Quietly Loading Up on Healthcare Stocks -- Here's What His New Positions Reveal",
+      "summary": "Duquesne Family Office has beefed up its healthcare holdings.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/billionaire-stanley-druckenmiller-is-quietly-loadi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ERGfO.LbXDGohAEc7kNtfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/61e8daca2268c708e6fa8683ad3613a4.jpg",
+      "published_at": "2026-08-26T11:05:00Z"
+    },
+    {
+      "id": "ef5e8d93-bf31-35b9-80d4-78220800a32f",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Bill Gates: Ban AI from taking some jobs from humans",
+      "summary": "Robots and AI should be banned from taking some human jobs, Bill Gates has said.",
+      "source": "The Telegraph",
+      "url": "https://uk.finance.yahoo.com/news/bill-gates-ban-ai-taking-110154071.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VCcrJhsMsqyyM0cXro9hxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/b059521af0be8f42fc1470852bd921ff.jpg",
+      "published_at": "2026-08-26T11:01:54Z"
+    },
+    {
+      "id": "ef789050-369f-33bb-b1f5-ca6e63f31118",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why Oil Prices Are Down 10% This Week",
+      "summary": "Oil prices have gotten quite a bit of relief this week, with Brent crude futures dropping 10% in just three days. That’s a notable move, even in a year filled with violent swings. Even more notable: It’s occurred while very little has changed in the Middle East.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/why-oil-prices-are-down-10-this-week-rXrbEY7u9PdjI67peyAE?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-26T11:01:35Z"
+    },
+    {
+      "id": "4e2a9929-b1aa-3a80-9e66-782ebd0fc9f1",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "4 Ultra-High-Yield Stocks Retirees Should Never Hold in a Taxable Account",
+      "summary": "Some of the most popular high-yield dividend stocks look like retirement income wins until you factor in what the IRS quietly takes every quarter, and two names on this list hit retirees at a rate most never see coming.",
       "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/26/openai-says-its-new-chip-outperforms-nvidias-blackwell-as-nvidia-prepares-earnings-release/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wrinzP02KLwj88ttBFYbHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2bcb19e7381f52a64b1497e422b6d0e0.jpg",
-      "published_at": "2026-08-26T10:17:53Z"
+      "url": "https://247wallst.com/investing/2026/08/26/4-ultra-high-yield-stocks-retirees-should-never-hold-in-a-taxable-account/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ScaTt.x3GUJ8SRScuxHirQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/860866925dd84b3f06f420eda1703aa7.jpg",
+      "published_at": "2026-08-26T11:01:31Z"
+    },
+    {
+      "id": "d388d1a1-6dcf-3625-ac63-80f7ce361770",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Saudi Aramco offers more oil outside Strait of Hormuz - report",
+      "summary": "Investing.com -- Saudi Aramco has increased oil offerings for September loading outside the Strait of Hormuz, according to a Reuters report early Wednesday citing people familiar with the matter. The move follows the sale of at least 4 million barrels to China this month.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/energy/articles/saudi-aramco-offers-more-oil-105746760.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T10:57:46Z"
+    },
+    {
+      "id": "f2a98114-abb0-31ac-8149-419bd441c9ac",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bernstein’s Chhugani sees Bitcoin hitting $300k by end of 2029",
+      "summary": "Investing.com -- Bernstein expects Bitcoin to reach $300,000 by 2029, framing the cryptocurrency as the primary beneficiary of what analyst Gautam Chhugani calls the debasement trade.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bernstein-chhugani-sees-bitcoin-hitting-105558220.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T10:55:58Z"
+    },
+    {
+      "id": "1caba395-104a-38b9-90dc-07eaa3bed5e8",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dollar, Treasury Yields Edge Higher Ahead of PCE Data",
+      "summary": "The DXY dollar index rose ahead of July’s release of PCE data. TenTrade said any surprises could lead to increased volatility in bond and currency markets.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-signs-of-mideast-talks-7515073a?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-26T10:50:00Z"
+    },
+    {
+      "id": "e38f4b48-a7bb-3ecf-8ef5-6e4cf592d52c",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dollar, Treasury Yields Edge Higher Ahead of PCE Data",
+      "summary": "Treasury yields rose slightly, awaiting July’s release of PCE data, the Fed’s preferred gauge of inflation, at 1230 GMT.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasury-market-1c64c2f4?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-08-26T10:45:00Z"
+    },
+    {
+      "id": "67834b99-518f-3cbf-987b-070f4b364b03",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Altamira Gold identifies mineralisation at Maria Bonita West in Brazil",
+      "summary": "The MBA-042 and MBA-043 drill-holes encountered wide gold-bearing intervals, confirming earlier evidence of a separate mineralised zone.",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com/news/altamira-identifies-mineralisation-maria-bonita-west/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t2gTolaAQHLzsezzfqMRzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mining_technology_700/5bcb5c74f8a11696ee6ba645b832e64c.jpg",
+      "published_at": "2026-08-26T10:42:21Z"
+    },
+    {
+      "id": "e6e8842c-09e2-317c-a9eb-eec86c59789d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "IBIT Opens In-Kind Bitcoin Process to More Institutions",
+      "summary": "In BlackRock Bitcoin news, the World’s largest asset manager has reduced the reported minimum for in-kind creations and redemptions involving its iShares Bitcoin Trust (IBIT) from $25M to $1M, reports suggest that the change was reflected in an updated SEC filing.This news comes as BTC USD is trading at $78,800, ...",
+      "source": "Cryptonews",
+      "url": "https://cryptonews.com/news/ibit-in-kind-blackrock-bitcoin-access/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7Fa7BcJAs0YwYnlGv4VMdw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/0379532eb564a058b00bacc9ee002540.png",
+      "published_at": "2026-08-26T10:40:36Z"
+    },
+    {
+      "id": "4f2125c5-3155-3028-9b06-1252b994a01f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Easing Oil Prices, Nvidia Outlook Lift Asian Stock Markets",
+      "summary": "Asian stock markets tracked moderately higher Wednesday after crude oil prices again eased, and as t",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-nvidia-outlook-103707743.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T10:37:07Z"
+    },
+    {
+      "id": "b6e30898-fe97-3e77-a57c-52d020cf0f55",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "1 Unpopular Stock That Deserves a Second Chance and 2 We Brush Off",
+      "summary": "When Wall Street turns bearish on a stock, it’s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-second-103513853.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y3WIM_3xUWZjJMaPukKcpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/32591b77a8ad02eacdfd8a45d8896448.jpg",
+      "published_at": "2026-08-26T10:35:13Z"
+    },
+    {
+      "id": "5ddd747e-3578-3b4d-a66c-64179cec0f02",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Tether CEO Paolo Ardoino Says to Avoid Disaster, Hold Bitcoin and Gold. Is He Right?",
+      "summary": "No strategy is immune to downside, but Ardoino is onto something.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/tether-ceo-paolo-ardoino-says-to-avoid-disaster-ho/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6MEekOS7pWvJmlAlH47Ljg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/579200dd8984afc38c4ba732adc31127.jpg",
+      "published_at": "2026-08-26T10:35:00Z"
+    },
+    {
+      "id": "38216950-33bf-30fa-a1e4-0d2d0cbc9a59",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Morning Bid: Falling oil calms nervy markets",
+      "summary": "By Mike Dolan Aug 26, LONDON (Reuters) - What matters in U.S. and global markets today By Mike Dolan, Editor-At-Large, Finance and Markets While the continuing retreat of world oil prices on Wednesday",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/articles/morning-bid-falling-oil-calms-103319409.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ws44MQdoF.dwYB8ugTmWAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/decd30a7e34fff86f1adb3609fec1270.jpg",
+      "published_at": "2026-08-26T10:33:19Z"
+    },
+    {
+      "id": "71af1f6a-63f5-38f1-a256-f6ea114ee2f5",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Bear of the Day: Agnico Eagle Mines (AEM)",
+      "summary": "This gold miner is flying high, but time to tread carefully.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-agnico-eagle-mines-103000885.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T10:30:00Z"
     },
     {
       "id": "61adcb40-aa67-33f8-a1b9-adcd439c03c9",
@@ -37,26 +235,26 @@
       "published_at": "2026-08-26T10:13:03Z"
     },
     {
-      "id": "d96cdb13-bfa6-3c11-9b72-0990d401c07f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Can Nvidia's Stock Survive the Growing Nationwide Data Center Backlash?",
-      "summary": "With data center construction delayed or canceled, what happens to Nvidia's shares?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/nvidia-stock-survive-growing-data-center-backlash/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/M5tTU5hRkT_0.CUIY72Z4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/787e3563c1a522118c1b0cba3e257839.jpg",
-      "published_at": "2026-08-26T10:05:00Z"
+      "id": "85a43c85-c54f-3719-96ff-eb1b1f0da222",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "The $1.5 Trillion Question Nvidia’s Earnings Can’t Answer",
+      "summary": "​📈 Follow our live markets data and coverage.  When tech companies started amping up spending on AI about three years ago, David Cahn, a venture capitalist at Sequoia Capital, asked a simple question: What was the gap between AI investment and the revenue generated from AI?  It certainly won’t weigh on investors this afternoon, when  Nvidia  —the main chip supplier to the AI boom—reports quarterly results.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/the-1-5-trillion-question-nvidias-earnings-cant-answer-a3a951c3?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/38zMwCT__0IGlDkdngnNkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/6782c052332c91970d876d6336312955.jpg",
+      "published_at": "2026-08-26T10:11:00Z"
     },
     {
-      "id": "23169504-0c7f-39e3-80e7-b91829c8d6c2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "From $0 to $100,000: Here's the Investing Strategy That Can Get You There",
-      "summary": "Building your portfolio to $100,000 sounds daunting, but it may not be as difficult as you think.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/from-0-to-100000-investing-strategy-get-you-there/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ijzHkhgF3yVFGmPN_ehX3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8b2623b9ae30e30ca05b8659b68bcdca.jpg",
-      "published_at": "2026-08-26T10:00:00Z"
+      "id": "07f293aa-8853-37d6-8dd0-783f9fe0282c",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says",
+      "summary": "When investors think about Tesla Inc‘s humanoid robotics ambitions, the conversation usually begins with artificial intelligence. Andrew Kang, CEO of RoboStrategy, Inc., argues they’re looking in the wrong place. Tesla’s greatest long-term advantage is something far less glamorous, he says....",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-100114948.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RefswwGhJqcwnd1T015FsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ec2937f566038781271cfbf894db07f6.png",
+      "published_at": "2026-08-26T10:01:14Z"
     },
     {
       "id": "75517f20-e2c9-46e1-af09-1b5f8e18c61c",
@@ -81,6 +279,17 @@
       "published_at": "2026-08-26T09:50:00Z"
     },
     {
+      "id": "c15aada3-5eeb-3ed7-b49b-4d2d0e03d061",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dealer Hedging Puts Bitcoin $80,000 Zone in Focus",
+      "summary": "Bitcoin traders face a $6.44 billion options expiry on Deribit at 08:00 UTC this Friday, covering 81,700 BTC contracts as spot hovers near $79,000 after a rapid climb from $62,000. The size and positioning of that expiry, concentrated at the $75,000 and $80,000 strikes, puts dealer hedging flows squarely in ...",
+      "source": "Cryptonews",
+      "url": "https://cryptonews.com/news/bitcoin-options-expiry-deribit/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bVQGCSaa9HaF80A1OCmTAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/72bc9403a8154f6149b3077e560a0d35",
+      "published_at": "2026-08-26T09:49:31Z"
+    },
+    {
       "id": "dd0636f5-d342-3e08-85ae-d260480b9c70",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -101,215 +310,6 @@
       "url": "https://www.ccn.com/news/crypto/bitcoin-500k-xrp-29-clarity-act-4-ai-models-predict/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BZ9JeMChFZtwGake_.TCUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/73e55e8ad176e65b6aae1dd1013aefa4",
       "published_at": "2026-08-26T09:37:16Z"
-    },
-    {
-      "id": "349081fe-134c-30a7-aa70-ac8ec2bbcf92",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Crypto Weekly: Bitcoin's rise, crypto-backed midterms",
-      "summary": "<body><p>STORY: From Bitcoin's rise to crypto-backed midterms.</p><p>This is Crypto Weekly.</p><p>:: Crypto Weekly</p><p>:: Bitcoin powers on</p><p>Bitcoin rose above $80,000 to hit a more than three-month high...</p><p>as a soft U.S. dollar, in the wake of the moves by Treasury Secretary Scott Bessent to calm the bond market, revived momentum in the crypto sector.</p><p>Donald Trump last week called on Congress to pass a bill that would bring clearer definitions to the growing sector.</p><p>Since then, bitcoin, the world's largest cryptocurrency, has risen 16%.</p><p>:: Stablecoin spending spree</p><p>Global stablecoin card spending is expected to quadruple to $50 billion a year by 2028.</p><p>That was according to a stablecoin payments company RedotPay.</p><p>The Hong Kong-based firm said the projection comes as stablecoin card spend crossed $1 billion in July.</p><p>Global adoption of stablecoins has accelerated in recent years...</p><p>as they gain traction in cross-border ‌payments, treasury operations,&nbsp;and as a store of value in volatile economies.</p><p>:: Iran sanctions</p><p>The US announced what it called \"an economic onslaught\" against Iran...</p><p>combining new sanctions with threats against Tehran's trading partners.</p><p>It&nbsp;did not list specific countries that would be targeted.</p><p>But the newly listed activities include dealings in digital assets like crypto, technology, gold, aviation and shipping.</p><p>:: Midterm elections backing</p><p>Stand With Crypto, an advocacy group backed by Coinbase endorsed 32 incumbent congressional candidates for the November midterm elections,,,</p><p>as the industry cements influence in Washington.</p><p>The endorsements come as the Clarity Act, the crypto industry's top policy priority, stalls in the Senate.</p><p>Stand With Crypto hopes to return industry-friendly candidates to office.</p></body>",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/crypto-weekly-bitcoins-rise-crypto-093500274.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tYmrk_kNhFZa6DblTH8P.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/98c11a52-865f-4601-ba31-534b8d8919b9/main/1280x720/52s789ms/match/image.jpg",
-      "published_at": "2026-08-26T09:35:00Z"
-    },
-    {
-      "id": "384e3861-20ee-3ec5-a7b8-77bd87dc6485",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Bill Ackman's Pershing Square Made Microsoft Its Largest AI Holding by Selling Alphabet. Here's the Thesis Behind the Switch.",
-      "summary": "Pershing often invests in big tech companies, but made notable changes in the last quarter.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/bill-ackmans-pershing-square-made-microsoft-its/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6Qvh3qQjSekdpaTwEnriuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc32cc45657012b5afa5e3c0b6e498b5.jpg",
-      "published_at": "2026-08-26T09:35:00Z"
-    },
-    {
-      "id": "6522e012-120c-3e35-96ea-fcea6d98750a",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses",
-      "summary": "Cloud computing, meet cloudy numbers.  After years of asking investors to take its artificial-intelligence strategy on faith,  Microsoft  stands out among tech giants for the opacity of its financial reporting.  Take Azure, Microsoft’s flagship cloud platform and primary growth engine.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-3607360a?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e4d313qLtGRytnDJk07a.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/0b1b3bd8a9630581a643dd5a2f23558c.jpg",
-      "published_at": "2026-08-26T09:30:00Z"
-    },
-    {
-      "id": "a823d010-6f4e-330a-81b9-f728c2b029b2",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "BlackRock's IBIT And GLD Rejoin Top 10 Most-Traded ETFs As 'Debasement Trade' Challenges ‘AI Mania’",
-      "summary": "BlackRock cut the minimum size for a Bitcoin-to-ETF swap to $1 million in July, from $25 million when the process first became available.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/black-rock-s-ibit-and-gld-rejoin-top-10-most-traded-et-fs-as-debasement-trade-challenges-ai-mania/cZYNYn8RJYB",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1w9Z9HqiUNetaiEnWV3GZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/16217a5c26024628a259cbc5a64776da",
-      "published_at": "2026-08-26T09:26:23Z"
-    },
-    {
-      "id": "2b968aa0-a3c4-365a-92c0-e19b38a3edbd",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Warren Buffett's Successor, Greg Abel, Has 30% of Berkshire's $358 Billion Portfolio Invested in 2 Preeminent AI Stocks",
-      "summary": "Approximately $107 billion of Berkshire Hathaway's invested assets can be traced to two artificial intelligence (AI) pioneers.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/warren-buffett-abel-30-brka-portfolio-2-ai-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5ZebT7rkxEh_KNe9PBJOng--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4f28aba91e79fad42f85b5f8a451e3bb.jpg",
-      "published_at": "2026-08-26T09:26:00Z"
-    },
-    {
-      "id": "70aa2132-cb18-3536-8e38-9206781f3adf",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
-      "summary": "Venture capitalist Jason Calacanis predicts Tesla Inc. (NASDAQ:TSLA) will turn its Optimus humanoid robot into a product bigger than Apple Inc.’s (NASDAQ:AAPL) iPhone, forecasting 1 billion Optimus robots worldwide by 2036. Calacanis Says Optimus Could Eclipse iPhone Speaking on the This Week in Startups podcast after watching the World Humanoid Robot Games in Beijing, Calacanis said he had recently seen an Optimus demonstration that has not been publicly shown. \"Optimus is going to be the great",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jason-calacanis-says-tslas-optimus-092100231.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9_ZA_z3.tt9gieF6FJfSUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/76d46c2f0f4f68264e109f149fb3cd56.jpg",
-      "published_at": "2026-08-26T09:21:00Z"
-    },
-    {
-      "id": "21cda49f-934c-3e8a-9ccf-a0397c0f3eea",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold eases but holds near three-month high as oil and yields decline",
-      "summary": "Gold prices edged lower on Wednesday but remained close to a three-month high, with falling oil prices and lower US Treasury yields helping to ease inflation concerns as investors monitored diplomatic efforts involving Iran and Oman over the Strait of Hormuz. At 01:10 ET, or 05:40 GMT, XAU/USD was down 0.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/35065/gold-eases-but-holds-near-three-month-high-as-oil-and-yields-decline",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JWmm9VB9HZ44Ap7w2xSxwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/f469907bdf25983a3bf53088774f6551.png",
-      "published_at": "2026-08-26T09:20:41Z"
-    },
-    {
-      "id": "58eef5b8-abd2-32e4-a80c-12537b0acc22",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil prices drop more than 2% on hopes of Middle East diplomatic progress",
-      "summary": "Oil prices fell sharply on Wednesday, extending losses from the previous session as reports suggested progress in diplomatic efforts to reduce hostilities in the Middle East and restore shipping through the Strait of Hormuz. Brent crude futures were down 2.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/35063/oil-prices-drop-more-than-2-on-hopes-of-middle-east-diplomatic-progress",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IknxNk1ZaJnLE7s48TtXCg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/cef72d9bae5a37c1ac89e3c0725c266a.png",
-      "published_at": "2026-08-26T09:16:37Z"
-    },
-    {
-      "id": "f6616262-a6f6-3c3f-9d00-3857409c6f3c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Nvidia earnings and PCE inflation data take centre stage as oil prices slide: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "summary": "US stock futures were subdued on Wednesday as investors prepared for Nvidia’s closely watched quarterly earnings and fresh inflation data, while signs of diplomatic progress in the Middle East pushed oil prices sharply lower. Sentiment was also shaped by an escalating trade dispute between the US and Canada, with Ottawa announcing retaliatory tariffs on hundreds of American products.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/35061/nvidia-earnings-and-pce-inflation-data-take-centre-stage-as-oil-prices-slide-dow-jones-sp-nasdaq-wall-street-futures",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/U4vvr71_UKEKe0NhbQ8bjw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/2235f7450049039d892976a0f2e94b23.png",
-      "published_at": "2026-08-26T09:13:51Z"
-    },
-    {
-      "id": "086acdeb-c008-3e4f-9b3e-fcac2d271d81",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Rangebound as Traders Await Jackson Hole",
-      "summary": "New York gold futures traded broadly flat at $4,686 a troy ounce in early trade. Traders are waiting for U.S. Federal Reserve Chairman Kevin Warsh to speak at the Jackson Hole gathering on Friday. The market wants to know how the Fed will respond to various inflation scenarios, ANZ analysts wrote.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/gold-rangebound-as-traders-await-jackson-hole-G8sWUSzI1rYIBBBY8r7O?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
-      "published_at": "2026-08-26T09:12:55Z"
-    },
-    {
-      "id": "57a7a1bd-3df5-4c73-88fc-7d25fea73b3e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Here's when bitcoin may hit $500,000",
-      "summary": "Bitcoin is having a price gusher to close out August.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/crypto/article/heres-when-bitcoin-may-hit-500000-091129598.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B38ze8h_Y48Gv7QbEOaP0w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-07/6b61c590-ed48-11eb-8fb5-7700c383fa70",
-      "published_at": "2026-08-26T09:11:29Z"
-    },
-    {
-      "id": "d421009e-e22a-32e9-b646-aeb3a5d8a1e3",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Why Are Nasdaq, S&P 500 Futures Slipping Premarket? NVDA, INTU, CRWD, CRM, CRML, SLS Stocks In Focus",
-      "summary": "Retail sentiment on Stocktwits remained ‘bearish’ on SPY and QQQ.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-slipping-premarket-nvda-intu-crwd-crm-crml-sls-stocks-in-focus/cZYNY7cRJYJ",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a3.IFjFC_M8_OtONHCmiRw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/5c738a28cdd9e278890efdf16143355b",
-      "published_at": "2026-08-26T09:10:36Z"
-    },
-    {
-      "id": "e48fa5fb-d81d-3112-a7ab-a8ae873ecea6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving.",
-      "summary": "Iran has spent years setting up a complex system of oil sales and clandestine shadow banking that it hopes will sustain its economy and military.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/world/middle-east/the-u-s-is-trying-to-strangle-irans-economy-heres-how-tehran-is-surviving-ca3d4cae?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hA1hs0ksT8r2OECriPSuNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/fea7b028d7dd14d67e41d0fc04030658.jpg",
-      "published_at": "2026-08-26T09:06:00Z"
-    },
-    {
-      "id": "09a88a46-e35a-392d-9261-77773191d81a",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "European Chip Stocks Mixed Ahead of Nvidia Earnings",
-      "summary": "Shares of European semiconductor companies were mixed as investors waited for Nvidia’s results to gauge appetite for artificial-intelligence chips.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-26T09:04:00Z"
-    },
-    {
-      "id": "0bc44a9d-7074-375c-a4ba-d4d4aef7c2ef",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Alphabet, Apple, and Meta Platforms Were Top Billionaire Investor Buys in Q2. Should Retail Investors Follow Suit?",
-      "summary": "Billionaire investors were buying shares of Alphabet, Apple, and Meta Platforms in Q2.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/alphabet-apple-meta-platforms-top-billionaire/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x6VKhasgeCZ9zMnAjMzbIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f2489fa066978c6aaffe08a5168075bd.jpg",
-      "published_at": "2026-08-26T09:02:00Z"
-    },
-    {
-      "id": "67057169-5f72-32ce-9360-64e5d37b8ff4",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Zacks.com featured highlights Garrett Motion, Brinker, Vertiv and Mueller Water Products",
-      "summary": "Garrett Motion, Brinker, Vertiv and Mueller Water Products have been highlighted in this Screen of The Week article.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-garrett-085300284.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ssXax4sSa7MnVcSwJ2VEBA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/dadef87639caab46ed2d1acfa091f6db.jpg",
-      "published_at": "2026-08-26T08:53:00Z"
-    },
-    {
-      "id": "9076a6ce-e6a9-3981-baef-a3ab57b93b44",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Zacks.com featured highlights Centene, Archer-Daniels-Midland, Avnet, Arrow and AMN",
-      "summary": "Centene, Archer-Daniels-Midland, Avnet, Arrow and AMN have been highlighted in this Screen of The Week article.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-centene-084800012.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Htc8bYowqbbRtYRRQDfqhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5d5a6eb884ce28277f39a4369974b5ea.jpg",
-      "published_at": "2026-08-26T08:48:00Z"
-    },
-    {
-      "id": "01a015a4-7bcb-3c49-accc-19fdd107be51",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Price Rally Puts Strategy’s $66B BTC Bet Back in Profit Above $75,385 Cost Basis",
-      "summary": "Strategy’s 840,447 BTC position returned to profit after Bitcoin surpassed its $75,385 average purchase price. Bitcoin’s surge above $81,000 transformed an estimated $9.5 billion paper ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-rally-strategy-btc-bet-back-in-profit/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vKXfxEHa8ECnpMUKjdl7.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/ebb92351d0460c15b31cd270bc54195c.png",
-      "published_at": "2026-08-26T08:38:13Z"
-    },
-    {
-      "id": "e3d8d878-ada8-3c65-807e-14a402e8931d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Oil Extends Falls, Nasdaq Futures Lower Before Nvidia Earnings",
-      "summary": "Oil prices slid in early European trade on fresh Middle East optimism, while Nasdaq futures fell as investors anticipate Nvidia’s narrative-setting earnings and U.S. inflation data.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/oil-extends-falls-nasdaq-futures-lower-before-nvidia-earnings-579f51f5?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/flM2IThZ0_em5dWD1U.ZOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/5d2f504eb573004662e1e3e83e8d4a8f.jpg",
-      "published_at": "2026-08-26T08:37:00Z"
     }
   ]
 }
