@@ -1,8 +1,129 @@
 {
-  "last_updated": "2026-08-26 11:25 UTC",
+  "last_updated": "2026-08-26 11:55 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "9905a8ae-3adc-3141-989c-e050ebed04f0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer calls Nvidia earnings a referendum on AI trade",
+      "summary": "The CNBC host said Nvidia has grown so central to the AI ecosystem that its quarterly results carry implications beyond the company itself",
+      "source": "Quartz",
+      "url": "https://qz.com/jim-cramer-nvidia-earnings-ai-trade-referendum-082626",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AnigNl8en.KjVoacvu5CDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/6bcb75d9484feb6f93da2fc35b877596.jpg",
+      "published_at": "2026-08-26T11:45:25Z"
+    },
+    {
+      "id": "7a6e9041-a4a8-3c42-9ba1-8ca7be39a5bd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The 30-Year U.S. Treasury Bond Now Has a Higher Yield Than Ford and Coca-Cola. Is It Now the Best Asset for Passive Income?",
+      "summary": "The yield on the 30-year U.S. Treasury bond has surged past 5.2% and, not too long ago, had surpassed 5.3%.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/the-30-year-us-treasury-bond-now-has-a-higher-yiel/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g3hK5MElQ22cH2E95SQ3lw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2852da3a3229af0417a720979bcb1239.jpg",
+      "published_at": "2026-08-26T11:45:00Z"
+    },
+    {
+      "id": "57aa7449-f885-3990-b24c-9fc78e5ad472",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Arthur Hayes Says Bitcoin Can Hit $250,000 Without A Credit Crisis – But Warns Of 75% Crash",
+      "summary": "AI took the marginal dollar, leaving Bitcoin behind,” Hayes said, and expected the flow to reverse as liquidity is used to roll over AI debt.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-bitcoin-250000-75-percent-crash/cZYNtOpRJYi",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zy9yfUmz_OE6tsfVjROuiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/699d015ebeb09fdce1ce6219ef8128df",
+      "published_at": "2026-08-26T11:44:50Z"
+    },
+    {
+      "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+      "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pOOUjGtbZi0207B._Fq6Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/304ee85133bbb6e36683a05ed789ce00.jpg",
+      "published_at": "2026-08-26T11:44:30Z"
+    },
+    {
+      "id": "7111c541-8f5a-321b-9e57-5e9ce1213034",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Market Braces for Crunch Nvidia Earnings, PCE Report. Stock Futures Fall.",
+      "summary": "Stock futures were heading for a negative open early Wednesday ahead of crunch earnings from chip maker Nvidia that will give a steer on artificial intelligence spending—a major headache for markets.  Nvidia will report after trading closes today.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/stock-futures-fall-as-market-braces-for-crunch-nvidia-earnings-pce-report-GwcXW4XUwylS03DGslX9?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-08-26T11:40:51Z"
+    },
+    {
+      "id": "70cdfa4c-8cb9-3933-947d-39a7a792088a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil, Nvidia Steady European Bourses Midday",
+      "summary": "European bourses tracked largely sideways midday Wednesday as traders mulled media reports of a poss",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/oil-nvidia-steady-european-bourses-113814922.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T11:38:14Z"
+    },
+    {
+      "id": "d02550fc-ff9e-3252-9fa6-021be5eb2f5b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Stocks gain as oil drops on Mideast hopes",
+      "summary": "Lower oil prices helped lift stock markets on Wednesday as investors awaited key US inflation data and a highly anticipated earnings report from chip titan Nvidia.The chipmaking titan has become a key marker of the reporting season as investors use it to judge the health of the AI boom that has sent markets to record highs over the past two years.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-oil-drops-023953523.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Obtrai6rjRHWIyAbMLmKfw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/35e64df318f488aeafab33cb2efc3848.jpg",
+      "published_at": "2026-08-26T11:33:16Z"
+    },
+    {
+      "id": "74e527bc-bba1-317f-99d4-eba0a37ec389",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin to $100K? BlackRock’s $5B ETF Shift Pulls More BTC Into Wall Street",
+      "summary": "BlackRock’s IBIT has processed more than $5 billion of direct Bitcoin-to-ETF conversions after lowering the minimum transaction size from $25 million to $1 million. Separate ...",
+      "source": "CCN",
+      "url": "https://www.ccn.com/news/crypto/bitcoin-100k-blackrocks-5b-etf-shift-pulls-more-btc-wall-street/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vW1ekU.2FxTN3KcEoKvT3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/47af1dff84250b778ad3aaaf8a9cde34",
+      "published_at": "2026-08-26T11:32:15Z"
+    },
+    {
+      "id": "53318fae-960f-32ee-a172-819f0acb6722",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Nvidia, Oil Outlooks Limit Wall Street Pre-Bell; Asia, Europe Up",
+      "summary": "Wall Street futures pointed modestly lower pre-bell Wednesday as traders weighed easing oil prices a",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/articles/nvidia-oil-outlooks-limit-wall-112704730.html",
+      "thumbnail": "",
+      "published_at": "2026-08-26T11:27:04Z"
+    },
+    {
+      "id": "3f67a57b-6ad7-320d-b7a4-efdce6fab20f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "S&P 500, Nasdaq futures flat before PCE data, Nvidia Q2 earnings",
+      "summary": "Stock futures were little changed Wednesday as investors awaited July inflation figures and results from the world's most valuable company",
+      "source": "Quartz",
+      "url": "https://qz.com/wall-street-pce-inflation-nvidia-earnings-082626",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2WETVTEyMpw63vwVaDcgiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/872d20f6889df2793efa7ee5810c0689.jpg",
+      "published_at": "2026-08-26T11:25:43Z"
+    },
+    {
+      "id": "ad32d48f-a793-31f1-91c4-4b9dfb601935",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Shiba Inu (SHIB) Breaks 11-Month Downtrend After Japan Approval",
+      "summary": "Shiba Inu price breaks its 20-week moving average as Japan clears SHIB for institutional trading. One level decides it.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/shiba-inu-price-japan-trend-break/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/URUXKyn8elAVTsvRsmJQGA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c7673174e73b3c263f0cb318fae590ff.jpg",
+      "published_at": "2026-08-26T11:20:35Z"
+    },
     {
       "id": "42f04ff7-8e1b-39be-b3af-e08486511bcf",
       "asset": "OIL",
@@ -26,37 +147,15 @@
       "published_at": "2026-08-26T11:13:15Z"
     },
     {
-      "id": "518634b0-9dc7-3760-8535-56e056dada77",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Artificial Intelligence (AI) Stock Could Fall by 13%, According to Wall Street -- but Here's Why I Refuse to Sell",
-      "summary": "The concerns surrounding Duolingo might be overblown.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/this-ai-stock-fall-13-wall-street-i-refuse-to-sell/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rVe82k_RKgieTKOPKzzIsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3a69b83afeb02498b5a1f98f9dfbe5b6.png",
-      "published_at": "2026-08-26T11:11:00Z"
-    },
-    {
       "id": "e3d8d878-ada8-3c65-807e-14a402e8931d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Stock Futures Weaker Ahead of PCE Data, Nvidia Earnings Due",
       "summary": "Stock futures were weaker as traders await inflation data and earnings from the world’s most valuable company, Nvidia.",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/investing/oil-extends-falls-nasdaq-futures-lower-before-nvidia-earnings-579f51f5?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d.NnCK_iW.OKd11c1HrfnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/25aeba5f855be1b01e6777a2e42b4e6a.jpg",
       "published_at": "2026-08-26T11:08:00Z"
-    },
-    {
-      "id": "1265cfc6-1e36-3fdf-b910-b417020983ee",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Billionaire Stanley Druckenmiller Is Quietly Loading Up on Healthcare Stocks -- Here's What His New Positions Reveal",
-      "summary": "Duquesne Family Office has beefed up its healthcare holdings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/billionaire-stanley-druckenmiller-is-quietly-loadi/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ERGfO.LbXDGohAEc7kNtfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/61e8daca2268c708e6fa8683ad3613a4.jpg",
-      "published_at": "2026-08-26T11:05:00Z"
     },
     {
       "id": "ef5e8d93-bf31-35b9-80d4-78220800a32f",
@@ -79,17 +178,6 @@
       "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/why-oil-prices-are-down-10-this-week-rXrbEY7u9PdjI67peyAE?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
       "published_at": "2026-08-26T11:01:35Z"
-    },
-    {
-      "id": "4e2a9929-b1aa-3a80-9e66-782ebd0fc9f1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "4 Ultra-High-Yield Stocks Retirees Should Never Hold in a Taxable Account",
-      "summary": "Some of the most popular high-yield dividend stocks look like retirement income wins until you factor in what the IRS quietly takes every quarter, and two names on this list hit retirees at a rate most never see coming.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/26/4-ultra-high-yield-stocks-retirees-should-never-hold-in-a-taxable-account/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ScaTt.x3GUJ8SRScuxHirQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/860866925dd84b3f06f420eda1703aa7.jpg",
-      "published_at": "2026-08-26T11:01:31Z"
     },
     {
       "id": "d388d1a1-6dcf-3625-ac63-80f7ce361770",
@@ -125,15 +213,15 @@
       "published_at": "2026-08-26T10:50:00Z"
     },
     {
-      "id": "e38f4b48-a7bb-3ecf-8ef5-6e4cf592d52c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dollar, Treasury Yields Edge Higher Ahead of PCE Data",
-      "summary": "Treasury yields rose slightly, awaiting July’s release of PCE data, the Fed’s preferred gauge of inflation, at 1230 GMT.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasury-market-1c64c2f4?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-26T10:45:00Z"
+      "id": "8e057609-6b78-39ec-b776-54238ed110fc",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Kalshi's Nvidia Compute Markets Hit $4.4M: Is AI Compute the 'New Oil'?",
+      "summary": "Wall Street’s next commodity may not sit in a barrel or a warehouse. It may be an hour of computing time on a chip from Nvidia Corp.. Kalshi’s GPU rental markets generated $4.4 million in notional volume through July 27,...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/options/articles/kalshis-nvidia-compute-markets-hit-104543628.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mofX3d7OTkRnA0xRn0XuUA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/633a450cdfb9ecb964d139076be1768e.jpg",
+      "published_at": "2026-08-26T10:45:43Z"
     },
     {
       "id": "67834b99-518f-3cbf-987b-070f4b364b03",
@@ -158,17 +246,6 @@
       "published_at": "2026-08-26T10:40:36Z"
     },
     {
-      "id": "4f2125c5-3155-3028-9b06-1252b994a01f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Easing Oil Prices, Nvidia Outlook Lift Asian Stock Markets",
-      "summary": "Asian stock markets tracked moderately higher Wednesday after crude oil prices again eased, and as t",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-nvidia-outlook-103707743.html",
-      "thumbnail": "",
-      "published_at": "2026-08-26T10:37:07Z"
-    },
-    {
       "id": "b6e30898-fe97-3e77-a57c-52d020cf0f55",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -189,17 +266,6 @@
       "url": "https://www.fool.com/investing/2026/08/26/tether-ceo-paolo-ardoino-says-to-avoid-disaster-ho/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6MEekOS7pWvJmlAlH47Ljg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/579200dd8984afc38c4ba732adc31127.jpg",
       "published_at": "2026-08-26T10:35:00Z"
-    },
-    {
-      "id": "38216950-33bf-30fa-a1e4-0d2d0cbc9a59",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Morning Bid: Falling oil calms nervy markets",
-      "summary": "By Mike Dolan Aug 26, LONDON (Reuters) - What matters in U.S. and global markets today By Mike Dolan, Editor-At-Large, Finance and Markets While the continuing retreat of world oil prices on Wednesday",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/articles/morning-bid-falling-oil-calms-103319409.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ws44MQdoF.dwYB8ugTmWAQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/decd30a7e34fff86f1adb3609fec1270.jpg",
-      "published_at": "2026-08-26T10:33:19Z"
     },
     {
       "id": "71af1f6a-63f5-38f1-a256-f6ea114ee2f5",
@@ -224,17 +290,6 @@
       "published_at": "2026-08-26T10:14:00Z"
     },
     {
-      "id": "b596d49a-855a-3bbe-8e62-1f476c50c9d6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Commerzbank Says Oil Prices Weaker, US Equity Futures Flat",
-      "summary": "Brent oil prices fell below $87 a barrel on the reported pause of US strikes against Iran, according",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-weaker-101303334.html",
-      "thumbnail": "",
-      "published_at": "2026-08-26T10:13:03Z"
-    },
-    {
       "id": "85a43c85-c54f-3719-96ff-eb1b1f0da222",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -255,61 +310,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-teslas-biggest-robotics-advantage-100114948.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RefswwGhJqcwnd1T015FsA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ec2937f566038781271cfbf894db07f6.png",
       "published_at": "2026-08-26T10:01:14Z"
-    },
-    {
-      "id": "75517f20-e2c9-46e1-af09-1b5f8e18c61c",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia earnings could reveal its fastest-growing business isn't chips: Chart of the Day",
-      "summary": "Wall Street is focused on Nvidia's GPUs, but the faster-growing story is sitting beside them.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uu38zJ_z.hczqWsKLR1kGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e6acb0b9-5ebe-4509-b56a-fb9891f0645b_883388b6219eec3ce5ca0266f2e85560c46eae5b742b32ede8f7b2f507b4def8.jpg",
-      "published_at": "2026-08-26T10:00:00Z"
-    },
-    {
-      "id": "fa0a1b37-d55d-38ff-8ce8-0efe81353d92",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On",
-      "summary": "Most investors can name the massive companies racing to develop autonomous vehicles, but here are three hidden gems you might not have considered.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/26/3-overlooked-autonomous-vehicle-stocks-investors-s/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VcmBcqvBLLi.PKr48Vm6yA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9fbb4a654b72f4dd441f356d53ead635.png",
-      "published_at": "2026-08-26T09:50:00Z"
-    },
-    {
-      "id": "c15aada3-5eeb-3ed7-b49b-4d2d0e03d061",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Dealer Hedging Puts Bitcoin $80,000 Zone in Focus",
-      "summary": "Bitcoin traders face a $6.44 billion options expiry on Deribit at 08:00 UTC this Friday, covering 81,700 BTC contracts as spot hovers near $79,000 after a rapid climb from $62,000. The size and positioning of that expiry, concentrated at the $75,000 and $80,000 strikes, puts dealer hedging flows squarely in ...",
-      "source": "Cryptonews",
-      "url": "https://cryptonews.com/news/bitcoin-options-expiry-deribit/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bVQGCSaa9HaF80A1OCmTAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/72bc9403a8154f6149b3077e560a0d35",
-      "published_at": "2026-08-26T09:49:31Z"
-    },
-    {
-      "id": "dd0636f5-d342-3e08-85ae-d260480b9c70",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Why Did the XRP Price Rally Beat Every Top-10 Coin Without an Altcoin Season?",
-      "summary": "ETF inflows, Korean turnover, and Binance positioning data show what powered the 43.7% XRP price rally past every top-10 crypto.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/xrp-price-rally-etf-korea-binance-analysis/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qLh1fSTYgA14wgVQ7ExmMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/2754d7acc40b3fc63110cd7270be4aac.jpg",
-      "published_at": "2026-08-26T09:42:38Z"
-    },
-    {
-      "id": "873c7381-7222-3917-ad45-db8fb79c2bda",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin to $500K, XRP to $29 After CLARITY Act? 4 AI Models Predict What Happens Next — One Sees a Crash First",
-      "summary": "The Senate’s Sept. 15 CLARITY Act vote is a 60-vote procedural test, not a final passage vote. Brian Armstrong sees Bitcoin reaching $300,000–$400,000 by 2030, ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-500k-xrp-29-clarity-act-4-ai-models-predict/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/BZ9JeMChFZtwGake_.TCUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/73e55e8ad176e65b6aae1dd1013aefa4",
-      "published_at": "2026-08-26T09:37:16Z"
     }
   ]
 }
