@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-26 03:51 UTC",
+  "last_updated": "2026-08-26 04:35 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "cc5eb3f2-03fb-3a20-b47f-93e44421a8b2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "History Has Changed My Mind on These Millionaire-Maker AI Stocks (At Least for Now). Why I Have Suspended My Earlier Call.",
+      "summary": "Investors should keep CoreWeave and Iren on a watch list rather than in a portfolio right now.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/26/history-has-changed-my-mind-on-these-millionaire-m/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5ig6pO52biTDTKshd3Rjaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/996cb1cd74dc919b0a2ee17afcd6d755.jpg",
+      "published_at": "2026-08-26T04:20:00Z"
+    },
+    {
+      "id": "21185ee2-2c4a-3e41-b555-0a26e7989e65",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold ticks lower, US inflation data in spotlight",
+      "summary": "By Ashitha Shivaprasad Aug 26 (Reuters) - Gold eased on Wednesday after scaling a more than three-month high in the previous session, as investors awaited a key U.S. inflation report to gauge the",
+      "source": "Reuters",
+      "url": "https://sg.finance.yahoo.com/news/gold-holds-steady-investors-focus-020458533.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4rXIM1zswgGX2RprJvuB3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/df1a2b06821fac190d45b43a2697dc9f.jpg",
+      "published_at": "2026-08-26T04:18:16Z"
+    },
+    {
+      "id": "735d6fea-3c0d-36fc-ba54-2a4759596546",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now",
+      "summary": "The chipmaker is set to be a prime beneficiary of the agentic AI-driven boom in CPU sales.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/amd-stock-is-rising-heres-why-this-top-ai-stock-is/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5jujm2u.xab51UwGWJ3ANw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5182ee0ef755b34118847ab043b511a.jpg",
+      "published_at": "2026-08-26T04:15:17Z"
+    },
+    {
+      "id": "217a2bd4-fac2-3a65-82e5-6df179c3c021",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares mostly rise as oil prices fall and hope grows for AI",
+      "summary": "Asian shares mostly rose in early Wednesday trading, as investors kept an eye on the ongoing talks over reopening the Strait of Hormuz, which remains largely shut down because of the war in Iran.  The global interest in artificial intelligence continued to boost some regional issues, while declining oil prices helped gear up optimism in oil-importing nations like Japan.  Japan's benchmark Nikkei 225 rose 0.6% in morning trading to 66,227.55.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-oil-035909033.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9sHPzr6ZWQyAn6_Yh.AoYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/0d6ad8049e4d79c1d24904288d060bf7.jpg",
+      "published_at": "2026-08-26T03:59:09Z"
+    },
     {
       "id": "0f2e15ab-ead5-311b-a2e2-2aebfab4a0b5",
       "asset": "NVDA",
@@ -49,8 +93,8 @@
     },
     {
       "id": "53becb39-e291-3487-a7d5-45f85aed6ff4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk’s TeraFab And Semi Bets Shift Into High Gear",
       "summary": "Tesla will open its Nevada Semi factory on Sept.24, with capacity to produce as many as 50,000 trucks annually.",
       "source": "Stocktwits",
@@ -60,14 +104,25 @@
     },
     {
       "id": "a1a5cb94-36b5-3bbd-869f-362442258823",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
       "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
       "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pOOUjGtbZi0207B._Fq6Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/304ee85133bbb6e36683a05ed789ce00.jpg",
       "published_at": "2026-08-26T03:07:14Z"
+    },
+    {
+      "id": "4c7aff4d-8fe1-3ed2-b676-7399f4b4091b",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Novo Resources highlights near-term drilling and investment plans",
+      "summary": "Novo Resources executive chairman Mike Spreadborough talked with Proactive about the company’s discovery-led gold and copper exploration strategy, its portfolio of projects across Australia and the drilling catalysts expected over the coming months. Novo Resources is focused on greenfields discovery, targeting the earlier stages of the exploration curve where successful discoveries can potentially create significant value. He also highlighted the company’s balance sheet and its ability to assess development opportunities alongside organic exploration. Belltopper in Victoria remains Novo’s most advanced gold project. Spreadborough pointed to its large exploration target and high-grade reef systems, with an initial resource having been defined as part of the company’s work to demonstrate the potential to convert exploration targets into resources. He also discussed Toolunga in Western Australia, where Novo is targeting copper-gold opportunities across a large project area, as well as planned work at Teichman, Egina and Tibooburra. Egina gives Novo exposure to ground south of Northern Star’s Hemi gold project, while further drilling and fieldwork are planned across several projects. Meanwhile, Novo values its strategic investment in San Cristobal Mining at around $36 million. It also has $8 million in cash and Spreadborough said the investment is liquid and could provide funding flexibility for drilling or potential project acquisitions. Visit Proactive’s YouTube channel for more interviews and market updates. Don’t forget to like the video, subscribe to the channel and enable notifications for future content.",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/video/novo-resources-highlights-near-term-024731363.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eVUmCCCLPpi.GA223u9BYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_video_751/29acde5530194b0683bdc2bd391750fa.jpg",
+      "published_at": "2026-08-26T02:47:31Z"
     },
     {
       "id": "d02550fc-ff9e-3252-9fa6-021be5eb2f5b",
@@ -112,17 +167,6 @@
       "url": "https://sg.finance.yahoo.com/news/indian-shares-seen-higher-oil-021821488.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OGtYHq1JY8Fx25a3xCyYlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/58a089f147b78827aa2460d4d72b80f8.jpg",
       "published_at": "2026-08-26T02:18:21Z"
-    },
-    {
-      "id": "21185ee2-2c4a-3e41-b555-0a26e7989e65",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold holds steady as investors focus on US inflation data",
-      "summary": "By Ashitha Shivaprasad Aug 26 (Reuters) - Gold held steady on Wednesday after scaling a more than three-month high in the previous session, as investors awaited a key U.S. inflation report to gauge",
-      "source": "Reuters",
-      "url": "https://sg.finance.yahoo.com/news/gold-holds-steady-investors-focus-020458533.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E1PixpzL1FnDsK4i1Vr5AQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/edc2cced4884eb41ff18230c997f2b0d.jpg",
-      "published_at": "2026-08-26T02:04:58Z"
     },
     {
       "id": "cee53e62-d793-3220-82c7-8050fddfd60b",
@@ -257,17 +301,6 @@
       "published_at": "2026-08-26T00:29:00Z"
     },
     {
-      "id": "9b2e75bd-37d5-30c6-8054-1d1f5b2ca60f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Gold Fields (GFI) Q2 2026 Earnings Call Transcript",
-      "summary": "Record cash flows powered by higher gold prices and Salares Norte ramp-up.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/25/gold-fields-gfi-q2-2026-earnings-call-transcript/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kobMvAmASEoEIUZSgJacWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73.png",
-      "published_at": "2026-08-26T00:28:20Z"
-    },
-    {
       "id": "ff2b4506-9596-3ddd-9ddb-64ad009f6eda",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -277,39 +310,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/bitdeer-btdr-turn-wind-powered-002035490.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JzXBx3VM6bpqgMy7FOXHUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4.jpg",
       "published_at": "2026-08-26T00:20:35Z"
-    },
-    {
-      "id": "6e27c7e8-2c81-344b-8d7b-9f669e84e2a3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Top analyst spots a rare window for Bitcoin buyers",
-      "summary": "Analyst Michaël van de Poppe says buying Bitcoin at $80,000 now is like buying at $20,000 last cycle, as the rally draws record ETF inflows.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/top-analyst-spots-a-rare-window-for-bitcoin-buyers",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.O62hgwp67Ymd3.UJIzvgA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/22238ec6652ba2c919a5f7d495700c74.jpg",
-      "published_at": "2026-08-26T00:19:17Z"
-    },
-    {
-      "id": "e38f4b48-a7bb-3ecf-8ef5-6e4cf592d52c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "JGBs Rise, Tracking Gains in U.S. Treasury Market",
-      "summary": "TREASURYS 0015 GMT — JGBs rise in the early Tokyo session, tracking overnight price gains in U.S. Treasury market. Both JGBs and Treasurys tend to move in tandem. Japan’s government bond market may also be buoyed by falling oil prices, which could lead to lower inflation in Japan.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasury-market-1c64c2f4?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-08-26T00:18:00Z"
-    },
-    {
-      "id": "c8774e1b-2e3f-3ecf-848a-632ecf3aef02",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",
-      "summary": "Treasury yields declined, as the benchmark 10-year Treasury note yield dropped by over 7 basis points to reach 4.63%.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-rangebound-as-investors-await-nvidia-earnings/cZYNONDRJom",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NqR_6SI0.MrTW_OMjlGfBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4b1cfd1cebb08709ce989ad97de7d87f.jpg",
-      "published_at": "2026-08-26T00:02:57Z"
     }
   ]
 }
