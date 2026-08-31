@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 21:46 UTC",
+  "last_updated": "2026-08-31 23:04 UTC",
   "total": 37,
   "ok": 37,
   "prices": {
@@ -7,99 +7,99 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "decimals": 0,
-      "price": 78533.390625,
+      "price": 78383.8203125,
       "change": 0,
-      "base": 78533.390625,
+      "base": 78383.8203125,
       "status": "ok"
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
       "decimals": 0,
-      "price": 2476.02001953125,
+      "price": 2462.010009765625,
       "change": 0,
-      "base": 2476.02001953125,
+      "base": 2462.010009765625,
       "status": "ok"
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
       "decimals": 2,
-      "price": 104.26000213623047,
+      "price": 102.93000030517578,
       "change": 0,
-      "base": 104.26000213623047,
+      "base": 102.93000030517578,
       "status": "ok"
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
       "decimals": 2,
-      "price": 696.3699951171875,
+      "price": 690.0,
       "change": 0,
-      "base": 696.3699951171875,
+      "base": 690.0,
       "status": "ok"
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "decimals": 4,
-      "price": 1.3920999765396118,
+      "price": 1.3760000467300415,
       "change": 0,
-      "base": 1.3920999765396118,
+      "base": 1.3760000467300415,
       "status": "ok"
     },
     "GOLD": {
       "symbol": "GOLD",
       "name": "Gold Spot",
       "decimals": 2,
-      "price": 4529.89990234375,
+      "price": 4494.60009765625,
       "change": 0,
-      "base": 4529.89990234375,
+      "base": 4494.60009765625,
       "status": "ok"
     },
     "SILVER": {
       "symbol": "SILVER",
       "name": "Silver",
       "decimals": 2,
-      "price": 67.78600311279297,
+      "price": 67.16999816894531,
       "change": 0,
-      "base": 67.78600311279297,
+      "base": 67.16999816894531,
       "status": "ok"
     },
     "OIL": {
       "symbol": "OIL",
       "name": "WTI Crude",
       "decimals": 2,
-      "price": 83.4000015258789,
+      "price": 86.30000305175781,
       "change": 0,
-      "base": 83.4000015258789,
+      "base": 86.30000305175781,
       "status": "ok"
     },
     "NATGAS": {
       "symbol": "NATGAS",
       "name": "Natural Gas",
       "decimals": 3,
-      "price": 2.888000011444092,
+      "price": 2.930999994277954,
       "change": 0,
-      "base": 2.888000011444092,
+      "base": 2.930999994277954,
       "status": "ok"
     },
     "COPPER": {
       "symbol": "COPPER",
       "name": "Copper",
       "decimals": 3,
-      "price": 6.658999919891357,
+      "price": 6.692999839782715,
       "change": 0,
-      "base": 6.658999919891357,
+      "base": 6.692999839782715,
       "status": "ok"
     },
     "DXY": {
       "symbol": "DXY",
       "name": "Dollar Index",
       "decimals": 2,
-      "price": 99.69999694824219,
+      "price": 99.41300201416016,
       "change": 0,
-      "base": 99.69999694824219,
+      "base": 99.41300201416016,
       "status": "ok"
     },
     "US10Y": {
@@ -107,9 +107,9 @@
       "name": "US 10Y Yield",
       "decimals": 2,
       "suffix": "%",
-      "price": 4.71999979019165,
-      "change": 1.03,
-      "base": 4.671999931335449,
+      "price": 4.758000373840332,
+      "change": 0.81,
+      "base": 4.71999979019165,
       "status": "ok"
     },
     "US02Y": {
@@ -117,99 +117,99 @@
       "name": "US 2Y Yield",
       "decimals": 2,
       "suffix": "%",
-      "price": 3.7300000190734863,
-      "change": 1.41,
-      "base": 3.677999973297119,
+      "price": 3.7319998741149902,
+      "change": 0.05,
+      "base": 3.7300000190734863,
       "status": "ok"
     },
     "EURUSD": {
       "symbol": "EURUSD",
       "name": "Euro / US Dollar",
       "decimals": 4,
-      "price": 1.1582117080688477,
-      "change": -0.64,
-      "base": 1.1656370162963867,
+      "price": 1.1618449687957764,
+      "change": 0,
+      "base": 1.1618449687957764,
       "status": "ok"
     },
     "GBPUSD": {
       "symbol": "GBPUSD",
       "name": "British Pound / US Dollar",
       "decimals": 4,
-      "price": 1.3537112474441528,
-      "change": -0.44,
-      "base": 1.3597116470336914,
+      "price": 1.354609727859497,
+      "change": 0,
+      "base": 1.354609727859497,
       "status": "ok"
     },
     "USDJPY": {
       "symbol": "USDJPY",
       "name": "US Dollar / Yen",
       "decimals": 2,
-      "price": 160.02499389648438,
-      "change": 0.44,
-      "base": 159.3209991455078,
+      "price": 159.78399658203125,
+      "change": 0,
+      "base": 159.78399658203125,
       "status": "ok"
     },
     "USDTRY": {
       "symbol": "USDTRY",
       "name": "US Dollar / Turkish Lira",
       "decimals": 2,
-      "price": 48.231998443603516,
-      "change": 0.5,
-      "base": 47.99409866333008,
+      "price": 48.25130081176758,
+      "change": 0,
+      "base": 48.25130081176758,
       "status": "ok"
     },
     "SPY": {
       "symbol": "SPY",
       "name": "S&P 500 ETF",
       "decimals": 2,
-      "price": 769.3499755859375,
-      "change": -0.23,
-      "base": 771.0999755859375,
+      "price": 767.0499877929688,
+      "change": -0.3,
+      "base": 769.3499755859375,
       "status": "ok"
     },
     "QQQ": {
       "symbol": "QQQ",
       "name": "Nasdaq 100 ETF",
       "decimals": 2,
-      "price": 716.4299926757812,
-      "change": -0.65,
-      "base": 721.1099853515625,
+      "price": 716.760009765625,
+      "change": 0.05,
+      "base": 716.4299926757812,
       "status": "ok"
     },
     "DIA": {
       "symbol": "DIA",
       "name": "Dow Jones ETF",
       "decimals": 2,
-      "price": 535.0599975585938,
-      "change": -0.03,
-      "base": 535.219970703125,
+      "price": 531.5700073242188,
+      "change": -0.65,
+      "base": 535.0599975585938,
       "status": "ok"
     },
     "IWM": {
       "symbol": "IWM",
       "name": "Russell 2000 ETF",
       "decimals": 2,
-      "price": 295.75,
-      "change": -1.35,
-      "base": 299.80999755859375,
+      "price": 293.92999267578125,
+      "change": -0.62,
+      "base": 295.75,
       "status": "ok"
     },
     "ES": {
       "symbol": "ES",
       "name": "S&P 500 Futures",
       "decimals": 2,
-      "price": 7722.0,
+      "price": 7700.75,
       "change": 0,
-      "base": 7722.0,
+      "base": 7700.75,
       "status": "ok"
     },
     "NQ": {
       "symbol": "NQ",
       "name": "Nasdaq Futures",
       "decimals": 2,
-      "price": 29491.75,
+      "price": 29491.5,
       "change": 0,
-      "base": 29491.75,
+      "base": 29491.5,
       "status": "ok"
     },
     "DAX": {
@@ -217,8 +217,8 @@
       "name": "Germany DAX",
       "decimals": 2,
       "price": 26569.990234375,
-      "change": 0.77,
-      "base": 26367.240234375,
+      "change": 0,
+      "base": 26569.990234375,
       "status": "ok"
     },
     "FTSE": {
@@ -235,8 +235,8 @@
       "name": "France CAC 40",
       "decimals": 2,
       "price": 8401.1796875,
-      "change": 0.98,
-      "base": 8319.8701171875,
+      "change": 0,
+      "base": 8401.1796875,
       "status": "ok"
     },
     "NIKKEI": {
@@ -244,8 +244,8 @@
       "name": "Japan Nikkei 225",
       "decimals": 2,
       "price": 66405.5625,
-      "change": 0.41,
-      "base": 66131.9765625,
+      "change": 0,
+      "base": 66405.5625,
       "status": "ok"
     },
     "SHCOMP": {
@@ -253,8 +253,8 @@
       "name": "Shanghai Composite",
       "decimals": 2,
       "price": 3952.178955078125,
-      "change": -0.11,
-      "base": 3956.571044921875,
+      "change": 0,
+      "base": 3952.178955078125,
       "status": "ok"
     },
     "HSI": {
@@ -262,71 +262,71 @@
       "name": "Hong Kong Hang Seng",
       "decimals": 2,
       "price": 25584.7890625,
-      "change": 0.07,
-      "base": 25565.740234375,
+      "change": 0,
+      "base": 25584.7890625,
       "status": "ok"
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple",
       "decimals": 2,
-      "price": 319.70001220703125,
-      "change": 1.63,
-      "base": 314.5799865722656,
+      "price": 316.8500061035156,
+      "change": -0.89,
+      "base": 319.70001220703125,
       "status": "ok"
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft",
       "decimals": 2,
-      "price": 513.530029296875,
-      "change": 1.68,
-      "base": 505.05999755859375,
+      "price": 507.2900085449219,
+      "change": -1.22,
+      "base": 513.530029296875,
       "status": "ok"
     },
     "NVDA": {
       "symbol": "NVDA",
       "name": "Nvidia",
       "decimals": 2,
-      "price": 217.5500030517578,
-      "change": -4.57,
-      "base": 227.97999572753906,
+      "price": 220.77999877929688,
+      "change": 1.48,
+      "base": 217.5500030517578,
       "status": "ok"
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla",
       "decimals": 2,
-      "price": 348.75,
-      "change": -1.71,
-      "base": 354.80999755859375,
+      "price": 367.95001220703125,
+      "change": 5.51,
+      "base": 348.75,
       "status": "ok"
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon",
       "decimals": 2,
-      "price": 266.42999267578125,
-      "change": 3.97,
-      "base": 256.260009765625,
+      "price": 259.7699890136719,
+      "change": -2.5,
+      "base": 266.42999267578125,
       "status": "ok"
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms",
       "decimals": 2,
-      "price": 578.02001953125,
-      "change": 1.21,
-      "base": 571.0999755859375,
+      "price": 572.3400268554688,
+      "change": -0.98,
+      "base": 578.02001953125,
       "status": "ok"
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "decimals": 2,
-      "price": 346.5899963378906,
-      "change": 1.74,
-      "base": 340.6499938964844,
+      "price": 339.3500061035156,
+      "change": -2.09,
+      "base": 346.5899963378906,
       "status": "ok"
     },
     "BIST100": {
@@ -334,8 +334,8 @@
       "name": "BIST 100",
       "decimals": 2,
       "price": 14641.599609375,
-      "change": 0.45,
-      "base": 14575.5,
+      "change": 0,
+      "base": 14641.599609375,
       "status": "ok"
     }
   }
