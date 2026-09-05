@@ -1,18 +1,227 @@
 {
-  "last_updated": "2026-09-04 22:04 UTC",
+  "last_updated": "2026-09-05 00:15 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "3dad4a8b-3c65-3a6a-b17b-ae947a713ade",
+      "id": "7aff820f-1cc9-3498-ab02-d0c6c438ada1",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. just secured control of Venezuela's vast oil reserves",
+      "summary": "The vote passed, the ink is dry, and $7 billion is committed. The pump is a separate conversation.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/markets/us-secured-control-venezuela-vast-oil-reserves",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c83u8AqlpoZvqZZbHITe8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e338ad515fa08d8b8df41460fd6365a6.jpg",
+      "published_at": "2026-09-05T00:03:00Z"
+    },
+    {
+      "id": "1f0d0e85-64a1-35e1-97d0-18a889e3c690",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Basin rig count up one as prices surge",
+      "summary": "The rig count in the Permian Basin was up one this week, the latest count Friday by Baker Hughes shows, with 268 rigs active in the region. A year ago, 254 rigs were active in the region. Nationally, the oil and gas rig count is unchanged from last week at 588 rigs. A year ago, 537 rigs were active. The count shows that 449 rigs sought oil, up two from the previous week, and 130 explored for ...",
+      "source": "Odessa American, Texas",
+      "url": "https://www.oaoa.com/?p=371001",
+      "thumbnail": "",
+      "published_at": "2026-09-05T00:01:00Z"
+    },
+    {
+      "id": "df273d4c-0dc3-34ff-b84a-9858b439f1d6",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Why Lululemon Stock Crashed Today",
-      "summary": "The apparel retailer's turnaround plan isn't working.",
+      "title": "Prediction: IonQ Puts a Multiyear Revenue Number on the Board Tuesday",
+      "summary": "A $15.5 billion market value rests on years the quantum computing company has never guided to.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/04/why-lululemon-stock-crashed-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SpRbq.XI2cYX60CuDQcA3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cc5d01534e6821a2763072031bd25311.jpg",
-      "published_at": "2026-09-04T21:55:44Z"
+      "url": "https://www.fool.com/investing/2026/09/04/prediction-ionq-puts-a-multiyear-revenue-number-on-the-board-tuesday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/c84U89nh0JgQqJ65U2jUzQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d62e4a2f73172485eabdf0b95ed7bc93.png",
+      "published_at": "2026-09-04T23:46:01Z"
+    },
+    {
+      "id": "c9a9dc57-94ee-3941-8bc2-b5546d92f15d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Quanex Stock Skyrocketed by 22% on Friday",
+      "summary": "It published its fiscal third-quarter earnings report after market close the day before.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/04/why-quanex-stock-skyrocketed-by-22-on-friday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vr40z84Lr9DdxGHwTET1jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6c5585e76010d1f821b603d24d5215f5.jpg",
+      "published_at": "2026-09-04T23:34:30Z"
+    },
+    {
+      "id": "7fd87e7e-0c83-35a5-8b7d-f4645de56c0f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Treasury Chief Bessent Predicts Oil Price Drop To $40 Following End Of Iran Conflict",
+      "summary": "Treasury Secretary Scott Bessent foresees a sharp drop in crude oil prices and bond yields once active hostilities with Iran conclude, amid rising government debt concerns.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/treasury-chief-bessent-predicts-oil-price-drop-to-40-following-end-of-iran-conflict/cZsDmBaRJDL",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mam5F_tmvSQju9KnKh3hbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/51fa74ca4ced71e6a8b28df0a102f718",
+      "published_at": "2026-09-04T23:20:06Z"
+    },
+    {
+      "id": "82d9a7e5-0c83-3711-a3bb-16806c199460",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Self-Driving’s Next Task: Potholes",
+      "summary": "REVIEW  On Monday, shares of Tesla jumped 5.5%, closing at $367.95, up 18% for the month after dropping 26% in July. Why the rise? There were no Wall Street upgrades or price-target changes. One Global exchange-traded fund co-founder Gary Black speculated investors might be anticipating the launch of Cybercab, Tesla’s robo-taxi, which lacks a steering wheel.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/self-drivings-next-task-potholes-a696a3f5?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kB3lpSzhIyfgRWL7cb.f5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1f99221d41ad0cc9ffa87dd65f45dca2.jpg",
+      "published_at": "2026-09-04T23:17:00Z"
+    },
+    {
+      "id": "31b1a928-6679-3ecc-9a88-e164adad3125",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "summary": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling. The release did not disclose project pricing or committed revenue, although ChronoScale had already disclosed a two-year GPU services agreement with Microsoft tied to the planned deployment. […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chronoscale-says-plans-50-mw-231034421.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tJmmEdP_fWPak5lzW52KMQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/589922bc8f40052d398071e487aaf73c.jpg",
+      "published_at": "2026-09-04T23:10:34Z"
+    },
+    {
+      "id": "3e12e503-e740-386f-b662-8c934a0d112f",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "What Will Microsoft (MSFT) Reveal With Its New AI And Cloud Reporting?",
+      "summary": "Microsoft (NasdaqGS:MSFT) announced plans to restructure its financial reporting and segment disclosures from fiscal 2027 to highlight AI and cloud activities. The company will consolidate operating segments and introduce new Azure specific disclosures to give investors clearer insight into its cloud performance. Management framed the overhaul as a way to better align financial reporting with Microsoft's growing focus on AI driven products and services. The new reporting format is expected...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-reveal-ai-cloud-230555807.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPWopoFekEfw2LKiJEwh1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
+      "published_at": "2026-09-04T23:05:55Z"
+    },
+    {
+      "id": "ada19db6-beec-314f-bb68-dbbf2e66cc04",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "summary": "AWS and NVIDIA said on August 26 that Amazon’s cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028. That follows an earlier plan for more than one million GPUs beginning in 2026 and includes NVIDIA networking, Vera CPUs, and 100,000 GPUs for U.S. government workloads. Amazon.com, […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/aws-plans-2-million-more-230419284.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GCGhbkluhcP4lgRjg.VZBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3cdfc6984f75eb9c4dba5deb13ce85cf.jpg",
+      "published_at": "2026-09-04T23:04:19Z"
+    },
+    {
+      "id": "c022b64c-df79-3520-acda-f62c580456de",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal",
+      "summary": "Negotiators offered access to advanced AI hardware to help secure a preliminary agreement last year to end decades of conflict, the latest example of chip diplomacy.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cPmeLlO1tpW12A3iboIrgw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/a59dfddc8fe1ccf2333d9f699866eaa5.jpg",
+      "published_at": "2026-09-04T23:00:00Z"
+    },
+    {
+      "id": "a91c1760-cb30-35a5-aafa-aa8fe449488e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
+      "summary": "Coatue Management’s Q2 filing disclosed a new position in Intel and, for the first time, a reportable position in newly public Cerebras. Coatue reported 12,084,027 Intel shares and roughly 7.01 million Cerebras shares at June 30. Intel Corporation (NASDAQ:INTC) offers manufacturing and established distribution, while Cerebras Systems Inc. (NASDAQ:CBRS) offers a radically different wafer-scale architecture. […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coatue-opened-positions-intel-cerebras-225513318.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LAYXX0xSS53FOkA5UEV9Kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ecebfb0ba7c7a8aee3884e1b234ef4b9.jpg",
+      "published_at": "2026-09-04T22:55:13Z"
+    },
+    {
+      "id": "58db7218-aed8-334d-9383-927f746e1456",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why ASML Holding Stock Bumped 4% Higher Today",
+      "summary": "A glowing analyst report on a pair of chipmakers lifted associated stocks.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/04/why-asml-holding-stock-bumped-4-higher-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5y7SDOc0rqI4Kh4uzFVxQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/89eb7f4b9aab4ea79ad3ee98b7c3a0b8.jpg",
+      "published_at": "2026-09-04T22:51:22Z"
+    },
+    {
+      "id": "8e4b3604-37c4-347e-9e8c-5a2541b5b889",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer Believes Nvidia Corp. (NASDAQ:NVDA) Buying Back Half A Trillion Worth In Stock Would Be Great",
+      "summary": "Nvidia Corp. (NASDAQ:NVDA)’s shares are up by 22% year-to-date as their performance has remained muted after posting major gains in the previous years. While the narrative for the firm surrounds the sustainability of the AI infrastructure buildout and profitability, Cramer has focused on the share price performance. The CNBC TV host has been one of […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-nvidia-corp-224659401.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a59IfJfKKClO2i.iZfvCHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+      "published_at": "2026-09-04T22:46:59Z"
+    },
+    {
+      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+      "summary": "The stock market fell this week before bouncing. Nvidia, Micron, Sandisk are new buys, but for how long? Apple, inflation data loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8YDOZp3ggP14hOWPB6BDPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a0daf3d8e4f114a8bc2e54db7749c2c3.jpg",
+      "published_at": "2026-09-04T22:41:04Z"
+    },
+    {
+      "id": "85853cc9-d6ad-3868-b86f-214457b42308",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla Launched the Cybercab Thursday, 6 Weeks After Removing Volume Production of It From This Year's Plan",
+      "summary": "Riders in Austin can now hail the two-seater. The company's own July letter says batteries still set the pace.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/04/tesla-launched-the-cybercab-thursday-6-weeks-after-removing-volume-production-of-it-from-this-year-s-plan/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qldPVWdHGeLwAFPXMj3Cvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e9df3d7377f3f37f3d6ff784d034e6c0.png",
+      "published_at": "2026-09-04T22:41:01Z"
+    },
+    {
+      "id": "d6f02ce0-eec4-3306-ac5d-3570217a5bac",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
+      "summary": "Nonfarm payrolls grew by 162,000 in August, while the unemployment rate held steady at 4.1%.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-blowout-jobs-report-fans-rate-hike-fears-while-chipmaker-strength-aids-nasdaq-tsla-nflx-be-nvda-in-focus/cZsDjVKRJDg",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JCvo65TurCbamAIH6IxjLg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/2f5671490c3822979c0602b54482e89c.jpg",
+      "published_at": "2026-09-04T22:18:49Z"
+    },
+    {
+      "id": "1ac0f3b9-4eec-317c-baab-63ae59c613c4",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Wall Street financier seizes on Treasury Secretary Bessent’s debt warning",
+      "summary": "The U.S. Treasury Secretary Bessent recently warned of the global debt.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/wall-street-financier-seizes-on-treasury-secretary-bessents-debt-warning",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ns6jVDPvCVM_MXqkA80y3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e205f1043af93b95d9885501c6537134.jpg",
+      "published_at": "2026-09-04T22:07:08Z"
+    },
+    {
+      "id": "d9b7af1b-90a1-362c-93d7-60d24dbeb802",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Jim Cramer flagged one stock quietly concentrating portfolios",
+      "summary": "The portfolio looks diversified. Cramer says look again",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/jim-cramer-caterpillar-data-center-ai-concentration-risk",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G6j2XSBpZ.dRKZTOfSereA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/18bd3f7b7b336f7eb97074a23a84f121.jpg",
+      "published_at": "2026-09-04T22:07:00Z"
+    },
+    {
+      "id": "29e7ce27-7c2e-3fd5-bd46-db70351a0d43",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "The Only Account the IRS Never Taxes Going In, Growing, or Coming Out: 3 ETFs That Belong Inside It",
+      "summary": "One account legally strips taxes from contributions, growth, and withdrawals all at once, and most people who have it are leaving the compounding power almost entirely on the table. Three ETFs can fix that problem for good.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/09/04/the-only-account-the-irs-never-taxes-going-in-growing-or-coming-out-3-etfs-that-belong-inside-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5dMEDWEAbbAAqRnOrbmuAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2e8d8fe3b8570889f9c883618ec756b9.jpg",
+      "published_at": "2026-09-04T22:05:06Z"
+    },
+    {
+      "id": "230994a7-34a4-3c68-97bb-281bf76593c3",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Exclusive-China's Xi seeks to bring large CEO delegation on US visit, sources say",
+      "summary": "By Laurie Chen and Eduardo Baptista BEIJING, Sept 4 (Reuters) - President Xi Jinping is preparing a large business delegation to accompany him on his visit to Washington, two sources said, an unusual",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hy0LfFVFu8yGc94xDVBjdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/58a39c88f9e2e85105ee40be22f8e972.jpg",
+      "published_at": "2026-09-04T22:02:51Z"
     },
     {
       "id": "796339c8-088d-3aa0-926f-fdfc3da3a611",
@@ -27,14 +236,25 @@
     },
     {
       "id": "3656f683-c5fb-3fc6-a196-abc3982749fe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "From Launch Party to Federal Probe: What Went Wrong With Tesla's Cybercab in 24 Hours",
       "summary": "The much-anticipated launch led to a share price plunge.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/09/04/from-launch-party-to-federal-probe-what-went-wrong-with-teslas-cybercab-in-24-hours/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qldPVWdHGeLwAFPXMj3Cvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e9df3d7377f3f37f3d6ff784d034e6c0.png",
       "published_at": "2026-09-04T21:50:01Z"
+    },
+    {
+      "id": "82b0ebae-f132-3093-b253-20c327e56139",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Stocks to Watch Recap: Tesla, Lululemon, AMC, Volkswagen",
+      "summary": "↘️ Tesla (TSLA): The electric-vehicle maker’s shares dropped 5.9%. Federal regulators have opened an investigation into the company and its steering-wheel-free Cybercab to determine whether it complies with safety standards.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026/card/stocks-to-watch-volkswagen-lululemon-amc-hckSUh7fSpTgHLWgPDdS?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rXJM_YPHcnvG.ZlpJJS_Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/c43cf17b8ff5146c7b239133dc57620b.jpg",
+      "published_at": "2026-09-04T21:48:20Z"
     },
     {
       "id": "00a24a72-b021-3ad5-939b-bc9abdb32402",
@@ -81,17 +301,6 @@
       "published_at": "2026-09-04T21:39:22Z"
     },
     {
-      "id": "50904411-0b43-3d1f-a9c2-b2fbf1d78ed0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
-      "summary": "The hedge fund manager sold into a 242% quarter. The more telling number is the size of the stake he kept.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/04/david-tepper-sold-41-of-his-micron-shares-and-it-is-still-his-second-biggest-holding/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oPulKbx9qyBVYXTqOq4NFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3f7fcf94fa6f14944ee5c484512cf3ef.jpg",
-      "published_at": "2026-09-04T21:34:01Z"
-    },
-    {
       "id": "945fd8fa-00b9-36e3-bb38-bcbb80cdde68",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -101,215 +310,6 @@
       "url": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-week-213045272.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.GVNmLi.HW2hoZeoKhd7kA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oil_and_gas_360_817/4c1e146999eb2c3a628f366641fe6ac9.png",
       "published_at": "2026-09-04T21:30:45Z"
-    },
-    {
-      "id": "b07959b2-bb61-37c9-b888-fe6864e2f6a4",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Did Tesla Stock Fall Today?",
-      "summary": "Tesla shares sank 6% on Sept. 4, 2026, after a lackluster Cybercab unveiling met fresh regulatory scrutiny.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/04/why-did-tesla-stock-fall-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iT13V6E1jMCZtCUAdN.COA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6b0a0621961b81bf4df6dbe3207e4a5a.jpg",
-      "published_at": "2026-09-04T21:23:35Z"
-    },
-    {
-      "id": "819e0ebf-dba7-31f5-8896-76dce4e0b343",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Own Oracle For The AI Boom? PTC's Story Looks Cleaner",
-      "summary": "Both software players are riding the AI wave, but PTC offers a clearer forward path with stronger growth and profitability, while Oracle asks investors to fund a massive, costly buildout.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/614377/own-oracle-for-the-ai-boom-ptcs-story-looks-cleaner/2026-09-04",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qrgJHPkQHVPE882WIn4tYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/e783f614e2bde27b787a70cecfdda40c.jpg",
-      "published_at": "2026-09-04T21:23:29Z"
-    },
-    {
-      "id": "ed9b6325-fa8d-3a92-8206-967699df7155",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Asana Stock Flailed on Friday",
-      "summary": "Investors were reacting to the enterprise software company's second-quarter of fiscal 2027 results.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/04/why-asana-stock-flailed-on-friday/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0FWZbWt68aVtKO23zUmc.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4ca3298d8f6a533b2b91d6cf65094b3a.jpg",
-      "published_at": "2026-09-04T21:17:54Z"
-    },
-    {
-      "id": "bfc9cadd-01bb-376f-87eb-f387d63bc5ee",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Stock Market Today, Sept. 4: Tesla Falls After Cybercab Launch Disappoints Investors",
-      "summary": "Today, Sept. 4, 2026, the electric vehicle maker's stock dropped 5.92% following its private Austin event, which left key autonomy questions unanswered.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-today-sept-4-tesla-falls-after-cybercab-launch-disappoints-investors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QMWDwrf5TbEgxw7RpUg0Cg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5589a785fe2c636a0f46a19208368fc1.png",
-      "published_at": "2026-09-04T21:17:45Z"
-    },
-    {
-      "id": "47922f8f-dd2d-302f-928b-f330cc32d59c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Top Research Reports for Apple, Broadcom & Shell",
-      "summary": "Apple, Broadcom and Shell show long-term strengths, but rising costs, AI execution risks and market volatility cloud their near-term outlooks.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-apple-broadcom-211600532.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ma0fvZoS_OUVJjk_VV9_nQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/188198a223a8c3b598f95bc0f5aae696.jpg",
-      "published_at": "2026-09-04T21:16:00Z"
-    },
-    {
-      "id": "d39e3235-2dfb-3978-8c41-af360b21b922",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "JEPQ Holders Trailed the Nasdaq-100 Over the Past Year While Chasing a Monthly Check",
-      "summary": "JEPQ deposits a monthly check into your account like clockwork, but the covered-call strategy powering those payments quietly changes the math on what you actually keep versus what the Nasdaq-100 would have handed you.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/09/04/jepq-holders-trailed-the-nasdaq-100-over-the-past-year-while-chasing-a-monthly-check/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nFU_fXb5o94WlSBRbEp3LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d.jpg",
-      "published_at": "2026-09-04T21:15:01Z"
-    },
-    {
-      "id": "7b0ecff2-20de-3df3-9fe1-5484179b60a8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-compute-provider-nscale-looking-211211296.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QMo_dNp3c94he6TXq5vj0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/d15216305292d91d220b907561bd1571.jpg",
-      "published_at": "2026-09-04T21:12:11Z"
-    },
-    {
-      "id": "4ce79997-d834-3033-b84b-caf2aa8a8aad",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Trump Threatens to Halt Trade Following News That US Trade Deficit Grew in July",
-      "summary": "America’s trade deficit with the rest of the world grew in July to the highest level seen in more than a year, prompting an outraged response from the Commander in Chief.",
-      "source": "Sourcing Journal",
-      "url": "https://wwd.com/sourcing-journal/trade/trump-us-trade-deficit-july-federal-reserve-tariffs-1239199217/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8sQ_1kkLr3FLzM9seXC4ZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/sourcing_journal_735/0afbf21c0d2ecc84b94c00170bc8376e.jpg",
-      "published_at": "2026-09-04T21:05:54Z"
-    },
-    {
-      "id": "3ba22d1c-7f6e-3a0f-bcf3-bde871a735c0",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Volkswagen Targets 10% Margin by 2030 With €135B Plan, 50,000 Job Cuts",
-      "summary": "Volkswagen (ETR:VOW3) said its Supervisory Board has unanimously approved the Group Target Picture 2030, a broad transformation plan aimed at improving profitability, reducing complexity and reshaping its production, technology and organizational footprint. Chief Executive Officer Oliver Blume said",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/event-volkswagen-targets-10-margin-by-2030-with-135b-plan-50000-job-cuts-2026-09-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Rs8mVAnmBjxsdJBA1YdCFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/f208875eaec0dd4c96ad1bc60ff90e57.png",
-      "published_at": "2026-09-04T21:01:57Z"
-    },
-    {
-      "id": "5e440b27-a4d1-3d4b-8fdb-02f30abf6ecd",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on U.S. diesel prices, crude futures, Keyera and more in the latest Market Talks covering energy and utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-5b4267ce?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RmaZ20c2RjzsgdQnnM0xEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/e4d946b23b3ef2d74270adf7954ff48c.jpg",
-      "published_at": "2026-09-04T20:58:00Z"
-    },
-    {
-      "id": "64f13108-e2e0-3872-9691-3d148d5fa88d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",
-      "summary": "Stock Market Today: The Dow Jones index falls Friday on a surprise August jobs report. Lululemon stock plunges on earnings.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GfjsFqSrwJIqjQJ2wWUduw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b.jpg",
-      "published_at": "2026-09-04T20:55:37Z"
-    },
-    {
-      "id": "e66f1d1f-adb4-3f3f-b2ea-a40781a2d5b5",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on gold futures, BHP, Rio Tinto and more in the latest Market Talks covering basic materials.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90badd13?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nNxXF.B9Yjw8hfbQWa2wXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/84e64a7ce013e77771c14d0bd82af238.jpg",
-      "published_at": "2026-09-04T20:54:00Z"
-    },
-    {
-      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "summary": "The stock market fell this week before bouncing. Nvidia, Micron, Sandisk are new buys, but for how long? Apple, inflation data loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8YDOZp3ggP14hOWPB6BDPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a0daf3d8e4f114a8bc2e54db7749c2c3.jpg",
-      "published_at": "2026-09-04T20:52:46Z"
-    },
-    {
-      "id": "e89c7bbd-f957-4812-8608-104fc9dd8956",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
-      "summary": "Adobe (ADBE) is the latest company to name a new CEO — effective December 1 for Anil Chakravarthy — coming right after Apple (AAPL) began its new era under John Ternus earlier this week. Harvard University executive education fellow Bill George discusses the attributes that a CEO like Ternus must have to succeed while not trying to simply replicate the success of Tim Cook and Steve Jobs. George was the chief executive of Medtronic (MDT) from 1991 to 2001.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/apples-john-ternus-needs-own-203847038.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/muK29c1iQFRaA7PdHzF9cQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3b6fc5f2-6b92-432d-a40d-04075da2a87d_14905a061183b86da5d3b1e195916110462a0a276ebb547d5908583e0490fcde.jpg",
-      "published_at": "2026-09-04T20:38:47Z"
-    },
-    {
-      "id": "06c10cb5-8309-33d9-a42d-86ddb7b2ed91",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Update: US Equity Indexes Fall as Odds for September Fed Rate Increase Jump After Strong Nonfarm Payrolls",
-      "summary": "(Updates with index/price moves, comments and company/geopolitical news from the first paragraph.)",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-fall-odds-203601257.html",
-      "thumbnail": "",
-      "published_at": "2026-09-04T20:36:01Z"
-    },
-    {
-      "id": "b0d37b89-ae53-3af9-8ee3-fb8ed9dc8b22",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-      "summary": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day—though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HyVF8laFKGgREF.sV_CpuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/c1281c5948f3ff40c88380fdd0499b9d.jpg",
-      "published_at": "2026-09-04T20:31:03Z"
-    },
-    {
-      "id": "69d85c47-7c96-32d6-a4a5-38a5a5ccc489",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk Touts a ‘Storm’ of Tesla Cybercabs in Austin, Says They Offer Better ‘Operational Efficiency’ Than Waymo",
-      "summary": "Tesla Inc. CEO Elon Musk has backed the Cybercab ahead of its launch event in Austin, Texas, as the EV maker looks to expand its Robotaxi network. A Storm Of Cybercabs In a post on X in the early hours...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/elon-musk-touts-storm-tesla-203024849.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IgpmnpxEcUi_kE8HLNmxKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/ad5a79101591c1fb075168247124fb67.jpg",
-      "published_at": "2026-09-04T20:30:24Z"
-    },
-    {
-      "id": "792bb39e-3f9d-3f8e-ba1a-15c67345c212",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
-      "summary": "HOUSTON, Sept 4 (Reuters) - Oil prices rose on Friday, ending the week substantially higher after the United States and Iran resumed military exchanges in the seventh month of their conflict, while",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/oil-set-steepest-weekly-gain-043839818.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j1xm_cIE_9LflE20S2eg7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/8561a65e19e534dde97df06a0ca873fe.jpg",
-      "published_at": "2026-09-04T20:29:57Z"
-    },
-    {
-      "id": "8523f40e-3a0e-3498-8078-208da828be25",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest",
-      "summary": "Some investors worry that the pace of artificial intelligence (AI) infrastructure build-outs is not sustainable.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/04/jensen-huang-said-this-word-exactly-1-time-during/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S4ZLV64zJ8FbwoWTOSweMw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0e81687e5315c0fee51fb3e485c266ee.jpg",
-      "published_at": "2026-09-04T20:28:00Z"
     }
   ]
 }
