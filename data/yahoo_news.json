@@ -1,40 +1,183 @@
 {
-  "last_updated": "2026-09-06 19:22 UTC",
+  "last_updated": "2026-09-06 21:31 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "94bb7e36-d650-34ef-8e90-fa61163bd371",
+      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
-      "summary": "CNBC reported that NVIDIA Corporation (NASDAQ:NVDA)’s Groq 3 LPX rack is in full production and will be deployed alongside its Vera CPUs and Rubin GPUs at neocloud Nebius later this year, Nvidia senior director Dion Harris told reporters. The rack marks the commercialization of technology from Nvidia’s $20 billion purchase of Groq’s assets in December, […]",
+      "title": "Dow Jones Futures Eye Iran With Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8YDOZp3ggP14hOWPB6BDPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a0daf3d8e4f114a8bc2e54db7749c2c3.jpg",
+      "published_at": "2026-09-06T21:10:14Z"
+    },
+    {
+      "id": "99793bd8-7a5c-3660-aed1-074eded3e391",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin Is Backed by Nothing? Peter Schiff Revives Old War",
+      "summary": "Peter Schiff reopens the Bitcoin backing controversy. He argues spent mining energy backs nothing, even as US debt climbs past $40 trillion.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-backing-controversy-peter-schiff/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hqVid7c56ZXMOc8u5br9_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/592a2f29ec2e74abfb039241be65a732.jpg",
+      "published_at": "2026-09-06T20:43:43Z"
+    },
+    {
+      "id": "6e908d3a-c5a7-3691-a6c8-1eb469c65e7b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again",
+      "summary": "Bloomberg reported that Elon Musk said Space Exploration Technologies Corp. (NASDAQ:SPCX) first AI satellites, powered exclusively by NVIDIA Corporation (NASDAQ:NVDA) chips, will launch in the fourth quarter of 2027 and reach “significant scale” in 2028, citing a post on X. Musk wrote “SpaceX, in partnership with Nvidia, has designed a space-optimized Vera Rubin NVL72 system […]",
       "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
-      "published_at": "2026-09-06T19:07:37Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IjeohM04DlvclJfAIx6eDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/4bec5467a132f11be1a3d0068a9fff58.jpg",
+      "published_at": "2026-09-06T20:41:03Z"
     },
     {
-      "id": "ba31ae76-f2d1-3230-b7c8-9f0f0401f837",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should You Forget High-Yield Dividend ETFs and Buy a Dividend Growth ETF Instead?",
-      "summary": "Or is there a happy medium?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/forget-high-yield-dividend-etf-buy-growth-schd/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/46OYA7qF0dijETwZQVD8gA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d0be5388872e5ad30e423cd7ef8ea769.jpg",
-      "published_at": "2026-09-06T19:05:00Z"
+      "id": "34a147a2-51ad-3844-9839-aec501a05a09",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
+      "summary": "Bloomberg reported on August 25, 2026, that BlackRock, Inc. (NYSE:BLK) cut the minimum size for converting large Bitcoin holdings directly into shares of its iShares Bitcoin Trust ETF to $1 million in July, down from $25 million when the in-kind conversion process first became available. The fund has facilitated more than $5 billion of these […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-quietly-turning-bitcoin-203223849.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_kmOloUYm5TgJSbXv0e9.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/5c392e5eac3809bf6dec0dc40e35ff41.jpg",
+      "published_at": "2026-09-06T20:32:23Z"
     },
     {
-      "id": "9f75c9bb-96f4-32d9-a256-560193fa0275",
+      "id": "99b22686-8708-3bf3-86b2-b2a5ec2beff4",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Prediction: Snowflake's Product Revenue Passes $8 Billion in Fiscal 2028",
-      "summary": "After a second guidance raise this year, the path to that milestone leans on one retention number holding up.",
+      "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
+      "summary": "Altria has crushed it in 2026, but be well aware of the risks.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/prediction-snowflake-s-product-revenue-passes-usd8-billion-in-fiscal-2028/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pUBiFgF2nneHbHQUOxsrDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/95f2a16779d43662e8343e5cd119d38a.jpg",
-      "published_at": "2026-09-06T18:58:02Z"
+      "url": "https://www.fool.com/investing/2026/09/06/meet-the-dirt-cheap-6-yielding-dividend-stock-that/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YpmNSMj6uOpxpq8vimLkHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3697048f1ddf4144f93b673271a24925.jpg",
+      "published_at": "2026-09-06T20:25:00Z"
+    },
+    {
+      "id": "59bd6c95-2e1f-3673-a496-2754bbd56e63",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Netflix Raised U.K. Prices Again. History Says a Netflix Price Increase Has Never Cost It a Year of Revenue Growth.",
+      "summary": "The streaming giant's cheapest U.K. plan just jumped by a third. Can the tier built for price-sensitive members absorb that?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/netflix-raised-u-k-prices-again-history-says-a-netflix-price-increase-has-never-cost-it-a-year-of-revenue-growth/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PL4zGvYejEchH4DFEqqoQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a4215d4b530c4bbd4a277dd8e58d8e9f.jpg",
+      "published_at": "2026-09-06T20:23:01Z"
+    },
+    {
+      "id": "84c588ac-678f-3d07-bbb6-11485ad2d9dd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) biggest lingering investor concern was customer concentration, CNBC reported. Nvidia relies on hyperscalers Amazon, Google, and Microsoft, along with major buyers Meta and SpaceX, for an outsized share of revenue, and in May began splitting its data center reporting into “hyperscalers” versus everyone else, a group it calls AI clouds, industrial, and […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/noSbuNZjvACAX4fQQ4D2ag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740.jpg",
+      "published_at": "2026-09-06T20:21:05Z"
+    },
+    {
+      "id": "ca44b4f8-c45e-3285-86ba-9b7d74540c13",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Attackers Leave On-chain Message After $320 Million Exits Liquid Network",
+      "summary": "$319 million left Blockstream's Liquid peg on Sunday. The wallet left a note. The chain says the peg still balances.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/liquid-peg-320-million-whitehat-message/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N2nq0jN1lJhnu3YaP.Ai0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0.jpg",
+      "published_at": "2026-09-06T20:20:39Z"
+    },
+    {
+      "id": "ca108eae-233f-3df7-af14-dbb66c70ef69",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
+      "summary": "CNBC reported that Apple Inc. (NASDAQ:AAPL) announced new Mac Mini and Mac Studio models with updated chips built for AI workloads. The Mac Mini now offers Apple’s new M6 chip, its first built on a 2-nanometer process, or an M5 Pro, and starts at $899, up from $799 for the prior model. Apple says the […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2D3rDqXrs4xM9uaBX9mmYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/61c363b6d566f2e9989d12b08155c301.jpg",
+      "published_at": "2026-09-06T20:16:09Z"
+    },
+    {
+      "id": "41889a84-f016-38d8-918e-cb2d1a47f698",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today",
+      "summary": "Ten years ago, $1,000 bought you 1.7 Bitcoins.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/if-youd-invested-1000-in-bitcoin-10-years-ago-here/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/77au5kgUXTg.e1JIYk.AOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a66b0457529ae27bfd7bd88c20df0734.png",
+      "published_at": "2026-09-06T20:08:00Z"
+    },
+    {
+      "id": "9bb3d1d9-0844-32fd-95bd-6502f82ca74f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "BitGo (BTGO) Buys Into NYDIG’s Trading Desk Just as Crypto Volume Comes Back",
+      "summary": "CNBC reported on August 27, 2026, that BitGo Holdings, Inc. (NYSE:BTGO) will acquire the institutional trading business of NYDIG, adding derivatives, structured products, financing, and other capital markets services to its existing custody, settlement, and wallet infrastructure. About 30 NYDIG employees and roughly 250 institutional client relationships will join BitGo, according to a person close […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitgo-btgo-buys-nydig-trading-200158183.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dMALnFlVZcagwU.EoD_L5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a443913332014c76029f1fc96aba653f.jpg",
+      "published_at": "2026-09-06T20:01:58Z"
+    },
+    {
+      "id": "66c4d527-c77a-3f1c-a16c-d39748d608da",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Forget SpaceX (SPCX) Stock?",
+      "summary": "There are solid reasons to buy or ignore. Here's why I'm ignoring.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/should-you-forget-spacex-spcx-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Twkm6qXn4COJtgBGbBo6WA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fff85f19b9beca2998a9ea9373597d2b.jpg",
+      "published_at": "2026-09-06T19:53:00Z"
+    },
+    {
+      "id": "b3b93c35-d7e0-39b4-9973-e17e3c3de77d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "I Make $150,000 a Year, But It Feels Like I’m Just Middle Class in a World Full of Rich People",
+      "summary": "No matter how much you earn, there is always a feeling that there are people out there earning more and living a better life. This is especially true for middle and upper-middle-class individuals, who believe they may one day be close enough to finally afford a life that allows for less stress. In the case … I Make $150,000 a Year, But It Feels Like I’m Just Middle Class in a World Full of Rich People",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2025/07/16/i-make-150000-a-year-but-it-feels-like-im-just-middle-class-in-a-world-full-of-rich-people/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YwV37TPr80iWp.U2sHa1Iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/72d4833abbbab28c12de4bc4b1ae64ea.jpg",
+      "published_at": "2026-09-06T19:45:45Z"
+    },
+    {
+      "id": "d3115176-f06f-3281-b01f-844cc08431fb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Could $10,000 Invested in Nvidia Today Make You a Millionaire?",
+      "summary": "Nvidia stock has jumped significantly over the past decade, and the good news is that it still has multibagger potential.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/could-10000-invested-in-nvidia-today-make-you-a-mi/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fxFiRHocnSPGinxxmSm8uQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5b3e6524229890f0dc69779106162f0f.jpg",
+      "published_at": "2026-09-06T19:43:00Z"
+    },
+    {
+      "id": "57c752c3-76d2-3b69-8400-c1acb3216a87",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "The Inheritance That Went Backward: They Gave Mom the Stock They’d Someday Inherit and Eighteen Months Later It Came Back With Thirty Years of Capital Gains Wiped Off the Books",
+      "summary": "A provision buried in the tax code lets families quietly erase decades of capital gains before a single share gets sold, but the window to pull it off is narrow and the traps that kill the strategy are ones most estate attorneys never mention.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/09/06/the-inheritance-that-went-backward-they-gave-mom-the-stock-theyd-someday-inherit-and-eighteen-months-later-it-came-back-with-thirty-years-of-capital-gains-wiped-off-the-books/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a7HiU9Oc6LVN6FpvRq.2hg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6590bd68a0417d881fdef2d3d414dfde.jpg",
+      "published_at": "2026-09-06T19:41:51Z"
+    },
+    {
+      "id": "fdb80ad8-a404-3a48-9f1c-a32653cc426d",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Chevron Stayed in Venezuela for 20 Years While Rivals Left. Here's Why Its CEO Says Patience Pays Off.",
+      "summary": "Chevron's patience is paying big dividends.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/chevron-stayed-in-venezuela-for-20-years-while-rivals-left-here-s-why-its-ceo-says-patience-pays-off/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QBK5Rbq4QcCTjfVK1f2J7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/90ad7cd94e523b84bd5b80cd7d85471d.jpg",
+      "published_at": "2026-09-06T19:35:01Z"
     },
     {
       "id": "e37bf596-3ff7-3178-8557-03fde89a4205",
@@ -59,17 +202,6 @@
       "published_at": "2026-09-06T18:47:00Z"
     },
     {
-      "id": "071f7603-27a9-37ef-aa9a-5667b72dca47",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.",
-      "summary": "If you make the right decision on where to hold certain investments, you can minimize how much you pay Uncle Sam.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/bdc-and-mortgage-reit-income-is-taxed-differently/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kEADG3s7_EoSXRBWsdDnDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/64a2944d6f71ebd513486f2c4fd59ddb.jpg",
-      "published_at": "2026-09-06T18:35:00Z"
-    },
-    {
       "id": "5809809d-6657-3ad6-98a4-625b6f08209d",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -79,17 +211,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-indian-growth-stocks-watch-181248021.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1b4jqWgHy3r49A2JZDJoug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/8b2f1fb8ed1ddbd9c7702732b1ea0316.jpg",
       "published_at": "2026-09-06T18:12:48Z"
-    },
-    {
-      "id": "a15074d5-f020-353f-9861-b65374f5d549",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What Should I Invest In? I'm Putting My Money in These 2 Stocks for 2027.",
-      "summary": "I'm long these two stocks and intend to build my positions in both of them next year.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/what-should-invest-put-my-money-stock-nlst-iren/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/A4uvOK2EPyo4T56zwMl8gA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bb52ce6d8cfab9e21d6eac01575ee1a2.jpg",
-      "published_at": "2026-09-06T18:05:00Z"
     },
     {
       "id": "736d38bc-4861-37a5-bebd-9353ee16aa26",
@@ -103,17 +224,6 @@
       "published_at": "2026-09-06T18:00:00Z"
     },
     {
-      "id": "422f0571-d169-3260-8bcd-757faf541700",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "NuScale Power Stock Will Spike 23.7% Over the Next 11 Months According to This Wall Street Analyst",
-      "summary": "Bank of America analyst Rinny Singh remains bullish on NuScale Power stock.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/nuscale-power-stock-will-spike-over-the-next/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/B3cTTX0MALGsnBYp3az0Sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84cfc00e3cbbbfaff8e3b2cd54cdae7a.jpg",
-      "published_at": "2026-09-06T17:50:00Z"
-    },
-    {
       "id": "1754a105-a544-3fdb-9657-d4f209cff129",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -123,28 +233,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-warns-apple-iphone-18-173545777.html",
       "thumbnail": "",
       "published_at": "2026-09-06T17:35:45Z"
-    },
-    {
-      "id": "41067ae8-c9a0-3a60-80fc-2f3a3a5faa5a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "September Is Historically the Worst Month for Stocks. A Pattern From 2000 Says This Could Happen Next.",
-      "summary": "If history rhymes, the stock market might be in for a rude awakening.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/september-is-historically-worst-month-for-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y391U.UA9Fcf0biLUfUXHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/651c4200a6bf187829b896c56034d64d.jpg",
-      "published_at": "2026-09-06T17:35:00Z"
-    },
-    {
-      "id": "22d39a01-07aa-37c0-ae11-78095527ff63",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.",
-      "summary": "One wave of AI spending pays all five of these companies. Why do their discounts run from 2.6% to 32%?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/nvidia-is-near-its-high-while-its-biggest-chip-peers-sit-18-to-32-below-theirs-these-are-the-chip-stocks-to-buy/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Vf_WTdzJaqxb5Cv1VgWFFg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6f3c158702c1b32ef996d95204c67e17.png",
-      "published_at": "2026-09-06T17:34:01Z"
     },
     {
       "id": "4352500a-0bfe-3148-94dc-51c2c724a682",
@@ -222,94 +310,6 @@
       "url": "https://investorshub.advfn.com/market-news/article/35733/citi-and-anz-raise-brent-crude-forecasts-amid-middle-east-supply-disruptions",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tJUO5ZTvA3tJo_PoYJh0ag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/b3325cca123bb98ebda00ef2449c3981.png",
       "published_at": "2026-09-06T15:26:00Z"
-    },
-    {
-      "id": "359ef622-06b1-3e63-aeb7-6b7646db83fe",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "1 Cryptocurrency Up 29% in 3 Weeks to Buy Before It Soars Another 515% by 2029",
-      "summary": "The momentum is just getting started, and two strong forces could push the price higher.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/1-cryptocurrency-up-29-in-3-weeks-to-buy-before-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZAzSxjo.q8ijzSTXNEzCRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c45ad0d6155cc4307ee219986f8450c7.jpg",
-      "published_at": "2026-09-06T15:21:00Z"
-    },
-    {
-      "id": "d7a7446a-2a17-308b-b355-9dd6ad1c2827",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but ABTC Stock Got Battered",
-      "summary": "Eric Trump celebrated on Thursday the first anniversary of American Bitcoin Corp. going public, reiterating the vision of making the U.S. a “leader” in the Bitcoin economy. Trump Highlights Achievements Trump said in an X post that the company now...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-mission-hasnt-151515143.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oGqc6tBz8HCRPNxxgYJEqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/2a79ae2e5c1097511289fa777960b97e.jpg",
-      "published_at": "2026-09-06T15:15:15Z"
-    },
-    {
-      "id": "58690d44-cf7f-3ba3-8730-4f846e63a02a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Mark Yusko Dumps 90% Of Solana, Warns Of More Pain For BTC — But Half His Wealth In Still In Bitcoin",
-      "summary": "Yusko said he sold 90% of his Solana holdings after getting back about 1,000 times what he put in.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/mark-yusko-dumps-90-solana-warns-of-more-pain-for-btc-wealth-still-in-bitcoin/cZtbV0fRJDx",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sdkXlJjGZkZY0XZw6GaWkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/9707e20ac8ceb4b576c56a86d9f7944d.jpg",
-      "published_at": "2026-09-06T15:09:08Z"
-    },
-    {
-      "id": "f9442dc8-43e7-3052-99cd-3f384919a9fa",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "A Couple Diversified Into Gold. Their Adult Children Thought They'd Been Scammed.",
-      "summary": "A couple, both 60, moved $120,000 from a traditional IRA invested in stocks and mutual funds into a self-directed IRA holding physical gold and silver after deciding they wanted broader diversification in retirement. Their two adult children found out and...",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/couple-diversified-gold-adult-children-150010034.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3ScLpCdDK.SsDkkyyZtmlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/6220857ffa3b67501ddf08d30ff17e66.jpg",
-      "published_at": "2026-09-06T15:00:10Z"
-    },
-    {
-      "id": "05b62f3f-a1f6-3492-b5a9-9651e6cbba46",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "What is \"The Warsh Shadow Rate\"?",
-      "summary": "Investing.com -- The Federal Reserve faces a growing risk of delivering a September rate hike after Chair Kevin Warsh signalled a more hawkish approach to inflation, although softer incoming data could still keep the central bank on hold, Citi Research said.",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-shadow-rate-145609542.html",
-      "thumbnail": "",
-      "published_at": "2026-09-06T14:56:09Z"
-    },
-    {
-      "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures Loom After U.S.-Iran Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8YDOZp3ggP14hOWPB6BDPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a0daf3d8e4f114a8bc2e54db7749c2c3.jpg",
-      "published_at": "2026-09-06T14:54:58Z"
-    },
-    {
-      "id": "70e73447-d62c-399d-b010-586bb0c5f663",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Former Trump Economic Adviser: Iran’s Oil Exports Have Fallen to Zero. Here’s What It Could Mean for Oil Prices",
-      "summary": "A U.S. naval blockade has done what years of financial sanctions could not, and oil markets are already reacting. Here is what zero Iranian exports could mean for gas prices at the pump and supply around the world.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/06/former-trump-economic-adviser-irans-oil-exports-have-fallen-to-zero-heres-what-it-could-mean-for-oil-prices/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T7Y48fP_ApCxS2JnJNKxPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9c16da9de0f4492a528ecac0ab13876c.jpg",
-      "published_at": "2026-09-06T13:36:37Z"
-    },
-    {
-      "id": "f31fd8c3-27fb-4c13-b83e-0d45a0568915",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
-      "summary": "Nvidia got rich selling scarcity in AI — now it's betting on AI abundance.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/why-nvidia-wants-hugging-face-to-keep-helping-its-rivals-chart-of-the-day-132655037.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Unx8.4k8t4avUCCHwJQblA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-09/dbc99108-21c9-4d57-a000-92e7f0dab4af",
-      "published_at": "2026-09-06T13:26:55Z"
     }
   ]
 }
