@@ -1,8 +1,85 @@
 {
-  "last_updated": "2026-09-05 23:09 UTC",
+  "last_updated": "2026-09-06 01:11 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "40e34b21-8e93-3407-a0d8-ad3f0349d482",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
+      "summary": "Investors always need to appreciate risk before buying into any clinical-stage biopharmaceutical company.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/05/viking-therapeutics-trades-well-below-its-wall-str/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aRCIm6ddMP3ffVnYCMmEzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d9278468432cfc4ca937316124b6d7f3.jpg",
+      "published_at": "2026-09-06T00:20:00Z"
+    },
+    {
+      "id": "664800a2-6571-34df-a96d-ce62df94fd2f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
+      "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) announced a broad set of AI security products and deeper integrations across the cybersecurity and enterprise AI ecosystem. The company introduced tools such as Falcon Guardian, Agentic Identity Provider and real-time supply chain protection to cover AI agents, data pipelines and software supply chains. CrowdStrike expanded partnerships with OpenAI, Google, Anthropic, NVIDIA, Rubrik, Fortanix, EY and others to embed its Falcon platform into emerging AI...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-unveiled-broad-ai-001430063.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jh5BCyfbK.JfQpL9yMJdIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e.jpg",
+      "published_at": "2026-09-06T00:14:30Z"
+    },
+    {
+      "id": "803f6c17-a8b9-3899-8720-2adca882347e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
+      "summary": "Bitcoin has momentum, but stocks have fundamentals.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/05/bill-gates-says-he-still-wont-invest-in-crypto-cal/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fYewyC1Rw5N3XJHncb1Lig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6904e8a8badab305d8162de392f48592.jpg",
+      "published_at": "2026-09-05T23:50:00Z"
+    },
+    {
+      "id": "1a69d44e-968f-326f-97bf-8eaf4f3593a0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+      "summary": "The AI computing specialist's latest results were strong. The real story is a backlog worth almost 29 times this year's expected revenue.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/05/cerebras-has-a-usd25-4-billion-backlog-and-one-openai-agreement-is-behind-much-of-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fuAaDLaX0O7OzMT8xwtCHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3b6cd4a36c917162a260d4fd57ac3acb.jpg",
+      "published_at": "2026-09-05T23:34:01Z"
+    },
+    {
+      "id": "c017a8bd-3bad-3135-a807-add2bcdd988e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "summary": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/05/ionq-vs-rigetti-computing-which-pure-play-quantum/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jkqlaM6r0u063X.2.w1gnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/370d489e0c908acb677cfd1166955c10.jpg",
+      "published_at": "2026-09-05T23:20:00Z"
+    },
+    {
+      "id": "e7cb4596-45f5-3449-8449-fdd4fb66ee0c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia-backed AI company reveals staggering $103 billion number",
+      "summary": "The company reveals how big AI infrastructure is getting",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-nscale-reveals-103-billion-contracted-revenue",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V14OVWVraLuMKDh_vrampg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/73030be86044ce42ace7d711bbbbd692.jpg",
+      "published_at": "2026-09-05T23:17:00Z"
+    },
+    {
+      "id": "0b0c76cd-92c5-3e75-b9a0-4f6bdd51cfb5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
+      "summary": "Middle Eastern exporters are rapidly developing alternative routes as Hormuz oil flows plunge from nearly 20 million bpd to an estimated 6–8 million bpd.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/iran-war-forces-rewrite-global-230000749.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZjwsIXYdR8ReF9ushcmudQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/177f5426bc99e9fcb8ffb1992648eef6.jpg",
+      "published_at": "2026-09-05T23:00:00Z"
+    },
     {
       "id": "ca086ae0-e5d1-356e-9c8d-ed63a89ca494",
       "asset": "NVDA",
@@ -24,6 +101,17 @@
       "url": "https://www.fool.com/investing/2026/09/05/why-intel-stock-climbed-this-week/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WhBMCM0EH1DWn3XlbUvr8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1de6e18b062ad7f3c1b192b602036e61.png",
       "published_at": "2026-09-05T22:40:17Z"
+    },
+    {
+      "id": "0c0c2622-08d6-3b10-a38e-753fd406768e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk Says He's Happy About 'Half the Time' After Documentary Describes Him as 'The Most Miserable Man' — Mom Has This to Say",
+      "summary": "Billionaire Elon Musk on Thursday pushed back on claims from an upcoming documentary calling him “the most miserable man”, laying out exactly how happy he actually feels. ‘I’m Happy About Half the Time‘ Musk in a post on X said,...",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-says-hes-happy-223019646.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z68wmZqQWIOmvfE7UKD2uQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/33af38e86838acbc97b1ce78ff3985ff.jpg",
+      "published_at": "2026-09-05T22:30:19Z"
     },
     {
       "id": "6fdeb924-f4e3-3a0c-98e5-651b646f687d",
@@ -59,17 +147,6 @@
       "published_at": "2026-09-05T22:03:01Z"
     },
     {
-      "id": "1ac3c407-6266-37a3-9c7b-d86f2f64ff98",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "QuantumScape Stock Is Worth a Closer Look Right Now",
-      "summary": "This solid-state battery maker's technology provides benefits to both the electric vehicle and artificial intelligence sectors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/05/quantumscape-stock-is-worth-a-closer-look-right-no/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.FbopsHoAkSnbjs.YFDiFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1edd0f0898325d3384328693e2b87ea9.png",
-      "published_at": "2026-09-05T21:50:00Z"
-    },
-    {
       "id": "08763547-df62-3a7d-98ac-5819405b2ff4",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -81,50 +158,6 @@
       "published_at": "2026-09-05T21:30:15Z"
     },
     {
-      "id": "95303710-c3e4-34fb-8815-29d0c09b6bb3",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
-      "summary": "The stock of Coca-Cola's archrival and the behavior of a prominent shareholder strongly indicate it is a hold.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/05/coca-cola-stock-at-88-and-investors-should-pause/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xC8uaHzvFdA3e3ZeAdq9lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1bdf3b8efdbfb53ead8a4a1364ad6e57.jpg",
-      "published_at": "2026-09-05T21:26:17Z"
-    },
-    {
-      "id": "fa825130-4347-3b85-a5e7-160315e37a18",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Can Dogecoin Reach $1 in the Next 12 Months?",
-      "summary": "The hype and buzz around DOGE appear to be fading, making it a clear pitfall for investors.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/05/can-dogecoin-reach-1-in-the-next-12-months/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uYs6PLl87vLzOrnTTb_TnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3e5ff1c9dc1d59f8db698da7c27cea59.jpg",
-      "published_at": "2026-09-05T21:15:00Z"
-    },
-    {
-      "id": "e6979945-d8bc-3ec2-bb00-41d1ab69248a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Here's What a $5,000 Investment in Eli Lilly Could Look Like in 5 Years",
-      "summary": "Eli Lilly's total return topped 367% over the past five years, largely thanks to enthusiasm for its GLP-1 offerings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/05/predict-what-5000-investment-eli-lilly-5-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dCv8iCgFQRi9YMUqYbzVkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fb00dd67d093de63ff903897b1c2a47e.jpg",
-      "published_at": "2026-09-05T21:08:00Z"
-    },
-    {
-      "id": "edebf777-cd00-3b28-a67b-0d128725b637",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Nuclear Stocks to Buy With $2,000 After One Fell 83%",
-      "summary": "The stock that crashed 83% designs the reactors -- the companies selling the fuel and the power are still getting paid.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/05/3-nuclear-stocks-to-buy-with-usd2-000-after-one-fell-83/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ldhRsbk_XBazw.N2L7V_UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fd8717ea3b55226dba4f901d9ad4009d.png",
-      "published_at": "2026-09-05T20:43:01Z"
-    },
-    {
       "id": "733b7b7b-3974-38be-a42e-e71224d86b36",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -134,17 +167,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-own-201414086.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GPWopoFekEfw2LKiJEwh1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/df4b73b911e0bdb53cb26c5cad04a925.jpg",
       "published_at": "2026-09-05T20:14:14Z"
-    },
-    {
-      "id": "cbc3d174-dd85-3dc4-ae32-ede3f6c7c34d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Should You Buy AMC Entertainment Holdings (AMC) Stock While It's Below $3?",
-      "summary": "AMC Entertainment's stock has had a wild ride -- and it's on the upswing now.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/05/should-you-buy-amc-entertainment-holdings-amc-stoc/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ICYEFrVSYbugisQUOStP7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f09de529cba06db3ea8a2f4a8c774be0.jpg",
-      "published_at": "2026-09-05T20:08:00Z"
     },
     {
       "id": "d4625f56-eac1-3d46-8966-c28e6e483f22",
@@ -178,6 +200,17 @@
       "url": "https://www.fool.com/investing/2026/09/05/apple-first-iphone-new-ceo-john-ternus-buy-stock/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hqag05ZhaS20fi2LFVL8Qg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e992be70ccfdd10c1c0f98b48cc768da.jpg",
       "published_at": "2026-09-05T18:35:00Z"
+    },
+    {
+      "id": "367162ae-3e53-3547-964f-b15662db7a77",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla’s Mixed European Sales Send Clear Signal on Regional Demand",
+      "summary": "TSLA stock watchers take note: August European sales swung wildly by country, revealing what is driving EV demand across the region.",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/4463396/teslas-mixed-european-sales-send-clear-signal-on-regional-demand",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9XHgR7tsSpsx5gml6YgKnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/barchart_com_477/a244e96dc77d3711abba838e5287f7ef.jpg",
+      "published_at": "2026-09-05T18:30:02Z"
     },
     {
       "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
@@ -277,39 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-bitcoin-crypto-outlook/cZsz0qaRJDr",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KD967ony2xVbI.k1ZE_okw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/803bc65724efa6ca541b6f2da8a368c7.jpg",
       "published_at": "2026-09-05T16:02:08Z"
-    },
-    {
-      "id": "b7307dd6-e04c-3084-bf80-17ccb3cdc7ef",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Elon Musk’s Inner Circle Is Pouring Cash Into Making Psychedelics Mainstream",
-      "summary": "SpaceX and Tesla directors are backing academic research and a commercial venture seeking approval for MDMA-assisted therapy.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/health/healthcare/elon-musks-inner-circle-is-pouring-cash-into-making-psychedelics-mainstream-98ea1b57?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a..V1VBS02_sf2Vl.bzS4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/57ae582116ff5611d3eeb64d210b941b.jpg",
-      "published_at": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "cc9e3140-a048-3fdd-bb79-097692400230",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Gabelli’s Global Content & Connectivity Fund Likes Rogers Communications (RCI)",
-      "summary": "Gabelli Investment Management Firm recently released its “Global Content & Connectivity Fund” second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The Fund delivered a strong second quarter of 2026, with its Class I shares gaining 12.88%, more than double the 6.02% return of the MSCI AC World Communication Services Index, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-154610296.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kRUi1_mXWSDChLekcCzo3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/5d030b6f3e6e3c61f6ec8aee8e97feda.jpg",
-      "published_at": "2026-09-05T15:45:33Z"
-    },
-    {
-      "id": "a8f3bd66-b614-3861-8742-f051baf1f324",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Gabelli’s Global Content & Connectivity Fund Likes T-Mobile US (TMUS)",
-      "summary": "Gabelli Investment Management Firm recently released its “Global Content & Connectivity Fund” second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The Fund delivered a strong second quarter of 2026, with its Class I shares gaining 12.88%, more than double the 6.02% return of the MSCI AC World Communication Services Index, […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-154254300.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1pcPOLsjLOlAIFao_waMuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c5fec8e53a9b096a2c18985b5efac602.jpg",
-      "published_at": "2026-09-05T15:42:54Z"
     }
   ]
 }
