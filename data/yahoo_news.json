@@ -1,8 +1,184 @@
 {
-  "last_updated": "2026-09-07 01:12 UTC",
+  "last_updated": "2026-09-07 06:23 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "92e5c6ca-eb62-3b83-b941-4d7db9ce574e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What a $10,000 Investment in SpaceX Could Be Worth by September 2027",
+      "summary": "For more aggressive investors who believe in SpaceX's long-term vision, buying shares at today's prices may present a favorable risk-to-reward profile.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/07/what-a-10000-investment-in-spacex-could-be-worth-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/flg_ugPX6uasoq_d8ZSgPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/02b9a03f0af6ffd2f2372a26630560d3.jpg",
+      "published_at": "2026-09-07T06:20:00Z"
+    },
+    {
+      "id": "607f2d40-66a1-383c-baf3-c1ca21fd3ea5",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asia tech shares rally, others hesitate as oil climbs",
+      "summary": "By Wayne Cole SYDNEY, Sept 7 (Reuters) - Asian tech shares rallied on Monday as the robust U.S. jobs report was seen as positive for global growth even as it narrowed the odds on a rise in interest",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-bounce-others-cautious-010602533.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JDV.34qmD.chcXQTtUmu7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/633c49e35d7ad2823f4423e512867d71.jpg",
+      "published_at": "2026-09-07T05:57:00Z"
+    },
+    {
+      "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Why Is The Crypto Market Down Today?",
+      "summary": "The crypto market is down 0.73% with no Monday open to settle it, and Fed hike odds are climbing nine days out.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yjSkL4PPHiN.x1VdTNeJiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6.png",
+      "published_at": "2026-09-07T05:30:07Z"
+    },
+    {
+      "id": "fb547e02-8aff-319b-bea2-487d0274bacd",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears",
+      "summary": "Oil prices climbed in Asia as escalating tensions in the U.S.-Iran conflict stoked concerns over potential supply disruptions in the Middle East.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/oil-rises-as-escalating-u-s-iran-conflict-stokes-supply-disruption-fears-acdef1ab?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GJWsSJoc_11YgB6xx0rksA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/5e21a000ef732a1dafccc9ae3084e2e0.jpg",
+      "published_at": "2026-09-07T05:30:00Z"
+    },
+    {
+      "id": "99e18499-1f9f-3fd9-9880-2ce08da95a5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Here's How Long the Average S&P 500 Bull Market Lasts, According to History. Should Investors Be Nervous?",
+      "summary": "There's no denying this one's getting a little long in the tooth.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/07/heres-how-long-the-average-sp-500-bull-market-last/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WW2N422OWV_vjctXFr1KMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2a3106f26afc2b3731c795d11aba2df1.jpg",
+      "published_at": "2026-09-07T05:20:00Z"
+    },
+    {
+      "id": "d03cc77b-8433-335d-bbb0-13a81c7c80b5",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Blockstream’s Liquid Network Drained 4000 Bitcoin by Alleged White Hat Hackers: Details",
+      "summary": "Blockstream’s Bitcoin layer-2 Liquid Network halted after 4,000 BTC worth nearly $320 million left the federation wallet that backs L-BTC. The attackers left an on-chain message and claimed they are white hackers. However, Ledger CTO and others reject hackers’ white-hat claims. Ad Ad Blockstream’s Liquid Network Paused as 4000 Bitcoin Leaves Federation Wallet Liquid Network",
+      "source": "CoinGape",
+      "url": "https://coingape.com/blockstream-liquid-network-drained-bitcoin-alleged-white-hat-hackers/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ANP8O9bg6hmaJgKmk28kFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/a784dc0870cfd5589e6e8e36608a990b",
+      "published_at": "2026-09-07T05:16:50Z"
+    },
+    {
+      "id": "8755648b-aa9e-3c3d-b12a-7272f87d82d3",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Iran, US Trade Tanker Attacks as Conflict Escalates",
+      "summary": "Iran and the US carried out tit-for-tat tanker strikes over the weekend, pushing oil prices higher and escalating a six-month war. Bloomberg's Paul Wallace has the latest.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/iran-us-trade-tanker-attacks-050612379.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ttc1GGLxT07lc5tNHx2BYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/47972a4626f887b5264d09917942e8aa.jpg",
+      "published_at": "2026-09-07T05:06:12Z"
+    },
+    {
+      "id": "3c115a8e-0ce4-38fd-aba7-74f754ae919d",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP",
+      "summary": "Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-etf-inflows-altcoin-funds-slump/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SteKas4TIAGEGm_PirRauA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/938a7b54d371d53838e8ca8d4d869a16.png",
+      "published_at": "2026-09-07T04:58:30Z"
+    },
+    {
+      "id": "2b6dc65f-4443-3f69-b9a9-c9b12c18b335",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+      "summary": "Sept 6 () - Liquid Network, a Bitcoin-based payments and ‌settlement network, said ‌on Sunday that about $320 million was ​withdrawn from its federation wallet in a hack. \"Purported white-hat hackers\" withdrew around 4,000 ‌of the ⁠4,200 bitcoin held in its Liquid Federation ⁠wallet, Liquid Network said in a post on ​X.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-based-liquid-network-says-040533085.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_eetCthPui_wNs.cOoFhcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/a8517cb10613d061892797fb524948eb.jpg",
+      "published_at": "2026-09-07T04:32:42Z"
+    },
+    {
+      "id": "6b84f4dd-c5ef-3967-bfb1-70cb8a4c6b6f",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil extends gains after US and Iran strike ships",
+      "summary": "By Florence Tan and Sam Li SINGAPORE, Sept 7 (Reuters) - Oil prices extended gains on Monday as tit-for-tat strikes between the U.S. and Iran on vessels sailing in the Strait of Hormuz and other areas",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-us-iran-001532615.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AwFT68KaHDdo3jWnLtsdEQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5ad63d4991108e6421fad45177912c0f.jpg",
+      "published_at": "2026-09-07T04:19:16Z"
+    },
+    {
+      "id": "7ed190f2-5a54-3591-b841-3cb2b2350e32",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Another rate hike, just for insurance: Five questions for the ECB",
+      "summary": "By Dhara Ranasinghe and Stefano Rebaudo LONDON, Sept 7 (Reuters) - The European Central Bank is widely expected to hike interest rates on Thursday, erring on the side of caution as the U.S.-Iran war",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/another-rate-hike-just-insurance-040303890.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DObTW1AbxgJlzcK2BPfNfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7e4b1a2cfae096daf9be1fab655474b0.jpg",
+      "published_at": "2026-09-07T04:03:03Z"
+    },
+    {
+      "id": "57ee5ec5-7325-30ab-b0df-e878eaad7d02",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Asian shares are mixed as chipmaker shares rally in Tokyo and Seoul",
+      "summary": "Asian shares were trading mixed on Monday, with benchmarks in Tokyo and Seoul leading gains thanks to buying of computer chipmakers' stocks.  Japan's benchmark Nikkei 225 added 1.7% to 66,104.93, while South Korea’s Kospi jumped 3.3% to 6,907.53.  Shares in Samsung Electronics jumped 4.5% and memory chipmaker SK Hynix surged 6.2%.",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-chipmaker-shares-035455202.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hYndvHLUs6tzjmWj1piKXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/2c20a1374e837846f7403674392889b1.jpg",
+      "published_at": "2026-09-07T03:54:55Z"
+    },
+    {
+      "id": "41c36671-b79d-3a39-b441-af1df2ee75a7",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Liquid's Attackers Called Themselves White Hats, Ledger's CTO Isn't Buying It",
+      "summary": "Ledger CTO Charles Guillemet doubts Liquid's white hat claim and compares the $320 million peg-out to Ronin.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/liquid-white-hat-claim-ledger-ronin/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6zyU_bWrRw72h9hLZg.jqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/0edc739ac17d2908b731297a99b99006.png",
+      "published_at": "2026-09-07T03:44:43Z"
+    },
+    {
+      "id": "04367528-42b5-3059-8232-8d0f47f514d0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia’s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test",
+      "summary": "Nvidia disclosed roughly $99 billion of public and private equity investments as of July 26, plus about $25 billion of additional commitments. The portfolio included a $30 billion Intel stake and several billion dollars of CoreWeave equity. NVIDIA Corporation (NASDAQ:NVDA) is using its balance sheet to support the ecosystem that buys compute, which makes Intel […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-99-billion-portfolio-turning-034218904.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cGnZFMkjKjAP.WwrgEJB_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
+      "published_at": "2026-09-07T03:42:18Z"
+    },
+    {
+      "id": "8207d6d2-a42a-3ab0-9439-7a9b8c47592d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
+      "summary": "Oil prices rose as U.S. strikes on Iranian tankers and threats of stronger retaliation from Tehran intensified fears of further disruption around the Strait of Hormuz.",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-strikes-034000493.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2bIkooPWIoLyjWqAj_7eag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/c3e6c633072bff6de732ce872c47ef6f.jpg",
+      "published_at": "2026-09-07T03:40:00Z"
+    },
+    {
+      "id": "63809085-4b73-3087-9f39-2bf45d57fe04",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much.",
+      "summary": "The last big acquisition now anchors a $31 billion business line. The next one runs at more than $150 million a year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/history-says-what-nvidia-s-last-big-acquisition-became-hugging-face-will-cost-nearly-twice-as-much/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JaVBuCxGLBEABbe.7ye7YA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af9ae741675255ef44cefe28756b1ace.png",
+      "published_at": "2026-09-07T03:38:01Z"
+    },
     {
       "id": "d5001ca0-1c20-3379-83c3-ddca4526f9c2",
       "asset": "NVDA",
@@ -12,29 +188,106 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8YDOZp3ggP14hOWPB6BDPw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a0daf3d8e4f114a8bc2e54db7749c2c3.jpg",
-      "published_at": "2026-09-07T01:06:15Z"
+      "published_at": "2026-09-07T03:06:47Z"
     },
     {
-      "id": "c4b84bc0-121d-3bb4-9eb7-287ddc84ba9e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Analysis-Ship fuel shortage looms as refiners strained by war favour other products",
-      "summary": "By Enes Tunagur and Jeslyn Lerh LONDON, Sept 7 (Reuters) - A shortage of fuel oil used in ships and power plants looms in the third quarter as refiners increasingly squeezed by wars that have",
-      "source": "Reuters",
-      "url": "https://uk.finance.yahoo.com/news/analysis-ship-fuel-shortage-looms-010200350.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MuH_KLYmsFgOkCglwbFa6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/952bbf2cc4f4d53367584a8be70c2ceb.jpg",
-      "published_at": "2026-09-07T01:02:00Z"
-    },
-    {
-      "id": "e8add3b5-ff6f-317f-ba20-b1cca85281f2",
+      "id": "7491f9f5-cce6-3fad-9808-2082ebef6e13",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Berkshire Hathaway's Cash Fell From $397 Billion to $366 Billion in a Single Quarter",
-      "summary": "After several quarters watching from the sidelines, CEO Greg Abel is getting Berkshire Hathaway back in the game -- slowly.",
+      "title": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+      "summary": "One segment doubled last quarter while everything else combined grew 8%. If rates anywhere close to those hold, 70% arrives before the ramp is done.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/berkshire-hathaways-cash-fell-from-397-billion-to/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bIRkqMp9M8xSBXpfWTtN3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/20d1602a7338e70cf697cde9b79eff4d.jpg",
-      "published_at": "2026-09-07T00:50:00Z"
+      "url": "https://www.fool.com/investing/2026/09/06/prediction-data-center-passes-70-of-amd-s-revenue-in-2027-before-the-helios-ramp-is-finished/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1I090Sr1L3GpEwvyxSYA.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/488f76759fabe673ec997a9f0b95fd36.jpg",
+      "published_at": "2026-09-07T02:46:01Z"
+    },
+    {
+      "id": "07e43370-0710-32a5-a67d-c3749bff5914",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+      "summary": "Constellation Energy has the bigger nuclear platform, but Vistra's valuation and growth catalysts keep the race close.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/nuclear-stock-face-off-is-stock-or-stock-the-bette/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Px3YlSPY7ZxRkY3.eDQ2rA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2f8f943406f254897267cf3b30b9dfd4.jpg",
+      "published_at": "2026-09-07T02:22:00Z"
+    },
+    {
+      "id": "30cb9995-0833-3ddf-ae56-b6158d1e63ed",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "CZ Says Bitcoin Could Overtake Gold Next Bull Run: The Price It Needs to Hit",
+      "summary": "CZ says Bitcoin could overtake gold this cycle. BeInCrypto checks the BTC price target that flip would require.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/cz-bitcoin-overtake-gold-price-target/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hd1.HsBKxw0_hOLm7fouWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/eab053139b60f3614f35a2e02311c8fd.jpg",
+      "published_at": "2026-09-07T02:02:00Z"
+    },
+    {
+      "id": "3326a554-80c6-3b02-90a5-8c90abac4c5d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "ECB set to hike interest rates as Iran war flares anew",
+      "summary": "The European Central Bank is expected to raise interest rates again this week as renewed fighting in the Middle East pushes up energy costs and risks further stoking inflation.At that time, the central bank faced criticism for moving too slowly as eurozone inflation surged on the back of post-Covid pandemic supply chain woes and then the energy shock from Russia's invasion of Ukraine.",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ecb-set-hike-interest-rates-013544165.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1ppTTGjs5NosEthWWSM3jw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/18a1e144f7d2bd337e36e3d7b9299800.jpg",
+      "published_at": "2026-09-07T01:35:44Z"
+    },
+    {
+      "id": "30ad68fb-8a01-3299-91cd-cc8f3e1a0fb7",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Gold Falls on Rising Fed Rate Hike Expectations",
+      "summary": "Gold fell in early Asian trade. The precious metal faces near-term headwinds including the risk of a U.S. sticky inflation reading this week, that could reinforce expectations of a rate hike, Zaner Metals said.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-rising-fed-rate-hike-expectations-6e77bf70?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-09-07T01:27:00Z"
+    },
+    {
+      "id": "16cb87da-a2c3-33d1-bc20-2b7ed6b17dd3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Vanguard ETF Is Up 27% This Year: Is It Still a Buy for Long-Term Investors?",
+      "summary": "The Vanguard Information Technology Index Fund ETF should continue to outpace the S&P 500.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/vanguard-etf-up-27-this-year-is-it-still-a-buy-for/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Cb_7FpQ4Y.m07Yk9F0T78w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/46b391d742e73552b3bc42ad13c783f7.jpg",
+      "published_at": "2026-09-07T01:26:00Z"
+    },
+    {
+      "id": "02c1471d-5c28-3c4b-8696-3c2757c57c64",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
+      "summary": "On Friday, one of them drove more than half of the fund's decline.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/cathie-wood-s-2-biggest-positions-are-both-elon-musk-companies-together-they-are-16-of-the-fund/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kmj_8VO6c8ubIo.AoOwDPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f8989f9c99cb76ec08463dfca812b126.jpg",
+      "published_at": "2026-09-07T01:24:01Z"
+    },
+    {
+      "id": "41d047e2-d052-3d00-80cb-85aae7741bf1",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The Last Time Treasury Yields Hit 6%, Bitcoin Didn't Exist — What Happens If They Get There Again?",
+      "summary": "Rick Bensignor expects US 10-year Treasury yields to climb toward 6%. Here's what that could mean for Bitcoin's price.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/treasury-yields-bitcoin-6-percent/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MpATTDf7R1DipFpNYZ7.Og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e7417d1ae552682013f6e94d8925235b.jpg",
+      "published_at": "2026-09-07T01:22:20Z"
+    },
+    {
+      "id": "8fa2cc96-02b3-307a-834c-d0fd2fe9f591",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
+      "summary": "Tesla, Inc. (NASDAQ:TSLA) said its supervised Full Self-Driving technology recorded 4.1 times fewer collisions than manually driven Tesla cars across the five European countries where it is currently permitted, Reuters reported on September 1, as the company steps up lobbying ahead of a European Union vote on wider deployment. Tesla said the findings came from […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RQo27kDrGNsK_uwWji4biA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf.jpg",
+      "published_at": "2026-09-07T01:12:46Z"
     },
     {
       "id": "9f31e09e-27a5-31b8-8917-87d84aa02196",
@@ -48,61 +301,6 @@
       "published_at": "2026-09-07T00:29:34Z"
     },
     {
-      "id": "2cac8ae3-ba1d-3c12-8b6c-9efc13afadb2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "UiPath Just Sank 17%. Is the Stock a Buy on the Dip?",
-      "summary": "UiPath shares tumbled after its fiscal Q2 earnings report.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/uipath-just-sank-17-is-the-stock-a-buy-on-the-dip/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/khCC_M2LIP3VF6JD3UYbzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/93234cf0c77cf63ceb54cccf5c38955d.png",
-      "published_at": "2026-09-07T00:20:00Z"
-    },
-    {
-      "id": "104d07fe-53ee-32ea-8aaf-db64fad92cb9",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Nikkei Rises 1.8%, Led by Chip-Related Stocks",
-      "summary": "Japanese stocks were higher in early trade amid continued hopes for artificial intelligence-related demand and signs of U.S. economic strength.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-09-07T00:18:00Z"
-    },
-    {
-      "id": "78c43082-b09b-35c8-9067-63ed72f87634",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia makes staggering $12.9 billion bet to protect AI empire",
-      "summary": "This time, Nvidia isn’t betting on chips.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/nvidia-hugging-face-acquisition-deal-to-protect-ai-empire",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4SBGbJanzJ6yQFKe91A2JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/847deda57ac0088f350774697b12c7bf.jpg",
-      "published_at": "2026-09-07T00:03:00Z"
-    },
-    {
-      "id": "1683a1b7-ead6-3dc6-8d70-f0c45b2c3053",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Where Will Berkshire Hathaway Stock Be in 5 Years?",
-      "summary": "The range is wide -- and what Greg Abel does with $365 billion of cash and Treasury bills decides which end of it the stock lands on.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/where-will-berkshire-hathaway-stock-be-in-5-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GjWBy9_nJZFFo_H3b8M2kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4391aad03a63f95f6aa1e4351b609d4d.jpg",
-      "published_at": "2026-09-06T23:57:01Z"
-    },
-    {
-      "id": "3ca6b77f-8bf8-3d43-a812-8f1d7a59fba7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Oil Rises Amid Escalation in U.S.-Iran Conflict",
-      "summary": "Oil rose in early Asian trade amid an escalation in the U.S.-Iran conflict that could increase supply disruptions in the Middle East.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-u-s-iran-conflict-aab0d7fb?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-09-06T23:38:00Z"
-    },
-    {
       "id": "92e0a028-2b0a-3710-965b-72c63e57e463",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -112,204 +310,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/scott-bessent-world-awash-debt-233017563.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ywWFgfR3WREQ764WChmu1A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/da55621e707d2bdb3eaa089705702736.jpg",
       "published_at": "2026-09-06T23:30:17Z"
-    },
-    {
-      "id": "16440304-19ca-37dd-8bba-1f66fa00b391",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What a $10,000 Investment in the Vanguard S&P 500 ETF (VOO) a Decade Ago Is Worth Today",
-      "summary": "That investment would have compounded at a rapid rate.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/what-a-10000-investment-in-vanguard-sp-500-etf-voo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3HRiB5YAkqUVNFIzHBlTAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/28990c3a4e3ebed83a7599d404a972f7.jpg",
-      "published_at": "2026-09-06T23:25:00Z"
-    },
-    {
-      "id": "b7c58bce-e73c-3915-8d98-5a80aa250bd0",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
-      "summary": "Hitting the milestone by the end of 2028 takes about 14% a year -- from a business growing about three times that fast.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/prediction-taiwan-semiconductor-s-market-value-passes-usd3-trillion-before-2029/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KuMmfccJJcQ9aCRoKjS00w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c1dc396a35c2546866e2450d8debbf1.jpg",
-      "published_at": "2026-09-06T22:51:01Z"
-    },
-    {
-      "id": "4c4b01da-2283-3b3c-b9ba-a44a16764ebf",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
-      "summary": "Apple Inc. (NASDAQ:AAPL) raised the price of Apple TV in the U.S. to $14.99 a month from $12.99 and increased the individual Apple One bundle to $21.95 a month from $19.95, CNBC reported. Apple TV launched in 2019 at $4.99 a month and has since added significant content, including the film “F1” and a fourth […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/guI8jCREpGNRSpogsdXpuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84.jpg",
-      "published_at": "2026-09-06T22:48:34Z"
-    },
-    {
-      "id": "7d62217f-1877-374d-8f1c-e12331ace416",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
-      "summary": "CNBC reported that NVIDIA Corporation (NASDAQ:NVDA) CFO Colette Kress told investors on August 26 that fiscal 2028 revenue growth will reach 70%, far above the 44% average analyst estimate tracked by LSEG, marking the company’s first-ever year-ahead revenue forecast. Applied to the roughly $396 billion consensus estimate for fiscal 2027, that guidance implies fiscal 2028 […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z4Iyq08VJzxIXtHXG9fIkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc.jpg",
-      "published_at": "2026-09-06T22:31:47Z"
-    },
-    {
-      "id": "3ec6ae6a-644b-3ca8-95fd-2aea2df3c889",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
-      "summary": "Nvidia is making a $12 billion move.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/did-nvidia-just-say-checkmate-to-amd-and-intel/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dfy.mSISjHWurC7w2zMBOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91ea6f8de39ea5c81849e9d28fb46a57.jpg",
-      "published_at": "2026-09-06T22:30:01Z"
-    },
-    {
-      "id": "17ad250d-83aa-3bd5-9670-9f4ec27d8b48",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
-      "summary": "CNBC and Reuters reported that Apple Inc. (NASDAQ:AAPL) will hold its next product launch event on September 9 at Apple Park in Cupertino, marking incoming CEO John Ternus’s first major event since taking over from Tim Cook. He became executive chairman on September 1. Analysts expect Apple to reveal the iPhone 18 Pro and Pro […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/guI8jCREpGNRSpogsdXpuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84.jpg",
-      "published_at": "2026-09-06T22:12:25Z"
-    },
-    {
-      "id": "44a07216-f75a-3782-95ae-8a932c7796ea",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
-      "summary": "Investing.com -- Tesla’s Cybercab could give the company a cost advantage in the autonomous-vehicle market, but its ability to scale robotaxi operations will depend more on software performance than manufacturing costs, Goldman Sachs analysts said. Tesla hosted a Cybercab launch event in Austin on Sept. 3 and has begun offering robotaxi rides in the vehicle, according to the Goldman Sachs research note. The company said it had completed 1 million miles of unsupervised robotaxi operations. Tesla",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sees-cybercab-giving-tesla-214658906.html",
-      "thumbnail": "",
-      "published_at": "2026-09-06T21:46:58Z"
-    },
-    {
-      "id": "ef108693-79cd-35e0-b9ba-9002c027d71a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/phil-schiller-app-store-exit-214106418.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HIyyxAEkNv4wrq7zBJPOAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/e52bab79780f508df007e0b168d6914f.jpg",
-      "published_at": "2026-09-06T21:41:06Z"
-    },
-    {
-      "id": "44d530df-1d6d-346e-ba8c-4835b2b11b87",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
-      "summary": "Norway has reached a 96% to 98% market share for electric vehicles, becoming the global leader in the transition from internal combustion engine vehicles to EVs. When it comes to smart glasses technology, however, don’t expect 96% of consumers in...",
-      "source": "Benzinga",
-      "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kmILPO.7YFz9qTMOTjFdWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/a80ac245160b54e134414d6bfbeb97e4.jpg",
-      "published_at": "2026-09-06T21:30:19Z"
-    },
-    {
-      "id": "e175a67c-a1ad-3581-a05b-2bca3bde1f4f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "'Rich Dad Poor Dad' author touts 10-year-old investment amid '$1.2 billion' debt",
-      "summary": "“Rich Dad Poor Dad” author Robert Kiyosaki reveals he is under debt.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-touts-10-year-old-investment-amid-1-2-billion-debt",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ynBnwyVjRY24NYbPTPm.XQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/3a875a129cac58f31dd269ecbf08f3a4.jpg",
-      "published_at": "2026-09-06T21:24:14Z"
-    },
-    {
-      "id": "99793bd8-7a5c-3660-aed1-074eded3e391",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin Is Backed by Nothing? Peter Schiff Revives Old War",
-      "summary": "Peter Schiff reopens the Bitcoin backing controversy. He argues spent mining energy backs nothing, even as US debt climbs past $40 trillion.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/bitcoin-backing-controversy-peter-schiff/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hqVid7c56ZXMOc8u5br9_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/592a2f29ec2e74abfb039241be65a732.jpg",
-      "published_at": "2026-09-06T20:43:43Z"
-    },
-    {
-      "id": "34a147a2-51ad-3844-9839-aec501a05a09",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
-      "summary": "Bloomberg reported on August 25, 2026, that BlackRock, Inc. (NYSE:BLK) cut the minimum size for converting large Bitcoin holdings directly into shares of its iShares Bitcoin Trust ETF to $1 million in July, down from $25 million when the in-kind conversion process first became available. The fund has facilitated more than $5 billion of these […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-quietly-turning-bitcoin-203223849.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_kmOloUYm5TgJSbXv0e9.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/5c392e5eac3809bf6dec0dc40e35ff41.jpg",
-      "published_at": "2026-09-06T20:32:23Z"
-    },
-    {
-      "id": "84c588ac-678f-3d07-bbb6-11485ad2d9dd",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) biggest lingering investor concern was customer concentration, CNBC reported. Nvidia relies on hyperscalers Amazon, Google, and Microsoft, along with major buyers Meta and SpaceX, for an outsized share of revenue, and in May began splitting its data center reporting into “hyperscalers” versus everyone else, a group it calls AI clouds, industrial, and […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/noSbuNZjvACAX4fQQ4D2ag--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740.jpg",
-      "published_at": "2026-09-06T20:21:05Z"
-    },
-    {
-      "id": "ca44b4f8-c45e-3285-86ba-9b7d74540c13",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Attackers Leave On-chain Message After $320 Million Exits Liquid Network",
-      "summary": "$319 million left Blockstream's Liquid peg on Sunday. The wallet left a note. The chain says the peg still balances.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/liquid-peg-320-million-whitehat-message/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N2nq0jN1lJhnu3YaP.Ai0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3cb92a81b841532b2269865973700ca0.jpg",
-      "published_at": "2026-09-06T20:20:39Z"
-    },
-    {
-      "id": "ca108eae-233f-3df7-af14-dbb66c70ef69",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
-      "summary": "CNBC reported that Apple Inc. (NASDAQ:AAPL) announced new Mac Mini and Mac Studio models with updated chips built for AI workloads. The Mac Mini now offers Apple’s new M6 chip, its first built on a 2-nanometer process, or an M5 Pro, and starts at $899, up from $799 for the prior model. Apple says the […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2D3rDqXrs4xM9uaBX9mmYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/61c363b6d566f2e9989d12b08155c301.jpg",
-      "published_at": "2026-09-06T20:16:09Z"
-    },
-    {
-      "id": "41889a84-f016-38d8-918e-cb2d1a47f698",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today",
-      "summary": "Ten years ago, $1,000 bought you 1.7 Bitcoins.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/if-youd-invested-1000-in-bitcoin-10-years-ago-here/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/77au5kgUXTg.e1JIYk.AOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a66b0457529ae27bfd7bd88c20df0734.png",
-      "published_at": "2026-09-06T20:08:00Z"
-    },
-    {
-      "id": "9bb3d1d9-0844-32fd-95bd-6502f82ca74f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "BitGo (BTGO) Buys Into NYDIG’s Trading Desk Just as Crypto Volume Comes Back",
-      "summary": "CNBC reported on August 27, 2026, that BitGo Holdings, Inc. (NYSE:BTGO) will acquire the institutional trading business of NYDIG, adding derivatives, structured products, financing, and other capital markets services to its existing custody, settlement, and wallet infrastructure. About 30 NYDIG employees and roughly 250 institutional client relationships will join BitGo, according to a person close […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitgo-btgo-buys-nydig-trading-200158183.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dMALnFlVZcagwU.EoD_L5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a443913332014c76029f1fc96aba653f.jpg",
-      "published_at": "2026-09-06T20:01:58Z"
-    },
-    {
-      "id": "66c4d527-c77a-3f1c-a16c-d39748d608da",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Should You Forget SpaceX (SPCX) Stock?",
-      "summary": "There are solid reasons to buy or ignore. Here's why I'm ignoring.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/should-you-forget-spacex-spcx-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Twkm6qXn4COJtgBGbBo6WA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fff85f19b9beca2998a9ea9373597d2b.jpg",
-      "published_at": "2026-09-06T19:53:00Z"
     }
   ]
 }
