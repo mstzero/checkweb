@@ -1,18 +1,249 @@
 {
-  "last_updated": "2026-09-09 21:48 UTC",
+  "last_updated": "2026-09-09 23:47 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "f23ab31e-044a-34a3-abaa-0a532b9a95b4",
+      "id": "59de9715-6649-3bb7-ab2a-645a0715c752",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
+      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1JjyW8Lu0HYVP.IlOcSLiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
+      "published_at": "2026-09-09T23:33:27Z"
+    },
+    {
+      "id": "67049480-0739-3f40-8ee5-63c8953ff576",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Why Argan Stock Swooned by Almost 8% Today",
-      "summary": "An analyst initiated coverage of the popular industrial stock.",
+      "title": "As Anthropic's IPO Looms, This Small Financial Powerhouse Just Got Its First Underwriting Job",
+      "summary": "This adds another market to its broad financial ecosystem.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/why-argan-stock-swooned-by-almost-8-today/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/COWyRj8nqBw5Y4prJHK7Fg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/59b5dca97b7db1954f46ff7278f4c6a9.jpg",
-      "published_at": "2026-09-09T21:33:27Z"
+      "url": "https://www.fool.com/investing/2026/09/09/as-anthropics-ipo-looms-this-small-financial-power/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TDAktnd3.g4csBWTEntvvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1c1b085faca673fba3d1c9cbaf67016e.jpg",
+      "published_at": "2026-09-09T23:25:00Z"
+    },
+    {
+      "id": "4440fe1c-75b2-3e15-a806-3d6659bc5a81",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Sasol Stock Soared Nearly 10% Higher Today",
+      "summary": "An analyst at an American bank has become notably more bullish on the South African company's prospects.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/why-sasol-stock-soared-nearly-10-higher-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UtnLjqSw0HZeiXZo6jegQw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/53214227dda58437ebcc6fe32443683d.jpg",
+      "published_at": "2026-09-09T23:22:04Z"
+    },
+    {
+      "id": "364fb6a7-9249-31d1-9545-f2176a94aac0",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Trump Reportedly Says Oil Prices Won’t Tumble Until After Midterms, While Iran Signals More Intense War — USO, UCO Rise",
+      "summary": "Crude prices climbed as Donald Trump reportedly linked potential energy-price relief to the election, while an Iranian official warned Tehran could escalate counterstrikes.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/trump-reportedly-says-oil-prices-wont-tumble-until-after-midterms-while-iran-signals-more-intense-war-uso-uco-rise/cZt7k6WRJC2",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/copG.8Bd1u9DCC91cK10AA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/3d0d0aa6cfb5e6803d83fa44d376e2c3",
+      "published_at": "2026-09-09T23:20:02Z"
+    },
+    {
+      "id": "503da2b5-62c1-3933-b7e3-d21b10526394",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
+      "summary": "If you own Marvell Technology (MRVL) or NVIDIA, you own one idea: the world is building AI data centers as fast as the supply chain allows. NVIDIA sells the whole factory and rents its architecture to everybody. Marvell designs the custom parts hyperscalers use to build alternatives to NVIDIA's chips. Same trend, opposite ends, which is why these two belong side by side.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/614719/marvell-or-nvidia-which-one-costs-less-per-dollar-of-profit/2026-09-09",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FWedEB5uKS5hXxfCjEqXuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/819c7c9a1e17ab2ee1c33e599bcc2465.jpg",
+      "published_at": "2026-09-09T23:02:12Z"
+    },
+    {
+      "id": "314d47fa-21bf-3586-8781-620dcd6e5a92",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Goldman Sachs sends stark message to Tesla investors",
+      "summary": "Tesla’s robotaxi ambitions are growing, but so are the questions surrounding one of Wall Street’s biggest bets.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-tesla-stock-rating-cybercab",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8IodnuB5RK5CFLcg5X415w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d8c7085f9ec8a67ad237e5863c6cc3c4.jpg",
+      "published_at": "2026-09-09T23:00:00Z"
+    },
+    {
+      "id": "8d26dbb8-a63e-3c24-9ff4-6450254c9702",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+      "summary": "BUZZ HPC, HIVE’s AI subsidiary, signed Canada’s data center development principles alongside Google, Microsoft, AWS, Meta and Anthropic.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/hive-joins-google-microsoft-and-amazon-in-new-canada-data-center-pledge",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/u4EfMxj4FyBnmk7MwSivvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/792fa6404082c09e8e7fd83e737e9704.jpg",
+      "published_at": "2026-09-09T22:53:44Z"
+    },
+    {
+      "id": "d1d29df9-93f0-35da-b403-5531ea13bd81",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Independence Realty Trust Stock Sank Today",
+      "summary": "It's essentially acquiring a peer REIT.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/why-independence-realty-trust-stock-sank-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JmO6Ifn2CVHyIclQ0iNqtQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2af21ebd29ec4e8d3cbf382c9af0152b.jpg",
+      "published_at": "2026-09-09T22:51:42Z"
+    },
+    {
+      "id": "a2925c94-da72-3329-b9be-8bc1fe292acc",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Why BP Is One of the Best Oil Stocks to Buy Right Now",
+      "summary": "For investors seeking exposure to high oil prices without paying a premium valuation, BP looks like one of the best stocks to consider right now.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/energy/articles/why-bp-one-best-oil-224500140.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aSf8kAUF6kCWbG3FdMNXrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8c4a41f088bf9120715db42cb7535f5f.jpg",
+      "published_at": "2026-09-09T22:45:00Z"
+    },
+    {
+      "id": "546e37c5-3168-384d-97cd-d65407c3f4f2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "summary": "The custom chip designer could be one of the best buys in the market at today's prices.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/broadcom-forecasts-230-billion-in-ai-semiconductor/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/450AW0H.fGPbNhHYK8OHfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3ab92619df3ebda9ca33a1f5e0ea0e4.jpg",
+      "published_at": "2026-09-09T22:41:00Z"
+    },
+    {
+      "id": "77acf5dc-28b3-3d4b-b29d-49f1f15ae721",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin's Spot-Backed Rally Hides an Altcoin Leverage Trap Last Seen in 2025",
+      "summary": "Altcoin futures open interest topped Bitcoin's for the first time since 2024, and analysts warn leverage is stretched.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-rally-altcoin-leverage-trap/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xkqaQKZnpT8Wkpm5vl2mig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/db3aba55efc03063481175b09ca7d85a.jpg",
+      "published_at": "2026-09-09T22:40:32Z"
+    },
+    {
+      "id": "b6713615-f9a8-351d-b390-ab6e2dc25c19",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto.com’s Blockchain Rewound Two Hours to Undo a $74 Million Exploit. Could Bitcoin or Ethereum Ever Do the Same?",
+      "summary": "A Crypto.com-backed blockchain just erased nearly two hours of transaction history to recover funds from a massive exploit, raising an uncomfortable question about whether the immutability that crypto investors depend on is a technical guarantee or simply a matter of who controls enough votes.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/09/crypto-coms-blockchain-rewound-two-hours-to-undo-a-74-million-exploit-could-bitcoin-or-ethereum-ever-do-the-same/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TpxYT87Jvu63I6KlUb2TTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8ce6a176ccf96abe9b1c70957e183451.jpg",
+      "published_at": "2026-09-09T22:30:14Z"
+    },
+    {
+      "id": "8c87e389-47a0-3c9d-901e-6736c6d208a8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why's Everyone Talking About Bloom Energy Now?",
+      "summary": "Everyone is chasing the companies building AI. But what if the bigger bottleneck is the power that powers them?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/whys-everyone-talking-about-bloom-energy-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RHEUMHpgEoEJvRkyLoui9Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/71d59962ea0fb4e0cb3f5af408c0ce76.jpg",
+      "published_at": "2026-09-09T22:25:00Z"
+    },
+    {
+      "id": "e3e2f4f0-79d7-32b5-ade8-d3c450183d34",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Oracle Reports Thursday. Its Capital Budget Is More Than Twice the Cash Its Business Produces.",
+      "summary": "The software giant plans to pay out about $70 billion in cash this fiscal year. Last year, its business produced $32 billion.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/oracle-reports-thursday-its-capital-budget-is-more-than-twice-the-cash-its-business-produces/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gtCxeRYOsL5dhG7u.jmpHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c61d6b1e01b0cf10aecc1d52f2318f65.jpg",
+      "published_at": "2026-09-09T22:24:01Z"
+    },
+    {
+      "id": "ea106c59-4974-3bde-b9a1-d31ad4db7af6",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Forget VUG. Vanguard’s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+      "summary": "Two Vanguard funds share the same large-cap universe, the same rock-bottom fee, and the same issuer, yet one is lapping the other by a stunning margin this year, and the reason comes down to seven stocks you probably already own too many times over.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/09/09/forget-vug-vanguards-value-fund-is-beating-its-growth-twin-by-11-points-this-year-with-none-of-the-magnificent-seven/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S98HcqN.SyFX0b8ejHuD.Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/770be120fff685c5f7314670aab4aa01",
+      "published_at": "2026-09-09T22:15:26Z"
+    },
+    {
+      "id": "7df211a4-bcb6-346d-82e2-b0fbf5fb0bcf",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s iPhone Rally Might Have to Wait",
+      "summary": "Apple's big tech unveil didn't drum up much enthusiasm for the stock, but the picture tends to get brighter longer-term.  Apple stock fell 0.3% today as it launched a new foldable iPhone.  The stock has done better against the S&P when measured a week after the iPhone launch, outperforming in three of the past five years.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/apple-s-iphone-rally-might-have-to-wait-hBGYPASKzG8gCjoL53c8?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-09-09T22:14:36Z"
+    },
+    {
+      "id": "8a020892-1c99-3c2e-a225-cbae0a8aeaef",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "S&P 500 investors may want to rethink their favorite ETF",
+      "summary": "Most investors don’t realize what’s happened inside their go-to index fund.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/spmo-etf-sp-500-momentum-concentration-risk",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cwzs7XHuWKIqWBXfsZIe0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/73f65371d52b2562811da962d181819a.jpg",
+      "published_at": "2026-09-09T22:07:00Z"
+    },
+    {
+      "id": "59c7e40c-3fdd-3c12-a091-40ac1b4c32d6",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus",
+      "summary": "U.S. benchmark 10-year yields hit the highest since 2023.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-oil-crosses-101-yields-pop/cZt71xeRJCT",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NqR_6SI0.MrTW_OMjlGfBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/4b1cfd1cebb08709ce989ad97de7d87f.jpg",
+      "published_at": "2026-09-09T22:01:49Z"
+    },
+    {
+      "id": "6f5c89dd-a614-3cf8-864d-c085ddb6cb1c",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "GameStop's record quarter came with a $75 million Bitcoin loss",
+      "summary": "GameStop posted its highest-ever second-quarter operating income, while its bitcoin holdings swung to a $75 million unrealized loss.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/gamestops-record-quarter-came-with-a-75-million-bitcoin-loss",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fBX.xC7lGZ7tgltz3kUZlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/81d5c43aa3a73b7b55d1c1159d3b1564.jpg",
+      "published_at": "2026-09-09T22:00:00Z"
+    },
+    {
+      "id": "c8f49f6e-19f8-3717-a260-aea367490ba3",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Multi-Category Presence Key To AI Visibility For Fintech Brands",
+      "summary": "Fintech brands face greater challenges gaining visibility in AI-generated answers than brands in other sectors, but rank high when their product offerings span several categories.",
+      "source": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/417750/apple-finds-advantages-across-fintech-in-search-re.html",
+      "thumbnail": "",
+      "published_at": "2026-09-09T21:57:44Z"
+    },
+    {
+      "id": "8750820a-49ff-347b-b446-6b4695d00e6a",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "TQQQ Gained 59.18% While QQQ Gained 24.99%. Here Is Why That Is Not Triple.",
+      "summary": "TQQQ promises three times the daily move of the Nasdaq-100, but three separate costs work against that promise every single session, and most holders never see any of them on a fact sheet.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/09/09/tqqq-gained-59-18-while-qqq-gained-24-99-here-is-why-that-is-not-triple/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/20tlVoeT.vAQQ5euz9gGyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/752f8ad7f096776286f17e0d69d39861.jpg",
+      "published_at": "2026-09-09T21:45:38Z"
+    },
+    {
+      "id": "dd5ae790-31a0-32ac-90e7-505cc2774ef6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Global oil prices hit $101 per barrel as Middle East conflict roils markets",
+      "summary": "Global oil prices are back above $100 per barrel as fighting in the Middle East raises concerns about prolonged disruptions to oil supply.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/09/09/economy/oil-price-iran-war",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/W6nLvCI_.AOazy9tDtJ9RQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/f89d2890027dc28b38c139f61a180387.jpg",
+      "published_at": "2026-09-09T21:32:33Z"
     },
     {
       "id": "488f2b61-7c1c-4aa7-bd7d-e8324526584c",
@@ -26,42 +257,9 @@
       "published_at": "2026-09-09T21:30:00Z"
     },
     {
-      "id": "7bc60705-f90b-3a1b-ad9c-ab73cce7b9c7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What History Reveals When the S&P 500 Sends Its Rarest Warning Signal",
-      "summary": "The Shiller CAPE Ratio just reached its highest level since the dot-com boom. But long-term investors don't have to worry.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/what-history-reveals-when-the-sp-500-sends-warning/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vfJ__QNtP3mSGANiGTs91Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/483791a0c5c76bf386c1dd7babe6ab60.png",
-      "published_at": "2026-09-09T21:20:00Z"
-    },
-    {
-      "id": "59de9715-6649-3bb7-ab2a-645a0715c752",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: Oil Prices, Yields Hit Stocks, With Meta, SpaceX Key Movers. Apple Unfolds iPhone, Inflation Data Due",
-      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1JjyW8Lu0HYVP.IlOcSLiA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
-      "published_at": "2026-09-09T21:15:17Z"
-    },
-    {
-      "id": "60ba99a2-6148-3fe4-8b45-a9109123e702",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Apple Releases the iPhone 18 Pro Lineup and the Foldable iPhone Duo. Do These New Products Signal a Golden Age of Product Innovation Under CEO John Ternus?",
-      "summary": "It's the first major product launch under new CEO John Ternus, who recently replaced former CEO Tim Cook, who has run the company since 2011.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/apple-releases-the-iphone-18-pro-lineup-and-the-foldable-iphone-duo-do-these-new-products-signal-a-golden-age-of-product-innovation-under-ceo-john-ternus/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dR2Nb.hLH0RPWOCRdo.MtA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4195185df68d9cc14fef604f43fda380.jpg",
-      "published_at": "2026-09-09T21:15:01Z"
-    },
-    {
       "id": "137c5d08-09f0-3a53-b30a-65290ca5b2e0",
-      "asset": "AAPL",
-      "asset_name": "Apple",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades",
       "summary": "On Sept. 9, 2026, the consumer electronics giant debuted its first foldable phone at $1,999 alongside new Pro models featuring a 2nm chip and Siri improvements.",
       "source": "Motley Fool",
@@ -81,6 +279,17 @@
       "published_at": "2026-09-09T21:12:24Z"
     },
     {
+      "id": "60f7ef4a-fe43-3f9d-8663-a72211665b61",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "U.S. Stocks Fall as War Escalation, Oil Spike Continue",
+      "summary": "U.S. stocks extended their recent decline as the war in the Middle East continued to escalate and drive up oil prices.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-war-escalation-oil-spike-continues-8e83817c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ux8SSe0t8M1dStrACJuuyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/2d60d467a0a11513669c4e974740dfed.jpg",
+      "published_at": "2026-09-09T21:10:00Z"
+    },
+    {
       "id": "a6837395-cfb6-3e1c-8a40-33248bd4cff3",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -92,39 +301,6 @@
       "published_at": "2026-09-09T21:07:25Z"
     },
     {
-      "id": "ded1cc87-ae1e-3dcd-938b-308d733e7899",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trading Day: $100 oil bites",
-      "summary": "By Jamie McGeever ORLANDO, Florida, Sept 9 (Reuters) - Stocks around the world fell on Wednesday as entrenched conflict in the Middle East pushed oil prices above $100 a barrel, while bond yields rose",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/trading-day-100-oil-bites-210232025.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6BMcUV0iJeCiH2NdnKREIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/fb3eb01378f062a516bcd8f0b78bad56.jpg",
-      "published_at": "2026-09-09T21:02:32Z"
-    },
-    {
-      "id": "a962759d-7b00-304d-a87a-6a084b621967",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple Unveils iPhone 18 Pro, Foldable Duo and Siri AI at Apple Park",
-      "summary": "Apple (NASDAQ:AAPL) introduced the iPhone 18 Pro lineup, a new foldable iPhone Duo, AirPods 5, Apple Watch Series 12 and Apple Watch Ultra 4 during an event at Apple Park, placing artificial intelligence, on-device computing, battery life and health features at the center of its product announcement",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/event-apple-unveils-iphone-18-pro-foldable-duo-and-siri-ai-at-apple-park-2026-09-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mj0JdUygHW4R8dw4g9Gjug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/e55c50edf14571b4022de54a1569f5ff.png",
-      "published_at": "2026-09-09T21:02:09Z"
-    },
-    {
-      "id": "d26dd429-75ba-3cba-9ef5-67ca547f6d21",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Update: US Equity Indexes Fall as Treasury Yields Rise After Bessent Triples Size of Buyback Program, Worsening Iran War Sends Brent Crude Above $100",
-      "summary": "(Updates with index/price moves, macroeconomic data, comments, and company/geopolitical news from th",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-treasury-210157697.html",
-      "thumbnail": "",
-      "published_at": "2026-09-09T21:01:57Z"
-    },
-    {
       "id": "682acc9e-6d53-314a-b696-e55cf3f2efb3",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -134,182 +310,6 @@
       "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/09/09/michael-dell-passes-jeff-bezos-forbes-billionaire-rankings/91678135007/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ppz1msND7i6JAJJ7dcB84w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/usa_today_money_325/94aa94b76d16757b71349c20f9239149.jpg",
       "published_at": "2026-09-09T21:01:35Z"
-    },
-    {
-      "id": "25527e0d-29e1-3dd1-a1be-60fcae3b5838",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Optical Cable Corporation Q3 2026 Earnings Call Summary",
-      "summary": "Moby summary of Optical Cable Corporation's Q3 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-optical-cable-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x3DsyajsngrYLzzB0h2xJA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/9ddcce8fdefaf6c996edc296446c03ad.png",
-      "published_at": "2026-09-09T20:59:28Z"
-    },
-    {
-      "id": "7359deac-ec7b-3b63-836e-00898366a5f4",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/apple-ceo-reviving-steve-jobs-205809820.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.c1NBNjPan5O0WxCyJCtOA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/0767f3604f9640ff2a24120787cc34c3.jpg",
-      "published_at": "2026-09-09T20:58:09Z"
-    },
-    {
-      "id": "c9fb09f4-06dd-363a-b51e-90ed64687309",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Stock Market Today: Dow Falls 400 Points; Sellers Whack This AI Software Firm",
-      "summary": "Stock Market Today: The Dow Jones index drops Wednesday on rising oil prices. Apple stock falls ahead of the iPhone event.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MpMcEkfTcxZ8dtteRcAaOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9f7e215882b52e2bd159e3080ef17e9e.jpg",
-      "published_at": "2026-09-09T20:56:37Z"
-    },
-    {
-      "id": "5cce3628-877d-37be-a89d-f3b8ea3d010f",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "BUSINESS  The latest Market Talks covering Basic Materials. Published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET. 1444 ET – Gold futures make small gains despite a rise in Treasury yields after the Treasury Department said it would buy back $6 billion in bonds this week, less than some in the market expected.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-92d7a6b8?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m6uBmWlpm6A_dmMZyCImOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/eb60ad04b37588e6ad987a1ec3125722.jpg",
-      "published_at": "2026-09-09T20:56:00Z"
-    },
-    {
-      "id": "ad2e7a21-f9f9-3516-b114-ddf8d454ae59",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on oil futures, diesel futures, Ithaca Energy and more in the latest Market Talks covering Energy and Utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-adfcc4f0?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XiulFo.4B2RYb9CWyJLfJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7c89d27141ad9296d6b9cbf530886a02.jpg",
-      "published_at": "2026-09-09T20:54:00Z"
-    },
-    {
-      "id": "694d0726-b36a-3b8e-a5e5-ab91aed27729",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Destination XL Group, Inc. Q2 2027 Earnings Call Summary",
-      "summary": "Moby summary of Destination XL Group, Inc.'s Q2 2027 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-destination-xl-group-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ktu45K2LZd3Z8TpWp8GSTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/2c4eb0e6c27ebd816ca6796ddef84826.png",
-      "published_at": "2026-09-09T20:53:17Z"
-    },
-    {
-      "id": "29603a47-2d19-309e-913a-095f18fd310e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "SailPoint, Inc. Q2 2027 Earnings Call Summary",
-      "summary": "Moby summary of SailPoint, Inc.'s Q2 2027 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-sailpoint-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KoQuTryYUGfC.BWDFl2knQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/f5f22dbeb61fc83d399a0afe5774719c.png",
-      "published_at": "2026-09-09T20:52:44Z"
-    },
-    {
-      "id": "cfd844be-5747-37d1-9168-de70133599c7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Cathie Wood Is Loading Up on Ionis Pharmaceuticals (IONS) Stock. Here's the Bet She's Making.",
-      "summary": "Ionis Pharmaceuticals is promising in multiple ways -- but it's not dirt cheap or without risks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/cathie-wood-buy-ionis-pharmaceutical-ions-stock/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iXogHwUbnLyfDnlGkeaWuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3f5524527b33bf04de3416fc1a64329e.jpg",
-      "published_at": "2026-09-09T20:50:00Z"
-    },
-    {
-      "id": "97067ec0-ebb3-33da-b188-c941566d6557",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Korn Ferry Q1 2027 Earnings Call Summary",
-      "summary": "Moby summary of Korn Ferry's Q1 2027 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-korn-ferry-q1-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/fXvpserdaWuRY1PFimRWyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/34e0f26ed7919a7e38fd6d8a64b43459.png",
-      "published_at": "2026-09-09T20:46:53Z"
-    },
-    {
-      "id": "2f0cd83e-c827-3862-a85e-7b96bc8ce32f",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Analyst warns Bitcoin rally isn't over, here's where money is flowing",
-      "summary": "Anthony Pompliano says Bitcoin’s strong run over the past month is far from finished.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/analyst-warns-bitcoin-rally-isnt-over-heres-where-money-is-flowing",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LJgM8c41z4WhiWcF8oA9bg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/fca8cb6b4bc22276fb9bd06f205f65dd.jpg",
-      "published_at": "2026-09-09T20:45:00Z"
-    },
-    {
-      "id": "e6690f65-a688-3849-a844-0763dbf5a29a",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
-      "summary": "The company sent owners a fortune in cash, yet the stock went backward. Here is the accounting on what that trade-off actually bought, and what it means now.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/614669/what-crm-shareholders-got-paid-while-the-stock-stood-still/2026-09-09",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ThGFgCoUlxPxqMfVUQVFWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/7231c41968d5c1d2df6af2c8e2b066bf.jpg",
-      "published_at": "2026-09-09T20:31:42Z"
-    },
-    {
-      "id": "fff1ef41-d175-355f-a03c-077f542624de",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
-      "summary": "Alphabet (GOOGL) stock has drifted, returning negative 6.8% over the past three months while the S&P 500 returned 3.6%. The strongest evidence for upside from here is not in the advertising business that pays the bills. It sits in a revenue line the company only began recognizing in the second quarter of 2026: TPU system sales, shipped into customers' own data centers.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/614707/should-you-buy-alphabet-stock-for-the-chips-it-now-sells/2026-09-09",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jqe0dFfcyAeKrB4A7ZiNYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/6c26ed98b7cdac0f2f776a3692796371.jpg",
-      "published_at": "2026-09-09T20:09:19Z"
-    },
-    {
-      "id": "5bb78e2f-a71e-3a6c-8b7c-c93ea7cfe41e",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Could Tesla’s (TSLA) Cybercab Unlock a New Growth Driver?",
-      "summary": "Tesla, Inc. (NASDAQ:TSLA) is moving further into the autonomous-driving market as it has started offering robotaxi rides using its Cybercab. The company hosted a Cybercab launch event in Austin on September 3. Following the event, Goldman Sachs maintained a Neutral rating on Tesla, Inc. (NASDAQ:TSLA). The bank has a 12-month price target of $360 on […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/could-tesla-tsla-cybercab-unlock-200632774.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RQo27kDrGNsK_uwWji4biA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf.jpg",
-      "published_at": "2026-09-09T20:06:32Z"
-    },
-    {
-      "id": "99c974bf-0994-30ed-96be-b1fa75997d79",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "If you invested $1,000 in gold & Bitcoin 10 years ago, here's how much money you'd have today",
-      "summary": "A decade can transform an investment. On September 9, 2016, gold was grinding through a quiet recovery while Bitcoin was still a niche digital asset trading in the low hundreds of dollars.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-10-years-ago-heres-how-much-money-youd-have-today",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kFNn_EqDJiAiNb.JkDkrlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/31659aa2e6b6b802628820a1d0f72154.jpg",
-      "published_at": "2026-09-09T20:02:03Z"
-    },
-    {
-      "id": "f9043842-95bc-3249-981d-9cd92c7f7c17",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "summary": "Financial stocks were lower in late Wednesday afternoon trading, with the NYSE Financial Index shedd",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-200106007.html",
-      "thumbnail": "",
-      "published_at": "2026-09-09T20:01:06Z"
-    },
-    {
-      "id": "f8bcaeec-f778-4af6-af76-7797460ca48a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Hunter Biden's laptop meme coin crashes one day after launch",
-      "summary": "Scott Melker discusses Hunter Biden's meme coin name for his laptop that caused controversy during the 2020 presidential election. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/hunter-bidens-laptop-meme-coin-200000890.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aAiNvXiJ0W78QlUFsPT..g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/69f978d6-5a7e-490a-a023-e35271113fe4_8dbf489452f690fbe4362d2fcd09f74c1a3d99083eb48e9832a69987b05a069b.jpg",
-      "published_at": "2026-09-09T20:00:00Z"
     }
   ]
 }
