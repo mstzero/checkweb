@@ -1,18 +1,194 @@
 {
-  "last_updated": "2026-09-12 15:06 UTC",
+  "last_updated": "2026-09-12 17:46 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "8868e45e-87c4-3e2b-9a6b-e1dc66b4be39",
+      "id": "87cec85a-0cc6-3879-9576-d8e75c08d481",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "40,000 Employees Today and 4 Million Agents Tomorrow: Nvidia CEO Jensen Huang Believes Agentic AI Will Soon Become the Norm in the Workplace",
-      "summary": "In the future, Huang believes artificial intelligence agents will work alongside humans, carrying out the bulk of AI tasks.",
+      "title": "Analyst sets jaw-dropping Nvidia price target",
+      "summary": "A new bull started coverage with math that cuts against the crowd",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/analyst-sets-jaw-dropping-nvidia-price-target",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0e3AtBJcv603XYzeL0cfrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/438a32346d60b237c88bca7502492c99.jpg",
+      "published_at": "2026-09-12T17:33:00Z"
+    },
+    {
+      "id": "8fa227d4-8ce3-3aad-a4c6-3f8e8419a824",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "US House Panel To Vote On Crypto Tax Rules That Could Reshape Bitcoin Mining And Trading",
+      "summary": "The U.S. House Ways and Means Committee is set to vote on a package of crypto tax bills on September 16.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/house-panel-to-vote-on-crypto-tax-rules-that-could-reshape-bitcoin-mining-and-trading/cZtLwCpRBbt",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KD967ony2xVbI.k1ZE_okw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/803bc65724efa6ca541b6f2da8a368c7.jpg",
+      "published_at": "2026-09-12T17:26:20Z"
+    },
+    {
+      "id": "a62074ed-8a27-3eb0-84f3-bbb8e79e97ec",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Dividend King Altria Recently Raised Its Quarterly Dividend by Nearly 5%. Is the Stock a Buy?",
+      "summary": "Altria has consistently paid and raised its annual dividend for decades.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/nvidia-ceo-jensen-huang-agentic-ai-workplace/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a2YPRBM3LdAmyqFnPNdshw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0bec3eaa34f95768e8809acc0363ea31.jpg",
-      "published_at": "2026-09-12T14:58:00Z"
+      "url": "https://www.fool.com/investing/2026/09/12/dividend-king-altria-raise-dividend-stock-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zYDb.YnzrwnLJ0r._1GVfA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b0388541f03d4274f6441ac268daef2.jpg",
+      "published_at": "2026-09-12T17:26:00Z"
+    },
+    {
+      "id": "c5297592-a021-3b6c-8f0b-29479d1f01a5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Nvidia Stock Could Be Worth This Much by January 2028",
+      "summary": "Nvidia is calling for 70% revenue growth for fiscal 2028.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/predict-nvidia-stock-worth-this-much-2028/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ljTOghxTHP1HXQQOKur1wg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f77d2d3046a27e10f2785f678f2c3f97.png",
+      "published_at": "2026-09-12T17:17:00Z"
+    },
+    {
+      "id": "c81ff638-a1fc-30b3-baf2-b977e4fee34e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+      "summary": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OBilFnTWYNCVPajfm3y6OA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/09501c6c190f87e3633e773b01939584.jpg",
+      "published_at": "2026-09-12T17:01:04Z"
+    },
+    {
+      "id": "531d73cc-586a-3cfe-9c61-f41eaaaf2a76",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "‘Big Short’ Michael Burry buys fine wine to bet against AI threat and USD",
+      "summary": "The “Big Short” investor says discounted European fine wine works as a hedge against AI, quantum computing threats and a weakening U.S. dollar.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/investing/big-short-michael-burry-buys-fine-wine-to-bet-against-ai-threat-and-usd",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G1cyhGeC8VJxrD6E7XK0vQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/5b519be5d113f37dcebc9c66006e4f9d.jpg",
+      "published_at": "2026-09-12T17:00:00Z"
+    },
+    {
+      "id": "1670f808-6192-3668-8bbc-67d8fbfdfbcd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This 5.8%-Yielding Dividend Stock Has Made 3 Deals -- Including Nearly $3.2 Billion in Acquisitions -- in the Last 2 Weeks. Should Income Investors Be Worried or Excited?",
+      "summary": "Enbridge has been really busy lately.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/this-5-8-yielding-dividend-stock-has-made-3-deals-including-nearly-usd3-2-billion-in-acquisitions-in-the-last-2-weeks-should-income-investors-be-worried-or-excited/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/J30_7mhLwruY3Q7cXfmyGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cfa465af31055fee1efc0aa8d7f1c98b.jpg",
+      "published_at": "2026-09-12T16:50:01Z"
+    },
+    {
+      "id": "17389bb9-2f1c-39e6-9072-70e1317d940f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia takes new role as AI’s $5 trillion bill comes due",
+      "summary": "Nvidia’s $500 billion AI push changes the game again.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/nvidia-takes-new-role-as-ais-5-trillion-bill-comes-due",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hLqmiBosw27VciFOvLqaEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7321cff9bdad71afa5b5d47d06551557.jpg",
+      "published_at": "2026-09-12T16:47:00Z"
+    },
+    {
+      "id": "d6795313-5394-3000-8a4d-96fcdf453120",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Jim Cramer Flips the Script: Why Older Investors Should Ditch Growth Stocks for 30-Year Treasuries",
+      "summary": "Jim Cramer just told retirees holding Nvidia and Apple to reconsider what \"safe\" actually means, and the math behind his argument is harder to dismiss than it sounds.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/12/jim-cramer-flips-the-script-why-older-investors-should-ditch-growth-stocks-for-30-year-treasuries/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yN9jn0SevoJr_0EJaLcVSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/499894a12cec5e78bf34727c542aa81b.jpg",
+      "published_at": "2026-09-12T16:39:43Z"
+    },
+    {
+      "id": "c168805f-7f32-365e-9245-6b49836da2ff",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What Is an IPO? Most New Listings Lose Money in Year 1. Here's How I Filter the Winners.",
+      "summary": "The hype surrounding initial public offerings makes them seem like sure things. Just watch out. They're not.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/what-is-an-ipo-most-new-listings-lose-money-in-yea/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aveCPo6TjtbGSLBb6377aw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bb83ae4e4263d0357c4c10bde42bf2e4.jpg",
+      "published_at": "2026-09-12T16:32:00Z"
+    },
+    {
+      "id": "77cb922b-5714-3759-8854-412be766dfd2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Do You Really Need Bond ETFs Before Age 50? Here's What I'd Do.",
+      "summary": "Shift to bonds too early and you could be sacrificing meaningful growth opportunities.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/do-you-need-bonds-before-age-50-what-id-do/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HgOrP6aKNHnDZRtD_rfcxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cce323cfd528ed2bb8dba6618a74378e.jpg",
+      "published_at": "2026-09-12T16:25:00Z"
+    },
+    {
+      "id": "ff3ebbcf-fe39-3ccd-b655-37522db9df46",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+      "summary": "Despite Friday's bounce, stocks are struggling amid surging oil prices and yields, though Apple, Moderna are buys. The Fed meeting looms.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LW9_ukRbxFYBVBBsm2XO8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/aeed999e2b8d1085980dc851a132cdb0.jpg",
+      "published_at": "2026-09-12T16:24:45Z"
+    },
+    {
+      "id": "7ac9166f-5aa1-3893-9844-4e9055c1cca6",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points",
+      "summary": "Apple, which just unveiled its first foldable iPhone and two other new models that go on sale this week, and Taiwan Semiconductor Manufacturing, which makes the chips that power them, lead this weekend's watch list of five top stocks near buy points.  Joining AAPL and TSM are cloud-based communications software platform Twilio and two healthcare plays.  Oscar Health is the No. 2 health insurer based on Affordable Care Act exchange membership.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/apple-taiwan-semiconductor-lead-5-top-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EyAhxvVD7juqwaR.CX_htA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/1abe3b2cfbf4b8be08d74f8b2d13008e.jpg",
+      "published_at": "2026-09-12T16:22:05Z"
+    },
+    {
+      "id": "66b875a2-1aa3-303b-b518-db28aa4d9f33",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Strategy CEO Says Banks Pushed Firm To Selling Bitcoin: ‘Never Sell’ Was Never A Rule",
+      "summary": "Strategy CEO Phong Le said that banks pushed the company to show it was willing to sell Bitcoin before treating the asset as usable collateral.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/strategy-ceo-says-banks-pushed-firm-to-sell-bitcoin/cZtLuupRBbq",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0t_JQwBnxHgvaI1_AKlYiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aa3f67a3168af8b994f85531e40e8535",
+      "published_at": "2026-09-12T16:05:30Z"
+    },
+    {
+      "id": "b0822a02-9ec8-3ce1-bb1e-f9b2b354900c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference",
+      "summary": "Jennifer Witz, chief executive officer of Sirius XM (NASDAQ:SIRI), said the company’s strategy remains centered on strengthening its subscription business, expanding advertising and improving efficiency, with recent operating results providing what she described as evidence that the approach is work",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/event-sirius-xm-ceo-highlights-cash-flow-growth-new-sports-plans-and-ad-expansion-at-conference-2026-09-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_MTBM1ZnASGxMZRku66Fnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/2b3a0dea4d7cdc09d3d793996b49caf8.png",
+      "published_at": "2026-09-12T16:01:58Z"
+    },
+    {
+      "id": "909f9bc5-e3c3-32a6-8a37-941842531427",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "summary": "Anthropic's CEO just called on the entire AI industry to slow down, while his own company's balance sheet depends on the biggest accelerators in the business. The conflict at the heart of that position may be impossible to resolve.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/12/anthropics-prisoners-dilemma-dario-amodei-hits-the-brakes-on-ai-while-begging-everyone-else-to-do-the-same/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1a7hbG.nrEoCJdIbCiH8hA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f92df2600ec9668ab683f327a41cce47.jpg",
+      "published_at": "2026-09-12T15:52:54Z"
+    },
+    {
+      "id": "b4bb6daa-b238-3c1a-8d9a-fff0ac1d401a",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Zcash Is Leaving Bitcoin In The Dust As ZEC Surges To 9-Year High With Miners Cashing In",
+      "summary": "Grayscale's Zcash ETP attracted $179 million in 11 trading days with its total asset under management reaching nearly $700 million, supporting Zcash's surge.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/zcash-is-leaving-bitcoin-in-the-dust-as-zec-surges-to-9-year-high-with-miners-cashing-in/cZtLMeHRBbp",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NNy8QmofBQVyJRKu95E6VQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/8776c0030c760ce9f64d9be8c8648c09.jpg",
+      "published_at": "2026-09-12T15:43:38Z"
     },
     {
       "id": "aff637a3-4528-329f-b229-8003488f4d02",
@@ -26,70 +202,15 @@
       "published_at": "2026-09-12T14:38:57Z"
     },
     {
-      "id": "15c9c88d-d2fc-3a52-9510-e213a8fef45b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 High-Yield Dividend Stocks Worth Loading Up On This Month",
-      "summary": "With yields as high as 5.6%, these three dividend stocks have proven to be reliable income producers through good times and bad.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/3-high-yield-dividend-stocks-worth-loading-up-on-t/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/15Qrz2hh0HKnoIb.kS_RiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/dcf01d7106ba698edd112d1679dc87c3.jpg",
-      "published_at": "2026-09-12T14:35:00Z"
-    },
-    {
-      "id": "cd726720-7482-3ea7-8556-d6038f1b2ae8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early?",
-      "summary": "Greg Abel's acquisition of Taylor Morrison Home wasn't about market timing; it was about building a better business.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/greg-abel-is-betting-on-homebuilders-even-as-the-p/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qm0ELiZ0ghq31JGix4tPow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9a41a882bdfeba9cfa1f8d290a01a9ef.jpg",
-      "published_at": "2026-09-12T14:35:00Z"
-    },
-    {
       "id": "bf40ccf8-d5e7-36a0-967a-da120f4a5768",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
       "title": "$2.3 Billion in Daily Profits: Why Betting Against the Magnificent 7 Keeps Failing",
       "summary": "The Magnificent 7 label vanished from Wall Street chatter, yet the profit engines behind these seven companies kept compounding in ways that have made betting against them one of the most punishing trades in recent memory.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/09/12/2-3-billion-in-daily-profits-why-betting-against-the-magnificent-7-keeps-failing/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NWPFLqATWu10CD3gbC55bA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/27d527982dd22c3b14cfbeec80ec810b.jpg",
       "published_at": "2026-09-12T14:34:16Z"
-    },
-    {
-      "id": "75321ef3-8338-3eb9-8066-dc4456e2b118",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia May Invest Up to $10 Billion in Anthropic’s $2.3 Trillion IPO",
-      "summary": "NVIDIA is reportedly in talks to anchor what could become the largest IPO in market history, and the logic behind the check reveals exactly how the chipmaker plans to dominate AI for the next decade.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/12/nvidia-may-invest-up-to-10-billion-in-anthropics-2-3-trillion-ipo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4d4MI9rNVObhQCTikTPsYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d1b5600d80b25bcad573b72d274a2427.jpg",
-      "published_at": "2026-09-12T14:23:37Z"
-    },
-    {
-      "id": "ef5f625d-49ed-33b0-adb5-1a59fad2f645",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Where Will SoFi Stock Be in 5 Years?",
-      "summary": "The market's mixed view on this fintech in the short term could pay off in the long term.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/where-will-sofi-stock-be-in-5-years/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ROlcK6jqLVHGloYk9ECk1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e81966a80f58d7e27c3a92f76d259b5b.jpg",
-      "published_at": "2026-09-12T14:20:00Z"
-    },
-    {
-      "id": "c20a5374-f97f-3c9e-85cf-e3f3ba2ea4e2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "4 No-Brainer Dividend ETFs to Build Lasting Passive Income",
-      "summary": "Here are several different strategies for creating durable passive income streams for your portfolio.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/4-no-brainer-dividend-etfs-build-passive-income/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jxRceiFey34pu8Sir.yxaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0b541f8bc33c697181f9350fb2202ed6.jpg",
-      "published_at": "2026-09-12T14:05:00Z"
     },
     {
       "id": "026b1f02-351c-31d1-8b9f-8b2ad9aab765",
@@ -101,17 +222,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/tom-lee-says-economists-are-fighting-last-year-s-wars-as-fundstrat-bitcoin-ethereum/cZtLA1oRBbY",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t5dM3PIC4Q7VuBc6buhpBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/a69abc871fd60845c844240b820df886.jpg",
       "published_at": "2026-09-12T14:00:06Z"
-    },
-    {
-      "id": "44411623-e584-3ef5-a314-fa8ae16f6393",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Could Buying This Cryptocurrency Make You Rich?",
-      "summary": "XRP has delivered explosive growth before, but investors should keep their expectations realistic.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/could-buying-this-cryptocurrency-make-you-rich/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mW0Syn0yN0d6hQevame3eA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6b055738fd34e9f2f733d6f47745c492.png",
-      "published_at": "2026-09-12T13:59:00Z"
     },
     {
       "id": "7dae5c8b-d26b-3deb-b0f3-71de305c9bed",
@@ -180,17 +290,6 @@
       "published_at": "2026-09-12T13:20:00Z"
     },
     {
-      "id": "ff3ebbcf-fe39-3ccd-b655-37522db9df46",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
-      "summary": "Despite Friday's bounce, stocks are struggling amid surging oil prices and yields, though Apple, Moderna are buys. The Fed meeting looms.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LW9_ukRbxFYBVBBsm2XO8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/aeed999e2b8d1085980dc851a132cdb0.jpg",
-      "published_at": "2026-09-12T12:48:22Z"
-    },
-    {
       "id": "4ef37c38-42c9-35ea-919d-6c18ce0d9eea",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -202,114 +301,15 @@
       "published_at": "2026-09-12T12:47:55Z"
     },
     {
-      "id": "fcd078f9-0faa-3881-b76b-5bfde01f949e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Will the Fed Raise Rates on September 16? Polymarket Now Says 83%. Here’s What It Means for XRP and Bitcoin",
-      "summary": "Polymarket odds on a September Fed hike have nearly tripled in three weeks, and the 10-year Treasury is already moving like the decision is done. What that tightening path does to XRP and Bitcoin on meeting day depends entirely on which outcome traders have stopped pricing in.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/will-the-fed-raise-rates-on-september-16-polymarket-now-says-83-heres-what-it-means-for-xrp-and-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dfjKjN0sC2Y0qPD6lcs7eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0283cfa86fb0b33fc5465d31e2f52ada.jpg",
-      "published_at": "2026-09-12T12:45:22Z"
-    },
-    {
       "id": "71cbd82f-4596-3631-b3d4-7a9ee5643cf3",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
       "title": "Ethereum Spot Volume Growth Outpaces Bitcoin Seven-Fold In A Day As ETH Eyes $3000 Next",
       "summary": "Fundstrat Tom Lee said in a recent interview that the crypto 4-year cycle may be weak from the bottom and that he is bullish on Ethereum because AI is set to transform financial services",
       "source": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/eth-vs-btc-ethereum-volume-growth-runs-7x-bitcoins/cZtLodBRBb8",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zqDBaI5.cx1ts8xLbTwUxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/eb87775a6d9dfc94dbc159ffc22c1c33",
       "published_at": "2026-09-12T12:32:40Z"
-    },
-    {
-      "id": "30ed0626-e0e2-366e-ae0b-cedf5e4ca241",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Revolut Handed Customers’ Passports and Bitcoin Records to a Fake Government Request. Are You Affected?",
-      "summary": "Someone impersonated a government agency and tricked Revolut into handing over customer passports, Bitcoin records, and full account histories without breaking a single line of code. If you hold crypto on Revolut, here is what the attacker now knows about you.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/revolut-handed-customers-passports-and-bitcoin-records-to-a-fake-government-request-are-you-affected/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/p8X6AHJ4jdLwSH.yG5LAZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d7147a2f45afa5d36548189ac668247f.jpg",
-      "published_at": "2026-09-12T12:26:56Z"
-    },
-    {
-      "id": "ddc9fa08-4d5d-3e2d-a54a-8481c9a15a26",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "September Has Historically Been a Difficult Month for Bitcoin. This Is the Most Likely Scenario for What Happens Next.",
-      "summary": "If history is any guide, Bitcoin could be on its way to a strong year-end rally.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/september-has-historically-been-a-difficult-month/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e0Lgw2CygL5HPIlkqrjrFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d7413f7389044575b945e9a5da8ec27c.jpg",
-      "published_at": "2026-09-12T12:20:00Z"
-    },
-    {
-      "id": "b824c345-a35c-3134-a146-7615d4b77cdf",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Bitcoin’s Biggest 24 Hours of 2026? AI Models Predict BTC Price After CLARITY and Fed Decisions",
-      "summary": "The Senate’s crucial CLARITY Act vote is scheduled for Sept. 15, less than 24 hours before the Federal Reserve announces its latest interest-rate decision. At ...",
-      "source": "CCN",
-      "url": "https://www.ccn.com/news/crypto/btc-price-24-hours-ai-models-clarity-fed-decisions/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZLRH7H6YIgo9OGh.tlwIFw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/40fb964d58e04815fcf03fbf1edf2f0d.png",
-      "published_at": "2026-09-12T12:17:15Z"
-    },
-    {
-      "id": "787b38a0-012a-37ad-bbc0-f32f1172ab0e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Can Venezuela Rescue the Oil Market?",
-      "summary": "Venezuela has some of the world's largest oil reserves and could eventually produce far more than it does today. But Columbia University's Luisa Palacios says reviving the industry would take years, up to $150 billion in investment and a major rebuilding of trust after decades of contract changes, expropriations and infrastructure decline.",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/venezuela-rescue-oil-market-120621910.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Udqag7xRxR8wIts5oxRkug--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/094466f8d549a8964a13ff5c1b05acd0.jpg",
-      "published_at": "2026-09-12T12:06:21Z"
-    },
-    {
-      "id": "f83757e1-b96c-3a97-a489-ed5567686aee",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Grab Stock Sank This Week",
-      "summary": "Grab's share price saw a double-digit pullback this week.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/why-grab-stock-sank-this-week/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MjaI4gE6USiniBqkYazeqw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9abc0dcf94019232ca30d4e0ada65741.jpg",
-      "published_at": "2026-09-12T11:35:00Z"
-    },
-    {
-      "id": "d05d2de9-0638-338c-8d1c-cd9641b5c503",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Jim Cramer Flags Casey’s (CASY) as a Warning Sign for Consumer Spending",
-      "summary": "During the September 9 episode of Mad Money, Jim Cramer called Casey’s General Stores, Inc. (NASDAQ:CASY) a “perfect bellwether,” as he said: When the war started, we had 415 million barrels of oil in the Strategic Petroleum Reserve. That number fell to 286 million at the end of August, 31% decline. I know that still […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-casey-casy-112905987.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/a59IfJfKKClO2i.iZfvCHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-      "published_at": "2026-09-12T11:29:05Z"
-    },
-    {
-      "id": "22655d07-22d6-3264-a0e7-b2b803fd7ef6",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The $760 Billion AI Risk That Nobody Is Talking About. But Should.",
-      "summary": "The demand for AI is real, but what if the industry is building too much capacity? Here's the overlooked risk investors should be watching.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/the-760-billion-ai-risk-that-nobody-is-talking-abo/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UaUMWy1UssnqFnQJ.Trc2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/91a70f4ddb0435cf2663f7baa2e7c2d2.jpg",
-      "published_at": "2026-09-12T11:23:00Z"
-    },
-    {
-      "id": "c92d61aa-480a-3234-b6bd-2d7b21081b88",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "JPMorgan Says Rising Bond Yields Unlikely to Derail Equities as Earnings Momentum Continues",
-      "summary": "JPMorgan analysts said higher government borrowing costs and inflation remain risks, but continued corporate earnings growth could support equity markets if inflation expectations remain anchored. Key Investor TakeawaysJPMorgan expects earnings momentum to remain an important support for equities despite rising bond yields and renewed inflation pressures.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/36133/jpmorgan-says-rising-bond-yields-unlikely-to-derail-equities-as-earnings-momentum-continues",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zb2Je44e954QubxkgDkaqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/defde8a1a98c3682ba1f9a849e2aa5a6.png",
-      "published_at": "2026-09-12T11:22:00Z"
     }
   ]
 }
