@@ -1,8 +1,151 @@
 {
-  "last_updated": "2026-09-11 23:51 UTC",
+  "last_updated": "2026-09-12 02:57 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "a5925eb3-dbea-3733-b8bb-90161e613db5",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "How much more gold could central banks buy?",
+      "summary": "Investing.com -- Central banks could have substantial room to keep buying gold after purchases surged in recent years, with BofA estimating that under-allocated institutions may need more than 20,000 tonnes to reach what it views as an efficient reserve allocation.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/much-more-gold-could-central-023013269.html",
+      "thumbnail": "",
+      "published_at": "2026-09-12T02:30:13Z"
+    },
+    {
+      "id": "8a7c1dc1-42ef-3b17-87a3-a3facd15fee2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why ACV Stock Rocketed 44% Higher Today",
+      "summary": "The auto resale platform received an enticing buyout offer.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/11/why-acv-stock-rocketed-44-higher-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5kDo0pn_C93S7zQtk.0._A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3aa73de2b91e4782a70d00063508e036.jpg",
+      "published_at": "2026-09-12T01:56:31Z"
+    },
+    {
+      "id": "6947124d-1cce-38a6-a0b0-ce1297c19f86",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple’s Foldable iPhone Could Trigger a Massive 'Upgrade Cycle,' Says Gary Black — But This One Problem Could Cap 'Incremental Earnings' for 6 Months",
+      "summary": "Investor Gary Black predicts Apple Inc.‘s newly launched foldable device will start a hardware purchasing cycle, but production limits may curb incremental earnings for possibly six months. Market Impact and Demographics Apple unveiled its first foldable smartphone, the iPhone Duo,...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-foldable-iphone-could-trigger-013031814.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yq8JZjJk1MXE2C_s7ACJvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5ac93ef728f3254682cfe922d5fe9247.jpg",
+      "published_at": "2026-09-12T01:30:31Z"
+    },
+    {
+      "id": "cef8d365-70f0-3235-adc6-607e54d03e0b",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Cook Hands Ternus Apple (AAPL) that Still has to Prove itself on AI",
+      "summary": "Tim Cook stepped down as Apple Inc. (NASDAQ:AAPL)’s CEO on September 1 after 15 years, becoming executive chairman and handing the role to hardware chief John Ternus, Reuters reported. Cook took Apple from a $350 billion company to a more than $4.5 trillion one during his tenure and will now focus on Apple’s dealings with […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cook-hands-ternus-apple-aapl-011445859.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2D3rDqXrs4xM9uaBX9mmYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/61c363b6d566f2e9989d12b08155c301.jpg",
+      "published_at": "2026-09-12T01:14:45Z"
+    },
+    {
+      "id": "d17de2df-b64a-3b64-adbe-b90281486524",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Tesla (TSLA)’s China Growth Streak Hits Double Digits, But Barely",
+      "summary": "Reuters reported on September 2, citing data from the China Passenger Car Association that Tesla, Inc. (NASDAQ:TSLA)’s China-made electric vehicle sales grew just 3.6% year over year in August, a sharp slowdown from July’s 38% gain. The Shanghai factory, which produces Model 3 and Model Y vehicles for domestic sale and export to Europe, Asia […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-china-growth-streak-011037876.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RQo27kDrGNsK_uwWji4biA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf.jpg",
+      "published_at": "2026-09-12T01:10:37Z"
+    },
+    {
+      "id": "19ef201d-a650-337d-a52a-904b8041f472",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks?",
+      "summary": "Gold sits on its head and shoulders neckline as US CPI lands. A confirmed break targets $3,950, almost 9% lower.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/gold-price-risk-fed-rate-hike-september-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hd1.HsBKxw0_hOLm7fouWw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/eab053139b60f3614f35a2e02311c8fd.jpg",
+      "published_at": "2026-09-12T01:00:00Z"
+    },
+    {
+      "id": "5fde9427-61fe-3692-8bd7-549fe6f5c8af",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin vs Zcash: Grayscale Reveals Which Is More Profitable to Mine",
+      "summary": "Zcash mining has become significantly more profitable than Bitcoin mining on an individual basis, according to Grayscale Research.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-zcash-mining-profitability-grayscale/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jXcPoboF1_8YZqtktN57cA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/88c5b3dc690eaa25a70e35d1585b879f.png",
+      "published_at": "2026-09-12T00:42:40Z"
+    },
+    {
+      "id": "f443cad5-688f-3070-966e-96e33c2e62f8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Microsoft Stock Is Flat So Far in 2026. Is a Rally Coming to End the Year?",
+      "summary": "The tech giant has rebounded from its recent slump, but there may not be much near-term upside left.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/11/microsoft-stock-is-flat-for-2026-is-a-rally-coming/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lrOeu5LlDOdwhJ9gS1eLNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0df286de247c03fa24510ec8e2591b96.jpg",
+      "published_at": "2026-09-12T00:34:00Z"
+    },
+    {
+      "id": "318b8d7a-d23f-3024-87c1-5a22692cb7f2",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "3 Unpopular Stocks with Open Questions",
+      "summary": "Wall Street’s bearish price targets for the stocks in this article signal serious concerns. Such forecasts are uncommon in an industry where maintaining cordial corporate relationships often trumps delivering the hard truth.",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-open-questions-000305474.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QPSh67foPLihTX2g19tchA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/26594c18ecd46f48ca56513fd36d2a77.jpg",
+      "published_at": "2026-09-12T00:03:05Z"
+    },
+    {
+      "id": "1cbe5fc4-9e5d-3129-9cd7-9c353d0c30fb",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Veteran analyst resets Palantir price target for rest of 2026",
+      "summary": "Palantir’s latest AI move gives Wall Street more to consider",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/palantir-da-davidson-raises-price-target",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4oS72vjVa7JxGi_BchjaGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e5602cc8cc02f5db26e6d45f51d21b17.jpg",
+      "published_at": "2026-09-12T00:03:00Z"
+    },
+    {
+      "id": "1e56cd25-2227-3feb-9696-11bc06e5cba9",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "The Woman Fixing a Microsoft Mess With Brutal Honesty",
+      "summary": "REDMOND, Wash.— Asha Sharma  had zero experience in videogames when  Microsoft  put her in charge of cleaning up its Xbox business.  While videogames have never been more popular, Xbox isn’t growing.  Its GamePass subscription service has fallen far short of projections.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/xbox-microsoft-asha-sharma-videogame-03eb23ba?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ikQUspBrV0ZZmEcWA6TNxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9a36ea17d13d2e5b8f160fe46946baca.jpg",
+      "published_at": "2026-09-12T00:00:00Z"
+    },
+    {
+      "id": "f0e3adf6-21bb-31a4-a255-23fa01c56c5b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "US rig count up three as prices soar",
+      "summary": "The rig count in the Permian Basin was unchanged this week, the latest count Friday by Baker Hughes shows, with 268 rigs active in the region. A year ago, 254 rigs were active in the region. Nationally, the oil and gas rig count is up three from last week at 591 rigs. A year ago, 539 rigs were active. The count shows that 450 rigs sought oil, up one from the previous week, and 132 explored for ...",
+      "source": "Odessa American, Texas",
+      "url": "https://www.oaoa.com/?p=371597",
+      "thumbnail": "",
+      "published_at": "2026-09-12T00:00:00Z"
+    },
+    {
+      "id": "07587355-b886-3ab1-9bfd-42dbac8cf925",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Circle Internet Group Slumped by 11% This Week",
+      "summary": "Investors were skeptical that an announced acquisition would be beneficial.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/11/why-circle-internet-group-slumped-by-11-this-week/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MU6do.voP94o8Z1tlDb9DA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb171af478efb7df47f1a32df3e885f8.jpg",
+      "published_at": "2026-09-11T23:59:42Z"
+    },
     {
       "id": "bc3baf40-1561-3254-9f56-558ac2d6eb31",
       "asset": "NVDA",
@@ -48,28 +191,6 @@
       "published_at": "2026-09-11T23:20:00Z"
     },
     {
-      "id": "586bb81d-9135-39eb-9e69-59afd35bf724",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Broadcom’s Custom AI Chip Boom Has a Powerful Landlord: TSM",
-      "summary": "Broadcom Inc. (NASDAQ:AVGO) has become one of the clearest alternatives to NVIDIA’s merchant-GPU model as hyperscalers increasingly design custom AI accelerators. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) may benefit regardless. TSM reported record August revenue of NT$514.81 billion, up 53.3% year over year, providing another data point that leading-edge semiconductor demand remains exceptionally strong. Broadcom’s […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-custom-ai-chip-boom-231614780.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EKJLBtH9ZpWZ4z59EtGjZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/8b423334d17c305a4010174c2d1bc6bd.jpg",
-      "published_at": "2026-09-11T23:16:14Z"
-    },
-    {
-      "id": "b67f5887-8cb0-33ac-a1fc-f49f7ba3ad87",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Google’s $15 Billion Finland AI Build Is Good News for Nvidia, With One Important Catch",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is putting another $15 billion behind the AI infrastructure race. Reuters reported September 9 that Google plans to invest at least €13 billion, or roughly $15.1 billion, in Finnish AI infrastructure over the next two years. The project includes three new data centers and a 22-year agreement to purchase as much as […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-15-billion-finland-ai-231224831.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pW4vj6kKD3XwQnwO254UJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b37705cc559a18e5d7c905152c29378c.jpg",
-      "published_at": "2026-09-11T23:12:24Z"
-    },
-    {
       "id": "ff3ebbcf-fe39-3ccd-b655-37522db9df46",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -92,26 +213,15 @@
       "published_at": "2026-09-11T23:10:55Z"
     },
     {
-      "id": "c5e47ef5-22b8-349e-9626-999c1932bffe",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "TSM’s Record Month Confirms AMD’s AI Ramp, but Its Pricing Power Could Take Some of the Upside Back",
-      "summary": "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) reported a record August just as Advanced Micro Devices, Inc. (NASDAQ:AMD) is pushing deeper into the AI accelerator market. TSM’s August revenue reached NT$514.81 billion, up 53.3% from a year earlier and 10.1% sequentially. Revenue for January through August increased 39.3%. The growth is a powerful signal for advanced […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsm-record-month-confirms-amd-230905086.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6RLcDbhxLjedyjWhmy6fkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/1e85b81aa18457637c55df2e7f588803.jpg",
-      "published_at": "2026-09-11T23:09:05Z"
-    },
-    {
-      "id": "d4c5e28a-1565-3e3a-bc4f-deed09a01e3e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Meta Platforms Stock Only Bumped Slightly Higher on Friday",
-      "summary": "That was the market's reward for maintaining its dividend policy.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/11/why-meta-platforms-stock-only-bumped-slightly-high/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0AcDqqrdBrpdxusjsBn.sA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9d5f4c4d5114b13aa325af832311b6e1.jpg",
-      "published_at": "2026-09-11T23:07:53Z"
+      "id": "7422adb6-7da7-3f11-acea-dd074da4a312",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Novartis: More Pain on the Way?",
+      "summary": "Can it get any worse for  Novartis’  U.S. stock?  The Swiss company said Tuesday that del-desiran, part of a recent acquisition, reached the end of the line in a trial for a rare neuromuscular disease.  The drugmaker’s U.S.-listed shares slumped 13% to $139.01 Tuesday.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/novartis-more-pain-on-the-way-5539f65e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y4FHU1zue6Hf.RvYzrbeZw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c0029d659f912a19c9ebfb4304a76c58.jpg",
+      "published_at": "2026-09-11T22:42:00Z"
     },
     {
       "id": "610cb229-863c-30d8-b6b8-d5ea5cfd0bd7",
@@ -183,11 +293,11 @@
       "id": "757bfca6-9610-3041-beea-24ac63fae47e",
       "asset": "AAPL",
       "asset_name": "Apple",
-      "title": "Morgan Stanley analyst offers new Apple stock forecast",
+      "title": "Morgan Stanley renews Apple stock forecast after iPhone Duo launch",
       "summary": "Here’s what could be next for Apple after it rolled out new products and changed its CEO.",
       "source": "TheStreet",
       "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-analyst-offers-new-apple-stock-forecast",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JRrxKyP03nQRcZ7aYXcVwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/ee42778207c5b447a4a409046411edee.jpg",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CyeXOPKwY8hGmm42tTgfig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/93c9c5f3646b79ebc7709b08dfa08329.jpg",
       "published_at": "2026-09-11T22:17:00Z"
     },
     {
@@ -200,116 +310,6 @@
       "url": "https://247wallst.com/investing/cryptocurrency/2026/09/11/binances-bitcoin-reserves-hit-a-two-year-high-santiment-says-exchange-balances-told-you-nothing-all-summer/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z7TOHmXyc6LK8mZpnMBhYA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/76c118cadd9b73c108dcff93d430a347.jpg",
       "published_at": "2026-09-11T22:14:43Z"
-    },
-    {
-      "id": "0f912e07-9bd3-3ce7-bd6f-2e30799f8c7c",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher",
-      "summary": "Bitcoin and Ethereum both made big moves in September, but ChatGPT sees only one of them positioned to finish the month on top. The reasoning comes down to who still has fuel left and who already burned it.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6KsbCHTuGIqWB.kXlLUN5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9ba1fa41994408b573d416faebbd09ea.jpg",
-      "published_at": "2026-09-11T22:03:18Z"
-    },
-    {
-      "id": "b0949e8b-4fba-3e88-b896-6763ba806a45",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk",
-      "summary": "For Middle Eastern oil producers, there are fewer and fewer places to hide from Iranian violence. And because of that, oil prices are almost certain to stay high.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/saudi-arabia-pipeline-attack-oil-prices-baad5543?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Hd7yZR5UOAMZCyuM5ZYrRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/ec95040ad3d384c0a0b82681dabab1d3.jpg",
-      "published_at": "2026-09-11T22:03:00Z"
-    },
-    {
-      "id": "84b15294-fc83-3215-94bc-3c4f2128e5b6",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-      "summary": "Europe runs on 44% less energy per euro than it did in 1995, and when the Strait of Hormuz closed, Europe barely flinched.",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/europes-less-doing-more-anyone-220000142.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.YAyLmojw6YbZhD_ZZR65w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/oilprice.com/d62623c18d9b23d8e4cc9ec72ac2d27d.jpg",
-      "published_at": "2026-09-11T22:00:00Z"
-    },
-    {
-      "id": "63a12de8-719a-34ad-abc9-cec657b05692",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "We Asked ChatGPT Which Has More Upside From Here: XRP or Bitcoin?",
-      "summary": "ChatGPT picked a winner when we forced it to choose between XRP and Bitcoin, but the real-world data tells a very different story about which coin actually has the stronger case right now.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-which-has-more-upside-from-here-xrp-or-bitcoin/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NJk6dD7VV39zLkBBiCqDzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9a09156859f176c7d2f74917a1778c7c.jpg",
-      "published_at": "2026-09-11T21:56:52Z"
-    },
-    {
-      "id": "d1e737a4-67e5-32a6-afb0-bc3a76073511",
-      "asset": "QQQ",
-      "asset_name": "Nasdaq 100 ETF",
-      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
-      "summary": "A position that started as a small allocation now controls your retirement, and selling everything creates its own disaster. Three ETFs offer a way to stay in the trade without betting the nest egg on a single design team.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vInWJFBkyVQUzxPUyQjH2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/bb70af94fa813fe3d972f79170823734",
-      "published_at": "2026-09-11T21:55:31Z"
-    },
-    {
-      "id": "e1dab3f6-9a9d-3754-a5bf-bdf9108568fe",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "How a 66-Year-Old’s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees Half of It",
-      "summary": "An $800,000 split between two Nasdaq-100 income ETFs generates a stunning monthly payout, but the tax bill tells a completely different story than the distribution notices suggest.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/09/11/how-a-66-year-olds-800000-in-jepq-and-qqqi-pays-8200-a-month-and-the-irs-only-sees-half-of-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9gPB.kD557Fa8fHxc9G_vw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9acfbc5587104245161dc22bedc930dc.jpg",
-      "published_at": "2026-09-11T21:45:35Z"
-    },
-    {
-      "id": "aacfb35b-1683-37c2-9837-94e1a4be9e9c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple (AAPL) Rises Higher Than Market: Key Facts",
-      "summary": "Apple (AAPL) closed the most recent trading day at $332.48, moving +1.81% from the previous trading session.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-rises-higher-market-214504972.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/D0nB6g63v8IeTEMJuUdUnw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/62d8c8e05376a18ba1420a1733ffdda4.jpg",
-      "published_at": "2026-09-11T21:45:04Z"
-    },
-    {
-      "id": "abd7e994-fcba-354d-82e6-33d700654233",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Agnico Eagle Mines (AEM) Rises Higher Than Market: Key Facts",
-      "summary": "Agnico Eagle Mines (AEM) concluded the recent trading session at $200.36, signifying a +1.87% move from its prior day's close.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-rises-214504619.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jg0wyFYnWEtHnbiIq96A3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/023168c7ea091c342492be3899b280af.jpg",
-      "published_at": "2026-09-11T21:45:04Z"
-    },
-    {
-      "id": "9ac96bc6-d590-32a6-92c8-42d867a12f3d",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "1 Popular Cryptocurrency Cathie Wood of Ark Invest Sees Soaring in Value by 1,490%",
-      "summary": "Wood has some very high hopes for Bitcoin.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/11/1-popular-cryptocurrency-cathie-wood-of-ark-invest/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aRi2WQg8NtrLi93jS_p58g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f2052a6c2e5ba09035cb09adf00bc6b3.jpg",
-      "published_at": "2026-09-11T21:39:00Z"
-    },
-    {
-      "id": "d1e5411d-9598-36a4-b171-ed2c134d665e",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Wall Street Cheers Clarity on Fed Outlook—Even if It Means Higher Rates",
-      "summary": "Stocks rose and bonds steadied after Friday’s warm CPI report took ‘a lot of the guesswork’ out of next week’s Fed decision.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/wall-street-cheers-clarity-on-fed-outlookeven-if-it-means-higher-rates-2f80fd5f?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/F1FMUhuxRbp8zkrfrQjfTA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/79616510d776845967ad162a07d051ce.jpg",
-      "published_at": "2026-09-11T21:36:00Z"
     }
   ]
 }
