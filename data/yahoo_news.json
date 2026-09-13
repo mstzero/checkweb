@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-09-12 22:27 UTC",
+  "last_updated": "2026-09-13 00:08 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "43813cd8-5edf-30de-a416-f36dd371c4c2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Revolut leak ties Bitcoin wallets to home addresses",
+      "summary": "Revolut exposes sensitive customer data to an unauthorized party.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/revolut-leak-links-bitcoin-transactions-to-doorsteps",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N8irCHcpbOqLn5RM1V22lA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/75a534ebc1ed3d22cdd69c73a4074042.jpg",
+      "published_at": "2026-09-12T23:39:21Z"
+    },
+    {
+      "id": "c7c11228-4d61-33b1-bfe7-56e8607fb485",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Longevity Entrepreneur Peter Diamandis Says He’s Not Trying to Live Longer Because He’s Afraid of Dying — He’s Just Not Done Being ‘Curious’",
+      "summary": "Most people want more time because there’s still plenty of life left to live. XPRIZE founder and longevity entrepreneur Peter Diamandis has a slightly different reason — he still has questions. \"I do not want more years because I am...",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/healthcare/articles/longevity-entrepreneur-peter-diamandis-says-230019533.html",
+      "thumbnail": "",
+      "published_at": "2026-09-12T23:00:19Z"
+    },
+    {
+      "id": "4f544e18-54eb-31ad-b771-06f8b67187c8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
+      "summary": "Index funds effectively paid a record $695 a share for the electric-vehicle giant in December 2020. Was it worth it?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/usd10-000-in-tesla-when-it-joined-the-s-and-p-500-would-be-about-usd15-700-today-an-index-fund-would-have-done-better/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qldPVWdHGeLwAFPXMj3Cvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e9df3d7377f3f37f3d6ff784d034e6c0.png",
+      "published_at": "2026-09-12T22:38:01Z"
+    },
+    {
+      "id": "2932c484-eca9-34b7-8907-641b1c9bae95",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+      "summary": "This company is already greatly benefiting from AI.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/not-nvidia-not-micron-this-dirt-cheap-magnificent-seven-stock-could-be-the-biggest-winner-of-the-trillion-dollar-ai-race-here-s-the-case/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zLVyW001pRA3ehGwTceGWQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/618d00da53e0a397230c06255fc30399.jpg",
+      "published_at": "2026-09-12T22:35:01Z"
+    },
+    {
+      "id": "a36aff60-6419-3f70-ac26-d80cb99a81e6",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is NuScale Power a Millionaire Maker?",
+      "summary": "NuScale Power just had one of its best days in months.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/12/is-nuscale-power-a-millionaire-maker/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gVqcidXeFw0uCUT.akgD3g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d427b302d38961ed5009a9d44b975d0e.jpg",
+      "published_at": "2026-09-12T22:25:00Z"
+    },
     {
       "id": "ecfc9765-3b77-3e2a-bcd5-908a9c09f4dc",
       "asset": "BTC",
@@ -19,7 +74,7 @@
       "asset": "BTC",
       "asset_name": "Bitcoin",
       "title": "Which Bitcoin Wallets Are at Risk From Quantum Computers? 6.9 Million BTC Have Exposed Keys",
-      "summary": "Google Quantum AI’s March paper found about 6.9 million Bitcoin in addresses where the full public key is already visible on-chain, exposed to what researchers call an at-rest attack. Some of those coins are held in early keys nobody can move. The rest belong to holders who could act if they knew which addresses were […]",
+      "summary": "Millions of Bitcoin are sitting in addresses where a quantum computer could drain them without warning, and whether your own coins are exposed comes down to two details most holders have never checked.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/which-bitcoin-wallets-are-at-risk-from-quantum-computers-6-9-million-btc-have-exposed-keys/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KnH2_wyNHlwbpwnkO.x2UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/9cc348f8b52209c1fe2992c860ad04bf.jpg",
@@ -158,28 +213,6 @@
       "published_at": "2026-09-12T20:49:55Z"
     },
     {
-      "id": "509681df-fc74-3c44-8425-1e0c37738507",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Exit Path for AI Labs Is Bifurcating Again: $80B in Acquisitions vs. a Stalled IPO Pipeline",
-      "summary": "The Feeding Frenzy the IPO Pipeline Cannot Match Between August 14 and September 3, 2026, three acquisitions closed or confirmed totaling $80.4 billion. Not one major AI lab completed an IPO in the same window. Anthropic’s roadshow, once expected the week of September 7, has slipped to mid-October at the earliest. OpenAI’s CFO told employees […]",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exit-path-ai-labs-bifurcating-203253879.html",
-      "thumbnail": "",
-      "published_at": "2026-09-12T20:32:53Z"
-    },
-    {
-      "id": "c3cb4e21-096d-3c48-a630-ccd9d8d11779",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "3 Reasons I Think Cathie Wood Is Buying Robinhood Stock Again",
-      "summary": "The famed growth investor spent the summer selling. The brokerage's latest monthly numbers hint at what she may be seeing.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/3-reasons-i-think-cathie-wood-is-buying-robinhood-stock-again/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kmj_8VO6c8ubIo.AoOwDPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f8989f9c99cb76ec08463dfca812b126.jpg",
-      "published_at": "2026-09-12T20:32:01Z"
-    },
-    {
       "id": "7e033e0f-9876-3e73-9d59-2f48fa6bfebb",
       "asset": "TSLA",
       "asset_name": "Tesla",
@@ -200,17 +233,6 @@
       "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/how-low-can-bitcoin-go/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/717WLqnHnOvX7M5PcydZYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/594dd0e1446bdd2cb2f14459737c0488.jpg",
       "published_at": "2026-09-12T20:29:56Z"
-    },
-    {
-      "id": "249acd42-a7d7-3715-a682-79d9d9be6127",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
-      "summary": "SoundHound AI's stock has collapsed, but its expanding business and latest acquisition make the sell-off worth a closer look.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iU5nvYLVVyLPraziTzJ4jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fe035fa5925fbd53111b8afed04180d5.jpg",
-      "published_at": "2026-09-12T20:20:00Z"
     },
     {
       "id": "c3ec876a-6501-3000-8f8c-ccd6b7e9f7ce",
@@ -279,17 +301,6 @@
       "published_at": "2026-09-12T18:08:22Z"
     },
     {
-      "id": "8fa227d4-8ce3-3aad-a4c6-3f8e8419a824",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "US House Panel To Vote On Crypto Tax Rules That Could Reshape Bitcoin Mining And Trading",
-      "summary": "The U.S. House Ways and Means Committee is set to vote on a package of crypto tax bills on September 16.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/house-panel-to-vote-on-crypto-tax-rules-that-could-reshape-bitcoin-mining-and-trading/cZtLwCpRBbt",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KD967ony2xVbI.k1ZE_okw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/803bc65724efa6ca541b6f2da8a368c7.jpg",
-      "published_at": "2026-09-12T17:26:20Z"
-    },
-    {
       "id": "d6795313-5394-3000-8a4d-96fcdf453120",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -299,17 +310,6 @@
       "url": "https://247wallst.com/investing/2026/09/12/jim-cramer-flips-the-script-why-older-investors-should-ditch-growth-stocks-for-30-year-treasuries/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yN9jn0SevoJr_0EJaLcVSw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/499894a12cec5e78bf34727c542aa81b.jpg",
       "published_at": "2026-09-12T16:39:43Z"
-    },
-    {
-      "id": "ff3ebbcf-fe39-3ccd-b655-37522db9df46",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
-      "summary": "Despite Friday's bounce, stocks are struggling amid surging oil prices and yields, though Apple, Moderna are buys. The Fed meeting looms.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LW9_ukRbxFYBVBBsm2XO8g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/aeed999e2b8d1085980dc851a132cdb0.jpg",
-      "published_at": "2026-09-12T16:24:45Z"
     }
   ]
 }
