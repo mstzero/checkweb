@@ -1,23 +1,188 @@
 {
-  "last_updated": "2026-09-13 17:54 UTC",
+  "last_updated": "2026-09-13 20:15 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "d2d05c91-dfa1-3526-b377-f5b7d9851d0f",
+      "id": "75964091-0d57-3879-b55e-2c11b3225642",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+      "summary": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_GtAXl7QXcDpHHMMd5u0hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f7ca2e821746f269222d45df46364184.jpg",
+      "published_at": "2026-09-13T20:06:05Z"
+    },
+    {
+      "id": "ebe3833b-d80c-309b-a3bb-ec29bc6255ea",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. These 3 Are the Best of the Bunch",
-      "summary": "Nvidia held $99 billion worth of public and private investments on its books at the end of its second fiscal quarter.",
+      "title": "Apple Bought Back More Than $880 Billion of Its Own Stock During Tim Cook's 15 Years as CEO. Here's How That Reshaped Shareholder Returns.",
+      "summary": "Tim Cook transformed Apple under his leadership, and shareholders saw huge benefits.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/here-are-all-the-companies-in-nvidias-99-billion/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mIvUUzpjOX2HzdsnHtoHKg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9f8a562eb5edfed8beb97e23d35b2749.jpg",
-      "published_at": "2026-09-13T17:43:00Z"
+      "url": "https://www.fool.com/investing/2026/09/13/apple-bought-back-880-billion-stock-tim-cook/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UIGQ4VPz3sR5Pqa8xmqjKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5407fe33a5b64fe23d6160d2f56f8ed7.jpg",
+      "published_at": "2026-09-13T20:05:00Z"
+    },
+    {
+      "id": "f740904d-e069-3ca6-aadc-b7cd1903b366",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Viral AI Dommer Tweet: Engineered Panic?",
+      "summary": "Potentially orchestrated headlines and regulatory capture attempts are clouding AI investor sentiment.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/viral-ai-dommer-tweet-engineered-200100694.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3dPVM92Kks4i6MVAu_4bbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d10c45170a93748104be2f072c4e89d0.jpg",
+      "published_at": "2026-09-13T20:01:00Z"
+    },
+    {
+      "id": "9674573e-c219-3493-8cf0-cff37c2a47c6",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Jim Cramer Says a 25% Surtax Just Got Added to Everything You Buy. Congress Never Voted on It.",
+      "summary": "Jim Cramer put a precise number on what diesel is doing to every product you buy, and the math he laid out on CNBC has nothing to do with the inflation figure Washington reports. What it means for McDonald's, Walmart, and Target stocks depends on how long one critical cushion holds.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/13/jim-cramer-says-a-25-surtax-just-got-added-to-everything-you-buy-congress-never-voted-on-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.RAVEHGb2kctekg6gHWASw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/08fb48ede2330d0b3a46069e3729c896.jpg",
+      "published_at": "2026-09-13T20:00:18Z"
+    },
+    {
+      "id": "0519e8f8-4822-3ca9-8b78-69df842280fa",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Should You Buy Bristol Myers Squibb Stock Right Now for the Yield Alone?",
+      "summary": "As management tackles key issues head-on, Bristol Myers Squibb stock offers a steady 4% yield, with further upside potential.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/should-you-buy-bristol-myers-squibb-stock-yield/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bR0frALTxt3TpdkK7iVVPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d162a6f1d4bbf5aea3285829bf4153ed.jpg",
+      "published_at": "2026-09-13T19:53:00Z"
+    },
+    {
+      "id": "1d8b4733-6d36-3e53-838e-94fb5f361a35",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.",
+      "summary": "A year-over-year decline in aircraft deliveries last month doesn't tell Boeing's entire story.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/boeing-delivered-51-jets-in-august-heres-why-the-s/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d5b_YzBxAI8na96lAkcA_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/73126b8f5b6b1d50f407b0e6fd0a34a2.jpg",
+      "published_at": "2026-09-13T19:46:00Z"
+    },
+    {
+      "id": "4bff3ef4-7c2f-3f15-8dd0-5da61904d84d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Fund manager's Fed interest rate outlook will frustrate consumers",
+      "summary": "Here’s what may happen to interest rates at the Federal Reserve’s next open market committee meeting.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/veteran-fund-managers-fed-interest-rate-hike-prediction-will-frustrate-consumers",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/2sk5SoxqZ1JyuEah8gYW6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/7bd2817484f7bd136a9f837461a40559.jpg",
+      "published_at": "2026-09-13T19:33:00Z"
+    },
+    {
+      "id": "04032af2-a8f2-37d1-b068-3b4da421dba3",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Insiders Trim Positions in Five Below Stock After 39% Run-Up",
+      "summary": "This stock has jumped 68% over the past year.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/insiders-trim-positions-in-five-below-stock-after/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UXc5c0ZDJ5sHNVT_iU8cHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/200aa7dd71485af211a220a5589d4d28.jpg",
+      "published_at": "2026-09-13T19:20:00Z"
+    },
+    {
+      "id": "33cd33b3-8446-35e6-af26-e008b7c32e7f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+      "summary": "After spending years trading like a premium-priced AI leader, Nvidia may now be among the cheapest names in Piper Sandler’s AI universe. NVIDIA Corporation (NASDAQ:NVDA) is trading at an attractive valuation according to Piper Sandler’s forecast, with rapid AI growth backing its trajectory. On September 9, Piper Sandler analyst David O’Connor initiated coverage on NVIDIA […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dmRmVbLdR5wkDl2iYi4KFQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/e5778e17a7b89081a7a835e7c30370ab.jpg",
+      "published_at": "2026-09-13T19:13:28Z"
+    },
+    {
+      "id": "0ed09a90-e3e4-33b9-8a7f-2b00bdc282fc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026",
+      "summary": "This actively managed exchange-traded fund is producing spectacular returns for investors thanks to its unique strategy.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/meet-momentum-driven-etf-obliterating-sp-500-2026/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FrpscPdf8buunJ5FxnGkJQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/09f9f8d0009da50f522c13bf0ebe944a.jpg",
+      "published_at": "2026-09-13T19:05:00Z"
+    },
+    {
+      "id": "13a0cd8d-a064-3b0d-b239-38d40b067997",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: Applied Materials Books Its First $10 Billion Quarter This Fall",
+      "summary": "The company's own forecast leaves room to miss the milestone. I don't expect that to happen.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/prediction-applied-materials-books-its-first-usd10-billion-quarter-this-fall/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/owylE3TL84KHNCj7s1iCoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f3c1827282e54cd47b5b2b4af41517cb.jpg",
+      "published_at": "2026-09-13T18:58:01Z"
+    },
+    {
+      "id": "1bede144-da06-3059-a0fc-d12dac009cef",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "The 10-Year Treasury Bond Yields Nearly 5% Right Now. Here's Why I'd Still Choose PepsiCo for Passive Income.",
+      "summary": "The safety of government-guaranteed bonds is compelling to be sure. There are just a couple of nagging drawbacks that I can't live with. Maybe you can.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/the-10-year-treasury-bond-yields-nearly-5-now/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MbsDGqKn3CrRm8pMM7AKlw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e7664bb8a7d15361cfea46337d864e4f.jpg",
+      "published_at": "2026-09-13T18:50:00Z"
+    },
+    {
+      "id": "b1e6e6d2-3667-3856-91dc-7c94d7ef7b94",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Forget Chatbot Benchmarks. Google Just Found 1,000 Ways Into Microsoft’s Best Customers.",
+      "summary": "Google just landed inside nearly every major Fortune 100 company, but having access and winning the deal are two very different things. The real fight is happening at a layer most investors never think about.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/13/forget-chatbot-benchmarks-google-just-found-1000-ways-into-microsofts-best-customers/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XYbHXn_vkLcAwq1sZgtDwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d8b7cb65cfd84e4c9230dded680edcdd.jpg",
+      "published_at": "2026-09-13T18:37:32Z"
+    },
+    {
+      "id": "ec6016dd-0185-3f22-99e0-320abc5c7941",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Most Investors Think Netflix (NFLX) Is Too Expensive. I Think They're Wrong.",
+      "summary": "Past reputations can cloud investor judgments when analyzing a stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/13/most-investors-think-netflix-nflx-is-too-expensive/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/txyCnNIz8PRVzjs.zd0p7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/290b7d41f93822649bf2f9aa00e17592.jpg",
+      "published_at": "2026-09-13T18:35:00Z"
+    },
+    {
+      "id": "36c87f58-c7fe-3b17-bb2e-59f4e5d65829",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+      "summary": "Goldman Sachs says AI spending is propping up S&P 500 earnings growth, but that same statistic reveals a fragile dependency on a handful of buyers whose budgets could shift any quarter.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/13/goldman-sachs-says-ai-is-driving-half-of-sp-500-earnings-growth-that-number-cuts-both-ways/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FBZnjT.YOWA0HRFZ8Ewyrg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b8e7d99aec64910334cbdc0fc0ad753d.jpg",
+      "published_at": "2026-09-13T18:00:24Z"
+    },
+    {
+      "id": "21891d27-1881-3552-8b1b-2af22b700908",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple CEO rejects biggest fear over iPhone Duo launch",
+      "summary": "Behind Apple’s folding phone, its CEO makes a bigger bet",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/apple-ternus-iphone-duo-ai-strategy",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EkAb_GSdqZvlnoIKx3OHTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/05ec5c9520ec228a65398e8a0e900b7b.jpg",
+      "published_at": "2026-09-13T17:47:00Z"
     },
     {
       "id": "f081ed81-d519-33a6-b3c6-d61d11236f61",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "Warren Buffett Made Apple Berkshire Hathaway's Single Largest Stock Position: $10,000 Invested 10 Years Ago Would Be Worth Roughly $122,400 Today",
       "summary": "Buffett and the Berkshire team began investing in Apple in 2016.",
       "source": "Motley Fool",
@@ -26,37 +191,15 @@
       "published_at": "2026-09-13T17:36:00Z"
     },
     {
-      "id": "59c68f76-ed00-3b20-99ee-526599944c34",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Bank of America has strong message for Marvell stock investors",
-      "summary": "The bank’s bullish outlook comes with a crucial test",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/marvell-stock-bofa-ai-growth-outlook",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OWfvhUDOXTVtiup3EZIIpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/2b005910112675006645e52d53e93571.jpg",
-      "published_at": "2026-09-13T17:33:00Z"
-    },
-    {
       "id": "b5fe7c0f-493e-3bc0-8c4b-381c00430090",
       "asset": "BTC",
       "asset_name": "Bitcoin",
       "title": "What Will 10,000 XRP Be Worth in 2030?",
-      "summary": "Ten thousand XRP (CRYPTO:XRP) was worth $38,400 when the coin peaked in January 2018. The same 10,000 coins are worth $13,500 today, so the stack has lost roughly two-thirds of its value across eight years and two full crypto cycles. Standard Chartered predicts XRP could reach $28 by 2030, which would make 10,000 coins worth […]",
+      "summary": "Standard Chartered and Ripple's own CTO Emeritus name very different 2030 prices for XRP, and the gap between those targets represents hundreds of thousands of dollars on a single stack of coins.",
       "source": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/cryptocurrency/2026/09/13/what-will-10000-xrp-be-worth-in-2030/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jp4HzpZV4WFCOmgvCDeXoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b9f732b22abac9d5208b2cad1d59bd56.jpg",
       "published_at": "2026-09-13T17:31:23Z"
-    },
-    {
-      "id": "a8f35573-3780-3dac-9017-ab17aecf9d97",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia vs. Broadcom: Which Trillion-Dollar AI Chip Stock Has More Upside After Their Latest Earnings?",
-      "summary": "Nvidia and Broadcom both just delivered monster earnings reports.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/nvidia-vs-broadcom-which-trillion-dollar-ai-chip-s/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wm0kAUAFRsE6C_BF3cVZjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f37551f5ebbf0966990fee72852cb212.png",
-      "published_at": "2026-09-13T17:27:00Z"
     },
     {
       "id": "fe03dd4d-7e72-3b64-9fac-487546cc87e2",
@@ -68,17 +211,6 @@
       "url": "https://beincrypto.com/tesla-roadster-reveal-tsla-stock/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MumBHvcjwOS6g37kf.fydw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/3349f95c1fe30e39199d9d62c1690819.jpg",
       "published_at": "2026-09-13T17:16:40Z"
-    },
-    {
-      "id": "9bd28273-e4af-32e1-a721-79fed606b151",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Forget Screeners and Hot Tips: Here's How I Actually Research a Stock Using Fundamentals That Matter",
-      "summary": "Business quality and growth should surpass all else when analyzing stocks.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/forget-screeners-and-hot-tips-heres-how-i-actually/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TIgvJLi9ndvSeQX_Pm4W4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/bc2ad1399ddd2b6934e2005e976dff64.jpg",
-      "published_at": "2026-09-13T17:07:00Z"
     },
     {
       "id": "aa8f691e-23ce-3327-9f11-4c1649498762",
@@ -93,58 +225,14 @@
     },
     {
       "id": "8c5e12a8-5709-3693-a813-3d9f84566b55",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
       "summary": "The famed fund manager lowered his position in Amazon and was buying shares of Microsoft and Meta Platforms.",
       "source": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/09/13/ackman-trimmed-this-big-tech-position-to/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/593cKiC8d78gDLUUOIYUlA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/17e84060b252e04be86c3d4f7eb283dc.jpg",
       "published_at": "2026-09-13T16:50:00Z"
-    },
-    {
-      "id": "ac646235-b32d-3778-a5eb-6d011b5624a9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia CEO Jensen Huang doubles down on his big 2030 market bet",
-      "summary": "Jensen Huang has made plenty of bold calls before. His latest one puts an even bigger question in front of Nvidia investors.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/markets/nvidia-ceo-jensen-huang-doubles-down-on-his-big-2030-market-bet",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/09yC9SkFggfiov9jY6BztA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0639f1cdf3a9089536703d0f678691cd.jpg",
-      "published_at": "2026-09-13T16:47:00Z"
-    },
-    {
-      "id": "1e517d8b-6ab0-35d8-94c7-4d415f4198bb",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Will Micron Technology Stock Soar to $1,500 After Sept. 30?",
-      "summary": "Micron is expected to report another blockbuster set of quarterly financial results later this month.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/will-micron-technology-stock-soar-to-1500-sept-30/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DpJNmPH1gOAAbyvfSsu8Ig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d2948de6c909df05628d157a369ebed6.jpg",
-      "published_at": "2026-09-13T16:35:00Z"
-    },
-    {
-      "id": "d11baa43-efdf-3ece-ab05-5885857da468",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Prediction: This Memory Stock Could Surge 233% Over the Next 3 Years (Hint: It's not Micron or Sandisk)",
-      "summary": "Analysts are underestimating SK Hynix's growth potential, setting the stock up for a big jump.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/prediction-this-memory-stock-could-surge-233-over/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yvpp0y6qkYMidAFlJT61og--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d4fe469c8cae3412b9bdad1b54043461.jpg",
-      "published_at": "2026-09-13T16:31:00Z"
-    },
-    {
-      "id": "cdfe3157-7816-301e-a96a-ed325e7c6520",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Sept. 16 Will Provide a Clearer Path for Interest Rates -- These 3 High-Yield Dividend Stocks Win Either Way",
-      "summary": "These companies built their portfolios to win whether rates rise or fall.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/sept-16-will-provide-a-clearer-path-for-interest-rates-these-3-high-yield-dividend-stocks-win-either-way/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TkY93gtOcUf3RImyxdVYuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/664bee2136b977be27bfaebe07938c1f.jpg",
-      "published_at": "2026-09-13T16:25:01Z"
     },
     {
       "id": "df68ae57-2865-3625-8de4-4d802d6d70d3",
@@ -178,17 +266,6 @@
       "url": "https://www.thestreet.com/investing/a-93-trillion-trading-boom-puts-cme-in-an-unusual-spot",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aUrfHSmUmsySfFFN5a__nA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/0b87a42fdaea394a7e36d29848ab281d.jpg",
       "published_at": "2026-09-13T16:03:00Z"
-    },
-    {
-      "id": "75964091-0d57-3879-b55e-2c11b3225642",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "summary": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_GtAXl7QXcDpHHMMd5u0hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/f7ca2e821746f269222d45df46364184.jpg",
-      "published_at": "2026-09-13T15:52:13Z"
     },
     {
       "id": "84895ae0-3cd8-364c-833f-d3f397f3f9a1",
@@ -233,83 +310,6 @@
       "url": "https://247wallst.com/investing/2026/09/13/from-bad-to-catastrophic-saudi-pipeline-outage-threatens-to-make-gas-prices-even-more-brutal/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6p7ZqK5BWlgJ3xutv9Rsrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f4c031a1e8d69e140fec8b01c08b16cd.jpg",
       "published_at": "2026-09-13T15:31:10Z"
-    },
-    {
-      "id": "a51db34f-4e8e-3afc-a1c6-0b24bf406b65",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record",
-      "summary": "Ethereum is up about 58% in the third quarter, putting it on track to snap its first-ever three-quarter losing streak.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-on-track-to-snap-its-longest-quarterly-losing-streak-on-record/cZt16UWRBbz",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_wpIZm9WmjBO_S8t1u79Rg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/36fec884e48dd1e3c1d13ae8b5c79430.jpg",
-      "published_at": "2026-09-13T15:26:34Z"
-    },
-    {
-      "id": "e0a83f40-a14d-388f-8c99-82b743347e15",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
-      "summary": "This position proves that lucrative opportunities can come from boring industries.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/berkshire-hathaway-has-nearly-14-of-its-portfolio/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XdOxBmqfhqTS2ku.5e_YEw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7f981f5713129921cc137b6b19592b1e.png",
-      "published_at": "2026-09-13T15:22:00Z"
-    },
-    {
-      "id": "d232efdd-d5e8-30e1-b6ac-254fc860c188",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Robots Everywhere: Goldman Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
-      "summary": "A major bank just dropped a forecast that reframes the entire robotics industry, and the ripple effects are already moving stock prices across chips, foundries, and factory floors. Here is what the number means for long-term investors.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/13/robots-everywhere-goldman-sachs-now-sees-6-5-million-humanoid-robots-by-2035/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qHYexEkzBagKm7VhqBSYDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a7a1f20d1e96adb3bef3be58276d1b85.jpg",
-      "published_at": "2026-09-13T15:17:11Z"
-    },
-    {
-      "id": "f15516a7-76cb-3850-8ee6-89c7f80593d6",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "IPO Delayed: Sam Altman Says an OpenAI Going Public in 2026 Would Be ‘Ill-Advised’",
-      "summary": "Sam Altman just pumped the brakes on what was shaping up as one of the largest IPOs in market history, and his reasons go far beyond typical market timing concerns.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/13/ipo-delayed-sam-altman-says-an-openai-going-public-in-2026-would-be-ill-advised/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cIVL38stsP7lHq2GJV.bjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/33a359d2c2da82cb8ce867911a0fb2a6.jpg",
-      "published_at": "2026-09-13T15:08:28Z"
-    },
-    {
-      "id": "b25d7012-9f95-3b4a-b695-c09a1222fe57",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "The Week Everybody Started Talking About AI Doomsday",
-      "summary": "It started Tuesday when an Anthropic researcher told The Wall Street Journal he was quitting.  Shortly after, a current Anthropic researcher took to X to confirm the sentiment, adding he believes the risk the human race will go extinct in the next 10 years is higher than 10%.  My colleagues Amrith Ramkumar, Lindsay Ellis and I spoke with lawmakers, church leaders and even one filmmaker who are now being called to answer some hard questions: Is this real?",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/the-week-everybody-started-talking-about-ai-doomsday-ab1fe116?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZTfJoj27_ELumZFZPCxdZA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/d0034c1d4e173517f74da4a766c322d1.jpg",
-      "published_at": "2026-09-13T14:55:00Z"
-    },
-    {
-      "id": "ebe1823d-d548-31aa-9276-19dffefd472c",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple wants AI to listen all day without creeping people out",
-      "summary": "Apple tries to solve the problem haunting AI wearables",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/apple-wants-ai-to-listen-all-day-without-creeping-people-out",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Euugl80MJfIavmtWk6WbqQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8077f1dfd959216d1a33de4d9a4b503d.jpg",
-      "published_at": "2026-09-13T14:37:00Z"
-    },
-    {
-      "id": "6c8a78ec-9f34-3d9d-b41c-e10b1b7d0a7b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Can New iPhone Duo Power Apple's Stock Higher?",
-      "summary": "Apple's new foldable smartphone could be a strong growth driver.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/13/can-new-iphone-duo-power-apples-stock-higher/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IUcw5eFPxwBlXh2anLPU9w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b3d1cfb746f969270af6a9ff9d4557fa.png",
-      "published_at": "2026-09-13T14:13:00Z"
     }
   ]
 }
