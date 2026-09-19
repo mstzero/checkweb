@@ -1,18 +1,205 @@
 {
-  "last_updated": "2026-09-19 14:36 UTC",
+  "last_updated": "2026-09-19 17:44 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "f2c58e30-64d3-3df4-965b-4b03ee2b7ce8",
+      "id": "04b0ba7c-c1c6-30e1-8178-ed204a55fc71",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Upstart, Affirm, and SoFi All Lend to the Same Borrowers. Only One of Them Funds With Deposits.",
-      "summary": "There has been an increase in the number of fintechs applying for bank charters.",
+      "title": "Warren Buffett Is No Longer Berkshire's Chairman. Here’s Why I'm Buying the Stock Anyway.",
+      "summary": "The Oracle of Omaha stepped down from his last active role with the conglomerate, but the investment thesis is intact.",
       "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/upstart-affirm-and-sofi-all-lend-to-the-same-borro/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Uo0sCYTV8MJZA6raIe6LCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/10fba81f6e1fe4222140f451ed1cda91.jpg",
-      "published_at": "2026-09-19T14:32:00Z"
+      "url": "https://www.fool.com/investing/2026/09/19/warren-buffett-is-no-longer-berkshire-s-chairman-here-s-why-i-m-buying-the-stock-anyway/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lVcEMXjEMhpx08Ucxnk_GQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b28a5dd8f5ab6a6b81f8ecabdec14bb3.jpg",
+      "published_at": "2026-09-19T17:22:01Z"
+    },
+    {
+      "id": "6fae7c88-d08a-3aa1-90f6-1db50f7d1c5e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "3 ETFs That Work Better Together for Dividend Investors",
+      "summary": "Combining different dividend stock selection strategies can produce an elite portfolio.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/3-etfs-work-better-together-for-dividend-investors/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aiauLOD7k0.u9aGZYeY_8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c68de7a6488f1791243f73fb6e9b619f.jpg",
+      "published_at": "2026-09-19T17:20:00Z"
+    },
+    {
+      "id": "289dd742-927d-35af-95ac-a934f736a91f",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+      "summary": "Goldman Sachs has cut its delivery forecast for Tesla, Inc. (NASDAQ:TSLA) while citing weaker sales trends across the company’s most important markets. The investment bank slashed its Q3 delivery forecast to 435,000 vehicles from 490,000. It also lowered its Q4 delivery forecast to 475,000 vehicles from 515,000. The question now is whether Tesla’s demand weakness […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qfkx_487KkDO2WmvUAWkDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6ff12e658f35771e8a808f7cf2e4c2ff.jpg",
+      "published_at": "2026-09-19T17:14:43Z"
+    },
+    {
+      "id": "aa529e2d-a80c-3a34-8c0e-986134ac4c95",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
+      "summary": "Cisco Systems, Inc. (NASDAQ:CSCO) is seeking to expand Splunk’s role in enterprise AI. That matters because it could give the networking giant another avenue to monetize the AI infrastructure buildout beyond hardware sales. At the 2026 Splunk conference in Denver this week (Sept. 14-17), Cisco introduced the Cisco AI POD for Splunk. This solution brings […]",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uyz0DvTa9Kp4szLepE1RYg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d87ed4368ba28285bd840da340bf3933.jpg",
+      "published_at": "2026-09-19T17:12:00Z"
+    },
+    {
+      "id": "7fed656e-82b3-377a-8287-cc070744fb53",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Huang just doubled his chip forecast and blocked a regulator",
+      "summary": "What the Nvidia chief told reporters in Scotland does not match what his company put in writing last month.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/huang-just-doubled-his-chip-forecast-and-blocked-a-regulator",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dwjiSokYbZF2d5U7Iwct7Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/1e456aaef3dca2bb3617a7fe42e9116c.jpg",
+      "published_at": "2026-09-19T17:07:00Z"
+    },
+    {
+      "id": "689f7eac-9847-3b06-9e83-14537be286af",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
+      "summary": "Earlier this year, Nvidia invested $2 billion in semiconductor company Marvell Technology.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/prediction-this-nvidia-backed-artificial-intellige/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kTdIXv.oh0_Lk8d_dl07jg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f6f8bf9f3b1ccc4a646b244d81241877.png",
+      "published_at": "2026-09-19T17:05:00Z"
+    },
+    {
+      "id": "4f13aa47-0eb6-384e-a8f9-568cf25640d7",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "From Hustle to Hypervigilance: Is Fear of Running Out of Money Stealing Your Retirement Joy?",
+      "summary": "When financial anxiety overshadows retirement enjoyment, you know it's time to make a change.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/from-hustle-to-hypervigilance-is-fear-of-running/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GxIPvsywufibiVly2jwldw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8256e75643d75f1693cbc0a131a26de1.jpg",
+      "published_at": "2026-09-19T16:50:00Z"
+    },
+    {
+      "id": "0db30f00-ad52-3b41-a1e8-08ebb5c13f8e",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
+      "summary": "The Nasdaq-100 is tech-heavy, but I think this high-yield consumer staples Dividend King is the best income pick.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/there-are-only-a-handful-of-nasdaq-100-stocks-that/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.mIYWFU6LOx3GAcSPESoKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2fc302679ff880624ba175edd389f814.jpg",
+      "published_at": "2026-09-19T16:35:00Z"
+    },
+    {
+      "id": "832159c8-6dc5-38e6-b838-d7db7090ca09",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qDH74XjlJgVSOA.ODV2vjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5b327748e19f79eb3e0d30330a757e65.jpg",
+      "published_at": "2026-09-19T16:34:51Z"
+    },
+    {
+      "id": "4879a1da-4001-3ef8-8577-e1d7c20d6db4",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "This Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms — Here’s What To Know",
+      "summary": "Bitcoin’s rebound above $80,000 puts focus on whether demand and longer-term technical levels could support further gains.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-signal-has-flashed-just-4-times-in-history-what-to-know/cZtxe1zRBEM",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qQDctTb1W_n8uH_C8PXAZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/014cef592b2cf1b29098633414946472",
+      "published_at": "2026-09-19T16:30:11Z"
+    },
+    {
+      "id": "ba188ac9-49a0-3d8c-b1b6-75193d36ee8b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
+      "summary": "Insider buying is a good sign for Celsius, but that's not the only thing to consider before buying the stock.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/celsius-executives-have-been-buying-the-stock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/x6_eL8cCQ6IGF.cCb0Mm5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d18fa36d69206bb015ebe272509ab80c.jpg",
+      "published_at": "2026-09-19T16:20:00Z"
+    },
+    {
+      "id": "7a2934c2-a3b4-3f9d-8c5d-e863675cdc6a",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Is Berkshire Hathaway Stock a Better Buy Than an S&P 500 Index Fund?",
+      "summary": "Both options are rooted in the same basic buy-and-hold philosophy, but one differs from the other in one way that's very important for the foreseeable future.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/is-berkshire-hathaway-stock-a-better-buy-than-an/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YsnM_Scjq6yh5YUDT1L7QA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ded8d8a3ae3dce36a28c0fcb377fa73c.png",
+      "published_at": "2026-09-19T16:05:00Z"
+    },
+    {
+      "id": "cf863be6-4d15-3b87-9588-1f766ff78ce0",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple gets bullish Wall Street call as iPhone demand jumps",
+      "summary": "Apple’s price target hike comes on the heels of surprising consumer survey findings.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/apple-gets-bullish-wall-street-call-as-iphone-demand-jumps",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TmZjuW45f_h7uSMzfJyBGw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/aa9a17ff9d00cff2a8f2e9799f67d174.jpg",
+      "published_at": "2026-09-19T16:03:00Z"
+    },
+    {
+      "id": "057e5590-29b3-319e-a64a-19dbabca1340",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+      "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
+      "source": "decrypt",
+      "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zvf0sVC2jVeJ4HLMltIQUQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/be1b7ab35e5ff40a79dbc62dd019dc4f.png",
+      "published_at": "2026-09-19T16:01:03Z"
+    },
+    {
+      "id": "d44f50f0-3a89-3d38-aec2-71a00e9f733c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors",
+      "summary": "If you pay attention to history, the rate hike doesn't bode well for the markets.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/federal-reserve-inflation-outlook-is-a-warning/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8Pls_NMe4TyJS5OkX5kQkA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3e9dff7f3131275988e067ef0bbae3b1.jpg",
+      "published_at": "2026-09-19T15:57:00Z"
+    },
+    {
+      "id": "ed950669-5c03-3b36-be94-ecb44fd20a70",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Is Centerra Gold (TSX:CG) Expensive Following Its Retail Investor Webinar?",
+      "summary": "Centerra Gold (TSX:CG) is back on retail investors’ radar after hosting a dedicated Retail Investor Webinar on 8 September 2026, prompting fresh questions about valuation, risks, and long term return potential. Recent trading has been strong, with Centerra Gold’s share price delivering a 39.87% 90 day return and a 66.01% year to date share price return. The 1 year total shareholder return of 148.56% and 3 year total shareholder return of about 4x point to powerful momentum rather than a short...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/centerra-gold-tsx-cg-expensive-151244840.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5ynmVbnnAbhMVQUZQthu7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/458559082245f3e3e142761485ce89d1.jpg",
+      "published_at": "2026-09-19T15:12:44Z"
+    },
+    {
+      "id": "513e0799-e2d2-30d2-bcb2-01f0fcd8d10f",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
+      "summary": "Coinbase’s filing used an Apple contract as its model, which is cash-settled, has no fixed expiration, and would trade from Sunday to Friday.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/coinbase-apple-tesla-perpetual-futures-coin-tsla-aapl/cZtxEhbRBEs",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6MJCNpo8oKSdNsBpSL5CIw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/7146ee2835a56206dd605c3296523c1f",
+      "published_at": "2026-09-19T15:11:11Z"
+    },
+    {
+      "id": "f45b4d20-a8ba-33c0-a729-1203c4cd2124",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+      "summary": "As the market rotates away from large-cap stocks, new opportunities have emerged in their place.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/19/stock-market-biggest-companies-losing-etf-to-buy/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YyW5tUQw7EV2RpSvcHZPbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/84120e12c4e0a8f167263c3dac93de6b.jpg",
+      "published_at": "2026-09-19T15:05:00Z"
     },
     {
       "id": "41d4a7fb-fb3c-3ec2-905f-fd56ff02db33",
@@ -27,25 +214,14 @@
     },
     {
       "id": "4b32be0b-8165-3da8-89c3-4249338ac29e",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
       "title": "How Investors Are Reacting To Ultragenyx Pharmaceutical (RARE) First-In-Disease Gene Therapy Approval For FAYUVI",
       "summary": "In September 2026, Ultragenyx Pharmaceutical received full U.S. FDA approval for FAYUVI (UX111), the first-ever treatment for pediatric patients with Sanfilippo syndrome Type A, along with a Priority Review Voucher. This approval not only addresses a previously untreated ultra-rare, fatal neurodegenerative disease but also expands Ultragenyx’s commercial gene therapy portfolio and manufacturing footprint in the U.S. We’ll now explore how FAYUVI’s first-in-disease approval and the associated...",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/investors-reacting-ultragenyx-pharmaceutical-rare-141033462.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JcBRdyGlnxgseEAYPKQW6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0f918e99fb6cff45fd6a33ab65a17425.jpg",
       "published_at": "2026-09-19T14:10:33Z"
-    },
-    {
-      "id": "500497e0-cd78-3019-852d-9c467ced7da7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.",
-      "summary": "The market will be highly affected by this IPO, even if the stock isn't included in the index right away.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/anthropic-ipo-coming-what-means-sp-500/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/K2AJIZgflruhJIA0gMJPsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/660455c4db5325bf5cf7efa4015f126f.jpg",
-      "published_at": "2026-09-19T14:05:00Z"
     },
     {
       "id": "e45993d3-c31f-332f-b45a-08f216b7b570",
@@ -59,86 +235,9 @@
       "published_at": "2026-09-19T14:02:51Z"
     },
     {
-      "id": "7f16521a-90aa-3bb8-87c6-c33b2e7d2f41",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Has AGNC's Monthly Dividend Made Up for What Its Share Price Did?",
-      "summary": "AGNC Investment's dividend payments have really added up over the years.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/has-agncs-monthly-dividend-made-up-for-what-its-sh/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5h7yMslf_GIfn45s8B3PKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/088128c32a876f9276e17397ca2eeca7.jpg",
-      "published_at": "2026-09-19T13:50:00Z"
-    },
-    {
-      "id": "2c71df0c-2be4-324a-aeab-9933d0c2f87c",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "summary": "Is Arm still an under-the-radar AI winner? Wall Street is catching on fast.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/is-arm-holdings-still-a-hidden-winner-ai-chip-race/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.uBeRgB6_pJTZgBmoiBBdA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/0113e1c4adc200d6848851f49444a463.png",
-      "published_at": "2026-09-19T13:37:00Z"
-    },
-    {
-      "id": "7604ffc7-a6b4-3f72-a5ed-75cede88f043",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What History Says About Owning Berkshire Hathaway Through a Recession",
-      "summary": "It's always a smart, disciplined holding. That doesn't mean it's always immune to sweeping headwinds.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/what-history-says-about-owning-berkshire-hathaway/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/phCJH9HZ4VXWX95SfLapyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7129b38d7bd993360184c1f26448b6ab.jpg",
-      "published_at": "2026-09-19T13:29:00Z"
-    },
-    {
-      "id": "4003d299-49ef-3109-b0b5-436072a457dd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks",
-      "summary": "The Federal Reserve has undertaken six previous rate-hiking cycles since 1990, with each yielding highly predictable results for the stock market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/fed-chair-kevin-warsh-fomc-hiked-interest-rates-36-years-history-make-clear-what-next-for-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/sdzMTmasRVua4yGzP9uNxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7d72ffd4f80186afff9fdf256f0d755b.jpg",
-      "published_at": "2026-09-19T13:26:01Z"
-    },
-    {
-      "id": "832159c8-6dc5-38e6-b838-d7db7090ca09",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qDH74XjlJgVSOA.ODV2vjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/5b327748e19f79eb3e0d30330a757e65.jpg",
-      "published_at": "2026-09-19T13:16:31Z"
-    },
-    {
-      "id": "df088bef-3431-32b2-b098-741c07baf15d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "History Says This Investment Strategy Can Build a $1 Million Portfolio. Here's How.",
-      "summary": "With enough time, discipline, and consistency, this strategy can get most people to the $1 million mark.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/history-investment-build-million-portfolio-vti/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PZbWZBFCIhzIJG0c9j5jUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8fbb68594a8423730f67302598aa72e8.jpg",
-      "published_at": "2026-09-19T13:14:00Z"
-    },
-    {
-      "id": "e7ddfbbf-d6a9-3da4-acb4-f94fca79158a",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Is Micron's 9% Dip a Warning Sign or Buying Opportunity?",
-      "summary": "Industrywide concerns about AI development affected Micron this week.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/is-microns-9-dip-a-warning-sign-or-buying-opportun/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aR0S4XKjpO7QCRD_.f.2Tg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/08718f83c9c4be19ee010a8a57e9dbfe.png",
-      "published_at": "2026-09-19T12:55:00Z"
-    },
-    {
       "id": "03fda060-be28-3328-a9e3-e5707710ddb8",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
+      "asset": "AAPL",
+      "asset_name": "Apple",
       "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
       "summary": "Apple stock just got a price target cut due to the memory processor crunch.",
       "source": "Motley Fool",
@@ -211,105 +310,6 @@
       "url": "https://finance.yahoo.com/energy/articles/world-running-short-supertankers-threatens-113000498.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/L9gwHIRf0YMS9pGkMpgK2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/82b8d95b364b304e8fb261b033bdc29f.jpg",
       "published_at": "2026-09-19T11:30:00Z"
-    },
-    {
-      "id": "4f8c5a5b-89a2-3267-8030-d5afeb0ca0c0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Arthur Hayes Says Crypto Didn't Need 'Nonsense' CLARITY Act - Just A Rate Hike, Bitcoin Tops $81K",
-      "summary": "The Fed raised its benchmark rate by 25 basis points to a range of 3.75% to 4% on Wednesday, its first increase since 2023.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-says-nonsense-clarity-act-comment-rate-hike-bitcoin-tops-81k/cZtxG0MRBE8",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hsqlF_UdGBJMtPM5EUNjoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c34d7abda539def2a466c40f5e27e886",
-      "published_at": "2026-09-19T11:29:06Z"
-    },
-    {
-      "id": "51115585-88e1-333a-b363-e4eac36bda92",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "History Says You Should Know These 3 Things Before Buying Apple Stock (AAPL)",
-      "summary": "The pride of Cupertino continues its winning ways, and investors are eager to jump on the bandwagon.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/history-says-3-things-before-buy-apple-stock-aapl/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qLVFjslJXqfvOQ2pnpJ0Yg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4db47a80c5201ee12b8087da5ef889b3.png",
-      "published_at": "2026-09-19T11:22:00Z"
-    },
-    {
-      "id": "d87ad01e-cb70-30b5-b2b5-b47185b7394a",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "After a Long Hiatus, Crypto ETFs Are Making a Comeback. Here's the 1 Crypto ETF You Need to Own.",
-      "summary": "Money is flowing back into crypto ETFs, but which one is the best fit for your portfolio?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/after-a-long-hiatus-crypto-etfs-are-making-a-comeb/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xhtes80hiVEXg04dGZrcyQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1ad209eb2502bae8efeaa53cc3f75c31.jpg",
-      "published_at": "2026-09-19T11:12:00Z"
-    },
-    {
-      "id": "742a27b9-c521-347e-a34b-42c173f356da",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Kevin O'Leary Names the One Thing Standing Between Bitcoin and $1 Million",
-      "summary": "Mr. Wonderful Kevin O'Leary backs $1 million Bitcoin on one condition, as 6.04 million BTC sit exposed to quantum risk.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/kevin-oleary-bitcoin-1-million-quantum/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3zhE45qSJhUjWz.JzAokVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/16ac789813e71577b2b45b8f02104f3b.jpg",
-      "published_at": "2026-09-19T10:49:09Z"
-    },
-    {
-      "id": "d508f298-08bd-360a-b3b8-535175a5c281",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Warren Buffett found the most boring way to bet on AI",
-      "summary": "Warren Buffett became the world’s most famous investor by betting on the boring stuff.",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/09/19/investing/warren-buffett-berkshire-ai-energy",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VYMg2rc6AVf5Pa6DVcnJow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_articles_218/b8283f4e333d0d5f685830486751abac.jpg",
-      "published_at": "2026-09-19T10:30:30Z"
-    },
-    {
-      "id": "6c3f5747-29ce-381f-b8fe-8478d97cd498",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure",
-      "summary": "The agent economy is not being enabled by software; it is being bottlenecked by hardware. While the popular imagination fixates on autonomous code orchestrating value, the actual mechanism of the current market is far more terrestrial. If you cannot power it, you cannot run it. This is the governing rule of the AI era, and […]",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/articles/agent-economy-runs-concrete-why-101127688.html",
-      "thumbnail": "",
-      "published_at": "2026-09-19T10:11:27Z"
-    },
-    {
-      "id": "63302c7d-f446-3f2a-bf70-cda553b8e431",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Is Upgraded EPS Guidance Altering The Investment Case For AngloGold Ashanti (AU)?",
-      "summary": "In recent days, AngloGold Ashanti has attracted attention as analysts projected a very large year-over-year increase in quarterly earnings per share alongside solid revenue growth, supported by updated consensus estimates. A key insight is that these upward earnings revisions, reflected in the company’s current Zacks Rank of #3 (Hold), highlight growing confidence in AngloGold Ashanti’s near-term profitability without changing its overall rating. We’ll now examine how this recent wave of...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/upgraded-eps-guidance-altering-investment-100937177.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5ynmVbnnAbhMVQUZQthu7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/458559082245f3e3e142761485ce89d1.jpg",
-      "published_at": "2026-09-19T10:09:37Z"
-    },
-    {
-      "id": "506d3338-4c6d-3e9b-83fc-2814bc9386f1",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Metaplanet Fails All 4 VanEck Tests on Treasury Executive Compensation",
-      "summary": "VanEck ranked Metaplanet the only bad name among 10 bitcoin treasuries on executive pay. Here is how it happened.",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/metaplanet-vaneck-executive-pay-dilution-screen/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/l4A9A90nxaAflFiLyqZS.g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/b95d519ffc7c27522cd773aecfffb1b0.png",
-      "published_at": "2026-09-19T09:55:50Z"
-    },
-    {
-      "id": "22ed576e-b71a-306d-bf04-0d6d1748f43f",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Prediction: The Hard Times Are Ending for These 3 Leading Cryptocurrencies",
-      "summary": "New tech, new governance policies, and new revenue sources are helping these coins get on to the path to recovery.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/19/prediction-the-hard-times-are-ending-for-these-3-l/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3rwFHu2gifTHS8T8yteK4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/87a9a1076ece24fdeb1e9965c3c56983.jpg",
-      "published_at": "2026-09-19T09:14:00Z"
     }
   ]
 }
