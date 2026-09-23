@@ -1,8 +1,173 @@
 {
-  "last_updated": "2026-09-22 23:27 UTC",
+  "last_updated": "2026-09-23 01:40 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "280f5dd6-365f-3a6a-91c9-2a9551e64657",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nOCGTt6tVWBD1ID1PbIBaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0c920368836c3bd1d0b2a40bf0b59bb6.jpg",
+      "published_at": "2026-09-23T01:37:31Z"
+    },
+    {
+      "id": "a5f9f8a1-c5bf-36a2-8b94-d517bcf2d891",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "MSTR Stock Climbs Overnight: This Analyst Sees Upside Of 16.5% From Current Levels",
+      "summary": "B. Riley raised the price target on Strategy to $195 from $175 and maintained a ‘Buy’ rating on the shares, implying an upside of about 16.5% from current levels.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mstr-stock-climbs-overnight-this-analyst-sees-upside-of-16-5-from-current-levels/cZMEgb5RB7l",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0t_JQwBnxHgvaI1_AKlYiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/aa3f67a3168af8b994f85531e40e8535",
+      "published_at": "2026-09-23T01:28:49Z"
+    },
+    {
+      "id": "3e1b034b-57c4-317b-b304-6631ad7f0ec0",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You Buy Monster Beverage With $10,000 Today, Could You Become a Millionaire in 25 Years?",
+      "summary": "Can Monster Beverage produce the necessary growth?",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/22/if-you-buy-monster-beverage-with-10000-today-could/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/McAxjz2UZPIzHFaK1MRFmg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b2c7326eb770d3b0347f996d791d1aec.jpg",
+      "published_at": "2026-09-23T00:50:00Z"
+    },
+    {
+      "id": "0a1132de-f825-31a4-8289-6260362cb2f7",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil Falls as Mideast Developments Remain in Focus",
+      "summary": "Oil fell in early Asian trade. Japan’s Kyodo News Agency reported Iran proposed to reopen the Strait of Hormuz if the U.S. lifts its blockade, though Iran’s Fars News Agency later cited sources denying the report.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-mideast-developments-remain-in-focus-9a5a30e4?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-09-23T00:36:00Z"
+    },
+    {
+      "id": "877dbdbc-4e7b-3e45-adce-448bda62392f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why This Top Automaker's Gamble on V-8 Engines During a Hybrid Boom Actually Makes Sense",
+      "summary": "GM's unveiling more hunky V8 engines amid a boom in hybrid demand seems like a mistake, but here are some things for investors to consider.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/22/why-this-top-automakers-gamble-on-v-8-engines-duri/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PF4qVPxwEBChRV8NvmEqbg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/56cb0bc08b15bdc78d64d5ef77a6652c.png",
+      "published_at": "2026-09-23T00:25:00Z"
+    },
+    {
+      "id": "8e86ab29-ef49-34e1-a917-6cc1c0be1b0b",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "What Would Have to Happen for XRP to Reach $5?",
+      "summary": "XRP just posted a 22% weekly rally, yet traders have chased the $5 target for five years without ever touching it. Three conditions must align at once, and right now, not a single one is fully in place.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/what-would-have-to-happen-for-xrp-to-reach-5/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oxe9WVaqTDzvlOqisnoVow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5753ef95650e0fb7c4903e9cd62d640d.jpg",
+      "published_at": "2026-09-23T00:19:33Z"
+    },
+    {
+      "id": "f1a31c73-dd19-32e3-9527-9a98bc10a666",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "The Crypto Market Surpasses $3 Trillion. What Drove This Milestone and What Could Keep It There?",
+      "summary": "A Treasury buyback, an SEC ruling, and nearly a billion dollars in forced buying all converged on a single day to push the crypto market past a major threshold. But with four of the five top coins still in the red for 2026, the question is whether this milestone reflects real demand or borrowed momentum.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/the-crypto-market-surpasses-3-trillion-what-drove-this-milestone-and-what-could-keep-it-there/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8DiPFwCV50U1O.4IPNEmPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/6c99c425dda8f8fcb338a8b8bb852311.jpg",
+      "published_at": "2026-09-23T00:13:54Z"
+    },
+    {
+      "id": "a7232a0f-9305-318f-8c08-64099b0649bc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Why Marathon Petroleum Stock Slipped Today",
+      "summary": "The White House is considering a ban on diesel exports, said a top official.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/22/why-marathon-petroleum-stock-slipped-today/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aWy92Fp484zYRuYns_nC2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b1749bc1db60463163095785d95e683e.jpg",
+      "published_at": "2026-09-23T00:12:43Z"
+    },
+    {
+      "id": "105cc8ee-f464-3780-a004-04850029c88e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Review & Preview: Musing Over AI",
+      "summary": "The Nasdaq closes at a record for second straight day. Plus, two Fed officials on why the central bank had no choice but to raise rates.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nasdaq-record-meta-muse-inflation-fed-b394ab3e?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-09-22T23:55:00Z"
+    },
+    {
+      "id": "54be86dc-14fc-3383-9b0a-f560e369a25f",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Fidelity analyst predicts new 4-year Bitcoin bull market",
+      "summary": "Fidelity Investments’ director of global macro, Jurrien Timmer, makes major Bitcoin prediction.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/fidelity-analyst-predicts-new-4-year-bitcoin-bull-market",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/g.flPAJueRfPUoTvAe_V0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/a54bdc69930dfdef5f8f659a75bddb33.jpg",
+      "published_at": "2026-09-22T23:45:43Z"
+    },
+    {
+      "id": "8dd4186a-2db6-3292-9fb6-66ec55405cd2",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Google Goes Nuclear With Power Upgrade Agreement in Georgia",
+      "summary": "The company embraces nuclear as a way to power AI.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/22/google-goes-nuclear-with-power-upgrade-agreement-in-georgia/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DQkiPM4dycptOge8CS0geQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/78cc1482cbd398e974fe6d35c16f9bc1.jpg",
+      "published_at": "2026-09-22T23:35:01Z"
+    },
+    {
+      "id": "7405268e-2842-39bf-80ca-ee693416f9e4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What $3,000 Invested in SpaceX Stock Could Grow to by September 2027",
+      "summary": "Based on price targets alone, the risks may outweigh the rewards of owning SpaceX stock for more conservative investors.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/22/what-3000-invested-in-spacex-stock-could-grow-to-b/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QtxEe8AtCfXhmkfiYHGW_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/de6dda0748faa2d337ac653a6d1633c6.jpg",
+      "published_at": "2026-09-22T23:35:00Z"
+    },
+    {
+      "id": "5cc7bf4b-bc6c-3b34-b817-906a47538a42",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
+      "summary": "We discuss Buffett's investing playbook and highlight ETFs that follow his investment philosophy.",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-buffett-lessons-oracle-omaha-182900634.html",
+      "thumbnail": "",
+      "published_at": "2026-09-22T23:34:00Z"
+    },
+    {
+      "id": "fb24905e-76a1-37d4-9478-deb18972355a",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Reddit And 2 Other Quality Stocks To Own",
+      "summary": "When the Federal Reserve lifts interest rates and projects higher borrowing costs for years, fragile balance sheets feel the strain first. Stronger companies with solid finances often gain an edge as weaker rivals struggle with pricier debt and tighter credit. That creates an opening for investors who want stability over drama. This article highlights three low risk leaders that combine financial resilience with staying power. The stocks covered below are a sample of that foundation. The full...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-2-other-quality-stocks-232426002.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/N9X7dmigGO58pV3S6.UzPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/f8d0cd9929dc69d3a641bdd0ba944762.jpg",
+      "published_at": "2026-09-22T23:24:26Z"
+    },
+    {
+      "id": "43a5cc1f-d459-3552-b623-2404a91fb00c",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "India's Titan On What's Slowing Gold Demand",
+      "summary": "Titan's Managing Director Ajoy Chawla says gold rate volatility, and not the macros has been the biggest challenge for the company in recent times. He said this in an exclusive conversation with BTV's Menaka Doshi.",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/indias-titan-whats-slowing-gold-232241668.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qBihSpCXgQWfbDrsU2ihyw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/b6cb7012b5ba967b928c9404d7a1ab28.jpg",
+      "published_at": "2026-09-22T23:22:41Z"
+    },
     {
       "id": "fe67cfa7-e725-304c-8084-d8c36d482d01",
       "asset": "BTC",
@@ -40,23 +205,12 @@
       "id": "d35b9bc8-13e6-3f26-974f-a5945f4f77cb",
       "asset": "MSFT",
       "asset_name": "Microsoft",
-      "title": "Microsoft kills 35-year-old Office app Oct. 1",
-      "summary": "Your files won’t be deleted, but that’s not the good news it sounds like.",
+      "title": "Microsoft is killing an Office app you've used for decades",
+      "summary": "Microsoft’s advice for saving your work turns it into something you can’t change",
       "source": "TheStreet",
       "url": "https://www.thestreet.com/technology/microsoft-kills-35-year-old-office-app-publisher-oct-1",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qn.R5NtvJv.CDg09Em06MA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e851dd259931c2b15eb669c49189efea.jpg",
       "published_at": "2026-09-22T23:17:00Z"
-    },
-    {
-      "id": "280f5dd6-365f-3a6a-91c9-2a9551e64657",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nOCGTt6tVWBD1ID1PbIBaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0c920368836c3bd1d0b2a40bf0b59bb6.jpg",
-      "published_at": "2026-09-22T23:12:00Z"
     },
     {
       "id": "99934ade-110c-3e6a-b443-335fbc5b4c4e",
@@ -147,17 +301,6 @@
       "published_at": "2026-09-22T22:25:00Z"
     },
     {
-      "id": "2919a694-4d34-3e93-9179-2130309420f2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Nvidia Backed SB Energy’s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
-      "summary": "SB Energy’s planned public listing is turning into a stress test for the financing side of the AI buildout. The SoftBank-backed developer has slowed preparations for an IPO that had been discussed around a $50 billion valuation, according to a September 22 Financial Times report, while a $4.9 billion debt package has faced weak demand […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qsYhX6Ht88qdXYvhQdtxOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/63a41adce5deaa8ca8c108cdf6906f7e.jpg",
-      "published_at": "2026-09-22T22:17:36Z"
-    },
-    {
       "id": "0a8b8078-d5c2-33ab-ad5d-bcff1b1963d1",
       "asset": "GOLD",
       "asset_name": "Gold",
@@ -167,149 +310,6 @@
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-fed-fears-over-221516465.html",
       "thumbnail": "",
       "published_at": "2026-09-22T22:15:16Z"
-    },
-    {
-      "id": "9eace8c6-764d-3cf8-8db1-6af1f9e20cce",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "VGT Holders Bought ‘Tech’ and Own No Google, Meta, or Amazon: The Sector Rule That Decides What’s Inside",
-      "summary": "VGT promises tech exposure, but a classification rule buried in the index methodology quietly excludes three of the biggest names most investors assume they are buying. Knowing which ones changes how your whole portfolio actually fits together.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/09/22/vgt-holders-bought-tech-and-own-no-google-meta-or-amazon-the-sector-rule-that-decides-whats-inside/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SEVviVj9VWXzfOY5bUaS3A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/7ea3de8a90de8638063b97b12202d262.jpg",
-      "published_at": "2026-09-22T22:15:04Z"
-    },
-    {
-      "id": "30804b3b-4f48-35b6-8be2-43e0b06a5c3b",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Alibaba Just Unveiled an AI Chip 3x Faster Than Its Predecessor. Nvidia Has a China Problem to Watch",
-      "summary": "Alibaba used its September 22 developer conference to show how quickly China’s AI stack is filling the holes left by restricted access to U.S. chips. The company unveiled the Zhenwu V900 accelerator, which it says delivers roughly three times the performance of its predecessor and is scheduled for mass production in early 2027. Alibaba Group […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-just-unveiled-ai-chip-221410155.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6dDLjdyPz_ZY3TtAfshGLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/efac6eb89b3eb6603297cd7895f59b98.jpg",
-      "published_at": "2026-09-22T22:14:10Z"
-    },
-    {
-      "id": "234c4062-95a1-3000-8884-7cde4522d7ea",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Oppenheimer Revamps Microsoft Stock Price Target For 2027",
-      "summary": "Microsoft Stock Gets a Bold $570 Price Target as AI Growth Stays on Track",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-revamps-microsoft-stock-price-220908722.html",
-      "thumbnail": "",
-      "published_at": "2026-09-22T22:09:08Z"
-    },
-    {
-      "id": "1cd5c6cc-3c6b-31ad-85e3-0f276fc91ec9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Google Is Taking Its AI Chips Outside the Cloud. Nvidia Just Got a New Sovereign-AI Rival",
-      "summary": "Google is testing whether its custom AI chips can become national infrastructure instead of remaining mostly a cloud advantage. A September 22 report from Seoul Economic Daily said Google met South Korean officials on September 9 to discuss supplying tensor processing units for the country’s sovereign-AI buildout. That puts Alphabet Inc. (NASDAQ:GOOGL) into a market […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-taking-ai-chips-outside-220542329.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XMk0vDPMnTROt9Q.HGzGnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/f72133c65098a511abe62c9ff7692346.png",
-      "published_at": "2026-09-22T22:05:42Z"
-    },
-    {
-      "id": "ca2ac7ae-b57b-3b21-a118-dd1e6531da28",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
-      "summary": "Microsoft handed shareholders one of the largest cash returns in market history, but what did that money actually buy for the owners who held on.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/616107/223-billion-back-to-shareholders-inside-the-msft-machine/2026-09-22",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rNzAn7xZGs8Bp2KN1L18aw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/006a41f0afe5e5a832d7e7d9e9067f82.jpg",
-      "published_at": "2026-09-22T21:51:24Z"
-    },
-    {
-      "id": "f308b8c8-a747-3506-bcbb-841b771c5cd2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Diversified Energy Company PLC (DEC) Stock Moves 1.39%: What You Should Know",
-      "summary": "In the closing of the recent trading day, Diversified Energy Company PLC (DEC) stood at $13.9, denoting a +1.39% move from the preceding trading day.",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/diversified-energy-company-plc-dec-215005850.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ihc1v.__i43y_JFMSjBVLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b369e357aa3d42cc28ac674490d4ae83.jpg",
-      "published_at": "2026-09-22T21:50:05Z"
-    },
-    {
-      "id": "2f8d7320-993b-3d28-875b-0805a14cbd39",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Which Is the Bigger Story for BioNTech -- Its Colorectal Cancer Vaccine Setback or the Lung Cancer Clinical Success?",
-      "summary": "The company is looking to prove it can achieve significant success outside the coronavirus market.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/22/which-is-the-bigger-story-for-biontech-its-colorec/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kpYfxKR6vmcsZxxlVXAvmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/af49b6839e092e5f1090f19ebbf7f508.jpg",
-      "published_at": "2026-09-22T21:50:00Z"
-    },
-    {
-      "id": "0d62f68c-e49a-31e0-9df8-f557e9af5eb7",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "This is Not Bitcoin’s Cycle",
-      "summary": "Last cycle mainstreamed Bitcoin. This one may belong to Zcash and alts with real revenue, buybacks, and newly opening U.S. markets.",
-      "source": "Bankless",
-      "url": "https://www.bankless.com/read/this-is-not-bitcoin-s-cycle",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aosrx55ApfBgFcuyBMDqSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bankless_325/616c1e4be68c0cb22e5673b97b88f3ed.png",
-      "published_at": "2026-09-22T21:49:20Z"
-    },
-    {
-      "id": "376ad51f-8312-43e8-b09a-690401c80e7b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Meta’s new AI agent just got me $250 in flight credits",
-      "summary": "In the Loop host Ejaaz Ahamadeen recounts how Muse, Meta's (META) new AI agent, helped get him $250 in flight credits and rebooked a new flight after his original flight was delayed, demonstrating how users can now interact with an agent that handles web-based tasks on their behalf and shifts the role of the operational driver from human to AI.",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/meta-ai-agent-just-got-214556275.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vPGxYwHXvE_t8Sm3g1scpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/260922-site-wide-intheloop-muse-al00-08-02-06still004_7837.jpg",
-      "published_at": "2026-09-22T21:45:56Z"
-    },
-    {
-      "id": "8838f2fd-b8ba-3dc9-bf9c-4f5478e58c8b",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "3 Monthly Income ETFs to Buy Once That Have Paid You Every Single Month for More Than a Decade",
-      "summary": "Three covered call ETFs have deposited cash into investor accounts every single month for up to twelve years running, surviving a pandemic and multiple bear markets without missing a beat. The fund most income screens ignore has quietly outperformed the two obvious choices by a wide margin.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/09/22/3-monthly-income-etfs-to-buy-once-that-have-paid-you-every-single-month-for-more-than-a-decade/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ht.6gKhxWZ5_a9c1zuL_.w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b.jpg",
-      "published_at": "2026-09-22T21:45:44Z"
-    },
-    {
-      "id": "a287d33f-cdfa-3989-b068-ce3c4d614154",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "WSJ Dollar Index Rises 0.04% to 96.23",
-      "summary": "FOREIGN EXCHANGE The WSJ Dollar Index is up 0.04 point or 0.04% today to 96.23 —Up for three consecutive trading days —Up 0.17 point or 0.17% over the last three trading days  —Largest three-day point and percentage gain since Friday, Sept.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-on-hopes-for-u-s-iran-negotiations-95e21ec2?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-09-22T21:30:00Z"
-    },
-    {
-      "id": "ce4f9669-2a24-35ce-b708-5d908f75dbb0",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Ripple (XRP) Bounces Back for the Month After Losing 8% on the Senate Vote",
-      "summary": "XRP clawed back from a brutal Senate vote that sent it plummeting, but the real question is whether actual investors are driving this recovery or if it rests on the shakiest foundation in crypto trading.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/ripple-xrp-bounces-back-for-the-month-after-losing-8-on-the-senate-vote/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lTZ5WlxUJNCxSlnnb.Fig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/971a407aa487645b2d1c4ca0900abb4d.jpg",
-      "published_at": "2026-09-22T21:29:38Z"
-    },
-    {
-      "id": "08672482-d725-3f7c-bad8-b50f8413ec0d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Trump considers diesel export ban in threat to UK",
-      "summary": "Donald Trump has said he would back a ban on US diesel exports in a move that threatens to drive up fuel costs for British drivers.",
-      "source": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/trump-considers-diesel-export-ban-212629349.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/V.oKVNlEkO7fVdepDKzsKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_telegraph_818/3b67d0a7e53140d2e8d12e2bb53992e4.jpg",
-      "published_at": "2026-09-22T21:26:29Z"
     }
   ]
 }
