@@ -1,8 +1,228 @@
 {
-  "last_updated": "2026-09-27 15:44 UTC",
+  "last_updated": "2026-09-27 19:29 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "16c5af96-5458-3116-a8f6-cb4645b5f10b",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "If You'd Invested $10,000 in Netflix (NFLX) 5 Years Ago, Here's How Much You'd Have Today",
+      "summary": "The industry disruptor hasn't been a market-beating investment for its shareholders.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/27/you-invest-10000-netflix-nflx-5-years-ago-how-much/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8NCgSgSoJ8CoagphEe14Qw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2f18641167fe0a3eb15b238222866682.png",
+      "published_at": "2026-09-27T19:23:00Z"
+    },
+    {
+      "id": "e902f826-004d-3ec5-bce0-d8a2e2d61cfc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Wall Street Thinks SpaceX Is a Buy. Here Are 2 Reasons I'm Not So Sure.",
+      "summary": "SpaceX is currently valued at roughly $2 trillion.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/27/wall-street-spacex-stock-buy-reasons/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vroSEzSe7fI6pkfKXlCGpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/871939996c8f28e3794a1314a4f88aa5.jpg",
+      "published_at": "2026-09-27T19:18:00Z"
+    },
+    {
+      "id": "29d09feb-cb75-3e7c-a25f-2c44214d5858",
+      "asset": "QQQ",
+      "asset_name": "Nasdaq 100 ETF",
+      "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+      "summary": "The ten-year Treasury yield just hit levels that should be crushing growth stocks, yet the Nasdaq-100 keeps refusing to fall. The reason comes down to six companies whose balance sheets are rewriting the rules of how rate pressure actually transmits.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/27/why-the-nasdaq-refuses-to-break-even-with-treasury-yields-above-five-percent/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nFU_fXb5o94WlSBRbEp3LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c6aec1bd430c7d2a03ac7590008ecd9d.jpg",
+      "published_at": "2026-09-27T19:15:23Z"
+    },
+    {
+      "id": "5bff25c2-d90b-3659-ae1a-e138bbbe39c5",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday?",
+      "summary": "China weighs letting Alibaba and ByteDance buy Nvidia's RTX PRO 5500. Here is what it means for NVDA stock Monday.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/china-nvidia-chips-nvda-stock-monday/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MxmGfonAv4weR2p14t.qwg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e568428b2b79d498ccea900fe7f78261.jpg",
+      "published_at": "2026-09-27T19:00:00Z"
+    },
+    {
+      "id": "78f8d282-62f1-306f-b4f6-c8173a988b8a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "This Asset Manager Stock Gets Paid on Money It Never Owns. Could It Set You Up for Life?",
+      "summary": "Managing investments may not quite be the business you think it is.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/27/asset-manager-stock-paid-money-blackrock/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/tMHfmpoYCNiM8dgJe7y04w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/9464e576a3bb5d765f0f1501f77d98e2.jpg",
+      "published_at": "2026-09-27T18:53:00Z"
+    },
+    {
+      "id": "fb900f42-3f91-33a1-816e-6fb3dc9e2155",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Ford Motor vs. Tesla: What Revenue Trends Reveal About These Automotive Titans",
+      "summary": "Ford's revenue remains roughly double Tesla's, yet the gap has narrowed noticeably over eight quarters as Tesla's growth accelerates.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/09/27/ford-motor-vs-tesla-what-revenue-trends-reveal-about-these-automotive-titans/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZQv1iQtpNiGhfDC3WL9CDw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c06108aafe816e5eedcce689e2237a4d.png",
+      "published_at": "2026-09-27T18:42:56Z"
+    },
+    {
+      "id": "473106f6-6763-38d5-b898-3f7ff08d4b61",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+      "summary": "Futures loom with President Trump making hawkish and dovish Iran comments. Micron, SpaceX and Tesla are near buy points with news due.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jbvFxgfmvGMy9IMo.ffIXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/82b3f81c27f1c7a4099199dae86f4c38.jpg",
+      "published_at": "2026-09-27T18:41:10Z"
+    },
+    {
+      "id": "67a277d2-dd61-3100-9d88-b534d30d6287",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Bill Gates doubles down on AI warning after decades of optimism",
+      "summary": "The Microsoft co-founder spent 50 years selling the future. His latest message about it is much harder to hear.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/bill-gates-doubles-down-on-ai-warning-after-decades-of-optimism",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ol9e8mlPRKscrQIOv7k73Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b79b48b7ef4f6d82c8df88db181e4240.jpg",
+      "published_at": "2026-09-27T18:33:00Z"
+    },
+    {
+      "id": "baf24221-efc0-3a74-abad-991b77bd9bdc",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia (NVDA) Stock Could Trade At A Discount Despite Its 10x Run",
+      "summary": "NVIDIA Corporation has become one of the defining stocks of the AI buildout, and the latest question for investors is whether its current price can be explained by the cash flows its chips and software are expected to generate. Over the past 5 years, NVIDIA has delivered a return close to 10x, which puts a lot of pressure on the underlying cash flow story to keep justifying that kind of share price reset. New collaborations across autonomous trucking, quantum computing and AI data centers...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-could-trade-180708684.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wyCeDloEwNLtzKPoku9osA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/e6251d5b66a3d9915d9c3c1b9b27c900.jpg",
+      "published_at": "2026-09-27T18:07:08Z"
+    },
+    {
+      "id": "b2c1930f-de7d-3c81-8260-7b8d771107dd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Lululemon (LULU) Stock Is 80% Below Its All-Time High: 1 Metric That Shows How Bearish Wall Street Has Become.",
+      "summary": "Once a high-flying stock posting huge returns, this premium apparel brand has fallen out of favor.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/27/lululemon-lulu-stock-1-metric-wall-street-bearish/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hWRYGs6CGRySAS7yMWgm4Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b78c677589c035291827ecb9a1fc9b40.jpg",
+      "published_at": "2026-09-27T18:05:00Z"
+    },
+    {
+      "id": "8ffc20e4-dbcf-38a5-bcd8-32764de8422c",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "AI’s $10 Trillion Buildout Will Reach 3.6% of GDP. Who’s Going to Pay for It?",
+      "summary": "Big Tech is funneling nearly $200 billion into AI infrastructure every single quarter, a share of the economy larger than the entire railroad expansion. But the balance sheets tell a more complicated story about who is actually footing the bill.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/27/ais-10-trillion-buildout-will-reach-3-6-of-gdp-whos-going-to-pay-for-it/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UhF5RjG94EYFBwSWvTqvhA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+      "published_at": "2026-09-27T17:51:51Z"
+    },
+    {
+      "id": "7da47e72-8d30-3c9d-9734-34db3a1a023c",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Is VOO Near an All-Time High a Better Buy Than Lululemon Stock Trading Under $105 Per Share?",
+      "summary": "Value investors might lean toward the apparel stock, but that's a risky proposition.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/27/is-voo-near-an-all-time-high-a-better-buy-than-lul/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kptRajnvEX0_6S7Wwf1lXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/19d07e0ee94c40262fcbd2bac37649eb.jpg",
+      "published_at": "2026-09-27T17:38:00Z"
+    },
+    {
+      "id": "97d2178d-8f8f-3221-9890-51ad9b49c2dd",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Michael Burry sends a stark warning to Big Tech stock investors",
+      "summary": "Michael Burry just went through five balance sheets and came back with a warning nobody on Wall Street wants to hear.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/michael-burry-sends-a-stark-warning-to-big-tech-stock-investors",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/GI0SIMiznbSHk4zP4QlkQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b87af4b564f0fd4d6bc6487334375ecd.jpg",
+      "published_at": "2026-09-27T17:33:00Z"
+    },
+    {
+      "id": "73c96d78-eaed-3e83-869b-ffcd78a3704a",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "China may permit Alibaba, ByteDance to buy new Nvidia chips – The Information",
+      "summary": "Investing.com -- The Chinese government has indicated it may allow companies like Alibaba Group Holding Limited and ByteDance Limited to buy Nvidia’s new RTX Pro 5500 chips, according to a report by The Information.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/china-may-permit-alibaba-bytedance-173017962.html",
+      "thumbnail": "",
+      "published_at": "2026-09-27T17:30:17Z"
+    },
+    {
+      "id": "4a9f4292-5f4b-3970-a173-a8fcf18b6abd",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Costco Costs More Than $920 a Share. Here's Why I'd Still Buy One.",
+      "summary": "The warehouse club operator is a bargain, even if its price tag and valuation might seem high.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/27/costco-costs-more-than-920-a-share-heres-why-id-st/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Qk0Y0R1.7KAltGv6zphWyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b75978dc16287c9cbaf97a5ad9f22f69.jpg",
+      "published_at": "2026-09-27T17:27:00Z"
+    },
+    {
+      "id": "867d5ca4-11e6-32b4-9bea-e545ef2e8286",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft just sent a strong message to Anthropic",
+      "summary": "Microsoft made a move on September 25 that its biggest AI rival will have a hard time ignoring.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/technology/microsoft-just-sent-a-strong-message-to-anthropic-copilo-dario-amodei-satya-nadella",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/51gtJTOFRW0A6MNgBMikGg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/6975b605e296601a9b4f1754b03f182c.jpg",
+      "published_at": "2026-09-27T17:17:00Z"
+    },
+    {
+      "id": "8b856d97-b3d1-3a90-af7d-f776a4536923",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+      "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/27/qualcomm-stock-has-an-opportunity-investors-may-be-underestimating/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/y1a7.S02S4XYLLp_M7q5tQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/82b97906c198aba8ecf69c54eb07f25d.jpg",
+      "published_at": "2026-09-27T17:00:41Z"
+    },
+    {
+      "id": "897e3ebe-f498-3603-90aa-3bda47c4c78e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Is It Too Late to Buy XRP After a 42% Rally in Two Months?",
+      "summary": "XRP just posted one of crypto's sharpest two-month runs, but late buyers face a tricky setup with key support and resistance levels closing in on both sides.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/is-it-too-late-to-buy-xrp-after-a-42-rally-in-two-months/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DApRdtqKRZVOYkm2WwKXaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a10743c92de1dc9b0ca77811083183a0.jpg",
+      "published_at": "2026-09-27T16:24:50Z"
+    },
+    {
+      "id": "4311b5dc-f141-371c-bd4d-9c9ca37d190e",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Hyperliquid vs Solana: Which Has More Upside by 2030?",
+      "summary": "Hyperliquid has exploded while Solana stumbles, but hidden token supply and insider unlocks could flip the entire picture before 2030 even arrives.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/hyperliquid-vs-solana-which-has-more-upside-by-2030/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6AOrdljY0HiRUKHeD_D14A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/ad36e5adaf7d02fdd1175fd35665cf88.jpg",
+      "published_at": "2026-09-27T16:15:55Z"
+    },
+    {
+      "id": "98dfa0d9-2d07-3c9e-99e4-0ff8554da299",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "3 Oil Producer Stocks Investors Are Watching For Crude Price Exposure",
+      "summary": "Oil markets are being pulled between closed shipping lanes, missile headlines and cautious diplomatic signals, and that mix is reshaping where risk and resilience sit in portfolios. Price swings in crude can quickly reprice producers, refiners and even companies tied to shipping or storage, so sitting on the sidelines can mean missing sharp moves. This article walks through 3 stocks from the Global Energy & Oil Producers screener that appear especially exposed to the current news flow, and...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/3-oil-producer-stocks-investors-161010353.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eKG_7UDF30nIVlgFuQaUkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/04f4d884213644d02409dfe16895b12d.jpg",
+      "published_at": "2026-09-27T16:10:10Z"
+    },
     {
       "id": "79725748-a4ac-3a56-903f-8a664002ad06",
       "asset": "BTC",
@@ -13,17 +233,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/grant-cardone-says-commercial-real-estate-faces-historic-crash-sees-bitcoin-as-a-complementary-asset/cZMiAB8RBfJ",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.tLmRdJt5qLRrFmpzPAUuQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/add3229e6a9765a251e1cb0874997412.jpg",
       "published_at": "2026-09-27T15:38:01Z"
-    },
-    {
-      "id": "b3b983d9-59b1-342c-9497-94d5c65c82df",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Green Thumb Industries: Is This Profitable Cannabis Stock Still Undervalued?",
-      "summary": "Green Thumb is profitable, cash-generative, and still reasonably valued.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/green-thumb-industries-is-this-profitable-cannabis/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i9CIsWpDVQOUYmqLGYThyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fb5eea9ca985e9c403700f11231cf8e0.jpg",
-      "published_at": "2026-09-27T15:37:00Z"
     },
     {
       "id": "7591f02f-ea32-320b-9f2c-3e149eaf7fa9",
@@ -48,70 +257,15 @@
       "published_at": "2026-09-27T15:28:56Z"
     },
     {
-      "id": "93aeff2e-c11c-3ed7-9ddb-56457eba363d",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
-      "summary": "Sept 27 (Reuters) - The Chinese government has signaled it could allow some domestic companies like ByteDance and Alibaba to buy a new Nvidia chip built for high-end professional computers, The",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/china-weighs-allowing-bytedance-alibaba-152402813.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/kj5xDKoMDEEYzcfY0j1vmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/0348a9797d514526f54adbf834b5ce81.jpg",
-      "published_at": "2026-09-27T15:24:02Z"
-    },
-    {
-      "id": "1e59a020-b9a8-3bc9-80e6-d6f5570011ef",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Intel CEO Lip-Bu Tan Has Incredible News for AMD Stock Investors",
-      "summary": "The demand for Intel's server CPUs is exceeding supply by a big margin.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/intel-ceo-lip-bu-tan-has-incredible-news-for-amd-stock-investors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MU_RdNOw1bOe29qjLi01mQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e7095e3b8a4ee92bfdd9a9c3a30d57fb.jpg",
-      "published_at": "2026-09-27T15:23:01Z"
-    },
-    {
-      "id": "f05d7270-4a00-3053-bddb-a3d22492e3b9",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "10-Year Treasury Yields Are Back Over 5% After the Fed Raised Rates. 3 Reasons Why This S&P 500 Dividend Stock Is a Better Buy for Long-Term Passive Income Investors",
-      "summary": "This monthly dividend payer has raised its payout 136 times since 1994, and new data center and European deals could fuel further growth.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/10-year-treasury-yields-are-back-over-5-after-the/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/msYCSzK.4O9R1fB7DC183Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/67083707062fee9d35d246108d4a044c.jpg",
-      "published_at": "2026-09-27T15:23:00Z"
-    },
-    {
-      "id": "d5c8589e-4007-3341-aebc-916ca1d7a296",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The S&P 500's CAPE Ratio Just Hit Its Highest Level Since the Dot-Com Bubble. Here's What That's Historically Meant for Dividend Stocks.",
-      "summary": "Dividend growth stocks have historically weathered market storms.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/the-s-and-p-500-s-cape-ratio-just-hit-its-highest-level-since-the-dot-com-bubble-here-s-what-that-s-historically-meant-for-dividend-stocks/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FASbc9E3E7iLyLPgmP1fdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ccfd8e1b0a3a9e161c3ba8e80790e0db.jpg",
-      "published_at": "2026-09-27T15:20:02Z"
-    },
-    {
-      "id": "473106f6-6763-38d5-b898-3f7ff08d4b61",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",
-      "summary": "Growth stocks have shrugged off Treasury yields, while Micron, SpaceX and Tesla are near buy points with big news due. Trump rejects an Iran deal.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Po5_Kd5eiNLlcSguB5Xn4w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/9d0ea0e70d3a601394104d5a39027ed9.jpg",
-      "published_at": "2026-09-27T15:08:57Z"
-    },
-    {
-      "id": "c450503d-ef1f-3a8b-87f4-6f74351a04cd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Investors Should Be Bullish on Meta Platforms and Its AI Strategy",
-      "summary": "Meta is catching up with AI competitors, and investors are noticing.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/why-investors-should-be-bullish-on-meta-and-its-ai/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zy.f.MP7_L3hFqEPSfJcpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c4a881b68b2f369e61151ef3e4ca86fc.png",
-      "published_at": "2026-09-27T15:05:00Z"
+      "id": "5b5c31c6-0faa-32ca-9621-24f100b434b7",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Microsoft's Gates Says AI Needs Regulation",
+      "summary": "Microsoft co-founder Bill Gates says lawmakers need to take the reins and regulate the development of artificial intelligence, days after CEOs of some of the most prominent AI labs called for a slowdown in the pace of development.  \"No one thinks self-regulation is enough,\" Gates told NBC's Meet the Press in an interview that aired on Sunday.  \"You need law enforcement and the politicians to get into the discussion about what safeguards and monitoring look like,\" Gates told the show.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/sunday0927/card/microsoft-s-gates-says-ai-needs-regulation-5fZjmwC7wj620t3UOLJC?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HHwc2jgLBdNgcqVuof1_nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+      "published_at": "2026-09-27T15:20:50Z"
     },
     {
       "id": "3f05b7ea-3f19-3315-b451-530f116a9d66",
@@ -136,17 +290,6 @@
       "published_at": "2026-09-27T14:57:47Z"
     },
     {
-      "id": "3f92e093-1e98-3578-897a-60b01f6cbd42",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Fed Just Raised Interest Rates: These 2 ETFs Could Be the Smartest Buys Right Now",
-      "summary": "They are expected to go up again in October.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/the-fed-just-raised-interest-rates-these-2-etfs/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/no20OMZ_9V1hw_uYsJ96Zw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a3a3df0df83ef032c61093aa45be2bdd.jpg",
-      "published_at": "2026-09-27T14:50:00Z"
-    },
-    {
       "id": "044962cf-945b-3baa-991b-431bb9a9159e",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -167,149 +310,6 @@
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-eyes-90k-as-etfs-post-best-week-since-oct-2025/cZMiYx0RBf7",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/lPSLefmH8LW_v78Y_TeFhQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/0c10a691b0fab5b7ff324e1638339cf5.jpg",
       "published_at": "2026-09-27T14:47:36Z"
-    },
-    {
-      "id": "608d26d8-a8da-3f47-b8d3-336bff3580f2",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Bank of America cuts Carnival stock target as key cost surges",
-      "summary": "Carnival’s comeback runs into an expensive new problem",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/bank-of-america-cuts-carnival-stock-target-as-key-cost-surges",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eHBKN6aqKeoDewkUZ0GsNw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/e238503a0d411f41e6b201b5800d7a54.jpg",
-      "published_at": "2026-09-27T14:37:00Z"
-    },
-    {
-      "id": "6c283d63-2222-34af-ae85-62fc7316ec66",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Greg Abel Just Broke Berkshire's 14-Quarter Streak of Net Stock Sales, Buying a Net $20 Billion Last Quarter. What That Reversal Means for Berkshire's Portfolio.",
-      "summary": "Greg Abel began using Berkshire Hathaway's cash hoard, suggesting that the portfolio may be where he wants it.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/greg-abel-just-broke-berkshires-14-quarter-streak/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZEIFm_AWyA952qAEipcr5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d2d0d91a1f1ffaa995d4b77bd3e04cfe.jpg",
-      "published_at": "2026-09-27T14:35:00Z"
-    },
-    {
-      "id": "e95a5b13-083c-3ff6-ade5-8bbd73739fec",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "UBS Forecasts Silver at $80 by September 2027 as Gold and Industrial Demand Provide Support",
-      "summary": "UBS expects silver prices to remain closely linked to gold and forecasts the metal reaching $80 per ounce by September 2027, citing investment demand, industrial consumption and constraints on supply growth. Strategist Dominic Schnider said silver has continued to move in line with gold, with the correlation between the two precious metals near multi-year highs.",
-      "source": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/36892/ubs-forecasts-silver-at-80-by-september-2027-as-gold-and-industrial-demand-provide-support",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Xj.FuKyyv14v_jjHRAK1JQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/investorshub_458/c784fd45e83704759e1bd79925983de7.png",
-      "published_at": "2026-09-27T14:28:21Z"
-    },
-    {
-      "id": "3cce4d5e-ba6a-334c-bb6d-67aebcb5f618",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Is It Too Late to Buy Bitcoin After a 32% Rally in Two Months?",
-      "summary": "Bitcoin just posted its strongest two-month surge of the year, yet buyers from 2025 are still sitting on massive losses. Whether this rally signals a genuine recovery or a trap for late investors comes down to a few critical price levels.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/is-it-too-late-to-buy-bitcoin-after-a-32-rally-in-two-months/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/z3LpFpFX3fUXU9i3Amt.VA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/c37991d46e9f32506b46fcdfce6ee930.jpg",
-      "published_at": "2026-09-27T14:25:30Z"
-    },
-    {
-      "id": "a69e2a13-866f-35ec-bc90-0f9cdbc319d2",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "The Math Doesn't Lie: What It Really Costs to Generate $300 in Dividend Income From Southern Company Stock",
-      "summary": "The utility company lives up to the industry's reputation for producing good -- though not thrilling -- investment income.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/the-math-doesnt-lie-what-it-really-costs-to-genera/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nRpQd0.KTBYFA7Vryowkzw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1293877a7bfc52c829b14af219b36067.jpg",
-      "published_at": "2026-09-27T14:15:00Z"
-    },
-    {
-      "id": "f031f768-f7d3-3d4b-bfa5-7c6826ffceac",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "XRP Is Up 46% in Three Months and Still Down 17% for 2026. Can It End the Year Green?",
-      "summary": "XRP has clawed back nearly half its losses with a sharp three-month rally, but the road to finishing 2026 in the green runs through a math problem that gets harder every week it waits.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/xrp-is-up-46-in-three-months-and-still-down-17-for-2026-can-it-end-the-year-green/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lTZ5WlxUJNCxSlnnb.Fig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/971a407aa487645b2d1c4ca0900abb4d.jpg",
-      "published_at": "2026-09-27T14:14:13Z"
-    },
-    {
-      "id": "9e5a4a0e-4d47-32f7-a60e-3cb3fc49123f",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Why Humanoid Robots Might Be the Future of Elder Care",
-      "summary": "The US spends roughly $400 billion a year on long-term care, and for every 100 people over 65, only four formal caregivers exist. Humanoid robots like Abi, built by Andromeda to provide emotional companionship for dementia patients, are an early attempt to ease that pressure. Andromeda COO Jennifer Haroon, Brookings researcher Gopi Goda, 1X Chief Designer Dar Sleeper, and Nvidia's Kimberly Powell discuss whether robots can truly help solve the elder care crisis, or whether the technology still has too far to go.",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/why-humanoid-robots-might-future-141046631.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LK81zDN6V4iPYc11e_vnDQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_video_2/f5dbdd445cf4fee21acf891be41deb0e.jpg",
-      "published_at": "2026-09-27T14:10:46Z"
-    },
-    {
-      "id": "21cf21a4-61fc-3077-9574-4b01cebd735f",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Reports Q3 Deliveries in Early October. Here's the Number That Would Send the Stock Soaring.",
-      "summary": "The company's deliveries report is eagerly awaited, as it offers a sneak peek at its third-quarter earnings.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/tesla-reports-q3-deliveries-in-3-weeks-heres-the-n/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9Wf5.cjWkuGl76Q0OzomCQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f260e8e2515efc8cbdc133252b535acd.png",
-      "published_at": "2026-09-27T13:44:00Z"
-    },
-    {
-      "id": "8261ff3a-7751-38e7-87e4-65cf6b06e578",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "This Magnificent Seven Stock Could Reach a New All-Time High",
-      "summary": "AWS just posted its fastest growth in 18 quarters and CEO Andy Jassy is talking about a trillion-dollar revenue business, yet the stock sits well below where our model says it should be trading.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/27/this-magnificent-seven-stock-could-reach-a-new-all-time-high/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.V0uozTWZMjd18SzKOX_0A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/0690525a454b5f6f30641250e742a388.jpg",
-      "published_at": "2026-09-27T13:30:06Z"
-    },
-    {
-      "id": "a322b25a-53fb-357d-b980-463cf5eca3ad",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Crypto Hacks: Three Projects Hacked in One Day as Losses Hit Over $11M",
-      "summary": "​Three crypto projects were attacked on September 24, suffering combined losses of more than $11M. Attackers drained around $1.8M from Payy Network, stole $7M from Duelbits, and minted $2.3M in unbacked tokens on the Meter network; these three are the latest crypto hacks to hit the industry.The incidents affected different ...",
-      "source": "Cryptonews",
-      "url": "https://cryptonews.com/news/crypto-hacks-three-projects-hacked-in-one-day-as-losses-hit-11m/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EtOa.Y6vdWgscFe4q1xrHw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/503f9097028d012e9fc6dcc586f95485.jpg",
-      "published_at": "2026-09-27T13:30:00Z"
-    },
-    {
-      "id": "262ee3a3-4239-3a76-a09f-a6fb2bf24ed9",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Does the S&P 500 Have a \"Magnificent Seven\" Problem? Here's What Investors Need to Know.",
-      "summary": "If the artificial intelligence revolution doesn't live up to the hype, the whole market is going to feel it.",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/27/does-the-sp-500-have-a-magnificent-seven-problem-h/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ndGGaj5mfNNOcRTbC91e7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/216b4639eba90a3ebc7bfd226f55da97.jpg",
-      "published_at": "2026-09-27T13:09:00Z"
-    },
-    {
-      "id": "01e07044-c7f0-3c1b-846f-80ca21c73c74",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Riot Platforms (RIOT) Terminates Its Secured Credit Agreement",
-      "summary": "Riot Platforms (NasdaqCM:RIOT) has voluntarily prepaid and terminated its secured credit agreement with Coinbase Credit. The termination fully satisfies Riot Platforms' obligations under the facility and releases collateral that had been pledged as security. This move removes a debt facility from Riot Platforms' capital structure and alters restrictions on previously encumbered assets. The decision to clear the Coinbase Credit facility reshapes Riot Platforms' financing mix against a broader...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-terminates-secured-130653252.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DMX5XIy4RUOYFDGFws5Z0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/43e1667cb7476cb45f84db58a8de8d48.jpg",
-      "published_at": "2026-09-27T13:06:53Z"
-    },
-    {
-      "id": "b6246e00-fa5e-3b30-9adb-4b9526e4ede2",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Apple’s Tiny iPhone, Watch Feature Just Triggered A $5.7B Legal Blow — What Investors Need To Know",
-      "summary": "A federal jury in San Diego found Apple infringed two Taction Technology patents covering haptic technology.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/apple-iphone-watch-feature-haptics-5-7b-patent-infringement-case/cZMiFdwRBfI",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/C.0OacDBI0k9_eLO3EFDJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/13fd1f1e43b1ed48ebe8e2f9ec798b33.jpg",
-      "published_at": "2026-09-27T13:02:54Z"
     }
   ]
 }
