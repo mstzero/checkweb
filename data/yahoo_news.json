@@ -1,8 +1,151 @@
 {
-  "last_updated": "2026-09-30 20:29 UTC",
+  "last_updated": "2026-10-01 00:08 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "958fb542-74b3-3d16-bde8-baba1e31461e",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+      "summary": "The Nasdaq faded while the S&P 500 fell to its 50-day as Treasury yields keep running. Micron earnings easily beat views.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wFGKHQ6nxbys7sP8OvGy8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2b18bc6a2254941f70591a54e89a49b0.jpg",
+      "published_at": "2026-09-30T23:38:19Z"
+    },
+    {
+      "id": "5f8c3f78-6a36-3cd0-b972-d293c4e81a10",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
+      "summary": "Monthly bills don't care about quarterly dividend schedules, and one S&P 500 ETF built its entire identity around solving that mismatch. But the convenience of a monthly paycheck comes with a cost that decade-long performance data makes impossible to ignore.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/09/30/forget-waiting-three-months-for-spys-dividend-invescos-high-dividend-fund-pays-every-month/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dHSc7fo3mC3gPbJdNtXMmQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d8bb12829fe74553ece940e4658d3204.jpg",
+      "published_at": "2026-09-30T23:06:29Z"
+    },
+    {
+      "id": "3c6ab0de-8d27-3149-82b9-ff8a418deaa8",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Tech CEOs Privately Questioned Amodei for Sounding AI Alarm Bells",
+      "summary": "Nvidia CEO Jensen Huang was among the executives at Tuesday’s White House event who called out the Anthropic leader for his warnings about the technology’s capabilities.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YANUZRt9jGDGGnHTpNhptQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/9bc148dd0c91de8bec3c99ea06d9b2b2.jpg",
+      "published_at": "2026-09-30T22:38:00Z"
+    },
+    {
+      "id": "dada7f68-c452-3c60-8858-0b3d59b1dcf4",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Crypto Kicks Off Q4 With More Momentum Than Stocks or Gold: Which Will Carry Bitcoin, XRP, or Solana the Furthest?",
+      "summary": "Bitcoin broke its worst seasonal pattern, XRP is drawing fresh institutional money, and Solana is quietly outpacing both on a key metric that tends to predict which coin moves first when a rally gets real.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/30/crypto-kicks-off-q4-with-more-momentum-than-stocks-or-gold-which-will-carry-bitcoin-xrp-or-solana-the-furthest/",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZrGMiuhAo2.MCXe6cd3iuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/200ec583fd15519de472f6adba8577e3.png",
+      "published_at": "2026-09-30T22:14:59Z"
+    },
+    {
+      "id": "fa483d48-7b98-3e1d-89d6-60fa71419de4",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "In AI Race, Software Is Now Winning Alongside Chips",
+      "summary": "Services like Meta’s Muse AI just increase demand for chips. But they’re also a big win for software",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZHASjq9rnAh9DTIBsYLTnQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/642474d7e4686878e507f7efb9a70569.jpg",
+      "published_at": "2026-09-30T22:05:00Z"
+    },
+    {
+      "id": "25085ad0-de12-3c1e-bb6e-3ff917f4cadb",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "WSJ Dollar Index Falls 0.50% This Quarter to 97.04",
+      "summary": "FOREIGN EXCHANGE The WSJ Dollar Index is down 0.49 point or 0.50% this quarter to 97.04 —Largest one-quarter point and percentage decline since the 2nd quarter 2025 —Snaps a four-quarter winning streak  —This month it is up 1.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-reduced-fed-rate-hike-bets-0a3f4e49?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-09-30T21:34:00Z"
+    },
+    {
+      "id": "9bef82b0-bc35-31b4-a05e-cfa3a8677db4",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Moderna, Cerebras, Jabil, HPE, Cal-Maine, Mattel, and More Stocks That Explain Today’s Market",
+      "summary": "Moderna falls after Citi downgrades shares to Sell from Hold, saying its recent rally has gone too far.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-81984569?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Z_lQK0rj4d0ZgAEHeOiItg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/827d4435d54131cdbd47ac6c002aa0a5.jpg",
+      "published_at": "2026-09-30T21:09:00Z"
+    },
+    {
+      "id": "28b9cb57-ecf6-3a30-a084-03d42662e487",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Predicted To Sell 6 Million iPhone Duo Handsets This Year",
+      "summary": "Apple is poised to sell 6 million units of the iPhone Duo, its first folding-screen smartphone, Counterpoint Research says. Apple stock rose.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-duo-2026-sales-forecast/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/C.BnLZzRpDYhmC3ymDRNyg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a6dc066c325a0c531f54e7d9f4737e99.jpg",
+      "published_at": "2026-09-30T21:06:15Z"
+    },
+    {
+      "id": "6f982775-a9dc-3e50-86f2-0a4313c1c6ce",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
+      "summary": "Stock Market Today: The Dow Jones index rises Wednesday on surprise inflation data. Micron earnings are due after the close.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-earnings-mu-stock/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FOZ8ion1WQ_U7pwo81ifOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/d7d92a3fe44b5b53d05f7bde480ef5cb.jpg",
+      "published_at": "2026-09-30T20:54:22Z"
+    },
+    {
+      "id": "bfc986c9-882d-37d4-bf1a-0aeb1f547a5f",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "What Changed In Marvell's Story?",
+      "summary": "Marvell Technology (MRVL) stock returned 201% in the past year, against 17.7% for the S&P 500. Investors value it as an AI data center chip company at 85.6 times earnings, versus 22.1 for the S&P 500. Investors paying that multiple are counting on data center growth staying fast. Management used to tell a second growth story too, and it no longer leads with that story. So what did Marvell's management stop leading with.",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/articles/616923/what-changed-in-marvells-story/2026-09-30",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/eXp05OuoVJA8Tys2DuZ9NQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/e30908581a8d280b4f851dd47443fa5d.jpg",
+      "published_at": "2026-09-30T20:52:26Z"
+    },
+    {
+      "id": "abad5bc8-3bcf-36a6-9e23-0c15c2107b86",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
+      "summary": "By Chuck Mikolajczak and Shashwat Chauhan NEW YORK, Sept 30 (Reuters) - Nasdaq climbed on Wednesday and the S&P 500 dipped, but both indexes notched their second straight quarterly gains, as a softer-",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NW4M3b5ohVFMrpe2rCa.AQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/b00e4893fcd896430d9dd3c54b4568b4.jpg",
+      "published_at": "2026-09-30T20:35:11Z"
+    },
+    {
+      "id": "575c9dc2-e66b-3ef0-a064-51046290e01b",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "SpaceX Just Got a Little Closer to a Tesla Merger",
+      "summary": "Tesla is changing the voting rules for retail shareholders, which would make it easier to pass board-approved recommendations.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/spacex-tesla-stock-merger-bb985d61?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/zez3r_u_dh3CBz0jumqHqA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a5c4df96402ace17c951db0587c8694f.jpg",
+      "published_at": "2026-09-30T20:25:00Z"
+    },
+    {
+      "id": "d577f3fd-98fa-3537-a959-f420143a9942",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
+      "summary": "Helping to bridge and connect the AI and IoT worlds, Semtech flirts with a breakout to a record high as Nvidia, AMD also shine.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/semtech-stock-teases-record-high-nvidia-amd-enter-buy-range/?src=A00220&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.zts8wQV.TNIEj9NDiTZkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/7e6f8025cbcae1e6c49a7e0ebbd89d5f.jpg",
+      "published_at": "2026-09-30T20:19:14Z"
+    },
     {
       "id": "6ee1c8d3-ab42-350b-b17c-0bd63eab7408",
       "asset": "OIL",
@@ -26,17 +169,6 @@
       "published_at": "2026-09-30T20:09:25Z"
     },
     {
-      "id": "abad5bc8-3bcf-36a6-9e23-0c15c2107b86",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "S&P 500 dips, Nasdaq higher on modest rise in inflation",
-      "summary": "By Chuck Mikolajczak and Shashwat Chauhan NEW YORK, Sept 30 (Reuters) - Nasdaq climbed on Wednesday and the S&P 500 dipped, with both indexes notching their second straight quarterly gains, as a",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AhREzErZZv7iAbE8y6EUQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/7b62f7ce2accc0733a9ada9f412e7c34.jpg",
-      "published_at": "2026-09-30T20:00:53Z"
-    },
-    {
       "id": "ae25145f-ef23-3657-9350-fd79c5392b3f",
       "asset": "BTC",
       "asset_name": "Bitcoin",
@@ -48,15 +180,15 @@
       "published_at": "2026-09-30T19:57:11Z"
     },
     {
-      "id": "6f982775-a9dc-3e50-86f2-0a4313c1c6ce",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Stock Market Today: Nasdaq Up; Micron Holds Firm Ahead Of Earnings Report (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Wednesday on surprise inflation data. Micron earnings are due after the close.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-earnings-mu-stock/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FOZ8ion1WQ_U7pwo81ifOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/d7d92a3fe44b5b53d05f7bde480ef5cb.jpg",
-      "published_at": "2026-09-30T19:43:12Z"
+      "id": "d6ca315b-f3cd-32f0-bb1c-aab2385963ae",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation",
+      "summary": "The inquiry into OpenAI and Anthropic adds regulatory uncertainty as President Trump endorses voluntary AI safety commitments.",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ftc-openai-anthropic-ai-safety-investigation-8eb4be96?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dNfoHDM.Q._L.mqbTA6dTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e919bab2f1ea67cb7f4db84e3408deb2.jpg",
+      "published_at": "2026-09-30T19:47:00Z"
     },
     {
       "id": "0a1f5824-a742-3ab0-9658-05c1e0912fd0",
@@ -79,17 +211,6 @@
       "url": "https://247wallst.com/investing/2026/09/30/big-pharma-got-its-tariff-exemption-the-biotech-etf-barely-blinked/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dO_bouqVTxzpx295fZ8wiQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a9c8869e292415ac8443992179e706e0.jpg",
       "published_at": "2026-09-30T19:35:31Z"
-    },
-    {
-      "id": "d6ca315b-f3cd-32f0-bb1c-aab2385963ae",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation",
-      "summary": "The inquiry into OpenAI and Anthropic adds regulatory uncertainty as President Trump endorses voluntary AI safety commitments.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ftc-openai-anthropic-ai-safety-investigation-8eb4be96?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/dNfoHDM.Q._L.mqbTA6dTw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/e919bab2f1ea67cb7f4db84e3408deb2.jpg",
-      "published_at": "2026-09-30T19:26:00Z"
     },
     {
       "id": "47f039b7-146a-30b8-a794-d7a539007e17",
@@ -131,7 +252,7 @@
       "title": "Is Cerebras' Next Big Thing Already Here?",
       "summary": "Cerebras Systems (CBRS) sells AI hardware and rents out computing power through its own cloud. The shares trade 37.3% below their 52-week high, even though management raised its 2026 revenue forecast in August. Cerebras still reports a loss. Anyone buying the shares today is paying for growth still to come. So how much of that growth has Cerebras already signed.",
       "source": "Trefis",
-      "url": "https://www.trefis.com/articles/617172/is-cerebras-next-big-thing-already-here/2026-09-30",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-next-big-thing-already-191532128.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Et.jMiWN31n9pjLKgQVSEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/b873e06c110baeb7d29ba6df6ec3cafb.jpg",
       "published_at": "2026-09-30T19:15:32Z"
     },
@@ -189,127 +310,6 @@
       "url": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-fall-on-dovish-leaning-fed-speech-d6451171?siteid=yhoof2&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/32fBdpfL9igN9Yd2dIldXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/67e38a51a9a87c35ece68cf11bf179b4.jpg",
       "published_at": "2026-09-30T18:55:00Z"
-    },
-    {
-      "id": "afd2c986-1ecf-3d34-aaf7-b9c723e6fd62",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-      "summary": "Three automakers faced the same September market, yet one of them broke sharply from the pack while the other two suffered painful double-digit losses. Find out which company defied a brutal month for consumer stocks and what that split signals for investors.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/which-automaker-stock-dominated-in-september-tesla-ford-or-general-motors/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S9DoXcvXpE.oT12DzJVJ2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/e87a842b2a18ac4aea2b0e1f86683631.jpg",
-      "published_at": "2026-09-30T18:53:28Z"
-    },
-    {
-      "id": "fc7d19f6-6564-3f53-95f0-3bdb2c04d1a5",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "What Is The Case For Waiting On Qualcomm Stock?",
-      "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way. So is there a case for waiting before you buy Qualcomm.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/FWedEB5uKS5hXxfCjEqXuA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/trefis_142/819c7c9a1e17ab2ee1c33e599bcc2465.jpg",
-      "published_at": "2026-09-30T18:51:54Z"
-    },
-    {
-      "id": "d6faf529-9c58-395f-bcf8-e9869a9b09e9",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Comex Gold Ends the Quarter 3.30% Higher at $4155.60",
-      "summary": "Gold prices extended gains, supported by an easing dollar and falling U.S. Treasury yields, but remained on track for a monthly loss of more than 6%.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-steady-markets-await-u-s-economic-data-f233fc21?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8FSdswt4pir2EAQYTFEAzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8.png",
-      "published_at": "2026-09-30T18:42:00Z"
-    },
-    {
-      "id": "4fdc4933-9366-366d-a0cc-3b3194a9ccc7",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How This Beaten-Down Quantum Stock Could Rise 150%",
-      "summary": "Needham starts coverage of Pasqal at Buy, with analyst David Williams pointing to the quantum developer’s commercial traction and strong balance sheet.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/pasqal-stock-buy-quantum-computing-4e255a8c?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JGWHM0brJpWjYvV7J0o3Eg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c82e38606195c2b53a0bba086105ec13.png",
-      "published_at": "2026-09-30T18:23:00Z"
-    },
-    {
-      "id": "a6ca0bcb-1274-3f00-9c59-f0085bc18bcd",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "How Nvidia’s Big Win at Trump’s AI Lunch Will Help the Stock",
-      "summary": "Nvidia  CEO Jensen Huang just got a big win in the debate about artificial-intelligence regulation.  The stakes were high at the big AI lunch at the White House on Tuesday.  Proponents of stricter curbs on the technology—such as Anthropic CEO Dario Amodei—were set to clash with those like Huang who have insisted the industry should police itself.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-trump-add8d2b3?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pa.fDB_0wZXWDabNdyLX7w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/8e401b539a0de1018764080eee005bce.jpg",
-      "published_at": "2026-09-30T18:18:00Z"
-    },
-    {
-      "id": "c12a3093-09bc-35f6-97bf-a71ebaf50ba1",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Cerebras Stock Falls Again Because So Much Depends on OpenAI",
-      "summary": "The stock has fallen sharply from the highs reached after its initial public offering and OpenAI could contribute to a further fall.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/cerebras-stock-price-fall-openai-d3a73f92?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NW_Y_Qk2hR9alerqZAOs_g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/73877e94553edc85fb7fff4d3818864d.png",
-      "published_at": "2026-09-30T18:13:00Z"
-    },
-    {
-      "id": "f5f975f4-5e36-3a10-9e9d-2fb7f6f1e7df",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-      "summary": "Unity Software jumped after announcing day-one support for Meta's next-generation VR headset, but a timely product catalyst and a struggling business are not the same thing, and traders now face the harder question of which one matters more.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/unity-software-surges-5-as-traders-weigh-meta-platforms-vr-glasses-support-adobe-rises-3-intuit-adds-2/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S0tG2X2TZfHMCDJ6xObhLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2735f2220d54d5fc5123c2555af0ab20.jpg",
-      "published_at": "2026-09-30T18:12:02Z"
-    },
-    {
-      "id": "987682f7-3c46-35b5-a366-0dc5390c4029",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "OpenAI Faces Stunning Lawsuit Over Rogue AI Agent",
-      "summary": "A cybersecurity experiment has sparked a much bigger controversy",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-faces-stunning-lawsuit-over-180543065.html",
-      "thumbnail": "",
-      "published_at": "2026-09-30T18:05:43Z"
-    },
-    {
-      "id": "fb5ee3d0-2a54-3217-a90d-5900322f754a",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "New Apple CEO Makes Surprising Move After Tim Cook Exit",
-      "summary": "A familiar playbook may be nearing its biggest overhaul",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-makes-surprising-move-180443018.html",
-      "thumbnail": "",
-      "published_at": "2026-09-30T18:04:43Z"
-    },
-    {
-      "id": "e3a8e5a6-3b54-332b-88e7-fb9fe13d1174",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Arm Is Betting on a World Where Everything Needs a Chip",
-      "summary": "Arm's stock has surged 160% this year and its first in-house chip already has billions in orders, yet one hard number keeps analysts from calling it a buy.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/arm-is-betting-on-a-world-where-everything-needs-a-chip/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MW8d8o0TbauM7XcF438ylw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/f35921c44616eee36c3c07e2ae7f024d.jpg",
-      "published_at": "2026-09-30T18:00:32Z"
-    },
-    {
-      "id": "20fe7dea-5f62-33a0-bbc0-99ec5b63052b",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Bill Gates Sends Stark AI Warning to All Americans",
-      "summary": "The Microsoft co-founder says existing safeguards are no longer enough",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bill-gates-sends-stark-ai-175910675.html",
-      "thumbnail": "",
-      "published_at": "2026-09-30T17:59:10Z"
     }
   ]
 }
