@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-10-01 00:08 UTC",
+  "last_updated": "2026-10-01 06:19 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "0be1dfbd-ecac-3aa7-8248-4a81084adeb9",
+      "asset": "NVDA",
+      "asset_name": "Nvidia",
+      "title": "Meta reportedly calls its AI data centers ‘pilot models’ — its research tax credits jumped from $700M to $3.9B",
+      "summary": "The company appears to have netted the most from that credit among all publicly traded companies.",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-calls-ai-data-035500665.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MsJZE8XrLzrdHj_ErOipxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/c79fa9a42584acd60b70984ecdbf0fc7.jpg",
+      "published_at": "2026-10-01T03:55:00Z"
+    },
     {
       "id": "958fb542-74b3-3d16-bde8-baba1e31461e",
       "asset": "MSFT",
@@ -12,7 +23,18 @@
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wFGKHQ6nxbys7sP8OvGy8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/2b18bc6a2254941f70591a54e89a49b0.jpg",
-      "published_at": "2026-09-30T23:38:19Z"
+      "published_at": "2026-10-01T03:04:10Z"
+    },
+    {
+      "id": "6fef7041-1c07-314c-a604-8664b99904ff",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Elon Musk's Tesla Postpones Roadster Reveal Event to October 15, Cites Severe Weather Conditions",
+      "summary": "Tesla Inc. has confirmed that the upcoming Roadster reveal event, set to take place on October 1st, will be deferred to October 15. Unfavorable Weather In a post on X on Monday, Tesla’s official handle confirmed the delay. “We’ve been...",
+      "source": "Benzinga",
+      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musks-tesla-postpones-roadster-233017063.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RVxKav0nw5.8Qu5s8ycfrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c120377646dc8a1b4c77586278098b52.jpg",
+      "published_at": "2026-09-30T23:30:17Z"
     },
     {
       "id": "5f8c3f78-6a36-3cd0-b972-d293c4e81a10",
@@ -288,28 +310,6 @@
       "url": "https://247wallst.com/investing/2026/09/30/which-airline-stock-dominated-in-september-american-united-or-delta/",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8zOI1HzysIr1oTttLQMGTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5a6d74c06873178dacb3f2b20ad27d02.jpg",
       "published_at": "2026-09-30T19:03:40Z"
-    },
-    {
-      "id": "5e71219e-2dc2-3caf-986f-b01304afc642",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It",
-      "summary": "Consumer confidence just hit its worst level in over a decade, yet the stocks that depend on American shoppers are barely flinching. Understanding why that calm exists, and how long it can last, matters far more than the headline number.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/consumer-confidence-fell-to-its-lowest-level-since-2014-and-consumer-stocks-are-already-paying-for-it/",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/agCOBFydW07qZd_B74hUoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/1139182dc1ebf1f84d0f55d7e00def65.jpg",
-      "published_at": "2026-09-30T18:55:30Z"
-    },
-    {
-      "id": "c3d654c8-1a8f-348b-913c-871513d230fc",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Treasury Yields Hit Fresh Highs",
-      "summary": "U.S. Treasury yields reversed early declines and the bonds selloff resumed as an uncertain long-term outlook offset temporary inflation relief.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-fall-on-dovish-leaning-fed-speech-d6451171?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/32fBdpfL9igN9Yd2dIldXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/67e38a51a9a87c35ece68cf11bf179b4.jpg",
-      "published_at": "2026-09-30T18:55:00Z"
     }
   ]
 }
