@@ -1,18 +1,205 @@
 {
-  "last_updated": "2026-11-13 23:24 UTC",
+  "last_updated": "2026-11-14 03:26 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
     {
-      "id": "53e50dc8-f137-3f6c-bfd6-912334fef9f1",
+      "id": "983e78f7-b1ad-3c94-a802-5886d2c8ead0",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Hyperliquid Whales Flip Bullish On Bitcoin After Two Weeks of Shorts: Report",
+      "summary": "A third-quarter report from the Hyperliquid Research Collective showed average daily traders on Hyperliquid were up 20% from the previous quarter.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/hyperliquid-whales-flip-bullish-on-bitcoin-after-two-weeks-of-shorts-report/cNb2vZuR9Q4",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/dadd43c59d1484f1be3a70dec323141ccf5b128bc5bb27740d121bc632c7c870/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F6242d64a3d616159a813979cc392c166.jpg",
+      "published_at": "2026-11-14T03:11:11Z"
+    },
+    {
+      "id": "6a2a5c69-2c19-37a7-abb2-28f415c14855",
+      "asset": "ETH",
+      "asset_name": "Ethereum",
+      "title": "Arca’s Jeff Dorman Calls Vitalik Buterin’s ETH Store-of-Value Pitch ‘Really Misguided’",
+      "summary": "Arca's investment chief said his math accounts for about $50 billion of ETH's value, and the rest is \"just social value or hopium.\"",
+      "source": "Unchained",
+      "url": "https://unchainedcrypto.com/arcas-jeff-dorman-calls-vitalik-buterins-eth-store-of-value-pitch-really-misguided/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/10aeeb5314e49d5feaf595f750adf6940d5839e6f0f118cfaba27d29c16d8ac4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2Fa94b976db0d62fc3938aee3ce42f8176.jpg",
+      "published_at": "2026-11-14T02:52:00Z"
+    },
+    {
+      "id": "cb474d7a-790d-3f2e-9e23-844089b5ce94",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Nakamoto Gets Extra Year on 60 Million USDT Kraken Loan; Derivatives Count Toward Collateral",
+      "summary": "The bitcoin treasury company now has no principal due in 2026, and by Unchained's math the bitcoin it had pledged as of Sept. 30 covers the 165 million USDT loan down to about $54,455 per bitcoin.",
+      "source": "Unchained",
+      "url": "https://unchainedcrypto.com/nakamoto-gets-extra-year-on-60-million-usdt-kraken-loan-derivatives-count-toward-collateral/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/7b126809530970966fc58838eee8f93da5b21c122b93534fa4be1347d08c3a2e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F50d3523745f58cba81f0dbbc5621ea51.jpg",
+      "published_at": "2026-11-14T02:22:42Z"
+    },
+    {
+      "id": "5afdedd9-b887-36eb-a44c-98eb79da606b",
       "asset": "NVDA",
       "asset_name": "Nvidia",
-      "title": "Dow Jones Futures: Market Rally Shaky As Nvidia Earnings, Anthropic IPO Loom; SpaceX Starship Flight 15 Booster Diverts.",
-      "summary": "The new market rally is isn't giving clear directions. A SpaceX Starship launch is imminent. Nvidia earnings and Anthropic IPO loom.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-earnings-anthropic-ipo-spacex-starship-flight-15/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/c4d5d82ccaa44ca535dba4571e7f6c900532c0f7e1f2288e9d36f9a9cb554084/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F3dbda529b96b82a1b70bb82f037b1f42.jpg",
-      "published_at": "2026-11-13T23:17:33Z"
+      "title": "Can the Anthropic IPO Save the AI Rally?",
+      "summary": "AI stocks have had a rough month. Anthropic's debut offers some hope.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/13/can-the-anthropic-ipo-save-the-ai-rally/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/29af9b7112e60bef4f25ecfddb92ea3b95dccd1b1a0e105630f40b626508b9ba/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0a3b3dbc8eb5cd8ee50bad293597f5af.jpg",
+      "published_at": "2026-11-14T02:20:02Z"
+    },
+    {
+      "id": "bfc9af9a-e0a4-3f54-94e0-1d7db09c3635",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "HIVE Digital Technologies (TSX:HIVE) Stock Sees Fair Value Cut As Analysts Lower Targets",
+      "summary": "The consensus fair value estimate for HIVE Digital Technologies has been cut from CA$8.48 to CA$6.00, signaling a reset in how analysts are framing potential upside. Recent research links this step down in price targets to higher modeled discount rates, financing and construction concerns, and questions around the timing of the AI cloud ramp, even as signed GPU contracts and Bitcoin mining funded growth remain in focus. Read on to see how to follow the evolving HIVE Digital Technologies...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-tsx-hive-021227341.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/c944265abf120b56c5f12125d4f0fcf3cb6f1dfb7c39e5b715e5e9b46835e6f3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Ff9563a7ba9d7550a7453b52641b98e31.jpg",
+      "published_at": "2026-11-14T02:12:27Z"
+    },
+    {
+      "id": "884098ce-004a-3c7d-b8e0-e0923ea5c5db",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Hemlo Mining Corp (HMMCF) (Q3 2026) Earnings Call Highlights: Record Cash Position, Strong Gold ...",
+      "summary": "Hemlo Mining Corp (HMMCF) reported $135.5 million in revenue and $25.5 million in free cash flow while navigating a substation outage and advancing key growth initiatives.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/hemlo-mining-corp-hmmcf-q3-010210603.html",
+      "thumbnail": "",
+      "published_at": "2026-11-14T01:02:10Z"
+    },
+    {
+      "id": "370f976e-8bc3-3eab-88d4-c7ff837e5e8d",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Oil India Ltd (BOM:533106) (Q2 2027) Earnings Call Highlights: Record Half-Year EBITDA of ...",
+      "summary": "Oil India Ltd (BOM:533106) posted its highest-ever H1 EBITDA, PBT and PAT on strong crude realizations and a 20% YoY output increase, even as gas ramp-up and NRL pipeline timelines slipped.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-india-ltd-bom-533106-010136397.html",
+      "thumbnail": "",
+      "published_at": "2026-11-14T01:01:36Z"
+    },
+    {
+      "id": "90ff934b-5ba1-33eb-abdf-062d30ac951b",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Insight Enterprises Inc (NSIT) (Q3 2026) Earnings Call Highlights: AI-Driven Demand Fuels 34% ...",
+      "summary": "Insight Enterprises Inc (NSIT) posted 20% gross profit growth and lifted its 2026 guidance, as surging AI infrastructure and cloud demand offset margin pressure and anticipated Q4 moderation.",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/insight-enterprises-inc-nsit-q3-010120715.html",
+      "thumbnail": "",
+      "published_at": "2026-11-14T01:01:20Z"
+    },
+    {
+      "id": "12abe2ce-a107-3180-94f9-46ef4dd9d026",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Basin rig count up two as prices decline",
+      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 275 rigs active in the region. A year ago, 253 rigs were active in the region. Nationally, the oil and gas rig count is down three from last week at 601 rigs. A year ago, 549 rigs were active. The count shows that 463 rigs sought oil, unchanged from the previous week, and 127 explored ...",
+      "source": "Odessa American, Texas",
+      "url": "https://www.oaoa.com/?p=377998",
+      "thumbnail": "",
+      "published_at": "2026-11-14T01:01:00Z"
+    },
+    {
+      "id": "98cd8292-6ace-320a-8219-b6ed1e8eb0b0",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Zero To Sixty: Tesla Winds Down Cybertruck, Pulls Model Y Variant While Rivian, Lucid Chase Volumes",
+      "summary": "Tesla is winding down Cybertruck production by summer 2027 to free capacity for Cybercab while Rivian and Lucid chase volume with cheaper offerings.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-winds-down-cybertruck-pulls-model-y-variant-while-rivian-lucid-chase-volumes-in-ev-updates-this-week/cNb2AojR9QP",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/3da844df7dd615111432f6eabe68ac65403d580c9e843e1c32c215d7ad5f8e0a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fcd1fe6e09bc9dd10fd08d52c1424602e.jpg",
+      "published_at": "2026-11-14T00:45:56Z"
+    },
+    {
+      "id": "1b33cba8-f32c-36e2-bb8d-72b73d6b42d9",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Is Apple Stock a Buy Right Now?",
+      "summary": "Apple is hitting new highs, but it could go even higher.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/13/is-apple-stock-a-buy-right-now/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/8b2649ac9008469a504fb74974ddfbdf811b5790dc9a9212da0bc294f494315b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F2a4ad0a4f62c54fd755d551820ff984f.jpg",
+      "published_at": "2026-11-14T00:27:00Z"
+    },
+    {
+      "id": "af009271-6ba5-3732-b56c-ff03a52edd12",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028?",
+      "summary": "One of these three coins could multiply a $5,000 stake several times over by 2028, while another could shrink it by nearly half. Supply growth, stalled ETF money, and a few quiet platform changes decide which one wins.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/13/what-could-5000-xrp-5000-cardano-and-5000-stellar-be-worth-by-2028/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/57b7f7f237cd9dca74886cfd07e851cb28ebca18dae4a6e83886ed4e2783ae0b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F52a15e000003b91d32e23d00e613037a.jpg",
+      "published_at": "2026-11-14T00:22:33Z"
+    },
+    {
+      "id": "f751341c-dad2-3afb-a37e-d47d7337b89d",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "Will ETF Buying Change Meta Stock Narrative",
+      "summary": "Large ETFs including SPY, XLC and SPYM recently added to Meta Platforms positions over several days, alongside fresh fixed income offerings and expanded sustainability agreements tied to green steel, clean cement and zero emission trucking. The combination of strong ETF buying and growing use of AI to sharpen Meta Platforms advertising engine reinforces how central data driven ad performance remains to the business story, even as it layers on heavy capex and new financing to fund AI and...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-buying-change-meta-stock-002017757.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/231dfbf51d1cca0096bec1fec1610e257bbb84b1ec2ebe37a48385f638efd902/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fe70faf69adb58a11417039c474d60f34.jpg",
+      "published_at": "2026-11-14T00:20:17Z"
+    },
+    {
+      "id": "fe5de79a-fe80-3f31-bca4-f2b870b63f59",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development",
+      "summary": "Pfizer (NYSE:PFE) announced a partnership with Blackstone Life Sciences to co-fund late stage development of berobenatide, its GLP-1 obesity drug candidate. The arrangement provides up to $1.5b in development funding for berobenatide, focused on chronic weight management and obesity related conditions. Pfizer keeps full operational control of berobenatide, while Blackstone Life Sciences receives milestone based economics linked to the program's progress. This berobenatide funding deal with...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/pfizer-pfe-secures-1-5-001937225.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/75ec0f2163adb2b2a4c079850073069363250fb22ff14a91a3233a19be197fdf/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fa865c39793ea528c9880a9220e62ff90.jpg",
+      "published_at": "2026-11-14T00:19:37Z"
+    },
+    {
+      "id": "757386d4-450c-30ed-9401-48386e6889b4",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+      "summary": "It was the workplace equivalent of a snow day, pushing some to frustration, some to the telephone. One man built bookshelves.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/5adea98d25409a0472caca66a6e614882a390f05b58a6e3d05651a925089bc10/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2Fae6760dce67c948fd091849a4b56cc07.jpg",
+      "published_at": "2026-11-14T00:04:00Z"
+    },
+    {
+      "id": "1dd48d14-432b-3ad6-8cd7-b997e7773851",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus",
+      "summary": "Nvidia saw its worst week since April last year after Jensen Huang stepped down as CEO, and its board is looking for candidates.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-nvidia-turmoil-but-record-best-week-since-august-spcx-nvda-arm-azn-in-focus/cNbRj3uR9Q2",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/b2e17b86dc3ee2d61826053be549e1c18158a752121dd493c123c9bfefcc3f25/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fc133121ea0cfc3982e5b323d39173cd3.jpg",
+      "published_at": "2026-11-13T23:37:29Z"
+    },
+    {
+      "id": "36fe3a28-f89b-3746-9191-2d58c274ba77",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows",
+      "summary": "Glassnode says 7.12 million BTC have visible public keys. Robinhood, Binance and Satoshi's coins top the exposure list.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/one-third-bitcoin-supply-faces-quantum-risk/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/3c373c59774aea566fcec89ed272458a0a36323ebb31027eee02f6807b5eddd9/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F21a667e606fdc09b9a9b95d44c0b4776.jpg",
+      "published_at": "2026-11-13T23:30:00Z"
+    },
+    {
+      "id": "45eabfa7-dae1-3fd7-80f5-a2e030ddd41d",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "Why G Mining Ventures Stock Is Up 9.9% And What's Next After Earnings Results",
+      "summary": "G Mining Ventures reported third quarter 2026 sales of US$172.73 million and net income of US$99.5 million, with nine month sales of US$469.79 million and net income of US$251.83 million compared with the prior year. The latest figures show higher nine month sales and earnings per share than a year earlier, while the single quarter net income and per share metrics were lower than the same period in 2025. This provides a mixed snapshot of short term profitability versus year to date...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-g-mining-ventures-stock-231325141.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/474e3cb656ad5691fc30663860287245a28cccfe6314fcd9f75b40b7b4e0806b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fa804a82b740daf6b6ceae753a2922fc3.jpg",
+      "published_at": "2026-11-13T23:13:25Z"
     },
     {
       "id": "09d362e7-4087-38a3-aa28-db1449cac32c",
@@ -70,6 +257,28 @@
       "published_at": "2026-11-13T22:54:56Z"
     },
     {
+      "id": "ba2605ab-963c-3c6b-975c-7b68113e59b6",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Stocks to Watch Recap: Nvidia, AMD, Microsoft",
+      "summary": "🔎 Microsoft (MSFT): A major global outage in the software giant’s Microsoft 365 services extended into Friday.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/stocks-to-watch-microsoft-nvidia-amd-jWz6wdWH2eBxwM91bJ6m?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/94b87368377b835499c66ce36114b911a5499e60a4d2f2f922089fd08548067a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2F5cccb802f2d61ec866f2394e4a208f7a.jpg",
+      "published_at": "2026-11-13T22:51:22Z"
+    },
+    {
+      "id": "dd07dfd9-d4d6-36e0-ab81-0c0f47efd273",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Nvidia Suffers Biggest Weekly Market Cap  Decline on Record",
+      "summary": "Nvidia’s market cap dropped below $4 trillion Friday after the company suffered the largest weekly market cap loss on record.",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/nvidia-braces-for-biggest-weekly-market-cap-decline-on-record-JcfwFNhoTtGpQenCU5Ft?siteid=yhoof2&yptr=yahoo",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/f33b1630682fdd440ddb8668bf384257b7aeaae8821557ec05694a08deb2b46d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2F7b2c285183be07ca3c4e8242b25a59a8.png",
+      "published_at": "2026-11-13T22:29:08Z"
+    },
+    {
       "id": "cc5d5e85-79cd-4e8b-82ad-cc8c49caa433",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -79,17 +288,6 @@
       "url": "https://finance.yahoo.com/video/nvidias-competitors-pounce-and-what-gpu-rental-prices-say-about-the-ai-race-221551379.html",
       "thumbnail": "https://s.yimg.com/lo/mysterio/api/5903b2d5ba0d837b8533eba3b32f092a8fc27593049195c03b124bf18d71bf49/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdb-show1113site_4521.jpg",
       "published_at": "2026-11-13T22:15:51Z"
-    },
-    {
-      "id": "1bb9a595-afa3-39f3-81e4-d49ac32fd3cc",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Cipher Digital (CIFR) Stock Looks Stretched As AI Infrastructure Rally Lifts Interest",
-      "summary": "Cipher Digital has been through a wild few years, with the stock swinging sharply in both directions. The obvious question now is whether the current share price still lines up with what its sales can support. With the spotlight back on data center and bitcoin mining plays, investors are asking how much of Cipher Digital’s revenue potential is already reflected in that US$7.15 close. Over the past 3 years, Cipher Digital has delivered a share price gain of about 188.9%. That puts real weight...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-cifr-stock-looks-221522804.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/03365799f73ba633f82382ba9bb252da0e44a6a4efe11ad7f4af184eaeae0ad2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F43e1667cb7476cb45f84db58a8de8d48.jpg",
-      "published_at": "2026-11-13T22:15:22Z"
     },
     {
       "id": "228897f6-8ec2-3f7e-983d-2ba8c5158c68",
@@ -103,28 +301,6 @@
       "published_at": "2026-11-13T22:14:24Z"
     },
     {
-      "id": "5320ea39-b186-36f7-b3d6-568e574e4bf6",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "With Nvidia Floundering, AI Bulls Need More Than Spending. Watch Revenue.",
-      "summary": "Capital spending shows what AI companies are building. Revenue per gigawatt offers clues to demand for that computing power.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-floundering-ai-bulls-4173db07?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/c3acc221ac7a5eeac24e1aed875e662611ed401178e928fa9f3359f8be034832/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2Fe9fe0d28e6296dff06ddf7ca7d288ae5.jpg",
-      "published_at": "2026-11-13T22:13:00Z"
-    },
-    {
-      "id": "53d89832-7151-33fe-80fa-72681891ca56",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Twenty One Capital Inc Q3 2026 Earnings Call Summary",
-      "summary": "Moby summary of Twenty One Capital Inc's Q3 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-twenty-one-capital-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "",
-      "published_at": "2026-11-13T22:11:16Z"
-    },
-    {
       "id": "964e5a44-2e88-4259-841e-d2f9a9d8cdf3",
       "asset": "NVDA",
       "asset_name": "Nvidia",
@@ -134,182 +310,6 @@
       "url": "https://finance.yahoo.com/video/how-the-nvidia-scandal-impacts-uschina-relations-department-of-defense-cto-220649347.html",
       "thumbnail": "https://s.yimg.com/lo/mysterio/api/72e60b2ba6ff7ed9e69c9ce26a1d673926ecf2c6dd711e9ccd7572403384ac27/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fyahoo-finance-interview-with-flags_0085.png",
       "published_at": "2026-11-13T22:06:49Z"
-    },
-    {
-      "id": "cc8fa38b-4256-38fc-aa1b-de3456563b55",
-      "asset": "ETH",
-      "asset_name": "Ethereum",
-      "title": "Ledger and the Metadata Your Hardware Wallet Sends After You Sign – Uneasy Money",
-      "summary": "Greg Markou, co-founder and CEO of Sprinter and a former Ethereum core dev, says Ledger’s signing SDK sends metadata to its servers after you sign, a step he calls “completely unnecessary.”",
-      "source": "Unchained",
-      "url": "https://unchainedcrypto.com/ledger-and-the-metadata-your-hardware-wallet-sends-after-you-sign-uneasy-money/",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/60b666ac686a05ffe6f00d51dc0687b7487ba39990386bf66efa918dd679e216/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funchained_510%2F9487ec204be0d91114e12357a836b99c.png",
-      "published_at": "2026-11-13T22:00:50Z"
-    },
-    {
-      "id": "7d7afe14-b6f6-3e24-8927-a049097cff7f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on oil rigs, crude futures, Korea Electric Power and more in the latest Market Talks covering energy and utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-723bb970?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/f49181879e1fd893191bd047c6609cd01a8d4ee0d581608585560601ab04aa8d/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2Fe25d463a39335bf4ef6c6c8c19071fa3.jpg",
-      "published_at": "2026-11-13T21:55:00Z"
-    },
-    {
-      "id": "deff4ff2-6d09-3b4f-a08f-d508eec745b2",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "What Does Dominion Energy Offer That NiSource Does Not?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "source": "Trefis",
-      "url": "https://www.trefis.com/stock/ni/articles/624951/what-does-dominion-energy-offer-that-nisource-does-not/2026-11-13",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/9b99ed0f0000022147178cd0d6b10f7550f668835f8fa6763aba97050711082c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftrefis_142%2F91128cb6ffb2380d31cf2f752c6950e9.jpg",
-      "published_at": "2026-11-13T21:51:00Z"
-    },
-    {
-      "id": "59c1380c-6194-35f8-be3b-4a6a3148bfa4",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
-      "summary": "The Dow Jones index fell Friday despite cooler-than-expected inflation data. AI giant Nvidia continued to fall.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ppi-inflation-data-cerebras-earnings/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/2981fbf806da435005212324ada2ba8e0aecb2dfda63c9cd5bc6e8fe970fd95a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F55ca4252bd7c66820fc61ce444908e68.jpg",
-      "published_at": "2026-11-13T21:49:53Z"
-    },
-    {
-      "id": "2a8477f2-e586-392e-a00b-a48d248f2c40",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Digi Power X Inc. Q3 2026 Earnings Call Summary",
-      "summary": "Moby summary of Digi Power X Inc.'s Q3 2026 earnings call",
-      "source": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-digi-power-x-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d30ee2f8c78a1bcfd29b0236968ae9955af581460df2f2dd4b6c32c64f82ff0e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F29e27d5f59637b5e96fdca587f60fe53.png",
-      "published_at": "2026-11-13T21:44:52Z"
-    },
-    {
-      "id": "00d73871-4c74-3adb-95a4-1a0ac2ea77d1",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says",
-      "summary": "Analyst touts the potential benefits of combining SpaceX's AI offerings, Tesla robotics as merger expectations grow.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/spacex-tesla-merger-grok-optimus-robotics-engineering-starship-spcx-stock-tsla/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/10e70a97fcdbaa1ffa5ba2408ad4ea1f2a95680a427fc4fdaf66b6cb1abbdc15/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F1828afeb806d892f756fcb8399a1de6b.jpg",
-      "published_at": "2026-11-13T21:43:23Z"
-    },
-    {
-      "id": "fa0293c5-bebc-3c34-924d-04a0b56c1b18",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
-      "summary": "Microsoft rose even as a global outage across the company’s tools impact millions of people.",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-9a030e1c?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/941e500479f12e913a9d83e9bb66f5690bd30fd82a8b75426fe9e5e126655f58/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBarrons.com%2Fd63d27dde1769452b8cd940a155906bc.jpg",
-      "published_at": "2026-11-13T21:40:00Z"
-    },
-    {
-      "id": "e7bc6c50-0cc3-391a-bbaa-5013ed53bf5a",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Strong Dollar, Rate Hike Bets Weigh on Gold This Year, But Commodity Strategists Bullish Long Term",
-      "summary": "A stronger dollar and expectations of monetary policy tightening have taken some shine off gold this",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/strong-dollar-rate-hike-bets-213244314.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/a06d6b7407edfc7c96e316f75fac292e8a12503c95e00be1bc9fa15ab96a05a2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmt_newswires_premium_news_706%2F329f2ea470994782ce6fdd045d9e8588.jpg",
-      "published_at": "2026-11-13T21:32:44Z"
-    },
-    {
-      "id": "8ca356c3-1c14-360b-9a24-4a8c436191ae",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "SpaceX Could Announce a Deal for Tesla as Soon as December. Here's What It Would Do to SpaceX Stock.",
-      "summary": "Tesla would add around two-thirds of the combined sales. What would that do to the rocket maker's growth?",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/13/spacex-could-announce-a-deal-for-tesla-as-soon-as-december-here-s-what-it-would-do-to-spacex-stock/",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/8c08f79262a296e76964bf30afd4af3f689b4429cb11931912669694b900ca36/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F02e66705d2bef3a0d1b996057f016828.png",
-      "published_at": "2026-11-13T21:32:02Z"
-    },
-    {
-      "id": "6a842173-29f0-3a4b-9fa6-411bd804e914",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
-      "summary": "Millions of Americans are exposed to Nvidia shares through their retirement plans. That's not as bad as it sounds (really!).",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/7953d72255915e2989f1865ccee3986bd2963fd4b63485ef7389c72c657dadcb/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fe98f960be06f2a523b0948d43692b3fb.jpg",
-      "published_at": "2026-11-13T21:32:01Z"
-    },
-    {
-      "id": "5cc32f1c-2d6c-4f16-b373-4c8c2a4ca2bf",
-      "asset": "NVDA",
-      "asset_name": "Nvidia",
-      "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
-      "summary": "Deirdre Bosa outlines how various AI companies are storming the AI castle and searching for Nvidia (NVDA) alternatives, such as Cerebras' (CBRS) deal with Microsoft (MSFT).",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/cerebras-stock-surges-on-microsoft-deal-what-it-means-for-nvidia-213123807.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/cc279241adc617266fc55b870e29d1c4ae6568ad391dc53acd9c63be3a8b4ca7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F4ea1cee3-0cff-4599-9cb4-afbbc3d3f49c_b4f6f98fc3ab1cd152b98b441465e229081659f550915515bd4ab4aecf6bb16e.jpg",
-      "published_at": "2026-11-13T21:31:23Z"
-    },
-    {
-      "id": "73edad69-37a4-351f-8167-d85680007ab8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why Stephens Upgraded Oracle (ORCL)",
-      "summary": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and Oracle (NYSE:ORCL) ranked 10th on this list. US stocks edged lower Thursday, snapping a rebound that had lifted the S&P 500 1.3% a day earlier. The S&P 500 fell 0.35% to 7,592.40, the Dow Jones Industrial Average slipped 0.36% […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-stephens-upgraded-oracle-orcl-213119416.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/4b8bd2d079b8675ab9f22f72b81d2cb9fbfbd4793a3f3940ea840fb3b6945a7f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa987bc78a8e5d4048e3c5224aecb7090.jpg",
-      "published_at": "2026-11-13T21:31:19Z"
-    },
-    {
-      "id": "ff185a0d-61c9-3f2c-94b8-d9a952390460",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "The Deal Behind TD Cowen’s Downgrade of Marvell (MRVL)",
-      "summary": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and Marvell Technology (NASDAQ:MRVL) ranked 9th on this list. US stocks edged lower Thursday, snapping a rebound that had lifted the S&P 500 1.3% a day earlier. The S&P 500 fell 0.35% to 7,592.40, the Dow Jones Industrial Average slipped […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deal-behind-td-cowen-downgrade-213101784.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d49ccdf28b1f2deb8062b27477a0b375a9c836ea2d76bde37065b51b423df160/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fde77ec1fbe46c7869bd544717acf6801.jpg",
-      "published_at": "2026-11-13T21:31:01Z"
-    },
-    {
-      "id": "83d3043a-0d5c-3425-b900-017d73c83cd8",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Why BofA Calls CoreWeave (CRWV) Funding Needs “Manageable”",
-      "summary": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and CoreWeave (NASDAQ:CRWV) ranked 7th on this list. US stocks edged lower Thursday, snapping a rebound that had lifted the S&P 500 1.3% a day earlier. The S&P 500 fell 0.35% to 7,592.40, the Dow Jones Industrial Average slipped 0.36% […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-calls-coreweave-crwv-213023720.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/bb22c28de3287d59bf523c126ab7ee3c617eced3c5b45f69357c9aa3092022dc/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fde467bbff3b1c81a42782c86f3c564c2.jpg",
-      "published_at": "2026-11-13T21:30:23Z"
-    },
-    {
-      "id": "b19ffc44-407f-37aa-a285-a179ac567c6f",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "What Bernstein Sees in Micron (MU) After the Memory Selloff",
-      "summary": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and Micron Technology (NASDAQ:MU) ranked 6th on this list. US stocks edged lower Thursday, snapping a rebound that had lifted the S&P 500 1.3% a day earlier. The S&P 500 fell 0.35% to 7,592.40, the Dow Jones Industrial Average slipped […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/53531ce9dbe04e178946a402ee252a52231eb2dd60a0cefd02cec654df198462/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1489ff0a46fcd275e32302bd21aa1f9d.jpg",
-      "published_at": "2026-11-13T21:30:06Z"
-    },
-    {
-      "id": "521449e7-b8fa-3792-b378-680ea96bb91d",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "A $1,999 Sellout. What China Renaissance Sees in Apple (AAPL)",
-      "summary": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Wednesday and Apple (NASDAQ:AAPL) ranked 10th on this list. October consumer prices rose 0.4%, the third straight monthly gain of at least 0.4%, according to data reported by Reuters. Economists polled by the outlet had expected 0.3%. Core inflation, which excludes […]",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-999-sellout-china-renaissance-211310813.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/034ba3c6836607cdee1acdb2b60004e7a10af1b9ad9ad73bb5441c54be199304/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff7b3d5bf0b3c5442141341e739eacff5.jpg",
-      "published_at": "2026-11-13T21:13:10Z"
     }
   ]
 }
