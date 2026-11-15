@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 22:49 UTC",
+  "last_updated": "2026-11-15 23:17 UTC",
   "total": 37,
   "ok": 37,
   "prices": {
@@ -7,45 +7,45 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "decimals": 0,
-      "price": 63635.05859375,
-      "change": -6.76,
-      "base": 68249.2734375,
+      "price": 64951.83984375,
+      "change": 1.28,
+      "base": 64128.05078125,
       "status": "ok"
     },
     "ETH": {
       "symbol": "ETH",
       "name": "Ethereum",
       "decimals": 0,
-      "price": 1752.22998046875,
-      "change": -9.1,
-      "base": 1927.5888671875,
+      "price": 1821.0699462890625,
+      "change": 2.94,
+      "base": 1769.1204833984375,
       "status": "ok"
     },
     "SOL": {
       "symbol": "SOL",
       "name": "Solana",
       "decimals": 2,
-      "price": 69.26000213623047,
-      "change": -11.31,
-      "base": 78.09608459472656,
+      "price": 72.08000183105469,
+      "change": 2.71,
+      "base": 70.1768569946289,
       "status": "ok"
     },
     "BNB": {
       "symbol": "BNB",
       "name": "BNB",
       "decimals": 2,
-      "price": 575.280029296875,
-      "change": -8.6,
-      "base": 629.433349609375,
+      "price": 593.75,
+      "change": 2.13,
+      "base": 581.3782348632812,
       "status": "ok"
     },
     "XRP": {
       "symbol": "XRP",
       "name": "XRP",
       "decimals": 4,
-      "price": 0.9000999927520752,
-      "change": -10.83,
-      "base": 1.009443998336792,
+      "price": 0.968500018119812,
+      "change": 6.08,
+      "base": 0.9130309820175171,
       "status": "ok"
     },
     "GOLD": {
@@ -53,17 +53,17 @@
       "name": "Gold Spot",
       "decimals": 2,
       "price": 3886.300048828125,
-      "change": 0.03,
-      "base": 3885.300048828125,
+      "change": 0,
+      "base": 3886.300048828125,
       "status": "ok"
     },
     "SILVER": {
       "symbol": "SILVER",
       "name": "Silver",
       "decimals": 2,
-      "price": 49.03099822998047,
-      "change": -1.88,
-      "base": 49.97200012207031,
+      "price": 49.12099838256836,
+      "change": 0.18,
+      "base": 49.03099822998047,
       "status": "ok"
     },
     "OIL": {
@@ -71,8 +71,8 @@
       "name": "WTI Crude",
       "decimals": 2,
       "price": 88.55999755859375,
-      "change": -0.2,
-      "base": 88.73999786376953,
+      "change": 0,
+      "base": 88.55999755859375,
       "status": "ok"
     },
     "NATGAS": {
@@ -80,26 +80,26 @@
       "name": "Natural Gas",
       "decimals": 3,
       "price": 3.2300000190734863,
-      "change": -3.29,
-      "base": 3.3399999141693115,
+      "change": 0,
+      "base": 3.2300000190734863,
       "status": "ok"
     },
     "COPPER": {
       "symbol": "COPPER",
       "name": "Copper",
       "decimals": 3,
-      "price": 6.079500198364258,
-      "change": -1.67,
-      "base": 6.182499885559082,
+      "price": 6.0904998779296875,
+      "change": 0.18,
+      "base": 6.079500198364258,
       "status": "ok"
     },
     "DXY": {
       "symbol": "DXY",
       "name": "Dollar Index",
       "decimals": 2,
-      "price": 103.41000366210938,
-      "change": 0.23,
-      "base": 103.16999816894531,
+      "price": 103.40599822998047,
+      "change": -0.0,
+      "base": 103.41000366210938,
       "status": "ok"
     },
     "US10Y": {
@@ -126,18 +126,18 @@
       "symbol": "EURUSD",
       "name": "Euro / US Dollar",
       "decimals": 4,
-      "price": 1.1050212383270264,
-      "change": -0.41,
-      "base": 1.1095207929611206,
+      "price": 1.1024142503738403,
+      "change": -0.24,
+      "base": 1.1050212383270264,
       "status": "ok"
     },
     "GBPUSD": {
       "symbol": "GBPUSD",
       "name": "British Pound / US Dollar",
       "decimals": 4,
-      "price": 1.3231364488601685,
-      "change": -0.34,
-      "base": 1.3276686668395996,
+      "price": 1.3211784362792969,
+      "change": -0.15,
+      "base": 1.3231364488601685,
       "status": "ok"
     },
     "USDJPY": {
@@ -153,9 +153,9 @@
       "symbol": "USDTRY",
       "name": "US Dollar / Turkish Lira",
       "decimals": 2,
-      "price": 50.28192901611328,
-      "change": 0.06,
-      "base": 50.25389862060547,
+      "price": 50.3508,
+      "change": 0.14,
+      "base": 50.2823,
       "status": "ok"
     },
     "SPY": {
@@ -199,8 +199,8 @@
       "name": "S&P 500 Futures",
       "decimals": 2,
       "price": 7583.0,
-      "change": -0.42,
-      "base": 7615.25,
+      "change": 0,
+      "base": 7583.0,
       "status": "ok"
     },
     "NQ": {
@@ -208,8 +208,8 @@
       "name": "Nasdaq Futures",
       "decimals": 2,
       "price": 28034.75,
-      "change": -1.23,
-      "base": 28384.5,
+      "change": 0,
+      "base": 28034.75,
       "status": "ok"
     },
     "DAX": {
@@ -261,9 +261,9 @@
       "symbol": "HSI",
       "name": "Hong Kong Hang Seng",
       "decimals": 2,
-      "price": 23637.6,
+      "price": 23637.599609375,
       "change": -1.55,
-      "base": 24008.6,
+      "base": 24008.55078125,
       "status": "ok"
     },
     "AAPL": {
