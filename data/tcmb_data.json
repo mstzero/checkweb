@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18 01:39 UTC",
+  "last_updated": "2026-11-19 01:16 UTC",
   "source": "TCMB EVDS3",
   "source_urls": {
     "en_cok_takip_edilenler": "https://evds3.tcmb.gov.tr/igmevdsms-dis/sk-seriler",
@@ -13,8 +13,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "18-11-2026",
-      "latest_value": 50.294,
+      "latest_date": "19-11-2026",
+      "latest_value": 50.3184,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -30,8 +30,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "18-11-2026",
-      "latest_value": 55.3062,
+      "latest_date": "19-11-2026",
+      "latest_value": 55.2064,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -123,7 +123,7 @@
       "description": "",
       "chart_title": "Cari İşlemler Hesabı",
       "comment": "Grafik, Cari İşlemler Hesabının aylık ve 12 aylık hareketli toplam verisini göstermektedir. ",
-      "order": 86,
+      "order": 87,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0Nzg3ZGI1Mjc3NzQ1NDhlYmQ1/tr"
     },
     {
@@ -131,7 +131,7 @@
       "description": "",
       "chart_title": "Yurt Dışı Yerleşiklerin Menkul Kıymet Portföy Hareketleri (Milyon ABD doları)",
       "comment": "Grafik, yurt dışı yerleşiklerin portföyünde bulunan hisse senedi, devlet iç borçlanma senetleri (DİBS), genel yönetim ve genel yönetim haricindeki sektörlerin yurt dışı ihraçlarının değişimlerini bir arada göstermektedir. \nGrafikteki serileri oluşturmak için EVDS’de Menkul Kıymet İstatistikleri konu başlığı altında yer alan Yurt Dışı Yerleşikler Menkul Kıymet Portföyü veri grubundaki serilerin verileri kullanılmıştır. ",
-      "order": 88,
+      "order": 89,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0NmZmYTZlZDc0NGFhNzVjMjI0/tr"
     },
     {
@@ -139,7 +139,7 @@
       "description": "Yıllık Yüzde Değişim",
       "chart_title": "Parasal Büyüklükler (yıllık yüzde değişim)",
       "comment": "Grafik, M1 ve M3 para arzlarındaki yıllık yüzde değişimi göstermektedir. M1 en dar para arzı tanımı olup dolaşımdaki para ve vadesiz mevduatlardan oluşmaktadır. Geniş para arzı M3 ise M1e vadeli mevduatlar, repodan sağlanan fonlar, para piyasası fonları ve vadesi 2 yıla kadar olan ihraç edilen menkul kıymetler eklenerek elde edilmektedir. \nHazırlayan: TCMB Veri Yönetişimi ve İstatistik Genel Müdürlüğü, Parasal İstatistikler Müdürlüğü (parasal.veriler@tcmb.gov.tr)",
-      "order": 89,
+      "order": 90,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0NjBiY2UyZmIwZjhhNjE3ODVk/tr"
     },
     {
@@ -147,16 +147,16 @@
       "description": "Yıllık Yüzde Değişim",
       "chart_title": "Banka Kartı ve Kredi Kartı Harcamaları",
       "comment": "Grafik, Türkiye’de banka kartı ve kredi kartı ile yapılan harcamalardaki  yıllık yüzde değişim oranını “Toplam” ve “Market ve Alışveriş Merkezi” kategorileri için göstermektedir.\nGrafikteki seriler için EVDS’de Parasal ve Finansal İstatistikler konu başlığı altında yer alan “Banka Kartı ve Kredi Kartı Harcama Tutarı” tablosu kullanılmıştır. \nHazırlayan: TCMB Veri Yönetişimi ve İstatistik Genel Müdürlüğü, Parasal İstatistikler Müdürlüğü (parasal.veriler@tcmb.gov.tr)",
-      "order": 91,
+      "order": 92,
       "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjI0OGViY2UyZmIwZjhhNjE3ODYw/tr"
     },
     {
-      "title": "TÜFE ve Temel Göstergeler (yıllık yüzde değişim)",
-      "description": "Yıllık Yüzde Değişim",
-      "chart_title": "TÜFE ve Temel Göstergeler",
-      "comment": "Grafik Tüketici Fiyat Endeksi (TÜFE) ile Özel Kapsamlı TÜFE Göstergeleri adı altında oluşturulan B ve C tanımlı endeksleri birarada göstermektedir. B tanımlı endeks TÜFE’den işlenmemiş gıda ürünleri, enerji, alkollü içkiler ve tütün ile altın kalemlerinin çıkarılmasıyla ulaşılan, C tanımlı endeks ise TÜFE’den enerji, gıda ve alkolsüz içecekler, alkollü içkiler ile tütün ürünleri ve altın kalemlerinin çıkarılmasıyla ulaşılan göstergelerdir.",
-      "order": 93,
-      "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/Njk3MjFkYjhmYTZlZDc0NGFhNzVjMWQ5/tr"
+      "title": "Finansal Hesaplar Toplam Borç-GSYH Oranı",
+      "description": "Yüzde",
+      "chart_title": "Sektörlerin Toplam Borcunun GSYİH Oranı",
+      "comment": "Grafik, yurtiçinde yerleşik sektörlerin kullandıkları krediler ve ihraç ettikleri borçlanma senetlerinin toplamından oluşan, finansal hesaplar tanımlı toplam borcun GSYİH’ye oranını göstermektedir. Grafik incelendiğinde, finansal olmayan kuruluşların ekonomide en yüksek borç oranına sahip sektör olduğu, onu sırasıyla genel hükümet, finansal kuruluşlar ve hanehalkı sektörlerinin izlediği görülmektedir.",
+      "order": 95,
+      "url": "https://evds3.tcmb.gov.tr/dashboards/portlet/NmE0N2UwOTJhOWYzNjk2NDlmNmNmMTk2/tr"
     }
   ],
   "central_bank_watchlist": [
@@ -167,8 +167,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "18-11-2026",
-      "latest_value": 50.294,
+      "latest_date": "19-11-2026",
+      "latest_value": 50.3184,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -185,8 +185,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "18-11-2026",
-      "latest_value": 55.3062,
+      "latest_date": "19-11-2026",
+      "latest_value": 55.2064,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -349,8 +349,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "18-11-2026",
-      "latest_value": 50.294,
+      "latest_date": "19-11-2026",
+      "latest_value": 50.3184,
       "previous_value": null,
       "change": null,
       "change_pct": null,
@@ -366,8 +366,8 @@
       "group": "Kur",
       "unit": "Türk lirası",
       "decimals": 4,
-      "latest_date": "18-11-2026",
-      "latest_value": 55.3062,
+      "latest_date": "19-11-2026",
+      "latest_value": 55.2064,
       "previous_value": null,
       "change": null,
       "change_pct": null,
