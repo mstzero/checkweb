@@ -1,8 +1,173 @@
 {
-  "last_updated": "2026-11-27 23:11 UTC",
+  "last_updated": "2026-11-28 04:50 UTC",
   "source": "Yahoo Finance via yfinance",
   "total": 28,
   "news": [
+    {
+      "id": "6e351d31-7bb0-3ec6-9787-9a6deda91eb9",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Chamath Palihapitiya Warns AI’s ‘Alien Mathematics’ Could Break Bitcoin As AI Tackles 167-Year-Old Riemann Hypothesis",
+      "summary": "Bitcoin's signatures rely on elliptic curves, a math problem different from RSA's but Chamath Palihapitiya warned that AI could find new ways to to break both encryption systems far sooner than previously expected.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/chamath-palihapitiya-ai-alien-mathematics-bitcoin-riemann-hypothesis/cNRRnyYR9VN",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/00a98c5d7160a769c0834b8b9e8dc4f3ef498ea648c47cfa19838c86e71906bc/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F597196c599cad0f1666891512bbfc438.jpg",
+      "published_at": "2026-11-28T04:00:03Z"
+    },
+    {
+      "id": "1f4f6b1a-8996-3042-b35f-6c0efd26b216",
+      "asset": "MSFT",
+      "asset_name": "Microsoft",
+      "title": "Are recent outages bad for software?",
+      "summary": "Investing.com -- Recent system outages could weigh on consumption-based infrastructure software companies heading into 2027, though the broader software sector appears relatively insulated, according to Bernstein.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/recent-outages-bad-software-033947446.html",
+      "thumbnail": "",
+      "published_at": "2026-11-28T03:39:47Z"
+    },
+    {
+      "id": "424971f0-9ef9-366a-b7c4-82b48065cd8a",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "3 Hydrogen Stocks With Earnings Growth Up To 62%",
+      "summary": "Oil prices are back in focus as supply risks in the Middle East keep energy costs elevated, which puts low carbon power tech in a brighter spotlight for investors seeking long term alternatives. Hydrogen fuel cell players sit at the point where rising energy prices and cleaner power meet. This article breaks down three hydrogen fuel cell technology stocks from our screener that could help you gain targeted exposure to that theme. The three hydrogen fuel cell stocks covered next are just a...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/3-hydrogen-stocks-earnings-growth-031246450.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/502cef98362800c6324d567949e8b29490a687e09ad46749a4be5f50ff8c46fd/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F43a4a574f37c8b7ab132c9910d2b183d.jpg",
+      "published_at": "2026-11-28T03:12:46Z"
+    },
+    {
+      "id": "e9cf7f4c-23a2-385e-bb39-6569a6fe6e28",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "PDI Gold (ASX:PDI) Secures Final Guinea Permits, Is The Stock Cheap?",
+      "summary": "PDI Gold (ASX:PDI) has just cleared a major hurdle by securing final exploitation permits for its Bankan and Mansounia projects in Guinea. This approval allows construction and mining activities to formally move ahead. The permits arrive as PDI Gold trades at A$4.11, with the stock posting a 4.58% 1 day share price return and a 12.60% year to date share price gain. The 1 year total shareholder return of 29.45% and very large 3 and 5 year total shareholder returns hint that investors have been...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pdi-gold-asx-pdi-secures-031107080.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/f1971e4f91ba5cafd4895677a30bb45e73e1a9b6856347805ed59a338fbfa5a3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F458559082245f3e3e142761485ce89d1.jpg",
+      "published_at": "2026-11-28T03:11:07Z"
+    },
+    {
+      "id": "72d1c51a-936d-389e-a813-79e971f9dee1",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?",
+      "summary": "Amazon, Alphabet, and Meta Platforms have pushed their free cash flow into the negative due to AI spending, while Apple has continued to generate cash.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/27/apple-is-beating-the-rest-of-the-magnificent-seven-in-2026-can-it-do-it-again-in-2027/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/cbd9bd69ead7f05bbd1a2c7339be3e31219c9821d5d2b11c437dbc64854af6a2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffd8626a8b67fb3f1e192f00fbc18e349.jpg",
+      "published_at": "2026-11-28T01:19:10Z"
+    },
+    {
+      "id": "7175896d-fc06-36bd-99cc-908ef613f216",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+      "summary": "The stock that's held up best belongs to the slowest grower of the three.",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/27/vanguard-s-growth-etf-has-3-stocks-making-up-more-than-a-third-of-it-only-1-has-held-up-in-the-tech-sell-off/",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/57f8e27ff7b754c2ab862f477b2e358bf79b50b995332e2e1aa71dc98d575f3b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F95a1fa2bda36b985a913184b3a1fb7d1.png",
+      "published_at": "2026-11-28T01:09:02Z"
+    },
+    {
+      "id": "a2afd946-5018-310f-bfeb-5d5c82bbb9d2",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'",
+      "summary": "OpenAI and Apple are suing each other for stealing as the race to develop AI products fuels competition for talent and technology.",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-says-spy-handed-apple-010000370.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/7266c53a451b6165bf79da87aefa49bae04eb17c33978a70776d7b5df7d5c187/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F58e22893ad5d39cc8fc6ffe9f09512ee.jpg",
+      "published_at": "2026-11-28T01:00:00Z"
+    },
+    {
+      "id": "2d9fded5-f997-3666-a817-e31a7597a7f9",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
+      "summary": "Investing.com -- Global smartphone shipments are expected to decline 5% in 2027 following a projected 14% contraction in 2026, with Apple (NASDAQ:AAPL) positioned to gain market share, according to Bernstein.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/2027-smartphone-market-outlook-apple-003322633.html",
+      "thumbnail": "",
+      "published_at": "2026-11-28T00:33:22Z"
+    },
+    {
+      "id": "c4c61a46-a0dd-3327-b655-abd01db62f54",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Veteran economist says Bitcoin holders have little to brag about this Thanksgiving",
+      "summary": "Peter Schiff pokes at HODLers as Bitcoin trades about a third lower than a year ago.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/veteran-economist-says-bitcoin-holders-have-little-to-brag-about-this-thanksgiving",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/e89f96d42bb935db43ee7cb29c1b2e1c51ade984516be823644bfd3d3f9f9735/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fa85c7c5ca49606e372627468aac183ed.jpg",
+      "published_at": "2026-11-28T00:30:00Z"
+    },
+    {
+      "id": "59d3b59c-ab98-3fde-b457-121d7d67708b",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "NIO And 2 Other Top EV Stocks",
+      "summary": "Oil prices are back in focus as supply risks in the Middle East keep energy costs elevated, and that puts a spotlight on cleaner transport. Electric vehicle and battery producers sit right at that crossroads between energy security and the move away from fuel. If you care about where the next wave of auto and powertrain spending could go, this piece walks through three stocks from our electric mobility screen that are worth a closer look. The three EV and battery stocks below are just a...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/nio-2-other-top-ev-001507883.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/85001d116e04a474c5610fa5d277eab416436056c997b017b510e1ec86e16be8/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fe1d2958911aca9b4d18f5f4312094fab.jpg",
+      "published_at": "2026-11-28T00:15:07Z"
+    },
+    {
+      "id": "c18f812b-91ee-3d92-bdd5-f7028e1a3220",
+      "asset": "GOLD",
+      "asset_name": "Gold",
+      "title": "i-80 Gold (TSX:IAU) Moved Today, What Is Behind The Attention?",
+      "summary": "i-80 Gold (TSX:IAU) has reached a key operational milestone by mining its first gold and beginning production mining at the Archimedes underground project on the Ruby Hill property in Nevada. Against that operational progress, i-80 Gold’s share price has moved sharply in recent sessions, with a 1-day share price return of 3.73% and a 7-day gain of 15.17%. However, the 90-day share price return is down 35.02% and the 3-year total shareholder return is down 26.11%. This suggests that short-term...",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/80-gold-tsx-iau-moved-001252144.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/474e3cb656ad5691fc30663860287245a28cccfe6314fcd9f75b40b7b4e0806b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fa804a82b740daf6b6ceae753a2922fc3.jpg",
+      "published_at": "2026-11-28T00:12:52Z"
+    },
+    {
+      "id": "29b8e5f1-7d88-35b4-b7f5-03aeb167bdd6",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
+      "summary": "Tesla’s Cybercab fleet topped 1,000 units in Texas as it expanded in Dallas, while Lucid began fully driverless testing and U.S.-listed Chinese EV makers reported improving margins and modest growth outlooks.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/6c0a6338de08c0c5be60eecc25e42f6774be65e2297419b37f1cd691bdd7b06b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fcba0b07bd32b8b1856e81e6701b47915.jpg",
+      "published_at": "2026-11-28T00:12:27Z"
+    },
+    {
+      "id": "edd70755-68cb-367e-852f-86144d1aa7c2",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Analyst flags December correction before January breakout",
+      "summary": "Michaël van de Poppe maps a path through $72,000 and a final dip before a $100,000 push in 2027.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-flags-december-correction-before-january-breakout",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/a25b98fae5eb413ea1ee07ecfc14dd0320396522aefb5b5406f03ac121599050/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F624157deb454f9f77e567dd9ba59ecae.jpg",
+      "published_at": "2026-11-28T00:00:00Z"
+    },
+    {
+      "id": "54b7415b-3b69-332f-b08e-27c68229de68",
+      "asset": "BTC",
+      "asset_name": "Bitcoin",
+      "title": "Bitcoin took Thanksgiving off, going 98 minutes without a block",
+      "summary": "The wait was the longest since July and the 69th longest since 2011, and no transaction fee could have sped it up.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-took-thanksgiving-off-going-98-minutes-without-a-block",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/c44dc87aafebcd53c09fa02f7cb7540b30a74d7e9f2d0111a97fdf22245a381b/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F097441b5905d4e706405966fc72679a2.jpg",
+      "published_at": "2026-11-28T00:00:00Z"
+    },
+    {
+      "id": "a4558d8d-ff35-303d-95d3-c2037db87a1e",
+      "asset": "TSLA",
+      "asset_name": "Tesla",
+      "title": "Texas Is Racing to Approve SpaceX’s $24 Billion Starbase Data Center Before Its New Governor Can Halt It",
+      "summary": "Key TakeawaysOne of Texas’s first data-center permits since its freeze went to the gas plant powering SpaceX’s $24 billion Starbase campus, ahead of Governor-elect Gina Hinojosa, who plans to halt approvals when she takes office in January. Starbase’s own gas plant keeps it off the public grid.",
+      "source": "TIKR",
+      "url": "https://www.tikr.com/blog/texas-is-racing-to-approve-spacexs-24-billion-starbase-data-center-before-its-new-governor-can-halt-it?ref=yahoofinance&tlnk=yf-261127-5cjgmqwx",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/b5c97212c00ee04b9f8420e8b0c1fbce2e5a0e4207a3f81b6b42c483ed8a7fcf/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F941ce07d9729fa2185972bb2873ab1fc",
+      "published_at": "2026-11-27T23:20:02Z"
+    },
     {
       "id": "71edbab8-b0fa-3c3c-ac4e-742374644bee",
       "asset": "MSFT",
@@ -15,6 +180,17 @@
       "published_at": "2026-11-27T21:37:57Z"
     },
     {
+      "id": "f8eafc53-8bb2-30a5-bc83-ca02250cac59",
+      "asset": "SPY",
+      "asset_name": "S&P 500 ETF",
+      "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+      "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/ac8cbc215a3194e3677e4785e35ea6c4d9156cc7c30405084e8d62dcd2c104ca/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F18e63a504d02822193c26b0f7840a2a1.jpg",
+      "published_at": "2026-11-27T21:29:46Z"
+    },
+    {
       "id": "79950181-0df5-35d5-be64-bedf0cb223f8",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -24,6 +200,17 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
       "thumbnail": "https://s.yimg.com/lo/mysterio/api/a2f31ec7276b33171cd9155b830f1661c4af8eb1b462b1495c919b1d292ad11c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9471d1316f3cd27c53134af80ae8294f.jpg",
       "published_at": "2026-11-27T21:28:56Z"
+    },
+    {
+      "id": "2d7cc2b0-f8d2-38b5-8944-dca0183c2354",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Soybeans Rally on the Short Friday Session",
+      "summary": "Soybeans shot higher on the hard 8:30 am CST open, with contracts 18 1/4 to 23 1/4 cents higher at Friday’s close, with the weekly gain at 45 ½ cents. The cmdtyView national average Cash Bean price was up 21 3/4 cents at $12.09 1/4. Soymeal futures rallied $3.80 to...",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/9037388/soybeans-rally-on-the-short-friday-session",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/cd9fd442f3990a89133c785425db6549d5849079a22cf5f3a15a430a0b3d407e/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F68383ddf017ca74d3bc633bfbc022e0b.jpg",
+      "published_at": "2026-11-27T21:14:09Z"
     },
     {
       "id": "16548d8f-c0e1-3f33-ba6c-11c2e0ddb8e8",
@@ -48,6 +235,17 @@
       "published_at": "2026-11-27T20:47:00Z"
     },
     {
+      "id": "07f7f5a6-c3ff-36fd-8e4b-f8f926506b9e",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Market Swings Spooked Retail Traders—And Lifted CME Group Up 18%",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/options/articles/market-swings-spooked-retail-traders-204136574.html",
+      "thumbnail": "",
+      "published_at": "2026-11-27T20:41:36Z"
+    },
+    {
       "id": "90c3b2dd-c364-3328-a683-704db0dfea73",
       "asset": "AAPL",
       "asset_name": "Apple",
@@ -70,6 +268,17 @@
       "published_at": "2026-11-27T20:20:00Z"
     },
     {
+      "id": "f7d6975e-c8c4-39cd-99de-0572b8350e2c",
+      "asset": "AAPL",
+      "asset_name": "Apple",
+      "title": "OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers",
+      "summary": "OpenAI has countersued Apple in California, the FT reported, alleging trade secret theft and supplier coercion.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/cNb65s2R9Vi",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/a0d03f5dbad1451dccd981d91479fee884c9d12bb6e165ac20ed6b20f01315bb/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F621708901c81af33ec2721d020eb0743.jpg",
+      "published_at": "2026-11-27T20:13:53Z"
+    },
+    {
       "id": "0ec7eba4-eec2-3c08-a2e9-96e9f24c8496",
       "asset": "OIL",
       "asset_name": "WTI Crude",
@@ -81,6 +290,17 @@
       "published_at": "2026-11-27T20:12:39Z"
     },
     {
+      "id": "36dd6b20-f802-3bd2-aa49-89244356a345",
+      "asset": "OIL",
+      "asset_name": "WTI Crude",
+      "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
+      "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early advance on Friday and settled mixed. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher...",
+      "source": "Barchart",
+      "url": "https://www.barchart.com/story/news/9036917/crude-prices-retreat-on-possible-increase-in-opec-crude-output",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d9f1eed1b4e19340d2fb41559aa1c82d11bb92aa4e46546a38ef8b67fd35520a/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F3b410facdb2b50b2ef594196eec5ce56.jpg",
+      "published_at": "2026-11-27T20:11:14Z"
+    },
+    {
       "id": "d94d8723-3273-33cc-930c-7de2adfb6a25",
       "asset": "MSFT",
       "asset_name": "Microsoft",
@@ -90,226 +310,6 @@
       "url": "https://www.trefis.com/stock/pltr/articles/629344/should-you-pick-palantir-over-its-big-tech-rivals/2026-11-27",
       "thumbnail": "",
       "published_at": "2026-11-27T19:59:21Z"
-    },
-    {
-      "id": "72fab60a-31ef-36c2-a792-1e9697e5adab",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
-      "summary": "The company has submitted deal plans to Germany’s competition authority without providing details of the transaction, Automotive World reported on Friday.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-best-week-in-18-months-tesla-reportedly-eyes-buying-german-toolmaker-amid-cybercab-optimus-scaling-plans/cNb6PBlR9VL",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/f72eeb23efe55be68ca8edef80e3a38f1e73bf9330fdbe4dab41afb485ccf586/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F4963bf4a1e80b6d75804aa97d196d2b3",
-      "published_at": "2026-11-27T19:55:54Z"
-    },
-    {
-      "id": "5b917298-e5b5-3d87-b1fa-f7cad345af64",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
-      "summary": "In a wild, powerful market week, Tesla stock leads new buys. Nvidia's Jensen Huang is heading to Capitol Hill.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-move-tesla-new-buys-nvidia-ceo-jensen-huang-congress/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/bb0cac6bec8bbee7a87a91f9e320d858a0d8806b9a7059dd48f5c8c61fd4e5ca/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F630529e8a1faf673467f584d5c177982.jpg_up.jpg",
-      "published_at": "2026-11-27T19:54:29Z"
-    },
-    {
-      "id": "88b21b70-d916-3e6e-8cfc-8225f8cbee31",
-      "asset": "AAPL",
-      "asset_name": "Apple",
-      "title": "Amazon, Target and Walmart Chase Holiday Toy Spending",
-      "summary": "Popular toys, gaming consoles and electronic devices are driving competition among retailers during the holiday shopping season.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-target-walmart-chase-holiday-195308961.html",
-      "thumbnail": "",
-      "published_at": "2026-11-27T19:53:08Z"
-    },
-    {
-      "id": "b368041f-723f-3dc9-8ad4-0bee25de4ad8",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
-      "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/68733e4ca3bab626711a594902fc60f27d8f16e902b2d702e0445a6b777c0adb/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fe14777f8f2f5d36519a851b238996391.jpg",
-      "published_at": "2026-11-27T19:46:02Z"
-    },
-    {
-      "id": "738b198d-f74d-3572-8c4c-6d37971ec64c",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy Transfer Heads These 3 Top Pipeline Stocks To Watch",
-      "summary": "Oil is back in the spotlight as supply worries from tanker attacks and refinery outages push prices higher, and attention shifts to how crude actually moves from field to port. When transport capacity becomes more valuable, infrastructure that moves oil and gas for a fee can attract fresh interest from investors hunting for resilient cash flows. This article walks through three pipeline operators from our US midstream screener that are worth a closer look. The three stocks in this article are...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/energy-transfer-heads-3-top-191152076.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/caa8d29d091255ca141250b88aaa1a48fb817578856d0d70fab3d8d474464728/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F67885479098ef92882ca7baf0fcdb08a.jpg",
-      "published_at": "2026-11-27T19:11:52Z"
-    },
-    {
-      "id": "86a4597f-ee47-3048-ae92-1a56fa4711e5",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
-      "summary": "The Dow Jones index and the Nasdaq composite rose in Friday's post-Thanksgiving session. Anthropic, SpaceX and Tesla gain.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-anthropic-spacex-tesla/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/37d8acc919ba244facd89e314b398433030e026c7085042e6cc2f22a8b79a6d0/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F6681ba47464c8e51c9d4e56a07440051.jpg_up.jpg",
-      "published_at": "2026-11-27T19:10:43Z"
-    },
-    {
-      "id": "e91f368f-74e9-3337-809d-c2c5d50e6b4d",
-      "asset": "GOLD",
-      "asset_name": "Gold",
-      "title": "Ora Banda Mining And 2 Australian Growth Stocks To Watch",
-      "summary": "Fresh expectations of higher US interest rates have reset the mood for growth investing, putting a spotlight on balance sheets that can handle tougher funding conditions. That is where a group of high potential Australian growth stocks becomes interesting. Analysts see strong revenue and earnings expansion alongside relatively low financial strain. This article walks through three standouts from that pool and what sets each one apart. The three stocks highlighted next are only a small sample...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ora-banda-mining-2-australian-191024613.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/f1971e4f91ba5cafd4895677a30bb45e73e1a9b6856347805ed59a338fbfa5a3/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F458559082245f3e3e142761485ce89d1.jpg",
-      "published_at": "2026-11-27T19:10:24Z"
-    },
-    {
-      "id": "7ee05861-a302-3f81-a91c-35f073a51ea8",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
-      "summary": "The analyst fair value estimate for IREN has shifted from US$56.69 to US$52.74, pointing to a modest reset in the price target used in current valuation work. This updated view comes against a backdrop of sharp share price swings following IREN’s Q1 update, moves in Microsoft’s capex guidance, and sentiment shifts around AI cloud infrastructure tied to Nvidia’s GPU ecosystem. As you read on, you will see how these valuation changes fit into the broader IREN story and what to watch as the...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-nasdaqgs-iren-stock-sees-190922720.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/03365799f73ba633f82382ba9bb252da0e44a6a4efe11ad7f4af184eaeae0ad2/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F43e1667cb7476cb45f84db58a8de8d48.jpg",
-      "published_at": "2026-11-27T19:09:22Z"
-    },
-    {
-      "id": "4c64abb0-2527-3b09-8d99-9fde81154206",
-      "asset": "SPY",
-      "asset_name": "S&P 500 ETF",
-      "title": "Fidelity Counted 654,000 401(k) Millionaires in the Third Quarter of 2025, Up From 544,000 a Year Earlier",
-      "summary": "Seven-figure 401(k) accounts are multiplying, yet the typical saver holds a fraction of that. The age-by-age balances and one long-term habit reveal how wide the gap runs and what separates the two groups.",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/11/27/fidelity-counted-654000-401k-millionaires-in-the-third-quarter-of-2025-up-from-544000-a-year-earlier/",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/790f3a06d73fdebe609b301f659c722decad6be0fbd39202dd1324e9e6c73f4f/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff5ba84c720f3afee7c4ce7cf28e13006.jpg",
-      "published_at": "2026-11-27T19:03:16Z"
-    },
-    {
-      "id": "6f3e2d6d-374b-3f3f-83a4-0cbdd1522dab",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Viking, IBD Stock Of The Day, Is Cruising Toward Buy Points After Scraping Bottom",
-      "summary": "Stock Of The Day: Low river levels hit Viking over the summer, but travel stocks are rebounding with easing oil prices.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/viking-stock-buy-points-travel-oil-prices/?src=A00220&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/ff1dafd09cdb3afc7ce093725fae7467934409fe8342ad259f71e849ca909d98/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibd.com%2F2b37c73121e6c10edf76fa49a4bdecfc.png_up.jpg",
-      "published_at": "2026-11-27T18:53:05Z"
-    },
-    {
-      "id": "1d2ccf22-ab5b-398c-988b-ae04c51fd416",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
-      "summary": "Internal memos show Microsoft overhauling Microsoft 365 reliability after a near 24-hour outage hit Outlook, Teams and Copilot worldwide.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-rise-0-26-182320294.html",
-      "thumbnail": "",
-      "published_at": "2026-11-27T18:23:20Z"
-    },
-    {
-      "id": "88d4c13f-8d19-37c2-86e2-fb0d6e2eb26e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
-      "summary": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
-      "source": "decrypt",
-      "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/a473c23b1066afb1b7e8cd53c3418264361497df716defadd5a00b01b544dbbe/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F24b8f3a0ec9df2bc1a0983cc893fc063.png",
-      "published_at": "2026-11-27T18:16:03Z"
-    },
-    {
-      "id": "c4ef457d-6681-31eb-b684-0c2b71e80e4d",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "summary": "Find insight on oil futures, Serica Energy and more in the latest Market Talks covering energy and utilities.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?siteid=yhoof2&yptr=yahoo",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/ba54f36be3091a31f97583f306a9e1f9b0faa3c46587b43d64f96a60338a524c/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsj.com%2F9cee3055653f78e05d9d745ae3992e27.jpg_up.jpg",
-      "published_at": "2026-11-27T18:15:00Z"
-    },
-    {
-      "id": "0b8991e8-930b-34bc-89da-65943a8b5812",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Coinbase CEO issues bullish Bitcoin prediction as inflation fears grow",
-      "summary": "Brian Armstrong says rising money printing keeps Bitcoin relevant, even as investors rotate into big IPOs.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/coinbase-ceo-issues-bullish-bitcoin-warning-as-inflation-fears-grow",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d1f4817c7a88b2d5514af6546cb074daf474d096629e3bc54408d58fa045bbc4/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F6821a5b3f96b2731953bae64ead522f8.jpg",
-      "published_at": "2026-11-27T18:14:46Z"
-    },
-    {
-      "id": "d4efb328-28a5-3a96-bad2-2a58b4a3e71f",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Tesla Takes 1.2M SF at Houston’s Cedar Port Industrial Park",
-      "summary": "Tesla signed a 1.2 million-square-foot-plus lease at Cedar Port Industrial Park near Baytown, though its plans for the space remain unclear.",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/tesla-takes-1-2m-sf-at-houstons-cedar-port-industrial-park/",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/8929ad8151a44e3e4fdcbe9dba3806dc5f095a49cb670f676ccc1df9ccad8cf7/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcre_daily_340%2F2ad1f4134d722bb8a4d49c34b53532ee_up.jpg",
-      "published_at": "2026-11-27T18:11:54Z"
-    },
-    {
-      "id": "31e03247-a997-3857-b081-b8b5776ca485",
-      "asset": "TSLA",
-      "asset_name": "Tesla",
-      "title": "Dow Adds 592 Points on Black Friday as AI Fear Fades: Stock Market Today",
-      "summary": "A rally that started late during Wednesday's trading session followed through all the way into the Thanksgiving weekend.",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/stocks/dow-adds-592-points-on-black-friday-as-ai-fear-fades-stock-market-today",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/eb802c399862f70abf161503ba72e5a4d5c1caeafa4f1e0bdb0602aa71a595ec/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkiplinger_425%2F9c8a441dccc1a3c2b1b83c1bf8d9699d.jpg",
-      "published_at": "2026-11-27T18:11:31Z"
-    },
-    {
-      "id": "cda1af19-9b66-317d-9611-c3a7e12cb965",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
-      "summary": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's...",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-alphabet-googl-prove-air-181025421.html",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/f05a1b375b3354d27628eb36801effc5299ebf479fcee6357a21eddd79690371/lightyear_networkapi/resizefill_w170_h128/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F469c3bd184f0e63e1a342b17de1569a4.jpg",
-      "published_at": "2026-11-27T18:10:25Z"
-    },
-    {
-      "id": "a29acf96-7881-3d90-b917-3b38206e531c",
-      "asset": "MSFT",
-      "asset_name": "Microsoft",
-      "title": "Franklin Templeton Flags Hidden Risk in S&P 500 Investing",
-      "summary": "Wall Street's biggest growth story comes with a catch.",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-templeton-flags-hidden-risk-180023148.html",
-      "thumbnail": "",
-      "published_at": "2026-11-27T18:00:23Z"
-    },
-    {
-      "id": "b1fb12cc-f85b-3930-9aec-bdedc92cceb7",
-      "asset": "OIL",
-      "asset_name": "WTI Crude",
-      "title": "US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks",
-      "summary": "US equity indexes were higher Friday amid a broad-based rally, with consumer discretionary and techn",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-higher-amid-175904719.html",
-      "thumbnail": "",
-      "published_at": "2026-11-27T17:59:04Z"
-    },
-    {
-      "id": "09ba7308-16c3-3eb9-8283-56f66907e09e",
-      "asset": "BTC",
-      "asset_name": "Bitcoin",
-      "title": "Sector Update: Financial Stocks Higher Friday Afternoon",
-      "summary": "Financial stocks were advancing in Friday afternoon trading, with the NYSE Financial Index rising 1.",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-friday-175851334.html",
-      "thumbnail": "",
-      "published_at": "2026-11-27T17:58:51Z"
     }
   ]
 }
